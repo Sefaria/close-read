@@ -1,0 +1,32 @@
+[
+{
+    "slug": "cain-abel-birth-records",
+    "title": { "he": "קין והבל: תעודות הלידה", "en": "Cain and Abel: The Birth Records" },
+    "author": { "he": "ג׳ודי קליצנר", "en": "Judy Klitsner" },
+    "description": "Literary analysis of Genesis 4:1–2 — Ta'amei HaPardes, Pardes Institute"
+  },
+  {
+    "slug": "shemini-5731",
+    "title": { "he": "פרשת שמיני תשל״א", "en": "Parashat Shemini 5731" },
+    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
+    "description": "Through Those Close to Me I Am Sanctified — Leviticus 10:3"
+  },
+  {
+    "slug": "yitro-5730",
+    "title": { "he": "פרשת יתרו תש״ל", "en": "Parashat Yitro 5730" },
+    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
+    "description": "Visiting the Iniquity of Parents upon Children — Exodus 20:5"
+  },
+  {
+    "slug": "kedoshim-5731",
+    "title": { "he": "פרשת קדושים תשל״א", "en": "Parashat Kedoshim 5731" },
+    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
+    "description": "Do Not Go Talebearing — Leviticus 19:16"
+  },
+  {
+    "slug": "minhag-overview",
+    "title": { "he": "מנהג: סקירה כללית", "en": "Minhag: Overview" },
+    "author": { "he": "צבי הירשפלד", "en": "Zvi Hirschfield" },
+    "description": "The authority of custom in Jewish law — Talmud Pesachim"
+  }
+]

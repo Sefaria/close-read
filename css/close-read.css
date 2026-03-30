@@ -1,0 +1,754 @@
+/* ═══════════════════════════════════════
+   Close Read: Torah Study
+   Light theme, readable typography
+   ═══════════════════════════════════════ */
+
+/* --- Reset & Base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --color-bg: #faf8f4;
+  --color-bg-warm: #f5f0e8;
+  --color-bg-card: #ffffff;
+  --color-text: #2a2520;
+  --color-text-secondary: #5c554b;
+  --color-text-muted: #8a8279;
+  --color-text-dimmed: #c4bdb4;
+  --color-accent: #8b5e3c;
+  --color-accent-soft: rgba(139, 94, 60, 0.1);
+  --color-accent-underline: rgba(139, 94, 60, 0.35);
+  --color-highlight: #8b5e3c;
+  --color-highlight-bg: rgba(139, 94, 60, 0.08);
+  --color-highlight-2: #2e6b8a;
+  --color-highlight-2-bg: rgba(46, 107, 138, 0.08);
+  --color-rashi: #9e5a2a;
+  --color-rashi-bg: rgba(158, 90, 42, 0.07);
+  --color-ramban: #3a7a4a;
+  --color-ramban-bg: rgba(58, 122, 74, 0.07);
+  --color-ibn-ezra: #3a5a9e;
+  --color-ibn-ezra-bg: rgba(58, 90, 158, 0.07);
+  --color-midrash: #7a4a7a;
+  --color-midrash-bg: rgba(122, 74, 122, 0.07);
+  --color-question: #8b5e3c;
+  --color-border: rgba(0, 0, 0, 0.08);
+  --color-border-strong: rgba(0, 0, 0, 0.15);
+  --color-shadow: rgba(0, 0, 0, 0.06);
+  --font-hebrew: 'Frank Ruhl Libre', 'David Libre', 'SBL Hebrew', serif;
+  --font-english: 'Crimson Text', 'Georgia', serif;
+  --font-ui: 'Inter', -apple-system, sans-serif;
+  --ease-smooth: cubic-bezier(0.25, 0.1, 0.25, 1);
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-english);
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+/* --- Title Screen --- */
+.title-screen {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  position: relative;
+  background: var(--color-bg-warm);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.title-screen .title-he {
+  font-family: var(--font-hebrew);
+  font-size: clamp(2.8rem, 6vw, 4.5rem);
+  font-weight: 700;
+  color: var(--color-text);
+  direction: rtl;
+  margin-bottom: 0.3em;
+}
+
+.title-screen .title-en {
+  font-family: var(--font-english);
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
+  color: var(--color-text-secondary);
+  font-style: italic;
+  margin-bottom: 1.5em;
+}
+
+.title-screen .subtitle-he {
+  font-family: var(--font-hebrew);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  color: var(--color-accent);
+  direction: rtl;
+  margin-bottom: 0.3em;
+}
+
+.title-screen .subtitle-en {
+  font-family: var(--font-english);
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  color: var(--color-text-muted);
+  font-style: italic;
+  margin-bottom: 2em;
+}
+
+.title-screen .author-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.2rem;
+  color: var(--color-text-muted);
+  direction: rtl;
+}
+
+.title-screen .author-en {
+  font-family: var(--font-english);
+  font-size: 1.05rem;
+  color: var(--color-text-muted);
+  margin-bottom: 3em;
+}
+
+.scroll-hint {
+  position: absolute;
+  bottom: 2rem;
+  animation: pulse-down 2s ease-in-out infinite;
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  font-family: var(--font-ui);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.scroll-hint::after {
+  content: '';
+  display: block;
+  width: 1px;
+  height: 40px;
+  background: linear-gradient(to bottom, var(--color-text-muted), transparent);
+  margin: 0.5rem auto 0;
+}
+
+@keyframes pulse-down {
+  0%, 100% { opacity: 0.4; transform: translateY(0); }
+  50% { opacity: 0.8; transform: translateY(5px); }
+}
+
+/* --- Section Structure --- */
+.cr-section {
+  position: relative;
+}
+
+.section-title-card {
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.section-title-card .section-title-he {
+  font-family: var(--font-hebrew);
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: var(--color-accent);
+  direction: rtl;
+  margin-bottom: 0.3em;
+}
+
+.section-title-card .section-title-en {
+  font-family: var(--font-english);
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+/* --- Scrollytelling Layout --- */
+.scroll-container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+
+.primary-text-area {
+  position: sticky;
+  top: 0;
+  width: 60%;
+  height: 100vh;
+  margin-left: auto;
+  order: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 30;
+  background: var(--color-bg);
+  padding: 2.5rem 2.5rem 2.5rem 3rem;
+  border-left: 1px solid var(--color-border);
+  box-shadow: -4px 0 20px var(--color-shadow);
+  overflow: hidden;
+}
+
+.primary-text-content {
+  text-align: center;
+  max-width: 100%;
+  width: 100%;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.6s var(--ease-smooth), transform 0.6s var(--ease-smooth);
+  position: absolute;
+  pointer-events: none;
+}
+
+.primary-text-content.active {
+  opacity: 1;
+  transform: translateY(0);
+  position: relative;
+  pointer-events: auto;
+}
+
+.primary-text-content.fading-out {
+  opacity: 0;
+  transform: translateY(-10px);
+}
+
+.primary-ref {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  margin-bottom: 1.2rem;
+}
+
+.primary-ref a {
+  color: var(--color-text-muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--color-text-muted);
+  transition: color 0.2s;
+}
+
+.primary-ref a:hover {
+  color: var(--color-accent);
+}
+
+.primary-he {
+  font-family: var(--font-hebrew);
+  font-size: clamp(1.5rem, 2.8vw, 2.2rem);
+  line-height: 1.9;
+  direction: rtl;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+  transition: color 0.5s var(--ease-smooth);
+}
+
+.primary-en {
+  font-family: var(--font-english);
+  font-size: clamp(1.15rem, 2vw, 1.4rem);
+  line-height: 1.8;
+  color: var(--color-text-secondary);
+  font-style: italic;
+  transition: color 0.5s var(--ease-smooth);
+}
+
+/* --- Comparison Mode --- */
+.primary-text-content.comparison-mode {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+.comparison-side {
+  flex: 1;
+  text-align: center;
+  padding: 1.5rem;
+  border-radius: 8px;
+  background: var(--color-bg-warm);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+}
+
+.comparison-mode .primary-he {
+  font-size: clamp(1.4rem, 3vw, 2rem);
+}
+
+.comparison-mode .primary-en {
+  font-size: clamp(1rem, 1.8vw, 1.2rem);
+}
+
+.comparison-side .primary-ref {
+  margin-bottom: 0.75rem;
+}
+
+.comparison-vs {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  align-self: center;
+  letter-spacing: 0.1em;
+}
+
+/* --- Word Highlighting --- */
+.word-group {
+  transition: all 0.5s var(--ease-smooth);
+  border-radius: 3px;
+  padding: 1px 3px;
+  margin: 0 -3px;
+}
+
+.word-group.highlighted {
+  color: var(--color-highlight);
+  background: var(--color-highlight-bg);
+  border-bottom: 2px solid var(--color-accent-underline);
+}
+
+.word-group.dimmed {
+  color: var(--color-text-muted);
+  opacity: 1;
+}
+
+.word-group.glow {
+  background: var(--color-accent-soft);
+  border-bottom: 2px solid var(--color-accent);
+  font-weight: 500;
+}
+
+.word-group.pulse {
+  animation: word-pulse 2.5s ease-in-out infinite;
+}
+
+@keyframes word-pulse {
+  0%, 100% { background: var(--color-highlight-bg); }
+  50% { background: var(--color-accent-soft); }
+}
+
+/* When highlights are active, dim un-wrapped text */
+.has-highlights .primary-he,
+.has-highlights .primary-en {
+  color: var(--color-text-muted);
+}
+
+.has-highlights .word-group.highlighted {
+  color: var(--color-highlight);
+}
+
+/* Second highlight color for comparisons */
+.comparison-side:nth-child(3) .word-group.highlighted {
+  color: var(--color-highlight-2);
+  background: var(--color-highlight-2-bg);
+  border-bottom-color: rgba(46, 107, 138, 0.4);
+}
+
+.comparison-side:nth-child(3) .word-group.glow {
+  background: var(--color-highlight-2-bg);
+  border-bottom-color: var(--color-highlight-2);
+}
+
+/* --- Commentary Cards --- */
+.step-track {
+  position: relative;
+  z-index: 10;
+  width: 40%;
+  order: 1;
+  padding: 0 1.5rem;
+}
+
+.step-card {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+}
+
+.step-card:first-child {
+  padding-top: 30vh;
+  min-height: 80vh;
+}
+
+.step-card:last-child {
+  padding-bottom: 20vh;
+}
+
+.card-inner {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 2rem 2.5rem;
+  width: 100%;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s var(--ease-smooth), transform 0.5s var(--ease-smooth);
+  box-shadow: 0 2px 12px var(--color-shadow);
+}
+
+.step-card.is-active .card-inner {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Commentary source label */
+.source-label {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.3em 0.8em;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.source-label { background: var(--color-accent-soft); color: var(--color-accent); }
+.source-label[data-source="Rashi"] { background: var(--color-rashi-bg); color: var(--color-rashi); }
+.source-label[data-source="Ramban"] { background: var(--color-ramban-bg); color: var(--color-ramban); }
+.source-label[data-source="Ibn Ezra"] { background: var(--color-ibn-ezra-bg); color: var(--color-ibn-ezra); }
+.source-label[data-source="Bereshit Rabbah"],
+.source-label[data-source="Aggadat Bereishit"],
+.source-label[data-source="Tanchuma"] { background: var(--color-midrash-bg); color: var(--color-midrash); }
+
+.source-ref {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  margin-left: 0.5em;
+}
+
+.source-ref a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--color-text-muted);
+}
+
+.source-ref a:hover {
+  color: var(--color-accent);
+}
+
+/* Commentary text */
+.card-text-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.2rem;
+  line-height: 2;
+  direction: rtl;
+  color: var(--color-text);
+  margin-bottom: 0.75rem;
+}
+
+.card-text-en {
+  font-family: var(--font-english);
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--color-text-secondary);
+  margin-bottom: 1rem;
+}
+
+/* Annotation / Nechama's framing */
+.card-annotation {
+  border-top: 1px solid var(--color-border);
+  padding-top: 1rem;
+  margin-top: 0.5rem;
+}
+
+.card-annotation-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.05rem;
+  line-height: 1.9;
+  direction: rtl;
+  color: var(--color-accent);
+  margin-bottom: 0.5rem;
+}
+
+.card-annotation-en {
+  font-family: var(--font-english);
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--color-accent);
+  opacity: 0.85;
+  font-style: italic;
+}
+
+/* --- Question Cards --- */
+.step-card[data-type="question"] .card-inner {
+  border-color: var(--color-accent-underline);
+  background: linear-gradient(135deg, var(--color-accent-soft), var(--color-bg-card));
+}
+
+.question-icon {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-question);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.question-icon::before {
+  content: '?';
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6em;
+  height: 1.6em;
+  border-radius: 50%;
+  border: 1.5px solid var(--color-question);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.card-question-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.2rem;
+  line-height: 2;
+  direction: rtl;
+  color: var(--color-text);
+}
+
+.card-question-en {
+  font-family: var(--font-english);
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--color-text-secondary);
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+/* --- Narration Cards --- */
+.step-card[data-type="narration"] .card-inner {
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+  padding: 1.5rem 2rem;
+}
+
+.narration-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.15rem;
+  line-height: 2;
+  direction: rtl;
+  color: var(--color-text-secondary);
+}
+
+.narration-en {
+  font-family: var(--font-english);
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--color-text-muted);
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+/* --- Progress Indicator --- */
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-accent), var(--color-highlight-2));
+  z-index: 100;
+  transform-origin: left;
+  transform: scaleX(0);
+  transition: transform 0.1s linear;
+}
+
+/* --- Section Dots --- */
+.section-nav {
+  position: fixed;
+  left: 1.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.section-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-text-dimmed);
+  transition: all 0.3s var(--ease-smooth);
+  cursor: pointer;
+  border: none;
+  padding: 0;
+}
+
+.section-dot.active {
+  background: var(--color-accent);
+  transform: scale(1.5);
+}
+
+.section-dot:hover {
+  background: var(--color-text-muted);
+}
+
+/* --- Closing --- */
+.closing-screen {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3rem 2rem;
+  background: var(--color-bg-warm);
+  border-top: 1px solid var(--color-border);
+}
+
+.closing-screen .closing-line {
+  width: 40px;
+  height: 1px;
+  background: var(--color-accent);
+  margin-bottom: 2rem;
+}
+
+.closing-screen .closing-text {
+  font-family: var(--font-english);
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.closing-screen .closing-link {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  border-bottom: 1px dotted var(--color-accent);
+}
+
+.closing-screen .closing-link:hover {
+  border-bottom-style: solid;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+  .scroll-container {
+    flex-direction: column;
+  }
+
+  .primary-text-area {
+    width: 100%;
+    height: auto;
+    min-height: 35vh;
+    padding: 1.5rem 1rem;
+    border-left: none;
+    border-bottom: 1px solid var(--color-border);
+    box-shadow: 0 4px 20px var(--color-shadow);
+    order: 1;
+  }
+
+  .step-track {
+    width: 100%;
+    padding: 0 1rem;
+    order: 2;
+  }
+
+  .step-card {
+    min-height: 50vh;
+  }
+
+  .step-card:first-child {
+    padding-top: 5vh;
+  }
+
+  .card-inner {
+    padding: 1.5rem;
+  }
+
+  .primary-text-content.comparison-mode {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .comparison-vs {
+    display: none;
+  }
+
+  .section-nav {
+    right: 0.75rem;
+  }
+
+  .section-dot {
+    width: 6px;
+    height: 6px;
+  }
+}
+
+/* --- Index Page --- */
+.index-list {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 6rem;
+}
+
+.index-card {
+  display: block;
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 2rem 2.5rem;
+  margin-bottom: 1.25rem;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s var(--ease-smooth), box-shadow 0.2s var(--ease-smooth);
+}
+
+.index-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 2px 12px var(--color-shadow);
+}
+
+.index-card-title-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--color-text);
+  direction: rtl;
+  text-align: right;
+  line-height: 1.4;
+}
+
+.index-card-title-en {
+  font-family: var(--font-english);
+  font-size: 1.15rem;
+  color: var(--color-text);
+  margin-top: 0.2rem;
+}
+
+.index-card-author {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-accent);
+  margin-top: 0.6rem;
+}
+
+.index-card-desc {
+  font-family: var(--font-english);
+  font-size: 0.9rem;
+  color: var(--color-text-secondary);
+  margin-top: 0.4rem;
+  font-style: italic;
+}
+
+/* --- Reduced Motion --- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

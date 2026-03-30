@@ -1,0 +1,475 @@
+{
+  "title": {
+    "he": "פרשת קדושים תשל״א",
+    "en": "Parashat Kedoshim 5731",
+    "subtitle": { "he": "לא תלך רכיל", "en": "Do Not Go Talebearing" },
+    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
+    "sourceUrl": "https://www.sefaria.org/sheets/162056",
+    "sourceLabel": "View the original sheet on Sefaria",
+    "questionLabel": { "he": "נחמה שואלת", "en": "Nechama asks" }
+  },
+
+  "sections": [
+    {
+      "id": "section-a",
+      "title": { "he": "א. \"לא תלך רכיל בעמך\"", "en": "A. \"Do Not Go Talebearing Against Your People\"" },
+      "primaryText": {
+        "ref": "Leviticus 19:16",
+        "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ לֹא תַעֲמֹד עַל דַּם רֵעֶךָ אֲנִי יְהֹוָה",
+        "en": "Do not go talebearing against your people; do not stand over the blood of your neighbor, I am the Lord.",
+        "words": {
+          "lo-telekh-rakhil": { "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ", "en": "Do not go talebearing against your people" },
+          "lo-taamod": { "he": "לֹא תַעֲמֹד עַל דַּם רֵעֶךָ", "en": "do not stand over the blood of your neighbor" },
+          "ani-hashem": { "he": "אֲנִי יְהֹוָה", "en": "I am the Lord" },
+          "rakhil": { "he": "רָכִיל", "en": "talebearing" },
+          "be-amekha": { "he": "בְּעַמֶּיךָ", "en": "against your people" }
+        }
+      },
+      "steps": [
+        {
+          "id": "a-intro",
+          "type": "narration",
+          "text": {
+            "he": "פסוק זה מכיל שני איסורים שונים שנחמה בוחנת בפרשייה זו: \"לא תלך רכיל\" ו\"לא תעמוד על דם רעך\". נפתח בחלק הראשון ובמשמעות המילה \"רכיל\".",
+            "en": "This verse contains two distinct prohibitions that Nechama examines in this study sheet: \"Do not go talebearing\" and \"Do not stand over the blood of your neighbor.\" We begin with the first half and the meaning of the word <i>rakhil</i>."
+          }
+        },
+        {
+          "id": "a-sifra",
+          "type": "commentary",
+          "source": "Sifra",
+          "ref": "Sifra, Kedoshim, Chapter 4 5-7",
+          "sourceLabel": { "he": "ספרא", "en": "Sifra" },
+          "text": {
+            "he": "(ה) \"לא תלך רכיל בעמך\" — שלא תהיה רך דברים לזה וקשה לזה. דבר אחר: שלא תהיה כרוכל שהוא מטעים דברים והולך.\n(ו) אמר רבי נחמיה כך הוא מנהגם של דיינים: בעלי דין עומדים לפניהם ושומעים את דבריהם ומוציאים אותם לחוץ ונושאים ונותנים בדבר. גמרו את הדבר הזה מכניסים אותם, הגדול שבדיינים אומר \"איש פלוני אתה זכאי, איש פלוני אתה חייב\".\n(ז) ומנין שכשיצא אחד מן הדיינים לא יאמר \"אני מזכה וחבירי מחייבים אבל מה אעשה ורבו עלי\", לכך נאמר \"לא תלך רכיל בעמך\". וכן הוא אומר \"הולך רכיל מגלה סוד ונאמן רוח מכסה דבר\" (משלי יא, יג)",
+            "en": "5) \"You shall not go <i>rachil</i> among your people\": You shall not be <i>rach</i> (soft) to one and hard to the other. Alternatively: You shall not be like a <i>rochel</i> (a merchant), who bandies words from one place to another.\n6) R. Nechemiah said: This is the practice of the judges: The litigants stand before them and state their cases, after which they are taken outside and the judges deliberate. When they are finished, the litigants are brought back in, and the chief judge says: \"So and so, you are liable.\"\n7) And whence is it derived that if one of the judges goes out, he should not say \"I found for you, but what can I do, my fellow judges are in the majority\"? From \"You shall not go <i>rachil</i> among your people.\" And (Proverbs 11:13) \"He who goes <i>rachil</i> reveals a secret, and the faithful of spirit conceals a thing.\""
+          },
+          "highlight": ["lo-telekh-rakhil"],
+          "annotation": {
+            "he": "הספרא מציע שלושה פירושים שונים למילה \"רכיל\": (1) רך — אל תהיה רך לזה וקשה לזה, (2) רוכל — כסוחר שמעביר דברים, (3) דיין שמגלה סודות הדיון.",
+            "en": "The Sifra offers three different readings of <i>rakhil</i>: (1) <i>rakh</i> — do not be soft to one and harsh to another, (2) <i>rokhel</i> — like a merchant who carries words from place to place, (3) a judge who reveals deliberation secrets."
+          }
+        },
+        {
+          "id": "a-rashi",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Leviticus 19:16:1",
+          "sourceLabel": { "he": "רש\"י", "en": "Rashi" },
+          "text": {
+            "he": "לא תלך רכיל: אני אומר: על שם שכל משלחי מדנים ומספרי לשון הרע הולכים בבית רעיהם לרגל מה יראו רע או מה ישמעו רע לספר בשוק נקראים הולכי רכיל — הולכי רגילה, אשפיימנט בלע\"ז. וראייה לדברי, שלא מצינו רכילות שלא כתוב בלשון הליכה: \"לא תלך רכיל\", \"הולכי רכיל נחושת וברזל\" (ירמיה ו'), ושאר לשון הרע אין כתוב בו לשון הליכה: \"מלשני בסתר רעהו\" (תהילים ק\"א), \"לשון רמיה\" (תהילים ק\"כ), \"לשון מדברת גדולות\" (תהלים י\"ב). לכך אני אומר שהלשון \"הולך ומרגל\", שהכ\"ף נחלפת בגמ\"ל, שכל האותיות שמוצאיהן ממקום אחד מתחלפות זו בזו.",
+            "en": "I say that because all those who sow discord and speak slander go into their friends' houses to spy out what evil they can see or hear, to tell it in the street, they are called <i>holkhei rakhil</i> — people who go about spying (<i>espiement</i> in Old French). My proof is that we never find <i>rekhilut</i> written without the language of \"going\": \"Do not go <i>rakhil</i>\"; \"those who go <i>rakhil</i>, brass and iron\" (Jeremiah 6). But other expressions for slander are not written with \"going\": \"He who slanders his neighbor in secret\" (Psalms 101); \"a deceitful tongue\" (Psalms 120). Therefore I say the expression means \"going and spying\" — the <i>khaf</i> interchanges with <i>gimel</i>, as all letters from the same place of articulation interchange with each other."
+          },
+          "highlight": ["lo-telekh-rakhil", "rakhil"],
+          "effect": "glow",
+          "annotation": {
+            "he": "רש\"י מפרש \"רכיל\" מלשון \"רגל\" — ריגול. הולך רכיל הוא מי שהולך ומרגל בבתי חבריו.",
+            "en": "Rashi interprets <i>rakhil</i> from the root <i>regel</i> — spying. A <i>holekh rakhil</i> is one who goes and spies in the houses of others."
+          }
+        },
+        {
+          "id": "a-ibn-ezra",
+          "type": "commentary",
+          "source": "Ibn Ezra",
+          "ref": "Ibn Ezra on Leviticus 19:16:1",
+          "sourceLabel": { "he": "אבן עזרא", "en": "Ibn Ezra" },
+          "text": {
+            "he": "רגיל: כמו \"רכולתך\" (יחזקאל כ\"ו י\"ב), \"מכל אבקת רוכל\" (שיר השירים ג'), והטעם: מלשין, כי הרוכל מעתיק הסחורה, יקנה מזה וימכור לזה, והרכיל יגלה לזה מה ששמע מזה.",
+            "en": "A talebearer: from the word \"your merchandise\" (Ezekiel 28:16) and also \"with all powders of the merchant\" (Song of Songs 3:6). Here the word denotes a gossiper. Just as a merchant transmits things, buying them here and selling them there, so also does a gossiper transmit things, revealing to one what he heard from another."
+          },
+          "highlight": ["rakhil"],
+          "annotation": {
+            "he": "אבן עזרא, כמו פירוש השני של הספרא, מדמה את הרכיל לרוכל — סוחר שמעביר סחורה מזה לזה.",
+            "en": "Ibn Ezra, like the Sifra's second explanation, compares the talebearer to a merchant — a trader who carries goods from one to another."
+          }
+        },
+        {
+          "id": "a-question-1",
+          "type": "question",
+          "text": {
+            "he": "הסבר מהו ההבדל בין שלושת פירושי הספרא?",
+            "en": "Explain the difference between the three explanations of the Sifra."
+          },
+          "highlight": ["lo-telekh-rakhil"],
+          "effect": "pulse"
+        },
+        {
+          "id": "a-question-2",
+          "type": "question",
+          "text": {
+            "he": "היכן מצא הספרא רמז לפירושו הראשון?",
+            "en": "From where did the Sifra find a clue for its first explanation?"
+          },
+          "highlight": ["rakhil"]
+        },
+        {
+          "id": "a-question-3",
+          "type": "question",
+          "text": {
+            "he": "למה נמנעו פרשנינו רש\"י וראב\"ע (וכן הרשב\"ם והרמב\"ן) מלפרש את פסוקנו לפי הרישא של הספרא?",
+            "en": "Why did our commentators — Rashi and Ibn Ezra (as well as Rashbam and Ramban) — refrain from explaining our verse according to the first part of the Sifra?"
+          },
+          "highlight": ["lo-telekh-rakhil"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-b",
+      "title": { "he": "ב. \"לא תלך רכיל\"", "en": "B. \"Do Not Go Talebearing\"" },
+      "primaryText": {
+        "ref": "Leviticus 19:16",
+        "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ לֹא תַעֲמֹד עַל דַּם רֵעֶךָ אֲנִי יְהֹוָה",
+        "en": "Do not go talebearing against your people; do not stand over the blood of your neighbor, I am the Lord.",
+        "words": {
+          "lo-telekh-rakhil": { "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ", "en": "Do not go talebearing against your people" },
+          "lo-taamod": { "he": "לֹא תַעֲמֹד עַל דַּם רֵעֶךָ", "en": "do not stand over the blood of your neighbor" },
+          "ani-hashem": { "he": "אֲנִי יְהֹוָה", "en": "I am the Lord" }
+        }
+      },
+      "steps": [
+        {
+          "id": "b-intro",
+          "type": "narration",
+          "text": {
+            "he": "מן הפרשנות העתיקה עוברים להלכה למעשה. החפץ חיים מפרט את גדרי האיסור של לשון הרע.",
+            "en": "From ancient commentary we turn to practical law. The Chafetz Chaim details the boundaries of the prohibition against evil speech."
+          }
+        },
+        {
+          "id": "b-chafetz-chaim",
+          "type": "commentary",
+          "source": "Chafetz Chaim",
+          "ref": "Chafetz Chaim, Part One, The Prohibition Against Lashon Hara, Principle 1 5",
+          "sourceLabel": { "he": "חפץ חיים", "en": "Chafetz Chaim" },
+          "text": {
+            "he": "אֵין חִלּוּק בְּאִסוּר הַסִפּוּר, בֵּין אִם סִפֵּר מֵעַצְּמוֹ בִּרְצּוֹנוֹ וּבֵין אִם עָמַד עָלָיו חֲבֵרוֹ בִּדְבָרִים וְהִפְצִּירוֹ עַד שֶׁיְּסַפֵּר לוֹ, מִכָּל מָקוֹם אָסוּר. וַאֲפִלּוּ אָבִיו אוֹ רַבּוֹ, שֶׁמְּחֻיָּב בִּכְבוֹדָם וּבְמוֹרָאָם, שֶׁלֹּא לִסְתֹּר דִּבְרֵיהֶם, אִם הֵם בִּקְּשׁוּ מִמֶּנּוּ שֶׁיְּסַפֵּר לָהֶם עִנְיַן פְּלוֹנִי וּפְלוֹנִי, וְהוּא יוֹדֵעַ, שֶׁבְּתוֹךְ הַסִפּוּר יֻכְרַח לָבוֹא לִידֵי לָשׁוֹן הָרָע אוֹ אֲפִלּוּ רַק לְאָבָק שֶׁל לָשׁוֹן הָרָע, אָסוּר לוֹ לִשְׁמֹעַ לָהֶם.",
+            "en": "There is no difference in the prohibition of speaking lashon hara, whether one speaks it of his own volition or whether his friend stands over him and begs him to tell him — in either case, it is forbidden. And even if his father or his teacher — whom he is obligated to honor and to fear and not to contradict their words — even if they importune him to speak of a certain thing, and he knows that in the midst of the account he will perforce come to speak lashon hara or even only the \"dust\" of lashon hara, he is forbidden to consent."
+          },
+          "highlight": ["lo-telekh-rakhil"],
+          "annotation": {
+            "he": "החפץ חיים מרחיב את האיסור: לא רק דיבור יזום, אלא גם כשמפצירים בך — ואפילו אב או רב.",
+            "en": "The Chafetz Chaim expands the prohibition: not only voluntary speech, but even when pressured — even by a parent or teacher."
+          }
+        },
+        {
+          "id": "b-question-1",
+          "type": "question",
+          "text": {
+            "he": "בעל חפץ חיים מביא כהוכחה לראשית דבריו (\"ובין אם עמד עליו חברו בדברים והפצירו\") את מעשה דואג (שמואל א' כ\"א, כ\"ב ו' – י\"ט). הסבר כיצד פרק כ\"ב הנ\"ל עשוי להוכיח דין זה?",
+            "en": "The author of Chafetz Chaim cites the story of Doeg (I Samuel 21, 22:6-19) as a proof for the beginning of his words (\"or whether his friend stands over him and begs him to tell him\"). Explain how Chapter 22 of I Samuel is meant to be a proof for this law."
+          },
+          "highlight": ["lo-telekh-rakhil"],
+          "effect": "pulse"
+        },
+        {
+          "id": "b-question-2",
+          "type": "question",
+          "text": {
+            "he": "למה לא ניסח החפץ חיים את החלק השני של דבריו בקיצור \"ואפילו אביו או רבו שמחוייב בכבודם ובמוראם וכו'. אם הם ביקשו ממנו שיספר לשון הרע או אפילו אבק לשון הרע — אסור...\", ולמה האריך בדבריו (\"שיספר לכם עניין פלוני ופלוני, והוא יודע\" וכו' וכו').",
+            "en": "Why did the Chafetz Chaim not word the second part of his words more tersely — \"And even if his father or his teacher requested that he speak evil speech or even only the dust of evil speech, he is forbidden\" — and why did he write at length (\"to speak of a certain thing, and he knows that in the midst of the account, etc.\")?"
+          },
+          "highlight": ["lo-telekh-rakhil"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-c",
+      "title": { "he": "ג. \"לא תעמוד על דם רעך\"", "en": "C. \"Do Not Stand Over the Blood of Your Neighbor\"" },
+      "primaryText": {
+        "ref": "Leviticus 19:16",
+        "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ לֹא תַעֲמֹד עַל דַּם רֵעֶךָ אֲנִי יְהֹוָה",
+        "en": "Do not go talebearing against your people; do not stand over the blood of your neighbor, I am the Lord.",
+        "words": {
+          "lo-telekh-rakhil": { "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ", "en": "Do not go talebearing against your people" },
+          "lo-taamod": { "he": "לֹא תַעֲמֹד עַל דַּם רֵעֶךָ", "en": "do not stand over the blood of your neighbor" },
+          "ani-hashem": { "he": "אֲנִי יְהֹוָה", "en": "I am the Lord" },
+          "al-dam-reekha": { "he": "עַל דַּם רֵעֶךָ", "en": "the blood of your neighbor" }
+        }
+      },
+      "steps": [
+        {
+          "id": "c-intro",
+          "type": "narration",
+          "text": {
+            "he": "עתה עוברים לחלק השני של הפסוק: \"לא תעמוד על דם רעך\". מה כלול באיסור זה?",
+            "en": "We now turn to the second half of the verse: \"Do not stand over the blood of your neighbor.\" What is included in this prohibition?"
+          }
+        },
+        {
+          "id": "c-sifra",
+          "type": "commentary",
+          "source": "Sifra",
+          "ref": "Sifra, Kedoshim, Chapter 4 8",
+          "sourceLabel": { "he": "ספרא", "en": "Sifra" },
+          "text": {
+            "he": "ומנין שאם אתה יודע לו עדות שאין אתה רשאי לשתוק עליו? תלמוד לומר \"לא תעמוד על דם רעך\". ומנין אם ראית טובע בנהר או לסטים באים עליו או חיה רעה באה עליו, חייב אתה להצילו בנפשו? תלמוד לומר \"לא תעמוד על דם רעך\".",
+            "en": "And whence is it derived that if you can testify on someone's behalf, you are not permitted to remain silent? From \"You shall not stand by the blood of your neighbor.\" And whence is it derived that if you see someone drowning in the river or being waylaid by robbers or attacked by a wild beast, that you must rescue him? From \"You shall not stand by the blood of your neighbor.\""
+          },
+          "highlight": ["lo-taamod"],
+          "annotation": {
+            "he": "הספרא מרחיב את \"לא תעמוד\" לשני תחומים: עדות (לא לשתוק כשיש לך עדות) והצלה פיזית (טובע, לסטים, חיה רעה).",
+            "en": "The Sifra expands \"do not stand\" to two domains: testimony (do not remain silent when you can testify) and physical rescue (drowning, robbers, wild beasts)."
+          }
+        },
+        {
+          "id": "c-malbim",
+          "type": "commentary",
+          "source": "Malbim",
+          "sourceLabel": { "he": "מלבי\"ם", "en": "Malbim" },
+          "text": {
+            "he": "פשוטו של מקרא, אם רואה חברו בסכנה, לא יעמוד ויטמון ידו בצלחת, רק יעשה כל השתדלות להצילו, וזהו שאמר: \"ומניין אם ראיית טובע בנהר או לסטים באים...\"",
+            "en": "The simple meaning of Scripture here is that if one sees his fellow in danger, he should not sit idly by. Rather he should make every effort to rescue him. And this is the meaning of that which the Sifra said, \"And whence is it derived that if you see someone drowning in the river or being waylaid by robbers...\""
+          },
+          "highlight": ["lo-taamod"],
+          "annotation": {
+            "he": "המלבי\"ם טוען שרק החלק השני של דברי הספרא — ההצלה הפיזית — מתאים לפשוטו של מקרא.",
+            "en": "The Malbim argues that only the second part of the Sifra — physical rescue — fits the plain meaning of the verse."
+          }
+        },
+        {
+          "id": "c-question-1",
+          "type": "question",
+          "text": {
+            "he": "התוכל להוכיח את דעתו של המלבי\"ם, שרק חלקו השני של דברי הספרא מתאים לפשוטו של המקרא ולא חלקו הראשון?",
+            "en": "Can you prove the opinion of the Malbim that only the second part of the Sifra's words fit the simple meaning of the verse, and not the first part?"
+          },
+          "highlight": ["lo-taamod", "al-dam-reekha"],
+          "effect": "pulse"
+        },
+        {
+          "id": "c-question-2",
+          "type": "question",
+          "text": {
+            "he": "התוכל לפרש את סמיכות שני חלקי פסוקנו בהיעזרך בדברי הספרא הנ\"ל?",
+            "en": "Can you explain the connection between the two parts of our verse, with the help of the words of the Sifra above?"
+          },
+          "highlight": ["lo-telekh-rakhil", "lo-taamod"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-d",
+      "title": { "he": "ד. שאלות כלליות", "en": "D. General Questions" },
+      "primaryText": {
+        "ref": "Leviticus 19:16",
+        "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ לֹא תַעֲמֹד עַל דַּם רֵעֶךָ אֲנִי יְהֹוָה",
+        "en": "Do not go talebearing against your people; do not stand over the blood of your neighbor, I am the Lord.",
+        "words": {
+          "lo-telekh-rakhil": { "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ", "en": "Do not go talebearing against your people" },
+          "lo-taamod": { "he": "לֹא תַעֲמֹד עַל דַּם רֵעֶךָ", "en": "do not stand over the blood of your neighbor" },
+          "ani-hashem": { "he": "אֲנִי יְהֹוָה", "en": "I am the Lord" }
+        }
+      },
+      "steps": [
+        {
+          "id": "d-intro",
+          "type": "narration",
+          "text": {
+            "he": "נחמה מעלה כעת שאלות כלליות על הפסוק. הגמרא בסנהדרין מוצאת בו מקור להלכות רודף.",
+            "en": "Nechama now raises general questions about the verse. The Talmud in Sanhedrin finds in it a source for the laws of the pursuer."
+          }
+        },
+        {
+          "id": "d-sanhedrin",
+          "type": "commentary",
+          "source": "Talmud",
+          "ref": "Sanhedrin 73a:2",
+          "sourceLabel": { "he": "סנהדרין ע\"ג א", "en": "Sanhedrin 73a" },
+          "text": {
+            "he": "מניין לרודף אחר חבירו להרגו שניתן להצילו בנפשו? תלמוד לומר \"לא תעמוד על דם רעך\". (רש\"י, שם: \"לא תעמיד עצמך על דמו אלא הצילהו!\")",
+            "en": "From where is it derived that with regard to one who pursues another in order to kill him, the pursued party may be saved at the cost of the pursuer's life? The verse states: \"You shall not stand idly by the blood of another\" (Leviticus 19:16); rather, you must save him from death."
+          },
+          "highlight": ["lo-taamod"],
+          "effect": "glow",
+          "annotation": {
+            "he": "הגמרא מרחיבה את האיסור עוד יותר: לא רק חובת הצלה, אלא גם היתר להרוג את הרודף כדי להציל את הנרדף.",
+            "en": "The Talmud extends the prohibition even further: not just a duty to rescue, but a permission to kill the pursuer in order to save the pursued."
+          }
+        },
+        {
+          "id": "d-question-1",
+          "type": "question",
+          "text": {
+            "he": "הסבר מה פירוש \"להציל בנפשו\", ו\"בנפשו\" — של מי? נמק תשובתך!",
+            "en": "Explain what is meant by \"be saved at the cost of his life\" — whose life? Give the reasoning behind your answer!"
+          },
+          "highlight": ["lo-taamod"],
+          "effect": "pulse"
+        },
+        {
+          "id": "d-rashi-compare",
+          "type": "commentary",
+          "source": "Rashi",
+          "sourceLabel": { "he": "רש\"י", "en": "Rashi" },
+          "text": {
+            "he": "לא תעמוד על דם רעך: לראות במיתתם, ואתה יכול להצילו, כגון טובע בנהר או לסטים באים עליו.",
+            "en": "Do not stand over the blood of your neighbor: to witness his death when you are able to rescue him — for instance, if he is drowning in the river or if a robber is attacking him."
+          },
+          "highlight": ["lo-taamod"],
+          "annotation": {
+            "he": "רש\"י מפרש בעקבות הספרא — חובת הצלה — ולא בעקבות הגמרא בסנהדרין — היתר הריגת הרודף.",
+            "en": "Rashi follows the Sifra — a duty to rescue — and not the Talmud in Sanhedrin — permission to kill the pursuer."
+          }
+        },
+        {
+          "id": "d-question-2",
+          "type": "question",
+          "text": {
+            "he": "הסבר למה הלך רש\"י בעקבות הספרא (עיין בשאלה ג') ולא הלך גם בעקבות הגמרא?",
+            "en": "Explain why Rashi followed the approach of the Sifra (see section C), and did not follow the approach of the Talmud."
+          },
+          "highlight": ["lo-taamod"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-e",
+      "title": { "he": "ה. הלכות רוצח", "en": "E. Laws of Murder" },
+      "primaryText": {
+        "ref": "Leviticus 19:16",
+        "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ לֹא תַעֲמֹד עַל דַּם רֵעֶךָ אֲנִי יְהֹוָה",
+        "en": "Do not go talebearing against your people; do not stand over the blood of your neighbor, I am the Lord.",
+        "words": {
+          "lo-telekh-rakhil": { "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ", "en": "Do not go talebearing against your people" },
+          "lo-taamod": { "he": "לֹא תַעֲמֹד עַל דַּם רֵעֶךָ", "en": "do not stand over the blood of your neighbor" },
+          "ani-hashem": { "he": "אֲנִי יְהֹוָה", "en": "I am the Lord" }
+        }
+      },
+      "steps": [
+        {
+          "id": "e-intro",
+          "type": "narration",
+          "text": {
+            "he": "הרמב\"ם מקודד את חובת ההצלה כהלכה מחייבת בהלכות רוצח ושמירת נפש.",
+            "en": "Rambam codifies the duty to rescue as binding law in his Laws of Murder and the Preservation of Life."
+          }
+        },
+        {
+          "id": "e-rambam",
+          "type": "commentary",
+          "source": "Rambam",
+          "ref": "Mishneh Torah, Murderer and the Preservation of Life 1:14",
+          "sourceLabel": { "he": "רמב\"ם", "en": "Rambam" },
+          "text": {
+            "he": "כָּל הַיָּכוֹל לְהַצִּיל וְלֹא הִצִּיל עוֹבֵר עַל \"לֹא תַעֲמֹד עַל דַּם רֵעֶךָ\". וְכֵן הָרוֹאֶה אֶת חֲבֵרוֹ טוֹבֵעַ בַּיָּם, אוֹ לִסְטִים בָּאִים עָלָיו, אוֹ חַיָּה רָעָה בָּאָה עָלָיו, וְיָכוֹל לְהַצִּילוֹ הוּא בְּעַצְמוֹ, אוֹ שֶׁיִּשְׂכֹּר אֲחֵרִים לְהַצִּילוֹ וְלֹא הִצִּיל. אוֹ שֶׁשָּׁמַע עוֹבְדֵי כּוֹכָבִים אוֹ מוֹסְרִים מְחַשְּׁבִים עָלָיו רָעָה אוֹ טוֹמְנִין לוֹ פַּח וְלֹא גִּלָּה אֹזֶן חֲבֵרוֹ וְהוֹדִיעוֹ. אוֹ שֶׁיָּדַע בְּעַכּוּ\"ם אוֹ בְּאוֹנֵס שֶׁהוּא בָּא עַל חֲבֵרוֹ וְיָכוֹל לְפַיְּסוֹ בִּגְלַל חֲבֵרוֹ לְהָסִיר מַה שֶּׁבְּלִבּוֹ וְלֹא פִּיְּסוֹ. וְכָל כַּיּוֹצֵא בִּדְבָרִים אֵלּוּ. הָעוֹשֶׂה אוֹתָם עוֹבֵר עַל לֹא תַעֲמֹד עַל דַּם רֵעֶךָ.",
+            "en": "Anyone who can save and does not save transgresses \"do not stand by the blood of your neighbor.\" So too one who sees his friend drowning in the sea, bandits attacking him or a wild animal attacking him and he is able to save him himself, or he could hire others to save him but does not; one who hears idolaters or informers plotting harm or laying a trap and does not tell his friend and inform him; or if he knows that someone is coming against his friend and he could appease him on his friend's behalf to change his intention and does not do so — and so too any similar case; one who does any of these transgresses \"do not stand idly by your neighbor's blood.\""
+          },
+          "highlight": ["lo-taamod"],
+          "effect": "glow",
+          "annotation": {
+            "he": "הרמב\"ם מרחיב את המושג הרבה מעבר לספרא: לא רק הצלה פיזית, אלא גם שכירת אחרים, גילוי מזימות, ואפילו פיוס.",
+            "en": "Rambam expands the concept far beyond the Sifra: not only physical rescue, but also hiring others, revealing plots, and even appeasement."
+          }
+        },
+        {
+          "id": "e-question",
+          "type": "question",
+          "text": {
+            "he": "כיצד מרחיב הרמב\"ם את המושג \"עמידה על דם רעהו\" מעבר לתחומי המושג בספרא?",
+            "en": "In what way does Rambam expand the concept of \"standing over the blood of one's neighbor\" beyond its parameters in the Sifra?"
+          },
+          "highlight": ["lo-taamod"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-f",
+      "title": { "he": "ו. \"לא תלך רכיל...\"", "en": "F. \"Do Not Go Talebearing...\"" },
+      "primaryText": {
+        "ref": "Leviticus 19:16",
+        "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ לֹא תַעֲמֹד עַל דַּם רֵעֶךָ אֲנִי יְהֹוָה",
+        "en": "Do not go talebearing against your people; do not stand over the blood of your neighbor, I am the Lord.",
+        "words": {
+          "lo-telekh-rakhil": { "he": "לֹא תֵלֵךְ רָכִיל בְּעַמֶּיךָ", "en": "Do not go talebearing against your people" },
+          "lo-taamod": { "he": "לֹא תַעֲמֹד עַל דַּם רֵעֶךָ", "en": "do not stand over the blood of your neighbor" },
+          "ani-hashem": { "he": "אֲנִי יְהֹוָה", "en": "I am the Lord" },
+          "al-dam-reekha": { "he": "עַל דַּם רֵעֶךָ", "en": "the blood of your neighbor" }
+        }
+      },
+      "steps": [
+        {
+          "id": "f-intro",
+          "type": "narration",
+          "text": {
+            "he": "בחלק האחרון, בעל עקדת יצחק מציע קשר עמוק בין שני חלקי הפסוק: הרכילות עצמה היא שפיכות דמים.",
+            "en": "In this final section, the author of Akeidat Yitzchak proposes a deep connection between the two halves of the verse: talebearing itself is a form of bloodshed."
+          }
+        },
+        {
+          "id": "f-akeida-kedoshim",
+          "type": "commentary",
+          "source": "Akeidat Yitzchak",
+          "sourceLabel": { "he": "עקדת יצחק, קדושים", "en": "Akeidat Yitzchak, Kedoshim" },
+          "text": {
+            "he": "ואחרי זה זירז במידה אחרת יקרה מאוד, יועיל הזירוז בה מאוד לחיי בני אדם, ואמר: \"לא תלך רכיל בעמך ולא תעמוד על דם רעך\". והידוע כי הרכיל את אשר יראה יגיד, אף על פי שלא יכזב, הוא ראוי להרחיק מאוד. והנכשל בו, דם ייחשב לו, שהרי הוא כאילו עמד על דם רעהו שהוא מדבר אליו הדברים ההם באהבתו אותו, כמו שזכרנו זה בפרשת מצורע, שער ס\"ב.",
+            "en": "And after this, the Torah encouraged another very precious trait — as encouragement of this trait is very beneficial to the lives of people — and said, \"Do not go talebearing against your people; do not stand over the blood of your neighbor.\" And it is known that even though the talebearer does not lie, merely saying what he sees, this is worth distancing very much. And the one who stumbles in it is considered as if he shed blood. For behold, it is as if he stood over the blood of his neighbor — the one to whom he speaks these things out of his love for him, as we mentioned in Parashat Metzora, Chapter 62."
+          },
+          "highlight": ["lo-telekh-rakhil", "lo-taamod"],
+          "effect": "glow",
+          "annotation": {
+            "he": "בעל העקדה קושר את שני חלקי הפסוק: \"לא תעמוד על דם רעך\" הוא תוצאה של \"לא תלך רכיל\" — הרכילות עצמה היא שפיכות דמים.",
+            "en": "The Akeida links the two halves of the verse: \"do not stand over the blood of your neighbor\" is a consequence of \"do not go talebearing\" — talebearing itself is bloodshed."
+          }
+        },
+        {
+          "id": "f-akeida-metzora",
+          "type": "commentary",
+          "source": "Akeidat Yitzchak",
+          "sourceLabel": { "he": "עקדת יצחק, מצורע", "en": "Akeidat Yitzchak, Metzora" },
+          "text": {
+            "he": "תן לבך לאומרו \"על דם רעך\", לאמור שאף אותו שאתה מראה עליו שהוא כרֵעַ, כאח אליך, כי לזה אתה מגלה את אוזנו בדברי רכילות אלו — אף אותו אתה הורג במה שמקבל דבריך ונמשך אחריהם. צא ולמד מדואג (שמואל א' כ\"ב)... וכן במה שסיפר ציבא לדוד לשון הרע על מפיבושת (שמואל ב' ט\"ז), גדול היה הרע והעונש אשר הגיע לדוד בקבלו אותו, מאשר הגיע למפיבושת אשר סופר עליו. וכדאמר רב יהודה אמר רב (שבת נ\"ו): \"אלמלא לא קיבל דוד לשון הרע, לא נחלקה מלכות בית דוד, ולא עבדו ישראל עבודה זרה, ולא גלינו מעל אדמתנו\"... באותה שעה יצאה בת קול ואמרה: \"רחבעם וירבעם יחלקו את המלכות!\" (שבת נ\"ו) וממחלוקת המלכות נמשכו עגלי עבודה זרה, ומשם למדו ונתפשטו במלכי יהודה עד שנתחייב הגלות. הנה שעיקר העונש נתגלגל על הרועה ועל צאנו, הנה שכל זה הוא בכלל \"לא תעמוד על דם רעך\", ואם עמדו על דברי הספר הזה (חומש ויקרא), לא היו חוטאים בו.",
+            "en": "Pay attention to its saying, \"over the blood of your neighbor\" — meaning that even the one to whom you act as a friend and as a brother, such that you make him privy to these words of talebearing — you kill even him, in that he accepts your words and is drawn after them. Go and learn from Doeg (I Samuel 22)... And likewise from what Tziva told David as evil speech about Mephiboshet (II Samuel 16) — the evil and punishment that came to David for accepting it was greater than what came to Mephiboshet, about whom it was spoken. As Rav Yehudah said in the name of Rav (Shabbat 56): \"Were it not that David accepted evil speech, the kingdom of the House of David would not have been split, Israel would not have worshiped idolatry, and we would not have been exiled from our land.\"... At that time a divine voice emerged and proclaimed: \"Rehoboam and Jeroboam will split the kingdom!\" (Shabbat 56). And from the division of the kingdom, they were drawn after the idolatrous calves, and it spread until the kings of Judah learned to follow idols, until they were liable for exile. See that the main punishment ended up upon the shepherd and his flock. Behold that all of this is included in \"do not stand over the blood of your neighbor\" — and had they been steadfast about the words of this book (Leviticus), they would not have sinned."
+          },
+          "highlight": ["lo-taamod", "al-dam-reekha"],
+          "annotation": {
+            "he": "בעל העקדה מוכיח שלשון הרע הורגת גם את מקבלה: דוד שקיבל את דברי ציבא על מפיבושת נענש יותר מן המושמץ.",
+            "en": "The Akeida proves that evil speech kills even the one who accepts it: David, who accepted Tziva's words about Mephiboshet, was punished more than the one slandered."
+          }
+        },
+        {
+          "id": "f-question-1",
+          "type": "question",
+          "text": {
+            "he": "הסבר את דבריו המסומנים בקו.",
+            "en": "Explain his underlined words."
+          },
+          "highlight": ["lo-taamod", "al-dam-reekha"]
+        },
+        {
+          "id": "f-question-2",
+          "type": "question",
+          "text": {
+            "he": "במה שונה פירושו את פסוקנו משאר הפירושים?",
+            "en": "In what way is his explanation of our verse different from the other explanations?"
+          },
+          "highlight": ["lo-telekh-rakhil", "lo-taamod"],
+          "effect": "pulse"
+        },
+        {
+          "id": "f-question-3",
+          "type": "question",
+          "text": {
+            "he": "כיצד מפרש בעל העקדה את סמיכות שני חלקי הפסוק בניגוד לפירוש הסמיכות היוצא מדברי הספרא?",
+            "en": "How does the author of the Akeida explain the connection between the two parts of the verse differently from the explanation implied by the Sifra?"
+          },
+          "highlight": ["lo-telekh-rakhil", "lo-taamod"]
+        },
+        {
+          "id": "f-question-4",
+          "type": "question",
+          "text": {
+            "he": "במה יש ללמוד ממעשה דואג שלשון הרע הורג אף את מקבלו?",
+            "en": "In what way can we learn from the story of Doeg that evil speech also kills the one who accepts it?"
+          },
+          "highlight": ["lo-taamod", "al-dam-reekha"]
+        }
+      ]
+    }
+  ]
+}

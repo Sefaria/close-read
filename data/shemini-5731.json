@@ -1,0 +1,303 @@
+{
+  "title": {
+    "he": "פרשת שמיני תשל״א",
+    "en": "Parashat Shemini 5731",
+    "subtitle": { "he": "בקרובי אקדש", "en": "Through Those Close to Me I Am Sanctified" },
+    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
+    "sourceUrl": "https://www.sefaria.org/sheets/162053",
+    "sourceLabel": "View the original sheet on Sefaria",
+    "questionLabel": { "he": "נחמה שואלת", "en": "Nechama asks" }
+  },
+
+  "sections": [
+    {
+      "id": "section-a",
+      "title": { "he": "א. השוואת מפרשים", "en": "A. Comparison of the Commentators" },
+      "primaryText": {
+        "ref": "Leviticus 10:3",
+        "he": "וַיֹּאמֶר מֹשֶׁה אֶל אַהֲרֹן הוּא אֲשֶׁר דִּבֶּר ה׳ לֵאמֹר בִּקְרֹבַי אֶקָּדֵשׁ וְעַל פְּנֵי כָל הָעָם אֶכָּבֵד וַיִּדֹּם אַהֲרֹן",
+        "en": "Then Moses said unto Aaron: 'This is it that the LORD spoke, saying: Through them that are nigh unto Me I will be sanctified, and before all the people I will be glorified.' And Aaron was still.",
+        "words": {
+          "hu-asher-diber": {
+            "he": "הוּא אֲשֶׁר דִּבֶּר ה׳ לֵאמֹר",
+            "en": "This is it that the LORD spoke, saying"
+          },
+          "bikrovai-ekadesh": {
+            "he": "בִּקְרֹבַי אֶקָּדֵשׁ",
+            "en": "Through them that are nigh unto Me I will be sanctified"
+          },
+          "al-pnei-kol-haam": {
+            "he": "וְעַל פְּנֵי כָל הָעָם אֶכָּבֵד",
+            "en": "and before all the people I will be glorified"
+          },
+          "vayidom-aharon": {
+            "he": "וַיִּדֹּם אַהֲרֹן",
+            "en": "And Aaron was still"
+          },
+          "vayomer-moshe": {
+            "he": "וַיֹּאמֶר מֹשֶׁה אֶל אַהֲרֹן",
+            "en": "Then Moses said unto Aaron"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "a-intro",
+          "type": "narration",
+          "text": {
+            "he": "אחרי מות נדב ואביהוא, בני אהרן, ביום חנוכת המשכן — מֹשֶׁה פונה אל אחיו בפסוק שמעורר שאלות קשות אצל כל המפרשים.",
+            "en": "After the death of Nadav and Avihu, Aaron's sons, on the day the Tabernacle was inaugurated — Moses turns to his brother with a verse that raises difficult questions for every commentator."
+          }
+        },
+        {
+          "id": "a-verse-context",
+          "type": "narration",
+          "text": {
+            "he": "\"הוּא אֲשֶׁר דִּבֶּר ה׳\" — היכן דיבר? אין פסוק מפורש בתורה שאומר בדיוק את המילים \"בקרובי אקדש\". זו הבעיה המרכזית שכל שלושת המפרשים צריכים ליישב.",
+            "en": "\"This is it that the LORD spoke\" — but where did He speak this? There is no explicit verse in the Torah that says exactly the words \"Through those close to Me I will be sanctified.\" This is the central problem that all three commentators must resolve."
+          },
+          "highlight": ["hu-asher-diber"],
+          "effect": "glow"
+        },
+        {
+          "id": "a-rashi",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Leviticus 10:3:1",
+          "sourceLabel": { "he": "רש\"י", "en": "Rashi" },
+          "text": {
+            "he": "היכן דיבר? (שמות כ\"ט): \"ונועדתי שמה לבני ישראל ונקדש בכבודי\" אל תקרא \"בכבודי\" אלא \"במכובדי\". אמר לו משה לאהרן: \"אהרן אחי, יודע הייתי שיתקדש הבית במיודעיו של מקום, והייתי סבור או בי או בך. עכשו רואה אני שהם גדולים ממני וממך\".",
+            "en": "Where had He spoken this? In the statement (Exodus 29:43), \"And there I will be met by the children of Israel and it shall be sanctified by My glory (bikhvodi).\" Read not here bikhvodi, \"by My Glory\" but bimkhubadai, \"through My honoured ones\" (Zevachim 115b). Moses here said to Aaron: \"My brother, Aaron! I knew that this House was to be sanctified by those who are beloved of the Omnipresent God and I thought it would be either through me or through thee; now I see that these (thy sons who have died) are greater than me and than thee!\""
+          },
+          "highlight": ["hu-asher-diber", "bikrovai-ekadesh"],
+          "annotation": {
+            "he": "רש\"י מוצא מקור מפורש בתורה (שמות כ\"ט מ\"ג) — אך רק על ידי דרשת חז\"ל: \"בכבודי\" נקרא \"במכובדי\". כלומר, ה׳ אמר זאת אך במילים אחרות.",
+            "en": "Rashi finds an explicit source in the Torah (Exodus 29:43) — but only through a midrashic reading: \"by My Glory\" is read as \"through My honored ones.\" God said it, but in different words."
+          }
+        },
+        {
+          "id": "a-ibn-ezra",
+          "type": "commentary",
+          "source": "Ibn Ezra",
+          "ref": "Ibn Ezra on Leviticus 10:3:1",
+          "sourceLabel": { "he": "אבן עזרא", "en": "Ibn Ezra" },
+          "text": {
+            "he": "כבר אמר לי השם שהוא יראה קדושתו בקרובים אליו כטעם (עמוס ג') \"רק אתכם ידעתי מכל משפחות האדמה, על כן אפקוד עליכם את כל עוונותיכם\". וכאשר אראה בם קדושתי, אז אהיה נכבד, ועל פני כל העם אֶכבד וייראו ממני.",
+            "en": "God has already told me that He will manifest His holiness through those who are near Him — even if they must suffer for it, as in the passage \"You only have I known of all the families of the earth; therefore I will visit upon you all your iniquities\" (Amos 3:2). Thus the verse means: \"When I manifest myself in holiness among them, then I shall be glorified; and I shall be glorified in the face of all the people, and they shall fear Me.\""
+          },
+          "highlight": ["bikrovai-ekadesh", "al-pnei-kol-haam"],
+          "annotation": {
+            "he": "אבן עזרא גורס שה׳ אמר זאת למשה בעל פה — דיבור שלא נכתב בתורה. והוא מוכיח מעמוס ג׳ ב׳ שקרבה לה׳ פירושה דין חמור יותר.",
+            "en": "Ibn Ezra holds that God told this to Moses orally — a statement not written in the Torah. He proves from Amos 3:2 that closeness to God means stricter judgment."
+          }
+        },
+        {
+          "id": "a-ramban",
+          "type": "commentary",
+          "source": "Ramban",
+          "ref": "Ramban on Leviticus 10:3:1",
+          "sourceLabel": { "he": "רמב\"ן", "en": "Ramban" },
+          "text": {
+            "he": "ולדעתי בדרך הפשט אין צורך לכל זה, כי \"דבר ה'\" — גזרותיו ומחשבתו ועניין דרכיו, ו\"הדיבור\" ייאמר בכל אלה (קהלת ג'): \"דיברתי אני עם לבי\" — חשבתי מחשבה זו... והנה אמר משה: המקרה הזה הוא אשר גזר ה' לאמור אל לבו: \"בקרובי אקדש\", שלא יהרסו אל קדושתי \"ועל פני כל העם אכבד\" — שיהיו נוהגים כבוד במשכני.",
+            "en": "And in my opinion, there is no need for all this according to the simple understanding. For the understanding of \"the Lord spoke\" is that it refers to His decrees and His thoughts and the content of His ways. And \"speech\" is said about all these: \"I spoke to my heart\" (Ecclesiastes 1:16), meaning I thought this thought... And so Moses said: \"This event is that which the Lord decreed upon His heart: 'I will be sanctified through those close to Me,' such that they not breach My holiness; 'and I will be glorified in front of all the people,' such that they will treat My Tabernacle with respect.\""
+          },
+          "highlight": ["hu-asher-diber", "bikrovai-ekadesh", "al-pnei-kol-haam"],
+          "effect": "glow",
+          "annotation": {
+            "he": "הרמב\"ן חולק על שניהם: \"דיבר\" אינו מילים שנאמרו כלל — לא בכתב ולא בעל פה — אלא גזירה אלוקית, \"מחשבה\" של ה'. אין צורך למצוא מקור טקסטואלי.",
+            "en": "Ramban disagrees with both: \"spoke\" does not refer to words that were ever said — neither written nor oral — but to a divine decree, God's \"thought.\" There is no need to find a textual source."
+          }
+        },
+        {
+          "id": "a-question-shared",
+          "type": "question",
+          "text": {
+            "he": "מה קשה לשלושתם בפסוקנו?",
+            "en": "What is the difficulty in this verse for all three of them?"
+          },
+          "highlight": ["hu-asher-diber"],
+          "effect": "pulse"
+        },
+        {
+          "id": "a-question-difference",
+          "type": "question",
+          "text": {
+            "he": "מה הבדל בין שלושתם ביישוב הקושי?",
+            "en": "What is the difference between the three commentators in resolving the difficulty?"
+          },
+          "highlight": ["hu-asher-diber", "bikrovai-ekadesh"]
+        },
+        {
+          "id": "a-question-rashi-method",
+          "type": "question",
+          "text": {
+            "he": "ההולך רש\"י כאן באותה דרך שבה הלך בבראשית ל\"ב י\"ג, בשמות י\"ד י\"ב, בשמות ל\"ב כ\"ז, בדברים ה' י\"ב, ובדברים י\"ב כ\"א — כולם מקומות שבהם הכתוב אומר \"כאשר דיבר\" ורש\"י מחפש את מקור הדיבור?",
+            "en": "Does Rashi follow the same approach that he followed in Genesis 32:13, Exodus 14:12, Exodus 32:27, Deuteronomy 5:12, and Deuteronomy 12:21 — all places where Scripture says \"as He spoke\" and Rashi seeks the source of the statement?"
+          },
+          "highlight": ["hu-asher-diber"]
+        },
+        {
+          "id": "a-question-ibn-ezra-proof",
+          "type": "question",
+          "text": {
+            "he": "מהי הוכחת הראב\"ע מעמוס ג' ב'?",
+            "en": "What is Ibn Ezra's proof from Amos 3:2?"
+          },
+          "highlight": ["bikrovai-ekadesh"]
+        },
+        {
+          "id": "a-question-ibn-ezra-method",
+          "type": "question",
+          "text": {
+            "he": "ההולך הראב\"ע כאן בדרך שבה הלך בשמות י\"ד י\"ב ובשמות ט\"ז כ\"ג — מקומות שבהם הוא מפרש \"כבר אמר לי השם\" על דיבור שלא נכתב?",
+            "en": "Does Ibn Ezra follow the same approach here that he followed in Exodus 14:12 and Exodus 16:23 — places where he explains \"God has already told me\" as referring to an unwritten statement?"
+          },
+          "highlight": ["hu-asher-diber"]
+        },
+        {
+          "id": "a-question-genesis-24",
+          "type": "question",
+          "text": {
+            "he": "מה הקושי המשותף לפסוקנו ולבראשית כ\"ד נ\"א, וכיצד מיישבו הראב\"ע שם?",
+            "en": "What is the difficulty shared by our verse and Genesis 24:51, and how does Ibn Ezra resolve it there?"
+          },
+          "highlight": ["hu-asher-diber"]
+        },
+        {
+          "id": "a-question-kor-hazahav",
+          "type": "question",
+          "text": {
+            "he": "\"כור הזהב\" על הרמב\"ן מגיה דברי הרמב\"ן \"שיהיה קדוש בעיני כל העם במכובדי\" (במקום \"וּבמכובדי\" הכתוב בכל החומשים). התוכל להסביר הגהה זו?",
+            "en": "Kor HaZahav on Ramban corrects the words of Ramban to read \"such that I will be holy in the eyes of all of the people through My honored ones\" (instead of \"and of My honored ones,\" as written in all the standard texts). Can you explain his correction?"
+          },
+          "highlight": ["bikrovai-ekadesh", "al-pnei-kol-haam"]
+        },
+        {
+          "id": "a-ramban-genesis",
+          "type": "commentary",
+          "source": "Ramban",
+          "ref": "Ramban on Genesis 1:3:1",
+          "sourceLabel": { "he": "רמב\"ן", "en": "Ramban" },
+          "text": {
+            "he": "מלת \"אמירה\" בכאן להורות על החפץ, כדרך \"מה תאמר נפשך ואעשה לך\" (ש\"א כ ד), מה תרצה ותחפוץ, וכן \"ותהי אשה לבן אדוניך כאשר דיבר ה'\" (בראשית כד נא), כאשר רצה כי כן הוא הרצון לפניו...",
+            "en": "The word \"saying\" here indicates will; in the same way as \"What does your soul say, and I will do it for you\" (I Samuel 20:4), meaning what do you will and want; and so too \"and she shall be a wife to the son of your master, as God has said\" (Genesis 24:51), meaning as He willed, since this is how will is before Him..."
+          },
+          "highlight": ["hu-asher-diber"],
+          "annotation": {
+            "he": "הרמב\"ן כבר בבראשית א׳ ג׳ מפרש \"אמירה\" כרצון ולא כדיבור ממש. פירושו כאן עקבי עם שיטתו.",
+            "en": "Already in Genesis 1:3, Ramban interprets \"saying\" as will rather than actual speech. His interpretation here is consistent with his broader method."
+          }
+        },
+        {
+          "id": "a-question-ramban-saying",
+          "type": "question",
+          "text": {
+            "he": "האם פירוש \"אמירה\" שם מזדהה עם פירוש \"דיבור\" כאן?",
+            "en": "Is his understanding of the word \"saying\" there the same as his understanding of the word \"speech\" here?"
+          },
+          "highlight": ["hu-asher-diber"]
+        },
+        {
+          "id": "a-question-kings",
+          "type": "question",
+          "text": {
+            "he": "מה עניין מלכים א' ט\"ז ל\"ד למקומנו (הרמב\"ן מביאו כדוגמה אחרונה), והלוא הפסוק ירמוז ליהושע ז' כ\"ב, ומה אפוא הקושי המשותף לפסוקנו ולפסוק ההוא?",
+            "en": "What is the connection between our verse and I Kings 16:34 (which Ramban cites as his last example), and does that verse not allude to Joshua 7:22? What then is the difficulty shared by our verse and that verse?"
+          },
+          "highlight": ["hu-asher-diber"]
+        },
+        {
+          "id": "a-question-ramban-korach",
+          "type": "question",
+          "text": {
+            "he": "האם הולך הרמב\"ן בפירושו לבמדבר ט\"ז ה׳ באותה הדרך שבה הוא הולך כאן, או בחר לו אצלנו דרך אחרת?",
+            "en": "Does Ramban follow the same approach in his commentary on Numbers 16:5 as the approach he follows here, or did he choose a different approach in our case?"
+          },
+          "highlight": ["hu-asher-diber"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-b",
+      "title": { "he": "ב. \"וַיִּדֹּם אַהֲרֹן\"", "en": "B. \"And Aaron Was Silent\"" },
+      "primaryText": {
+        "ref": "Leviticus 10:3b",
+        "he": "וַיֹּאמֶר מֹשֶׁה אֶל אַהֲרֹן הוּא אֲשֶׁר דִּבֶּר ה׳ לֵאמֹר בִּקְרֹבַי אֶקָּדֵשׁ וְעַל פְּנֵי כָל הָעָם אֶכָּבֵד וַיִּדֹּם אַהֲרֹן",
+        "en": "Then Moses said unto Aaron: 'This is it that the LORD spoke, saying: Through them that are nigh unto Me I will be sanctified, and before all the people I will be glorified.' And Aaron was still.",
+        "words": {
+          "vayidom": {
+            "he": "וַיִּדֹּם",
+            "en": "was still"
+          },
+          "vayidom-aharon": {
+            "he": "וַיִּדֹּם אַהֲרֹן",
+            "en": "And Aaron was still"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b-intro",
+          "type": "narration",
+          "text": {
+            "he": "הפסוק מסתיים בשתי מילים שהפכו לסמל: \"וַיִּדֹּם אַהֲרֹן\". מה טיבה של דממה זו? האם היא שתיקה חיצונית בלבד, או משהו עמוק יותר?",
+            "en": "The verse ends with two words that have become iconic: \"And Aaron was still.\" What is the nature of this stillness? Is it merely outward silence, or something deeper?"
+          }
+        },
+        {
+          "id": "b-abarbanel",
+          "type": "commentary",
+          "source": "Abarbanel",
+          "ref": "Abarbanel on Torah, Leviticus 10:1:1",
+          "sourceLabel": { "he": "אברבנאל", "en": "Abarbanel" },
+          "text": {
+            "he": "נהפך לבו והיה כאבן דומם, ולא נשא קולו בבכי ובמספד כאב על בנים, גם לא קיבל תנחומין ממשה, כי לא נותרה בו נשמה והדיבור אין בו.",
+            "en": "His heart became like an inanimate rock, and he did not raise his voice in crying or eulogy, as would a father for his children; he also did not accept condolences from Moses. For he had no breath left in him, nor did he have any speech."
+          },
+          "highlight": ["vayidom-aharon"],
+          "annotation": {
+            "he": "האברבנאל רואה את הדממה כמצב של הלם — אהרן לא בחר לשתוק, אלא איבד את היכולת להגיב. הוא היה \"כאבן דומם\".",
+            "en": "Abarbanel sees the stillness as a state of shock — Aaron did not choose to be silent; he lost the ability to respond. He was \"like an inanimate rock.\""
+          }
+        },
+        {
+          "id": "b-shem-olam",
+          "type": "commentary",
+          "source": "Shem Olam",
+          "ref": "Shem Olam on Leviticus 10:3",
+          "sourceLabel": { "he": "שם עולם", "en": "Shem Olam" },
+          "text": {
+            "he": "ויש הבדל בין דממה ושתיקה; שתיקה מורה על הפסקה מדיבור, ותימצא גם בתנועות חיצוניות כמו שאמר (תהלים ק\"ז) \"וישמחו כי ישתוקו\", אבל דממה מורה גם שקט הלב ומרגוע הנפש בפנימיות, שלא הרהר אהרן אחר מידותיו של הקדוש ברוך הוא כלל אלא צידק עליו את הדין.",
+            "en": "There is a difference between stillness and silence. For silence indicates a pause in speech, but you can still find outward movements, as it states (Psalms 107:30), \"They rejoiced when they were silent.\" But stillness also indicates quiet of the heart and inner peace of the soul. Aaron did not call the traits of the Holy One, blessed be He, into question, but rather justified the judgment."
+          },
+          "highlight": ["vayidom"],
+          "effect": "glow",
+          "annotation": {
+            "he": "\"שם עולם\" מבחין בין \"דממה\" ל\"שתיקה\": שתיקה היא חיצונית — הפסקת דיבור. דממה היא פנימית — שלווה של הנפש וקבלת הדין.",
+            "en": "Shem Olam distinguishes between \"stillness\" (dumah) and \"silence\" (shtikah): silence is external — a cessation of speech. Stillness is internal — peace of soul and acceptance of divine judgment."
+          }
+        },
+        {
+          "id": "b-question-difference",
+          "type": "question",
+          "text": {
+            "he": "מה ההבדל ביניהם, ואיזה נראה לך קרוב לפשוטו של מקרא?",
+            "en": "What is the difference between these two readings, and which appears closer to the plain meaning of Scripture to you?"
+          },
+          "highlight": ["vayidom-aharon"],
+          "effect": "pulse"
+        },
+        {
+          "id": "b-question-psalms",
+          "type": "question",
+          "text": {
+            "he": "לאיזה משניהם יש להביא חיזוק מתהלים ל\"ז ז'?",
+            "en": "To which of the two readings could one bring support from Psalms 37:7?"
+          },
+          "highlight": ["vayidom"]
+        }
+      ]
+    }
+  ]
+}

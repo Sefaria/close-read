@@ -1,0 +1,403 @@
+{
+  "title": {
+    "he": "מנהג: סקירה כללית",
+    "en": "Minhag: Overview",
+    "subtitle": {
+      "he": "סמכותו של המנהג בהלכה",
+      "en": "The Authority of Custom in Jewish Law"
+    },
+    "author": {
+      "he": "צבי הירשפלד",
+      "en": "Zvi Hirschfield"
+    },
+    "sourceUrl": "https://www.sefaria.org/sheets/538871",
+    "sourceLabel": "View the original sheet on Sefaria",
+    "questionLabel": { "he": "שאלה לעיון", "en": "Question for study" }
+  },
+
+  "sections": [
+    {
+      "id": "section-a",
+      "title": { "he": "א. מנהג המקום", "en": "A. The Custom of the Place" },
+      "primaryText": {
+        "ref": "Pesachim 50a:23",
+        "he": "מָקוֹם שֶׁנָּהֲגוּ לַעֲשׂוֹת מְלָאכָה בְּעַרְבֵי פְסָחִים עַד חֲצוֹת — עוֹשִׂין. מָקוֹם שֶׁנָּהֲגוּ שֶׁלֹּא לַעֲשׂוֹת — אֵין עוֹשִׂין. הַהוֹלֵךְ מִמָּקוֹם שֶׁעוֹשִׂין לְמָקוֹם שֶׁאֵין עוֹשִׂין, אוֹ מִמָּקוֹם שֶׁאֵין עוֹשִׂין לְמָקוֹם שֶׁעוֹשִׂין — נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁיָּצָא מִשָּׁם וְחוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם.",
+        "en": "In a place where the people were accustomed to perform labor on Passover eve until midday, one may do so on that day. In a place where the people were accustomed not to perform labor, one may not do so. If one travels from a place where people perform labor on Passover eve to a place where people do not perform labor, or from a place where people do not perform labor on Passover eve to a place where people perform labor, the Sages impose upon him the stringencies of both the place from which he left and the stringencies of the place to which he went.",
+        "words": {
+          "makom-shenahagu": {
+            "he": "מָקוֹם שֶׁנָּהֲגוּ",
+            "en": "a place where the people were accustomed"
+          },
+          "laasot-melacha": {
+            "he": "לַעֲשׂוֹת מְלָאכָה",
+            "en": "to perform labor"
+          },
+          "arvei-pesachim": {
+            "he": "בְּעַרְבֵי פְסָחִים עַד חֲצוֹת",
+            "en": "on Passover eve until midday"
+          },
+          "haholech-mimakom": {
+            "he": "הַהוֹלֵךְ מִמָּקוֹם שֶׁעוֹשִׂין לְמָקוֹם שֶׁאֵין עוֹשִׂין",
+            "en": "one travels from a place where people perform labor on Passover eve to a place where people do not perform labor"
+          },
+          "chumrei-makom": {
+            "he": "נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁיָּצָא מִשָּׁם וְחוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם",
+            "en": "the Sages impose upon him the stringencies of both the place from which he left and the stringencies of the place to which he went"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "a-intro",
+          "type": "narration",
+          "text": {
+            "he": "דף מקורות זה הוא חלק מפירוש טעמי הפרדס, פרויקט של מכון פרדס ללימודים יהודיים. זהו דף 1 מתוך 5 בנושא התלמוד.",
+            "en": "This source sheet is part of the larger Ta'amei HaPardes Commentary, a project of the Pardes Institute of Jewish Studies. This is sheet 1 of 5 on the topic of Talmud."
+          }
+        },
+        {
+          "id": "a-overview",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The first five mishnayot of this chapter deal with the authority of minhag (religious custom). To be more precise, the discussion is about practices which are not technically prohibited by law, but the community decided to refrain from them nevertheless. The opening Mishna deals with the custom of refraining from labor from the morning before Pesach, even though labor is not prohibited by law until midday. The Mishna notes that different locations adopted different practices, and thus a person who travels from a place that practiced one custom to a place that practiced another custom would find themselves in a tension between their original custom and the local custom."
+          },
+          "highlight": ["makom-shenahagu", "laasot-melacha"]
+        },
+        {
+          "id": "a-minhag-obligates",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The Mishna assumes that minhag can obligate the individual even when one is not in the place where it is practiced. The exploration of how minhag has authority is explored in the Gemara and we will discuss that question when we come to that sugya."
+          },
+          "highlight": ["chumrei-makom"]
+        },
+        {
+          "id": "a-how-begin",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "Another question we might ask is how minhagim begin and what gives them official status. Do minhagim emerge from local practice among a majority group, are they formally legislated by leadership, or are they result of Rabbinic leadership and decision-making?"
+          },
+          "highlight": ["makom-shenahagu"],
+          "effect": "pulse"
+        },
+        {
+          "id": "a-other-contexts",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "In addition to the example of the custom to eat or refrain from roasted meats at the seder included in our chapter, the Mishna offers other examples of different places having different customs. These include the timing of when fruits of the Sabbatical year must be removed from the home, the selling of goats and sheep to gentiles, lighting candles before the onset of Yom Kippur, and working on the Ninth of Av. There are many other examples of authoritative minhag in Tannaitic literature spanning different areas of practice."
+          },
+          "highlight": ["makom-shenahagu"]
+        },
+        {
+          "id": "a-examples-detail",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Examples from the Mishna include the minhag to say or not say a blessing over the recitation of the Megilla on Purim (<i>Megilla</i> 4:1), customs governing business transactions (<i>Bava Metzia</i> 4:11 and 5:5), and payment of workers (<i>Bava Metzia</i> 7:1 and 9:1). In addition to examples found in Tosefta <i>Pesachim</i>, which include returning betrothal money after the death of the groom and funeral and mourning practices (3:11-12), we find many other examples where local practice is deemed to be authoritative."
+          },
+          "highlight": ["laasot-melacha"]
+        },
+        {
+          "id": "a-types-of-minhag",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "From these examples it appears that minhag operates in many different ways. Our Mishna is an example of a minhag of stringency, where a community added on to the legal requirement. The example of reciting a blessing over Megilla reading or mourning rituals appear to be examples of minhag determining which legal opinion to follow. The customs governing commerce and acquisition deal with what people can expect or demand when dealing with transactions or other economic issues."
+          },
+          "highlight": ["arvei-pesachim"]
+        },
+        {
+          "id": "a-defining-place",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The Mishna does not define the parameters of a \"place\" in regards to the authority of minhag. We could be talking about geography, a shared Rabbinic authority for the location, or political authority. In later times some halakhic authorities will speak about regions or countries that share minhagim."
+          },
+          "highlight": ["haholech-mimakom"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-b",
+      "title": { "he": "ב. האם המשנה מאשרת פלורליזם?", "en": "B. Is the Mishna Endorsing Pluralism?" },
+      "primaryText": {
+        "ref": "Jerusalem Talmud Pesachim 4:1:13",
+        "he": "רִבִּי שִׁמְעוֹן בֶּן לָקִישׁ שָׁאַל לְרִבִּי יוֹחָנָן. וְאֵינוֹ אָסוּר מִשּׁוּם בַּל תִתְגּוֹדְדוּ. אָמַר לֵיהּ. בְּשָׁעָה שֶׁאֵילּוּ עוֹשִׂין כְּבֵית שַׁמַּי וְאֵילּוּ עוֹשִׂין כְּבֵית הִלֵּל.",
+        "en": "Rebbi Simeon ben Laqish asked Rebbi Yochanan: Is it not forbidden because of \"do not split into sects\"? He said to him, in case these follow the House of Shammai and those the House of Hillel.",
+        "words": {
+          "bal-titgodedu": {
+            "he": "בַּל תִתְגּוֹדְדוּ",
+            "en": "do not split into sects"
+          },
+          "resh-lakish-asks": {
+            "he": "רִבִּי שִׁמְעוֹן בֶּן לָקִישׁ שָׁאַל לְרִבִּי יוֹחָנָן",
+            "en": "Rebbi Simeon ben Laqish asked Rebbi Yochanan"
+          },
+          "beit-shammai-hillel": {
+            "he": "שֶׁאֵילּוּ עוֹשִׂין כְּבֵית שַׁמַּי וְאֵילּוּ עוֹשִׂין כְּבֵית הִלֵּל",
+            "en": "these follow the House of Shammai and those the House of Hillel"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The fact that a legal code like the Mishna recognizes the authority of minhag and the diversity of minhagim reflects a willingness to accept multiple practices as legitimate, as opposed to attempting to legislate a singular approach. In the Yerushalmi on our Mishna, Resh Lakish raised this as a problem to R. Yochanan."
+          }
+        },
+        {
+          "id": "b-resh-lakish-challenge",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Reish Lakish is asking why the Mishna would endorse multiple practices in violation of a law that would seem to say otherwise. The prohibition of <i>bal titgodedu</i> (\"do not split into sects\") is derived from Deuteronomy 14:1 and would seem to prohibit different communities following different practices."
+          },
+          "highlight": ["bal-titgodedu", "resh-lakish-asks"]
+        },
+        {
+          "id": "b-yochanan-answer",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "R. Yochanan answers him that this prohibition applies only to practices which violate specific legal norms of authority, leaving diversity of minhag as a protected form of communal difference. The prohibition of \"do not split into sects\" is limited to cases where groups within the same community follow opposed rulings of Beit Shammai and Beit Hillel — that is, fundamental disputes about binding law — not differences in local custom."
+          },
+          "highlight": ["beit-shammai-hillel"]
+        },
+        {
+          "id": "b-minhag-hamakom",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The discussion here highlights how the Mishna's endorsement of the authority of local practice is in effect an acknowledgment that standards and observance in specific areas of practice will differ between communities, and that communities have a right to legislate specific areas for themselves. While not full-blown pluralism, the concept of <i>minhag hamakom</i> (the custom of the place), certainly makes room for a certain degree of local decision-making in the shaping of religious behavior."
+          },
+          "highlight": ["bal-titgodedu"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-c",
+      "title": { "he": "ג. \"אל ישנה אדם\" — הויכוח בבבלי", "en": "C. \"A Person Should Not Deviate\" — The Bavli Debate" },
+      "primaryText": {
+        "ref": "Pesachim 51b:5",
+        "he": "הַהוֹלֵךְ מִמָּקוֹם וְכוּ׳. בִּשְׁלָמָא הַהוֹלֵךְ מִמָּקוֹם שֶׁעוֹשִׂין לְמָקוֹם שֶׁאֵין עוֹשִׂין — נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם, וְאַל יְשַׁנֶּה אָדָם מִפְּנֵי הַמַּחְלוֹקֶת וְלָא לֶיעְבֵּיד.",
+        "en": "We learned in the mishna with regard to refraining from performance of labor on Passover eve: With regard to one who travels from a place where people perform labor on Passover eve to a place where people do not, or from a place where people do not perform labor on Passover eve to a place where people do, the Sages impose upon him the stringencies of the place from which he left and the stringencies of the place to which he went. The Gemara asks: Granted, in the case of one who travels from a place where people perform labor to a place where they do not perform labor, the Sages impose upon him the stringencies of the place to which he went, and a person should not deviate from the standard practice in that place due to potential dispute, and he should not perform labor.",
+        "words": {
+          "al-yeshaneh": {
+            "he": "וְאַל יְשַׁנֶּה אָדָם מִפְּנֵי הַמַּחְלוֹקֶת",
+            "en": "a person should not deviate from the standard practice in that place due to potential dispute"
+          },
+          "chumrei-makom-halach": {
+            "he": "נוֹתְנִין עָלָיו חוּמְרֵי מָקוֹם שֶׁהָלַךְ לְשָׁם",
+            "en": "the Sages impose upon him the stringencies of the place to which he went"
+          },
+          "bishlama": {
+            "he": "בִּשְׁלָמָא הַהוֹלֵךְ מִמָּקוֹם שֶׁעוֹשִׂין לְמָקוֹם שֶׁאֵין עוֹשִׂין",
+            "en": "Granted, in the case of one who travels from a place where people perform labor to a place where they do not perform labor"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "c-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "This phrase at the end of our Mishna — \"and a person may not deviate due to potential dispute\" — is particularly challenging. The phrase threatens to undermine the Mishna itself."
+          }
+        },
+        {
+          "id": "c-problem-setup",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The Mishna established that customs of stringency follow the individual, even when they come to a new place. This suggests that one must observe their minhag of either working or not working even if they come from a place that does the opposite. If they are coming from a place that does not have the stringency — that is, their practice is to work — they can observe the local stringency of not working at the new place without violating their personal minhag or generating conflict."
+          },
+          "highlight": ["chumrei-makom-halach"]
+        },
+        {
+          "id": "c-conflict",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "If their minhag is to not work, and they come to a place where the custom is to work, they will have a conflict. If they keep their stringent minhag of not working they will create conflict. If they work, they will be violating the stringent minhag."
+          },
+          "highlight": ["al-yeshaneh"]
+        },
+        {
+          "id": "c-bavli-transition",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Both the Yerushalmi and the Bavli noted this problem. In the Bavli we find the following debate between Abaye and Rava concerning this problem."
+          },
+          "highlight": ["bishlama"]
+        },
+        {
+          "id": "c-verse-change-gemara",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Pesachim 51b:7",
+            "he": "אָמַר אַבָּיֵי: אַרֵישָׁא. רָבָא אָמַר: לְעוֹלָם אַסֵּיפָא, וְהָכִי קָאָמַר: אֵין בָּזוֹ מִפְּנֵי שִׁינּוּי הַמַּחְלוֹקֶת. מַאי קָא אָמְרַתְּ — הָרוֹאֶה אוֹמֵר מְלָאכָה אֲסוּרָה? מֵימָר אָמְרִי: כַּמָּה בַּטְלָנֵי הָוֵי בְּשׁוּקָא.",
+            "en": "Abaye said: The principle that one should not deviate due to potential dispute is referring to the first clause, that one who arrives at a place where people do not perform labor adopts the local stringency. Rava said: Actually, it is possible to say this halakha is also referring to the latter clause of the mishna, and this is what it is saying: Refraining from labor does not constitute a deviation that causes dispute. What are you saying; one who sees him will say that he is not working because he believes that performing labor is prohibited, contrary to local practice? That is unlikely, as when people see him inactive that will not be their assumption. Instead, they will say: How many idle people there are in the market every day who do not work.",
+            "words": {
+              "abaye": {
+                "he": "אָמַר אַבָּיֵי: אַרֵישָׁא",
+                "en": "Abaye said: The principle that one should not deviate due to potential dispute is referring to the first clause"
+              },
+              "rava": {
+                "he": "רָבָא אָמַר: לְעוֹלָם אַסֵּיפָא",
+                "en": "Rava said: Actually, it is possible to say this halakha is also referring to the latter clause"
+              },
+              "ein-bazo": {
+                "he": "אֵין בָּזוֹ מִפְּנֵי שִׁינּוּי הַמַּחְלוֹקֶת",
+                "en": "Refraining from labor does not constitute a deviation that causes dispute"
+              },
+              "batlanei": {
+                "he": "כַּמָּה בַּטְלָנֵי הָוֵי בְּשׁוּקָא",
+                "en": "How many idle people there are in the market"
+              }
+            }
+          }
+        },
+        {
+          "id": "c-abaye-view",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "According to Abaye, the tension is resolved if we interpret the clause of \"do not deviate\" as referring only to the first case of the Mishna: when one who has the custom to work travels to a place that does not work. In this case, the demand to not deviate serves as an explanation for why one must observe the local stringency even if they are not from that place. They are obligated to not work out of respect for the local population and maintain the peace, not because the local stringency has any halakhic claim of authority over them."
+          },
+          "highlight": ["abaye"]
+        },
+        {
+          "id": "c-abaye-implication",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "An implication of Abaye's view which will emerge in a later sugya is that if one could maintain their practice in private without causing communal tension, they may do so even in violation of the communal stringency."
+          },
+          "highlight": ["abaye"]
+        },
+        {
+          "id": "c-rava-view",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Rava's view, however, is that the requirement not to deviate refers to both clauses. In the case of our Mishna, a person who has the stringency not to work who arrives to a place that does not have that stringency, can practice their stringency of not working because desisting from labor is not perceived as a religious stringency."
+          },
+          "highlight": ["rava", "ein-bazo"]
+        },
+        {
+          "id": "c-rava-batlanei",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Many people are found not working in the marketplace. Observing this stringency in a place where people work would not create friction because it is not noticeable as a deviation from normal practice."
+          },
+          "highlight": ["batlanei"],
+          "effect": "glow"
+        }
+      ]
+    },
+
+    {
+      "id": "section-d",
+      "title": { "he": "ד. תשובת הירושלמי והמסקנות", "en": "D. The Yerushalmi's Answer and Conclusions" },
+      "primaryText": {
+        "ref": "Jerusalem Talmud Pesachim 4:1:14",
+        "he": "נִיחָא מִמְּקוֹם שֶׁעוֹשִׂין לִמְקוֹם שֶׁאֵין עוֹשִׂין. מִמְּקוֹם שֶׁאֵין עוֹשִׂין לִמְקוֹם שֶׁעוֹשִׂין. וִיבַטֵּל. שֶׁהֲרֵי כַמָּה בְטֵילִין יֵשׁ לוֹ בְאוֹתוֹ מָקוֹם. רִבִּי סִימוֹן בְּשֵׁם רִבִּי יוֹחָנָן. בְּמַתְמִיהַּ.",
+        "en": "One understands \"one goes from a place where he works to one where he does not work.\" \"From a place where he does not work to one where he works,\" why should he not be idle? Are there not many idlers at that place? Rebbi Simon in the name of Rebbi Yochanan: If he causes to wonder.",
+        "words": {
+          "nicha": {
+            "he": "נִיחָא מִמְּקוֹם שֶׁעוֹשִׂין לִמְקוֹם שֶׁאֵין עוֹשִׂין",
+            "en": "One understands \"one goes from a place where he works to one where he does not work.\""
+          },
+          "viyebatel": {
+            "he": "וִיבַטֵּל",
+            "en": "why should he not be idle"
+          },
+          "kamah-beteilin": {
+            "he": "כַמָּה בְטֵילִין יֵשׁ לוֹ בְאוֹתוֹ מָקוֹם",
+            "en": "Are there not many idlers at that place"
+          },
+          "bematmiah": {
+            "he": "רִבִּי סִימוֹן בְּשֵׁם רִבִּי יוֹחָנָן. בְּמַתְמִיהַּ.",
+            "en": "Rebbi Simon in the name of Rebbi Yochanan: If he causes to wonder."
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "d-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "According to the Yerushalmi, R. Yochanan offers another answer to the same problem that Abaye and Rava debated in the Bavli."
+          }
+        },
+        {
+          "id": "d-yerushalmi-parallel",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The Yerushalmi makes the same basic observation as Rava in the Bavli: when someone who does not work comes to a place where people do work, they can simply be idle — because there are already many idle people in the marketplace. No one will notice their inactivity as a religious statement."
+          },
+          "highlight": ["kamah-beteilin"]
+        },
+        {
+          "id": "d-pnei-moshe",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The <i>Pnei Moshe</i> commentary (R. Moshe Margalit, 18th cent.) explains R. Yochanan in line with the Bavli. The <i>Korban HaEda</i> (R. David Frankel, 18th cent.), however, explains R. Yochanan as applying the principle of \"do not deviate\" to a case where one who has a stringency not to work comes to a place where people work, if that person's behavior would cause people to question their motivation."
+          },
+          "highlight": ["bematmiah"]
+        },
+        {
+          "id": "d-korban-haeda",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "If others would know either from the person's profession or personality that the only reason that they were not working was a religious motivation, they would indeed have to perform labor in order to avoid controversy. Chanoch Albeck accepts this interpretation as the <i>pshat</i> (straightforward reading) of the Mishna."
+          },
+          "highlight": ["bematmiah", "viyebatel"]
+        },
+        {
+          "id": "d-tension-nature",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "All of these approaches among the Amoraim recognize that observing one's personal practice when it deviates from communal practice, even in a matter of custom, creates tension. The text does not specify the nature of that tension. In the case of stringency, it could broadcast a negative judgment or \"holier than thou\" attitude which people might find offensive. In the case of ignoring a stringency, it may be because the local population believes that their stringency is actually a requirement."
+          },
+          "highlight": ["nicha"]
+        },
+        {
+          "id": "d-question-tension",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "What is the nature of the tension created when an individual's personal practice deviates from the communal norm? How do the different Amoraic approaches — Abaye, Rava, and R. Yochanan — each understand what is at stake?"
+          },
+          "highlight": ["bematmiah"],
+          "effect": "pulse"
+        },
+        {
+          "id": "d-conclusion",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "In any event, it is clear that communities took their customs and standards quite seriously, and individuals making exceptions for themselves was not appreciated. This phenomenon is in contrast to the pluralism of minhag noted before. Apparently, while difference in custom was supported in different places, people were expected to adhere strictly to the same practices within the community. We witness a similar situation today. Ashkenazi and Sephardic synagogues can stand happily side by side, but no one would dare bring Ashkenazi practice into the Sephardic synagogue or vice versa."
+          }
+        }
+      ]
+    }
+  ]
+}

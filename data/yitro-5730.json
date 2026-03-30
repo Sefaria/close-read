@@ -1,0 +1,348 @@
+{
+  "title": {
+    "he": "פרשת יתרו תש״ל",
+    "en": "Parashat Yitro 5730",
+    "subtitle": {
+      "he": "פוקד עוון אבות על בנים",
+      "en": "Visiting the Iniquity of Parents upon Children"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "Nechama Leibowitz"
+    },
+    "sourceUrl": "https://www.sefaria.org/sheets/160545",
+    "sourceLabel": "View the original sheet on Sefaria",
+    "questionLabel": { "he": "נחמה שואלת", "en": "Nechama asks" }
+  },
+
+  "sections": [
+    {
+      "id": "section-a",
+      "title": { "he": "א. \"פֹּקֵד עֲוֺן אָבֹת\"", "en": "A. \"Visiting the Iniquity of Parents\"" },
+      "primaryText": {
+        "ref": "Exodus 20:5",
+        "he": "לֹא־תִשְׁתַּחֲוֶה לָהֶם וְלֹא תׇעׇבְדֵם כִּי אָנֹכִי יְהֹוָה אֱלֹהֶיךָ אֵל קַנָּא פֹּקֵד עֲוֺן אָבֹת עַל־בָּנִים עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים לְשֹׂנְאָי",
+        "en": "You shall not bow down to them or serve them. For I the LORD your God am an impassioned God, visiting the guilt of the parents upon the children, upon the third and upon the fourth generations of those who reject Me,",
+        "words": {
+          "poked-avon": {
+            "he": "פֹּקֵד עֲוֺן",
+            "en": "visiting the guilt"
+          },
+          "avot-al-banim": {
+            "he": "אָבֹת עַל־בָּנִים",
+            "en": "of the parents upon the children"
+          },
+          "al-shileshim": {
+            "he": "עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים",
+            "en": "upon the third and upon the fourth generations"
+          },
+          "lesonai": {
+            "he": "לְשֹׂנְאָי",
+            "en": "of those who reject Me"
+          },
+          "el-kana": {
+            "he": "אֵל קַנָּא",
+            "en": "an impassioned God"
+          },
+          "lo-tishtachaveh": {
+            "he": "לֹא־תִשְׁתַּחֲוֶה לָהֶם וְלֹא תׇעׇבְדֵם",
+            "en": "You shall not bow down to them or serve them"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "a-intro",
+          "type": "narration",
+          "text": {
+            "he": "פסוק זה מן הדברות הוא אחד הקשים בתורה כולה. האם הקב\"ה מעניש בנים על חטאי אבותיהם? הפסוק נראה סותר את עיקרון הצדק האישי — ופרשנים רבים התמודדו עם הסתירה.",
+            "en": "This verse from the Ten Commandments is one of the most difficult in the entire Torah. Does God punish children for the sins of their parents? The verse seems to contradict the principle of individual justice — and many commentators have wrestled with the contradiction."
+          }
+        },
+        {
+          "id": "a-mekhilta-yishmael",
+          "type": "commentary",
+          "source": "Mekhilta",
+          "ref": "Mekhilta DeRabbi Yishmael, Tractate Bachodesh 6:22",
+          "sourceLabel": { "he": "מכילתא דרבי ישמעאל", "en": "Mekhilta DeRabbi Yishmael" },
+          "text": {
+            "he": "בזמן שאינן מסורגין, או בזמן שהן מסורגין? הא כיצד: רשע בן רשע בן רשע. ר' נתן אומר: קוצץ בן קוצץ בן קוצץ. כיון ששמע משה את הדבר הזה \"ויקוד ארצה וישתחוה\". אמר: \"חס ושלום! אין בישראל רשע בן רשע בן רשע\".",
+            "en": "When they are not separated (consecutive) or when they are separated? How so? An evildoer, the son of an evildoer, the son of an evildoer. R. Nathan says: A renegade, the son of a renegade, the son of a renegade. When Moses heard this, he bowed to the ground and prostrated himself, saying: God forbid, there is no evildoer, the son of an evildoer, the son of an evildoer in Israel!"
+          },
+          "highlight": ["avot-al-banim", "al-shileshim"],
+          "annotation": {
+            "he": "המכילתא מגבילה את העונש: רק כשהדורות רשעים ברצף — \"רשע בן רשע בן רשע\". משה שמח לשמוע זאת.",
+            "en": "The Mekhilta limits the punishment: only when the generations are wicked consecutively — \"an evildoer, son of an evildoer, son of an evildoer.\" Moses rejoices to hear this."
+          }
+        },
+        {
+          "id": "a-mekhilta-rashbi",
+          "type": "commentary",
+          "source": "Mekhilta",
+          "ref": "Mekhilta DeRabbi Shimon Ben Yochai 20:5",
+          "sourceLabel": { "he": "מכילתא דרשב\"י", "en": "Mekhilta DeRashbi" },
+          "text": {
+            "he": "\"פוקד\" — אין פוקד אלא מזכיר וכן הוא אומר \"וה' פקד את שרה\" ואומר \"פקוד פקדתי אתכם\". ר' יהודה אומר: כונס אני עונותיכם לידי ותולה עד ארבעה דורות, כיהוא בן נמשי; וכן הוא אומר \"בני רביעים ישבו לך על כסא ישראל\", ויהי לו כן.",
+            "en": "\"Visiting (poked)\" — visiting always means to remember. And so it states, \"And the Lord visited Sarah\" (Genesis 21:1); and it states, \"I will surely visit you\" (Exodus 3:16). R. Yehudah says: I gather together the iniquities with me, and suspend them until the fourth generation; as with Jehu, the son of Nimshi. Accordingly, it states, \"Four generations of your descendants shall occupy the throne of Israel\" (II Kings 15:12). And so it was for him."
+          },
+          "highlight": ["poked-avon"],
+          "effect": "glow",
+          "annotation": {
+            "he": "מכילתא דרשב\"י מפרשת את המילה \"פוקד\" עצמה: לא עונש מיידי אלא זכירה — צבירת העוונות עד שמגיע רגע החשבון.",
+            "en": "The Mekhilta DeRashbi interprets the word \"visiting\" itself: not immediate punishment but remembering — accumulating the iniquities until the moment of reckoning arrives."
+          }
+        },
+        {
+          "id": "a-question-mekhilta",
+          "type": "question",
+          "text": {
+            "he": "מה ההבדל בין שתי המכילתות בפירוש \"פוקד עוון אבות על בנים\"? האם שתיהן מסירות את הקושי המוסרי, או רק מרככות אותו?",
+            "en": "What is the difference between the two Mekhiltot in their interpretation of \"visiting the iniquity of parents upon children\"? Do both resolve the moral difficulty, or only soften it?"
+          },
+          "highlight": ["poked-avon", "avot-al-banim"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-b",
+      "title": { "he": "ב. הסתירה בין הפסוקים", "en": "B. The Contradiction between Verses" },
+      "primaryText": {
+        "ref": "Exodus 20:5 vs. Deuteronomy 24:16",
+        "mode": "comparison",
+        "left": {
+          "ref": "Exodus 20:5",
+          "he": "פֹּקֵד עֲוֺן אָבֹת עַל־בָּנִים עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים לְשֹׂנְאָי",
+          "en": "visiting the guilt of the parents upon the children, upon the third and upon the fourth generations of those who reject Me"
+        },
+        "right": {
+          "ref": "Deuteronomy 24:16",
+          "he": "לֹא־יוּמְתוּ אָבוֹת עַל־בָּנִים וּבָנִים לֹא־יוּמְתוּ עַל־אָבוֹת אִישׁ בְּחֶטְאוֹ יוּמָתוּ",
+          "en": "Parents shall not be put to death for children, nor children be put to death for parents: they shall be put to death only for their own crime."
+        },
+        "words": {
+          "poked-left": {
+            "he": "פֹּקֵד עֲוֺן אָבֹת עַל־בָּנִים",
+            "en": "visiting the guilt of the parents upon the children",
+            "side": "left"
+          },
+          "lesonai-left": {
+            "he": "לְשֹׂנְאָי",
+            "en": "of those who reject Me",
+            "side": "left"
+          },
+          "lo-yumtu": {
+            "he": "לֹא־יוּמְתוּ אָבוֹת עַל־בָּנִים וּבָנִים לֹא־יוּמְתוּ עַל־אָבוֹת",
+            "en": "Parents shall not be put to death for children, nor children be put to death for parents",
+            "side": "right"
+          },
+          "ish-becheto": {
+            "he": "אִישׁ בְּחֶטְאוֹ יוּמָתוּ",
+            "en": "they shall be put to death only for their own crime",
+            "side": "right"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b-intro",
+          "type": "narration",
+          "text": {
+            "he": "לפנינו שני פסוקים שנראים כסותרים זה את זה. האחד אומר שהקב\"ה פוקד עוון אבות על בנים; והשני — שכל איש בחטאו ימות. כיצד יישבו חז\"ל את הסתירה?",
+            "en": "Before us are two verses that seem to contradict each other. One says God visits the iniquity of parents upon children; the other — that each person shall die only for their own sin. How did the Sages resolve the contradiction?"
+          }
+        },
+        {
+          "id": "b-berakhot",
+          "type": "commentary",
+          "source": "Talmud",
+          "ref": "Berakhot 7a:26-27",
+          "sourceLabel": { "he": "ברכות ז' ע\"א", "en": "Berakhot 7a" },
+          "text": {
+            "he": "אמר מר: צדיק וטוב לו — צדיק בן צדיק. צדיק ורע לו — צדיק בן רשע. איני, והא כתיב \"פוקד עוון אבות על בנים\" וכתיב \"ובנים לא יומתו על אבות\" ורמיזן קראי אהדדי? ומשנינן: לא קשיא: הא כשאוחזין מעשה אבותיהם בידיהם, הא כשאין אוחזים מעשה אבותיהם בידיהם.",
+            "en": "The Master said: The righteous person who prospers is a righteous person, the son of a righteous person. The righteous person who suffers is a righteous person, the son of a wicked person. Is it so? But it is written: \"He visits iniquity of the fathers upon the children\" and it is also written: \"children shall not be put to death for the fathers\" — and the verses contradict each other! The resolution: This is not difficult. This verse refers to a case where they adopt the actions of their ancestors as their own. The other verse refers to a case where they do not adopt the actions of their ancestors as their own."
+          },
+          "highlight": ["poked-left", "lo-yumtu"],
+          "effect": "glow",
+          "annotation": {
+            "he": "פתרון הגמרא: הכל תלוי בבנים עצמם. \"כשאוחזין מעשה אבותיהם\" — הבנים ממשיכים בדרך הרשע. רק אז חל העונש.",
+            "en": "The Gemara's solution: everything depends on the children themselves. \"When they adopt the actions of their ancestors\" — the children continue in the wicked path. Only then does punishment apply."
+          }
+        },
+        {
+          "id": "b-question-berakhot",
+          "type": "question",
+          "text": {
+            "he": "לפי הגמרא, האם הבנים באמת נענשים על חטאי אבותיהם? או שמא הם נענשים על חטאם שלהם — שהוא המשך חטא האבות?",
+            "en": "According to the Gemara, are the children truly punished for the sins of their parents? Or are they punished for their own sin — which is a continuation of the parents' sin?"
+          },
+          "highlight": ["poked-left", "ish-becheto"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-c",
+      "title": { "he": "ג. משה מלמד את הקב\"ה", "en": "C. Moses Teaches God" },
+      "primaryText": {
+        "ref": "Exodus 20:5",
+        "he": "לֹא־תִשְׁתַּחֲוֶה לָהֶם וְלֹא תׇעׇבְדֵם כִּי אָנֹכִי יְהֹוָה אֱלֹהֶיךָ אֵל קַנָּא פֹּקֵד עֲוֺן אָבֹת עַל־בָּנִים עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים לְשֹׂנְאָי",
+        "en": "You shall not bow down to them or serve them. For I the LORD your God am an impassioned God, visiting the guilt of the parents upon the children, upon the third and upon the fourth generations of those who reject Me,",
+        "words": {
+          "poked-avon": {
+            "he": "פֹּקֵד עֲוֺן",
+            "en": "visiting the guilt"
+          },
+          "avot-al-banim": {
+            "he": "אָבֹת עַל־בָּנִים",
+            "en": "of the parents upon the children"
+          },
+          "al-shileshim": {
+            "he": "עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים",
+            "en": "upon the third and upon the fourth generations"
+          },
+          "lesonai": {
+            "he": "לְשֹׂנְאָי",
+            "en": "of those who reject Me"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "c-intro",
+          "type": "narration",
+          "text": {
+            "he": "המדרש מספר על שלושה דברים שמשה אמר לפני הקב\"ה, והקב\"ה ענה לו: \"לימדתני\". אחד מהם הוא עניין פקידת עוונות.",
+            "en": "The midrash tells of three things Moses said before the Holy One, to which God responded: \"You have taught me.\" One of them is the matter of visiting iniquities."
+          }
+        },
+        {
+          "id": "c-bemidbar-rabbah",
+          "type": "commentary",
+          "source": "Bemidbar Rabbah",
+          "ref": "Bemidbar Rabbah 19:33",
+          "sourceLabel": { "he": "במדבר רבה י\"ט:ל\"ג", "en": "Bemidbar Rabbah 19:33" },
+          "text": {
+            "he": "זה אחד משלושה דברים שאמר משה לפני הקדוש ברוך הוא ואמר לו: \"לימדתני\". השניה: כשאמר לו הקדוש ברוך הוא: \"פוקד עוון אבות על בנים\", אמר משה: \"ריבונו של עולם! כמה רשעים הולידו צדיקים, יהיו נוטלים מעוונות אביהם?! תרח עובד צלמים, ואברהם בנו צדיק, וכן חזקיה צדיק, ואחז אביו רשע. וכן יאשיהו — צדיק, ואמון אביו רשע. וכך נאה — שיהיו הצדיקים לוקין בעוון אביהם?!\" אמר לו הקדוש ברוך הוא: \"לימדתני! חייך שאני מבטל דברי ומקיים דבריך, שנאמר 'לא יומתו אבות על בנים ובנים לא יומתו על אבות', וחייך שאני כותבן לשמך, שנאמר 'ככתוב בספר תורת משה אשר ציוה ה''.\"",
+            "en": "This is one of the three things that Moses said before the Holy One, blessed be He, and He said to him, \"You have taught me.\" The second: when the Holy One said, \"visiting the iniquity of the parents upon the children,\" Moses said: \"Master of the Universe! How many evildoers begat righteous ones — should they bear the iniquities of their parents?! Terach worshiped idols, but his son Abraham was righteous; Hezekiah was righteous, but his father Ahaz was wicked; Josiah was righteous, but his father Amon was wicked. Is this proper — that the righteous be struck for the iniquities of their parents?!\" The Holy One said to him: \"You have taught Me! By your life, I will nullify My words and preserve your words, as it is stated, 'The parents shall not die for the children, and the children shall not die for the parents'; and by your life, I shall write these things in your name, as it is stated, 'as it is written in the Torah of Moses, which God commanded.'\""
+          },
+          "highlight": ["poked-avon", "avot-al-banim"],
+          "effect": "glow",
+          "annotation": {
+            "he": "מדרש מפליא: הקב\"ה מודה שמשה צודק ומבטל את דבריו שלו. עיקרון הצדק האישי מנצח.",
+            "en": "An astonishing midrash: God admits that Moses is right and nullifies His own words. The principle of individual justice prevails."
+          }
+        },
+        {
+          "id": "c-question-midrash",
+          "type": "question",
+          "text": {
+            "he": "כיצד מתמודד מדרש זה עם העובדה שהפסוק \"פוקד עוון אבות\" עדיין כתוב בעשרת הדיברות? האם ניתן לומר שהקב\"ה \"ביטל\" פסוק שנשאר בתורה?",
+            "en": "How does this midrash deal with the fact that the verse \"visiting the iniquity of parents\" still appears in the Ten Commandments? Can one say God \"nullified\" a verse that remains in the Torah?"
+          },
+          "highlight": ["poked-avon", "avot-al-banim"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-d",
+      "title": { "he": "ד. עונש טבעי או עונש אלוקי?", "en": "D. Natural or Divine Punishment?" },
+      "primaryText": {
+        "ref": "Exodus 20:5",
+        "he": "לֹא־תִשְׁתַּחֲוֶה לָהֶם וְלֹא תׇעׇבְדֵם כִּי אָנֹכִי יְהֹוָה אֱלֹהֶיךָ אֵל קַנָּא פֹּקֵד עֲוֺן אָבֹת עַל־בָּנִים עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים לְשֹׂנְאָי",
+        "en": "You shall not bow down to them or serve them. For I the LORD your God am an impassioned God, visiting the guilt of the parents upon the children, upon the third and upon the fourth generations of those who reject Me,",
+        "words": {
+          "poked-avon": {
+            "he": "פֹּקֵד עֲוֺן",
+            "en": "visiting the guilt"
+          },
+          "avot-al-banim": {
+            "he": "אָבֹת עַל־בָּנִים",
+            "en": "of the parents upon the children"
+          },
+          "al-shileshim": {
+            "he": "עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים",
+            "en": "upon the third and upon the fourth generations"
+          },
+          "lesonai": {
+            "he": "לְשֹׂנְאָי",
+            "en": "of those who reject Me"
+          },
+          "lo-tishtachaveh": {
+            "he": "לֹא־תִשְׁתַּחֲוֶה לָהֶם וְלֹא תׇעׇבְדֵם",
+            "en": "You shall not bow down to them or serve them"
+          },
+          "el-kana": {
+            "he": "אֵל קַנָּא",
+            "en": "an impassioned God"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "d-intro",
+          "type": "narration",
+          "text": {
+            "he": "הרלב\"ג ושד\"ל הולכים בכיוון שונה מחז\"ל. במקום לדרוש \"רשע בן רשע\", הם מפרשים את הפסוק כתיאור של מציאות טבעית: עוונות ההורים יוצרים תוצאות שנמשכות לדורות.",
+            "en": "Ralbag and Shadal take a different direction from the Sages. Rather than interpreting \"an evildoer, son of an evildoer,\" they read the verse as describing a natural reality: the sins of parents create consequences that persist for generations."
+          }
+        },
+        {
+          "id": "d-ralbag",
+          "type": "commentary",
+          "source": "Ralbag",
+          "ref": "Ralbag on Torah, Exodus 20:1:3",
+          "sourceLabel": { "he": "רלב\"ג", "en": "Ralbag" },
+          "text": {
+            "he": "והנה יסופק בזה המאמר ספק, והוא: איך ייתכן שיעניש ה' יתברך בני החוטא, והנה אין להם אשם בחטא אביהם?? ואנחנו מתירים זה הספק בזה האופן: שהעונש יביא ה' על העוברים על דבריו, וכאשר יהיו אלה הרעות באופן שיגיע להם רע לזרעם ולא היה מגיע להם לולא חטא אבותיהם. והמשל: כאשר מרו אבותינו חויב להם מהעונש שיגלו בין האומות ויירשו גויים ארצם. והנה נמשך לזרעם אחריהם הגלות, בסיבת הימצאם גולים בהיוולדם. ובזה האופן אמר הנביא: \"אבותינו חטאו ואינם ואנחנו עונותיהם סבלנו\". ובזה האופן לא היה עול, אם יגיע לבנים עונש בעבור חטא האבות, כי זהו במקרה.",
+            "en": "But behold, there is a question about this statement: how is it possible that God would punish the children of a sinner, seeing that they have no guilt for the sin of their father?? And we answer this question in this way: the punishment that God brings upon those that transgress His words — when these woes reach their children, it would not have reached them were it not for the sins of their parents. For example: when our ancestors rebelled, they were liable for the punishment that they would be exiled among the nations. And the exile continues to their children after them, because they were born into exile. In this way the prophet said: \"Our fathers sinned and are no more; and we must bear their guilt\" (Lamentations 5:7). And in this way, there is no injustice if the punishment reaches the children for the sake of the parents, as this is through happenstance."
+          },
+          "highlight": ["avot-al-banim", "al-shileshim"],
+          "annotation": {
+            "he": "הרלב\"ג מציע מודל של \"תוצאות טבעיות\": הגלות היא עונש שנמשך לדורות הבאים — לא כעונש מכוון אלא כמציאות שהם נולדו לתוכה.",
+            "en": "Ralbag proposes a model of \"natural consequences\": exile is a punishment that extends to future generations — not as intentional punishment but as the reality they were born into."
+          }
+        },
+        {
+          "id": "d-shadal",
+          "type": "commentary",
+          "source": "Shadal",
+          "ref": "Shadal on Exodus 20:5:4",
+          "sourceLabel": { "he": "שד\"ל", "en": "Shadal" },
+          "text": {
+            "he": "ואשר אני אחזה לי הוא כי ודאי משמעות המקרא הוא, שאף על בנים צדיקים ה' פוקד עוון אבות, וכן היתה אמונת אבותינו וכן אמרו חז\"ל: \"צדיק ורע לו — צדיק בן רשע!\" והוא דבר שהחוש מעיד עליו, שבכמה וכמה עניינים טובים ורעים האב זוכה לבנו, ומעשי האב ודרכיו ומעלליו גורמים בהכרח טובה או רעה לזרעו אחריו, והמידה הזאת היא אחד מסודות ההשגחה הנסתרת. ואולם כן הוא דרך התורה לצייר לנו הטובות והרעות כיורדות מלמעלה בכוונה לשכר ולעונש, אף אם הן נמשכות ובאות בדרך הטבע. כי באמת אין דבר בעולם שיהיה במקרה, אלא הכל נמשך מסיבותיו, והכל משתלשל אל הסיבה הראשונה.",
+            "en": "That which I see is that the meaning of the verse is certainly that God visits the iniquity of the parents even upon righteous children. And such was the faith of our fathers; and so did the Sages say: \"A righteous one who has bad befall him is a righteous one that is the child of an evildoer!\" And it is something to which our senses testify, that the father gives over quite a few good and bad things to his child, and his ways and deeds perforce bring good or bad to his offspring after him. This phenomenon is one of the secrets of hidden providence. Nevertheless, this is the way of the Torah — to describe the bad and the good to us as if they intentionally came down from Above as reward and punishment, even if they come about naturally. For in truth, there is nothing in the world that is by happenstance. Everything is the result of its causes, and everything is an outgrowth of the First Cause."
+          },
+          "highlight": ["poked-avon", "avot-al-banim"],
+          "annotation": {
+            "he": "שד\"ל מסכים עם הרלב\"ג שמדובר בתוצאות טבעיות, אבל מוסיף: התורה מתארת זאת כעונש מכוון כדי להרתיע. בפועל — הכל עובד דרך חוקי הטבע שהקב\"ה קבע.",
+            "en": "Shadal agrees with Ralbag that these are natural consequences, but adds: the Torah describes it as intentional punishment in order to deter. In practice — everything operates through the laws of nature that God established."
+          }
+        },
+        {
+          "id": "d-shadal-deterrence",
+          "type": "narration",
+          "text": {
+            "he": "שד\"ל מוסיף נקודה חשובה: עצם הידיעה שחטאים יגרמו סבל גם לילדים — היא כלי הרתעה. \"כל אב אוהב את זרעו, והדאגה שמא חטאיו יביאו רעות גם לבניו, תעצרנו אם מעט ואם הרבה מלכת תמיד בשרירות לבו.\"",
+            "en": "Shadal adds a crucial point: the very knowledge that sins will cause suffering even to one's children serves as a deterrent. \"Every father loves his offspring, and the worry lest his sins bring woes also to his children stops him from always following his willful heart, to one extent or another.\""
+          },
+          "highlight": ["avot-al-banim", "lesonai"]
+        },
+        {
+          "id": "d-question-approaches",
+          "type": "question",
+          "text": {
+            "he": "הרלב\"ג ושד\"ל מפרשים את הפסוק כתיאור תוצאות טבעיות, ואילו חז\"ל בגמרא (ברכות ז') מפרשים \"כשאוחזין מעשה אבותיהם בידיהם\". מה ההבדל העקרוני בין הגישות? ומה היתרון של כל גישה?",
+            "en": "Ralbag and Shadal interpret the verse as describing natural consequences, while the Talmud (Berakhot 7a) interprets it as \"when they adopt the actions of their ancestors.\" What is the fundamental difference between these approaches? And what is the advantage of each?"
+          },
+          "highlight": ["poked-avon", "avot-al-banim", "lesonai"],
+          "effect": "pulse"
+        }
+      ]
+    }
+  ]
+}

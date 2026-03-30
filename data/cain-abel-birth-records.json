@@ -1,0 +1,238 @@
+{
+  "title": {
+    "he": "קין והבל: תעודות הלידה",
+    "en": "Cain and Abel: The Birth Records",
+    "subtitle": {
+      "he": "טעמי הפרדס — מכון פרדס",
+      "en": "Ta'amei HaPardes — Pardes Institute"
+    },
+    "author": {
+      "he": "ג׳ודי קליצנר",
+      "en": "Judy Klitsner"
+    },
+    "sourceUrl": "https://www.sefaria.org/sheets/523079",
+    "sourceLabel": "View the original sheet on Sefaria"
+  },
+
+  "sections": [
+    {
+      "id": "section-a",
+      "title": {
+        "he": "\"וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתּוֹ\"",
+        "en": "\"The Human Knew His Wife Eve\""
+      },
+      "primaryText": {
+        "ref": "Genesis 4:1",
+        "he": "וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד אֶת־קַיִן וַתֹּאמֶר קָנִיתִי אִישׁ אֶת־יהוה",
+        "en": "Now the Human knew his wife Eve, and she conceived and bore Cain, saying, 'I have gained a person with the LORD.'",
+        "words": {
+          "ha-adam-yada": { "he": "וְהָאָדָם יָדַע", "en": "the Human knew" },
+          "et-chavah-ishto": { "he": "אֶת־חַוָּה אִשְׁתּוֹ", "en": "his wife Eve" }
+        }
+      },
+      "steps": [
+        {
+          "id": "a-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "We begin our study of the Cain and Abel narrative by turning our attention to verses 1–8. In this first section, Eve gives birth to two sons. Both bring offerings to God; only Abel's is accepted. Despite a rare preemptive intervention by God, a furious Cain kills his brother, Abel."
+          }
+        },
+        {
+          "id": "a-syntax",
+          "type": "narration",
+          "text": {
+            "he": "וְהָאָדָם יָדַע",
+            "en": "Many commentators find the opening of this verse to be anomalous. Until now, the syntactical norm of the biblical verse has been verb-subject (as in Gen. 2:20, <i>va-yikra ha-adam</i>, and Gen. 3:3, <i>va-tomer ha-ishah</i>), with a <i>vav</i> conversive as prefix. Yet suddenly chapter 4 begins with the inverse sequence of subject before verb. Is this departure from biblical convention coincidental? Or does it convey some additional message at this moment of transition from the Garden of Eden narrative?"
+          },
+          "highlight": ["ha-adam-yada"]
+        },
+        {
+          "id": "a-rashi",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Rashi accounts for the unusual sequence by identifying it as a marker of a new grammatical form: the pluperfect, or distant past. In Rashi's view, the verse is not to be read 'the man knew Eve his wife,' but rather 'the man <i>had known</i>….' Emerging from Rashi's grammar lesson is the notion that the first recorded act of sexual intercourse took place not following humanity's misdeed and expulsion from God's idyllic garden, but rather at an earlier point, in the garden itself, as part of God's initial creation."
+          },
+          "highlight": ["ha-adam-yada"]
+        },
+        {
+          "id": "a-theology",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The philosophical and theological implications of Rashi's interpretation are far-reaching. Possibly, his words contain a polemical rejection of a view within Christianity that considered celibacy to be the ideal human state. But whether or not polemics are a factor in Rashi's thinking, it is likely that his primary motive in interpreting the verse as he does is syntactical: making sense of the anomalous subject-verb sequence in the words <i>ve-ha-adam yada</i>."
+          },
+          "highlight": ["ha-adam-yada"]
+        },
+        {
+          "id": "a-ishto",
+          "type": "narration",
+          "text": {
+            "he": "אֶת־חַוָּה אִשְׁתּוֹ",
+            "en": "Why does the biblical text, usually so economical with its language, attach the seemingly extraneous qualifier <i>ishto</i>, 'his wife,' to Eve's name? Is there any risk that the reader would mistake this Eve for another?"
+          },
+          "highlight": ["et-chavah-ishto"]
+        },
+        {
+          "id": "a-naming",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Perhaps the redundant language of <i>Havvah ishto</i> sets up a parallel between this verse and Gen. 3:20, the last time the term appears. In that verse, on the heels of the terrible consequences meted out by God following humanity's disobedience, Eve is named by Adam, an act that contains two seemingly paradoxical dimensions. On the one hand, Adam's naming of his wife suggests inequality and hierarchy. Just as he asserts his mastery over the animals by naming them (Gen. 2:20), so does his act of naming 'his wife' suggest dominance. Yet, on the other hand, naming can be an expression of intimate knowledge of the other. When Adam names Eve, he acknowledges her essence: she is <i>em kol hai</i>, 'the mother of all the living.' Thus, <i>ishto</i>, 'his wife,' is a term not only of hierarchy and ownership, but of deep knowledge and attachment."
+          },
+          "highlight": ["et-chavah-ishto"]
+        },
+        {
+          "id": "a-dual",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Perhaps the repetition of the phrase <i>Havvah ishto</i> in Genesis 4:1 implies a continuation of Adam's dual attitude toward Eve. Especially now, when she has actualized her potential as 'mother of all the living,' he views her with a sense of wonder and with feelings of profound connection. Support for this aspect of their relationship might be found in the verb <i>yada</i>, which literally means 'he knew' her — a term for sexual relations that evokes a sense of connection both broad and deep, conveying Adam's appreciation of his wife's fundamental essence. Yet, at the same time, the possessive 'his wife' points to Adam's continued dominance over Eve, and so the hierarchy carries on. As we will see when we consider her speech at the end of this verse, Eve, the newly empowered mother, will have other ideas about this aspect of their relationship."
+          },
+          "highlight": ["ha-adam-yada", "et-chavah-ishto"]
+        }
+      ]
+    },
+
+    {
+      "id": "section-b",
+      "title": {
+        "he": "\"קָנִיתִי אִישׁ אֶת־ה׳\"",
+        "en": "\"I Have Gained a Person with the LORD\""
+      },
+      "primaryText": {
+        "ref": "Genesis 4:1",
+        "he": "וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד אֶת־קַיִן וַתֹּאמֶר קָנִיתִי אִישׁ אֶת־יהוה",
+        "en": "Now the Human knew his wife Eve, and she conceived and bore Cain, saying, 'I have gained a person with the LORD.'",
+        "words": {
+          "vatahar-vateled": { "he": "וַתַּהַר וַתֵּלֶד אֶת־קַיִן", "en": "she conceived and bore Cain" },
+          "kaniti": { "he": "קָנִיתִי", "en": "I have gained" },
+          "ish": { "he": "אִישׁ", "en": "a person" },
+          "et-adonai": { "he": "אֶת־יהוה", "en": "with the LORD" }
+        }
+      },
+      "steps": [
+        {
+          "id": "b-intro",
+          "type": "narration",
+          "text": {
+            "he": "וַתַּהַר וַתֵּלֶד אֶת־קַיִן",
+            "en": "It is unusual for a biblical woman to give birth to a named child. The more common formula, especially in relation to the birth of a character of consequence, is: <i>va-tahar va-teled ben va-tikra et shemo…</i>, 'she conceived and bore a son and called his name…' (as in Gen. 29:32–34)."
+          }
+        },
+        {
+          "id": "b-birth",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The uncommon wording in this verse — 'she…bore Cain' — may hint that in some sense, the essential Cain was already present at birth: that his personality, already formed, is tied to the name with which he emerges. In addition, as Eve's birth speech will suggest, Cain's name will, in numerous ways, reflect his mother's sensibilities. To understand Eve's mindset, which arguably was transmitted to Cain, let us unpack her highly ambiguous statement, <i>kaniti ish et Adonai</i>, 'I have acquired a man with the Lord.'"
+          },
+          "highlight": ["vatahar-vateled"]
+        },
+        {
+          "id": "b-kaniti",
+          "type": "narration",
+          "text": {
+            "he": "קָנִיתִי",
+            "en": "The most common meaning of the verb <i>k-n-h</i> is 'to acquire,' and occasionally, by extension, 'to possess.' Yet the same verb can mean 'to create,' as in Genesis 14:19, where the king-priest Melchizedek refers to God as <i>koneh shamayim va-aretz</i>, clearly meaning: the creator of the heavens and the earth. Perhaps, with its choice of this ambiguous verb, the text conveys a dual sentiment felt by Eve. In one sense, the name Kayin reflects her jubilation at her act of supreme creativity, her ability to partner with God in creating a human being. Yet at the same time, with her use of the flexible verb <i>kaniti</i>, Eve hints at her yearning to acquire. As Cain's story unfolds, we will detect signs that all aspects of his given name apply not only to his mother, but to him as well."
+          },
+          "highlight": ["kaniti"]
+        },
+        {
+          "id": "b-ish",
+          "type": "narration",
+          "text": {
+            "he": "אִישׁ",
+            "en": "In this word, too, ambiguity abounds. The plain referent of the word <i>ish</i> within this context is the newborn child being named by its mother. Her meaning is: 'I have acquired (or perhaps, created) a child.' But why would she choose the curious term <i>ish</i>, which typically refers to a grown man? This oddity gives rise to a second possibility. With her word choice, Eve makes subtle reference to her husband, Adam, who is, in fact, the only biblical figure thus far to be referred to as <i>ish</i> (e.g., Gen. 2:23–24)."
+          },
+          "highlight": ["ish"]
+        },
+        {
+          "id": "b-pardes",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "But which is it? Contemporary scholar Ilana Pardes sees great value in embracing, rather than resolving, the ambiguity. <i>Ish</i> can refer to Adam, who, because the first woman was extracted from his body, saw himself as his wife's creator (Gen. 2:23). His proud declaration when she first appears — 'This one at last is bone of my bones and flesh of my flesh. This one shall be called woman (<i>ishah</i>), for from man (<i>ish</i>) was she taken' — supports this view. In Pardes's words, Eve's birth speech is a 'response…to [Adam's] indirect claim to have created woman out of his body.' Pardes imagines Eve now retorting, 'It is not you who created woman out of man…but it is I who created you (<i>ish</i>) together with God!'"
+          },
+          "highlight": ["kaniti", "ish"]
+        },
+        {
+          "id": "b-defiance",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Read this way, the term <i>kaniti ish</i> signals Eve's defiant rejection of the subservient role she was left with at the conclusion of the Garden of Eden narrative. It appears that it is not hierarchy she objects to, only her place within it. With her extraordinary act of childbirth, she now sees herself at the top of humanity's power pyramid: as God's one true partner in creating the human species. In reading the word <i>ish</i> as an artful double entendre, as a 'condensation of Adam and Cain,' Pardes argues that Eve conveys both jubilation at giving birth and competitiveness with her husband — both the 'creativity' and the 'acquisitiveness' implied in the verb <i>kaniti</i>. What emerges is that while Eve genuinely rejoices in her procreative abilities, she also retains and perpetuates the contentious, hierarchical spirit found at the conclusion of the Eden narrative."
+          },
+          "highlight": ["kaniti", "ish", "et-adonai"],
+          "effect": "glow"
+        },
+        {
+          "id": "b-transition",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "On the heels of Eve's heavily charged naming speech, the text turns its attention to a new central figure, Cain. As we follow the story of Eve's firstborn son, we remain alert for signs of the attitudes and sentiments expressed by his mother at his birth."
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "section-c",
+      "title": {
+        "he": "\"אָחִיו הָבֶל\"",
+        "en": "\"His Brother Abel\""
+      },
+      "primaryText": {
+        "ref": "Genesis 4:2",
+        "he": "וַתֹּסֶף לָלֶדֶת אֶת־אָחִיו אֶת־הָבֶל וַיְהִי־הֶבֶל רֹעֵה צֹאן וְקַיִן הָיָה עֹבֵד אֲדָמָה",
+        "en": "She then bore his brother Abel. Abel became a keeper of sheep, and Cain became a tiller of the soil.",
+        "words": {
+          "achiv-hevel": { "he": "אֶת־אָחִיו אֶת־הָבֶל", "en": "his brother Abel" },
+          "hevel-roeh": { "he": "הֶבֶל רֹעֵה צֹאן", "en": "Abel became a keeper of sheep" },
+          "kayin-oved": { "he": "וְקַיִן הָיָה עֹבֵד אֲדָמָה", "en": "Cain became a tiller of the soil" }
+        }
+      },
+      "steps": [
+        {
+          "id": "c-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "But first, the text introduces a second son, Abel."
+          }
+        },
+        {
+          "id": "c-derivative",
+          "type": "narration",
+          "text": {
+            "he": "וַתֹּסֶף לָלֶדֶת אֶת־אָחִיו אֶת־הָבֶל",
+            "en": "In this unusual birth record, there is no mention of the second child's conception. Moreover, Abel is introduced as derivative of his brother, perhaps even as an afterthought: she <i>continued</i> to give birth to…<i>his brother</i>. Some commentators suggest that the verse's odd phrasing is evidence of the birth of twins: hence, there is only one conception, and Eve would have indeed 'continued to give birth.' But it is more likely that the text's anomalous language is meant to grant insight into the characters of the two brothers. The first son, with the expansive narrative that surrounds his birth and his naming, is meant to be seen as Eve's primary offspring. It is Cain who is invested with the yearnings and expectations of his mother. In contrast, Abel — barely acknowledged and deprived of a birthing speech — is presented as secondary to his brother."
+          },
+          "highlight": ["achiv-hevel"]
+        },
+        {
+          "id": "c-hevel",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Further support for this view of Abel may be deduced from the name he is given. Although Eve offers no meaning for the name <i>Hevel</i>, the seasoned biblical reader has no trouble defining it. In its various connotations, the word <i>hevel</i> in the Bible means vapor, vanity, something that is fleeting, insubstantial, or worthless (e.g., Eccl. 1:2). With this name, Eve signals her low expectations of this son. In addition, it is as though the text sends a subtle warning to the reader not to become attached to this character, as his time on earth — as well as his overall lasting import — will be minimal."
+          },
+          "highlight": ["achiv-hevel"],
+          "effect": "pulse"
+        },
+        {
+          "id": "c-occupations",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "As we will see in verse 4, the text will send yet another signal of Abel's relative insignificance. But first, we consider the second half of verse 2."
+          },
+          "highlight": ["hevel-roeh", "kayin-oved"]
+        }
+      ]
+    }
+  ]
+}
