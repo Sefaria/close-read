@@ -62,9 +62,9 @@ function buildIndex() {
         card.className = 'index-card';
         card.href = `?sheet=${sheet.slug}`;
         card.innerHTML = `
-          <div class="index-card-title-he">${sheet.title.he}</div>
+          ${sheet.title.he ? `<div class="index-card-title-he">${sheet.title.he}</div>` : ''}
           <div class="index-card-title-en">${sheet.title.en}</div>
-          <div class="index-card-author">${sheet.author.he} / ${sheet.author.en}</div>
+          <div class="index-card-author">${sheet.author.he ? `${sheet.author.he} / ` : ''}${sheet.author.en}</div>
           ${sheet.description ? `<div class="index-card-desc">${sheet.description}</div>` : ''}
         `;
         list.appendChild(card);
@@ -108,11 +108,11 @@ class CloseReadApp {
     const t = this.data.title;
     const header = document.querySelector('.title-screen');
     header.innerHTML = `
-      <div class="title-he">${t.he}</div>
+      ${t.he ? `<div class="title-he">${t.he}</div>` : ''}
       <div class="title-en">${t.en}</div>
-      <div class="subtitle-he">${t.subtitle.he}</div>
+      ${t.subtitle.he ? `<div class="subtitle-he">${t.subtitle.he}</div>` : ''}
       <div class="subtitle-en">${t.subtitle.en}</div>
-      <div class="author-he">${t.author.he}</div>
+      ${t.author.he ? `<div class="author-he">${t.author.he}</div>` : ''}
       <div class="author-en">${t.author.en}</div>
       <div class="scroll-hint">scroll</div>
     `;
@@ -164,7 +164,7 @@ class CloseReadApp {
       // Section title card
       sectionEl.innerHTML = `
         <div class="section-title-card">
-          <div class="section-title-he">${section.title.he}</div>
+          ${section.title.he ? `<div class="section-title-he">${section.title.he}</div>` : ''}
           <div class="section-title-en">${section.title.en}</div>
         </div>
       `;
@@ -282,31 +282,36 @@ class CloseReadApp {
 
     if (step.type === 'commentary') {
       const refSlug = step.ref ? step.ref.replace(/\s+/g, '_') : '';
+      const labelText = step.sourceLabel.he
+        ? `${step.sourceLabel.he} / ${step.sourceLabel.en}`
+        : step.sourceLabel.en;
       inner.innerHTML = `
         <div>
-          <span class="source-label" data-source="${step.source}">${step.sourceLabel.he} / ${step.sourceLabel.en}</span>
+          <span class="source-label" data-source="${step.source}">${labelText}</span>
           ${step.ref ? `<span class="source-ref"><a href="https://www.sefaria.org/${refSlug}" target="_blank" rel="noopener">${step.ref}</a></span>` : ''}
         </div>
-        <div class="card-text-he">${step.text.he}</div>
+        ${step.text.he ? `<div class="card-text-he">${step.text.he}</div>` : ''}
         <div class="card-text-en">${step.text.en}</div>
         ${step.annotation ? `
           <div class="card-annotation">
-            <div class="card-annotation-he">${step.annotation.he}</div>
+            ${step.annotation.he ? `<div class="card-annotation-he">${step.annotation.he}</div>` : ''}
             <div class="card-annotation-en">${step.annotation.en}</div>
           </div>
         ` : ''}
       `;
     } else if (step.type === 'question') {
       const qLabel = step.questionLabel || this.data.title.questionLabel;
-      const qText = qLabel ? `${qLabel.he} / ${qLabel.en}` : '';
+      const qText = qLabel
+        ? (qLabel.he ? `${qLabel.he} / ${qLabel.en}` : qLabel.en)
+        : '';
       inner.innerHTML = `
         ${qText ? `<div class="question-icon">${qText}</div>` : ''}
-        <div class="card-question-he">${step.text.he}</div>
+        ${step.text.he ? `<div class="card-question-he">${step.text.he}</div>` : ''}
         <div class="card-question-en">${step.text.en}</div>
       `;
     } else if (step.type === 'narration') {
       inner.innerHTML = `
-        <div class="narration-he">${step.text.he}</div>
+        ${step.text.he ? `<div class="narration-he">${step.text.he}</div>` : ''}
         <div class="narration-en">${step.text.en}</div>
       `;
     }

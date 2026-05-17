@@ -28,5 +28,11 @@
     "title": { "he": "מנהג: סקירה כללית", "en": "Minhag: Overview" },
     "author": { "he": "צבי הירשפלד", "en": "Zvi Hirschfield" },
     "description": "The authority of custom in Jewish law — Talmud Pesachim"
+  },
+  {
+    "slug": "pirkei-avot-1-11",
+    "title": { "en": "Avtalyon: The Evil Waters" },
+    "author": { "en": "Avtalyon (and his readers)" },
+    "description": "A guided close reading of Pirkei Avot 1:11 — oldest layers to modern voices"
   }
 ]

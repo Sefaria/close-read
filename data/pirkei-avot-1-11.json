@@ -1,0 +1,562 @@
+{
+  "title": {
+    "en": "Avtalyon: The Evil Waters",
+    "subtitle": {
+      "en": "Pirkei Avot 1:11 — a close reading"
+    },
+    "author": {
+      "en": "Avtalyon (and his readers)"
+    },
+    "sourceUrl": "https://www.sefaria.org/Pirkei_Avot.1.11",
+    "sourceLabel": "Read the Mishnah on Sefaria",
+    "questionLabel": { "en": "A question to sit with" }
+  },
+
+  "sections": [
+    {
+      "id": "section-a",
+      "title": { "en": "A. A First Reading — Phrase by Phrase" },
+      "primaryText": {
+        "ref": "Pirkei Avot 1:11",
+        "he": "אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, הִזָּהֲרוּ בְדִבְרֵיכֶם, שֶׁמָּא תָחוּבוּ חוֹבַת גָּלוּת וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים, וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם וְיָמוּתוּ, וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+        "en": "Avtalyon says: Sages, be careful with your words, lest you incur the obligation of exile, and be exiled to a place of evil waters, and the students who come after you drink, and die — and the name of Heaven is found to be desecrated.",
+        "words": {
+          "avtalyon-omer": {
+            "he": "אַבְטַלְיוֹן אוֹמֵר",
+            "en": "Avtalyon says"
+          },
+          "chachamim": {
+            "he": "חֲכָמִים",
+            "en": "Sages"
+          },
+          "hizaharu-bedivreikhem": {
+            "he": "הִזָּהֲרוּ בְדִבְרֵיכֶם",
+            "en": "be careful with your words"
+          },
+          "chovat-galut": {
+            "he": "שֶׁמָּא תָחוּבוּ חוֹבַת גָּלוּת",
+            "en": "lest you incur the obligation of exile"
+          },
+          "mayim-raim": {
+            "he": "וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים",
+            "en": "and be exiled to a place of evil waters"
+          },
+          "talmidim-baim": {
+            "he": "וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם",
+            "en": "and the students who come after you drink"
+          },
+          "vayamutu": {
+            "he": "וְיָמוּתוּ",
+            "en": "and die"
+          },
+          "chillul-hashem": {
+            "he": "וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+            "en": "and the name of Heaven is found to be desecrated"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "a-intro",
+          "type": "narration",
+          "text": {
+            "en": "Avtalyon lived roughly a century before the destruction of the Second Temple. He and his partner Shemaya are the fourth pair of the *zugot* — the last link in the chain of Torah transmission before Hillel and Shammai. In a single short mishnah he issues a startlingly grave warning to sages. Let us read it slowly, phrase by phrase."
+          }
+        },
+        {
+          "id": "a-phrase-1",
+          "type": "narration",
+          "text": {
+            "en": "*\"Avtalyon says\"* — not \"used to say\" but \"says,\" in the present tense. His words go on speaking."
+          },
+          "highlight": ["avtalyon-omer"]
+        },
+        {
+          "id": "a-phrase-2",
+          "type": "narration",
+          "text": {
+            "en": "*\"Sages, be careful with your words.\"* Notice to whom he is speaking: not to the public at large, but specifically to sages. Why?"
+          },
+          "highlight": ["chachamim", "hizaharu-bedivreikhem"]
+        },
+        {
+          "id": "a-phrase-3",
+          "type": "narration",
+          "text": {
+            "en": "*\"lest you incur the obligation of exile.\"* An unusual phrasing: not \"be punished with exile\" but \"incur an *obligation* of exile\" — be liable for it. Exile here is not only a punishment, it is a debt that comes due."
+          },
+          "highlight": ["chovat-galut"]
+        },
+        {
+          "id": "a-phrase-4",
+          "type": "narration",
+          "text": {
+            "en": "*\"and be exiled to a place of evil waters.\"* Here is the phrase that will preoccupy every commentator: *mayim ra'im*, \"evil waters.\" What are these waters? Are they literal water? A metaphor for something else?"
+          },
+          "highlight": ["mayim-raim"]
+        },
+        {
+          "id": "a-phrase-5",
+          "type": "narration",
+          "text": {
+            "en": "*\"and the students who come after you drink.\"* Drinking — because the water carries the metaphor forward. But who are \"the students who come after you\"? Your own direct disciples? Your disciples' disciples? Generations further on?"
+          },
+          "highlight": ["talmidim-baim"]
+        },
+        {
+          "id": "a-phrase-6",
+          "type": "narration",
+          "text": {
+            "en": "*\"and die.\"* Two words — and the hardest in the mishnah. Students drink, and die. What kind of death? Physical? Spiritual? And is the sage himself responsible for it?"
+          },
+          "highlight": ["vayamutu"],
+          "effect": "glow"
+        },
+        {
+          "id": "a-phrase-7",
+          "type": "narration",
+          "text": {
+            "en": "*\"and the name of Heaven is found to be desecrated.\"* The chain ends in *ḥillul Hashem*. Not \"they will be punished,\" not \"they will fail\" — but something far larger: the very name of God is diminished in the world."
+          },
+          "highlight": ["chillul-hashem"]
+        },
+        {
+          "id": "a-transition",
+          "type": "narration",
+          "text": {
+            "en": "We have read the mishnah slowly. Now we listen for the questions the words themselves raise."
+          }
+        },
+        {
+          "id": "a-question",
+          "type": "question",
+          "text": {
+            "en": "Three questions now stand before us. First, why does Avtalyon address himself specifically to *sages*? Second, what are the \"evil waters\"? And third, how does a warning about a sage's speech travel through exile, drinking, and death all the way to *ḥillul Hashem*?"
+          },
+          "highlight": ["chachamim", "mayim-raim", "chillul-hashem"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-b",
+      "title": { "en": "B. \"Evil Waters\" — Three Readings, Oldest to Newest" },
+      "primaryText": {
+        "ref": "Pirkei Avot 1:11",
+        "he": "אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, הִזָּהֲרוּ בְדִבְרֵיכֶם, שֶׁמָּא תָחוּבוּ חוֹבַת גָּלוּת וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים, וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם וְיָמוּתוּ, וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+        "en": "Avtalyon says: Sages, be careful with your words, lest you incur the obligation of exile, and be exiled to a place of evil waters, and the students who come after you drink, and die — and the name of Heaven is found to be desecrated.",
+        "words": {
+          "hizaharu-bedivreikhem": {
+            "he": "הִזָּהֲרוּ בְדִבְרֵיכֶם",
+            "en": "be careful with your words"
+          },
+          "mayim-raim": {
+            "he": "וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים",
+            "en": "and be exiled to a place of evil waters"
+          },
+          "talmidim-baim": {
+            "he": "וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם",
+            "en": "and the students who come after you drink"
+          },
+          "vayamutu": {
+            "he": "וְיָמוּתוּ",
+            "en": "and die"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b-intro",
+          "type": "narration",
+          "text": {
+            "en": "The evil waters are a puzzle. Three interpretive layers gather around them — from the earliest tannaitic tradition through the medieval *Rishonim*. We will move through them in chronological order."
+          }
+        },
+        {
+          "id": "b-adrn",
+          "type": "commentary",
+          "source": "Avot DeRabbi Natan",
+          "ref": "Avot DeRabbi Natan 11:5",
+          "sourceLabel": { "en": "Avot DeRabbi Natan 11:5" },
+          "text": {
+            "he": "איזהו מים הרעים? הוי אומר: ״ויתערבו בגוים וילמדו מעשיהם״ (תהלים ק״ו:ל״ה). דבר אחר: מים הרעים — כמשמעו. ויש אומרים: שמא יגלו לעבודה קשה.",
+            "en": "What are the \"evil waters\"? You must say: *\"They mingled with the nations and learned their ways\"* (Psalms 106:35). Another interpretation: \"evil waters\" — in its literal sense. And some say: lest they be exiled to hard labor."
+          },
+          "highlight": ["mayim-raim"],
+          "annotation": {
+            "en": "Avot DeRabbi Natan is the oldest layer. Notice: there is no hint of *heresy* here. Three readings — two nearly literal (physically bad water, hard labor) and one biblical-metaphorical: mingling with the nations."
+          }
+        },
+        {
+          "id": "b-to-psalms",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Psalms 106:35",
+            "he": "וַיִּתְעָרְבוּ בַגּוֹיִם וַיִּלְמְדוּ מַעֲשֵׂיהֶם",
+            "en": "but they mingled with the nations and learned their ways.",
+            "words": {
+              "vayitarvu": {
+                "he": "וַיִּתְעָרְבוּ בַגּוֹיִם",
+                "en": "they mingled with the nations"
+              },
+              "vayilmedu": {
+                "he": "וַיִּלְמְדוּ מַעֲשֵׂיהֶם",
+                "en": "and learned their ways"
+              }
+            }
+          }
+        },
+        {
+          "id": "b-psalms-narration",
+          "type": "narration",
+          "text": {
+            "en": "This is the verse Avot DeRabbi Natan cites. Psalm 106 catalogues the failures of Israel across the generations. Exile itself is the danger. In a foreign place, the students absorb the surrounding ways."
+          },
+          "highlight": ["vayitarvu", "vayilmedu"]
+        },
+        {
+          "id": "b-back-to-avot",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Pirkei Avot 1:11",
+            "he": "אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, הִזָּהֲרוּ בְדִבְרֵיכֶם, שֶׁמָּא תָחוּבוּ חוֹבַת גָּלוּת וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים, וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם וְיָמוּתוּ, וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+            "en": "Avtalyon says: Sages, be careful with your words, lest you incur the obligation of exile, and be exiled to a place of evil waters, and the students who come after you drink, and die — and the name of Heaven is found to be desecrated.",
+            "words": {
+              "hizaharu-bedivreikhem": {
+                "he": "הִזָּהֲרוּ בְדִבְרֵיכֶם",
+                "en": "be careful with your words"
+              },
+              "mayim-raim": {
+                "he": "וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים",
+                "en": "and be exiled to a place of evil waters"
+              },
+              "talmidim-baim": {
+                "he": "וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם",
+                "en": "and the students who come after you drink"
+              },
+              "vayamutu": {
+                "he": "וְיָמוּתוּ",
+                "en": "and die"
+              }
+            }
+          }
+        },
+        {
+          "id": "b-rashi",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Avot 1:11",
+          "sourceLabel": { "en": "Rashi" },
+          "text": {
+            "he": "הזהרו בדבריכם — בחזרת שמועתכם. שמא תחובו חובת גלות — כלומר שמא תהיו מורים בדבר האיסור שיש בו גלות. ותגלו למקום מים הרעים — למקום אחר שאין שם תלמידים הגונים ותלמדו להם, וכשתחזרו למקומכם ישתו התלמידים הבאים אחריכם וילמדו מכם להתיר דבר של איסור ויבואו לידי חיוב מיתה.",
+            "en": "*\"Be careful with your words\"* — in repeating what you have learned. *\"Lest you incur the obligation of exile\"* — lest you teach about a forbidden matter in a way that carries the penalty of exile. *\"And be exiled to a place of evil waters\"* — to another place where there are no proper students. You will teach them, and when you return home, the students who come after you will drink — they will learn from you to permit something forbidden, and they will come to be liable for the death penalty."
+          },
+          "highlight": ["mayim-raim", "talmidim-baim", "vayamutu"],
+          "annotation": {
+            "en": "Rashi reads this entirely as a question of *halakhic* transmission. \"Evil waters\" is not heresy — it is a place lacking proper students. The danger: that you will issue lenient rulings where the law forbids, the students will receive them, and they will come to be liable for the death penalty (lashes, *karet* — actual Torah liabilities). This reading is about a pedagogical-halakhic failure, not about belief."
+          }
+        },
+        {
+          "id": "b-rambam",
+          "type": "commentary",
+          "source": "Rambam",
+          "ref": "Rambam on Pirkei Avot 1:11",
+          "sourceLabel": { "en": "Rambam (Maimonides)" },
+          "text": {
+            "he": "מים הרעים כנוי לאפיקורסות. ואמרו: השמרו בדבריכם בתוך ההמון, ולא יהיה בדבריכם מקום שיסבול פירוש אחר, מפני שאם יהיו שם אנשים כופרים, יפרשו אותם כפי אמונתם — והתלמידים כבר שמעו אותם מהם, ויחזרו לאפיקורסות, ויחשבו שזאת היתה אמונתכם. ויהיה בזה חילול השם.",
+            "en": "*\"Evil waters\" is a euphemism for heresy.* They said: be careful with your words in the midst of the public, and let there be in your words no opening that can bear a different interpretation. For if there are heretics in your audience, they will interpret your words according to their beliefs — and the students will already have heard those words from them, and will turn to heresy, thinking that this was *your* belief. And in this there is a desecration of the Name."
+          },
+          "highlight": ["hizaharu-bedivreikhem", "mayim-raim"],
+          "annotation": {
+            "en": "Rambam moves the danger from the halakhic field into the field of *belief*. \"Evil waters\" is heresy. (Remember the 12th century: Palestine, Spain, Cairo — environments where rival faith systems fought over the student's soul.) And the danger is not only that you might *say* wrong things, but that you might say *ambiguous* things which heretics will interpret in their own direction."
+          }
+        },
+        {
+          "id": "b-bartenura",
+          "type": "commentary",
+          "source": "Bartenura",
+          "ref": "Bartenura on Pirkei Avot 1:11",
+          "sourceLabel": { "en": "Bartenura" },
+          "text": {
+            "he": "הזהרו בדבריכם — שלא תניחו מקום למינים לטעות בדבריכם. שמא תחובו חובת גלות — כלומר, אף על פי שבמקום שאתם בו אין שם מינים, יש לחוש שמא יגרום החטא ותתחייבו גלות, ותגלו למקום שיש שם אנשים שמראים פנים בתורה שלא כהלכה — והם כינוי למים הרעים. ויבינו מתוך דבריכם דברים שאינם הגונים, וישתו התלמידים הבאים אחריכם מאותם דברים דברי מינות וימותו בעוונם.",
+            "en": "*\"Be careful with your words\"* — that you not leave room for heretics to err in [the meaning of] your words. *\"Lest you incur the obligation of exile\"* — that is, even though in the place you are now there are no heretics, one must be concerned lest sin cause you to incur exile, and you be exiled to a place where there are people who *show faces in Torah that are not according to the halakhah* — and *they* are the referent of \"evil waters.\" And these people will understand from your words things that are not proper, and the students who come after you will drink from these — words of heresy — and die through their sin."
+          },
+          "highlight": ["mayim-raim", "talmidim-baim"],
+          "annotation": {
+            "en": "Bartenura synthesizes: \"evil waters\" is neither heresy itself (Rambam) nor the absence of students (Rashi) but rather *\"people who show faces in Torah that are not according to the halakhah\"* — subversive Torah interpreters. The danger narrows and sharpens: not every unbeliever, but specifically those who use the *internal* tools of the study house to distort it."
+          }
+        },
+        {
+          "id": "b-question",
+          "type": "question",
+          "text": {
+            "en": "Four readings have passed before us: physically bad water (ADRN); mingling with the nations (ADRN via Psalms); permissive ruling where the law forbids (Rashi); heresy (Rambam); subversive Torah interpretation (Bartenura). What shifts when the reading moves from \"water\" to \"permissive ruling,\" and from \"permissive ruling\" to \"heresy\"? And why does the history move in *this* direction?"
+          },
+          "highlight": ["mayim-raim"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-c",
+      "title": { "en": "C. The Story Behind the Warning — Antigonus and His Students" },
+      "primaryText": {
+        "ref": "Pirkei Avot 1:3 vs. 1:11",
+        "mode": "comparison",
+        "left": {
+          "ref": "Pirkei Avot 1:3",
+          "he": "אַנְטִיגְנוֹס אִישׁ סוֹכוֹ קִבֵּל מִשִּׁמְעוֹן הַצַּדִּיק. הוּא הָיָה אוֹמֵר, אַל תִּהְיוּ כַעֲבָדִים הַמְשַׁמְּשִׁין אֶת הָרַב עַל מְנָת לְקַבֵּל פְּרָס, אֶלָּא הֱווּ כַעֲבָדִים הַמְשַׁמְּשִׁין אֶת הָרַב שֶׁלֹּא עַל מְנָת לְקַבֵּל פְּרָס, וִיהִי מוֹרָא שָׁמַיִם עֲלֵיכֶם",
+          "en": "Antigonus, a man of Sokho, received [the tradition] from Shimon the Righteous. He used to say: Do not be like servants who serve the master in order to receive a reward. Rather, be like servants who serve the master not in order to receive a reward. And let the awe of Heaven be upon you."
+        },
+        "right": {
+          "ref": "Pirkei Avot 1:11",
+          "he": "אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, הִזָּהֲרוּ בְדִבְרֵיכֶם, שֶׁמָּא תָחוּבוּ חוֹבַת גָּלוּת וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים, וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם וְיָמוּתוּ, וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+          "en": "Avtalyon says: Sages, be careful with your words, lest you incur the obligation of exile, and be exiled to a place of evil waters, and the students who come after you drink, and die — and the name of Heaven is found to be desecrated."
+        },
+        "words": {
+          "al-tihyu": {
+            "he": "אַל תִּהְיוּ כַעֲבָדִים הַמְשַׁמְּשִׁין אֶת הָרַב עַל מְנָת לְקַבֵּל פְּרָס",
+            "en": "Do not be like servants who serve the master in order to receive a reward",
+            "side": "left"
+          },
+          "mora-shamayim": {
+            "he": "וִיהִי מוֹרָא שָׁמַיִם עֲלֵיכֶם",
+            "en": "And let the awe of Heaven be upon you",
+            "side": "left"
+          },
+          "talmidim-baim-r": {
+            "he": "וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם",
+            "en": "and the students who come after you drink",
+            "side": "right"
+          },
+          "chillul-hashem-r": {
+            "he": "וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+            "en": "and the name of Heaven is found to be desecrated",
+            "side": "right"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "c-intro",
+          "type": "narration",
+          "text": {
+            "en": "When Rambam and Bartenura come to Avtalyon's warning, both point to the same story as the living example: *Antigonus of Sokho and his students Tsadok and Beitos*. The two mishnayot now stand side by side — the warning (on the right) and the saying that, by tradition, gave rise to the very people the warning is about (on the left)."
+          }
+        },
+        {
+          "id": "c-read-antigonus",
+          "type": "narration",
+          "text": {
+            "en": "Read Antigonus's mishnah on the left. Notice the three words: *\"in order to receive a reward.\"* A fine, pedagogical statement. And at its close — *\"And let the awe of Heaven be upon you.\"* A whole, balanced teaching."
+          },
+          "highlight": ["al-tihyu", "mora-shamayim"]
+        },
+        {
+          "id": "c-bartenura-story",
+          "type": "commentary",
+          "source": "Bartenura",
+          "ref": "Bartenura on Pirkei Avot 1:11",
+          "sourceLabel": { "en": "Bartenura — the story of Tsadok and Beitos" },
+          "text": {
+            "he": "ונמצא שם שמים מתחלל — שיישארו אותן דעות בטלות בעולם, כמו שקרה לאנטיגנוס איש סוכו עם צדוק וביתוס תלמידיו. שאמר להם: אל תהיו כעבדים המשמשים את הרב על מנת לקבל פרס. ואמרו הם: אפשר פועל עושה מלאכה כל היום וטורח, ולערב אינו מקבל פרס?! ויצאו למינות הם ותלמידיהם, ונקראים צדוקים וביתוסים עד היום.",
+            "en": "*\"And the name of Heaven is found to be desecrated\"* — that those empty opinions remain in the world, as happened with *Antigonus of Sokho and his students Tsadok and Beitos*. He said to them, \"Do not be like servants who serve the master in order to receive a reward.\" They said: *\"How could it be that a laborer works all day and toils, and in the evening receives no wage?!\"* They went out into heresy, they and their students — and they are called *Tsedukim* (Sadducees) and *Beitusim* (Boethusians) to this day."
+          },
+          "highlight": ["al-tihyu", "chillul-hashem-r"],
+          "annotation": {
+            "en": "This is the classic example. Antigonus spoke about serving for Heaven's sake. His students heard one detached clause out of a whole saying — and built from it a doctrine of no reward, no punishment, and therefore no world to come. An entire epoch of Second Temple sectarianism was born of one insufficiently careful utterance. *That* is the *ḥillul Hashem* Avtalyon sees approaching."
+          }
+        },
+        {
+          "id": "c-rambam-on-story",
+          "type": "commentary",
+          "source": "Rambam",
+          "ref": "Rambam on Pirkei Avot 1:11",
+          "sourceLabel": { "en": "Rambam" },
+          "text": {
+            "he": "ויהיה בזה חילול השם, כאשר אירע לאנטיגנוס עם צדוק וביתוס.",
+            "en": "And in this there will be a desecration of the Name — *as happened to Antigonus with Tsadok and Beitos*."
+          },
+          "highlight": ["chillul-hashem-r"],
+          "annotation": {
+            "en": "Rambam compresses the whole story into a single closing clause. He, too, assumes the reader knows. By the 12th century the story was common currency: the canonical illustration of Avtalyon's warning."
+          }
+        },
+        {
+          "id": "c-tosafot-yom-tov",
+          "type": "commentary",
+          "source": "Tosafot Yom Tov",
+          "ref": "Tosafot Yom Tov on Pirkei Avot 1:11",
+          "sourceLabel": { "en": "Tosafot Yom Tov" },
+          "text": {
+            "he": "וכיוצא בזה כתב הרמב״ם במשנה אחרונה דידיים — נתחברו עמהם כתות מישראל וכו׳. ואין זה שווה ממש לדברי התנא, שאינו מדבר אלא מפני התלמידים הבאים אחריכם. ומצאתי בפירוש הרשב״ם שכתב בשם אבות דרבי נתן: מעשה צדוק וביתוס שהיו שונים לתלמידיהם דברי אנטיגנוס — וטעו התלמידים.",
+            "en": "Similarly Rambam writes at the end of *Yadayim*: that sects of Israel joined themselves to them, and so on. *But this is not quite identical to the words of the tanna [of our mishnah], who is speaking only about the students who come* after *you.* And I found in Rashbam's commentary — citing Avot DeRabbi Natan — that *it was Tsadok and Beitos themselves who would repeat Antigonus's saying to their own students, and it was the students who erred.*"
+          },
+          "highlight": ["talmidim-baim-r"],
+          "annotation": {
+            "en": "Tosafot Yom Tov (17th century) complicates the picture. He asks, with great delicacy, whether the classical identification of Avtalyon's warning with the Antigonus story really fits. The mishnah speaks of *\"the students who come* after *you\"* — not direct disciples. And indeed, a closer look at the Avot DeRabbi Natan tradition reveals: it was not Tsadok and Beitos themselves who slid away from Antigonus, but *their* students — a generation later."
+          }
+        },
+        {
+          "id": "c-question",
+          "type": "question",
+          "text": {
+            "en": "What does it tell us that the canonical example does not quite fit? How did the Antigonus story attach itself to Avtalyon's warning despite the seam? And — was Avtalyon himself perhaps gesturing to *this* story?"
+          },
+          "highlight": ["talmidim-baim-r", "chillul-hashem-r"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-d",
+      "title": { "en": "D. Why Speak Only to \"Sages\"?" },
+      "primaryText": {
+        "ref": "Pirkei Avot 1:11",
+        "he": "אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, הִזָּהֲרוּ בְדִבְרֵיכֶם, שֶׁמָּא תָחוּבוּ חוֹבַת גָּלוּת וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים, וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם וְיָמוּתוּ, וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+        "en": "Avtalyon says: Sages, be careful with your words, lest you incur the obligation of exile, and be exiled to a place of evil waters, and the students who come after you drink, and die — and the name of Heaven is found to be desecrated.",
+        "words": {
+          "chachamim": {
+            "he": "חֲכָמִים",
+            "en": "Sages"
+          },
+          "hizaharu-bedivreikhem": {
+            "he": "הִזָּהֲרוּ בְדִבְרֵיכֶם",
+            "en": "be careful with your words"
+          },
+          "talmidim-baim": {
+            "he": "וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם",
+            "en": "and the students who come after you drink"
+          },
+          "chillul-hashem": {
+            "he": "וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+            "en": "and the name of Heaven is found to be desecrated"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "d-intro",
+          "type": "narration",
+          "text": {
+            "en": "We return to a question we deferred at the end of Section A: why does Avtalyon address himself specifically to *sages*? Are other people exempt from responsibility for their speech? The sharpest answer reaches us through three layers of tradition."
+          }
+        },
+        {
+          "id": "d-tosafot-yom-tov-midrash-shmuel",
+          "type": "commentary",
+          "source": "Tosafot Yom Tov",
+          "ref": "Tosafot Yom Tov on Pirkei Avot 1:11",
+          "sourceLabel": { "en": "Tosafot Yom Tov citing Midrash Shmuel citing R. Yosef ibn Shoshan the Pious" },
+          "text": {
+            "he": "מה שהזהיר לחכמים — אין הכוונה שאין שאר בני אדם מוזהרים בכך. אלא שאם יפול ספק בדבריהם של חכמים, יבואו השומעים לכלל טעות. מה שאין כן בדברי הדיוט, שאין משגיחין על דבריו. לכן הזהיר יותר לחכמים.",
+            "en": "What it warns concerning the sages does not mean that other people are not equally cautioned. *Rather: if an ambiguity falls in the words of the sages, those who listen will come to error — which is not the case with the words of a layperson, since no one pays heed to them.* It is for this reason that the warning falls more heavily on the sages."
+          },
+          "highlight": ["chachamim", "hizaharu-bedivreikhem"],
+          "annotation": {
+            "en": "The chain of transmission here is itself beautiful: Tosafot Yom Tov (Prague, 17th c.) quotes *Midrash Shmuel* (Safed, 16th c.) quoting *R. Yosef ibn Shoshan the Pious* (Toledo, 13th c.). Three generations pass this reading down: the danger is not that the sage errs more — it is that the sage's words *are heard more*. Ambiguity in a layperson's speech evaporates. Ambiguity in a sage's speech becomes doctrine."
+          }
+        },
+        {
+          "id": "d-synthesis",
+          "type": "narration",
+          "text": {
+            "en": "Here everything we have seen comes into focus. If the danger is that the *sage's* words are heard — then the whole chain becomes intelligible: the sage may be exiled (for reasons not in his hands), and in the new place his words go on being quoted by people who are not his direct students. *These* are the \"students who come after you.\" They will drink — and draw the wrong conclusion. And if the sage's words produced an error that led to death, the public will lay that death at the door of *Torah itself* — and *that* is *ḥillul Hashem*."
+          },
+          "highlight": ["talmidim-baim", "chillul-hashem"]
+        },
+        {
+          "id": "d-question",
+          "type": "question",
+          "text": {
+            "en": "When does ordinary speech become *the speech of a sage*? What makes it so — expertise? public recognition? institutional standing? And do each of us have moments when we become a *ḥakham* in Avtalyon's sense — moments when our words will be heard by someone who never knew us personally?"
+          },
+          "highlight": ["chachamim", "hizaharu-bedivreikhem"],
+          "effect": "pulse"
+        }
+      ]
+    },
+
+    {
+      "id": "section-e",
+      "title": { "en": "E. The Idea Travels Forward — Hasidism and the Modern World" },
+      "primaryText": {
+        "ref": "Pirkei Avot 1:11",
+        "he": "אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, הִזָּהֲרוּ בְדִבְרֵיכֶם, שֶׁמָּא תָחוּבוּ חוֹבַת גָּלוּת וְתִגְלוּ לִמְקוֹם מַיִם הָרָעִים, וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם וְיָמוּתוּ, וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+        "en": "Avtalyon says: Sages, be careful with your words, lest you incur the obligation of exile, and be exiled to a place of evil waters, and the students who come after you drink, and die — and the name of Heaven is found to be desecrated.",
+        "words": {
+          "hizaharu-bedivreikhem": {
+            "he": "חֲכָמִים, הִזָּהֲרוּ בְדִבְרֵיכֶם",
+            "en": "Sages, be careful with your words"
+          },
+          "talmidim-baim": {
+            "he": "וְיִשְׁתּוּ הַתַּלְמִידִים הַבָּאִים אַחֲרֵיכֶם",
+            "en": "and the students who come after you drink"
+          },
+          "chillul-hashem": {
+            "he": "וְנִמְצָא שֵׁם שָׁמַיִם מִתְחַלֵּל",
+            "en": "and the name of Heaven is found to be desecrated"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "e-intro",
+          "type": "narration",
+          "text": {
+            "en": "Avtalyon's warning does not remain within the walls of the ancient study house. Two voices, from worlds far apart, take it up — Rebbe Nachman of Breslov at the beginning of the 19th century, and Rabbi Ben-Zion Meir Hai Uziel in the Land of Israel of the 20th."
+          }
+        },
+        {
+          "id": "e-likutei-moharan",
+          "type": "commentary",
+          "source": "Likutei Moharan",
+          "ref": "Likutei Moharan 59:5:11",
+          "sourceLabel": { "en": "Likutei Moharan 59 (R. Nachman of Breslov)" },
+          "text": {
+            "he": "כי עיקר הלימוד תלוי בזה, שיכלכל דבריו במשפט. כמו שאמרו: ״חכמים הזהרו בדבריכם וכו׳, וישתו התלמידים הבאים אחריכם וכו׳״.",
+            "en": "*For the essence of teaching depends on this: that one weigh one's words with* mishpat *(measured judgment).* As they said: *\"Sages, be careful with your words... and the students who come after you will drink...\"*"
+          },
+          "highlight": ["hizaharu-bedivreikhem", "talmidim-baim"],
+          "annotation": {
+            "en": "R. Nachman shifts the angle. For Rambam and Bartenura, the danger is *external* — heretics in the audience, subversive interpreters. For R. Nachman, the danger is *internal*: when the speech itself is not *\"weighed with mishpat\"* — that is, not ordered with judgment — then teaching itself does harm. Not corruption in the listening, but corruption in the very speech. Avtalyon here becomes an inward principle of pedagogy, not only a guard against heretics."
+          }
+        },
+        {
+          "id": "e-uziel",
+          "type": "commentary",
+          "source": "Hegyonei Uziel",
+          "ref": "Hegyonei Uziel, Introduction 4",
+          "sourceLabel": { "en": "Rav Ben-Zion Meir Hai Uziel" },
+          "text": {
+            "he": "לפיכך אחריות גדולה רובצת על המחברים, לשקול דבריהם היטב היטב בתוכנם ובסגנונם — שיהיו ראויים לפרסום, ולעשותם לשם פועלם, לדבר ולכתוב בהם לשמם, ולא חלילה להתהדר בהם. כי שאיפת ההתהדרות מביאה לרוב לידי חרפה וקלסה, מטעה את המחבר בדבריו, ועל ידי כך מכשיל גם את אחרים. ועל כגון זה אמרו רז״ל: ״חכמים הזהרו בדבריכם וכו׳, ונמצא שם שמים מתחלל על ידיכם״ (אבות א׳, י״א).",
+            "en": "*Therefore a great responsibility rests upon authors — to weigh their words very, very carefully, in both content and style, so that they may be worthy of publication; to do them for the sake of the work itself, to speak and write in them for their own sake, and not, God forbid, to glorify themselves through them. For the pursuit of self-glorification more often than not leads to shame and ridicule — it misleads the author in his own words, and through this trips up others as well. And of just such a case did our Sages say: \"Sages, be careful with your words... and the name of Heaven is found to be desecrated through you\" (Avot 1:11).*"
+          },
+          "highlight": ["hizaharu-bedivreikhem", "chillul-hashem"],
+          "annotation": {
+            "en": "Rav Uziel was the Sephardic Chief Rabbi of Mandatory Palestine and of the young State of Israel. He reads Avtalyon directly into the world of *modern print*. The *ḥakhamim* of Avtalyon are, for him, *authors* — people of the book, thinkers whose words are *published* and reach readers who never knew them. And the danger, ancient and new at once: *self-glorification*. When the author writes to call attention to himself, his judgment bends — and through that bent judgment, others stumble. *That* is the *ḥillul Hashem* of the 20th century."
+          }
+        },
+        {
+          "id": "e-synthesis",
+          "type": "narration",
+          "text": {
+            "en": "Two voices, two directions. R. Nachman pulls Avtalyon *inward* — into the very discipline of the teacher's speech itself. Rav Uziel pulls Avtalyon *outward* — into the printing house, the distant reader, the published article and book. Avtalyon, from the century before the common era, continues to work in both directions. His words, as the present-tense *\"says\"* promised, go on being heard."
+          }
+        },
+        {
+          "id": "e-closing-question",
+          "type": "question",
+          "text": {
+            "en": "For whom does Avtalyon's warning still hold today? Who is the *ḥakham* in the 21st century — a teacher? a writer? anyone who produces content on a public platform? And what are *our* \"evil waters\" — the places our words may end up being read in ways we never intended?"
+          },
+          "highlight": ["hizaharu-bedivreikhem", "chillul-hashem"],
+          "effect": "pulse"
+        }
+      ]
+    }
+  ]
+}
