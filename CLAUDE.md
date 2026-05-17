@@ -2,24 +2,9 @@
 
 A data-driven scrollytelling engine for Torah study in the style of NYT's "Close Read" format. Primary verses stay pinned on screen while commentary cards scroll past, triggering word-level highlights, verse transitions, and side-by-side comparisons.
 
-Built for Nechama Leibowitz's study sheets, starting with Parashat Noah 5712.
+Built for Nechama Leibowitz's study sheets.
 
-## Project Structure
-
-```
-close_read/
-├── index.html              # Empty shell — all content built from JSON
-├── css/close-read.css      # Layout, typography, animations, theme
-├── js/
-│   ├── engine.js           # CloseReadApp class: data loading, DOM building, scroll orchestration
-│   └── text-effects.js     # TextEffects: word wrapping, highlighting, verse crossfade
-├── data/
-│   ├── index.json           # Sheet manifest (drives the index page)
-│   └── *.json               # Sheet data files (one per sheet)
-└── docs/
-    ├── data-format.md      # JSON schema: how to author a data file
-    └── architecture.md     # Technical details: layout, scroll triggers, word matching
-```
+Per-module detail lives in [AGENTS.md](AGENTS.md) → [agent_docs/](agent_docs/).
 
 ## Key Documentation
 

@@ -1,0 +1,3 @@
+commit=48e261c7ad979cdb59674a87c9793c29090b68a9
+date=2026-05-16
+note=Initial audit of engine.js, text-effects.js, close-read.css, and data/. Flagged quirks: (1) wrapWords can produce nested .word-group spans on repeat calls — engine triggers up to 3 wraps per verse on crossfade; (2) dead code in text-effects.js — setupComparison (defined, never called) and currentVerse (declared, never read); (3) docs/architecture.md references a noah-5712 default and data file that no longer exist (no current default; index renders when ?sheet= is absent); (4) right-side comparison panel color is driven by CSS :nth-child(3), fragile to DOM reordering.
