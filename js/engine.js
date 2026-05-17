@@ -245,7 +245,7 @@ class CloseReadApp {
     const rightRefSlug = verseData.right.ref.replace(/\s+/g, '_');
 
     div.innerHTML = `
-      <div class="comparison-side">
+      <div class="comparison-side left">
         <div class="primary-ref">
           <a href="https://www.sefaria.org/${leftRefSlug}" target="_blank" rel="noopener">${verseData.left.ref}</a>
         </div>
@@ -253,7 +253,7 @@ class CloseReadApp {
         <div class="primary-en">${verseData.left.en}</div>
       </div>
       <div class="comparison-vs">vs.</div>
-      <div class="comparison-side">
+      <div class="comparison-side right">
         <div class="primary-ref">
           <a href="https://www.sefaria.org/${rightRefSlug}" target="_blank" rel="noopener">${verseData.right.ref}</a>
         </div>

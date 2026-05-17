@@ -4,7 +4,6 @@
 const TextEffects = {
   // Current state
   activeHighlights: [],
-  currentVerse: null,
 
   // Wrap each word in the primary text with targetable spans
   wrapWords(container, words) {
@@ -23,6 +22,10 @@ const TextEffects = {
   },
 
   _wrapPhrase(el, phrase, groupId, lang) {
+    // Skip if this group/lang is already wrapped on this element — re-wrapping
+    // would nest spans because the regex still matches the phrase text inside
+    // the existing word-group span.
+    if (el.querySelector(`.word-group[data-word="${groupId}"][data-lang="${lang}"]`)) return;
     const html = el.innerHTML;
     // Escape special regex chars in the phrase
     const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -114,8 +117,4 @@ const TextEffects = {
     }
   },
 
-  // Set up comparison mode (side-by-side verses)
-  setupComparison(container, leftData, rightData) {
-    container.classList.add('comparison-mode');
-  }
 };

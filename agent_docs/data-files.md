@@ -20,7 +20,7 @@ Current sheets (as of stamp):
 
 ## Non-obvious patterns
 
-- **No `noah-5712.json` despite docs references.** The architecture doc and CLAUDE.md mention `noah-5712` as a starting point and (in architecture.md) as a default sheet. Neither is currently accurate — no such file exists in `data/`, and the engine has no default; the index renders when `?sheet=` is missing.
+- **No "default sheet".** The engine renders the homepage from `data/index.json` when `?sheet=` is missing; otherwise it loads `data/<slug>.json`. No file is loaded "by default."
 - **Hebrew text in `words` entries must match the verse text byte-for-byte, including nikkud.** Cantillation marks (te'amim, U+0591–U+05AF) and meteg/sof pasuk are stripped from verse text per the conversion guide; word groups must match the stripped form, not the raw Masoretic source. See [../docs/conversion-guide.md](../docs/conversion-guide.md) for the regex.
 - **Word-group IDs are verse-scoped, not section-scoped.** Different verses (including a `primaryText` and a later `verse-change.newVerse`) can reuse the same IDs without conflict, because only the active verse's spans exist in the visible DOM at any time.
 - **`verse-change` steps must precede their commentary.** Engine searches *backwards* from the current step to find the active verse — see [engine-js.md](engine-js.md). A forward-placed `verse-change` would leave earlier steps pointing at an outdated verse.

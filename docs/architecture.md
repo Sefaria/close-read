@@ -17,9 +17,11 @@ close_read/
 │   ├── engine.js           # Main app: fetches data, builds DOM, orchestrates scroll
 │   └── text-effects.js     # Word-level highlighting and verse crossfade
 ├── data/
-│   └── noah-5712.json      # Content data (swappable)
+│   ├── index.json          # Sheet manifest (drives the homepage)
+│   └── <slug>.json         # One file per sheet (e.g. kedoshim-5731.json)
 └── docs/
     ├── data-format.md      # JSON schema documentation
+    ├── conversion-guide.md # Authoring guide
     └── architecture.md     # This file
 ```
 
@@ -27,8 +29,9 @@ close_read/
 
 ```
 DOMContentLoaded
+  ├── Parse ?sheet= query param
+  │     └── If absent: buildIndex() renders the homepage from data/index.json
   ├── Register GSAP ScrollTrigger
-  ├── Parse ?sheet= query param (default: "noah-5712")
   ├── fetch("data/{sheet}.json")
   └── document.fonts.ready
         ├── new CloseReadApp(data)
@@ -170,10 +173,10 @@ Single breakpoint at 768px. Below it:
 
 ## Data Loading
 
-The engine loads `data/{name}.json` where `{name}` comes from the `?sheet=` query parameter (default: `noah-5712`). This means:
+The engine loads `data/{name}.json` where `{name}` comes from the `?sheet=` query parameter. With no `?sheet=` param, it renders the homepage from `data/index.json` listing the available sheets. This means:
 
-- `localhost:8080/` loads `data/noah-5712.json`
-- `localhost:8080/?sheet=vayera-5715` loads `data/vayera-5715.json`
+- `localhost:8080/` shows the homepage index
+- `localhost:8080/?sheet=kedoshim-5731` loads `data/kedoshim-5731.json`
 - If the file doesn't exist, an error message is shown in the main content area
 
 No server-side logic. The static file server just needs to serve the `data/` directory.
@@ -196,4 +199,4 @@ No npm, no build step, no bundler. All dependencies loaded from CDN.
 - **Static hosting**: Requires a web server (even `python -m http.server`) because of `fetch()`. Won't work from `file://`.
 - **Hebrew word matching**: The regex-based phrase matching is fragile with nikkud variations. The Hebrew text in the data file must exactly match what's rendered, including cantillation marks if present.
 - **No RTL page direction**: The page is LTR. Hebrew text blocks use `direction: rtl` per-element. This works well for the current layout but may need revisiting for a fully RTL interface.
-- **Single-page**: Each JSON file produces one scrollytelling page. There's no index or navigation between different sheets.
+- **Single-page per sheet**: Each JSON file produces one scrollytelling page. The homepage (no `?sheet=` param) lists available sheets from `data/index.json`, but there's no in-page navigation between sheets once one is loaded.

@@ -37,13 +37,6 @@ Close Read is a static, data-driven scrollytelling engine for bilingual (Hebrew/
 9. **Run from a server, never `file://`.** `fetch()` won't work otherwise. `python3 -m http.server 8080` is the convention.
 10. **Register new sheets in [data/index.json](data/index.json).** Direct `?sheet=` URLs work without it, but the homepage won't list them.
 
-## Known quirks (flagged for follow-up)
-
-- **`wrapWords` can produce nested `<span class="word-group">`.** It runs on `innerHTML` and doesn't skip already-wrapped phrases; combined with the rAF + crossfade + 100 ms-setTimeout flow, the same verse can be wrapped up to 3 times. Visible behavior is fine but DOM bloats. See [text-effects-js.md](agent_docs/text-effects-js.md).
-- **Dead code in [js/text-effects.js](js/text-effects.js)**: `setupComparison` (defined, never called — the `comparison-mode` class is added by `buildComparisonVerse` directly) and `currentVerse` (declared, never read or written).
-- **Stale references in [docs/architecture.md](docs/architecture.md)** to `data/noah-5712.json` and a `noah-5712` default. Neither matches the current `data/`. The current default behavior is "no `?sheet=` param → index page."
-- **Right-side comparison color depends on `:nth-child(3)`** in CSS. Rearranging the DOM order of `.comparison-side` / `.comparison-vs` will silently break the blue (`--color-highlight-2`) coloring.
-
 ## Freshness: regenerate [agent_docs/.stamp](agent_docs/.stamp)
 
 The `.stamp` file records the commit these docs were last audited against. When you make substantial changes in a documented module, update the relevant page **and** bump the stamp.

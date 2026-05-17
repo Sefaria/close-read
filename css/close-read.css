@@ -337,14 +337,14 @@ body {
   color: var(--color-highlight);
 }
 
-/* Second highlight color for comparisons */
-.comparison-side:nth-child(3) .word-group.highlighted {
+/* Second highlight color for the right side of comparisons */
+.comparison-side.right .word-group.highlighted {
   color: var(--color-highlight-2);
   background: var(--color-highlight-2-bg);
   border-bottom-color: rgba(46, 107, 138, 0.4);
 }
 
-.comparison-side:nth-child(3) .word-group.glow {
+.comparison-side.right .word-group.glow {
   background: var(--color-highlight-2-bg);
   border-bottom-color: var(--color-highlight-2);
 }
