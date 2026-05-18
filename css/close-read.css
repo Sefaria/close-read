@@ -374,21 +374,45 @@ body {
   padding-bottom: 20vh;
 }
 
+/* Inline divider shown in the sidebar when several sub-sections share a sticky
+   primary panel. The Mishnah stays pinned; only the divider scrolls past. */
+.section-divider {
+  text-align: center;
+  padding: 8rem 1rem 4rem;
+  border-top: 1px solid var(--color-border);
+  margin: 4rem 0 0;
+}
+
+.section-divider-he {
+  font-family: var(--font-hebrew);
+  font-size: clamp(1.4rem, 2.2vw, 1.8rem);
+  color: var(--color-accent);
+  direction: rtl;
+  margin-bottom: 0.4em;
+}
+
+.section-divider-en {
+  font-family: var(--font-english);
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
 .card-inner {
   background: var(--color-bg-card);
   border: 1px solid var(--color-border);
   border-radius: 10px;
   padding: 2rem 2.5rem;
   width: 100%;
-  opacity: 0;
-  transform: translateY(20px);
-  transition: opacity 0.5s var(--ease-smooth), transform 0.5s var(--ease-smooth);
   box-shadow: 0 2px 12px var(--color-shadow);
+  transition: border-color 0.4s var(--ease-smooth), box-shadow 0.4s var(--ease-smooth);
 }
 
+/* The active card drives the primary-panel highlight; mark it with a subtle
+   accent border instead of fading the others out. Cards scroll past cleanly. */
 .step-card.is-active .card-inner {
-  opacity: 1;
-  transform: translateY(0);
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 18px var(--color-shadow);
 }
 
 /* Commentary source label */

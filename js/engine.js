@@ -100,7 +100,9 @@ class CloseReadApp {
   // ─── Page Title ───
   updatePageTitle() {
     const t = this.data.title;
-    document.title = `Close Read: ${t.en} - ${t.author.en}`;
+    document.title = t.author?.en
+      ? `Close Read: ${t.en} - ${t.author.en}`
+      : `Close Read: ${t.en}`;
   }
 
   // ─── Title Screen ───
@@ -110,10 +112,10 @@ class CloseReadApp {
     header.innerHTML = `
       ${t.he ? `<div class="title-he">${t.he}</div>` : ''}
       <div class="title-en">${t.en}</div>
-      ${t.subtitle.he ? `<div class="subtitle-he">${t.subtitle.he}</div>` : ''}
-      <div class="subtitle-en">${t.subtitle.en}</div>
-      ${t.author.he ? `<div class="author-he">${t.author.he}</div>` : ''}
-      <div class="author-en">${t.author.en}</div>
+      ${t.subtitle?.he ? `<div class="subtitle-he">${t.subtitle.he}</div>` : ''}
+      ${t.subtitle?.en ? `<div class="subtitle-en">${t.subtitle.en}</div>` : ''}
+      ${t.author?.he ? `<div class="author-he">${t.author.he}</div>` : ''}
+      ${t.author?.en ? `<div class="author-en">${t.author.en}</div>` : ''}
       <div class="scroll-hint">scroll</div>
     `;
   }
@@ -124,7 +126,7 @@ class CloseReadApp {
     const footer = document.querySelector('.closing-screen');
     footer.innerHTML = `
       <div class="closing-line"></div>
-      <p class="closing-text">Based on a study sheet by ${t.author.en}</p>
+      <p class="closing-text">Based on the sources available on Sefaria</p>
       ${t.sourceUrl ? `<a class="closing-link" href="${t.sourceUrl}" target="_blank" rel="noopener">${t.sourceLabel || 'View the original source'}</a>` : ''}
     `;
   }
@@ -132,40 +134,82 @@ class CloseReadApp {
   // ─── Section Nav Dots ───
   buildSectionNav() {
     const nav = document.querySelector('.section-nav');
-    this.sections.forEach(({ el, data }, i) => {
+    this.sections.forEach(({ navTarget, data }, i) => {
       const dot = document.createElement('button');
       dot.className = `section-dot${i === 0 ? ' active' : ''}`;
       dot.setAttribute('aria-label', data.title.en);
       nav.appendChild(dot);
 
       ScrollTrigger.create({
-        trigger: el,
-        start: 'top center',
-        end: 'bottom center',
+        trigger: navTarget,
+        start: 'top 50%',
         onEnter: () => this.setActiveDot(i),
         onEnterBack: () => this.setActiveDot(i),
       });
 
       dot.addEventListener('click', () => {
-        el.scrollIntoView({ behavior: 'smooth' });
+        navTarget.scrollIntoView({ behavior: 'smooth' });
       });
     });
+  }
+
+  // ─── Group consecutive sections sharing primary text ───
+  groupSections() {
+    const groups = [];
+    let current = null;
+    this.data.sections.forEach(section => {
+      const key = this.primaryKey(section.primaryText);
+      if (current && current.key === key) {
+        current.sections.push(section);
+      } else {
+        current = { key, sections: [section] };
+        groups.push(current);
+      }
+    });
+    return groups;
+  }
+
+  primaryKey(pt) {
+    if (pt.mode === 'comparison') {
+      return `cmp:${pt.left.ref}|${pt.right.ref}|${pt.left.he}|${pt.right.he}`;
+    }
+    return `single:${pt.ref}|${pt.he}`;
+  }
+
+  // Merge word maps across sub-sections that share a primary text. The shared
+  // sticky panel is built once; each sub-section's words are unioned so that
+  // any sub-section's highlights can target spans on the same DOM.
+  mergedPrimaryText(sections) {
+    const base = sections[0].primaryText;
+    if (base.mode === 'comparison') {
+      const words = {};
+      sections.forEach(s => Object.assign(words, s.primaryText.words || {}));
+      return { ...base, words };
+    }
+    const words = {};
+    sections.forEach(s => Object.assign(words, s.primaryText.words || {}));
+    return { ...base, words };
   }
 
   // ─── Build Sections ───
   buildSections() {
     const main = document.getElementById('main-content');
+    const groups = this.groupSections();
 
-    this.data.sections.forEach((section) => {
+    groups.forEach(group => {
+      const firstSection = group.sections[0];
       const sectionEl = document.createElement('div');
       sectionEl.className = 'cr-section';
-      sectionEl.id = section.id;
+      sectionEl.id = firstSection.id;
 
-      // Section title card
+      // Prominent title card for the first sub-section of the group only.
+      // Sub-sections that share this group's primary text get inline dividers
+      // in the step track instead, so the sticky primary panel stays pinned
+      // across the whole group.
       sectionEl.innerHTML = `
         <div class="section-title-card">
-          ${section.title.he ? `<div class="section-title-he">${section.title.he}</div>` : ''}
-          <div class="section-title-en">${section.title.en}</div>
+          ${firstSection.title.he ? `<div class="section-title-he">${firstSection.title.he}</div>` : ''}
+          <div class="section-title-en">${firstSection.title.en}</div>
         </div>
       `;
 
@@ -173,44 +217,72 @@ class CloseReadApp {
       const scrollContainer = document.createElement('div');
       scrollContainer.className = 'scroll-container';
 
-      // Primary text area (sticky)
+      // Primary text area (sticky) — one panel for the whole group
       const primaryArea = document.createElement('div');
       primaryArea.className = 'primary-text-area';
 
-      if (section.primaryText.mode === 'comparison') {
-        primaryArea.appendChild(this.buildComparisonVerse(section.primaryText, true));
+      const mergedPrimary = this.mergedPrimaryText(group.sections);
+      if (mergedPrimary.mode === 'comparison') {
+        primaryArea.appendChild(this.buildComparisonVerse(mergedPrimary, true));
       } else {
-        primaryArea.appendChild(this.buildVerseContent(section.primaryText, true));
+        primaryArea.appendChild(this.buildVerseContent(mergedPrimary, true));
       }
 
-      // Build alternate verses from verse-change steps
-      section.steps.forEach(step => {
-        if (step.type === 'verse-change' && step.newVerse) {
-          if (step.newVerse.mode === 'comparison') {
-            primaryArea.appendChild(this.buildComparisonVerse(step.newVerse, false));
-          } else {
-            primaryArea.appendChild(this.buildVerseContent(step.newVerse, false));
+      // Build alternate verses from verse-change steps across all sub-sections
+      group.sections.forEach(section => {
+        section.steps.forEach(step => {
+          if (step.type === 'verse-change' && step.newVerse) {
+            if (step.newVerse.mode === 'comparison') {
+              primaryArea.appendChild(this.buildComparisonVerse(step.newVerse, false));
+            } else {
+              primaryArea.appendChild(this.buildVerseContent(step.newVerse, false));
+            }
           }
-        }
+        });
       });
 
       scrollContainer.appendChild(primaryArea);
 
-      // Step track (commentary cards)
+      // Step track (commentary cards) — concatenated across the group
       const stepTrack = document.createElement('div');
       stepTrack.className = 'step-track';
 
-      section.steps.forEach(step => {
-        if (step.type === 'verse-change') return;
-        stepTrack.appendChild(this.buildStepCard(step));
+      group.sections.forEach((section, i) => {
+        // Sub-sections beyond the first get an inline divider in the sidebar.
+        if (i > 0) {
+          stepTrack.appendChild(this.buildSectionDivider(section));
+        }
+        section.steps.forEach(step => {
+          if (step.type === 'verse-change') return;
+          const card = this.buildStepCard(step);
+          card.dataset.sectionId = section.id;
+          stepTrack.appendChild(card);
+        });
       });
 
       scrollContainer.appendChild(stepTrack);
       sectionEl.appendChild(scrollContainer);
       main.appendChild(sectionEl);
 
-      this.sections.push({ el: sectionEl, data: section });
+      // Register one entry per sub-section for nav dots and scroll triggers.
+      group.sections.forEach((section, i) => {
+        const navTarget = i === 0
+          ? sectionEl.querySelector('.section-title-card')
+          : stepTrack.querySelector(`.section-divider[data-section-id="${section.id}"]`);
+        this.sections.push({ el: sectionEl, data: section, navTarget });
+      });
     });
+  }
+
+  buildSectionDivider(section) {
+    const divider = document.createElement('div');
+    divider.className = 'section-divider';
+    divider.dataset.sectionId = section.id;
+    divider.innerHTML = `
+      ${section.title.he ? `<div class="section-divider-he">${section.title.he}</div>` : ''}
+      <div class="section-divider-en">${section.title.en}</div>
+    `;
+    return divider;
   }
 
   buildVerseContent(verseData, isActive) {
@@ -323,7 +395,9 @@ class CloseReadApp {
   // ─── ScrollTrigger Setup ───
   setupScrollTriggers() {
     this.sections.forEach(({ el, data }) => {
-      const stepCards = el.querySelectorAll('.step-card');
+      // Scope to step cards belonging to this sub-section so that grouped
+      // sub-sections each set up triggers only for their own cards.
+      const stepCards = el.querySelectorAll(`.step-card[data-section-id="${data.id}"]`);
 
       stepCards.forEach((card) => {
         ScrollTrigger.create({
