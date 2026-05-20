@@ -24,23 +24,60 @@
           "id": "ov-intro",
           "type": "narration",
           "text": {
-            "en": "Parshat Nasso is the longest parsha in the Torah. It runs from the census of the Levites through the offerings of the tribal princes, passing through some of the densest passages anywhere in the Torah."
+            "en": "Parshat Nasso is the longest parsha in the Torah."
           }
         },
         {
-          "id": "ov-question",
+          "id": "ov-intro-2",
           "type": "narration",
           "text": {
-            "en": "Before diving in, it is worth pausing on the parsha's overarching question: what does it mean for the camp to be a place where God dwells? What threatens its holiness, and what restores it?"
+            "en": "It runs from the census of the Levites through the offerings of the tribal princes, passing through some of the densest passages anywhere in the Torah."
+          }
+        },
+        {
+          "id": "ov-pause",
+          "type": "narration",
+          "text": {
+            "en": "Before diving in, it is worth pausing on the parsha's overarching question."
+          }
+        },
+        {
+          "id": "ov-question-1",
+          "type": "narration",
+          "text": {
+            "en": "What does it mean for the camp to be a place where God dwells?"
           },
           "highlight": ["shochen-betocham"],
+          "effect": "glow"
+        },
+        {
+          "id": "ov-question-2",
+          "type": "narration",
+          "text": {
+            "en": "What threatens its holiness, and what restores it?"
+          },
+          "highlight": ["machaneh"],
           "effect": "glow"
         },
         {
           "id": "ov-nechama",
           "type": "narration",
           "text": {
-            "en": "Nechama Leibowitz wrote 27 study sheets on Nasso across three decades. They cluster around four passages: theft from the convert, the Nazirite vow, the priestly blessing, and the princes' offerings. (Strikingly, she avoided Sotah almost entirely — a finding worth its own essay.)"
+            "en": "Nechama Leibowitz wrote 27 study sheets on Nasso across three decades."
+          }
+        },
+        {
+          "id": "ov-nechama-cluster",
+          "type": "narration",
+          "text": {
+            "en": "They cluster around four passages: theft from the convert, the Nazirite vow, the priestly blessing, and the princes' offerings."
+          }
+        },
+        {
+          "id": "ov-nechama-sotah",
+          "type": "narration",
+          "text": {
+            "en": "(Strikingly, she avoided Sotah almost entirely — a finding worth its own essay.)"
           }
         }
       ]
@@ -101,16 +138,53 @@
           "id": "gez-intro",
           "type": "narration",
           "text": {
-            "en": "On the surface, this is a passage about restitution — return what you took, add a fifth, bring a ram. But Nechama returned to it five times across thirty years. What kept pulling her back?"
+            "en": "On the surface, this is a passage about restitution — return what you took, add a fifth, bring a ram."
+          }
+        },
+        {
+          "id": "gez-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "But Nechama returned to it five times across thirty years."
+          }
+        },
+        {
+          "id": "gez-intro-3",
+          "type": "narration",
+          "text": {
+            "en": "What kept pulling her back?"
           }
         },
         {
           "id": "gez-three-questions",
           "type": "narration",
           "text": {
-            "en": "Three knots in the text. First: why does Numbers 5 repeat what Leviticus 5 already taught about restitution? Second: in what sense is a theft from a person a 'trespass against the Lord'? Third: why is the convert without heirs the case the Torah uses to introduce all this?"
+            "en": "Three knots in the text."
+          }
+        },
+        {
+          "id": "gez-q1",
+          "type": "narration",
+          "text": {
+            "en": "Why does Numbers 5 repeat what Leviticus 5 already taught about restitution?"
+          }
+        },
+        {
+          "id": "gez-q2",
+          "type": "narration",
+          "text": {
+            "en": "In what sense is a theft from a person a \"trespass against the Lord\"?"
           },
-          "highlight": ["limol-bahashem", "ein-goel"],
+          "highlight": ["limol-bahashem"],
+          "effect": "glow"
+        },
+        {
+          "id": "gez-q3",
+          "type": "narration",
+          "text": {
+            "en": "And why is the convert without heirs the case the Torah uses to introduce all this?"
+          },
+          "highlight": ["ein-goel"],
           "effect": "glow"
         }
       ]
@@ -164,7 +238,21 @@
           "id": "conf-intro",
           "type": "narration",
           "text": {
-            "en": "The simplest reading: a thief returns what he took, adds a fifth, brings a ram. But the verse arranges these in a particular order — confession first, then principal, then fifth. Rashi parses each step."
+            "en": "The simplest reading: a thief returns what he took, adds a fifth, brings a ram."
+          }
+        },
+        {
+          "id": "conf-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "But the verse arranges these in a particular order — confession first, then principal, then fifth."
+          }
+        },
+        {
+          "id": "conf-intro-3",
+          "type": "narration",
+          "text": {
+            "en": "Rashi parses each step."
           }
         },
         {
@@ -186,16 +274,52 @@
           "id": "conf-narration-pivot",
           "type": "narration",
           "text": {
-            "en": "Here is Nechama's question, sharpened: if witnesses had testified instead — if the thief had been caught — he would have paid principal only. He confesses, and he owes more. Why does honesty cost extra?"
+            "en": "Here is Nechama's question, sharpened."
+          }
+        },
+        {
+          "id": "conf-narration-pivot-2",
+          "type": "narration",
+          "text": {
+            "en": "If witnesses had testified — if the thief had been caught — he would have paid principal only."
           },
-          "highlight": ["vehitvadu", "vahamishito"],
+          "highlight": ["vehitvadu"]
+        },
+        {
+          "id": "conf-narration-pivot-3",
+          "type": "narration",
+          "text": {
+            "en": "He confesses, and he owes more."
+          },
+          "highlight": ["vahamishito"],
           "effect": "glow"
+        },
+        {
+          "id": "conf-narration-pivot-q",
+          "type": "narration",
+          "text": {
+            "en": "Why does honesty cost extra?"
+          }
         },
         {
           "id": "conf-frame",
           "type": "narration",
           "text": {
-            "en": "Because, on this reading, the fifth is not a fine. It is what was already owed and could not be reached by external proof — the part of the harm that lives inside the wrongdoer and surfaces only when he names it. The Torah ranks confession higher than evidence."
+            "en": "Because, on this reading, the fifth is not a fine."
+          }
+        },
+        {
+          "id": "conf-frame-2",
+          "type": "narration",
+          "text": {
+            "en": "It is what was already owed and could not be reached by external proof — the part of the harm that lives inside the wrongdoer and surfaces only when he names it."
+          }
+        },
+        {
+          "id": "conf-frame-3",
+          "type": "narration",
+          "text": {
+            "en": "The Torah ranks confession higher than evidence."
           }
         },
         {
@@ -228,8 +352,25 @@
           "id": "maal-intro",
           "type": "narration",
           "text": {
-            "en": "The verse holds two phrases in tension: \"any wrong toward a fellow human being\" and \"breaking faith with the Lord.\" One sin, two addressees. How does the second arrive?"
+            "en": "The verse holds two phrases in tension: \"any wrong toward a fellow human being\" and \"breaking faith with the Lord.\""
+          },
+          "highlight": ["chatat-haadam"]
+        },
+        {
+          "id": "maal-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "One sin, two addressees."
           }
+        },
+        {
+          "id": "maal-intro-q",
+          "type": "narration",
+          "text": {
+            "en": "How does the second arrive?"
+          },
+          "highlight": ["limol-bahashem"],
+          "effect": "glow"
         },
         {
           "id": "maal-ramban",
@@ -250,14 +391,42 @@
           "id": "maal-narration-leviticus",
           "type": "narration",
           "text": {
-            "en": "Ramban's reading is anchored in a parallel passage. Leviticus 5:21 already covers this same case — the false oath, the principal, the fifth, the ram. So why is the Torah saying it again here?"
+            "en": "Ramban's reading is anchored in a parallel passage."
+          }
+        },
+        {
+          "id": "maal-narration-leviticus-2",
+          "type": "narration",
+          "text": {
+            "en": "Leviticus 5:21 already covers this same case — the false oath, the principal, the fifth, the ram."
+          }
+        },
+        {
+          "id": "maal-narration-leviticus-q",
+          "type": "narration",
+          "text": {
+            "en": "So why is the Torah saying it again here?"
           }
         },
         {
           "id": "maal-bridge",
           "type": "narration",
           "text": {
-            "en": "Ramban answers: it is not saying it again. It is bringing the law forward only to introduce one new case — gezel hager, theft from the convert. Everything else is summary. Numbers 5 isn't a duplicate; it's a doorway."
+            "en": "Ramban answers: it is not saying it again."
+          }
+        },
+        {
+          "id": "maal-bridge-2",
+          "type": "narration",
+          "text": {
+            "en": "It is bringing the law forward only to introduce one new case — gezel hager, theft from the convert."
+          }
+        },
+        {
+          "id": "maal-bridge-3",
+          "type": "narration",
+          "text": {
+            "en": "Everything else is summary. Numbers 5 isn't a duplicate; it's a doorway."
           },
           "highlight": ["chatat-haadam"],
           "effect": "glow"
@@ -292,7 +461,36 @@
           "id": "ger-intro",
           "type": "narration",
           "text": {
-            "en": "A strange case. Someone steals from a person who then dies without any heirs. To whom does the restitution go? The Torah says: to God, through the priest. But Rashi pauses — what kind of person, exactly, has no heirs at all?"
+            "en": "A strange case."
+          }
+        },
+        {
+          "id": "ger-intro-setup",
+          "type": "narration",
+          "text": {
+            "en": "Someone steals from a person who then dies without any heirs."
+          }
+        },
+        {
+          "id": "ger-intro-q",
+          "type": "narration",
+          "text": {
+            "en": "To whom does the restitution go?"
+          }
+        },
+        {
+          "id": "ger-intro-answer",
+          "type": "narration",
+          "text": {
+            "en": "The Torah says: to God, through the priest."
+          },
+          "highlight": ["lashem-lakohen"]
+        },
+        {
+          "id": "ger-intro-rashi-q",
+          "type": "narration",
+          "text": {
+            "en": "But Rashi pauses — what kind of person, exactly, has no heirs at all?"
           }
         },
         {
@@ -314,7 +512,14 @@
           "id": "ger-narration-frame",
           "type": "narration",
           "text": {
-            "en": "Read this way, the law of the gezel hager is not an edge case. It is the case. The Torah picks the most vulnerable creditor — alone, without a redeemer — and writes the entire law of theft from his vantage point."
+            "en": "Read this way, the law of the gezel hager is not an edge case. It is the case."
+          }
+        },
+        {
+          "id": "ger-narration-frame-2",
+          "type": "narration",
+          "text": {
+            "en": "The Torah picks the most vulnerable creditor — alone, without a redeemer — and writes the entire law of theft from his vantage point."
           },
           "highlight": ["lehashiv-haasham"]
         },
@@ -322,7 +527,22 @@
           "id": "ger-narration-kohen",
           "type": "narration",
           "text": {
-            "en": "And when no human can collect — \"the amount repaid shall go to the Lord for the priest.\" Where there is no kinsman, God Himself becomes the next of kin. The convert who seemed to have no claim acquires the highest one."
+            "en": "And when no human can collect — \"the amount repaid shall go to the Lord for the priest.\""
+          },
+          "highlight": ["lashem-lakohen"]
+        },
+        {
+          "id": "ger-narration-kohen-2",
+          "type": "narration",
+          "text": {
+            "en": "Where there is no kinsman, God Himself becomes the next of kin."
+          }
+        },
+        {
+          "id": "ger-narration-kohen-3",
+          "type": "narration",
+          "text": {
+            "en": "The convert who seemed to have no claim acquires the highest one."
           },
           "highlight": ["lashem-lakohen"],
           "effect": "glow"
@@ -357,17 +577,52 @@
           "id": "naz-intro",
           "type": "narration",
           "text": {
-            "en": "The Nazirite is an enigmatic figure: someone who voluntarily takes on a holiness expressed through abstention. No wine. No haircut. No contact with the dead. The Torah does not say whether this is praiseworthy or troubling — and the silence is what generates the debates."
+            "en": "The Nazirite is an enigmatic figure: someone who voluntarily takes on a holiness expressed through abstention."
+          }
+        },
+        {
+          "id": "naz-intro-rules",
+          "type": "narration",
+          "text": {
+            "en": "No wine. No haircut. No contact with the dead."
+          }
+        },
+        {
+          "id": "naz-intro-silence",
+          "type": "narration",
+          "text": {
+            "en": "The Torah does not say whether this is praiseworthy or troubling — and the silence is what generates the debates."
           }
         },
         {
           "id": "naz-tension",
           "type": "narration",
           "text": {
-            "en": "Three knots Nechama returns to across her four Nazir sheets. Why does the Torah call the completed Nazirite a sinner who needs atonement? Why does ending the vow require it, not entering it? And why does this whole passage sit immediately after the Sotah?"
+            "en": "Three knots Nechama returns to across her four Nazir sheets."
+          }
+        },
+        {
+          "id": "naz-q1",
+          "type": "narration",
+          "text": {
+            "en": "Why does the Torah call the completed Nazirite a sinner who needs atonement?"
           },
           "highlight": ["nazir-lahashem"],
           "effect": "glow"
+        },
+        {
+          "id": "naz-q2",
+          "type": "narration",
+          "text": {
+            "en": "Why does ending the vow require that atonement, not entering it?"
+          }
+        },
+        {
+          "id": "naz-q3",
+          "type": "narration",
+          "text": {
+            "en": "And why does this whole passage sit immediately after the Sotah?"
+          }
         }
       ]
     },
@@ -420,7 +675,22 @@
           "id": "chata-intro",
           "type": "narration",
           "text": {
-            "en": "The Nazirite who has accidentally been near a corpse must bring a sin-offering. The verse explains: \"for that he sinned by the soul.\" But the Hebrew is enigmatic: ha-nefesh — which soul? Whose?"
+            "en": "The Nazirite who has accidentally been near a corpse must bring a sin-offering."
+          }
+        },
+        {
+          "id": "chata-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "The verse explains: \"for that he sinned by the soul.\""
+          },
+          "highlight": ["asher-chata"]
+        },
+        {
+          "id": "chata-intro-q",
+          "type": "narration",
+          "text": {
+            "en": "But the Hebrew is enigmatic: ha-nefesh — which soul? Whose?"
           }
         },
         {
@@ -442,7 +712,21 @@
           "id": "chata-narration-stakes",
           "type": "narration",
           "text": {
-            "en": "The stakes are huge. On Rashi's first reading, the Nazirite who never touched a corpse and finished his term cleanly owes no atonement. On R. Elazar HaKappar's reading, every completed Nazirite is a sinner — abstention itself is the trespass."
+            "en": "The stakes are huge."
+          }
+        },
+        {
+          "id": "chata-narration-rashi",
+          "type": "narration",
+          "text": {
+            "en": "On Rashi's first reading, the Nazirite who never touched a corpse and finished his term cleanly owes no atonement."
+          }
+        },
+        {
+          "id": "chata-narration-kappar",
+          "type": "narration",
+          "text": {
+            "en": "On R. Elazar HaKappar's reading, every completed Nazirite is a sinner — abstention itself is the trespass."
           },
           "highlight": ["lechatat"],
           "effect": "glow"
@@ -476,7 +760,21 @@
           "id": "decline-intro",
           "type": "narration",
           "text": {
-            "en": "Ramban accepts the question in its sharpest form: why does the Torah call the Nazirite a sinner? But he moves the moment of sin. It is not the abstention. It is the ending."
+            "en": "Ramban accepts the question in its sharpest form: why does the Torah call the Nazirite a sinner?"
+          }
+        },
+        {
+          "id": "decline-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "But he moves the moment of sin."
+          }
+        },
+        {
+          "id": "decline-intro-3",
+          "type": "narration",
+          "text": {
+            "en": "It is not the abstention. It is the ending."
           }
         },
         {
@@ -498,7 +796,21 @@
           "id": "decline-narration-prophet",
           "type": "narration",
           "text": {
-            "en": "Ramban grounds this in Amos: \"I raised up of your sons for prophets, and of your young men for Nazirites.\" Prophet and Nazirite stand in the same syntax. Both are a permanent calling. Ending a Nazirite vow is, on this reading, like resigning prophecy."
+            "en": "Ramban grounds this in Amos: \"I raised up of your sons for prophets, and of your young men for Nazirites.\""
+          }
+        },
+        {
+          "id": "decline-narration-prophet-2",
+          "type": "narration",
+          "text": {
+            "en": "Prophet and Nazirite stand in the same syntax. Both are a permanent calling."
+          }
+        },
+        {
+          "id": "decline-narration-prophet-3",
+          "type": "narration",
+          "text": {
+            "en": "Ending a Nazirite vow is, on this reading, like resigning prophecy."
           }
         },
         {
@@ -530,7 +842,28 @@
           "id": "adj-intro",
           "type": "narration",
           "text": {
-            "en": "The Sotah passage ends. The Nazirite passage begins. No transition. Rashi pauses on the seam."
+            "en": "The Sotah passage ends."
+          }
+        },
+        {
+          "id": "adj-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "The Nazirite passage begins."
+          }
+        },
+        {
+          "id": "adj-intro-3",
+          "type": "narration",
+          "text": {
+            "en": "No transition."
+          }
+        },
+        {
+          "id": "adj-intro-4",
+          "type": "narration",
+          "text": {
+            "en": "Rashi pauses on the seam."
           }
         },
         {
@@ -552,14 +885,49 @@
           "id": "adj-narration-pivot",
           "type": "narration",
           "text": {
-            "en": "Here Nechama poses one of her characteristic objections: by his own hermeneutic principle, Rashi only explains adjacencies that the plain text fails to account for. He doesn't usually draw a moral lesson from the order of passages. So why does he do it here?"
+            "en": "Here Nechama poses one of her characteristic objections."
+          }
+        },
+        {
+          "id": "adj-narration-pivot-2",
+          "type": "narration",
+          "text": {
+            "en": "By his own hermeneutic principle, Rashi only explains adjacencies that the plain text fails to account for."
+          }
+        },
+        {
+          "id": "adj-narration-pivot-3",
+          "type": "narration",
+          "text": {
+            "en": "He doesn't usually draw a moral lesson from the order of passages."
+          }
+        },
+        {
+          "id": "adj-narration-pivot-q",
+          "type": "narration",
+          "text": {
+            "en": "So why does he do it here?"
           }
         },
         {
           "id": "adj-bridge",
           "type": "narration",
           "text": {
-            "en": "Because, perhaps, the seam itself is the lesson. The Sotah passage ends with a public ordeal. The Nazirite passage opens with a private vow. The Torah moves from the disgrace seen to the discipline chosen — and Rashi is reading that move out loud."
+            "en": "Because, perhaps, the seam itself is the lesson."
+          }
+        },
+        {
+          "id": "adj-bridge-2",
+          "type": "narration",
+          "text": {
+            "en": "The Sotah passage ends with a public ordeal. The Nazirite passage opens with a private vow."
+          }
+        },
+        {
+          "id": "adj-bridge-3",
+          "type": "narration",
+          "text": {
+            "en": "The Torah moves from the disgrace seen to the discipline chosen — and Rashi is reading that move out loud."
           },
           "highlight": ["nazir-lahashem-2"],
           "effect": "glow"
@@ -593,16 +961,46 @@
           "id": "bk-intro",
           "type": "narration",
           "text": {
-            "en": "The priestly blessing is one of the oldest blessings on earth — found inscribed on a silver amulet from the First Temple period. Three lines. Three divine acts."
+            "en": "The priestly blessing is one of the oldest blessings on earth — found inscribed on a silver amulet from the First Temple period."
+          }
+        },
+        {
+          "id": "bk-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "Three lines. Three divine acts."
           }
         },
         {
           "id": "bk-frame",
           "type": "narration",
           "text": {
-            "en": "Three knots Nechama returns to across her five Birkat Kohanim sheets. The verses themselves, growing from three words to five to seven. The paradox of human blessing: if only God can bless, why command priests to do so? And the puzzling closing line, \"They shall place My name upon the children of Israel.\" What is the priest actually doing?"
+            "en": "Three knots Nechama returns to across her five Birkat Kohanim sheets."
+          }
+        },
+        {
+          "id": "bk-q1",
+          "type": "narration",
+          "text": {
+            "en": "The verses themselves, growing from three words to five to seven."
+          }
+        },
+        {
+          "id": "bk-q2",
+          "type": "narration",
+          "text": {
+            "en": "The paradox of human blessing: if only God can bless, why command priests to do so?"
           },
           "highlight": ["koh-tevarchu"],
+          "effect": "glow"
+        },
+        {
+          "id": "bk-q3",
+          "type": "narration",
+          "text": {
+            "en": "And the puzzling closing line: \"They shall place My name upon the children of Israel.\" What is the priest actually doing?"
+          },
+          "highlight": ["amor-lahem"],
           "effect": "glow"
         }
       ]
@@ -656,7 +1054,21 @@
           "id": "tv-intro",
           "type": "narration",
           "text": {
-            "en": "Three verses. Three words, five words, seven words. Each verse contains the previous one within it — a larger request, a fuller gaze."
+            "en": "Three verses."
+          }
+        },
+        {
+          "id": "tv-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "Three words, five words, seven words."
+          }
+        },
+        {
+          "id": "tv-intro-3",
+          "type": "narration",
+          "text": {
+            "en": "Each verse contains the previous one within it — a larger request, a fuller gaze."
           }
         },
         {
@@ -727,7 +1139,21 @@
           "id": "prep-intro",
           "type": "narration",
           "text": {
-            "en": "The Akeidat Yitzhak raises a question so simple it can sit unasked for a lifetime. If only God can really bless — if a human being saying \"may you flourish\" does not, in itself, make anyone flourish — what is the priest actually doing? Why bother commanding the gesture?"
+            "en": "The Akeidat Yitzhak raises a question so simple it can sit unasked for a lifetime."
+          }
+        },
+        {
+          "id": "prep-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "If only God can really bless — if a human being saying \"may you flourish\" does not, in itself, make anyone flourish — what is the priest actually doing?"
+          }
+        },
+        {
+          "id": "prep-intro-q",
+          "type": "narration",
+          "text": {
+            "en": "Why bother commanding the gesture?"
           }
         },
         {
@@ -749,7 +1175,21 @@
           "id": "prep-narration-soil",
           "type": "narration",
           "text": {
-            "en": "Nechama's gloss, drawing on R. Hayim Yosef Polak: a blessing is like rain. The rain falls from above. But the soil decides what becomes of it. The priest's role is not to make the rain — only to make the soil ready to receive it."
+            "en": "Nechama's gloss, drawing on R. Hayim Yosef Polak: a blessing is like rain."
+          }
+        },
+        {
+          "id": "prep-narration-soil-rain",
+          "type": "narration",
+          "text": {
+            "en": "The rain falls from above. But the soil decides what becomes of it."
+          }
+        },
+        {
+          "id": "prep-narration-soil-priest",
+          "type": "narration",
+          "text": {
+            "en": "The priest's role is not to make the rain — only to make the soil ready to receive it."
           },
           "highlight": ["vesamu-shemi"],
           "effect": "glow"
@@ -758,7 +1198,21 @@
           "id": "prep-narration-soil-2",
           "type": "narration",
           "text": {
-            "en": "On this reading, the command \"Thus shall you bless\" is not addressed to the recipient's flourishing. It is addressed to the recipient's receptivity. The blessing is what God will do. The standing-still-in-front-of-the-priest is what we contribute."
+            "en": "On this reading, the command \"Thus shall you bless\" is not addressed to the recipient's flourishing."
+          }
+        },
+        {
+          "id": "prep-narration-receptivity",
+          "type": "narration",
+          "text": {
+            "en": "It is addressed to the recipient's receptivity."
+          }
+        },
+        {
+          "id": "prep-narration-contribute",
+          "type": "narration",
+          "text": {
+            "en": "The blessing is what God will do. The standing-still-in-front-of-the-priest is what we contribute."
           }
         },
         {
@@ -790,7 +1244,29 @@
           "id": "name-intro",
           "type": "narration",
           "text": {
-            "en": "The closing verse uses an extraordinary phrase: the priests are commanded not just to bless but to \"place My name upon the children of Israel.\" The name is treated like an object you can put on someone. What does that mean in practice?"
+            "en": "The closing verse uses an extraordinary phrase."
+          }
+        },
+        {
+          "id": "name-intro-phrase",
+          "type": "narration",
+          "text": {
+            "en": "The priests are commanded not just to bless but to \"place My name upon the children of Israel.\""
+          },
+          "highlight": ["vesamu-shemi"]
+        },
+        {
+          "id": "name-intro-observation",
+          "type": "narration",
+          "text": {
+            "en": "The name is treated like an object you can put on someone."
+          }
+        },
+        {
+          "id": "name-intro-q",
+          "type": "narration",
+          "text": {
+            "en": "What does that mean in practice?"
           }
         },
         {
@@ -812,15 +1288,50 @@
           "id": "name-narration-alshich",
           "type": "narration",
           "text": {
-            "en": "The Alshich and Kli Yakar push further. The priest is not asking God for anything. He is doing something to Israel: orienting them toward the divine source, marking them as the address of the blessing. The verb is not \"shall pray for\" — it is \"shall place upon.\""
+            "en": "The Alshich and Kli Yakar push further."
+          }
+        },
+        {
+          "id": "name-narration-alshich-2",
+          "type": "narration",
+          "text": {
+            "en": "The priest is not asking God for anything."
+          }
+        },
+        {
+          "id": "name-narration-alshich-3",
+          "type": "narration",
+          "text": {
+            "en": "He is doing something to Israel: orienting them toward the divine source, marking them as the address of the blessing."
           },
           "highlight": ["al-bnei-yisrael"]
+        },
+        {
+          "id": "name-narration-verb",
+          "type": "narration",
+          "text": {
+            "en": "The verb is not \"shall pray for\" — it is \"shall place upon.\""
+          }
         },
         {
           "id": "name-narration-pivot",
           "type": "narration",
           "text": {
-            "en": "Read together with the priestly choreography — raised hands, opened fingers, the explicit Name in the mouth — the priest becomes a kind of arrow. He turns Israel's gaze upward. The blessing is what happens when both look in the same direction."
+            "en": "Read together with the priestly choreography — raised hands, opened fingers, the explicit Name in the mouth — the priest becomes a kind of arrow."
+          }
+        },
+        {
+          "id": "name-narration-pivot-2",
+          "type": "narration",
+          "text": {
+            "en": "He turns Israel's gaze upward."
+          }
+        },
+        {
+          "id": "name-narration-pivot-3",
+          "type": "narration",
+          "text": {
+            "en": "The blessing is what happens when both look in the same direction."
           },
           "effect": "glow"
         },
@@ -854,14 +1365,42 @@
           "id": "nes-intro",
           "type": "narration",
           "text": {
-            "en": "After the laws comes the longest narrative passage in the Torah by sheer repetition. Twelve princes, twelve days, twelve identical offerings, written out twelve times. The same silver dish, the same bull, the same goat — listed again, and again, and again."
+            "en": "After the laws comes the longest narrative passage in the Torah by sheer repetition."
+          }
+        },
+        {
+          "id": "nes-intro-twelves",
+          "type": "narration",
+          "text": {
+            "en": "Twelve princes, twelve days, twelve identical offerings, written out twelve times."
+          }
+        },
+        {
+          "id": "nes-intro-recipe",
+          "type": "narration",
+          "text": {
+            "en": "The same silver dish, the same bull, the same goat — listed again, and again, and again."
+          }
+        },
+        {
+          "id": "nes-brevity",
+          "type": "narration",
+          "text": {
+            "en": "The Torah does not normally waste words. Brevity is its house style."
+          }
+        },
+        {
+          "id": "nes-sheets",
+          "type": "narration",
+          "text": {
+            "en": "So Nechama's six Korban Hanesi'im sheets all circle one question."
           }
         },
         {
           "id": "nes-question",
           "type": "narration",
           "text": {
-            "en": "The Torah does not normally waste words. Brevity is its house style. So Nechama's six Korban Hanesi'im sheets all circle one question: what is the repetition doing?"
+            "en": "What is the repetition doing?"
           },
           "highlight": ["korbanam"],
           "effect": "glow"
@@ -915,14 +1454,43 @@
           "id": "rep-intro",
           "type": "narration",
           "text": {
-            "en": "Even the command itself doubles: \"one prince each day, one prince each day.\" The Torah seems to be staging its own repetition, almost daring the reader to ask why."
+            "en": "Even the command itself doubles: \"one prince each day, one prince each day.\""
+          },
+          "highlight": ["nasi-echad-layom"]
+        },
+        {
+          "id": "rep-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "The Torah seems to be staging its own repetition, almost daring the reader to ask why."
           }
         },
         {
           "id": "rep-narration-kaspi",
           "type": "narration",
           "text": {
-            "en": "Ibn Kaspi (Tirat Kesef) gives the answer Nechama loves: the Torah is not a philosophical treatise. A philosopher writes for readers who can hold an abstraction. Prophetic literature writes for everyone — and most people only wake to a truth when it is repeated. The redundancy is not a flaw in the writing. It is what the writing is for."
+            "en": "Ibn Kaspi (Tirat Kesef) gives the answer Nechama loves: the Torah is not a philosophical treatise."
+          }
+        },
+        {
+          "id": "rep-narration-philosopher",
+          "type": "narration",
+          "text": {
+            "en": "A philosopher writes for readers who can hold an abstraction."
+          }
+        },
+        {
+          "id": "rep-narration-prophet",
+          "type": "narration",
+          "text": {
+            "en": "Prophetic literature writes for everyone — and most people only wake to a truth when it is repeated."
+          }
+        },
+        {
+          "id": "rep-narration-purpose",
+          "type": "narration",
+          "text": {
+            "en": "The redundancy is not a flaw in the writing. It is what the writing is for."
           },
           "highlight": ["nasi-echad-layom"],
           "effect": "glow"
@@ -931,16 +1499,58 @@
           "id": "rep-narration-dignity",
           "type": "narration",
           "text": {
-            "en": "But Nechama presses a second reading alongside Ibn Kaspi's. To list each prince's gift separately, even when the gift is identical, is to refuse to compress them into a list. Each prince's day is its own day. The repetition isn't pedagogical inefficiency — it is the Torah declining to make twelve people into one footnote."
+            "en": "But Nechama presses a second reading alongside Ibn Kaspi's."
+          }
+        },
+        {
+          "id": "rep-narration-dignity-2",
+          "type": "narration",
+          "text": {
+            "en": "To list each prince's gift separately, even when the gift is identical, is to refuse to compress them into a list."
+          }
+        },
+        {
+          "id": "rep-narration-dignity-3",
+          "type": "narration",
+          "text": {
+            "en": "Each prince's day is its own day."
+          }
+        },
+        {
+          "id": "rep-narration-dignity-4",
+          "type": "narration",
+          "text": {
+            "en": "The repetition isn't pedagogical inefficiency — it is the Torah declining to make twelve people into one footnote."
           }
         },
         {
           "id": "rep-narration-cost",
           "type": "narration",
           "text": {
-            "en": "Compare what the Torah doesn't repeat. Six days of creation are summed up. Forty years of wilderness are summed up. But for the offerings of the twelve princes, the same recipe appears in full twelve times. The Torah's longest exhalation goes to dignifying twelve gifts that any editor would have merged."
+            "en": "Compare what the Torah doesn't repeat."
+          }
+        },
+        {
+          "id": "rep-narration-cost-2",
+          "type": "narration",
+          "text": {
+            "en": "Six days of creation are summed up. Forty years of wilderness are summed up."
+          }
+        },
+        {
+          "id": "rep-narration-cost-3",
+          "type": "narration",
+          "text": {
+            "en": "But for the offerings of the twelve princes, the same recipe appears in full twelve times."
           },
           "highlight": ["lachanukat"]
+        },
+        {
+          "id": "rep-narration-cost-4",
+          "type": "narration",
+          "text": {
+            "en": "The Torah's longest exhalation goes to dignifying twelve gifts that any editor would have merged."
+          }
         },
         {
           "id": "rep-question",
@@ -971,31 +1581,94 @@
           "id": "hier-intro",
           "type": "narration",
           "text": {
-            "en": "The offerings are identical. The order is not. Nahshon of Judah goes first, and the order of the tribes thereafter follows the order of the camp described in Bamidbar. Identical gifts, distinct days, ranked sequence."
+            "en": "The offerings are identical. The order is not."
+          }
+        },
+        {
+          "id": "hier-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "Nahshon of Judah goes first, and the order of the tribes thereafter follows the order of the camp described in Bamidbar."
+          }
+        },
+        {
+          "id": "hier-intro-3",
+          "type": "narration",
+          "text": {
+            "en": "Identical gifts, distinct days, ranked sequence."
           }
         },
         {
           "id": "hier-narration-alshich",
           "type": "narration",
           "text": {
-            "en": "The Alshich reads the sequence as choreography. The princes do not all bow at once. Each one approaches \"before the Lord\" alone, in order. The text is teaching what proper approach looks like — the dignity of being received one at a time."
+            "en": "The Alshich reads the sequence as choreography."
+          }
+        },
+        {
+          "id": "hier-narration-alshich-2",
+          "type": "narration",
+          "text": {
+            "en": "The princes do not all bow at once. Each one approaches \"before the Lord\" alone, in order."
           },
-          "highlight": ["nachshon"],
+          "highlight": ["nachshon"]
+        },
+        {
+          "id": "hier-narration-alshich-3",
+          "type": "narration",
+          "text": {
+            "en": "The text is teaching what proper approach looks like — the dignity of being received one at a time."
+          },
           "effect": "glow"
         },
         {
           "id": "hier-narration-judah",
           "type": "narration",
           "text": {
-            "en": "Nahshon goes first not because his offering is greater but because his tribe has been placed first. The kingship reading: Judah is being shaped, here, into the tribe that leads the others to the altar — a foreshadowing that will run through the rest of Tanakh."
+            "en": "Nahshon goes first not because his offering is greater but because his tribe has been placed first."
           },
           "highlight": ["lematei-yehuda"]
+        },
+        {
+          "id": "hier-narration-judah-2",
+          "type": "narration",
+          "text": {
+            "en": "The kingship reading: Judah is being shaped, here, into the tribe that leads the others to the altar."
+          }
+        },
+        {
+          "id": "hier-narration-judah-3",
+          "type": "narration",
+          "text": {
+            "en": "A foreshadowing that will run through the rest of Tanakh."
+          }
         },
         {
           "id": "hier-narration-equality",
           "type": "narration",
           "text": {
-            "en": "And yet — equal gifts. The order ranks the days, but the substance is flat. Judah brings the same silver dish as Naphtali, the same bull, the same goat. The Torah preserves both: there is a sequence, and within the sequence no one is more than anyone else."
+            "en": "And yet — equal gifts."
+          }
+        },
+        {
+          "id": "hier-narration-equality-2",
+          "type": "narration",
+          "text": {
+            "en": "The order ranks the days, but the substance is flat."
+          }
+        },
+        {
+          "id": "hier-narration-equality-3",
+          "type": "narration",
+          "text": {
+            "en": "Judah brings the same silver dish as Naphtali, the same bull, the same goat."
+          }
+        },
+        {
+          "id": "hier-narration-equality-4",
+          "type": "narration",
+          "text": {
+            "en": "The Torah preserves both: there is a sequence, and within the sequence no one is more than anyone else."
           }
         },
         {
@@ -1028,7 +1701,29 @@
           "id": "brid-intro",
           "type": "narration",
           "text": {
-            "en": "Rashi reads the verse twice. Once on the surface: \"Moses finished.\" Once underneath: the Hebrew word for \"finished\" — kalot — is written defective, missing a letter. It shares a root with kallah, bride."
+            "en": "Rashi reads the verse twice."
+          }
+        },
+        {
+          "id": "brid-intro-2",
+          "type": "narration",
+          "text": {
+            "en": "Once on the surface: \"Moses finished.\""
+          },
+          "highlight": ["kalot-moshe"]
+        },
+        {
+          "id": "brid-intro-3",
+          "type": "narration",
+          "text": {
+            "en": "Once underneath: the Hebrew word for \"finished\" — kalot — is written defective, missing a letter."
+          }
+        },
+        {
+          "id": "brid-intro-4",
+          "type": "narration",
+          "text": {
+            "en": "It shares a root with kallah, bride."
           }
         },
         {
@@ -1050,18 +1745,74 @@
           "id": "brid-narration-frame",
           "type": "narration",
           "text": {
-            "en": "Read this way, all the strange features of the chapter fit. Why the elaborate repetition? Because gift-giving at a wedding is itself ceremonial — each present named, each giver honored, each moment its own. Why the order? Because at a wedding the procession matters."
+            "en": "Read this way, all the strange features of the chapter fit."
           },
           "highlight": ["lehakim"],
           "effect": "glow"
         },
         {
+          "id": "brid-narration-frame-q1",
+          "type": "narration",
+          "text": {
+            "en": "Why the elaborate repetition?"
+          }
+        },
+        {
+          "id": "brid-narration-frame-a1",
+          "type": "narration",
+          "text": {
+            "en": "Because gift-giving at a wedding is itself ceremonial — each present named, each giver honored, each moment its own."
+          }
+        },
+        {
+          "id": "brid-narration-frame-q2",
+          "type": "narration",
+          "text": {
+            "en": "Why the order?"
+          }
+        },
+        {
+          "id": "brid-narration-frame-a2",
+          "type": "narration",
+          "text": {
+            "en": "Because at a wedding the procession matters."
+          }
+        },
+        {
           "id": "brid-narration-ramban",
           "type": "narration",
           "text": {
-            "en": "Ramban resists the reading. He argues that \"kalot\" is simply a finite verb — \"finished\" — and the defective spelling doesn't have to carry a midrash. But even Ramban concedes the chronology: this is the eighth day. The Mishkan has just been raised. Israel and God are, in some sense, beginning."
+            "en": "Ramban resists the reading."
+          }
+        },
+        {
+          "id": "brid-narration-ramban-2",
+          "type": "narration",
+          "text": {
+            "en": "He argues that \"kalot\" is simply a finite verb — \"finished\" — and the defective spelling doesn't have to carry a midrash."
+          }
+        },
+        {
+          "id": "brid-narration-ramban-3",
+          "type": "narration",
+          "text": {
+            "en": "But even Ramban concedes the chronology: this is the eighth day."
           },
           "highlight": ["vayimshach"]
+        },
+        {
+          "id": "brid-narration-ramban-4",
+          "type": "narration",
+          "text": {
+            "en": "The Mishkan has just been raised."
+          }
+        },
+        {
+          "id": "brid-narration-ramban-5",
+          "type": "narration",
+          "text": {
+            "en": "Israel and God are, in some sense, beginning."
+          }
         },
         {
           "id": "brid-question",
