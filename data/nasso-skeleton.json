@@ -246,7 +246,8 @@
           "type": "narration",
           "text": {
             "en": "But the verse arranges these in a particular order — confession first, then principal, then fifth."
-          }
+          },
+          "highlight": ["vehitvadu"]
         },
         {
           "id": "conf-intro-3",
@@ -299,28 +300,34 @@
           "type": "narration",
           "text": {
             "en": "Why does honesty cost extra?"
-          }
+          },
+          "highlight": ["vehitvadu", "vahamishito"],
+          "effect": "pulse"
         },
         {
           "id": "conf-frame",
           "type": "narration",
           "text": {
             "en": "Because, on this reading, the fifth is not a fine."
-          }
+          },
+          "highlight": ["vahamishito"]
         },
         {
           "id": "conf-frame-2",
           "type": "narration",
           "text": {
             "en": "It is what was already owed and could not be reached by external proof — the part of the harm that lives inside the wrongdoer and surfaces only when he names it."
-          }
+          },
+          "highlight": ["vahamishito"]
         },
         {
           "id": "conf-frame-3",
           "type": "narration",
           "text": {
             "en": "The Torah ranks confession higher than evidence."
-          }
+          },
+          "highlight": ["vehitvadu"],
+          "effect": "glow"
         },
         {
           "id": "conf-question",
@@ -361,7 +368,8 @@
           "type": "narration",
           "text": {
             "en": "One sin, two addressees."
-          }
+          },
+          "highlight": ["chatat-haadam"]
         },
         {
           "id": "maal-intro-q",
@@ -469,14 +477,17 @@
           "type": "narration",
           "text": {
             "en": "Someone steals from a person who then dies without any heirs."
-          }
+          },
+          "highlight": ["ein-goel"]
         },
         {
           "id": "ger-intro-q",
           "type": "narration",
           "text": {
             "en": "To whom does the restitution go?"
-          }
+          },
+          "highlight": ["lehashiv-haasham"],
+          "effect": "pulse"
         },
         {
           "id": "ger-intro-answer",
@@ -491,7 +502,9 @@
           "type": "narration",
           "text": {
             "en": "But Rashi pauses — what kind of person, exactly, has no heirs at all?"
-          }
+          },
+          "highlight": ["ein-goel"],
+          "effect": "pulse"
         },
         {
           "id": "ger-rashi",
@@ -513,7 +526,8 @@
           "type": "narration",
           "text": {
             "en": "Read this way, the law of the gezel hager is not an edge case. It is the case."
-          }
+          },
+          "highlight": ["ein-goel"]
         },
         {
           "id": "ger-narration-frame-2",
@@ -536,7 +550,8 @@
           "type": "narration",
           "text": {
             "en": "Where there is no kinsman, God Himself becomes the next of kin."
-          }
+          },
+          "highlight": ["ein-goel"]
         },
         {
           "id": "ger-narration-kohen-3",
@@ -568,7 +583,7 @@
         "en": "The Lord spoke to Moses, saying: Speak to the children of Israel and say to them: If a man or woman explicitly utters a Nazirite's vow, to set themselves apart for the Lord, they shall abstain from wine and intoxicants.",
         "words": {
           "yafli": { "he": "כִּי יַפְלִא לִנְדֹּר", "en": "explicitly utters" },
-          "nazir-lahashem": { "he": "נָזִיר לְהַזִּיר לַה׳", "en": "a Nazirite, to set themselves apart for the Lord" },
+          "nazir-lahashem": { "he": "נָזִיר לְהַזִּיר לַה׳", "en": "to set themselves apart for the Lord" },
           "miyayin": { "he": "מִיַּיִן וְשֵׁכָר", "en": "from wine and intoxicants" }
         }
       },
@@ -662,12 +677,12 @@
       "primaryText": {
         "ref": "Numbers 6:11",
         "he": "וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ וְקִדַּשׁ אֶת רֹאשׁוֹ בַּיּוֹם הַהוּא.",
-        "en": "The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on the Nazirite's behalf for the guilt incurred through the corpse. That same day his head shall be reconsecrated.",
+        "en": "The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation upon him for that he sinned by reason of a soul. That same day he shall hallow his head.",
         "words": {
           "lechatat": { "he": "אֶחָד לְחַטָּאת", "en": "one as a sin offering" },
-          "kiper-alav": { "he": "וְכִפֶּר עָלָיו", "en": "and make expiation on his behalf" },
+          "kiper-alav": { "he": "וְכִפֶּר עָלָיו", "en": "make expiation upon him" },
           "asher-chata": { "he": "מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ", "en": "for that he sinned by reason of a soul" },
-          "vekidash-rosho": { "he": "וְקִדַּשׁ אֶת רֹאשׁוֹ", "en": "that same day his head shall be reconsecrated" }
+          "vekidash-rosho": { "he": "וְקִדַּשׁ אֶת רֹאשׁוֹ", "en": "he shall hallow his head" }
         }
       },
       "steps": [
@@ -676,22 +691,26 @@
           "type": "narration",
           "text": {
             "en": "The Nazirite who has accidentally been near a corpse must bring a sin-offering."
-          }
+          },
+          "highlight": ["lechatat"]
         },
         {
           "id": "chata-intro-2",
           "type": "narration",
           "text": {
-            "en": "The verse explains: \"for that he sinned by the soul.\""
+            "en": "The verse explains: \"for that he sinned by reason of a soul.\""
           },
-          "highlight": ["asher-chata"]
+          "highlight": ["asher-chata"],
+          "effect": "glow"
         },
         {
           "id": "chata-intro-q",
           "type": "narration",
           "text": {
             "en": "But the Hebrew is enigmatic: ha-nefesh — which soul? Whose?"
-          }
+          },
+          "highlight": ["asher-chata"],
+          "effect": "pulse"
         },
         {
           "id": "chata-rashi",
@@ -720,7 +739,8 @@
           "type": "narration",
           "text": {
             "en": "On Rashi's first reading, the Nazirite who never touched a corpse and finished his term cleanly owes no atonement."
-          }
+          },
+          "highlight": ["kiper-alav"]
         },
         {
           "id": "chata-narration-kappar",
@@ -749,9 +769,9 @@
       "primaryText": {
         "ref": "Numbers 6:11",
         "he": "וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ וְקִדַּשׁ אֶת רֹאשׁוֹ בַּיּוֹם הַהוּא.",
-        "en": "The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on the Nazirite's behalf for the guilt incurred through the corpse. That same day his head shall be reconsecrated.",
+        "en": "The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation upon him for that he sinned by reason of a soul. That same day he shall hallow his head.",
         "words": {
-          "kiper-alav": { "he": "וְכִפֶּר עָלָיו", "en": "make expiation on his behalf" },
+          "kiper-alav": { "he": "וְכִפֶּר עָלָיו", "en": "make expiation upon him" },
           "asher-chata": { "he": "מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ", "en": "for that he sinned by reason of a soul" }
         }
       },
@@ -775,7 +795,8 @@
           "type": "narration",
           "text": {
             "en": "It is not the abstention. It is the ending."
-          }
+          },
+          "highlight": ["kiper-alav"]
         },
         {
           "id": "decline-ramban",
@@ -811,7 +832,8 @@
           "type": "narration",
           "text": {
             "en": "Ending a Nazirite vow is, on this reading, like resigning prophecy."
-          }
+          },
+          "highlight": ["kiper-alav"]
         },
         {
           "id": "decline-question",
@@ -834,7 +856,7 @@
         "en": "Speak to the children of Israel and say to them: If a man or woman explicitly utters a Nazirite's vow, to set themselves apart for the Lord.",
         "words": {
           "yafli": { "he": "כִּי יַפְלִא לִנְדֹּר", "en": "explicitly utters" },
-          "nazir-lahashem-2": { "he": "נָזִיר לְהַזִּיר לַה׳", "en": "a Nazirite, to set themselves apart for the Lord" }
+          "nazir-lahashem-2": { "he": "נָזִיר לְהַזִּיר לַה׳", "en": "to set themselves apart for the Lord" }
         }
       },
       "steps": [
@@ -850,7 +872,8 @@
           "type": "narration",
           "text": {
             "en": "The Nazirite passage begins."
-          }
+          },
+          "highlight": ["nazir-lahashem-2"]
         },
         {
           "id": "adj-intro-3",
@@ -907,7 +930,9 @@
           "type": "narration",
           "text": {
             "en": "So why does he do it here?"
-          }
+          },
+          "highlight": ["yafli"],
+          "effect": "pulse"
         },
         {
           "id": "adj-bridge",
@@ -921,7 +946,8 @@
           "type": "narration",
           "text": {
             "en": "The Sotah passage ends with a public ordeal. The Nazirite passage opens with a private vow."
-          }
+          },
+          "highlight": ["nazir-lahashem-2"]
         },
         {
           "id": "adj-bridge-3",
@@ -952,8 +978,8 @@
         "he": "וַיְדַבֵּר ה׳ אֶל מֹשֶׁה לֵּאמֹר. דַּבֵּר אֶל אַהֲרֹן וְאֶל בָּנָיו לֵאמֹר כֹּה תְבָרְכוּ אֶת בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם.",
         "en": "The Lord spoke to Moses, saying: Speak to Aaron and his sons, saying: Thus you shall bless the children of Israel. Say to them:",
         "words": {
-          "koh-tevarchu": { "he": "כֹּה תְבָרְכוּ", "en": "thus you shall bless" },
-          "amor-lahem": { "he": "אָמוֹר לָהֶם", "en": "say to them" }
+          "koh-tevarchu": { "he": "כֹּה תְבָרְכוּ", "en": "Thus you shall bless" },
+          "amor-lahem": { "he": "אָמוֹר לָהֶם", "en": "Say to them" }
         }
       },
       "steps": [
@@ -1062,7 +1088,8 @@
           "type": "narration",
           "text": {
             "en": "Three words, five words, seven words."
-          }
+          },
+          "highlight": ["verse-1", "verse-2", "verse-3"]
         },
         {
           "id": "tv-intro-3",
@@ -1130,7 +1157,7 @@
         "he": "וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרֲכֵם.",
         "en": "So shall they put My name upon the children of Israel, and I will bless them.",
         "words": {
-          "vesamu-shemi": { "he": "וְשָׂמוּ אֶת שְׁמִי", "en": "they shall put My name" },
+          "vesamu-shemi": { "he": "וְשָׂמוּ אֶת שְׁמִי", "en": "shall they put My name" },
           "ani-avarchem": { "he": "וַאֲנִי אֲבָרֲכֵם", "en": "and I will bless them" }
         }
       },
@@ -1147,14 +1174,17 @@
           "type": "narration",
           "text": {
             "en": "If only God can really bless — if a human being saying \"may you flourish\" does not, in itself, make anyone flourish — what is the priest actually doing?"
-          }
+          },
+          "highlight": ["ani-avarchem"]
         },
         {
           "id": "prep-intro-q",
           "type": "narration",
           "text": {
             "en": "Why bother commanding the gesture?"
-          }
+          },
+          "highlight": ["vesamu-shemi"],
+          "effect": "pulse"
         },
         {
           "id": "prep-rashi",
@@ -1206,14 +1236,16 @@
           "type": "narration",
           "text": {
             "en": "It is addressed to the recipient's receptivity."
-          }
+          },
+          "highlight": ["vesamu-shemi"]
         },
         {
           "id": "prep-narration-contribute",
           "type": "narration",
           "text": {
             "en": "The blessing is what God will do. The standing-still-in-front-of-the-priest is what we contribute."
-          }
+          },
+          "highlight": ["ani-avarchem"]
         },
         {
           "id": "prep-question",
@@ -1235,8 +1267,9 @@
         "he": "וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרֲכֵם.",
         "en": "So shall they put My name upon the children of Israel, and I will bless them.",
         "words": {
-          "vesamu-shemi": { "he": "וְשָׂמוּ אֶת שְׁמִי", "en": "they shall put My name" },
-          "al-bnei-yisrael": { "he": "עַל בְּנֵי יִשְׂרָאֵל", "en": "upon the children of Israel" }
+          "vesamu-shemi": { "he": "וְשָׂמוּ אֶת שְׁמִי", "en": "shall they put My name" },
+          "al-bnei-yisrael": { "he": "עַל בְּנֵי יִשְׂרָאֵל", "en": "upon the children of Israel" },
+          "ani-avarchem": { "he": "וַאֲנִי אֲבָרֲכֵם", "en": "and I will bless them" }
         }
       },
       "steps": [
@@ -1245,7 +1278,8 @@
           "type": "narration",
           "text": {
             "en": "The closing verse uses an extraordinary phrase."
-          }
+          },
+          "highlight": ["vesamu-shemi"]
         },
         {
           "id": "name-intro-phrase",
@@ -1260,14 +1294,17 @@
           "type": "narration",
           "text": {
             "en": "The name is treated like an object you can put on someone."
-          }
+          },
+          "highlight": ["vesamu-shemi"]
         },
         {
           "id": "name-intro-q",
           "type": "narration",
           "text": {
             "en": "What does that mean in practice?"
-          }
+          },
+          "highlight": ["vesamu-shemi"],
+          "effect": "pulse"
         },
         {
           "id": "name-rashi",
@@ -1296,7 +1333,8 @@
           "type": "narration",
           "text": {
             "en": "The priest is not asking God for anything."
-          }
+          },
+          "highlight": ["vesamu-shemi"]
         },
         {
           "id": "name-narration-alshich-3",
@@ -1311,7 +1349,9 @@
           "type": "narration",
           "text": {
             "en": "The verb is not \"shall pray for\" — it is \"shall place upon.\""
-          }
+          },
+          "highlight": ["vesamu-shemi"],
+          "effect": "glow"
         },
         {
           "id": "name-narration-pivot",
@@ -1325,7 +1365,8 @@
           "type": "narration",
           "text": {
             "en": "He turns Israel's gaze upward."
-          }
+          },
+          "highlight": ["al-bnei-yisrael"]
         },
         {
           "id": "name-narration-pivot-3",
@@ -1333,6 +1374,7 @@
           "text": {
             "en": "The blessing is what happens when both look in the same direction."
           },
+          "highlight": ["ani-avarchem"],
           "effect": "glow"
         },
         {
@@ -1356,7 +1398,7 @@
         "en": "On the day that Moses finished setting up the Mishkan, he anointed and consecrated it and all its furnishings, as well as the altar and its utensils. The princes of Israel, the heads of ancestral houses, drew near and brought their offering before the Lord: six draught carts and twelve oxen, a cart for every two princes and an ox for each one. They brought them before the Mishkan.",
         "words": {
           "yom-kalot": { "he": "בְּיוֹם כַּלּוֹת מֹשֶׁה", "en": "the day that Moses finished" },
-          "nesi'ei-yisrael": { "he": "נְשִׂיאֵי יִשְׂרָאֵל", "en": "the princes of Israel" },
+          "nesi'ei-yisrael": { "he": "נְשִׂיאֵי יִשְׂרָאֵל", "en": "The princes of Israel" },
           "korbanam": { "he": "אֶת קָרְבָּנָם", "en": "their offering" }
         }
       },
@@ -1445,7 +1487,7 @@
         "he": "וַיֹּאמֶר ה׳ אֶל מֹשֶׁה נָשִׂיא אֶחָד לַיּוֹם נָשִׂיא אֶחָד לַיּוֹם יַקְרִיבוּ אֶת קָרְבָּנָם לַחֲנֻכַּת הַמִּזְבֵּחַ.",
         "en": "The Lord said to Moses: One prince each day, one prince each day, shall present his offering for the dedication of the altar.",
         "words": {
-          "nasi-echad-layom": { "he": "נָשִׂיא אֶחָד לַיּוֹם נָשִׂיא אֶחָד לַיּוֹם", "en": "one prince each day, one prince each day" },
+          "nasi-echad-layom": { "he": "נָשִׂיא אֶחָד לַיּוֹם נָשִׂיא אֶחָד לַיּוֹם", "en": "One prince each day, one prince each day" },
           "lachanukat": { "he": "לַחֲנֻכַּת הַמִּזְבֵּחַ", "en": "for the dedication of the altar" }
         }
       },
@@ -1463,7 +1505,8 @@
           "type": "narration",
           "text": {
             "en": "The Torah seems to be staging its own repetition, almost daring the reader to ask why."
-          }
+          },
+          "highlight": ["nasi-echad-layom"]
         },
         {
           "id": "rep-narration-kaspi",
@@ -1507,7 +1550,8 @@
           "type": "narration",
           "text": {
             "en": "To list each prince's gift separately, even when the gift is identical, is to refuse to compress them into a list."
-          }
+          },
+          "highlight": ["nasi-echad-layom"]
         },
         {
           "id": "rep-narration-dignity-3",
@@ -1521,7 +1565,8 @@
           "type": "narration",
           "text": {
             "en": "The repetition isn't pedagogical inefficiency — it is the Torah declining to make twelve people into one footnote."
-          }
+          },
+          "highlight": ["nasi-echad-layom"]
         },
         {
           "id": "rep-narration-cost",
@@ -1550,7 +1595,8 @@
           "type": "narration",
           "text": {
             "en": "The Torah's longest exhalation goes to dignifying twelve gifts that any editor would have merged."
-          }
+          },
+          "highlight": ["lachanukat"]
         },
         {
           "id": "rep-question",
@@ -1582,14 +1628,16 @@
           "type": "narration",
           "text": {
             "en": "The offerings are identical. The order is not."
-          }
+          },
+          "highlight": ["nachshon"]
         },
         {
           "id": "hier-intro-2",
           "type": "narration",
           "text": {
             "en": "Nahshon of Judah goes first, and the order of the tribes thereafter follows the order of the camp described in Bamidbar."
-          }
+          },
+          "highlight": ["nachshon", "lematei-yehuda"]
         },
         {
           "id": "hier-intro-3",
@@ -1603,7 +1651,8 @@
           "type": "narration",
           "text": {
             "en": "The Alshich reads the sequence as choreography."
-          }
+          },
+          "highlight": ["nachshon"]
         },
         {
           "id": "hier-narration-alshich-2",
@@ -1634,7 +1683,8 @@
           "type": "narration",
           "text": {
             "en": "The kingship reading: Judah is being shaped, here, into the tribe that leads the others to the altar."
-          }
+          },
+          "highlight": ["lematei-yehuda"]
         },
         {
           "id": "hier-narration-judah-3",
@@ -1648,7 +1698,8 @@
           "type": "narration",
           "text": {
             "en": "And yet — equal gifts."
-          }
+          },
+          "highlight": ["nachshon"]
         },
         {
           "id": "hier-narration-equality-2",
@@ -1662,7 +1713,8 @@
           "type": "narration",
           "text": {
             "en": "Judah brings the same silver dish as Naphtali, the same bull, the same goat."
-          }
+          },
+          "highlight": ["lematei-yehuda"]
         },
         {
           "id": "hier-narration-equality-4",
@@ -1702,7 +1754,8 @@
           "type": "narration",
           "text": {
             "en": "Rashi reads the verse twice."
-          }
+          },
+          "highlight": ["kalot-moshe"]
         },
         {
           "id": "brid-intro-2",
@@ -1717,14 +1770,18 @@
           "type": "narration",
           "text": {
             "en": "Once underneath: the Hebrew word for \"finished\" — kalot — is written defective, missing a letter."
-          }
+          },
+          "highlight": ["kalot-moshe"],
+          "effect": "glow"
         },
         {
           "id": "brid-intro-4",
           "type": "narration",
           "text": {
             "en": "It shares a root with kallah, bride."
-          }
+          },
+          "highlight": ["kalot-moshe"],
+          "effect": "glow"
         },
         {
           "id": "brid-rashi",
@@ -1762,7 +1819,8 @@
           "type": "narration",
           "text": {
             "en": "Because gift-giving at a wedding is itself ceremonial — each present named, each giver honored, each moment its own."
-          }
+          },
+          "highlight": ["lehakim"]
         },
         {
           "id": "brid-narration-frame-q2",
@@ -1776,7 +1834,8 @@
           "type": "narration",
           "text": {
             "en": "Because at a wedding the procession matters."
-          }
+          },
+          "highlight": ["lehakim"]
         },
         {
           "id": "brid-narration-ramban",
@@ -1790,7 +1849,8 @@
           "type": "narration",
           "text": {
             "en": "He argues that \"kalot\" is simply a finite verb — \"finished\" — and the defective spelling doesn't have to carry a midrash."
-          }
+          },
+          "highlight": ["kalot-moshe"]
         },
         {
           "id": "brid-narration-ramban-3",
@@ -1805,14 +1865,17 @@
           "type": "narration",
           "text": {
             "en": "The Mishkan has just been raised."
-          }
+          },
+          "highlight": ["lehakim"]
         },
         {
           "id": "brid-narration-ramban-5",
           "type": "narration",
           "text": {
             "en": "Israel and God are, in some sense, beginning."
-          }
+          },
+          "highlight": ["lehakim"],
+          "effect": "glow"
         },
         {
           "id": "brid-question",
