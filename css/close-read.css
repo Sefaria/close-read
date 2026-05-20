@@ -144,6 +144,168 @@ body {
   position: relative;
 }
 
+/* Generic hide utility — uses !important so it wins regardless of which
+   later-defined section-type rule sets display (e.g. decision sections set
+   display: flex). Applied by the engine to off-path sections and to the
+   closing screen when an unanswered decision still blocks the path. */
+.is-hidden {
+  display: none !important;
+}
+
+/* --- Decision Section: full-width fork --- */
+.cr-section[data-type="decision"] {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  background: var(--color-bg-warm);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.decision-inner {
+  max-width: 920px;
+  width: 100%;
+  text-align: center;
+}
+
+.decision-prompt {
+  margin-bottom: 3rem;
+}
+
+.decision-prompt-he {
+  font-family: var(--font-hebrew);
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+  color: var(--color-accent);
+  direction: rtl;
+  margin-bottom: 0.5em;
+}
+
+.decision-prompt-en {
+  font-family: var(--font-english);
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  color: var(--color-accent);
+  font-style: italic;
+  line-height: 1.4;
+}
+
+.decision-branches {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Exactly four branches: force a 2×2 grid so the buttons sit symmetrically
+   instead of breaking 3+1 on wide viewports. */
+.decision-branches[data-count="4"] {
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.decision-branch-button {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 1.75rem 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.25s var(--ease-smooth), box-shadow 0.25s var(--ease-smooth), transform 0.2s var(--ease-smooth);
+  font-family: inherit;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.decision-branch-button:hover,
+.decision-branch-button:focus-visible {
+  border-color: var(--color-accent);
+  box-shadow: 0 6px 22px var(--color-shadow);
+  transform: translateY(-2px);
+  outline: none;
+}
+
+.decision-branch-button.is-chosen {
+  border-color: var(--color-accent);
+  background: var(--color-accent-soft);
+  box-shadow: 0 4px 14px var(--color-shadow);
+}
+
+.branch-label-he {
+  font-family: var(--font-hebrew);
+  font-size: 1.5rem;
+  color: var(--color-accent);
+  direction: rtl;
+}
+
+.branch-label-en {
+  font-family: var(--font-english);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.branch-blurb {
+  font-family: var(--font-english);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--color-text-secondary);
+  font-style: italic;
+  margin-top: 0.3rem;
+}
+
+/* --- Breadcrumb (replaces section dots on branching sheets) --- */
+.section-nav.is-breadcrumb {
+  position: fixed;
+  left: 50%;
+  top: 1rem;
+  transform: translateX(-50%);
+  flex-direction: row;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(250, 248, 244, 0.92);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  padding: 0.4rem 1rem;
+  max-width: calc(100vw - 2rem);
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.breadcrumb-link {
+  background: none;
+  border: none;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  transition: color 0.2s, background 0.2s;
+}
+
+.breadcrumb-link:last-of-type {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.breadcrumb-link:hover {
+  background: var(--color-accent-soft);
+  color: var(--color-accent);
+}
+
+.breadcrumb-sep {
+  font-family: var(--font-ui);
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
 .section-title-card {
   min-height: 40vh;
   display: flex;
@@ -710,6 +872,30 @@ body {
   .section-dot {
     width: 6px;
     height: 6px;
+  }
+
+  .cr-section[data-type="decision"] {
+    padding: 3rem 1rem;
+  }
+
+  .decision-branches {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .decision-branch-button {
+    padding: 1.25rem 1rem;
+  }
+
+  .section-nav.is-breadcrumb {
+    top: 0.5rem;
+    padding: 0.3rem 0.6rem;
+    font-size: 0.8rem;
+  }
+
+  .breadcrumb-link {
+    font-size: 0.75rem;
+    padding: 0.15rem 0.3rem;
   }
 }
 

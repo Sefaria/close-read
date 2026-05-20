@@ -11,14 +11,22 @@ The app's entry point and orchestrator. On `DOMContentLoaded` it either renders 
 - `buildIndex()` — fetches `data/index.json` and renders a list of sheet cards on the title screen. Runs only when no `?sheet=` is provided.
 
 ### `CloseReadApp`
-- `init()` — runs the seven builders in order: title, sections, closing, section nav, scroll triggers, progress bar, page title.
-- `buildSections()` — for each `section` in the data: creates a `.cr-section` wrapper, a section-title card, and a `.scroll-container` flexbox containing a sticky `.primary-text-area` and a scrolling `.step-track`. Pre-renders **all** verses for the section (the `primaryText` plus every `verse-change.newVerse`) inside the primary-text-area, with only the first marked `.active`.
+- `init()` — orchestrates the full build: title, **branch tree**, sections, closing, **path-from-URL + initial visibility**, section nav (dots OR breadcrumb), scroll triggers, progress bar, page title, **popstate listener**.
+- `buildBranchTree()` — scans `data.sections` once and builds `this.tree = { decisions, targets, decisionsByLevel }`. Used by every later branching method. For sheets with no decision sections the tree is empty and the engine behaves linearly.
+- `readPathFromUrl()` / `writePathToUrl(path)` / `normalizePath(segments)` — URL ↔ path-array round-trip. Normalization walks segments left-to-right and drops the first invalid one (and everything after).
+- `pathToVisibleSet(path)` — pure function from a path array to the set of section IDs visible at that path. Used by `applyVisibility`, `updateChosenButtons`, `renderBreadcrumb`, and `normalizePath`.
+- `applyVisibility()` — toggles `.is-hidden` on every `.cr-section` based on `pathToVisibleSet(currentPath)` and updates `.is-chosen` on branch buttons. No-op on sheets without branching.
+- `onBranchClick(decisionSectionId, branchId)` — the click handler for branch buttons. Mutates `currentPath` at the decision's `level` (dropping anything deeper), re-applies visibility, writes the URL, re-renders breadcrumb, then refreshes ScrollTrigger and smooth-scrolls to the new target inside a `requestAnimationFrame`.
+- `wirePopstate()` — listens for browser back/forward and re-applies path + breadcrumb + refresh.
+- `buildSections()` — for each `section` in the data: creates a `.cr-section` wrapper, a section-title card, and a `.scroll-container` flexbox containing a sticky `.primary-text-area` and a scrolling `.step-track`. Pre-renders **all** verses for the section (the `primaryText` plus every `verse-change.newVerse`) inside the primary-text-area, with only the first marked `.active`. Decision sections (`type: "decision"`) dispatch to `buildDecisionSection()` instead — a full-width fork with no sticky pane.
+- `buildDecisionSection(section)` — full-width `.cr-section[data-type="decision"]` containing a `.decision-prompt` and a `.decision-branches` grid of `.decision-branch-button` elements, each wired to `onBranchClick`.
 - `buildVerseContent(verseData, isActive)` / `buildComparisonVerse(...)` — build a single or comparison `.primary-text-content` element. Queues `TextEffects.wrapWords` via `requestAnimationFrame` so wrapping happens after the verse is in the DOM.
 - `buildStepCard(step)` — renders one card per step type (`commentary`, `question`, `narration`). `verse-change` steps are skipped here (they're consumed by `buildSections` to build the alternate verses).
 - `setupScrollTriggers()` — creates one ScrollTrigger per `.step-card` with `start: 'top 55%'` / `end: 'bottom 40%'`, wiring `onEnter`/`onEnterBack` to `activateStep` and the leave handlers to `deactivateStep`. Also adds entrance animations to section-title children.
 - `activateStep(card, sectionEl, sectionData)` — the core scroll-driven logic. Deactivates other active cards in the same section, finds the target verse by scanning backwards through `sectionData.steps` for the most recent `verse-change`, calls `TextEffects.crossfadeTo` if the verse must change, and then either highlights the step's word groups or calls `TextEffects.reset()`.
 - `deactivateStep(card)` — removes `.is-active`; if no card is active anywhere, calls `TextEffects.reset()`.
-- `buildSectionNav()` / `setActiveDot(i)` — fixed-position dots on the left. Each dot is wired to a `ScrollTrigger` with `start: 'top center'` / `end: 'bottom center'`.
+- `buildSectionNav()` / `setActiveDot(i)` — fixed-position dots on the left for linear sheets. On branching sheets (`tree.decisions.size > 0`) the dots are skipped and a `renderBreadcrumb()` call replaces them with a path breadcrumb at the top of the viewport.
+- `renderBreadcrumb()` — populates `.section-nav.is-breadcrumb` with one clickable crumb per visible level of the current path (Overview › theme › leaf). Re-renders on every path change.
 - `setupProgressBar()` — single body-scoped ScrollTrigger that updates `.progress-bar` `scaleX` to match scroll progress.
 
 ## Non-obvious patterns

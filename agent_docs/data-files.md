@@ -16,7 +16,9 @@ Current sheets (as of stamp):
 | `shemini-5731` | Nechama Leibowitz | Leviticus 10:3 |
 | `yitro-5730` | Nechama Leibowitz | Exodus 20:5 |
 | `kedoshim-5731` | Nechama Leibowitz | Leviticus 19:16 |
+| `pirkei-avot-1-11` | Avtalyon (& readers) | Guided reading of Pirkei Avot 1:11 |
 | `minhag-overview` | Zvi Hirschfield | Authority of custom in Halakhah |
+| `nasso-skeleton` | Nechama Leibowitz (distilled) | **Branching experiment** — Parshat Nasso, garden of forking paths |
 
 ## Non-obvious patterns
 
@@ -25,6 +27,7 @@ Current sheets (as of stamp):
 - **Word-group IDs are verse-scoped, not section-scoped.** Different verses (including a `primaryText` and a later `verse-change.newVerse`) can reuse the same IDs without conflict, because only the active verse's spans exist in the visible DOM at any time.
 - **`verse-change` steps must precede their commentary.** Engine searches *backwards* from the current step to find the active verse — see [engine-js.md](engine-js.md). A forward-placed `verse-change` would leave earlier steps pointing at an outdated verse.
 - **`source` value is a CSS hook, not a free-text label.** It maps to `[data-source="..."]` selectors in [close-read-css.md](close-read-css.md). Unknown values fall back to the default warm-brown badge. Add a CSS rule, don't add JS.
+- **Decision sections opt into branching.** A section with `type: "decision"` has no `primaryText` or `steps` — instead a `prompt`, `level`, and `branches[]` with `{id, label, blurb?, target}`. Each branch's `target` is the `id` of a reading section. Sheets with zero decision sections behave linearly exactly as before. Path state lives in `?path=segment0/segment1` and is read/written by the engine. See [../docs/data-format.md](../docs/data-format.md#decision-sections).
 
 ## Authoring workflow
 See [../docs/conversion-guide.md](../docs/conversion-guide.md) — the canonical step-by-step for turning a Sefaria sheet into a data file. Covers naming, cantillation stripping, word group design, English-only sheets, multi-section-same-verse layouts, and a testing checklist.

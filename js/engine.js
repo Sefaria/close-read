@@ -85,16 +85,168 @@ class CloseReadApp {
   constructor(data) {
     this.data = data;
     this.sections = [];
+    this.tree = null;
+    this.currentPath = [];
   }
 
   init() {
     this.buildTitleScreen();
+    this.buildBranchTree();
     this.buildSections();
     this.buildClosing();
+    this.currentPath = this.readPathFromUrl();
+    this.applyVisibility();
     this.buildSectionNav();
     this.setupScrollTriggers();
     this.setupProgressBar();
     this.updatePageTitle();
+    this.wirePopstate();
+  }
+
+  // ─── Branching: build tree, path state, visibility ───
+  buildBranchTree() {
+    const decisions = new Map();        // sectionId → { level, branches, orderIndex }
+    const targets = new Map();          // sectionId → { decisionSectionId, branchId, level }
+    const decisionsByLevel = new Map(); // level → [decisionSectionId]
+    this.data.sections.forEach((section, i) => {
+      if (section.type !== 'decision') return;
+      decisions.set(section.id, {
+        level: section.level,
+        branches: section.branches,
+        orderIndex: i,
+      });
+      section.branches.forEach(branch => {
+        targets.set(branch.target, {
+          decisionSectionId: section.id,
+          branchId: branch.id,
+          level: section.level,
+        });
+      });
+      if (!decisionsByLevel.has(section.level)) decisionsByLevel.set(section.level, []);
+      decisionsByLevel.get(section.level).push(section.id);
+    });
+    this.tree = { decisions, targets, decisionsByLevel };
+  }
+
+  hasBranching() {
+    return this.tree && this.tree.decisions.size > 0;
+  }
+
+  readPathFromUrl() {
+    const raw = new URLSearchParams(window.location.search).get('path');
+    if (!raw) return [];
+    return this.normalizePath(raw.split('/').filter(Boolean));
+  }
+
+  writePathToUrl(path) {
+    const params = new URLSearchParams(window.location.search);
+    if (path.length === 0) params.delete('path');
+    else params.set('path', path.join('/'));
+    const search = params.toString();
+    const newUrl = `${window.location.pathname}${search ? '?' + search : ''}`;
+    history.pushState({ path }, '', newUrl);
+  }
+
+  // Drop any segment that doesn't match a reachable branch at its level.
+  normalizePath(segments) {
+    const valid = [];
+    for (let i = 0; i < segments.length; i++) {
+      const visible = this.pathToVisibleSet(valid);
+      const decisionId = (this.tree.decisionsByLevel.get(i) || []).find(id => visible.has(id));
+      if (!decisionId) break;
+      const decision = this.tree.decisions.get(decisionId);
+      const match = decision.branches.find(b => b.id === segments[i]);
+      if (!match) break;
+      valid.push(segments[i]);
+    }
+    return valid;
+  }
+
+  // Compute which section IDs are visible for a given path.
+  // Rule: non-target reading sections are always visible. Targets are visible
+  // iff path[level] === branchId AND their parent decision is visible.
+  // Decision sections are visible iff the immediately preceding section is visible.
+  pathToVisibleSet(path) {
+    const visible = new Set();
+    let prevVisible = true;
+    this.data.sections.forEach(section => {
+      let show;
+      if (section.type === 'decision') {
+        show = prevVisible;
+      } else {
+        const target = this.tree.targets.get(section.id);
+        if (!target) {
+          show = true;
+        } else {
+          const seg = path[target.level];
+          const parentVisible = visible.has(target.decisionSectionId);
+          show = parentVisible && seg === target.branchId;
+        }
+      }
+      if (show) visible.add(section.id);
+      prevVisible = show;
+    });
+    return visible;
+  }
+
+  applyVisibility() {
+    if (!this.hasBranching()) return;
+    const visible = this.pathToVisibleSet(this.currentPath);
+    document.querySelectorAll('.cr-section').forEach(el => {
+      el.classList.toggle('is-hidden', !visible.has(el.id));
+    });
+    // Block scroll past an unanswered decision: hide the closing screen
+    // (and end-of-document hint) when the path doesn't end on a reading section.
+    const lastVisibleId = Array.from(visible).pop();
+    const lastSection = this.data.sections.find(s => s.id === lastVisibleId);
+    const pathIsBlocked = lastSection?.type === 'decision';
+    const closing = document.querySelector('.closing-screen');
+    if (closing) closing.classList.toggle('is-hidden', pathIsBlocked);
+    this.updateChosenButtons();
+  }
+
+  updateChosenButtons() {
+    document.querySelectorAll('.decision-branch-button.is-chosen')
+      .forEach(b => b.classList.remove('is-chosen'));
+    this.currentPath.forEach((branchId, level) => {
+      const visible = this.pathToVisibleSet(this.currentPath.slice(0, level));
+      const decisionId = (this.tree.decisionsByLevel.get(level) || []).find(id => visible.has(id));
+      if (!decisionId) return;
+      const sel = `[id="${decisionId}"] .decision-branch-button[data-branch="${branchId}"]`;
+      const btn = document.querySelector(sel);
+      if (btn) btn.classList.add('is-chosen');
+    });
+  }
+
+  onBranchClick(decisionSectionId, branchId) {
+    const decision = this.tree.decisions.get(decisionSectionId);
+    if (!decision) return;
+    const newPath = this.currentPath.slice(0, decision.level);
+    newPath.push(branchId);
+    this.currentPath = newPath;
+    this.applyVisibility();
+    this.writePathToUrl(newPath);
+    this.renderBreadcrumb();
+    const target = decision.branches.find(b => b.id === branchId).target;
+    // Defer ScrollTrigger refresh + smooth-scroll to the next microtask via
+    // setTimeout (rAF can be paused in headless / background-tab environments,
+    // which would leave triggers stale after a visibility flip).
+    setTimeout(() => {
+      ScrollTrigger.refresh();
+      const el = document.getElementById(target);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 0);
+  }
+
+  wirePopstate() {
+    window.addEventListener('popstate', () => {
+      this.currentPath = this.readPathFromUrl();
+      this.applyVisibility();
+      if (this.hasBranching()) {
+        this.renderBreadcrumb();
+        setTimeout(() => ScrollTrigger.refresh(), 0);
+      }
+    });
   }
 
   // ─── Page Title ───
@@ -131,9 +283,14 @@ class CloseReadApp {
     `;
   }
 
-  // ─── Section Nav Dots ───
+  // ─── Section Nav: dots for linear sheets, breadcrumb for branching sheets ───
   buildSectionNav() {
     const nav = document.querySelector('.section-nav');
+    if (this.hasBranching()) {
+      nav.classList.add('is-breadcrumb');
+      this.renderBreadcrumb();
+      return;
+    }
     this.sections.forEach(({ navTarget, data }, i) => {
       const dot = document.createElement('button');
       dot.className = `section-dot${i === 0 ? ' active' : ''}`;
@@ -153,16 +310,65 @@ class CloseReadApp {
     });
   }
 
+  renderBreadcrumb() {
+    const nav = document.querySelector('.section-nav');
+    nav.innerHTML = '';
+
+    const crumbs = [];
+    const firstReading = this.data.sections.find(
+      s => s.type !== 'decision' && !this.tree.targets.has(s.id)
+    );
+    if (firstReading) {
+      crumbs.push({ id: firstReading.id, label: firstReading.title.en });
+    }
+
+    this.currentPath.forEach((branchId, level) => {
+      const visible = this.pathToVisibleSet(this.currentPath.slice(0, level));
+      const decisionId = (this.tree.decisionsByLevel.get(level) || []).find(id => visible.has(id));
+      if (!decisionId) return;
+      const decision = this.tree.decisions.get(decisionId);
+      const branch = decision.branches.find(b => b.id === branchId);
+      if (!branch) return;
+      crumbs.push({ id: branch.target, label: branch.label.en });
+    });
+
+    crumbs.forEach((crumb, i) => {
+      const link = document.createElement('button');
+      link.className = 'breadcrumb-link';
+      link.textContent = crumb.label;
+      link.addEventListener('click', () => {
+        const el = document.getElementById(crumb.id);
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+      nav.appendChild(link);
+      if (i < crumbs.length - 1) {
+        const sep = document.createElement('span');
+        sep.className = 'breadcrumb-sep';
+        sep.textContent = '›';
+        nav.appendChild(sep);
+      }
+    });
+  }
+
   // ─── Group consecutive sections sharing primary text ───
+  // Decision sections form their own one-section group; sections that are
+  // branch targets never merge backward (they're alternatives, not adjacent
+  // continuations of the previous primaryText).
   groupSections() {
     const groups = [];
     let current = null;
     this.data.sections.forEach(section => {
+      if (section.type === 'decision') {
+        groups.push({ key: `decision:${section.id}`, sections: [section], isDecision: true });
+        current = null;
+        return;
+      }
+      const isTarget = this.tree && this.tree.targets.has(section.id);
       const key = this.primaryKey(section.primaryText);
-      if (current && current.key === key) {
+      if (!isTarget && current && current.key === key) {
         current.sections.push(section);
       } else {
-        current = { key, sections: [section] };
+        current = { key, sections: [section], isDecision: false };
         groups.push(current);
       }
     });
@@ -197,6 +403,12 @@ class CloseReadApp {
     const groups = this.groupSections();
 
     groups.forEach(group => {
+      if (group.isDecision) {
+        const decisionSection = group.sections[0];
+        const sectionEl = this.buildDecisionSection(decisionSection);
+        main.appendChild(sectionEl);
+        return;
+      }
       const firstSection = group.sections[0];
       const sectionEl = document.createElement('div');
       sectionEl.className = 'cr-section';
@@ -302,7 +514,10 @@ class CloseReadApp {
     `;
 
     if (verseData.words) {
-      requestAnimationFrame(() => TextEffects.wrapWords(div, verseData.words));
+      // Wrap synchronously: the div's innerHTML is already populated above, and
+      // headless / background-tab environments don't always fire requestAnimationFrame,
+      // which would leave word-groups unwrapped and break highlighting entirely.
+      TextEffects.wrapWords(div, verseData.words);
     }
 
     return div;
@@ -335,7 +550,10 @@ class CloseReadApp {
     `;
 
     if (verseData.words) {
-      requestAnimationFrame(() => TextEffects.wrapWords(div, verseData.words));
+      // Wrap synchronously: the div's innerHTML is already populated above, and
+      // headless / background-tab environments don't always fire requestAnimationFrame,
+      // which would leave word-groups unwrapped and break highlighting entirely.
+      TextEffects.wrapWords(div, verseData.words);
     }
 
     return div;
@@ -390,6 +608,45 @@ class CloseReadApp {
 
     card.appendChild(inner);
     return card;
+  }
+
+  // ─── Decision Section: full-width fork with branch buttons ───
+  buildDecisionSection(section) {
+    const el = document.createElement('section');
+    el.className = 'cr-section';
+    el.id = section.id;
+    el.dataset.type = 'decision';
+
+    const inner = document.createElement('div');
+    inner.className = 'decision-inner';
+
+    const promptEl = document.createElement('div');
+    promptEl.className = 'decision-prompt';
+    promptEl.innerHTML = `
+      ${section.prompt.he ? `<div class="decision-prompt-he">${section.prompt.he}</div>` : ''}
+      <div class="decision-prompt-en">${section.prompt.en}</div>
+    `;
+    inner.appendChild(promptEl);
+
+    const branchesEl = document.createElement('div');
+    branchesEl.className = 'decision-branches';
+    branchesEl.dataset.count = section.branches.length;
+    section.branches.forEach(branch => {
+      const btn = document.createElement('button');
+      btn.className = 'decision-branch-button';
+      btn.dataset.branch = branch.id;
+      btn.innerHTML = `
+        ${branch.label.he ? `<div class="branch-label-he">${branch.label.he}</div>` : ''}
+        <div class="branch-label-en">${branch.label.en}</div>
+        ${branch.blurb ? `<div class="branch-blurb">${branch.blurb.en}</div>` : ''}
+      `;
+      btn.addEventListener('click', () => this.onBranchClick(section.id, branch.id));
+      branchesEl.appendChild(btn);
+    });
+    inner.appendChild(branchesEl);
+
+    el.appendChild(inner);
+    return el;
   }
 
   // ─── ScrollTrigger Setup ───

@@ -38,10 +38,11 @@ An array of section objects. Each section has a primary text that stays pinned o
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
 | `id` | string | yes | Unique DOM id (e.g. `"section-a"`) |
-| `title.he` | string | yes | Hebrew section heading |
-| `title.en` | string | yes | English section heading |
-| `primaryText` | VerseData | yes | The verse pinned on screen when the section begins |
-| `steps` | Step[] | yes | Ordered sequence of cards and verse changes |
+| `type` | string | no | `"reading"` (default, omitted) or `"decision"`. Decision sections have a different schema — see [Decision Sections](#decision-sections) below |
+| `title.he` | string | yes\* | Hebrew section heading (\*reading sections only) |
+| `title.en` | string | yes\* | English section heading (\*reading sections only) |
+| `primaryText` | VerseData | yes\* | The verse pinned on screen when the section begins (\*reading sections only) |
+| `steps` | Step[] | yes\* | Ordered sequence of cards and verse changes (\*reading sections only) |
 
 ---
 
@@ -244,3 +245,65 @@ Place `verse-change` steps in the array *before* the steps that reference the ne
 ### Word group IDs are scoped to their verse
 
 Word group IDs only need to be unique within their verse's `words` map. Different verses can reuse the same IDs without conflict since only the active verse's words are in the DOM at any time.
+
+---
+
+## Decision Sections
+
+A sheet can optionally include **decision sections** to create a branching, "garden of forking paths" reading experience. Sheets with zero decision sections render linearly exactly as before — the feature is fully opt-in and backward-compatible.
+
+### Schema
+
+```json
+{
+  "id": "root-fork",
+  "type": "decision",
+  "level": 0,
+  "prompt": { "he": "במה תרצה להתמקד?", "en": "Where would you like to focus?" },
+  "branches": [
+    {
+      "id": "sotah",
+      "label": { "he": "סוטה", "en": "The Sotah" },
+      "blurb": { "en": "Optional one-line description shown beneath the label." },
+      "target": "section-sotah"
+    }
+  ]
+}
+```
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `id` | string | yes | Unique DOM id |
+| `type` | `"decision"` | yes | Marks this section as a fork |
+| `level` | number | yes | 0 for the root decision; 1 for second-level decisions; etc. |
+| `prompt.he` / `prompt.en` | string | yes (en) | Bilingual prompt shown above the buttons |
+| `branches` | Branch[] | yes | 2–4 choices |
+
+### Branch Object
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `id` | string | yes | Unique within this decision's `branches` array. Used as URL path segment |
+| `label.he` / `label.en` | string | yes (en) | Bilingual button label |
+| `blurb.en` | string | no | Optional short description shown beneath the label |
+| `target` | string | yes | The `id` of the reading section this branch reveals |
+
+### Visibility & Path Encoding
+
+- The active path is encoded in the URL: `?sheet=name&path=segment0/segment1/...` where each segment is a branch `id`.
+- A reading section that is referenced as some branch's `target` is hidden until its branch is chosen at the right level.
+- Reading sections that aren't referenced as targets are always visible (backward compat).
+- A decision section is visible iff the immediately preceding section is visible.
+- Clicking a branch updates the path at that level (and drops any deeper segments), updates the URL via `history.pushState`, reveals the target section, and smooth-scrolls to it.
+- Browser back/forward (`popstate`) re-applies the path from the URL.
+- Invalid path segments in the URL are silently dropped on load.
+
+### Navigation
+
+On a branching sheet, the section-dots navigation is replaced by a **breadcrumb** showing the current path (e.g. `Overview › The Nazirite › Holy or sinner?`). Each crumb is clickable to scroll to that section.
+
+### Patterns
+
+- A typical 2-level tree: an "Overview" reading section, then a level-0 decision with 3–4 themes, then each theme is a reading section ending before another level-1 decision with 3–4 sub-deep-dives, each of which is a leaf reading section.
+- Each branch's `target` section should appear *after* the decision section in the `sections` array (the engine traverses top-down).
+- Decision sections have no `primaryText` and no sticky pane — they render as full-viewport-width forks. Use them as chapter breaks, not as commentary on a verse.
