@@ -1,0 +1,2738 @@
+{
+  "title": {
+    "en": "Parshat Nasso",
+    "he": "פרשת נשא",
+    "author": {
+      "en": "From the work of Nechama Leibowitz",
+      "he": "נחמה ליבוביץ"
+    },
+    "questionLabel": {
+      "en": "Nechama asks"
+    }
+  },
+  "sections": [
+    {
+      "id": "ov",
+      "title": {
+        "en": "Overview"
+      },
+      "primaryText": {
+        "ref": "Numbers 5:1-3",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר. צַו אֶת בְּנֵי יִשְׂרָאֵל וִישַׁלְּחוּ מִן הַמַּחֲנֶה כׇּל צָרוּעַ וְכׇל זָב וְכֹל טָמֵא לָנָפֶשׁ. מִזָּכָר עַד נְקֵבָה תְּשַׁלֵּחוּ אֶל מִחוּץ לַמַּחֲנֶה תְּשַׁלְּחוּם וְלֹא יְטַמְּאוּ אֶת מַחֲנֵיהֶם אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָם.",
+        "en": "The Lord spoke to Moses, saying: Instruct the Israelites to remove from camp anyone with an eruption or a discharge and anyone defiled by a corpse. Remove male and female alike; put them outside the camp so that they do not defile the camp of those in whose midst I dwell.",
+        "words": {
+          "kol-tzaru": {
+            "he": "כׇּל צָרוּעַ",
+            "en": "anyone with an eruption"
+          },
+          "machaneh": {
+            "he": "מִן הַמַּחֲנֶה",
+            "en": "from camp"
+          },
+          "shochen-betocham": {
+            "he": "אֲשֶׁר אֲנִי שֹׁכֵן בְּתוֹכָם",
+            "en": "in whose midst I dwell"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "ov-1",
+          "type": "narration",
+          "text": {
+            "en": "Parshat Nasso is the longest parsha in the Torah."
+          }
+        },
+        {
+          "id": "ov-2",
+          "type": "narration",
+          "text": {
+            "en": "It runs from the census of the Levites through the offerings of the tribal princes — laws, ordeals, blessings, gifts."
+          }
+        },
+        {
+          "id": "ov-3",
+          "type": "narration",
+          "text": {
+            "en": "The opening command sets its central concern: who can stay in the camp where God dwells?"
+          },
+          "highlight": [
+            "machaneh",
+            "shochen-betocham"
+          ]
+        },
+        {
+          "id": "ov-4",
+          "type": "narration",
+          "text": {
+            "en": "Send away anyone with an eruption, anyone with a discharge, anyone defiled by a corpse."
+          },
+          "highlight": [
+            "kol-tzaru"
+          ]
+        },
+        {
+          "id": "ov-5",
+          "type": "narration",
+          "text": {
+            "en": "Lest they defile the camp of those in whose midst I dwell."
+          },
+          "highlight": [
+            "shochen-betocham"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "ov-6",
+          "type": "narration",
+          "text": {
+            "en": "Nechama Leibowitz returned to this parsha twenty-eight times between 1942 and 1971."
+          }
+        },
+        {
+          "id": "ov-7",
+          "type": "narration",
+          "text": {
+            "en": "Her gilyonot cluster around four passages — theft from the convert, the Nazirite vow, the priestly blessing, and the princes' offerings."
+          }
+        },
+        {
+          "id": "ov-8",
+          "type": "narration",
+          "text": {
+            "en": "Across thirty years she sharpened the same questions in different keys."
+          }
+        },
+        {
+          "id": "ov-9",
+          "type": "narration",
+          "text": {
+            "en": "Strikingly, she avoided Sotah almost entirely. Not one sheet headlined the trial of the suspected adulteress."
+          }
+        }
+      ]
+    },
+    {
+      "id": "root-fork",
+      "type": "decision",
+      "level": 0,
+      "prompt": {
+        "en": "Where would you like to focus?"
+      },
+      "branches": [
+        {
+          "id": "gezel",
+          "label": {
+            "en": "Theft from the Convert"
+          },
+          "blurb": {
+            "en": "Numbers 5:5–10 — when does an interpersonal wrong become a sin against God? Five gilyonot across 1944–1968."
+          },
+          "target": "section-gezel"
+        },
+        {
+          "id": "nazir",
+          "label": {
+            "en": "The Nazirite"
+          },
+          "blurb": {
+            "en": "Numbers 6:1–21 — is the Nazirite a saint or a sinner? Four gilyonot across 1942–1970."
+          },
+          "target": "section-nazir"
+        },
+        {
+          "id": "birkat",
+          "label": {
+            "en": "The Priestly Blessing"
+          },
+          "blurb": {
+            "en": "Numbers 6:22–27 — three verses, growing in length. If God blesses, what do the priests do? Six gilyonot across 1943–1971."
+          },
+          "target": "section-birkat"
+        },
+        {
+          "id": "nesi_im",
+          "label": {
+            "en": "The Princes' Offerings"
+          },
+          "blurb": {
+            "en": "Numbers 7 — twelve princes, identical gifts, written out twelve times. Why the redundancy? Seven gilyonot across 1949–1969."
+          },
+          "target": "section-nesi_im"
+        }
+      ]
+    },
+    {
+      "id": "section-gezel",
+      "title": {
+        "en": "A. Theft from the Convert"
+      },
+      "primaryText": {
+        "ref": "Numbers 5:5-8",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל אִישׁ אוֹ אִשָּׁה כִּי יַעֲשׂוּ מִכׇּל חַטֹּאת הָאָדָם לִמְעֹל מַעַל בַּיהֹוָה וְאָשְׁמָה הַנֶּפֶשׁ הַהִוא וְהִתְוַדּוּ אֶת חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ וְאִם אֵין לָאִישׁ גֹּאֵל לְהָשִׁיב הָאָשָׁם אֵלָיו הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן מִלְּבַד אֵיל הַכִּפֻּרִים אֲשֶׁר יְכַפֶּר בּוֹ עָלָיו",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites: When a man or woman has committed any wrong toward a fellow human being, thus breaking faith with the Lord, and they have realized their guilt, they shall confess the wrong that they have done. They shall make restitution in the principal amount and add one-fifth to it, giving it to the one who was wronged. If that party has no kin to whom restitution can be made, the amount repaid shall go to the Lord for the priest — in addition to the ram of expiation with which expiation is made on their behalf.",
+        "words": {
+          "chatat-haadam": {
+            "he": "מִכׇּל חַטֹּאת הָאָדָם",
+            "en": "any wrong toward a fellow human being"
+          },
+          "limol-bahashem": {
+            "he": "לִמְעֹל מַעַל בַּיהֹוָה",
+            "en": "breaking faith with the Lord"
+          },
+          "vehitvadu": {
+            "he": "וְהִתְוַדּוּ אֶת חַטָּאתָם",
+            "en": "they shall confess the wrong"
+          },
+          "asham-berosho": {
+            "he": "אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ",
+            "en": "restitution in the principal amount"
+          },
+          "chamishito": {
+            "he": "וַחֲמִישִׁתוֹ יֹסֵף עָלָיו",
+            "en": "add one-fifth to it"
+          },
+          "lashem-asham": {
+            "he": "וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ",
+            "en": "giving it to the one who was wronged"
+          },
+          "ein-goel": {
+            "he": "וְאִם אֵין לָאִישׁ גֹּאֵל",
+            "en": "If that party has no kin"
+          },
+          "lashem-lakohen": {
+            "he": "הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן",
+            "en": "the amount repaid shall go to the Lord for the priest"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "gez-1",
+          "type": "narration",
+          "text": {
+            "en": "When a person commits any wrong against another, the Torah commands: confess, restore the principal, add one-fifth, bring a ram."
+          },
+          "highlight": [
+            "chatat-haadam",
+            "vehitvadu",
+            "asham-berosho",
+            "chamishito"
+          ]
+        },
+        {
+          "id": "gez-2",
+          "type": "narration",
+          "text": {
+            "en": "On the surface: a passage about restitution."
+          },
+          "highlight": [
+            "chamishito"
+          ]
+        },
+        {
+          "id": "gez-3",
+          "type": "narration",
+          "text": {
+            "en": "But the Torah calls a sin between people a trespass against the Lord."
+          },
+          "highlight": [
+            "chatat-haadam",
+            "limol-bahashem"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "gez-4",
+          "type": "narration",
+          "text": {
+            "en": "And it builds the whole passage around the strangest case: a creditor with no kin."
+          },
+          "highlight": [
+            "ein-goel"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "gez-5",
+          "type": "narration",
+          "text": {
+            "en": "Nechama wrote five gilyonot on these six verses. Below: three of her angles, across twenty-four years."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gezel-fork",
+      "type": "decision",
+      "level": 1,
+      "prompt": {
+        "en": "Which of Nechama's angles on gezel hager?"
+      },
+      "branches": [
+        {
+          "id": "g-1944",
+          "label": {
+            "en": "1944 — Foundations"
+          },
+          "blurb": {
+            "en": "Her first gilayon. The asymmetric law of principal and fifth, the false oath as trespass, and the convert who has no kin."
+          },
+          "target": "gezel-1944"
+        },
+        {
+          "id": "g-1953",
+          "label": {
+            "en": "1953 — Love of the Convert"
+          },
+          "blurb": {
+            "en": "Nine years later — the headline shifts. The midrash of the deer that left the wilderness, and R. Nathan reading the verse forward."
+          },
+          "target": "gezel-1953"
+        },
+        {
+          "id": "g-1968",
+          "label": {
+            "en": "1968 — Mechanics of the Fifth"
+          },
+          "blurb": {
+            "en": "The late return. An entire gilayon on a single word: ḥomesh. What it is, when it applies, how it's calculated."
+          },
+          "target": "gezel-1968"
+        }
+      ]
+    },
+    {
+      "id": "gezel-1944",
+      "title": {
+        "en": "1944 · Foundations: Principal and Fifth"
+      },
+      "primaryText": {
+        "ref": "Numbers 5:5-8",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל אִישׁ אוֹ אִשָּׁה כִּי יַעֲשׂוּ מִכׇּל חַטֹּאת הָאָדָם לִמְעֹל מַעַל בַּיהֹוָה וְאָשְׁמָה הַנֶּפֶשׁ הַהִוא וְהִתְוַדּוּ אֶת חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ וְאִם אֵין לָאִישׁ גֹּאֵל לְהָשִׁיב הָאָשָׁם אֵלָיו הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן מִלְּבַד אֵיל הַכִּפֻּרִים אֲשֶׁר יְכַפֶּר בּוֹ עָלָיו",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites: When a man or woman has committed any wrong toward a fellow human being, thus breaking faith with the Lord, and they have realized their guilt, they shall confess the wrong that they have done. They shall make restitution in the principal amount and add one-fifth to it, giving it to the one who was wronged. If that party has no kin to whom restitution can be made, the amount repaid shall go to the Lord for the priest — in addition to the ram of expiation with which expiation is made on their behalf.",
+        "words": {
+          "chatat-haadam": {
+            "he": "מִכׇּל חַטֹּאת הָאָדָם",
+            "en": "any wrong toward a fellow human being"
+          },
+          "limol-bahashem": {
+            "he": "לִמְעֹל מַעַל בַּיהֹוָה",
+            "en": "breaking faith with the Lord"
+          },
+          "vehitvadu": {
+            "he": "וְהִתְוַדּוּ אֶת חַטָּאתָם",
+            "en": "they shall confess the wrong"
+          },
+          "asham-berosho": {
+            "he": "אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ",
+            "en": "restitution in the principal amount"
+          },
+          "chamishito": {
+            "he": "וַחֲמִישִׁתוֹ יֹסֵף עָלָיו",
+            "en": "add one-fifth to it"
+          },
+          "lashem-asham": {
+            "he": "וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ",
+            "en": "giving it to the one who was wronged"
+          },
+          "ein-goel": {
+            "he": "וְאִם אֵין לָאִישׁ גֹּאֵל",
+            "en": "If that party has no kin"
+          },
+          "lashem-lakohen": {
+            "he": "הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן",
+            "en": "the amount repaid shall go to the Lord for the priest"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "g44-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תש״ד / 1944. Nechama's first treatment of this passage."
+          }
+        },
+        {
+          "id": "g44-2",
+          "type": "narration",
+          "text": {
+            "en": "She organizes seven cruxes. We follow three."
+          }
+        },
+        {
+          "id": "g44-3",
+          "type": "narration",
+          "text": {
+            "en": "First: a strange asymmetry in the law of restitution."
+          },
+          "highlight": [
+            "chamishito"
+          ]
+        },
+        {
+          "id": "g44-4",
+          "type": "commentary",
+          "source": "Rambam",
+          "ref": "Mishneh Torah, Robbery and Lost Property 7:1, 7:8",
+          "sourceLabel": {
+            "he": "רמב\"ם",
+            "en": "Rambam (Hil. Gezeila)"
+          },
+          "text": {
+            "he": "הלכה א: כל מי שנתחייב ממון לחברו הישראלי וכפר בו ונשבע על שקר, הרי זה חייב להחזיר לו הקרן שכפר בו והוספת חומש וחייב בקרבן… הלכה ח: אין הנשבע על כפירת ממון משלם חומש עד שיודה מעצמו, אבל אם באו עדים והוא עומד בכפירתו משלם הקרן בלבד על פי עדים ואינו משלם החומש.",
+            "en": "Halakhah 1: Anyone who owed money to a fellow Israelite, denied it, and swore falsely — he must return the principal he denied, add a fifth, and bring an offering… Halakhah 8: The one who swears falsely about a denial of money does not pay the fifth until he confesses on his own; if witnesses came and he remained in his denial, he pays the principal alone on the testimony of witnesses, and does not pay the fifth."
+          },
+          "highlight": [
+            "vehitvadu",
+            "chamishito"
+          ],
+          "annotation": {
+            "en": "Witnesses get you the principal. The fifth is triggered only by voluntary confession. The Torah builds the law so that honesty costs more than getting caught."
+          }
+        },
+        {
+          "id": "g44-5",
+          "type": "question",
+          "text": {
+            "en": "What is the inner logic? Why does confessing voluntarily cost the wrongdoer more than being convicted in court?"
+          },
+          "highlight": [
+            "vehitvadu",
+            "chamishito"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "g44-6",
+          "type": "narration",
+          "text": {
+            "en": "Second: why is a sin against another person called a trespass against the Lord?"
+          },
+          "highlight": [
+            "chatat-haadam",
+            "limol-bahashem"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "g44-7",
+          "type": "commentary",
+          "source": "Sifra",
+          "ref": "Sifra, Vayikra Hova",
+          "sourceLabel": {
+            "he": "ספרא",
+            "en": "Sifra (R. Akiva)"
+          },
+          "text": {
+            "he": "ר' עקיבא אומר: מה תלמוד לומר \"למעול מעל בה'\"? לפי שהמלווה והלווה והנושא והנותן אינו מלווה ואינו לווה ואינו נושא ונותן אלא בשטר ובעדים, לפיכך בזמן שהוא מכחיש, מכחיש בעדים ובשטר. אבל המפקיד אצל חברו, אינו רוצה שתדע בו נשמה אלא שלישי שביניהם — בזמן שהוא מכחיש, מכחיש בשלישי שביניהם.",
+            "en": "R. Akiva said: Why does the verse say 'to commit a trespass against the Lord'? Because lenders, borrowers, buyers and sellers transact only with a contract and witnesses — so when one of them denies, he denies in the face of witnesses and a contract. But one who entrusts a deposit to his fellow does not want any third party to know — only the One between them. When he denies, he denies the One between them."
+          },
+          "highlight": [
+            "limol-bahashem"
+          ],
+          "annotation": {
+            "en": "R. Akiva resolves the verse's puzzle: in the open marketplace there is no false oath against God — the lying targets witnesses. But in the private deposit, where only God is the witness, denying becomes a denial of God."
+          }
+        },
+        {
+          "id": "g44-8",
+          "type": "question",
+          "text": {
+            "en": "What difficulty in the verse is R. Akiva resolving — and what does his answer say about the role of secrecy in sin?"
+          },
+          "highlight": [
+            "limol-bahashem"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "g44-9",
+          "type": "narration",
+          "text": {
+            "en": "Third: and whom is the passage really about?"
+          },
+          "highlight": [
+            "ein-goel"
+          ]
+        },
+        {
+          "id": "g44-10",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Numbers 5:8",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "ד\"ה ואם אין לאיש גואל: שמת התובע שהשביעו ואין לו יורשים. ואמרו רבותינו: וכי יש לך אדם בישראל שאין לו גואלים, או בן או בת או אח או שאר בשר הקרוב ממשפחת אביו למעלה עד יעקב? אלא, זה הגר שמת ואין לו יורשים.",
+            "en": "\"If the man has no kin\" — the claimant who put him under oath has died and left no heirs. Our Rabbis asked: Is there any Israelite who has no kinsman whatsoever — without a son, a brother, or any relative going back to Jacob? But this refers to the convert who died, who has no heirs."
+          },
+          "highlight": [
+            "ein-goel"
+          ],
+          "annotation": {
+            "en": "The convert who left a pagan family — under Jewish law his birth kin are not recognized. He is the only one in Israel who can truly stand alone. The Torah writes the law of theft from his vantage point."
+          }
+        },
+        {
+          "id": "g44-11",
+          "type": "narration",
+          "text": {
+            "en": "Read this way, the heirless convert is not an edge case. He is the case."
+          },
+          "highlight": [
+            "ein-goel",
+            "lashem-lakohen"
+          ]
+        },
+        {
+          "id": "g44-12",
+          "type": "question",
+          "text": {
+            "en": "Why does the Torah locate the general law of restitution from the vantage point of the most vulnerable creditor — one who, by definition, can no longer collect?"
+          },
+          "highlight": [
+            "ein-goel"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "gezel-1953",
+      "title": {
+        "en": "1953 · Love of the Convert"
+      },
+      "primaryText": {
+        "ref": "Numbers 5:5-8",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל אִישׁ אוֹ אִשָּׁה כִּי יַעֲשׂוּ מִכׇּל חַטֹּאת הָאָדָם לִמְעֹל מַעַל בַּיהֹוָה וְאָשְׁמָה הַנֶּפֶשׁ הַהִוא וְהִתְוַדּוּ אֶת חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ וְאִם אֵין לָאִישׁ גֹּאֵל לְהָשִׁיב הָאָשָׁם אֵלָיו הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן מִלְּבַד אֵיל הַכִּפֻּרִים אֲשֶׁר יְכַפֶּר בּוֹ עָלָיו",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites: When a man or woman has committed any wrong toward a fellow human being, thus breaking faith with the Lord, and they have realized their guilt, they shall confess the wrong that they have done. They shall make restitution in the principal amount and add one-fifth to it, giving it to the one who was wronged. If that party has no kin to whom restitution can be made, the amount repaid shall go to the Lord for the priest — in addition to the ram of expiation with which expiation is made on their behalf.",
+        "words": {
+          "chatat-haadam": {
+            "he": "מִכׇּל חַטֹּאת הָאָדָם",
+            "en": "any wrong toward a fellow human being"
+          },
+          "limol-bahashem": {
+            "he": "לִמְעֹל מַעַל בַּיהֹוָה",
+            "en": "breaking faith with the Lord"
+          },
+          "vehitvadu": {
+            "he": "וְהִתְוַדּוּ אֶת חַטָּאתָם",
+            "en": "they shall confess the wrong"
+          },
+          "asham-berosho": {
+            "he": "אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ",
+            "en": "restitution in the principal amount"
+          },
+          "chamishito": {
+            "he": "וַחֲמִישִׁתוֹ יֹסֵף עָלָיו",
+            "en": "add one-fifth to it"
+          },
+          "lashem-asham": {
+            "he": "וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ",
+            "en": "giving it to the one who was wronged"
+          },
+          "ein-goel": {
+            "he": "וְאִם אֵין לָאִישׁ גֹּאֵל",
+            "en": "If that party has no kin"
+          },
+          "lashem-lakohen": {
+            "he": "הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן",
+            "en": "the amount repaid shall go to the Lord for the priest"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "g53-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשי״ג / 1953. Nine years on, the headline of her sheet has changed."
+          }
+        },
+        {
+          "id": "g53-2",
+          "type": "narration",
+          "text": {
+            "en": "She titles this sheet אַהֲבַת הַגֵּר — Love of the Convert. And she opens not with the verse but with a midrash."
+          }
+        },
+        {
+          "id": "g53-3",
+          "type": "commentary",
+          "source": "Bamidbar Rabbah",
+          "ref": "Bamidbar Rabbah 8:2",
+          "sourceLabel": {
+            "he": "במדבר רבה",
+            "en": "Bamidbar Rabbah"
+          },
+          "text": {
+            "he": "\"איש או אשה\" — הדא הוא דכתיב (תהלים קמ\"ו) \"ה' אוהב צדיקים\". כך אמר הקב\"ה (משלי ח') \"אני אוהבי אהב\"… ולמה הקב\"ה אוהב צדיקים? שאינן בנחלה ואינן במשפחה. אתה מוצא הכוהנים — בית אב, הלויים — בית אב… אלא הגרים אינן בנחלה ואינן במשפחה — לפיכך הקב\"ה אוהבם, שנאמר \"ואוהב גר\".",
+            "en": "'A man or a woman' — this is what is written (Psalms 146): 'The Lord loves the righteous.' So said the Holy One (Proverbs 8): 'I love those who love Me'… Why does the Holy One love the righteous? Because they are without inheritance and without lineage. The priests have a household, the Levites have a household… But the converts have no inheritance and no lineage — therefore the Holy One loves them, as it says, 'and He loves the convert.'"
+          },
+          "highlight": [
+            "chatat-haadam"
+          ],
+          "annotation": {
+            "en": "The midrash never says the word 'convert' — but Nechama hears it everywhere. The convert and the priest stand on the same ground: no inheritance, no family to fall back on. The deer that leaves the wide wilderness for the courtyard."
+          }
+        },
+        {
+          "id": "g53-4",
+          "type": "question",
+          "text": {
+            "en": "How do we know this passage is about robbing the convert, when the convert is never mentioned by name? And what is the midrash teaching by choosing a deer who leaves the wilderness?"
+          },
+          "highlight": [
+            "chatat-haadam",
+            "ein-goel"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "g53-5",
+          "type": "narration",
+          "text": {
+            "en": "Then she turns to the grammar of confession."
+          },
+          "highlight": [
+            "vehitvadu"
+          ]
+        },
+        {
+          "id": "g53-6",
+          "type": "commentary",
+          "source": "Ibn Ezra",
+          "ref": "Ibn Ezra on Numbers 5:7",
+          "sourceLabel": {
+            "he": "אבן עזרא",
+            "en": "Ibn Ezra"
+          },
+          "text": {
+            "he": "ד\"ה והתודו: איזה מהם שיהיה, איש או אשה.",
+            "en": "\"They shall confess\" — whichever of them it might be, man or woman."
+          },
+          "highlight": [
+            "vehitvadu"
+          ],
+          "annotation": {
+            "en": "Ibn Ezra catches a small grammatical fact: the plural verb 'they shall confess' has a singular subject — 'a man or a woman.' Why the plural? He answers minimally: it means whichever it is."
+          }
+        },
+        {
+          "id": "g53-7",
+          "type": "question",
+          "text": {
+            "en": "Why does the Torah use the reflexive form וְהִתְוַדּוּ — 'confess to themselves' — rather than the simpler וְהוֹדוּ, 'they shall acknowledge,' as in Proverbs?"
+          },
+          "highlight": [
+            "vehitvadu"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "g53-8",
+          "type": "narration",
+          "text": {
+            "en": "And finally, a Talmudic reading that takes the last words of the verse with a startling literalness."
+          },
+          "highlight": [
+            "lashem-asham"
+          ]
+        },
+        {
+          "id": "g53-9",
+          "type": "commentary",
+          "source": "Talmud",
+          "ref": "Pesachim 31a",
+          "sourceLabel": {
+            "he": "פסחים ל\"א.",
+            "en": "Pesachim 31a"
+          },
+          "text": {
+            "he": "ר' נתן אומר: מניין לנושה בחברו מנה וחברו בחברו — מניין שמוציאין מזה ונותנים לזה? תלמוד לומר: \"וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ\".",
+            "en": "R. Nathan said: From where do we know that if A is owed by B, and B is owed by C, the court can collect from C and give to A? Scripture says: 'And he shall give it to the one to whom he is guilty.'"
+          },
+          "highlight": [
+            "lashem-asham"
+          ],
+          "annotation": {
+            "en": "R. Nathan reads the 'him' of 'to whom he is guilty' as transitive — chaining forward through the chain of debts. The shevu'a-de-Rabbi-Natan, the right of indirect collection, is built from this single phrase."
+          }
+        },
+        {
+          "id": "g53-10",
+          "type": "question",
+          "text": {
+            "en": "Is the אָשָׁם of our verse the same as the וְאָשְׁמָה הַנֶּפֶשׁ two verses above — or has the Talmud given it a new sense entirely?"
+          },
+          "highlight": [
+            "lashem-asham",
+            "limol-bahashem"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "gezel-1968",
+      "title": {
+        "en": "1968 · Mechanics of the Fifth"
+      },
+      "primaryText": {
+        "ref": "Numbers 5:5-8",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל אִישׁ אוֹ אִשָּׁה כִּי יַעֲשׂוּ מִכׇּל חַטֹּאת הָאָדָם לִמְעֹל מַעַל בַּיהֹוָה וְאָשְׁמָה הַנֶּפֶשׁ הַהִוא וְהִתְוַדּוּ אֶת חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ וְאִם אֵין לָאִישׁ גֹּאֵל לְהָשִׁיב הָאָשָׁם אֵלָיו הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן מִלְּבַד אֵיל הַכִּפֻּרִים אֲשֶׁר יְכַפֶּר בּוֹ עָלָיו",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites: When a man or woman has committed any wrong toward a fellow human being, thus breaking faith with the Lord, and they have realized their guilt, they shall confess the wrong that they have done. They shall make restitution in the principal amount and add one-fifth to it, giving it to the one who was wronged. If that party has no kin to whom restitution can be made, the amount repaid shall go to the Lord for the priest — in addition to the ram of expiation with which expiation is made on their behalf.",
+        "words": {
+          "chatat-haadam": {
+            "he": "מִכׇּל חַטֹּאת הָאָדָם",
+            "en": "any wrong toward a fellow human being"
+          },
+          "limol-bahashem": {
+            "he": "לִמְעֹל מַעַל בַּיהֹוָה",
+            "en": "breaking faith with the Lord"
+          },
+          "vehitvadu": {
+            "he": "וְהִתְוַדּוּ אֶת חַטָּאתָם",
+            "en": "they shall confess the wrong"
+          },
+          "asham-berosho": {
+            "he": "אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ",
+            "en": "restitution in the principal amount"
+          },
+          "chamishito": {
+            "he": "וַחֲמִישִׁתוֹ יֹסֵף עָלָיו",
+            "en": "add one-fifth to it"
+          },
+          "lashem-asham": {
+            "he": "וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ",
+            "en": "giving it to the one who was wronged"
+          },
+          "ein-goel": {
+            "he": "וְאִם אֵין לָאִישׁ גֹּאֵל",
+            "en": "If that party has no kin"
+          },
+          "lashem-lakohen": {
+            "he": "הָאָשָׁם הַמּוּשָׁב לַיהֹוָה לַכֹּהֵן",
+            "en": "the amount repaid shall go to the Lord for the priest"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "g68-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשכ״ח / 1968. Twenty-four years after her first sheet, Nechama returns once more."
+          }
+        },
+        {
+          "id": "g68-2",
+          "type": "narration",
+          "text": {
+            "en": "And now she spends seven sections on a single word: חוֹמֶשׁ. The fifth."
+          },
+          "highlight": [
+            "chamishito"
+          ]
+        },
+        {
+          "id": "g68-3",
+          "type": "narration",
+          "text": {
+            "en": "First: Rashi notices that this whole law was already given in Leviticus 5. Why repeat it here?"
+          },
+          "highlight": [
+            "vehitvadu",
+            "ein-goel"
+          ]
+        },
+        {
+          "id": "g68-4",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Numbers 5:6",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "ד\"ה למעול מעל: הרי חזר וכתב כאן פרשת גוזל ונשבע על שקר, היא האמורה בפרשת ויקרא… ונשנית כאן בשביל שני דברים שנתחדשו בה: האחד, שכתוב \"והתודו\" — לומר שאינו חייב חומש ואשם על פי עדים עד שיודה בדבר. והשני, על גזל הגר, שהוא ניתן לכוהנים.",
+            "en": "Scripture repeats here the passage of one who robs and swears falsely — it is the same passage stated in Leviticus 5. It is repeated here for two new points: first, that 'they shall confess' is written — to teach that one is not liable for the fifth and the guilt-offering on the testimony of witnesses, only when he confesses himself. Second, the law of robbing the convert — that the payment goes to the priests."
+          },
+          "highlight": [
+            "vehitvadu",
+            "chamishito"
+          ],
+          "annotation": {
+            "en": "Rashi's economy: a whole repeated chapter, justified by exactly two new clauses. Everything else is summary. The chapter exists to make these two points."
+          }
+        },
+        {
+          "id": "g68-5",
+          "type": "question",
+          "text": {
+            "en": "Why does the Torah ask less of the convicted thief than of the one who confesses on his own?"
+          },
+          "highlight": [
+            "vehitvadu",
+            "chamishito"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "g68-6",
+          "type": "narration",
+          "text": {
+            "en": "Second: she compares two laws side by side — the punishment of the thief who breaks in, and the robber who takes by force."
+          },
+          "highlight": [
+            "asham-berosho"
+          ]
+        },
+        {
+          "id": "g68-7",
+          "type": "commentary",
+          "source": "Rambam",
+          "ref": "Mishneh Torah, Geneivah 1:1",
+          "sourceLabel": {
+            "he": "רמב\"ם",
+            "en": "Rambam (Hil. Geneivah)"
+          },
+          "text": {
+            "he": "ולמה החמירה תורה על הגנב יותר מן הגזלן? לפי שהגזלן הִשְׁוָה כְּבוֹד עבד לכבוד קוֹנוֹ. שלא נתיירא מן הרואים אותו, ולא חשש שמא ישמעו, ועשה בפרהסיא. אבל הגנב גנב בסתר, נתיירא מן הרואים, וכאילו עשה עין של מטה שאינה רואה ואוזן שאינה שומעת — לכן הוצרכה התורה להחמיר עליו.",
+            "en": "Why did the Torah deal more strictly with the thief than with the robber? Because the robber treated the honor of the servant equal to the honor of his Master — he did not fear those who saw him, did not worry that they might hear, and acted openly. But the thief stole in secret. He feared those who saw, as if he made the lower eye blind and the lower ear deaf — therefore the Torah had to deal more strictly with him."
+          },
+          "highlight": [
+            "asham-berosho"
+          ],
+          "annotation": {
+            "en": "The robber acts in broad daylight; he fears no one — God and man are alike in his contempt. The thief hides, which means he fears people more than God. The hiding is the deeper sin."
+          }
+        },
+        {
+          "id": "g68-8",
+          "type": "question",
+          "text": {
+            "en": "Why does open brazenness pay less than hidden cunning? What is Rambam saying about the kind of fear the Torah wants — and the kind it punishes?"
+          },
+          "highlight": [
+            "asham-berosho"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "g68-9",
+          "type": "narration",
+          "text": {
+            "en": "And finally: the actual math of the fifth."
+          },
+          "highlight": [
+            "chamishito"
+          ]
+        },
+        {
+          "id": "g68-10",
+          "type": "commentary",
+          "source": "Talmud",
+          "ref": "Bava Metzia 54a",
+          "sourceLabel": {
+            "he": "בבא מציעא נ\"ד.",
+            "en": "Bava Metzia 54a"
+          },
+          "text": {
+            "he": "\"וְיָסַף חֲמִשִׁתוֹ עָלָיו\" — שיהא הוא וחומשו חמשה; דברי ר' יאשיה. (רש\"י: היינו חומש מִלְּבָר, שהוא רביע הקרן.) ר' יונתן אומר: חומש בראש, שיוסיף עליו חומשו עצמו.",
+            "en": "\"He shall add its fifth to it\" — meaning that it and its fifth shall be five [parts]; these are R. Yashia's words. (Rashi: that is, a fifth from outside, which is a quarter of the principal.) R. Yonatan said: a fifth above — that he shall add to it its own fifth."
+          },
+          "highlight": [
+            "chamishito"
+          ],
+          "annotation": {
+            "en": "Two readings of one word. R. Yashia: 'fifth' means principal + fifth = 5 parts, so the fifth is one-quarter of the principal. R. Yonatan: 'fifth' means literally one-fifth of the principal. The same Torah, two arithmetics."
+          }
+        },
+        {
+          "id": "g68-11",
+          "type": "question",
+          "text": {
+            "en": "Which calculation does the language of our verse most naturally support — and what hangs on the choice?"
+          },
+          "highlight": [
+            "chamishito"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "section-nazir",
+      "title": {
+        "en": "B. The Nazirite"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:1-3, 5, 7, 11",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר לְהַזִּיר לַיהֹוָה מִיַּיִן וְשֵׁכָר יַזִּיר חֹמֶץ יַיִן וְחֹמֶץ שֵׁכָר לֹא יִשְׁתֶּה וְכׇל מִשְׁרַת עֲנָבִים לֹא יִשְׁתֶּה וַעֲנָבִים לַחִים וִיבֵשִׁים לֹא יֹאכֵל … כׇּל יְמֵי נֶדֶר נִזְרוֹ תַּעַר לֹא יַעֲבֹר עַל רֹאשׁוֹ עַד מְלֹאת הַיָּמִם אֲשֶׁר יַזִּיר לַיהֹוָה קָדֹשׁ יִהְיֶה גַּדֵּל פֶּרַע שְׂעַר רֹאשׁוֹ … לְאָבִיו וּלְאִמּוֹ לְאָחִיו וּלְאַחֹתוֹ לֹא יִטַּמָּא לָהֶם בְּמֹתָם כִּי נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ … וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ וְקִדַּשׁ אֶת רֹאשׁוֹ בַּיּוֹם הַהוּא",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites and say to them: If any man or woman explicitly utters a Nazirite's vow, to set themselves apart for the Lord, they shall abstain from wine and any other intoxicant; they shall not drink vinegar of wine or of any other intoxicant, neither shall they drink anything in which grapes have been steeped, nor eat grapes fresh or dried. … Throughout the term of their vow as Nazirite, no razor shall touch their head; it shall remain consecrated until the completion of their term as Nazirite of the Lord, the hair of their head being left to grow untrimmed. … Even if their father or mother, or their brother or sister should die, they must not become defiled for any of them, since hair set apart for their God is upon their head. … The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on the Nazirite's behalf for that they sinned by reason of a soul. That same day their head shall be reconsecrated.",
+        "words": {
+          "yafli": {
+            "he": "כִּי יַפְלִא לִנְדֹּר",
+            "en": "explicitly utters"
+          },
+          "nazir-lahashem": {
+            "he": "נָזִיר לְהַזִּיר לַיהֹוָה",
+            "en": "to set themselves apart for the Lord"
+          },
+          "miyayin": {
+            "he": "מִיַּיִן וְשֵׁכָר",
+            "en": "wine and any other intoxicant"
+          },
+          "nezer-elohav": {
+            "he": "נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ",
+            "en": "hair set apart for their God is upon their head"
+          },
+          "kadosh-yihyeh": {
+            "he": "קָדֹשׁ יִהְיֶה",
+            "en": "shall remain consecrated"
+          },
+          "lechatat": {
+            "he": "אֶחָד לְחַטָּאת",
+            "en": "one as a sin offering"
+          },
+          "kiper-alav": {
+            "he": "וְכִפֶּר עָלָיו",
+            "en": "make expiation on the Nazirite's behalf"
+          },
+          "chata-al-hanefesh": {
+            "he": "מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ",
+            "en": "for that they sinned by reason of a soul"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "naz-1",
+          "type": "narration",
+          "text": {
+            "en": "Someone steps out of the ordinary stream of life — for thirty days, or a year, or longer — and consecrates himself to the Lord."
+          },
+          "highlight": [
+            "nazir-lahashem"
+          ]
+        },
+        {
+          "id": "naz-2",
+          "type": "narration",
+          "text": {
+            "en": "No wine. No haircut. No contact with the dead."
+          },
+          "highlight": [
+            "miyayin"
+          ]
+        },
+        {
+          "id": "naz-3",
+          "type": "narration",
+          "text": {
+            "en": "Hair set apart for his God upon his head."
+          },
+          "highlight": [
+            "nezer-elohav"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "naz-4",
+          "type": "narration",
+          "text": {
+            "en": "The Torah doesn't say whether this is praiseworthy or troubling. And the silence is what generated centuries of dispute."
+          }
+        },
+        {
+          "id": "naz-5",
+          "type": "narration",
+          "text": {
+            "en": "Nechama wrote four gilyonot on the Nazirite. Below: three of them."
+          }
+        }
+      ]
+    },
+    {
+      "id": "nazir-fork",
+      "type": "decision",
+      "level": 1,
+      "prompt": {
+        "en": "Which of Nechama's angles on the Nazirite?"
+      },
+      "branches": [
+        {
+          "id": "n-1942",
+          "label": {
+            "en": "1942 — Sinner or Saint?"
+          },
+          "blurb": {
+            "en": "Her first gilayon. R. Elazar HaKappar against R. Elazar — was the sin the abstention itself, or the impurity that interrupted it?"
+          },
+          "target": "nazir-1942"
+        },
+        {
+          "id": "n-1946",
+          "label": {
+            "en": "1946 — Why End the Vow?"
+          },
+          "blurb": {
+            "en": "The Ramban inversion. Completing the vow is the lapse — the Nazirite should have stayed a Nazirite forever."
+          },
+          "target": "nazir-1946"
+        },
+        {
+          "id": "n-1970",
+          "label": {
+            "en": "1970 — Late essay"
+          },
+          "blurb": {
+            "en": "Her late return, in essay form, with English by R. Francis Nataf. The Nazirite as figure of religious self-determination."
+          },
+          "target": "nazir-1970"
+        }
+      ]
+    },
+    {
+      "id": "nazir-1942",
+      "title": {
+        "en": "1942 · Sinner or Saint?"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:1-3, 5, 7, 11",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר לְהַזִּיר לַיהֹוָה מִיַּיִן וְשֵׁכָר יַזִּיר חֹמֶץ יַיִן וְחֹמֶץ שֵׁכָר לֹא יִשְׁתֶּה וְכׇל מִשְׁרַת עֲנָבִים לֹא יִשְׁתֶּה וַעֲנָבִים לַחִים וִיבֵשִׁים לֹא יֹאכֵל … כׇּל יְמֵי נֶדֶר נִזְרוֹ תַּעַר לֹא יַעֲבֹר עַל רֹאשׁוֹ עַד מְלֹאת הַיָּמִם אֲשֶׁר יַזִּיר לַיהֹוָה קָדֹשׁ יִהְיֶה גַּדֵּל פֶּרַע שְׂעַר רֹאשׁוֹ … לְאָבִיו וּלְאִמּוֹ לְאָחִיו וּלְאַחֹתוֹ לֹא יִטַּמָּא לָהֶם בְּמֹתָם כִּי נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ … וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ וְקִדַּשׁ אֶת רֹאשׁוֹ בַּיּוֹם הַהוּא",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites and say to them: If any man or woman explicitly utters a Nazirite's vow, to set themselves apart for the Lord, they shall abstain from wine and any other intoxicant; they shall not drink vinegar of wine or of any other intoxicant, neither shall they drink anything in which grapes have been steeped, nor eat grapes fresh or dried. … Throughout the term of their vow as Nazirite, no razor shall touch their head; it shall remain consecrated until the completion of their term as Nazirite of the Lord, the hair of their head being left to grow untrimmed. … Even if their father or mother, or their brother or sister should die, they must not become defiled for any of them, since hair set apart for their God is upon their head. … The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on the Nazirite's behalf for that they sinned by reason of a soul. That same day their head shall be reconsecrated.",
+        "words": {
+          "yafli": {
+            "he": "כִּי יַפְלִא לִנְדֹּר",
+            "en": "explicitly utters"
+          },
+          "nazir-lahashem": {
+            "he": "נָזִיר לְהַזִּיר לַיהֹוָה",
+            "en": "to set themselves apart for the Lord"
+          },
+          "miyayin": {
+            "he": "מִיַּיִן וְשֵׁכָר",
+            "en": "wine and any other intoxicant"
+          },
+          "nezer-elohav": {
+            "he": "נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ",
+            "en": "hair set apart for their God is upon their head"
+          },
+          "kadosh-yihyeh": {
+            "he": "קָדֹשׁ יִהְיֶה",
+            "en": "shall remain consecrated"
+          },
+          "lechatat": {
+            "he": "אֶחָד לְחַטָּאת",
+            "en": "one as a sin offering"
+          },
+          "kiper-alav": {
+            "he": "וְכִפֶּר עָלָיו",
+            "en": "make expiation on the Nazirite's behalf"
+          },
+          "chata-al-hanefesh": {
+            "he": "מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ",
+            "en": "for that they sinned by reason of a soul"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "n42-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תש״ב / 1942. Nechama's first gilayon — composed in the second year of her Sokhnut series."
+          }
+        },
+        {
+          "id": "n42-2",
+          "type": "narration",
+          "text": {
+            "en": "She opens at the moment the Torah hardest to interpret: the Nazirite, having safely completed his term, must bring a sin-offering."
+          },
+          "highlight": [
+            "lechatat"
+          ]
+        },
+        {
+          "id": "n42-3",
+          "type": "narration",
+          "text": {
+            "en": "The verse explains: 'for that he sinned by reason of a soul.' But which soul — and what was the sin?"
+          },
+          "highlight": [
+            "chata-al-hanefesh"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "n42-4",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Numbers 6:11",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "ד\"ה מאשר חטא על הנפש: שלא נזהר מטומאת המת. ר' אלעזר הקפר אומר: שצִעֵר עצמו מן היין.",
+            "en": "\"For that he sinned by reason of a soul\" — because he was not careful about defilement by a corpse. R. Elazar HaKappar says: because he afflicted himself by abstaining from wine."
+          },
+          "highlight": [
+            "chata-al-hanefesh"
+          ],
+          "annotation": {
+            "en": "Rashi gives the verse's plain reading first — the sin is the lapse, the encounter with death. Then he sets R. Elazar HaKappar's explosive alternative beside it: the sin is the Naziriteship itself. Two readings, one verse."
+          }
+        },
+        {
+          "id": "n42-5",
+          "type": "narration",
+          "text": {
+            "en": "The stakes are enormous."
+          }
+        },
+        {
+          "id": "n42-6",
+          "type": "narration",
+          "text": {
+            "en": "On the first reading, the Nazirite who never touched a corpse and finished his term cleanly owes no atonement at all."
+          },
+          "highlight": [
+            "kiper-alav"
+          ]
+        },
+        {
+          "id": "n42-7",
+          "type": "narration",
+          "text": {
+            "en": "On R. Elazar HaKappar's reading, every completed Nazirite is a sinner — the renunciation itself was the trespass."
+          },
+          "highlight": [
+            "lechatat"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "n42-8",
+          "type": "question",
+          "text": {
+            "en": "If R. Elazar HaKappar is right, what is the Torah's view of one who renounces permitted pleasures 'for the Lord'? Praise — or warning?"
+          },
+          "highlight": [
+            "chata-al-hanefesh",
+            "nazir-lahashem"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "n42-9",
+          "type": "narration",
+          "text": {
+            "en": "And Rambam offers the synthesis Nechama will follow for the rest of her life."
+          }
+        },
+        {
+          "id": "n42-10",
+          "type": "commentary",
+          "source": "Rambam",
+          "ref": "Mishneh Torah, De'ot 3:1",
+          "sourceLabel": {
+            "he": "רמב\"ם, הלכות דעות",
+            "en": "Rambam (Hil. De'ot)"
+          },
+          "text": {
+            "he": "שמא יאמר אדם: הואיל והקנאה והתאוה והכבוד וכיוצא בהן דרך רעה הן ומוציאין את האדם מן העולם, אפרוש מהן ביותר ואתרחק לצד האחרון, עד שלא יאכל בשר ולא ישתה יין ולא ישא אשה ולא ישב בדירה נאה ולא ילבש מלבוש נאה אלא השק והצמר הקשה וכיוצא בהן, כגון כומרי אדום. גם זה דרך רעה היא, ואסור לילך בה. המהלך בדרך זו נקרא חוטא… ולפיכך ציוו חכמים שלא ימנע אדם עצמו אלא מדברים שמנעתהו התורה בלבד.",
+            "en": "Lest a person say: since envy and lust and honor and the like are evil ways that drive a person from the world, I will distance myself from them to the utmost — not eating meat, not drinking wine, not marrying, not living in a fine house, wearing only sackcloth and coarse wool, like the Christian monks. This too is an evil path, and one is forbidden to walk in it. One who walks in it is called a sinner… Therefore the Sages commanded: a person should deny himself only what the Torah has forbidden."
+          },
+          "highlight": [
+            "miyayin"
+          ],
+          "annotation": {
+            "en": "Rambam's golden mean. The Nazirite oversteps. Renunciation of the permitted is not piety — it is a sinner's path. The sin-offering at the end is the Torah's price tag on the excess."
+          }
+        },
+        {
+          "id": "n42-11",
+          "type": "question",
+          "text": {
+            "en": "Does Rambam's reading make every Nazirite a sinner — or does it leave room for the Nazirite who actually needed the discipline?"
+          },
+          "highlight": [
+            "kadosh-yihyeh"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "nazir-1946",
+      "title": {
+        "en": "1946 · Why End the Vow?"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:1-3, 5, 7, 11",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר לְהַזִּיר לַיהֹוָה מִיַּיִן וְשֵׁכָר יַזִּיר חֹמֶץ יַיִן וְחֹמֶץ שֵׁכָר לֹא יִשְׁתֶּה וְכׇל מִשְׁרַת עֲנָבִים לֹא יִשְׁתֶּה וַעֲנָבִים לַחִים וִיבֵשִׁים לֹא יֹאכֵל … כׇּל יְמֵי נֶדֶר נִזְרוֹ תַּעַר לֹא יַעֲבֹר עַל רֹאשׁוֹ עַד מְלֹאת הַיָּמִם אֲשֶׁר יַזִּיר לַיהֹוָה קָדֹשׁ יִהְיֶה גַּדֵּל פֶּרַע שְׂעַר רֹאשׁוֹ … לְאָבִיו וּלְאִמּוֹ לְאָחִיו וּלְאַחֹתוֹ לֹא יִטַּמָּא לָהֶם בְּמֹתָם כִּי נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ … וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ וְקִדַּשׁ אֶת רֹאשׁוֹ בַּיּוֹם הַהוּא",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites and say to them: If any man or woman explicitly utters a Nazirite's vow, to set themselves apart for the Lord, they shall abstain from wine and any other intoxicant; they shall not drink vinegar of wine or of any other intoxicant, neither shall they drink anything in which grapes have been steeped, nor eat grapes fresh or dried. … Throughout the term of their vow as Nazirite, no razor shall touch their head; it shall remain consecrated until the completion of their term as Nazirite of the Lord, the hair of their head being left to grow untrimmed. … Even if their father or mother, or their brother or sister should die, they must not become defiled for any of them, since hair set apart for their God is upon their head. … The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on the Nazirite's behalf for that they sinned by reason of a soul. That same day their head shall be reconsecrated.",
+        "words": {
+          "yafli": {
+            "he": "כִּי יַפְלִא לִנְדֹּר",
+            "en": "explicitly utters"
+          },
+          "nazir-lahashem": {
+            "he": "נָזִיר לְהַזִּיר לַיהֹוָה",
+            "en": "to set themselves apart for the Lord"
+          },
+          "miyayin": {
+            "he": "מִיַּיִן וְשֵׁכָר",
+            "en": "wine and any other intoxicant"
+          },
+          "nezer-elohav": {
+            "he": "נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ",
+            "en": "hair set apart for their God is upon their head"
+          },
+          "kadosh-yihyeh": {
+            "he": "קָדֹשׁ יִהְיֶה",
+            "en": "shall remain consecrated"
+          },
+          "lechatat": {
+            "he": "אֶחָד לְחַטָּאת",
+            "en": "one as a sin offering"
+          },
+          "kiper-alav": {
+            "he": "וְכִפֶּר עָלָיו",
+            "en": "make expiation on the Nazirite's behalf"
+          },
+          "chata-al-hanefesh": {
+            "he": "מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ",
+            "en": "for that they sinned by reason of a soul"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "n46-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תש״ו / 1946. Four years later, Nechama reframes."
+          }
+        },
+        {
+          "id": "n46-2",
+          "type": "narration",
+          "text": {
+            "en": "She takes the same verse — 'for that he sinned by reason of a soul' — and now reads it through Ramban."
+          },
+          "highlight": [
+            "chata-al-hanefesh"
+          ]
+        },
+        {
+          "id": "n46-3",
+          "type": "narration",
+          "text": {
+            "en": "Ramban accepts the question in its sharpest form: why does the Torah call the Nazirite a sinner?"
+          }
+        },
+        {
+          "id": "n46-4",
+          "type": "narration",
+          "text": {
+            "en": "But he moves the moment of sin."
+          }
+        },
+        {
+          "id": "n46-5",
+          "type": "narration",
+          "text": {
+            "en": "It is not the abstention. It is the ending."
+          },
+          "highlight": [
+            "kiper-alav"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "n46-6",
+          "type": "commentary",
+          "source": "Ramban",
+          "ref": "Ramban on Numbers 6:11",
+          "sourceLabel": {
+            "he": "רמב\"ן",
+            "en": "Ramban"
+          },
+          "text": {
+            "he": "ועל דרך הפשט, כי האיש הזה חוטא נפשו בִּמְלֹאת הַנְּזִירוּת. כי הוא עתה נָזוֹר מקדושתו ועבודת השם. וראוי היה לו שיזיר לעולם ויעמוד כל ימיו נזיר וקדוש לאלוהיו. והנה הוא צריך כפרה בשובו להיטמא בתאוות העולם.",
+            "en": "According to the plain meaning: this person sins against his soul at the completion of his Naziriteship — for he is now departing from his sanctity and the service of God. He should have remained a Nazirite forever, abiding all his days holy unto his God. He requires atonement upon returning to be defiled by the desires of the world."
+          },
+          "highlight": [
+            "chata-al-hanefesh",
+            "kiper-alav"
+          ],
+          "annotation": {
+            "en": "Ramban inverts Rambam. The Nazirite period was the correction. Re-entering ordinary life — with its wine and weddings and grief — is the lapse. The sin-offering is paid on the way back down."
+          }
+        },
+        {
+          "id": "n46-7",
+          "type": "narration",
+          "text": {
+            "en": "Ramban anchors this in Amos."
+          }
+        },
+        {
+          "id": "n46-8",
+          "type": "commentary",
+          "source": "Amos",
+          "ref": "Amos 2:11",
+          "sourceLabel": {
+            "en": "Amos 2:11"
+          },
+          "text": {
+            "he": "וָאָקִים מִבְּנֵיכֶם לִנְבִיאִים וּמִבַּחוּרֵיכֶם לִנְזִרִים. הַאַף אֵין זֹאת בְּנֵי יִשְׂרָאֵל — נְאֻם ה'.",
+            "en": "I raised up some of your sons for prophets, and some of your young men for Nazirites. Is this not so, O people of Israel? — declares the Lord."
+          },
+          "highlight": [
+            "nazir-lahashem"
+          ],
+          "annotation": {
+            "en": "Prophet and Nazirite stand in the same syntax. Both are a calling. Ending a Nazirite vow is, on this reading, like resigning prophecy."
+          }
+        },
+        {
+          "id": "n46-9",
+          "type": "question",
+          "text": {
+            "en": "If returning to ordinary life requires atonement, what does the Torah think ordinary life is?"
+          },
+          "highlight": [
+            "kiper-alav"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "n46-10",
+          "type": "question",
+          "text": {
+            "en": "Is Ramban's inversion of Rambam a dispute about the Nazirite — or about Judaism itself?"
+          },
+          "highlight": [
+            "kadosh-yihyeh"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "nazir-1970",
+      "title": {
+        "en": "1970 · Late essay"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:1-3, 5, 7, 11",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר לְהַזִּיר לַיהֹוָה מִיַּיִן וְשֵׁכָר יַזִּיר חֹמֶץ יַיִן וְחֹמֶץ שֵׁכָר לֹא יִשְׁתֶּה וְכׇל מִשְׁרַת עֲנָבִים לֹא יִשְׁתֶּה וַעֲנָבִים לַחִים וִיבֵשִׁים לֹא יֹאכֵל … כׇּל יְמֵי נֶדֶר נִזְרוֹ תַּעַר לֹא יַעֲבֹר עַל רֹאשׁוֹ עַד מְלֹאת הַיָּמִם אֲשֶׁר יַזִּיר לַיהֹוָה קָדֹשׁ יִהְיֶה גַּדֵּל פֶּרַע שְׂעַר רֹאשׁוֹ … לְאָבִיו וּלְאִמּוֹ לְאָחִיו וּלְאַחֹתוֹ לֹא יִטַּמָּא לָהֶם בְּמֹתָם כִּי נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ … וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ וְקִדַּשׁ אֶת רֹאשׁוֹ בַּיּוֹם הַהוּא",
+        "en": "The Lord spoke to Moses, saying: Speak to the Israelites and say to them: If any man or woman explicitly utters a Nazirite's vow, to set themselves apart for the Lord, they shall abstain from wine and any other intoxicant; they shall not drink vinegar of wine or of any other intoxicant, neither shall they drink anything in which grapes have been steeped, nor eat grapes fresh or dried. … Throughout the term of their vow as Nazirite, no razor shall touch their head; it shall remain consecrated until the completion of their term as Nazirite of the Lord, the hair of their head being left to grow untrimmed. … Even if their father or mother, or their brother or sister should die, they must not become defiled for any of them, since hair set apart for their God is upon their head. … The priest shall offer one as a sin offering and the other as a burnt offering, and make expiation on the Nazirite's behalf for that they sinned by reason of a soul. That same day their head shall be reconsecrated.",
+        "words": {
+          "yafli": {
+            "he": "כִּי יַפְלִא לִנְדֹּר",
+            "en": "explicitly utters"
+          },
+          "nazir-lahashem": {
+            "he": "נָזִיר לְהַזִּיר לַיהֹוָה",
+            "en": "to set themselves apart for the Lord"
+          },
+          "miyayin": {
+            "he": "מִיַּיִן וְשֵׁכָר",
+            "en": "wine and any other intoxicant"
+          },
+          "nezer-elohav": {
+            "he": "נֵזֶר אֱלֹהָיו עַל רֹאשׁוֹ",
+            "en": "hair set apart for their God is upon their head"
+          },
+          "kadosh-yihyeh": {
+            "he": "קָדֹשׁ יִהְיֶה",
+            "en": "shall remain consecrated"
+          },
+          "lechatat": {
+            "he": "אֶחָד לְחַטָּאת",
+            "en": "one as a sin offering"
+          },
+          "kiper-alav": {
+            "he": "וְכִפֶּר עָלָיו",
+            "en": "make expiation on the Nazirite's behalf"
+          },
+          "chata-al-hanefesh": {
+            "he": "מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ",
+            "en": "for that they sinned by reason of a soul"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "n70-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תש״ל / 1970. Twenty-eight years after her first Nazir sheet — and her last."
+          }
+        },
+        {
+          "id": "n70-2",
+          "type": "narration",
+          "text": {
+            "en": "By 1970 she no longer organizes the page as a series of multi-source cruxes. It is an essay. She is, after all, almost seventy."
+          }
+        },
+        {
+          "id": "n70-3",
+          "type": "narration",
+          "text": {
+            "en": "She returns to the figure of the Nazirite as the person who reaches outside the average path."
+          },
+          "highlight": [
+            "yafli"
+          ]
+        },
+        {
+          "id": "n70-4",
+          "type": "narration",
+          "text": {
+            "en": "She leans on a quieter medieval voice — Hizkuni, the thirteenth-century French Tosafist — to carry the question forward."
+          }
+        },
+        {
+          "id": "n70-5",
+          "type": "commentary",
+          "source": "Hizkuni",
+          "ref": "Hizkuni on Numbers 6:2",
+          "sourceLabel": {
+            "he": "חזקוני",
+            "en": "Hizkuni"
+          },
+          "text": {
+            "he": "כי יפליא — לשון הפלאה ופרישות. דבר הפלא בעיני הבריות הוא, כי לא ירצה בתענוגי העולם הזה.",
+            "en": "'Explicitly utters' — the word evokes hafla'ah, separation. It is a wondrous thing in people's eyes, for the Nazirite does not desire the pleasures of this world."
+          },
+          "highlight": [
+            "yafli"
+          ],
+          "annotation": {
+            "en": "The Nazirite is a wonder. Not a saint, not a sinner — but a person who, in the eyes of the neighbors, has done something inexplicable. Hizkuni reads יפליא as the cousin of פלא — a miracle of self-shaping."
+          }
+        },
+        {
+          "id": "n70-6",
+          "type": "narration",
+          "text": {
+            "en": "Nechama, late in her life: 'The Nazirite is the human capacity to step out of the usual.'"
+          }
+        },
+        {
+          "id": "n70-7",
+          "type": "narration",
+          "text": {
+            "en": "The earlier sheets had asked: is this praised or punished? By 1970 her question has shifted."
+          }
+        },
+        {
+          "id": "n70-8",
+          "type": "narration",
+          "text": {
+            "en": "She asks instead: what does it cost to be a wonder — to oneself, to one's neighbors, to one's God?"
+          },
+          "highlight": [
+            "yafli"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "n70-9",
+          "type": "question",
+          "text": {
+            "en": "Is religious life made of the average — kept up by everyone — or of the wondrous, sustained by the few who can bear it?"
+          },
+          "highlight": [
+            "nazir-lahashem"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "section-birkat",
+      "title": {
+        "en": "C. The Priestly Blessing"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:22-27",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל אַהֲרֹן וְאֶל בָּנָיו לֵאמֹר כֹּה תְבָרְכוּ אֶת בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם",
+        "en": "The Lord spoke to Moses, saying: Speak to Aaron and his sons: Thus shall you bless the children of Israel. Say to them: May the Lord bless you and keep you. May the Lord make His face shine upon you and be gracious to you. May the Lord lift up His face upon you and grant you peace. So shall they put My name upon the children of Israel, and I will bless them.",
+        "words": {
+          "koh-tevarchu": {
+            "he": "כֹּה תְבָרְכוּ",
+            "en": "Thus shall you bless"
+          },
+          "amor-lahem": {
+            "he": "אָמוֹר לָהֶם",
+            "en": "Say to them"
+          },
+          "yevarechecha": {
+            "he": "יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ",
+            "en": "May the Lord bless you and keep you"
+          },
+          "yaer": {
+            "he": "יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ",
+            "en": "May the Lord make His face shine upon you and be gracious to you"
+          },
+          "yissa": {
+            "he": "יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ",
+            "en": "May the Lord lift up His face upon you"
+          },
+          "vesamu-shemi": {
+            "he": "וְשָׂמוּ אֶת שְׁמִי",
+            "en": "put My name upon"
+          },
+          "ani-avarchem": {
+            "he": "וַאֲנִי אֲבָרְכֵם",
+            "en": "and I will bless them"
+          },
+          "shalom": {
+            "he": "וְיָשֵׂם לְךָ שָׁלוֹם",
+            "en": "and grant you peace"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "bk-1",
+          "type": "narration",
+          "text": {
+            "en": "Three lines, growing from three Hebrew words to five to seven."
+          },
+          "highlight": [
+            "yevarechecha",
+            "yaer",
+            "yissa"
+          ]
+        },
+        {
+          "id": "bk-2",
+          "type": "narration",
+          "text": {
+            "en": "Found inscribed on silver amulets from the First Temple period — older than almost any other text recited in Jewish liturgy."
+          }
+        },
+        {
+          "id": "bk-3",
+          "type": "narration",
+          "text": {
+            "en": "And ending with the most surprising line of all."
+          },
+          "highlight": [
+            "vesamu-shemi"
+          ]
+        },
+        {
+          "id": "bk-4",
+          "type": "narration",
+          "text": {
+            "en": "If only God can really bless — what are the priests actually doing?"
+          },
+          "highlight": [
+            "koh-tevarchu",
+            "ani-avarchem"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "bk-5",
+          "type": "narration",
+          "text": {
+            "en": "Nechama wrote six gilyonot on these six verses. Below: three of her angles."
+          }
+        }
+      ]
+    },
+    {
+      "id": "birkat-fork",
+      "type": "decision",
+      "level": 1,
+      "prompt": {
+        "en": "Which of Nechama's angles on the priestly blessing?"
+      },
+      "branches": [
+        {
+          "id": "b-1951",
+          "label": {
+            "en": "1951 — Can a Human Bless?"
+          },
+          "blurb": {
+            "en": "If only God can really bless, what is the priest actually doing? Rashi's answer, and a parable about rain."
+          },
+          "target": "birkat-1951"
+        },
+        {
+          "id": "b-1955",
+          "label": {
+            "en": "1955 — Word by Word"
+          },
+          "blurb": {
+            "en": "Her densest treatment. Five sections, one for each phrase: bless, keep, shine, lift, grant peace."
+          },
+          "target": "birkat-1955"
+        },
+        {
+          "id": "b-1962",
+          "label": {
+            "en": "1962 — Place in the Parsha"
+          },
+          "blurb": {
+            "en": "Why does the blessing sit here, between the Nazirite and the Princes' offerings? The architecture of Nasso, and what placement teaches."
+          },
+          "target": "birkat-1962"
+        }
+      ]
+    },
+    {
+      "id": "birkat-1951",
+      "title": {
+        "en": "1951 · Can a Human Bless?"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:22-27",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל אַהֲרֹן וְאֶל בָּנָיו לֵאמֹר כֹּה תְבָרְכוּ אֶת בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם",
+        "en": "The Lord spoke to Moses, saying: Speak to Aaron and his sons: Thus shall you bless the children of Israel. Say to them: May the Lord bless you and keep you. May the Lord make His face shine upon you and be gracious to you. May the Lord lift up His face upon you and grant you peace. So shall they put My name upon the children of Israel, and I will bless them.",
+        "words": {
+          "koh-tevarchu": {
+            "he": "כֹּה תְבָרְכוּ",
+            "en": "Thus shall you bless"
+          },
+          "amor-lahem": {
+            "he": "אָמוֹר לָהֶם",
+            "en": "Say to them"
+          },
+          "yevarechecha": {
+            "he": "יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ",
+            "en": "May the Lord bless you and keep you"
+          },
+          "yaer": {
+            "he": "יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ",
+            "en": "May the Lord make His face shine upon you and be gracious to you"
+          },
+          "yissa": {
+            "he": "יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ",
+            "en": "May the Lord lift up His face upon you"
+          },
+          "vesamu-shemi": {
+            "he": "וְשָׂמוּ אֶת שְׁמִי",
+            "en": "put My name upon"
+          },
+          "ani-avarchem": {
+            "he": "וַאֲנִי אֲבָרְכֵם",
+            "en": "and I will bless them"
+          },
+          "shalom": {
+            "he": "וְיָשֵׂם לְךָ שָׁלוֹם",
+            "en": "and grant you peace"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b51-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשי״א / 1951. Nechama opens with the question the Akeidat Yitzhak called 'so simple it can sit unasked for a lifetime.'"
+          }
+        },
+        {
+          "id": "b51-2",
+          "type": "narration",
+          "text": {
+            "en": "If only God can make a person flourish — if a human saying 'may you flourish' does not, in itself, make anyone flourish — what is the priest actually doing?"
+          },
+          "highlight": [
+            "koh-tevarchu",
+            "ani-avarchem"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "b51-3",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Numbers 6:27",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "ד\"ה ואני אברכם: לישראל. ואסכים עם הכוהנים. דבר אחר: ואני אברכם — לכוהנים.",
+            "en": "\"And I will bless them\" — i.e., the Israelites: I will give My assent to the priests' blessing. Another interpretation: 'and I will bless them' — meaning the priests."
+          },
+          "highlight": [
+            "ani-avarchem"
+          ],
+          "annotation": {
+            "en": "Rashi chooses an extraordinary word for what God does: הַסְכָּמָה — 'I give My consent.' The priest's blessing is not the blessing. It is the human gesture toward which God then bends."
+          }
+        },
+        {
+          "id": "b51-4",
+          "type": "narration",
+          "text": {
+            "en": "She glosses Rashi through a parable from R. Hayim Yosef Polak."
+          }
+        },
+        {
+          "id": "b51-5",
+          "type": "commentary",
+          "source": "R. Hayim Yosef Polak",
+          "ref": "R. Hayim Yosef Polak (on Akeidat Yitzhak)",
+          "sourceLabel": {
+            "en": "R. Hayim Yosef Polak"
+          },
+          "text": {
+            "he": "השוה ברכת ה' לגשם היורד על הארץ. הגשם הוא מן השמים — וכך הברכה. אבל הקרקע היא שמכריעה מה יהיה ממנו. הכוהן אינו עושה את הגשם, אלא מכין את הקרקע לקבלה.",
+            "en": "Compare the Lord's blessing to rain falling on the earth. The rain comes from heaven — and so does the blessing. But the soil decides what becomes of it. The priest does not make the rain; he prepares the soil to receive it."
+          },
+          "highlight": [
+            "vesamu-shemi"
+          ],
+          "annotation": {
+            "en": "The priest's role is not to make rain. It is to make Israel ready for rain. The blessing is what God will do. The standing-still-in-front-of-the-priest is what we contribute."
+          }
+        },
+        {
+          "id": "b51-6",
+          "type": "narration",
+          "text": {
+            "en": "Read this way, the command \"Thus shall you bless\" is not addressed to the recipient's flourishing."
+          },
+          "highlight": [
+            "koh-tevarchu"
+          ]
+        },
+        {
+          "id": "b51-7",
+          "type": "narration",
+          "text": {
+            "en": "It is addressed to the recipient's receptivity."
+          },
+          "highlight": [
+            "vesamu-shemi"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "b51-8",
+          "type": "question",
+          "text": {
+            "en": "If the priest's blessing is preparation, not power — what other commanded gestures in Jewish life make sense the same way?"
+          },
+          "highlight": [
+            "koh-tevarchu",
+            "ani-avarchem"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "birkat-1955",
+      "title": {
+        "en": "1955 · Word by Word"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:22-27",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל אַהֲרֹן וְאֶל בָּנָיו לֵאמֹר כֹּה תְבָרְכוּ אֶת בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם",
+        "en": "The Lord spoke to Moses, saying: Speak to Aaron and his sons: Thus shall you bless the children of Israel. Say to them: May the Lord bless you and keep you. May the Lord make His face shine upon you and be gracious to you. May the Lord lift up His face upon you and grant you peace. So shall they put My name upon the children of Israel, and I will bless them.",
+        "words": {
+          "koh-tevarchu": {
+            "he": "כֹּה תְבָרְכוּ",
+            "en": "Thus shall you bless"
+          },
+          "amor-lahem": {
+            "he": "אָמוֹר לָהֶם",
+            "en": "Say to them"
+          },
+          "yevarechecha": {
+            "he": "יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ",
+            "en": "May the Lord bless you and keep you"
+          },
+          "yaer": {
+            "he": "יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ",
+            "en": "May the Lord make His face shine upon you and be gracious to you"
+          },
+          "yissa": {
+            "he": "יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ",
+            "en": "May the Lord lift up His face upon you"
+          },
+          "vesamu-shemi": {
+            "he": "וְשָׂמוּ אֶת שְׁמִי",
+            "en": "put My name upon"
+          },
+          "ani-avarchem": {
+            "he": "וַאֲנִי אֲבָרְכֵם",
+            "en": "and I will bless them"
+          },
+          "shalom": {
+            "he": "וְיָשֵׂם לְךָ שָׁלוֹם",
+            "en": "and grant you peace"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b55-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשט״ו / 1955. Nechama's densest treatment of any single passage in Nasso."
+          }
+        },
+        {
+          "id": "b55-2",
+          "type": "narration",
+          "text": {
+            "en": "Five sections, one for each phrase. Three verses, growing — three words, five, seven."
+          },
+          "highlight": [
+            "yevarechecha",
+            "yaer",
+            "yissa"
+          ]
+        },
+        {
+          "id": "b55-3",
+          "type": "narration",
+          "text": {
+            "en": "The first: bless and keep. Three words — a basic request. Flourishing and protection."
+          },
+          "highlight": [
+            "yevarechecha"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "b55-4",
+          "type": "narration",
+          "text": {
+            "en": "The second: shining face and grace. No longer only material gifts — but a gaze. Five words."
+          },
+          "highlight": [
+            "yaer"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "b55-5",
+          "type": "narration",
+          "text": {
+            "en": "The third: lifting His face, and peace. Maximum intimacy. Seven words. And peace at the end."
+          },
+          "highlight": [
+            "yissa"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "b55-6",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Numbers 6:26",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "וְיָשֵׂם לְךָ שָׁלוֹם — שלום בביתך. דבר אחר: שלא יהיה דבר רע ביוצא ובא.",
+            "en": "\"And grant you peace\" — peace in your house. Another interpretation: that nothing bad shall come out from you or in to you."
+          },
+          "highlight": [
+            "shalom"
+          ],
+          "annotation": {
+            "en": "Rashi domesticates the climax. The peace is the homestead — the absence of trouble entering or leaving the door. The biggest gift is the smallest scene."
+          }
+        },
+        {
+          "id": "b55-7",
+          "type": "narration",
+          "text": {
+            "en": "And Nechama asks the question Rashi doesn't quite answer."
+          }
+        },
+        {
+          "id": "b55-8",
+          "type": "question",
+          "text": {
+            "en": "Why does the blessing end in peace? Why not in blessing itself? Why not in illumination?"
+          },
+          "highlight": [
+            "yevarechecha",
+            "yaer",
+            "shalom"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "b55-9",
+          "type": "narration",
+          "text": {
+            "en": "Perhaps because, as the Mishnah teaches: the Holy One found no vessel that holds blessing for Israel except peace."
+          },
+          "highlight": [
+            "shalom"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "birkat-1962",
+      "title": {
+        "en": "1962 · Place in the Parsha"
+      },
+      "primaryText": {
+        "ref": "Numbers 6:22-27",
+        "he": "וַיְדַבֵּר יְהֹוָה אֶל מֹשֶׁה לֵּאמֹר דַּבֵּר אֶל אַהֲרֹן וְאֶל בָּנָיו לֵאמֹר כֹּה תְבָרְכוּ אֶת בְּנֵי יִשְׂרָאֵל אָמוֹר לָהֶם יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם",
+        "en": "The Lord spoke to Moses, saying: Speak to Aaron and his sons: Thus shall you bless the children of Israel. Say to them: May the Lord bless you and keep you. May the Lord make His face shine upon you and be gracious to you. May the Lord lift up His face upon you and grant you peace. So shall they put My name upon the children of Israel, and I will bless them.",
+        "words": {
+          "koh-tevarchu": {
+            "he": "כֹּה תְבָרְכוּ",
+            "en": "Thus shall you bless"
+          },
+          "amor-lahem": {
+            "he": "אָמוֹר לָהֶם",
+            "en": "Say to them"
+          },
+          "yevarechecha": {
+            "he": "יְבָרֶכְךָ יְהֹוָה וְיִשְׁמְרֶךָ",
+            "en": "May the Lord bless you and keep you"
+          },
+          "yaer": {
+            "he": "יָאֵר יְהֹוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ",
+            "en": "May the Lord make His face shine upon you and be gracious to you"
+          },
+          "yissa": {
+            "he": "יִשָּׂא יְהֹוָה פָּנָיו אֵלֶיךָ",
+            "en": "May the Lord lift up His face upon you"
+          },
+          "vesamu-shemi": {
+            "he": "וְשָׂמוּ אֶת שְׁמִי",
+            "en": "put My name upon"
+          },
+          "ani-avarchem": {
+            "he": "וַאֲנִי אֲבָרְכֵם",
+            "en": "and I will bless them"
+          },
+          "shalom": {
+            "he": "וְיָשֵׂם לְךָ שָׁלוֹם",
+            "en": "and grant you peace"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b62-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשכ״ב / 1962. Nechama steps back."
+          }
+        },
+        {
+          "id": "b62-2",
+          "type": "narration",
+          "text": {
+            "en": "She titles this gilayon מבנה הפרשה וברכת כהנים — The Structure of the Parsha and the Priestly Blessing."
+          }
+        },
+        {
+          "id": "b62-3",
+          "type": "narration",
+          "text": {
+            "en": "The question: why is the priestly blessing here?"
+          },
+          "highlight": [
+            "koh-tevarchu"
+          ]
+        },
+        {
+          "id": "b62-4",
+          "type": "narration",
+          "text": {
+            "en": "Before it: the Sotah, the trial of the suspected adulteress. After it: the Nazirite. And then: the Princes' offerings."
+          }
+        },
+        {
+          "id": "b62-5",
+          "type": "narration",
+          "text": {
+            "en": "Why does the blessing sit in the middle of all this?"
+          }
+        },
+        {
+          "id": "b62-6",
+          "type": "commentary",
+          "source": "Rav Hirsch",
+          "ref": "R. Samson Raphael Hirsch on Numbers 6:22",
+          "sourceLabel": {
+            "en": "R. Samson Raphael Hirsch"
+          },
+          "text": {
+            "he": "ברכת הכוהנים באה אחרי שתי פרשות העוסקות בנפילות אפשריות — סוטה ונזיר. שתיהן עוסקות בכישלון אנושי או בתגובה לכישלון אנושי. ולכן בא צו לכוהנים: כך תברכו את ישראל. הברכה אינה תוצאה של שלמות; היא קודמת לה.",
+            "en": "The priestly blessing comes after two passages dealing with possible falls — Sotah and Nazir. Both deal with human failure or the reaction to human failure. And so the command comes to the priests: thus shall you bless Israel. The blessing is not the product of perfection. It precedes it."
+          },
+          "highlight": [
+            "koh-tevarchu",
+            "yevarechecha"
+          ],
+          "annotation": {
+            "en": "Hirsch reads the editorial seam. Israel has been shown the trial of mistrust (Sotah) and the path of withdrawal (Nazir). And then — before the celebration of the princes' offerings — God commands a blessing. The blessing is not the reward at the end. It is the floor on which everything else stands."
+          }
+        },
+        {
+          "id": "b62-7",
+          "type": "narration",
+          "text": {
+            "en": "Read this way, the position of the blessing IS the lesson."
+          },
+          "highlight": [
+            "amor-lahem"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "b62-8",
+          "type": "narration",
+          "text": {
+            "en": "Israel is given a blessing before the wedding (the princes' gifts), and after the trial (Sotah and Nazir)."
+          }
+        },
+        {
+          "id": "b62-9",
+          "type": "question",
+          "text": {
+            "en": "If the priestly blessing is placed after failure and before celebration, what is the Torah teaching about when a community most needs to hear that God's face is turned toward it?"
+          },
+          "highlight": [
+            "yissa"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "section-nesi_im",
+      "title": {
+        "en": "D. The Princes' Offerings"
+      },
+      "primaryText": {
+        "ref": "Numbers 7:1-3",
+        "he": "וַיְהִי בְּיוֹם כַּלּוֹת מֹשֶׁה לְהָקִים אֶת הַמִּשְׁכָּן וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ וְאֶת כׇּל כֵּלָיו וְאֶת הַמִּזְבֵּחַ וְאֶת כׇּל כֵּלָיו וַיִּמְשָׁחֵם וַיְקַדֵּשׁ אֹתָם וַיַּקְרִיבוּ נְשִׂיאֵי יִשְׂרָאֵל רָאשֵׁי בֵּית אֲבֹתָם הֵם נְשִׂיאֵי הַמַּטֹּת הֵם הָעֹמְדִים עַל הַפְּקֻדִים וַיָּבִיאוּ אֶת קׇרְבָּנָם לִפְנֵי יְהֹוָה שֵׁשׁ עֶגְלֹת צָב וּשְׁנֵי עָשָׂר בָּקָר עֲגָלָה עַל שְׁנֵי הַנְּשִׂאִים וְשׁוֹר לְאֶחָד וַיַּקְרִיבוּ אוֹתָם לִפְנֵי הַמִּשְׁכָּן",
+        "en": "On the day that Moses finished setting up the Mishkan, he anointed and consecrated it and all its furnishings, as well as the altar and its utensils. When he had anointed and consecrated them, the princes of Israel, the heads of ancestral houses, namely, the princes of the tribes, those who were in charge of enrollment, drew near and brought their offering before the Lord: six draught carts and twelve oxen, a cart for every two princes and an ox for each one. They brought them before the Mishkan.",
+        "words": {
+          "kalot-moshe": {
+            "he": "כַּלּוֹת מֹשֶׁה",
+            "en": "Moses finished"
+          },
+          "lehakim": {
+            "he": "לְהָקִים אֶת הַמִּשְׁכָּן",
+            "en": "setting up the Mishkan"
+          },
+          "vayimshach": {
+            "he": "וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ",
+            "en": "he anointed and consecrated it"
+          },
+          "nesi-yisrael": {
+            "he": "נְשִׂיאֵי יִשְׂרָאֵל",
+            "en": "the princes of Israel"
+          },
+          "korbanam": {
+            "he": "אֶת קׇרְבָּנָם",
+            "en": "their offering"
+          },
+          "shesh-eglot": {
+            "he": "שֵׁשׁ עֶגְלֹת צָב",
+            "en": "six draught carts"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "nes-1",
+          "type": "narration",
+          "text": {
+            "en": "After the laws comes the longest narrative passage in the Torah by sheer repetition."
+          }
+        },
+        {
+          "id": "nes-2",
+          "type": "narration",
+          "text": {
+            "en": "Twelve princes. Twelve days. Twelve identical offerings, written out twelve times."
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ]
+        },
+        {
+          "id": "nes-3",
+          "type": "narration",
+          "text": {
+            "en": "The same silver dish, the same bull, the same goat — listed again, and again, and again."
+          },
+          "highlight": [
+            "korbanam"
+          ]
+        },
+        {
+          "id": "nes-4",
+          "type": "narration",
+          "text": {
+            "en": "The Torah does not normally waste words. Brevity is its house style."
+          }
+        },
+        {
+          "id": "nes-5",
+          "type": "narration",
+          "text": {
+            "en": "Nechama wrote seven gilyonot circling one question."
+          }
+        },
+        {
+          "id": "nes-6",
+          "type": "narration",
+          "text": {
+            "en": "What is the repetition doing?"
+          },
+          "highlight": [
+            "korbanam"
+          ],
+          "effect": "glow"
+        }
+      ]
+    },
+    {
+      "id": "nesi_im-fork",
+      "type": "decision",
+      "level": 1,
+      "prompt": {
+        "en": "Which of Nechama's angles on the Princes' offerings?"
+      },
+      "branches": [
+        {
+          "id": "p-1957",
+          "label": {
+            "en": "1957 — Why Twelve Times?"
+          },
+          "blurb": {
+            "en": "Her first gilayon on this passage. The character of the princes, and why the Torah refuses to abbreviate."
+          },
+          "target": "nesi_im-1957"
+        },
+        {
+          "id": "p-1960",
+          "label": {
+            "en": "1960 — Each Prince by Name"
+          },
+          "blurb": {
+            "en": "Her densest sheet. Eleven sections, all on the question: why honor each one separately?"
+          },
+          "target": "nesi_im-1960"
+        },
+        {
+          "id": "p-1966",
+          "label": {
+            "en": "1966 — Ibn Kaspi"
+          },
+          "blurb": {
+            "en": "The classic answer. The Torah is not philosophy. Prophetic discourse repeats because most people only wake to a truth when it is said twice."
+          },
+          "target": "nesi_im-1966"
+        },
+        {
+          "id": "p-1969",
+          "label": {
+            "en": "1969 — Like a Bride to the Canopy"
+          },
+          "blurb": {
+            "en": "Her last sheet on Nasso. The Mishkan as wedding canopy, Israel as bride, the offerings as wedding gifts."
+          },
+          "target": "nesi_im-1969"
+        }
+      ]
+    },
+    {
+      "id": "nesi_im-1957",
+      "title": {
+        "en": "1957 · Why Twelve Times?"
+      },
+      "primaryText": {
+        "ref": "Numbers 7:1-3",
+        "he": "וַיְהִי בְּיוֹם כַּלּוֹת מֹשֶׁה לְהָקִים אֶת הַמִּשְׁכָּן וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ וְאֶת כׇּל כֵּלָיו וְאֶת הַמִּזְבֵּחַ וְאֶת כׇּל כֵּלָיו וַיִּמְשָׁחֵם וַיְקַדֵּשׁ אֹתָם וַיַּקְרִיבוּ נְשִׂיאֵי יִשְׂרָאֵל רָאשֵׁי בֵּית אֲבֹתָם הֵם נְשִׂיאֵי הַמַּטֹּת הֵם הָעֹמְדִים עַל הַפְּקֻדִים וַיָּבִיאוּ אֶת קׇרְבָּנָם לִפְנֵי יְהֹוָה שֵׁשׁ עֶגְלֹת צָב וּשְׁנֵי עָשָׂר בָּקָר עֲגָלָה עַל שְׁנֵי הַנְּשִׂאִים וְשׁוֹר לְאֶחָד וַיַּקְרִיבוּ אוֹתָם לִפְנֵי הַמִּשְׁכָּן",
+        "en": "On the day that Moses finished setting up the Mishkan, he anointed and consecrated it and all its furnishings, as well as the altar and its utensils. When he had anointed and consecrated them, the princes of Israel, the heads of ancestral houses, namely, the princes of the tribes, those who were in charge of enrollment, drew near and brought their offering before the Lord: six draught carts and twelve oxen, a cart for every two princes and an ox for each one. They brought them before the Mishkan.",
+        "words": {
+          "kalot-moshe": {
+            "he": "כַּלּוֹת מֹשֶׁה",
+            "en": "Moses finished"
+          },
+          "lehakim": {
+            "he": "לְהָקִים אֶת הַמִּשְׁכָּן",
+            "en": "setting up the Mishkan"
+          },
+          "vayimshach": {
+            "he": "וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ",
+            "en": "he anointed and consecrated it"
+          },
+          "nesi-yisrael": {
+            "he": "נְשִׂיאֵי יִשְׂרָאֵל",
+            "en": "the princes of Israel"
+          },
+          "korbanam": {
+            "he": "אֶת קׇרְבָּנָם",
+            "en": "their offering"
+          },
+          "shesh-eglot": {
+            "he": "שֵׁשׁ עֶגְלֹת צָב",
+            "en": "six draught carts"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "p57-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשי״ז / 1957. Nechama's first sheet on the Princes' offerings."
+          }
+        },
+        {
+          "id": "p57-2",
+          "type": "narration",
+          "text": {
+            "en": "She organizes four sections. The first asks why each prince's offering is described separately at all."
+          },
+          "highlight": [
+            "korbanam"
+          ]
+        },
+        {
+          "id": "p57-3",
+          "type": "commentary",
+          "source": "Bamidbar Rabbah",
+          "ref": "Bamidbar Rabbah 14:13",
+          "sourceLabel": {
+            "he": "במדבר רבה",
+            "en": "Bamidbar Rabbah"
+          },
+          "text": {
+            "he": "ולמה פירט כל קרבן וקרבן בפני עצמו, אף על פי שהיו שווים? מפני שהיו כל אחד ואחד חביב לפניו כאילו הקריב לבדו.",
+            "en": "Why did Scripture detail each offering on its own, even though they were identical? Because each one of them was beloved before Him as if he alone had offered."
+          },
+          "highlight": [
+            "nesi-yisrael",
+            "korbanam"
+          ],
+          "annotation": {
+            "en": "The midrash gives the simplest answer. The Torah refuses to compress. Each prince's day is its own day. The redundancy is not waste — it is dignity, twelvefold."
+          }
+        },
+        {
+          "id": "p57-4",
+          "type": "narration",
+          "text": {
+            "en": "Compare what the Torah doesn't repeat. Six days of creation: summed up. Forty years in the wilderness: summed up."
+          }
+        },
+        {
+          "id": "p57-5",
+          "type": "narration",
+          "text": {
+            "en": "But for twelve identical offerings, the same recipe appears in full twelve times."
+          },
+          "highlight": [
+            "korbanam"
+          ]
+        },
+        {
+          "id": "p57-6",
+          "type": "narration",
+          "text": {
+            "en": "Then she asks who these princes were."
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ]
+        },
+        {
+          "id": "p57-7",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Numbers 7:3",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "ד\"ה הם העומדים על הפקודים: שעמדו עליהם בעת המנין, שנאמר \"ואִתְּכֶם יהיו איש איש למטה\".",
+            "en": "\"Those who were in charge of the enrollment\" — they were the ones who stood over the people at the census, as Scripture says: 'and with you shall be a man of each tribe.'"
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ],
+          "annotation": {
+            "en": "Rashi connects this verse to the census back in chapter 1. The princes are not strangers walking up to the altar. They are the same twelve men who counted Israel. The Torah is closing a loop."
+          }
+        },
+        {
+          "id": "p57-8",
+          "type": "question",
+          "text": {
+            "en": "Whose attention is the Torah protecting by refusing to abbreviate? The princes' — or Israel's?"
+          },
+          "highlight": [
+            "nesi-yisrael",
+            "korbanam"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "nesi_im-1960",
+      "title": {
+        "en": "1960 · Each Prince by Name"
+      },
+      "primaryText": {
+        "ref": "Numbers 7:1-3",
+        "he": "וַיְהִי בְּיוֹם כַּלּוֹת מֹשֶׁה לְהָקִים אֶת הַמִּשְׁכָּן וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ וְאֶת כׇּל כֵּלָיו וְאֶת הַמִּזְבֵּחַ וְאֶת כׇּל כֵּלָיו וַיִּמְשָׁחֵם וַיְקַדֵּשׁ אֹתָם וַיַּקְרִיבוּ נְשִׂיאֵי יִשְׂרָאֵל רָאשֵׁי בֵּית אֲבֹתָם הֵם נְשִׂיאֵי הַמַּטֹּת הֵם הָעֹמְדִים עַל הַפְּקֻדִים וַיָּבִיאוּ אֶת קׇרְבָּנָם לִפְנֵי יְהֹוָה שֵׁשׁ עֶגְלֹת צָב וּשְׁנֵי עָשָׂר בָּקָר עֲגָלָה עַל שְׁנֵי הַנְּשִׂאִים וְשׁוֹר לְאֶחָד וַיַּקְרִיבוּ אוֹתָם לִפְנֵי הַמִּשְׁכָּן",
+        "en": "On the day that Moses finished setting up the Mishkan, he anointed and consecrated it and all its furnishings, as well as the altar and its utensils. When he had anointed and consecrated them, the princes of Israel, the heads of ancestral houses, namely, the princes of the tribes, those who were in charge of enrollment, drew near and brought their offering before the Lord: six draught carts and twelve oxen, a cart for every two princes and an ox for each one. They brought them before the Mishkan.",
+        "words": {
+          "kalot-moshe": {
+            "he": "כַּלּוֹת מֹשֶׁה",
+            "en": "Moses finished"
+          },
+          "lehakim": {
+            "he": "לְהָקִים אֶת הַמִּשְׁכָּן",
+            "en": "setting up the Mishkan"
+          },
+          "vayimshach": {
+            "he": "וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ",
+            "en": "he anointed and consecrated it"
+          },
+          "nesi-yisrael": {
+            "he": "נְשִׂיאֵי יִשְׂרָאֵל",
+            "en": "the princes of Israel"
+          },
+          "korbanam": {
+            "he": "אֶת קׇרְבָּנָם",
+            "en": "their offering"
+          },
+          "shesh-eglot": {
+            "he": "שֵׁשׁ עֶגְלֹת צָב",
+            "en": "six draught carts"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "p60-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תש״כ / 1960. Three years on, Nechama returns — and now she writes eleven sections."
+          }
+        },
+        {
+          "id": "p60-2",
+          "type": "narration",
+          "text": {
+            "en": "The headline of section א: יִזְכּוֹר הַכָּתוּב לְכָל אֶחָד בִּשְׁמוֹ — 'Scripture remembers each by name.'"
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ]
+        },
+        {
+          "id": "p60-3",
+          "type": "commentary",
+          "source": "Akeidat Yitzhak",
+          "ref": "Akeidat Yitzhak, Introduction to Bamidbar",
+          "sourceLabel": {
+            "en": "Akeidat Yitzhak"
+          },
+          "text": {
+            "he": "כי השלמות האנושית אינה בכלל המין בלבד, ככל שאר הנמצאות ההוות ונפסדות, אלא בפרט — באיש איש בפני עצמו. ועל זה אמר הכתוב 'יזכור הכתוב לכל אחד בשמו', שכן זוהי מעלת האדם: שכל אחד הוא עולם מלא.",
+            "en": "Human perfection does not lie in the species alone, as it does in other beings that come into existence and pass away — it lies in the particular, in each individual on his own. Therefore Scripture remembers each one by name: for this is the human dignity — that each one is a world entire."
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ],
+          "annotation": {
+            "en": "R. Yitzhak Arama: humans, unlike other creatures, exist as individuals, not just as species. The Torah's twelvefold repetition is a doctrine of personhood. To merge them would be to treat them like cattle. To repeat them is to acknowledge that each one is a world."
+          }
+        },
+        {
+          "id": "p60-4",
+          "type": "narration",
+          "text": {
+            "en": "But then Nechama turns to the other side of the question."
+          }
+        },
+        {
+          "id": "p60-5",
+          "type": "narration",
+          "text": {
+            "en": "If each prince is honored by name, what does the Torah mean by giving them all the same offering?"
+          },
+          "highlight": [
+            "korbanam"
+          ]
+        },
+        {
+          "id": "p60-6",
+          "type": "commentary",
+          "source": "Malbim",
+          "ref": "Malbim on Numbers 7:11",
+          "sourceLabel": {
+            "en": "Malbim"
+          },
+          "text": {
+            "he": "אף שהיו שווים בקרבן, היו חלוקים בכוונה ובמחשבה. וכל אחד כיוון לסוד שבטו, לתפקיד שבטו בעולם.",
+            "en": "Although they were equal in their offering, they differed in their intention and inner thought. Each one directed himself toward the secret of his tribe, toward the role of his tribe in the world."
+          },
+          "highlight": [
+            "korbanam"
+          ],
+          "annotation": {
+            "en": "Malbim: the gift is identical, the giver is not. Twelve men brought twelve different prayers in one cattle-and-silver currency. The repetition is a portrait gallery in plain frames."
+          }
+        },
+        {
+          "id": "p60-7",
+          "type": "narration",
+          "text": {
+            "en": "Section ד of the 1960 sheet is titled שֶׁלֹּא יָגִיס דַּעְתּוֹ — 'so he should not become arrogant.'"
+          }
+        },
+        {
+          "id": "p60-8",
+          "type": "narration",
+          "text": {
+            "en": "The princes are great, but they are not first. Moses is first; the priests are first; the Mishkan is first."
+          },
+          "highlight": [
+            "nesi-yisrael",
+            "lehakim"
+          ]
+        },
+        {
+          "id": "p60-9",
+          "type": "narration",
+          "text": {
+            "en": "Their offerings come only after the structure is built and the priests are anointed."
+          },
+          "highlight": [
+            "vayimshach"
+          ]
+        },
+        {
+          "id": "p60-10",
+          "type": "question",
+          "text": {
+            "en": "How does the Torah honor each prince by name without letting any one of them mistake honor for primacy?"
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "nesi_im-1966",
+      "title": {
+        "en": "1966 · Ibn Kaspi"
+      },
+      "primaryText": {
+        "ref": "Numbers 7:1-3",
+        "he": "וַיְהִי בְּיוֹם כַּלּוֹת מֹשֶׁה לְהָקִים אֶת הַמִּשְׁכָּן וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ וְאֶת כׇּל כֵּלָיו וְאֶת הַמִּזְבֵּחַ וְאֶת כׇּל כֵּלָיו וַיִּמְשָׁחֵם וַיְקַדֵּשׁ אֹתָם וַיַּקְרִיבוּ נְשִׂיאֵי יִשְׂרָאֵל רָאשֵׁי בֵּית אֲבֹתָם הֵם נְשִׂיאֵי הַמַּטֹּת הֵם הָעֹמְדִים עַל הַפְּקֻדִים וַיָּבִיאוּ אֶת קׇרְבָּנָם לִפְנֵי יְהֹוָה שֵׁשׁ עֶגְלֹת צָב וּשְׁנֵי עָשָׂר בָּקָר עֲגָלָה עַל שְׁנֵי הַנְּשִׂאִים וְשׁוֹר לְאֶחָד וַיַּקְרִיבוּ אוֹתָם לִפְנֵי הַמִּשְׁכָּן",
+        "en": "On the day that Moses finished setting up the Mishkan, he anointed and consecrated it and all its furnishings, as well as the altar and its utensils. When he had anointed and consecrated them, the princes of Israel, the heads of ancestral houses, namely, the princes of the tribes, those who were in charge of enrollment, drew near and brought their offering before the Lord: six draught carts and twelve oxen, a cart for every two princes and an ox for each one. They brought them before the Mishkan.",
+        "words": {
+          "kalot-moshe": {
+            "he": "כַּלּוֹת מֹשֶׁה",
+            "en": "Moses finished"
+          },
+          "lehakim": {
+            "he": "לְהָקִים אֶת הַמִּשְׁכָּן",
+            "en": "setting up the Mishkan"
+          },
+          "vayimshach": {
+            "he": "וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ",
+            "en": "he anointed and consecrated it"
+          },
+          "nesi-yisrael": {
+            "he": "נְשִׂיאֵי יִשְׂרָאֵל",
+            "en": "the princes of Israel"
+          },
+          "korbanam": {
+            "he": "אֶת קׇרְבָּנָם",
+            "en": "their offering"
+          },
+          "shesh-eglot": {
+            "he": "שֵׁשׁ עֶגְלֹת צָב",
+            "en": "six draught carts"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "p66-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשכ״ו / 1966. Nechama opens with the answer she has been circling for nine years."
+          }
+        },
+        {
+          "id": "p66-2",
+          "type": "narration",
+          "text": {
+            "en": "It comes from a fourteenth-century Provençal philosopher named R. Yosef Ibn Kaspi."
+          }
+        },
+        {
+          "id": "p66-3",
+          "type": "narration",
+          "text": {
+            "en": "He wrote a slim book called Tirat Kesef. In it, he says something Nechama will quote for the rest of her life."
+          }
+        },
+        {
+          "id": "p66-4",
+          "type": "commentary",
+          "source": "Ibn Kaspi",
+          "ref": "Ibn Kaspi, Tirat Kesef",
+          "sourceLabel": {
+            "en": "Ibn Kaspi"
+          },
+          "text": {
+            "he": "אריכות לשון נמצא ברוב בספר תורתנו, במה שהוא נתלה בעניין הכלל. ומתחלף זה עם דרך הפילוסופים, שיכתבו לחכמים ולמלומדים, אשר יסבלו ההפשטה ולא יצטרכו לחזרה. אבל התורה דיברה ללשון בני אדם, אל ההמון הרחב — והדבר אשר צריך שיודע צריך שייאמר פעם ופעמים, עד שיובן.",
+            "en": "Lengthiness of expression is found often in the Book of our Torah, especially in matters concerning the entire people. This differs from the way of the philosophers, who write for the wise and learned — those who can bear abstraction and do not require repetition. But the Torah speaks in human language, to the broad multitude — and what must be known must be said once and again, until it is grasped."
+          },
+          "highlight": [
+            "korbanam"
+          ],
+          "annotation": {
+            "en": "Ibn Kaspi's hinge. A philosopher writes for readers who can hold an abstraction. The Torah writes for everyone — and most people only wake to a truth when it is repeated. The redundancy is not a flaw. It is what the writing is for."
+          }
+        },
+        {
+          "id": "p66-5",
+          "type": "narration",
+          "text": {
+            "en": "Nechama then presses a second reading, alongside Ibn Kaspi's."
+          }
+        },
+        {
+          "id": "p66-6",
+          "type": "narration",
+          "text": {
+            "en": "To list each prince's gift separately — even when the gift is identical — is to refuse to compress them into a list."
+          },
+          "highlight": [
+            "nesi-yisrael",
+            "korbanam"
+          ]
+        },
+        {
+          "id": "p66-7",
+          "type": "narration",
+          "text": {
+            "en": "Each prince's day is its own day."
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ]
+        },
+        {
+          "id": "p66-8",
+          "type": "narration",
+          "text": {
+            "en": "The repetition is not pedagogical inefficiency. It is the Torah declining to make twelve people into one footnote."
+          },
+          "highlight": [
+            "korbanam"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "p66-9",
+          "type": "question",
+          "text": {
+            "en": "Are Ibn Kaspi and the midrashic 'dignity' reading two readings — or one reading from two sides? Pedagogy of the people, dignity of the person?"
+          },
+          "highlight": [
+            "korbanam"
+          ],
+          "effect": "pulse"
+        }
+      ]
+    },
+    {
+      "id": "nesi_im-1969",
+      "title": {
+        "en": "1969 · Like a Bride to the Canopy"
+      },
+      "primaryText": {
+        "ref": "Numbers 7:1-3",
+        "he": "וַיְהִי בְּיוֹם כַּלּוֹת מֹשֶׁה לְהָקִים אֶת הַמִּשְׁכָּן וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ וְאֶת כׇּל כֵּלָיו וְאֶת הַמִּזְבֵּחַ וְאֶת כׇּל כֵּלָיו וַיִּמְשָׁחֵם וַיְקַדֵּשׁ אֹתָם וַיַּקְרִיבוּ נְשִׂיאֵי יִשְׂרָאֵל רָאשֵׁי בֵּית אֲבֹתָם הֵם נְשִׂיאֵי הַמַּטֹּת הֵם הָעֹמְדִים עַל הַפְּקֻדִים וַיָּבִיאוּ אֶת קׇרְבָּנָם לִפְנֵי יְהֹוָה שֵׁשׁ עֶגְלֹת צָב וּשְׁנֵי עָשָׂר בָּקָר עֲגָלָה עַל שְׁנֵי הַנְּשִׂאִים וְשׁוֹר לְאֶחָד וַיַּקְרִיבוּ אוֹתָם לִפְנֵי הַמִּשְׁכָּן",
+        "en": "On the day that Moses finished setting up the Mishkan, he anointed and consecrated it and all its furnishings, as well as the altar and its utensils. When he had anointed and consecrated them, the princes of Israel, the heads of ancestral houses, namely, the princes of the tribes, those who were in charge of enrollment, drew near and brought their offering before the Lord: six draught carts and twelve oxen, a cart for every two princes and an ox for each one. They brought them before the Mishkan.",
+        "words": {
+          "kalot-moshe": {
+            "he": "כַּלּוֹת מֹשֶׁה",
+            "en": "Moses finished"
+          },
+          "lehakim": {
+            "he": "לְהָקִים אֶת הַמִּשְׁכָּן",
+            "en": "setting up the Mishkan"
+          },
+          "vayimshach": {
+            "he": "וַיִּמְשַׁח אֹתוֹ וַיְקַדֵּשׁ אֹתוֹ",
+            "en": "he anointed and consecrated it"
+          },
+          "nesi-yisrael": {
+            "he": "נְשִׂיאֵי יִשְׂרָאֵל",
+            "en": "the princes of Israel"
+          },
+          "korbanam": {
+            "he": "אֶת קׇרְבָּנָם",
+            "en": "their offering"
+          },
+          "shesh-eglot": {
+            "he": "שֵׁשׁ עֶגְלֹת צָב",
+            "en": "six draught carts"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "p69-1",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon תשכ״ט / 1969. Nechama's final sheet on Parshat Nasso."
+          }
+        },
+        {
+          "id": "p69-2",
+          "type": "narration",
+          "text": {
+            "en": "She returns to Numbers 7:1 — 'On the day Moses finished setting up the Mishkan.'"
+          },
+          "highlight": [
+            "kalot-moshe",
+            "lehakim"
+          ]
+        },
+        {
+          "id": "p69-3",
+          "type": "narration",
+          "text": {
+            "en": "And she lingers, this final time, on a defective spelling: כַּלּוֹת is written without the second waw — read as כַּלַּת, 'bride.'"
+          },
+          "highlight": [
+            "kalot-moshe"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "p69-4",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Numbers 7:1",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "ד\"ה ביום כלות משה: כלת כתיב. יום הקמת המשכן היו ישראל ככלה הנכנסת לחופה.",
+            "en": "\"On the day Moses finished\" — kallat is written defective [as if reading 'bride']. On the day the Mishkan was erected, Israel was like a bride entering the wedding canopy."
+          },
+          "highlight": [
+            "kalot-moshe"
+          ],
+          "annotation": {
+            "en": "Rashi turns a verse about construction into a wedding scene. The Mishkan is the canopy. Israel is the bride. The princes' offerings that follow — twelve days of gifts — are the wedding gifts."
+          }
+        },
+        {
+          "id": "p69-5",
+          "type": "narration",
+          "text": {
+            "en": "Read this way, all the strange features of the chapter fall into place."
+          },
+          "highlight": [
+            "lehakim"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "p69-6",
+          "type": "narration",
+          "text": {
+            "en": "The elaborate repetition? Gift-giving at a wedding is ceremonial. Each present is named. Each giver is honored. Each moment is its own."
+          },
+          "highlight": [
+            "korbanam"
+          ]
+        },
+        {
+          "id": "p69-7",
+          "type": "narration",
+          "text": {
+            "en": "The careful order? At a wedding, the procession matters."
+          },
+          "highlight": [
+            "nesi-yisrael"
+          ]
+        },
+        {
+          "id": "p69-8",
+          "type": "narration",
+          "text": {
+            "en": "And the gilayon's final section returns to Ibn Kaspi — the same passage she had quoted in 1966 — to ask why the Torah's longest scene of repetition is also the Torah's most intimate."
+          }
+        },
+        {
+          "id": "p69-9",
+          "type": "question",
+          "text": {
+            "en": "If chapter 7 is a wedding, what changed on that day for Israel — and what changed for God?"
+          },
+          "highlight": [
+            "kalot-moshe"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "p69-10",
+          "type": "narration",
+          "text": {
+            "en": "Her 1969 sheet is signed off with the same hand that wrote the first in 1942."
+          }
+        },
+        {
+          "id": "p69-11",
+          "type": "narration",
+          "text": {
+            "en": "Twenty-seven years. Twenty-eight gilyonot. One bride. Walk back up; choose again."
+          }
+        }
+      ]
+    }
+  ]
+}

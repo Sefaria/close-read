@@ -1,0 +1,5 @@
+# Claude Code worktrees — local-only branches in subdirs, not for upstream
+.claude/worktrees/
+
+# macOS metadata
+.DS_Store

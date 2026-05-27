@@ -1,0 +1,140 @@
+{
+  "sheet_id": 161282,
+  "year_g": "1955",
+  "year_he": "תשט״ו",
+  "title": "פרשת נשא תשט\"ו - ברכת כהנים",
+  "sefaria_url": "https://www.sefaria.org/sheets/161282",
+  "sections": [
+    {
+      "letter": "א",
+      "label": "א. להבנת המושג \"ברכה\"",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Abarbanel on Torah, Numbers 6:23:1",
+          "he": "ה\"ברכה\" - שם משותף, כי יש מה' לנבראיו והיא השפעה והטבה כמו שנאמר (בראשית כ\"ד): \"וה' ברך את אברהם בכל\"... ויש ברכה שהיא מהנבראים אליו יתברך, והיא הלל ושבח כמו (דברי הימים א', כ\"ט): \"ויברך דוד את ה'\"... ויש ברכה שהיא מהנבראים לקצתם והיא אינה שפע כמו ברכת ה' לנבראיו, ולא שבח והודאה כברכת הברואים לבורא, אבל תפילה ובקשת רחמים על המתברך שישפיע עליו הקב\"ה מברכתו. ולזה גם כאן \"דבר אל אהרן ואל בניו כה תברכו... אמור להם...\", כי אינם אלא מתפללים בלבד על ברכתם – וזהו \"אמור להם\" שיהיה עניינם אמירה ותפילה עליהם בלבד – לא דבר אחר.",
+          "en": ""
+        }
+      ],
+      "questions": [
+        "1.  כנגד איזו דעה מוטעית בהבנת ה\"ברכה\" אומר אברבנאל את דבריו?",
+        "2. מה הפסוק בפרשתנו הנותן חיזוק לדבריו אלה?",
+        "3.  הידועים לך פרטי דינים במצוה זו, אשר מגמתם כנראה לחזק רעיון זה?"
+      ]
+    },
+    {
+      "letter": "ב",
+      "label": "ב. בביאור \"יברכך\" ו\"ישמרך\"",
+      "prose": [
+        "פסוק כ\"ד\n\"יְבָרֶכְךָ ה' וְיִשְׁמְרֶךָ\"",
+        "רש\"י:\nד\"ה יברכך: שיתברכו נכסיך.",
+        "ספורנו:\nד\"ה וישמרך: מן הגזלנים."
+      ],
+      "sources": [
+        {
+          "ref": "Rashi on Numbers 6:24:2",
+          "he": "ד\"ה וישמרך: שלא יבואו עליך שודדים ליטול ממונך, שהנותן מתנה לעבדו אינו יכול לשמרו מכל אדם, וכיון שבאים ליסטים עליו ונוטלין אותה ממנו, מה הנאה יש לו במתנה זו, אבל הקב\"ה הוא הנותן, הוא השומר...",
+          "en": "וישמרך AND MAY HE GUARD THEE — that no robbers come upon thee to take away thy property. For a human being who gives a present to his servant cannot guard him against everybody, and if a band of robbers attack him and take it away, what pleasure can he, then, derive from this present?! The Holy One, blessed be He, however, both gives and guards — against everybody (Midrash Tanchuma, Nasso 10). Many Midrashic interpretations are given of this verse in the Sifrei  (Sifrei Bamidbar 40)."
+        },
+        {
+          "ref": "Sforno on Numbers 6:24:1",
+          "he": "ד\"ה יברכך: בעושר ובנכסים, שאם אין קמח אין תורה.",
+          "en": "יברכך, with material wealth. The reason this is the first of the blessing is explained by our sages in Avot 3,15 אם אין קמח אין תורה, “if there is no flour, (no economic base) a Torah environment cannot flourish.”"
+        },
+        {
+          "ref": "Haamek Davar on Numbers 6:24:1",
+          "he": "ד\"ה יברכך: נכלל בזה לכל אדם כפי הראוי לו להתברך. לעוסק בתורה – בלימודו, לעוסק במסחר – בסחורתו, תוספת לכל אדם במה שיש לו.",
+          "en": "\"May God bless you.\" Included in this is whatever is appropriate for each person to be blessed with. As is written in Deuteronomy 16:16: \"they shall not appear before the LORD empty...according to the blessing of the LORD thy God which He hath given thee.\" The blessing will be according to the blessing that he was blessed with until then: For one who deals in Torah, in his study. For one who deals in commerce, in his merchandise. Thus is included in this general blessing \"May God bless you\" an additional blessing for each person about what he has."
+        },
+        {
+          "ref": "Haamek Davar on Numbers 6:24:2",
+          "he": "ד\"ה וישמרך: דברכה בעי שמירה שלא תיהפך לרועץ, חס ושלום. בעל התורה בעי שמירה מן הגאווה וחילול השם וכדומה, וכמשמעו – שלא ישכח. בעל הנכסים בעי שמירה שלא יהיה העושר לרעתו, כמו בקורח ונבות; וכמשמעו – מגניבה ואבידה.",
+          "en": "\"And protect you.\" For every blessing requires protection so that it does not become an obstacle, God forbid. A master of Torah needs protection from pride, desecration of God's name and the like. And similarly, that he not forget his learning. A property owner needs protection that his wealth not be to his detriment, like Korach and Navot the Jezreelite and the like. And similarly, protection from theft and loss. And likewise for everything that is in need of blessing, protection from whatever causes trouble is requested."
+        }
+      ],
+      "questions": [
+        "1.  מה ההבדל בין \"יברכך\" לבין \"ישמרך\" לפי שלושתם?",
+        "2. מה מצריך את ספורנו לפרש \"יברכך\" כמכוון לעושר ונכסים דווקא?",
+        "3.  במה שונה בעל העמק דבר מקודמיו בפרשו את היחס שבין \"יברכך\" לבין \"ישמרך\"?"
+      ]
+    },
+    {
+      "letter": "ג",
+      "label": "ג. בביאור \"יאר ה'\"",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 6:25",
+          "he": "\"יָאֵר ה' פָּנָיו אֵלֶיךָ\"",
+          "en": "The LORD make His face to shine upon thee, and be gracious unto thee;"
+        },
+        {
+          "ref": "Bamidbar Rabbah 11:6",
+          "he": "שיביט בך בפנים מאירות ולא בפנים זעומות. \nדבר אחר: \"יאר\" – זה מאור תורה, שיאיר עיניך ולבך בתורה ויתן לך בנים בני תורה, שנאמר: \"כי נר מצוה ותורה אור\".",
+          "en": ""
+        },
+        {
+          "ref": "Rashi on Numbers 6:25:1",
+          "he": "ד\"ה יאר: יראה לך פנים שוחקות, פנים צהובות.",
+          "en": "יאר ה' פניו אליך THE LORD MAKE HIS FACE SHINE UPON THEE — i.e. May He show thee a friendly (more lit., smiling) countenance — a beaming countenance."
+        }
+      ],
+      "questions": [
+        "הסבר, מה ראה רש\"י לבחור במדרש הראשון ולא בשני (\"דבר אחר\")?"
+      ]
+    },
+    {
+      "letter": "ד",
+      "label": "ד. \"ישא\" או \"לא ישא\"",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 6:26",
+          "he": "\"יִשָּׂא ה' פָּנָיו אֵלֶיךָ\"",
+          "en": "The LORD lift up His countenance upon thee, and give thee peace."
+        },
+        {
+          "ref": "Rosh Hashanah 17b:17-18",
+          "he": "שאלה בלוריאה הגיורת את רבן גמליאל: כתוב בתורתכם (דברים י') \"אשר לא ישא פנים ולא יקח שוחד\" וכתיב (במדבר ו'): \"ישא ה' פניו אליך\"? נטפל לה ר' יוסי הכהן, אמר לה: אמשול לך משל למה הדבר דומה? לאדם שנושה בחברו מנה, וקבע לו זמן בפני המלך ונשבע לו בחיי המלך, הגיע זמן ולא נתן לו כלום. בא לפייס את המלך. אמר לו (המלך): \"עלבוני מחול לך, לך ופייס את חברך\" אף הכא נמי: כאן (בדברים – \"אשר לא ישא פנים\") בעברות שבין אדם לחברו; כאן (במדבר ו') – בעברות שבין אדם למקום.",
+          "en": "The Gemara continues: Come and hear: Beloreya the convert once asked Rabban Gamliel: It is written in your Torah: “The great, mighty, and awesome God who favors no one” (Deuteronomy 10:17), and elsewhere it is written: “The Lord shall show favor to you and give you peace” (Numbers 6: 26). How can this contradiction be resolved? Rabbi Yosei the priest joined the conversation with her and said: I will tell you a parable. To what is this matter comparable? To a person who lent his friend one hundred dinars and fixed a time for repayment of the loan before the king, and the borrower took an oath by the life of the king that he would repay the money. The time arrived, and he did not repay the loan. The delinquent borrower came to appease the king for not fulfilling the oath that he had sworn by the life of the king, and the king said to him: For my insult I forgive you, but you must still go and appease your friend. Here also the same is true: Here, the verse that states: “The Lord shall show favor to you,” is referring to sins committed between man and God, which God will forgive; there, the verse that states: “God favors no one,” is referring to sins committed between a person and another, which God will not forgive until the offender appeases the one he hurt."
+        }
+      ],
+      "questions": [
+        "1.  מהם שני המושגים הנראים בעיניה כסותרים זה את זה?",
+        "2. היכן מצינו שוב ביטוי לרעיון זה של עברות בין אדם לחברו שאין נמחלות כעברות שבין אדם למקום?",
+        "3.  מפרשים העירו על כך, שלפי פשוטם של מקראות (דברים י', יז; במדבר ו' כ\"ו) אין כל סתירה ואין בכלל מקום לקושייתה של בלוריאה הגיורת. הסבר – מבחינה לשונית – שאין כל סתירה!"
+      ]
+    },
+    {
+      "letter": "ה",
+      "label": "ה. בביאור \"ושמו את שמי\" וכו'",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 6:27",
+          "he": "\"וְשָׂמוּ אֶת שְׁמִי עַל בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרְכֵם\"",
+          "en": "So shall they put My name upon the children of Israel, and I will bless them.’"
+        },
+        {
+          "ref": "Chullin 49a:16",
+          "he": "תניא ר' ישמעאל אומר: למדנו ברכה לישראל – ברכה לכהנים עצמם לא למדנו. כשהוא אומר \"ואני אברכם\" – הוי אומר: כהנים מברכין לישראל והקב\"ה מברך לכהנים.",
+          "en": "The Gemara clarifies: What is this, i.e., where does Rabbi Yishmael help the priests? As it is taught in a baraita: The verse states with regard to the priestly benediction: “So you shall bless the children of Israel” (Numbers 6:23). Rabbi Yishmael says: We learn from this verse about a blessing for Israel from the mouth of the priests, but we have not learned about a blessing for the priests themselves. When it says afterward with regard to the priests: “And they shall put My name upon the children of Israel, and I will bless them” (Numbers 6:27), you must say: The priests bless Israel, and the Holy One, Blessed be He, blesses the priests."
+        },
+        {
+          "ref": "Alshekh on Torah, Numbers 6:22:4",
+          "he": "יתכן כי בא יתברך לתת טוב טעם, בל יאמר איש אחד: אם הברכה ממנו יתברך היא – למה ידברו הכהנים עם ישראל לומר \"יברכך\"? הלא טוב הוא ידברו הכהנים אל ה' ויאמרו אליו: \"ברכם ה' ושמרם!\" \nלזה אמר \"כה תברכו\" ותתייחסו אתם למברכים באמור הם עצמם \"יברכך\", לא שיאמרו לה', והטעם, כי הנה על ידי כך \"ושמו את שמי על בני ישראל\" – הם מכוונים אותם לקבל הברכה ומשפיעים עליהם, מה שאין כן בדברם עמו יתברך \"ברכם ה'\" – אין אתם משימים שם ה' על ישראל לכוונם אליו.",
+          "en": ""
+        },
+        {
+          "ref": "Shadal on Numbers 6:27:1",
+          "he": "מליצת \"שים שם על\" - אין לה דוגמא.",
+          "en": ""
+        }
+      ],
+      "questions": [
+        "1.  מה בין הגמרא לבין האלשיך בפירוש המילה \"אברכם\"?",
+        "2. כיצד מפרש האלשיך את הביטוי הסתום \"ושמו את שמי על בני ישראל\"?"
+      ]
+    }
+  ]
+}

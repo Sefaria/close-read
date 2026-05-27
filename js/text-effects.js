@@ -5,6 +5,65 @@ const TextEffects = {
   // Current state
   activeHighlights: [],
 
+  // Shrink primary-he / primary-en font sizes so the content fits inside the
+  // panel's padded area. CSS clamp() with cqi/vh can scale to the container
+  // dimensions but can't measure CONTENT height — so for tall passages (e.g.
+  // a theme with many highlighted phrases across long verses) the content
+  // still overflows. This pass measures and shrinks proportionally.
+  //
+  // Idempotent: clears its own inline font-size before measuring so re-runs
+  // (e.g. on resize) start from CSS-clamp baseline.
+  fitToPanel(panel) {
+    if (!panel) return;
+    // Skip hidden panels (their clientHeight is 0 — fitting them is meaningless
+    // and would compute a negative innerH).
+    if (panel.clientHeight === 0 || panel.offsetParent === null) return;
+
+    const content = panel.querySelector('.primary-text-content.active');
+    if (!content) return;
+    const he = content.querySelector('.primary-he');
+    const en = content.querySelector('.primary-en');
+    if (!he && !en) return;
+
+    // Reset inline sizing so measurement reflects current CSS baseline
+    if (he) { he.style.fontSize = ''; he.style.lineHeight = ''; }
+    if (en) { en.style.fontSize = ''; en.style.lineHeight = ''; en.style.display = ''; }
+
+    // Force reflow before measuring
+    void content.offsetHeight;
+
+    const cs = getComputedStyle(panel);
+    const panelInnerH = panel.clientHeight
+      - parseFloat(cs.paddingTop)
+      - parseFloat(cs.paddingBottom);
+    if (panelInnerH <= 0) return;
+
+    const contentH = content.scrollHeight;
+    if (contentH <= panelInnerH) return; // already fits
+
+    // Shrink by the ratio, with a 5% safety margin and a minimum floor.
+    const ratio = (panelInnerH / contentH) * 0.95;
+    if (he) {
+      const base = parseFloat(getComputedStyle(he).fontSize);
+      const shrunk = Math.max(14, base * ratio);
+      he.style.fontSize = shrunk + 'px';
+      he.style.lineHeight = '1.65';
+    }
+    if (en) {
+      const base = parseFloat(getComputedStyle(en).fontSize);
+      const shrunk = Math.max(12, base * ratio);
+      en.style.fontSize = shrunk + 'px';
+      en.style.lineHeight = '1.6';
+    }
+
+    // Second pass: if still overflowing (floor kicked in), hide the English
+    // caption rather than crop the verse.
+    void content.offsetHeight;
+    if (content.scrollHeight > panelInnerH && en) {
+      en.style.display = 'none';
+    }
+  },
+
   // Wrap each word in the primary text with targetable spans
   wrapWords(container, words) {
     const heEls = container.querySelectorAll('.primary-he');
@@ -39,26 +98,32 @@ const TextEffects = {
     }
   },
 
-  // Highlight specific word groups, dim everything else
+  // Highlight specific word groups, dim everything else.
+  // When `sectionEl` is provided, scope the dim/highlight + has-highlights toggle
+  // to that section's panel only — necessary because the document contains many
+  // .primary-text-content.active elements (one per section) and toggling them all
+  // would dim sections the reader isn't on.
   highlight(groupIds, options = {}) {
-    const { effect = 'highlight', animate = true } = options;
+    const { effect = 'highlight', animate = true, sectionEl = null } = options;
 
-    // Reset previous
-    this.reset(false);
+    // Reset previous (scoped if a section was given)
+    this.reset(false, sectionEl);
 
     if (!groupIds || groupIds.length === 0) return;
 
     this.activeHighlights = groupIds;
 
-    // Dim all word groups first
-    document.querySelectorAll('.word-group').forEach(span => {
+    const scope = sectionEl || document;
+
+    // Dim all word groups in scope first
+    scope.querySelectorAll('.word-group').forEach(span => {
       span.classList.add('dimmed');
       span.classList.remove('highlighted', 'glow', 'pulse');
     });
 
-    // Highlight the targeted groups
+    // Highlight the targeted groups within scope
     groupIds.forEach(id => {
-      document.querySelectorAll(`[data-word="${id}"]`).forEach(span => {
+      scope.querySelectorAll(`[data-word="${id}"]`).forEach(span => {
         span.classList.remove('dimmed');
         span.classList.add('highlighted');
         if (effect === 'glow') span.classList.add('glow');
@@ -66,20 +131,22 @@ const TextEffects = {
       });
     });
 
-    // Also dim un-wrapped text by adding class to primary text container
-    const primaryContainer = document.querySelector('.primary-text-content.active');
+    // Also dim un-wrapped text by adding class to the active primary text
+    // container inside the scope (not the first one in the document).
+    const primaryContainer = scope.querySelector('.primary-text-content.active');
     if (primaryContainer) {
       primaryContainer.classList.add('has-highlights');
     }
   },
 
-  // Reset all highlights
-  reset(animate = true) {
+  // Reset all highlights. Optionally scope to a section element.
+  reset(animate = true, sectionEl = null) {
     this.activeHighlights = [];
-    document.querySelectorAll('.word-group').forEach(span => {
+    const scope = sectionEl || document;
+    scope.querySelectorAll('.word-group').forEach(span => {
       span.classList.remove('dimmed', 'highlighted', 'glow', 'pulse');
     });
-    document.querySelectorAll('.primary-text-content').forEach(el => {
+    scope.querySelectorAll('.primary-text-content').forEach(el => {
       el.classList.remove('has-highlights');
     });
   },

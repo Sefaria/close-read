@@ -29,6 +29,8 @@
   --color-ibn-ezra-bg: rgba(58, 90, 158, 0.07);
   --color-midrash: #7a4a7a;
   --color-midrash-bg: rgba(122, 74, 122, 0.07);
+  --color-nechama: #2d6e72;
+  --color-nechama-bg: rgba(45, 110, 114, 0.08);
   --color-question: #8b5e3c;
   --color-border: rgba(0, 0, 0, 0.08);
   --color-border-strong: rgba(0, 0, 0, 0.15);
@@ -237,25 +239,32 @@ body {
 
 .branch-label-he {
   font-family: var(--font-hebrew);
-  font-size: 1.5rem;
+  font-size: clamp(1.05rem, 2.2cqi + 0.4rem, 1.5rem);
   color: var(--color-accent);
   direction: rtl;
 }
 
 .branch-label-en {
   font-family: var(--font-english);
-  font-size: 1.3rem;
+  font-size: clamp(0.95rem, 2cqi + 0.4rem, 1.3rem);
   font-weight: 600;
   color: var(--color-text);
+  line-height: 1.25;
 }
 
 .branch-blurb {
   font-family: var(--font-english);
-  font-size: 0.95rem;
-  line-height: 1.5;
+  font-size: clamp(0.78rem, 1.4cqi + 0.4rem, 0.95rem);
+  line-height: 1.45;
   color: var(--color-text-secondary);
   font-style: italic;
   margin-top: 0.3rem;
+}
+
+/* Each button is a container so its child fonts can scale with its own width
+   via cqi units — the card width matters, not the viewport. */
+.decision-branch-button {
+  container-type: inline-size;
 }
 
 /* --- Breadcrumb (replaces section dots on branching sheets) --- */
@@ -346,14 +355,23 @@ body {
   margin-left: auto;
   order: 2;
   display: flex;
-  align-items: center;
+  /* `safe center` falls back to start-align when content would overflow the
+     padded area — so the ref label never gets pushed up under the breadcrumb. */
+  align-items: safe center;
   justify-content: center;
   z-index: 30;
   background: var(--color-bg);
-  padding: 2.5rem 2.5rem 2.5rem 3rem;
+  /* Top padding clears the fixed breadcrumb (~62px ≈ 4rem) so the primary-ref
+     label isn't visually covered when the panel pins. */
+  padding: 4.5rem 2.5rem 2.5rem 3rem;
   border-left: 1px solid var(--color-border);
   box-shadow: -4px 0 20px var(--color-shadow);
   overflow: hidden;
+  /* Establish a container so .primary-he / .primary-en can scale to the panel
+     width via cqi units rather than the viewport width. Use inline-size only
+     (not size) — size containment breaks the sticky 100vh layout. */
+  container-type: inline-size;
+  container-name: primarypanel;
 }
 
 .primary-text-content {
@@ -401,21 +419,25 @@ body {
 
 .primary-he {
   font-family: var(--font-hebrew);
-  font-size: clamp(1.5rem, 2.8vw, 2.2rem);
-  line-height: 1.9;
+  /* Scale to the panel container width (cqi), with a viewport-height fallback
+     (vh) so very tall content shrinks too. */
+  font-size: clamp(1.3rem, min(4cqi, 5.6vh), 2.4rem);
+  line-height: 1.75;
   direction: rtl;
   color: var(--color-text);
-  margin-bottom: 1rem;
+  margin-bottom: 0.9rem;
   transition: color 0.5s var(--ease-smooth);
+  text-wrap: balance;
 }
 
 .primary-en {
   font-family: var(--font-english);
-  font-size: clamp(1.15rem, 2vw, 1.4rem);
-  line-height: 1.8;
+  font-size: clamp(1.15rem, min(2.5cqi, 3.5vh), 1.55rem);
+  line-height: 1.7;
   color: var(--color-text-secondary);
   font-style: italic;
   transition: color 0.5s var(--ease-smooth);
+  text-wrap: balance;
 }
 
 /* --- Comparison Mode --- */
@@ -596,7 +618,11 @@ body {
 .source-label[data-source="Ibn Ezra"] { background: var(--color-ibn-ezra-bg); color: var(--color-ibn-ezra); }
 .source-label[data-source="Bereshit Rabbah"],
 .source-label[data-source="Aggadat Bereishit"],
-.source-label[data-source="Tanchuma"] { background: var(--color-midrash-bg); color: var(--color-midrash); }
+.source-label[data-source="Tanchuma"],
+.source-label[data-source="Bamidbar Rabbah"],
+.source-label[data-source="Sifra"],
+.source-label[data-source="Sifrei"] { background: var(--color-midrash-bg); color: var(--color-midrash); }
+.source-label[data-source="Nechama Leibowitz"] { background: var(--color-nechama-bg); color: var(--color-nechama); }
 
 .source-ref {
   font-family: var(--font-ui);
@@ -878,9 +904,11 @@ body {
     padding: 3rem 1rem;
   }
 
-  .decision-branches {
+  .decision-branches,
+  .decision-branches[data-count="4"] {
     grid-template-columns: 1fr;
     gap: 1rem;
+    max-width: none;
   }
 
   .decision-branch-button {

@@ -1,0 +1,77 @@
+{
+  "sheet_id": 160600,
+  "year_g": "1970",
+  "year_he": "תש\"ל",
+  "title": "פרשת נשא תש\"ל - פרשת נזיר",
+  "sefaria_url": "https://www.sefaria.org/sheets/160600",
+  "sections": [
+    {
+      "letter": "_intro",
+      "label": "(opening)",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 6:11",
+          "he": "\"וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו מֵאֲשֶׁר חָטָא עַל הַנָּפֶשׁ\"",
+          "en": "\"And the priest shall prepare one for a sin-offering, and the other for a burnt-offering, and make atonement for him, for that he sinned by reason of a soul\""
+        },
+        {
+          "ref": "Rashi on Numbers 6:11:1",
+          "he": "ד\"ה מאשר חטא על הנפש: שלא נזהר מטומאת המת. ר' אלעזר הקפר אומר: שציער עצמו מן היין.",
+          "en": "מאשר חטא על הנפש [AND THE PRIEST … MAKE EXPIATION FOR HIM] FOR THAT HE HATH SINNED BY A SOUL — i.e., that he has not been on his guard against defilement by a corpse. — R. Elazar ha-Kappar said, “his sin consists in that he has afflicted himself by abstaining from the enjoyment of wine\" (Sifrei Bamidbar 30; Nazir 19a)."
+        },
+        {
+          "ref": "Taanit 11a:14-16",
+          "he": "אמר שמואל: כל היושב בתענית נקרא חוטא. סבר כהאי תנא דתניא: רבי אלעזר הקפר ברבי אומר: מה תלמוד לומר \"וכיפר עליו מאשר חטא על הנפש\"? וכי באיזה נפש חטא זה? אלא – שציער עצמו מן היין. והלא דברים קל וחומר: ומה זה שלא ציער עצמו אלא מן היין נקרא חוטא, המצער עצמו מכל דבר ודבר - על אחת כמה וכמה! ר' אלעזר אומר: נקרא קדוש שנאמר (ב') \"קדוש יהיה גדל פרע שער ראשו\". ומה זה שלא ציער עצמו אלא מדבר אחד נקרא קדוש; המצער עצמו מכל דבר - על אחת כמה וכמה... ולר' אלעזר – הא נקרא חוטא? ההוא דסאיב נפשי",
+          "en": "Shmuel said: Whoever sits in observance of a fast is called a sinner, as it is inappropriate to take unnecessary suffering upon oneself. The Gemara comments: Shmuel holds in accordance with the opinion of the following tanna, as it is taught in a baraita: Rabbi Elazar HaKappar the Great says: What is the meaning when the verse states, with regard to a nazirite: “And he will atone for him for that he sinned by the soul [nefesh]” (Numbers 6:11). But with what soul did this nazirite sin? Rather, the nazirite sinned by the distress he caused himself when he abstained from wine, in accordance with the terms of his vow. And are these matters not inferred a fortiori? And if this nazirite, who distressed himself by abstaining only from wine, is nevertheless called a sinner and requires atonement, then with regard to one who distresses himself by abstaining from each and every matter of food and drink when he fasts, all the more so should he be considered a sinner. Conversely, Rabbi Elazar says: One who accepts a fast upon himself is called sacred, as it is stated with regard to the nazirite: “He shall be sacred, he shall let the locks of the hair of his head grow long” (Numbers 6:5). Here too, one can apply an a fortiori inference: And if this nazirite, who distressed himself by abstaining from only one matter, wine, is nevertheless called sacred, then with regard to one who distresses himself by abstaining from every matter, all the more so should he be considered sacred... But according to the opinion of Rabbi Elazar, how are we to understand that the nazirite is also called a sinner. The Gemara answers: That verse refers specifically to a nazirite who rendered himself ritually impure by coming into contact with a dead body, an act that is prohibited for him. This particular nazirite must bring an offering to atone “for that he sinned by the soul.”"
+        },
+        {
+          "ref": "Rashi on Taanit 11a:17:1",
+          "he": "פשט המקרא על שנטמא במת",
+          "en": "[According to Rabbi Elazar,] the simple meaning of the verse, \"who sinned by a soul,\" is that he become defiled from a dead body."
+        },
+        {
+          "ref": "Abarbanel on Torah, Numbers 6:1:1",
+          "he": "אבל אם ימות על הנזיר מת פתע פתאום, רוצה לומר במקרה פתאומי, כגון שנהרג או נחנק לפניו; או שנכנס הנזיר באוהל שהיה שם מת, והוא לא ידעו, ובזה טימא ראש נזרו, הנה אז ישב בטומאתו שבעת ימים, וביום השביעי יגלח שער ראשו, כשהוא כבר נטהר... וביום השמיני יביא את קרבנו \"וכיפר עליו מאשר חטא על הנפש\" – רוצה לומר מאשר חטא על נפש המת. או יהיה פירושו על נפשו של הנזיר שהיתה בפרישותה ודבוקה, והוא חטא עליה כשיפסיקה ממנו, כי היה לו להיזהר על זה יותר, ולא יחטא, כי (משלי י\"ב כ\"א) \"לא יאונה לצדיק כל אוון\". וזה הפירוש האמיתי בדרך הפשט ולא כדברי ר' ישמעאל (כנראה טעות וצריך להיות ר' אלעזר הקפר) שדרש: \"מאשר חטא על הנפש\" שציער עצמו בנזירותו מן היין, כי הנה לפי פירושו היה ראוי לומר...",
+          "en": "But if someone die upon the nazirite suddenly - meaning to say, in a sudden incident, such as if he was killed or choked in front of him, or if the nazirite entered a tent with a dead body in it, and he did not know - and defiled his head from being a nazirite; then he shall sit in his impurity seven days, and shave the hair of his head on the seventh day, when he has already been purified... And on the eighth day, he brings his sacrifice, \"and makes atonement for him, for that he sinned by reason of a soul\" - meaning to say, for that he sinned by reason of a dead soul. Or its understanding is by reason of his own soul of the nazirite, since he had been ascetic and devoted, and he [now] sinned against it when he interrupted [this state] - as \"No harm comes to the righteous\" (Proverbs 12:21). And this is the correct understanding on the simple level, and not like the words of R. Yishmael (it appears that this is a mistake and it is supposed to be, R. Elazar HaKappar) who expounded, \"for that he sinned by reason of a soul,\" [to mean], that he distressed himself from [drinking] wine, by his being a nazirite. As behold, according to his explanation, it would have been fitting to say..."
+        },
+        {
+          "ref": "Numbers 6:2",
+          "he": "\"דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ אִשָּׁה כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר לְהַזִּיר לַה'\"",
+          "en": "\"Speak unto the children of Israel, and say unto them: When either man or woman shall clearly utter a vow, the vow of a Nazirite, to consecrate himself unto the Lord\""
+        },
+        {
+          "ref": "Rashi on Numbers 6:2:1",
+          "he": "ד\"ה כי יפליא: ...למה נסמכה פרשת נזיר לפרשת סוטה? לומר לך, שכל הרואה סוטה בקלקולה יזיר עצמו מן היין, שהוא מביא לידי ניאוף.",
+          "en": "כי יפלא means, IF HE CLEARLY UTTERS (cf. Rashi on Leviticus 22:21 and Note thereon). — Why is the section dealing with the Nazarite placed in juxtaposition to the section dealing with the סוטה? To tell you that he who has once seen a סוטה in her disgrace should abstain from wine, because it may lead to adultery (Sotah 2a)."
+        },
+        {
+          "ref": "Numbers 6:13",
+          "he": "\"וְזֹאת תּוֹרַת הַנָּזִיר בְּיוֹם מְלֹאת יְמֵי נִזְרוֹ יָבִיא אֹתוֹ אֶל פֶּתַח אֹהֶל מוֹעֵד\"",
+          "en": "\"And this is the law of the Nazirite, when the days of his consecration are fulfilled: he shall bring it unto the door of the tent of meeting.\""
+        },
+        {
+          "ref": "Numbers 6:14",
+          "he": "(יד) וְהִקְרִ֣יב אֶת־קָרְבָּנ֣וֹ לַיהוָ֡ה כֶּבֶשׂ֩ בֶּן־שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה אַחַ֧ת בַּת־שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל־אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים׃",
+          "en": "(14) As his offering to the LORD he shall present: one male lamb in its first year, without blemish, for a burnt offering; one ewe lamb in its first year, without blemish, for a sin offering; one ram without blemish for an offering of well-being;"
+        },
+        {
+          "ref": "Rabbeinu Bahya, Bamidbar 6:13:1",
+          "he": "ד\"ה ביום מלאת ימי נזרו: טעם הקרבן הזה בנזיר ביום מלאת ימי נזרו לא נתגלה, כי לא מצינו בכל התורה כולה קרבן כי אם על עוון שקדם לשעבר, וזה שקדם וזכה לעשות מצוה, והיה כל ימי נזירותו קדוש ופרוש מתאוות העולם, ועתה ביום מלאת ימי נזרו תחייבנו תורה להביא קרבן, הנה זה עניין נפלא ומחודש. וכן אמרו חז\"ל במסכת נזיר: חידוש הוא שחידשה תורה בנזיר.",
+          "en": "ביום מלאת ימי נזרו, “on the day the days of his vow of abstinence are complete.” The Torah did not reveal a reason why the Nazir has to bring this offering on the day he completes his vow of abstinence. There is no other instance when the Torah legislated a sin-offering to be brought by a person unless he had first committed an error. In this instance the Torah speaks about these offerings in anticipation of the day when the vow is complete. Why would a person who had undertaken to abstain from the pleasures of this world be required to bring an offering in order to expiate? Behold this matter is wondrous and novel. Likewise our Sages, may their memory be blessed, said in Tractate Nazir, \"It is a novelty that the Torah established about the nazirite.\""
+        },
+        {
+          "ref": "Rabbeinu Bahya, Bamidbar 6:13:2",
+          "he": "(ב) והרמב\"ן ז\"ל נתן בו טעם ע\"ד הפשט ואמר כי האיש הזה חוטא נפשו במלאת הנזירות, כי הוא עתה נזיר מקדושתו ועבודת הש\"י וראוי היה לו שיזור לעולם ויעמוד כל ימיו בקדושתו נזיר וקדוש לאלהיו, כענין שנאמר (עמוס ב׳:י״א) ואקים מבניכם לנביאים ומבחוריכם לנזירים, השוה אותו הכתוב לנביא, וכדכתיב כל ימי נזרו קדוש הוא לאלהיו, ועל כן הוא צריך כפרה בשובו להטמא בתאוות העולם, עד כאן לשון הרב ז\"ל. ועם כל הטעם הזה לא יצא קרבנו של נזיר מן החדוש... אבל טעם הקרבן והחדוש איננו מתבאר כי אם ע\"ד הקבלה",
+          "en": "(2) Nachmanides offers an interpretation in line with the plain meaning of the text. He views the very conclusion of the period of abstinence as a decline in the spiritual standard which the Nazir had imposed upon himself at the time he undertook the vow. It would have been appropriate for the Nazir to maintain the spiritual “high” he had achieved indefinitely, for the rest of his life. Seeing that the Nazir limited the time period during which he would try to be so “frum,” he has to bring this offering. He needs atonement. Even when we accept the reasoning of Nachmanides the uniqueness of this legislation remains unaffected by it... Unless we resort to a kabbalistic interpretation we will not truly understand this legislation."
+        },
+        {
+          "ref": "Rashi on Numbers 6:5:2",
+          "he": "ד\"ה פרע: נקוד פתח קטן, לפי שהוא דבוק ל\"שער ראשו\" – פרע של שער. ופירוש של \"פרע\" – גידול של שער, וכן (ויקרא כ\"א, י') \"ואת ראשו לא יפרע\".",
+          "en": "פרע — The word פרע is punctuated (as to its first syllable) with Patach-Katan (Segol) because it is in construct state to שער ראשו and the meaning is: the פרע, the wild growth of שער ראשו — The meaning of the word פרע is over-growth of the hair; similar is (Leviticus 21:10) “He shall not let his hair grow wild (יפרע)”. Growth of the hair of less than thirty days’ duration does not come under the term פרע (Sifrei Bamidbar 25; Sanhedrin 22b)."
+        }
+      ],
+      "questions": []
+    }
+  ]
+}

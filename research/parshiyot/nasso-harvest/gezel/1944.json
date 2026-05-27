@@ -1,0 +1,199 @@
+{
+  "sheet_id": 161971,
+  "year_g": "1944",
+  "year_he": "תש\"ד",
+  "title": "פרשת נשא תש\"ד - גזל הגר",
+  "sefaria_url": "https://www.sefaria.org/sheets/161971",
+  "sections": [
+    {
+      "letter": "א",
+      "label": "א. דין קרן וחומש בשבועת שקר",
+      "prose": [
+        "רמב\"ם ,הלכות גזלה ואבדה פרק ז'-",
+        "הלכה א:\nכל מי שנתחייב ממון לחברו הישראלי וכפר בו ונשבע על שקר, הרי זה חייב להחזיר לו הקרן שכפר בו והוספת חומש וחייב בקרבן, והוא הנקרא אשם גזלות.",
+        "הלכה ח':\nאין הנשבע על כפירת ממון משלם חומש עד שיודה מעצמו, אבל אם באו עדים והוא עומד בכפירתו משלם הקרן בלבד על פי עדים ואינו משלם החומש..."
+      ],
+      "sources": [
+        {
+          "ref": "Rashi on Numbers 5:6:1",
+          "he": "ד\"ה למעל מעל: הרי חזר וכתב כאן פרשת גוזל ונשבע על שקר היא האמורה בפרשת ויקרא (ויקרא ה') ומעלה מעל בה' וכחש בעמיתו וגו' ונשנית כאן בשביל שני דברים שנתחדשו בה: האחד, שכתוב \"והתודו\" לומר שאינו חייב חומש ואשם על פי עדים עד שיודה בדבר, והשני, על גזל הגר שהוא ניתן לכהנים.",
+          "en": "למעל מעל בה׳ [WHEN A MAN OR WOMAN SHALL DO ANY OF THE SINS AGAINST MAN,] TO ACT DECEITFULLY AGAINST THE LORD — Here, you see, Scripture writes down again the section dealing with a person who robs by violence from another, and swears falsely regarding it, — it is the same section that has already been stated in the Sedrah ויקרא (Lev 5:21), “[If a soul sin], and commits a trespass against the Lord, and deny unto his neighbour etc.” The reason why it is repeated here is because of two new points which are contained in it. The one is that it (Scripture) writes here, “and if they confess” which teaches that one is not liable to payment of the fifth (in addition to the capital; cf. Leviticus 5:24), nor to bring a guilt offering (cf. Leviticus 5:25) if he is convicted by the evidence of witnesses, but only when he himself confesses the matter (his guilt). The second new point is about something stolen from a proselyte (cf. Rashi on v. 8) — that it has to be handed over to the priests (cf. Sifrei Bamidbar 2)."
+        }
+      ],
+      "questions": [
+        "1. מצא סמך בפסוקים לנאמר בהלכה ח'!",
+        "2. מה הטעם לדין הבאת החומש והקרבן רק למודה מעצמו?"
+      ]
+    },
+    {
+      "letter": "ב",
+      "label": "ב. תנאי ותוצאה",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 5:6",
+          "he": "\"... אִישׁ אוֹ-אִשָּׁה כִּי יַעֲשׂוּ מִכָּל-חַטֹּאת הָאָדָם לִמְעֹל מַעַל בּה' וְאָשְׁמָה הַנֶּפֶשׁ הַהִוא. \n וְהִתְוַדּוּ אֶת-חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת-אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו וְנָתַן לַאֲשֶׁר אָשַׁם לוֹ\".",
+          "en": "Speak unto the children of Israel: When a man or woman shall commit any sin that men commit, to commit a trespass against the LORD, and that soul be guilty;"
+        }
+      ],
+      "questions": [
+        "היכן נגמר התנאי, ובאיזו מילה מתחילה התוצאה (בלשון המפרשים: תשובת התנאי)? נמק תשובתך זו."
+      ]
+    },
+    {
+      "letter": "ג",
+      "label": "ג. הוראת הסמיכות \"חטאות האדם\"",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 5:6",
+          "he": "\"מִכָּל חַטֹּאת הָאָדָם\"",
+          "en": "Speak unto the children of Israel: When a man or woman shall commit any sin that men commit, to commit a trespass against the LORD, and that soul be guilty;"
+        },
+        {
+          "ref": "Exodus 28:38",
+          "he": "\"וְהָיָה עַל מֵצַח אַהֲרֹן וְנָשָׂא אַהֲרֹן אֶת עֲו‍ֹן הַקֳּדָשִׁים אֲשֶׁר יַקְדִּישׁוּ בְּנֵי יִשְׂרָאֵל לְכָל מַתְּנֹת קָדְשֵׁיהֶם וְהָיָה עַל מִצְחוֹ תָּמִיד לְרָצוֹן לָהֶם לִפְנֵי ה'\"",
+          "en": "And it shall be upon Aaron’s forehead, and Aaron shall bear the iniquity committed in the holy things, which the children of Israel shall hallow, even in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the LORD."
+        },
+        {
+          "ref": "Leviticus 5:22",
+          "he": "\"אוֹ מָצָא אֲבֵדָה וְכִחֶשׁ בָּהּ וְנִשְׁבַּע עַל שָׁקֶר עַל אַחַת מִכֹּל אֲשֶׁר יַעֲשֶׂה הָאָדָם לַחֲטֹא בָהֵנָּה\"",
+          "en": "or have found that which was lost, and deal falsely therein, and swear to a lie; in any of all these that a man doeth, sinning therein;"
+        },
+        {
+          "ref": "Numbers 18:1",
+          "he": "\"וַיֹּאמֶר ה' אֶל אַהֲרֹן אַתָּה וּבָנֶיךָ וּבֵית אָבִיךָ אִתָּךְ תִּשְׂאוּ אֶת עֲו‍ֹן הַמִּקְדָּשׁ וְאַתָּה וּבָנֶיךָ אִתָּךְ תִּשְׂאוּ אֶת עֲו‍ֹן כְּהֻנַּתְכֶם\"",
+          "en": "And the LORD said unto Aaron: ‘Thou and thy sons and thy fathers’ house with thee shall bear the iniquity of the sanctuary; and thou and thy sons with thee shall bear the iniquity of your priesthood."
+        }
+      ],
+      "questions": [
+        "נחלקו המפרשים בהוראת הסמיכות כאן:",
+        "האם הוראתה: חטאותיהם של בני אדם (הסומך – נושא הפעולה המובעת בנסמך) או הוראתה: חטאות נגד בני אדם = חטאות שבין אדם לחברו (הסומך – משלים שאליו עוברת הפעולה שבנסמך).",
+        "1.  נסה לנמק את כל אחת משתי הדעות.",
+        "לאיזו מהן יש להביא ראיה או חיזוק מן הפסוקים:"
+      ]
+    },
+    {
+      "letter": "ד",
+      "label": "ד. \"למעול מעל בה'\"",
+      "prose": [
+        "(ועיין בראשית ל\"א נ'.)"
+      ],
+      "sources": [
+        {
+          "ref": "Numbers 5:6",
+          "he": "\"כִּי יַעֲשׂוּ מִכָּל חַטֹּאת הָאָדָם לִמְעֹל מַעַל בַּה'\"",
+          "en": "Speak unto the children of Israel: When a man or woman shall commit any sin that men commit, to commit a trespass against the LORD, and that soul be guilty;"
+        }
+      ],
+      "questions": [
+        "ספרא ויקרא שע\"ב:\nר' עקיבא אומר: מה תלמוד לומר: \"למעול מעל בה'\"? לפי שהמלווה והלווה והנושא והנותן אינו מלווה ואינו לווה ואינו נושא ונותן אלא בשטר ובעדים, לפיכך בזמן שהוא מכחיש, מכחיש בעדים ובשטר, אבל המפקיד אצל חברו, אינו רוצה שתדע בו נשמה אלא שלישי שביניהם – בזמן שהוא מכחיש – מכחיש בשלישי שביניהם.",
+        "1. מהו הרעיון הכלול בדברי ר' עקיבא?",
+        "2. מהו הקושי בפסוק אשר אותו הוא מתרץ?"
+      ]
+    },
+    {
+      "letter": "ה",
+      "label": "ה. וידוי דברים נלמד מפרשתנו",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 5:7",
+          "he": "\"וְהִתְוַדּוּ אֶת חַטָּאתָם\"",
+          "en": "then they shall confess their sin which they have done; and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty."
+        },
+        {
+          "ref": "Mishneh Torah, Repentance 1:1",
+          "he": "כל מצוות שבתורה, בין עשה בין לא תעשה, אם עבר אדם על אחת מהן בין בזדון בין בשגגה, כשיעשה תשובה וישוב מחטאו, חייב להתוודות לפני האל ברוך הוא. שנאמר: איש או אישה כי יעשו וכו' והתוודו – זה וידוי דברים. וידוי זה מצוות עשה...",
+          "en": "All commandments of the Torah, whether they be mandatory or prohibitive, if a man violates any one of them, either presumptuously or erroneously, when he will repent himself and turn away from his sinful way, he is obliged to confess before God, blessed is He! even as it is said: \"When a man or woman shall commit any sin..… Then they shall confess their sin which they have done (Num. 5.6–7), which is a confession of words. Such confession is a mandatory commandment. How is the verbal confession made? The sinner says thus: \"I beseech Thee, O Great Name! I have sinned; I have been obstinate; I have committed profanity against Thee, particularly in doing thus and such. Now, behold! I have repented and am ashamed of my actions; forever will I not relapse into this thing again.\" This is the elementary form of confession; but whosoever elaborates in confessing and extends this subject is, indeed, praise-worthy. Likewise all those who bring sin-offerings or trespass-offerings, when they offer their sacrifices, whether for their errors or for their spitefulness, find no atonement in their sacrifices, unless they repent, and deliver themselves of a verbal confession, even as it is said: \"He shall confess that he hath sinned in that thing\" (Lev. 5.5) So, too, are the guilty upon whom the tribunal pronounced either a sentence of death or of stripes, who find no atonement either in their death or in being lashed unless they do repent and make verbal confession. Even he, who injures his friend or causes him damages in money matters, although he makes restitution of what he owes him, finds no atonement, unless he makes verbal confession and repents by obligating himself never to repeat this again, even as is said: \"Any sin that man commits\" (Num. 5.6).1Sifra, Lev. 5; Yoma, 36b; Shebu’ot, 13a; Sanhedrin, 43a; Baba Kama, 92b.C."
+        },
+        {
+          "ref": "Leviticus 5:5",
+          "he": "*  למה למדו את מצוות וידוי-דברים מפסוקנו ומנו אותה במניין המצוות בפרשתנו, למה לא למדוה לפני כן מויקרא פרק ה' פסוק ה':\n\"וְהָיָה כִי יֶאְשַׁם לְאַחַת מֵאֵלֶּה וְהִתְוַדָּה...\"",
+          "en": "and it shall be, when he shall be guilty in one of these things, that he shall confess that wherein he hath sinned;"
+        }
+      ],
+      "questions": []
+    },
+    {
+      "letter": "ו",
+      "label": "ו. שאלות ודיוקים ברש\"י",
+      "prose": [
+        "ד\"ה לו יהיה: ממון הרבה."
+      ],
+      "sources": [
+        {
+          "ref": "Rashi on Numbers 5:7:2",
+          "he": "ד\"ה לאשר אשם לו: (כתובות י\"ט) למי שנתחייב לו.",
+          "en": "לאשר אשם לו [AND HE SHALL RESTORE THE PRINCIPAL … AND GIVE UNTO HIM] TO WHOM HE IS GUILTY — i.e. unto him to whom he (the claimant) owes money (Ketubot 19a)."
+        },
+        {
+          "ref": "Rashi on Numbers 5:8:1",
+          "he": "ד\"ה ואם אין לאיש גואל: שמת התובע שהשביעו ואין לו יורשים.",
+          "en": "ואם אין לאיש גאל BUT IF THE MAN HAS NO KINSMAN — This means that the claimant who put him to the oath, died and has left no heirs,"
+        },
+        {
+          "ref": "Rashi on Numbers 5:8:2",
+          "he": "ד\"ה להשיב האשם: ואמרו רבותינו: וכי יש לך אדם בישראל שאין לו גואלים, או בן או בת או אח או שאר בשר הקרוב ממשפחת אביו למעלה עד יעקב? אלא, זה הגר שמת ואין לו יורשים.",
+          "en": "להשיב האשם אליו TO WHOM THAT WHEREIN HE IS GUILTY COULD BE RESTORED, when he decided at a later period to confess his sin. — Our Rabbis asked (Sifrei Bamidbar 4:1; Bava Kamma 109a): But can you find anyone in Israel who has no kinsman whatsoever, neither a son nor a brother nor other relative near akin to him from his father’s family, going back as far as Jacob? But this person referred to is a proselyte who died and has no heirs (his heathen relatives not being entitled to succeed to his property) (Sifrei Bamidbar 4:1; Bava Kamma 109a)."
+        },
+        {
+          "ref": "Rashi on Leviticus 25:26:1",
+          "he": "למה לא פירש רש\"י כך גם ויקרא פרק כ\"ה פסוק כ\"ו:\nד\"ה ואיש כי לא יהיה לו גואל: (קידושין שם ת\"כ) וכי יש לך אדם בישראל שאין לו גואלים? אלא גואל שיוכל לגאול ממכרו.",
+          "en": "ואיש כי לא יהיה לו גואל [AND] IF [A MAN] HAVE  NONE TO REDEEM  IT  — But does there exist anyone in Israel who has none to redeem his property (who has no relative at all)? But the meaning is: a relative who is able (possesses the means) to redeem that which he has sold (Sifra, Behar, Chapter 5 2; cf. Kiddushin 21a)."
+        },
+        {
+          "ref": "Rashi on Numbers 5:8:3",
+          "he": "ד\"ה האשם המושב: זה הקרן והחומש.",
+          "en": "האשם המושב THAT WHEREIN HE IS GUILTY AND WHICH HATH TO BE RESTORED — i.e. the principal (האשם) and the fifth thereof (המושב) (cf. Bava Kamma 110a),"
+        },
+        {
+          "ref": "Rashi on Numbers 5:8:4",
+          "he": "ד\"ה לה' לכהן: קנאו השם ונתנו לכהן שבאותו משמר.",
+          "en": "לה’ לכהן BELONGS TO THE LORD, FOR THE PRIEST — This means the Lord becomes its owner and gives it to the priest of that Mishmar (shift) (Bava Kamma 109b)."
+        },
+        {
+          "ref": "Ibn Ezra on Numbers 5:8:1",
+          "he": "העתק את הפסוק פעמיים וסמנו בסימני פסוק בהתאם לפירושו של רש\"י ובהתאם לראב\"ע:\nד\"ה המושב לה': בעבור יראת השם השיבו.",
+          "en": ""
+        },
+        {
+          "ref": "Rashi on Numbers 5:10:1",
+          "he": "ד\"ה ואיש את קדשיו לו יהיו: לפי שנאמרו מתנות כהונה ולויה יכול יבואו ויטלום בזרוע? תלמוד לומר ואיש את קדשיו לו יהיו מגיד שטובת הנאתן לבעלים. ועוד מדרשים הרבה דרשו בו בספרי. ומדרש אגדה: ואיש את קדשיו לו יהיו, מי שמעכב מעשרותיו ואינו נותנן - לו יהיו המעשרות, סוף שאין שדהו עושה אלא אחד מעשרה שהיתה למודה לעשות.",
+          "en": "ואיש את קדשיו לו יהיו AND EVERY MAN’S HOLY THINGS SHALL BE HIS — Because the gifts due to the priests and the Levites are merely mentioned in the Torah (Deuteronomy 18:1—8) (without any statement as to how they are to come into possession of them), therefore one might think they may come and take them by force. On this account, it states here, ‘‘and every man’s holy things shall be his” — in some respect — thus it teaches us that the טובת הנאה, the gratification of using them in this respect as he wishes, belongs to the owner. — Many other Halachic rules have they (the Rabbis) deduced about it (this statement) in Sifrei Bamidbar 6:2. — An Agadic explanation of ואיש את קדשיו לו יהיו is the following: Whosoever retains the tithes and does not give them to the Levite, only the tithes will be his, i.e., his field will ultimately yield no more than a tithe of what it was accustomed to yield (so that his whole possession will not exceed the gifts he should have given to the priests and the Levites; cf. Midrash Tanchuma, Re'eh 10)."
+        },
+        {
+          "ref": "Rashi on Numbers 5:10:2",
+          "he": "ד\"ה איש אשר יתן לכהן: מתנות הראויות לו.",
+          "en": "איש אשר יתן לכהן, A MAN, HOWEVER, WHO GIVES TO THE PRIEST the gifts that are due to him,"
+        }
+      ],
+      "questions": [
+        "מה בא להשמיענו?",
+        "למי מוסב \"לו\" ראשון ולמי מוסב \"לו\" שני, לפי פשוטו ולפי מדרשו?"
+      ]
+    },
+    {
+      "letter": "ז",
+      "label": "ז. ישראל המחזיק בנכסי הגר",
+      "prose": [
+        "רמב\"ם, הלכות זכיה ומתנה א' ו':\nגר שמת ולא הוליד ישראל אַחַר שנתגייר - אין לו יורשים, אלא כל הקודם והחזיק בנכסיו – זכה."
+      ],
+      "sources": [
+        {
+          "ref": "Numbers 5:8",
+          "he": "\"וְאִם אֵין לָאִישׁ גֹּאֵל\"",
+          "en": "But if the man have no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made shall be the LORD’S, even the priest’s; besides the ram of the atonement, whereby atonement shall be made for him."
+        },
+        {
+          "ref": "Rashi on Numbers 5:8:1",
+          "he": "שמת התובע שהשביעו ואין לו יורשים.",
+          "en": "ואם אין לאיש גאל BUT IF THE MAN HAS NO KINSMAN — This means that the claimant who put him to the oath, died and has left no heirs,"
+        }
+      ],
+      "questions": [
+        "הסבר למה לא יהא זה הישראל המחזיק בנכסי הגר זוכה בהם, ומה הטעם אמרה תורה שעליו לתתם לכהן?"
+      ]
+    }
+  ]
+}

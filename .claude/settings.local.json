@@ -20,7 +20,10 @@
       "Bash(curl -s \"https://www.sefaria.org/api/sheets/user/nechama-leibowitz\")",
       "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(type\\(d\\)\\); print\\(len\\(d\\) if isinstance\\(d,list\\) else list\\(d.keys\\(\\)\\)[:10]\\)\")",
       "Bash(ls:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Skill(claude-obsidian:wiki-query)",
+      "Skill(claude-obsidian:wiki-query:*)",
+      "Bash(find /Users/levisrael -type d -name \"sefaria-wiki\" 2>/dev/null | head -5)"
     ]
   }
 }

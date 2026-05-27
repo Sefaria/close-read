@@ -101,6 +101,35 @@ class CloseReadApp {
     this.setupProgressBar();
     this.updatePageTitle();
     this.wirePopstate();
+    this.fitAllPanels();
+    this.wireResizeFit();
+  }
+
+  // Run TextEffects.fitToPanel on every visible primary text panel. For tall
+  // primaryText (e.g. a theme with 6+ verses) CSS clamp/cqi sizing can't
+  // measure content height, so this JS pass shrinks the font to fit.
+  //
+  // Skips hidden panels (fitToPanel checks clientHeight === 0). When a branch
+  // is chosen and a previously-hidden panel becomes visible, applyVisibility()
+  // calls this again so the newly-revealed panel gets fit.
+  fitAllPanels() {
+    // setTimeout (not rAF) so this works in background tabs too. The 100ms
+    // delay gives the browser time to compute CSS clamp/cqi-driven font sizes
+    // before we measure content height. Idempotent — fitToPanel resets inline
+    // styles before measuring, so re-runs always start from CSS baseline.
+    setTimeout(() => {
+      document.querySelectorAll('.primary-text-area').forEach(panel => {
+        TextEffects.fitToPanel(panel);
+      });
+    }, 100);
+  }
+
+  wireResizeFit() {
+    let timer = null;
+    window.addEventListener('resize', () => {
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(() => this.fitAllPanels(), 150);
+    });
   }
 
   // ─── Branching: build tree, path state, visibility ───
@@ -203,6 +232,9 @@ class CloseReadApp {
     const closing = document.querySelector('.closing-screen');
     if (closing) closing.classList.toggle('is-hidden', pathIsBlocked);
     this.updateChosenButtons();
+    // Newly-revealed panels need to be fit (CSS clamp/cqi sized them at full
+    // baseline; if their content is taller than viewport, JS needs to shrink).
+    if (this.fitAllPanels) this.fitAllPanels();
   }
 
   updateChosenButtons() {
@@ -726,22 +758,30 @@ class CloseReadApp {
       }
     }
 
-    // Handle highlights
+    // Handle highlights — scope to this section's panel so the dim/lift only
+    // affects the panel the reader is actually looking at (the document has
+    // many .primary-text-content.active elements, one per section).
     const highlightData = card.dataset.highlight;
     const effect = card.dataset.effect || 'highlight';
     if (highlightData) {
       const groups = JSON.parse(highlightData);
-      TextEffects.highlight(groups, { effect });
+      TextEffects.highlight(groups, { effect, sectionEl });
     } else {
-      TextEffects.reset();
+      TextEffects.reset(true, sectionEl);
     }
   }
 
   deactivateStep(card) {
     card.classList.remove('is-active');
-    const anyActive = document.querySelector('.step-card.is-active');
-    if (!anyActive) {
-      TextEffects.reset();
+    const sectionId = card.dataset.sectionId;
+    const sectionEl = sectionId ? document.getElementById(sectionId) : null;
+    // If no other card in this section is still active, clear that section's
+    // highlights so the verse returns to its un-dimmed full reading.
+    const anyActiveInSection = sectionEl
+      ? sectionEl.querySelector('.step-card.is-active')
+      : document.querySelector('.step-card.is-active');
+    if (!anyActiveInSection) {
+      TextEffects.reset(true, sectionEl);
     }
   }
 

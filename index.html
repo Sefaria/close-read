@@ -3,6 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Disable HTTP caching during local dev — python3 -m http.server doesn't
+       send Cache-Control headers, and the browser hangs onto stale JS/CSS. -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
   <title>Close Read</title>
 
   <!-- Fonts -->
@@ -11,7 +16,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
   <!-- Styles -->
-  <link rel="stylesheet" href="css/close-read.css?v=3">
+  <link rel="stylesheet" href="css/close-read.css?v=1779921329">
 </head>
 <body>
 
@@ -35,8 +40,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
 
   <!-- App -->
-  <script src="js/text-effects.js?v=3"></script>
-  <script src="js/engine.js?v=3"></script>
+  <script src="js/text-effects.js?v=1779921329"></script>
+  <script src="js/engine.js?v=1779921643"></script>
 
 </body>
 </html>

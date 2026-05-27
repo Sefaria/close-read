@@ -1,0 +1,198 @@
+{
+  "sheet_id": 160477,
+  "year_g": "1968",
+  "year_he": "תשכ״ח",
+  "title": "פרשת נשא תשכ\"ח - גזל הגר",
+  "sefaria_url": "https://www.sefaria.org/sheets/160477",
+  "sections": [
+    {
+      "letter": "א",
+      "label": "א. \"למעול מעל בה'\"",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Rashi on Numbers 5:6:1",
+          "he": "ד\"ה למעול מעל בה': הרי חזר וכתב כאן פרשת גוזל ונשבע על שקר היא האמורה בפרשת ויקרא (ה' כ'-כ\"ו) \"ומעלה מעל בה' וכחש בעמיתו...\" ונשנית כאן בשביל שני דברים שנתחדשו בה: האחד שכתב \"והתודו\", לימד שאינו חייב חומש ואשם על פי עדים עד שיודה בדבר, והשני על גזל הגר שהוא נתון לכהנים.",
+          "en": "למעל מעל בה׳ [WHEN A MAN OR WOMAN SHALL DO ANY OF THE SINS AGAINST MAN,] TO ACT DECEITFULLY AGAINST THE LORD — Here, you see, Scripture writes down again the section dealing with a person who robs by violence from another, and swears falsely regarding it, — it is the same section that has already been stated in the Sedrah ויקרא (Lev 5:21), “[If a soul sin], and commits a trespass against the Lord, and deny unto his neighbour etc.” The reason why it is repeated here is because of two new points which are contained in it. The one is that it (Scripture) writes here, “and if they confess” which teaches that one is not liable to payment of the fifth (in addition to the capital; cf. Leviticus 5:24), nor to bring a guilt offering (cf. Leviticus 5:25) if he is convicted by the evidence of witnesses, but only when he himself confesses the matter (his guilt). The second new point is about something stolen from a proselyte (cf. Rashi on v. 8) — that it has to be handed over to the priests (cf. Sifrei Bamidbar 2)."
+        }
+      ],
+      "questions": [
+        "1. הסבר מהו ההגיון הפנימי שאם באו עדים והוכח בבית דין שגזל ונשבע לשקר אינו משלם אלא את הקרן בלבד, ואילו אם הודה מעצמו ומרצונו לחזור בתשובה, ישלם גם את הקרן וגם חומש.",
+        "2.  מה רמז מצאו בפרשתנו שידובר בה על מי שגזל גר?"
+      ]
+    },
+    {
+      "letter": "ב",
+      "label": "ב. בדין תוספת חומש",
+      "prose": [
+        "רמב\"ם, הלכות גזלה ואבידה, פרק ז':\nהלכה א': כל מי שנתחייב ממון לחברו הישראלי וכפר בו ונשבע על שקר, הרי זה חייב להחזיר לו הקרן שכפר בו והוספת חומש וחייב בקרבן, והוא הנקרא אשם גזלות.",
+        "רמב\"ם, הלכות גזלה ואבידה, פרק ז':\nהלכה ח': אין הנשבע על כפירת ממון משלם חומש עד שיודה מעצמו, אבל אם באו עדים והוא עומד בכפירתו משלם הקרן בלבד על פי עדים ואינו משלם חומש...",
+        "רמב\"ם, הלכות גזלה ואבידה, פרק ז':\nהלכה י\"ב: המחזיר את הקרן לבעלים וכפר פעם שניה בחומש ונשבע עליו נעשה החומש כקרן לכל דבר ומשלם עליו חומש אחר, שנאמר (ויקרא ה' כ\"ד) וחמישיתיו יוסף עליו. מלמד שהוא מוסיף חומש על חומש עד שיתמעט החומש שיכפור בו ונשבע עליו משוה פרוטה."
+      ],
+      "sources": [
+        {
+          "ref": "Ibn Ezra on Numbers 5:7:3",
+          "he": "ד\"ה וחמישיתו יוסיף עליו: אם הוא מתודה מעצמו, ואם יש עדים עליו יוסיף שני חמישיות. ומעתיקי הדת אמרו: חומש החומש; ודעתם רחבה מדעתנו.",
+          "en": "And add one fifth to that amount. If he confesses on his own. If there are witnesses, he must add two fifths (Vayikro 5:24: “And an additional fifth”). Our Sages said, though, he must bring an additional fifth of that fifth, or a twenty-fifth."
+        }
+      ],
+      "questions": [
+        "1. היכן מצאו חז\"ל רמז בפסוקים למה שמביא הרמב\"ם בהלכה ח'?",
+        "2. היכן מצא הראב\"ע רמז לדעתו, שאם יודה מעצמו ישלם חומש אחד ואם יבואו עדים ויעידו בו יחייבוהו להוסיף שתי חמישיות?",
+        "3. הסבר את הביטויים המסומנים בקו בדברי הראב\"ע!"
+      ]
+    },
+    {
+      "letter": "ג",
+      "label": "ג. \"מכל חטאת האדם...\"",
+      "prose": [
+        "כלי יקר, (ויקרא שם):\nפירש רש\"י \"כשיכיר בעצמו לשוב בתשובה וכו'...\" כי כל חוטא לעולם לא ישים אשם נפשו, ודרך איש ישר בעיניו, כי הוא מורה לעצמו היתר בכל דרכיו לומר שזה חייב לו ממקום אחר לפי דמיונו, או נדמה לו כי עשה לו איזה עול, על כן הוא מעכב פקדונו, לפיכך: ביום שישים אשם בנפשו ויכיר טעותו וכי לא טוב עשה..."
+      ],
+      "sources": [
+        {
+          "ref": "Numbers 5:6",
+          "he": "\"כִּי יַעֲשׂוּ מִכָּל חַטֹּאת הָאָדָם לִמְעֹל מַעַל בַּה' וְאָשְׁמָה הַנֶּפֶשׁ הַהִוא\"",
+          "en": "Speak unto the children of Israel: When a man or woman shall commit any sin that men commit, to commit a trespass against the LORD, and that soul be guilty;"
+        },
+        {
+          "ref": "Rashi on Leviticus 5:23:1",
+          "he": "ד\"ה כי יחטא ואשם: כשיכיר בעצמו לשוב בתשובה ולדעת ולהודות כי חטא ואשם.",
+          "en": "יחטא ואשם‎‎ כי‎ means when he comes to a recognition of himself (recognises his duty) to repent of his sin and makes up his mind to confess that he has sinned and has incurred guilt)."
+        },
+        {
+          "ref": "Ramban on Numbers 5:6:1",
+          "he": "ד\"ה מכל חטאת האדם: ...מכל מה שיחטא איש באיש וכחש בעמיתו, ואמר \"למעול מעל בה'\" שישבע בשמו לשקר ויאשם לפניו...",
+          "en": ""
+        },
+        {
+          "ref": "Leviticus 5:5",
+          "he": "\"וְהָיָה כִי יֶאְשַׁם לְאַחַת מֵאֵלֶּה וְהִתְוַדָּה אֲשֶׁר חָטָא עָלֶיהָ\"",
+          "en": "and it shall be, when he shall be guilty in one of these things, that he shall confess that wherein he hath sinned;"
+        },
+        {
+          "ref": "Leviticus 4:13",
+          "he": "\"וְאִם כָּל עֲדַת יִשְׂרָאֵל יִשְׁגּוּ וְנֶעְלַם דָּבָר מֵעֵינֵי הַקָּהָל וְעָשׂוּ אַחַת מִכָּל מִצְו‍ֹת ה' אֲשֶׁר לֹא תֵעָשֶׂינָה וְאָשֵׁמוּ\"",
+          "en": "And if the whole congregation of Israel shall err, the thing being hid from the eyes of the assembly, and do any of the things which the LORD hath commanded not to be done, and are guilty:"
+        },
+        {
+          "ref": "Zechariah 11:5",
+          "he": "\"אֲשֶׁר קֹנֵיהֶן יַהַרְגֻן וְלֹא יֶאְשָׁמוּ וּמֹכְרֵיהֶן יֹאמַר בָּרוּךְ ה' וַאעְשִׁר וְרֹעֵיהֶם לֹא יַחְמוֹל עֲלֵיהֶן\"",
+          "en": "whose buyers slay them, and hold themselves not guilty; and they that sell them say: Blessed be the LORD, for I am rich; and their own shepherds pity them not."
+        }
+      ],
+      "questions": [
+        "1. מה ההבדל בין שתי הדעות שנאמרו לעיל?",
+        "2. מהי מעלתו של פירוש רש\"י כאן?",
+        "3. מה בין הוראת פועל \"אשם\" בפסוק ו' לבין הוראתו בפסוק ז'?",
+        "השווה לפסוקנו את שלושת הפסוקים הבאים:",
+        "האם פירוש \"אשם\" באחד מן הפסוקים האלה הוא כהוראתו בפסוקנו על פי פירוש רש\"י כאן?"
+      ]
+    },
+    {
+      "letter": "ד",
+      "label": "ד. תפקידי הוא\"ו",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 5:6",
+          "he": "\"לִמְעֹל מַעַל בַּה' וְאָשְׁמָה הַנֶּפֶשׁ הַהִוא\"",
+          "en": "Speak unto the children of Israel: When a man or woman shall commit any sin that men commit, to commit a trespass against the LORD, and that soul be guilty;"
+        },
+        {
+          "ref": "Numbers 5:7",
+          "he": "\"וְהִתְוַדּוּ אֶת חַטָּאתָם אֲשֶׁר עָשׂוּ וְהֵשִׁיב אֶת אֲשָׁמוֹ\"",
+          "en": "then they shall confess their sin which they have done; and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty."
+        }
+      ],
+      "questions": [
+        "האם הוראת הו' שבפסוק ו' ('ואשמה') כהוראת הו' של ראשית פסוק ז' ('והתוודו') וכהוראת הו' של המשך פסוק ז' ('והשיב')? האם לפנינו הוראה אחת או שתים או שלוש הוראות שונות לואוי\"ן הללו?"
+      ]
+    },
+    {
+      "letter": "ה",
+      "label": "ה. בין עונש הגנב לעונש הגזלן",
+      "prose": [
+        "מורה נבוכים מאמר ג' פרק מ\"א:\nואמנם היות הגזלן לא יחוייב לשלם דבר נוסף על צד הקנס, שהחומש אינו רק לכפרה על שבועת השקר, אבל על גזלתו אינו מוסיף כלום, הוא... שהגנבה אפשר בדברים הגלויים ובדברים המוצנעים והגזל אי אפשר אלא בנגלה. \nואפשר לאדם להשמר מן הגזלן ולעמוד כנגדו ואי אפשר כן עם הגנב. \nועוד: שהגזלן ידוע ויבוקש וישתדלו להוציא מידו מה שלקח, והגנב אינו ידוע. \nומפני אלו הסבות כולם חייבו הגנב קנס ולא חייבו הגזלן קנס.",
+        "הרמב\"ם מוצא עוד סיבה להבדל זה ע\"פ הבדל החיוב שהטילה התורה בין גונב בקר ובין גונב צאן (שמות כ\"א ל\"ז): \"...חמשה בקר ישלם תחת השור וארבע צאן תחת השה.\" הסבר מה היא הסיבה הנוספת להבדל זה בין עונש הגנב לעונש הגזלן."
+      ],
+      "sources": [
+        {
+          "ref": "Numbers 5:7",
+          "he": "\"וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ\"",
+          "en": "then they shall confess their sin which they have done; and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty."
+        },
+        {
+          "ref": "Rashi on Numbers 5:7:1",
+          "he": "הוא הקרן שנשבע עליו.",
+          "en": "את אשמו בראשו [HE SHALL RESTORE] THAT WHEREIN HE IS GUILTY, AS BEING THE CHIEF SUM — This means, he shall restore the principal about which he has sworn falsely (Bava Kamma 110a)."
+        },
+        {
+          "ref": "Leviticus 5:24",
+          "he": "\"וְשִׁלַּם אֹתוֹ בְּרֹאשׁוֹ\"",
+          "en": "or any thing about which he hath sworn falsely, he shall even restore it in full, and shall add the fifth part more thereto; unto him to whom it appertaineth shall he give it, in the day of his being guilty."
+        },
+        {
+          "ref": "Ibn Ezra on Leviticus 5:24:1",
+          "he": "ד\"ה בראשו: בעצמו או מה שהוא שוה. רבים הקשו למה לא יחוייב הגזלן לשלם אף הוא כפל כשם שנתחייב הגנב?",
+          "en": "or whatever he swore falsely about . The principal denotes either the thing itself, or its equivalent in value."
+        }
+      ],
+      "questions": [
+        "הרמב\"ם, נותן לזה שלוש סיבות והנה שתיים מהן:"
+      ]
+    },
+    {
+      "letter": "ו",
+      "label": "ו. מדברי המדרש",
+      "prose": [],
+      "sources": [
+        {
+          "ref": "Numbers 5:7",
+          "he": "\"וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו\"",
+          "en": "then they shall confess their sin which they have done; and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty."
+        },
+        {
+          "ref": "Malbim on Numbers 5:7:2",
+          "he": "...הוה אמינא שאינו מוסיף חמש רק אם אין הגזלה בעין ומשלם דמים, אבל כשמשיב הגזלה עצמה אינו מוסיף חמש?)",
+          "en": ""
+        },
+        {
+          "ref": "Malbim on Numbers 5:7:2",
+          "he": "ת\"ל: \"והשיב את אשמו בראשו וחמישתו יוסף עליו\".",
+          "en": ""
+        }
+      ],
+      "questions": [
+        "ספרי כ\"א:\n\"והשיב את אשמו בראשו\" – למה נאמר? לפי שהוא אומר (ויקרא ה') \"ושלם אותו בראשו\" אין לי אלא דמים, עיקר מניין?",
+        "הסבר לפי דברי הספרי הנ\"ל מהו ההבדל בין \"והשיב את אשמו בראשו\" שבפסוקנו ובין \"ושלם אותו בראשו\" שבויקרא ה' כ\"ד."
+      ]
+    },
+    {
+      "letter": "ז",
+      "label": "ז. \"וחמישתו\" - מלגו או מלבר",
+      "prose": [
+        "מלבי\"ם, (ולספרא שם):\nיש הבדל בין המספר הסידורי: \"שלישי, רביעי, חמשי\", ובין המספר החלקי: \"שלישית, רביעית, חמשית\", שבמספר הסידורי יהיה הנמנה רביעי או חמשי חוץ להמנוי קודם לו, ובמספר החלקי הוא בתוך המנין השלם וחלק ממנו – \"מלגיו\". \"יום שלישי\", \"השנה הרביעית\" הוא אחר הקודם, אבל \"רביעית ההין\", \"עשירית האיפה\" היא מלגיו. \nועל כן דעת ר' יונתן (בבא מציעא נ\"ד), שגם פה החומש הוא מלגיו, ופירוש \"חמשיתו\" – חמשית הקרן, דומה כמו \"מחציתו\" או (יחזקאל ה') \"שלישיתו באש תבעיר\". \nאבל הספרא אתיא כר' יאשיה, וסבירא ליה שיהיה הוא וחומשו חמשה (היינו \"מלבר\"). ועם העיון בכתוב דקדק כהלכה, כי..."
+      ],
+      "sources": [
+        {
+          "ref": "Numbers 5:7",
+          "he": "\"וְהֵשִׁיב אֶת אֲשָׁמוֹ בְּרֹאשׁוֹ וַחֲמִישִׁתוֹ יֹסֵף עָלָיו\"",
+          "en": "then they shall confess their sin which they have done; and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty."
+        },
+        {
+          "ref": "Bava Metzia 54a:3-4",
+          "he": "(ויקרא כ\"ז י\"ג) \"ויסף חמשתו עליו\" – שיהא הוא וחומשו – חמשה, דברי ר' יאשיה. (רש\"י ד\"ה הוא וחומשו – חמשה: היינו חומש מלבר, שהוא רביע הקרן). ר' יונתן אומר: \"חמשתו\" – חומשו של קרן אבעיא להו.",
+          "en": "The Gemara comments: The two sides of this dilemma are parallel to a dispute between tanna’im, as it is taught in a baraita that it is written: “And shall add unto it one-fifth part thereof” (Leviticus 27:27). This means that the item and its additional one-fifth payment will total five parts; one-fifth is calculated from without; this is the statement of Rabbi Yoshiya. Rabbi Yonatan says: Its one-fifth means one-fifth of the principal; one-fifth is calculated from within. § A dilemma was raised before the Sages: Does failure to pay the additional one-fifth prevent consumption outside of Jerusalem of second tithe that was redeemed, or does it not prevent consumption? The dilemma is: Is second-tithe produce worth four dinars redeemed with four dinars, and the obligation to add the payment of one-fifth is an obligation incumbent upon the owner himself? In that case, apparently, failure to pay the additional one-fifth does not prevent consumption. Or perhaps second-tithe produce worth four dinars is redeemed with five dinars, no less, and failure to pay the additional one-fifth prevents consumption."
+        },
+        {
+          "ref": "Leviticus 5:16",
+          "he": "\"ואת חמישתו יוסף עליו\" – שיהא הוא וחומשו חמשה.",
+          "en": "And he shall make restitution for that which he hath done amiss in the holy thing, and shall add the fifth part thereto, and give it unto the priest; and the priest shall make atonement for him with the ram of the guilt-offering, and he shall be forgiven."
+        }
+      ],
+      "questions": [
+        "התוכל להסביר במה נראית דעת ר' יאשיה מדוקדקת יותר על פי לשון הכתוב בפסוקנו?"
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 [
-{
-    "slug": "nasso-skeleton",
+  {
+    "slug": "nasso",
     "title": { "he": "פרשת נשא", "en": "Parshat Nasso — A Garden of Forking Paths" },
-    "author": { "he": "נחמה ליבוביץ (ועורכים)", "en": "Nechama Leibowitz (distilled)" },
-    "description": "Experimental branching reader: choose a theme, then a sub-deep-dive. Skeleton — most leaves to be written."
+    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
+    "description": "Twenty-eight gilyonot, four themes, thirty years of return. Choose a theme, choose her angle, walk the sheet."
   },
   {
     "slug": "cain-abel-birth-records",
@@ -40,5 +40,11 @@
     "title": { "en": "Avtalyon: The Evil Waters" },
     "author": { "en": "Avtalyon (and his readers)" },
     "description": "A guided close reading of Pirkei Avot 1:11 — oldest layers to modern voices"
+  },
+  {
+    "slug": "examples/nasso-skeleton",
+    "title": { "en": "Parshat Nasso (engine prototype skeleton)" },
+    "author": { "en": "Close Read engine prototype" },
+    "description": "The original branching skeleton that shipped the Garden of Forking Paths engine feature. Kept as reference."
   }
 ]
