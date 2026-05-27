@@ -499,7 +499,6 @@ body {
 .word-group.glow {
   background: var(--color-accent-soft);
   border-bottom: 2px solid var(--color-accent);
-  font-weight: 500;
 }
 
 .word-group.pulse {
