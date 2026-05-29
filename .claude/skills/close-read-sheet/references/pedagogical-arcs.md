@@ -85,107 +85,17 @@ Topic mode has the most design freedom. Use `AskUserQuestion` to confirm shape (
 
 ## Mode 4 — Nechama parsha (weekly)
 
-Use when the user gives a parsha name and asks for "Nechama on Parshat X" — a
-multi-decade rendering of Nechama Leibowitz's actual gilyonot for that parsha.
+A multi-decade rendering of Nechama Leibowitz's actual gilyonot for one parsha, as a
+branching garden. This has graduated into its **own dedicated skill** — see
+[`nechama-parsha`](../../nechama-parsha/SKILL.md). Invoke that skill when the user asks
+to "build the Nechama flow for [parsha]", "do this week's parsha", "Nechama on [parsha]",
+or similar.
 
-### Two artifacts per parsha
-
-This mode produces both a **research pack** (markdown) and the **Close Read** (JSON).
-The pack is the source of truth; every claim about Nechama in the JSON traces back to it.
-
-- `research/parshiyot/<parsha>.md` — inventory + design proposal + per-leaf source notes
-- `data/<parsha>.json` — the rendered close-read
-
-### Source
-
-Nechama's sheets are on Sefaria as user **54380**.
-
-- Full sheet listing: `https://www.sefaria.org/api/sheets/user/54380` (needs `User-Agent` header)
-- Filter to one parsha client-side: `topics[].slug == "parashat-<name>"`
-- One sheet's full body: `https://www.sefaria.org/api/sheets/<id>` — returns ordered `sources[]`,
-  each either an `outsideText` (her prose/section-header/question) or has a `ref` + `text`
-  (a source she chose: verse, Rashi, midrash, etc.)
-
-Her sheets are internally organized as **Hebrew-letter sections** (`א.`, `ב.`, `ג.` …),
-each containing 1–N sources she chose, prose framing, and numbered questions she asks.
-
-### Workflow (stages)
-
-**Stage 1 — Inventory** (~30 min). Fetch all her sheets for the parsha. For each: year (Hebrew
-& Gregorian), sheet ID, sub-topic, and her internal section labels. Cluster by theme. Note
-conspicuous absences (parsha-topics she didn't write on). File into `research/parshiyot/<parsha>.md`.
-
-**Stage 2 — Design** (~20 min). Pick **4–6 themes** for Level 0 and **2–4 of her gilyonot per
-theme** for Level 1 (selection criterion: temporal spread across her career + interpretive
-contrast). Present the outline. **Stop and confirm with the user before harvesting.**
-
-**Stage 3 — Source harvest** (~2 hr). For each chosen sheet, parse the cached `/api/sheets/<id>`
-response into structured per-leaf data: section labels, the sources she chose, her questions.
-Save under `research/parshiyot/<parsha>-harvest/<theme>/<year>.json`. Verse texts for each
-theme's `primaryText` come from Sefaria MCP `get_text` against the `Miqra according to the
-Masorah` version — cleaned with the standard cantillation strip *and* maqaf→space (the repo's
-convention; see existing data files).
-
-**Stage 4 — Draft the JSON** (~3 hr). Build the file as overview → root-fork → per-theme (intro
-→ theme-fork → leaves). Each leaf renders one gilayon: 1–2 opening narration cards (year + her
-framing), **3 of her cruxes** (not all — pick the pedagogically rich ones), each crux =
-narration setting up the question → her chosen commentary card(s) → a `question` card using
-the `questionLabel: "Nechama asks"` feature in the title block. Closing question.
-
-**Stage 5 — Validate + ship** (~30 min). JSON parse check, word-group validation script from
-hard-rules.md, browser verify all leaves reachable via path forks. Add to `data/index.json`.
-
-### Structural rules
-
-- **Trim `primaryText` to verses the leaves actually anchor on.** A theme's verse
-  range might be Num 6:1–21 in principle, but if the leaves only reference verses
-  2, 5, 7, 11, only those should be in the panel. Join skipped verses with `…` in
-  both `he` and `en`. Set `ref` to the actual range you ship (e.g. `Numbers 6:1-3, 5, 7, 11`)
-  so the citation chip tells the truth. Long passages overflow the sticky panel
-  even with cqi font scaling — trimming is the cure, not bigger fonts.
-- **Each leaf has its own section ID** like `<theme>-<year>` (e.g. `gezel-1944`). The Level-1
-  fork's branches set `target: <theme>-<year>` and `id: <theme>-<year-prefix>` (e.g. `g-1944`).
-- **Leaves within a theme share `primaryText`** (same `ref` and `he`) so the engine collapses
-  them into one sticky panel. Define the theme's `words` map once, in a Python dict reused
-  across all leaves in that theme (the build script in `/tmp/nechama/build_nasso.py` from
-  the Nasso build shows the pattern).
-- **Narrator's role narrows.** The narrator names the gilayon (year), names her question,
-  names the commentator about to speak — and gets out of the way. No moralizing. No paraphrase
-  of what the commentary is about to say.
-- **Source label is bilingual when the commentator has a Hebrew name** (`{he: "רש\"י", en: "Rashi"}`).
-  English-only is fine for modern voices (`{en: "R. Samson Raphael Hirsch"}`).
-- **`Nechama Leibowitz` is a registered source token** with its own CSS color (teal, `--color-nechama`).
-  Use her as `source` only when the card actually quotes her own writing (Iyunim, an essay
-  passage). Her *questions* go in `question` cards using the title-block's `questionLabel`,
-  not as commentary cards.
-
-### Selection heuristic for which gilyonot become leaves
-
-Not every sheet becomes a leaf. Aim for **3 leaves per theme** (4 for a topic she returned
-to particularly heavily, like Korban HaNesi'im on Nasso). Criteria:
-
-1. **Temporal spread.** Early (her first decade) + middle (her mature period) + late (her
-   final years). The reader feels her returning across decades.
-2. **Interpretive contrast.** Two sheets that ask the same question are redundant. Pick sheets
-   that *shift the angle* — the early dispute, the mature framing, the late synthesis.
-3. **Density.** At least one sheet per theme should have ≥4 cruxes (so the leaf renders rich).
-   Single-section "essay" sheets work as the late-period leaf.
-
-### Selection heuristic for which cruxes (within a sheet) become cards
-
-Each sheet has 3–11 cruxes. Render **3 of them per leaf** (not all).
-
-- Prefer cruxes where she pits two commentators against each other.
-- Prefer cruxes where her question is sharp and the verse-fragment is highlightable.
-- Skip technical-grammar cruxes (e.g. "why hifil and not piel") unless the grammar is the
-  pedagogical point.
-- Pick cruxes that *cohere* — three different angles on a single thread, not three random shots.
-
-### Canonical example
-
-`data/nasso.json` is the worked example: 4 themes, 13 leaves, 158 step cards.
-Research pack: [research/parshiyot/nasso.md](../../../research/parshiyot/nasso.md).
-Build script template: `/tmp/nechama/build_nasso.py` from that build session.
+In brief: inventory her sheets (Sefaria user 54380) → cluster into themes (Level 0) →
+pick dated gilyonot per theme (Level 1) → render each sheet faithfully as a leaf. Two
+artifacts: a research pack (`research/parshiyot/<parsha>.md`) and `data/<parsha>.json`.
+The worked example is `data/nasso.json`. The editorial guidance (voice, source density,
+faithfulness) and the quality/error discipline live in that skill's `references/`.
 
 ---
 
