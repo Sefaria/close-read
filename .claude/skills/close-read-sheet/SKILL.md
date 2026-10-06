@@ -42,7 +42,7 @@ Canonical examples to imitate (read at least one before drafting):
 
 ### Phase 1 — Fetch source material
 
-Use the Sefaria MCP tools (`get_text`, `get_links_between_texts`, `get_topic_details`, `get_english_translations`, `text_search`). For source sheets the MCP may not have a direct tool — fall back to `WebFetch` against `https://www.sefaria.org/api/sheets/<id>`.
+Use the Sefaria MCP tools (`get_text`, `get_links_between_texts`, `get_topic_details`, `get_english_translations`, `text_search`). For source sheets the MCP may not have a direct tool. Fall back to `curl -sL -A "Sefaria/close-read" https://www.sefaria.org/api/sheets/<id>`, or Python `urllib` with the same header, rather than `WebFetch`, whose User-Agent we don't control. `Sefaria/<service>` is the in-house User-Agent convention. Never send a bare `Mozilla/5.0`: Cloudflare challenges it with a 403.
 
 What to grab depends on the input mode:
 
