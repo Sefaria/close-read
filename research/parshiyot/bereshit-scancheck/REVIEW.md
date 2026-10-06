@@ -10,13 +10,3 @@ files, which cite page and strip.
 Differences already settled by evidence (an independent text, a zoomed reading, her own
 recurring wording) are recorded with their reason in `triage.json` and are not listed here.
 
-## 1953 (תשי"ג) · sheet 161223 · garden
-Scan check: `bereshit-scancheck/161223-1953.md`
-
-- §ד **missing from the digitization**: «(בסוף דברי רמב"ן אלה נפלה טעות דפוס בחומשים שלנו וצריך להגיה: "ולא מצא כנגדו בדרך "נשי למך"... וכן הגיה בעל כור הזהב.)»  (bereshit-scancheck/161223-1953.md:91,107)
-
-## 1950 (תש"י) · sheet 161438 · flood
-Scan check: `bereshit-scancheck/161438-1950.md`
-
-- §ב [23] **open, to settle when drafting**: which Ibn Ezra passage (her start point «והטעם כאשר אמרו חכמינו», verse כ"[?]): check the Ibn Ezra text when drafting 1950 §ב
-

@@ -31,6 +31,11 @@ Source-of-truth artifacts for Close Read sheets, especially Mode 4 (Nechama pars
   - `harvest_bereshit.py` — Stage 3: per-leaf data from the raw snapshot + scan checks +
     `overrides.json` + `triage.json` (+ a verified transcription where the digitization lost her
     questions) → `parshiyot/bereshit-harvest/`, plus the generated `bereshit-scancheck/REVIEW.md`.
+  - `bereshit_lib.py` — Stage 4 helpers: harvest access, verbatim `cut()`, card builders
+    with `cite`/`en_basis`, verse panels by bare letters, Leningrad folio panels.
+  - `bereshit_leaves/<theme>.py` — one `leaf_<year>()` per gilayon.
+  - `check_leaves.py <theme> [year]` — run the real data and provenance tests on one theme in
+    memory.
   - `build_bereshit.py` — Stage 4: the sheet JSON. Her Hebrew is sliced from the harvest, never
     typed; every quoted card carries `cite`/`en_basis`, checked by `tests/test_provenance.py`.
   - `pull_headers.py` — (Nasso-era) fetch all sheets in a parsha and extract their section labels

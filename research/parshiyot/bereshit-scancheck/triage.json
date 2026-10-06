@@ -364,8 +364,8 @@
   {
    "sheet": 161438,
    "i": 23,
-   "use": "open",
-   "why": "which Ibn Ezra passage (her start point «והטעם כאשר אמרו חכמינו», verse כ\"[?]): check the Ibn Ezra text when drafting 1950 §ב"
+   "use": "scan",
+   "why": "settled by the flood drafter: her start phrase «והטעם כאשר אמרו חכמינו» occurs once in Sefaria's Ibn Ezra on Genesis 4 (Piotrkow, with חז\"ל for חכמינו), in the comment on 4:23; the unreadable verse number is כ\"ג and the digitizer's «כ\"א» a misreading. Item [23] is a label; the Ibn Ezra is quoted from [24] at her start phrase"
   },
   {
    "sheet": 161141,
@@ -414,6 +414,12 @@
    "i": 14,
    "use": "form",
    "why": "her citation placement «ג' ג':» before the quote and the closing «?» (scan check §ב)"
+  },
+  {
+   "sheet": 161223,
+   "i": "after 24.2",
+   "use": "scan",
+   "why": "her own note, read clearly (no doubtful letters) by the 1953 scan checker (161223-1953.md:91); the printed Ramban on 2:20 on Sefaria has the reading she calls a misprint"
   }
  ]
 }

@@ -1,6 +1,6 @@
 ---
 name: nechama-parsha
-description: Build a weekly Parsha flow — a branching Close Read scrollytelling sheet grown from Nechama Leibowitz's actual gilyonot on Sefaria. Use whenever the user asks to "build the Nechama flow for [parsha]", "do this week's parsha", "Nechama on [parsha]", "make the [parsha] garden", "build the weekly parsha", or similar. Produces a research pack (audit trail) and a data/<parsha>.json that runs on the forking-paths engine. This is the repeatable weekly cycle; the worked example is data/nasso.json.
+description: Build a weekly Parsha flow — a branching Close Read scrollytelling sheet grown from Nechama Leibowitz's actual gilyonot on Sefaria. Use whenever the user asks to "build the Nechama flow for [parsha]", "do this week's parsha", "Nechama on [parsha]", "make the [parsha] garden", "build the weekly parsha", or similar. Produces a research pack (audit trail) and a data/<parsha>.json that runs on the forking-paths engine. This is the repeatable weekly cycle; the worked example is data/bereshit.json (built with the scan-checked, quote-don't-type pipeline).
 ---
 
 # nechama-parsha: build a weekly Parsha flow
@@ -44,8 +44,13 @@ Two artifacts per parsha, and the JSON cites the pack:
   — the engine mechanics (Hebrew cleaning, word-group constraints, source colors). Don't
   re-derive these; they're shared with the general close-read-sheet skill.
 
-The canonical worked example is `data/nasso.json` + `research/parshiyot/nasso.md`. Read
-the Nasso pack before building a new parsha — it shows the target shape.
+The canonical worked example is **Bereshit**: `data/bereshit.json`, the pack
+`research/parshiyot/bereshit.md`, the scan checks in `bereshit-scancheck/`, and the leaf
+trails in `bereshit-leaves/`. Read the pack's §2 (how Sefaria's digitization departs from her
+scans) and `bereshit-leaves/BRIEF.md` (the drafting rules) before building a new parsha.
+**Don't copy Nasso.** It predates this pipeline, and some of its question cards are English
+paraphrases rather than her questions, which is exactly the fabrication this pipeline exists
+to prevent.
 
 ## The source
 
@@ -70,50 +75,64 @@ That internal structure is the raw material for a leaf.
 
 ## Workflow (five stages)
 
-### Stage 1 — Inventory (~30 min)
+The rule underneath every stage is that **her Hebrew is never typed**. It's sliced from text
+that has been checked against her original scans, and a test proves it.
 
-Fetch every sheet for the parsha. For each: year (Hebrew + Gregorian), sheet ID,
-sub-topic, and her internal section labels (`pull_headers.py` in `research/scripts/`
-does this). Cluster by theme. Note conspicuous **absences** — topics in the parsha she
-*didn't* write on are themselves a finding worth a card. File all of it into
-`research/parshiyot/<parsha>.md`.
+### Stage 1 — Snapshot and survey
 
-### Stage 2 — Design, then STOP and confirm (~20 min)
+- `research/scripts/snapshot_parsha.py <parsha> <topic-slug>` freezes every sheet into
+  `parshiyot/<parsha>-raw/`, with sha256s. Verify the snapshot against the live API and
+  record that in `verification.json`.
+- `survey_parsha.py <parsha> <Book> <span>` writes `<parsha>-survey.{json,md}`: every item
+  with its `[i]`, a summary table, verse coverage, and a year check.
+- Write the pack (`parshiyot/<parsha>.md`): provenance, inventory, tentative clusters, and
+  absences. Absences are only *candidates* until the scans confirm them.
 
-Pick **4–6 themes** for Level 0 and **2–4 of her gilyonot per theme** for Level 1.
-Selection criteria: temporal spread (early / mid / late, so the reader feels her
-returning across decades) + interpretive contrast (don't pick two sheets that ask the
-same question). At least one sheet per theme should be multi-crux dense.
+### Stage 2 — Design, then STOP and confirm
 
-**Present the outline and wait for the user before harvesting.** This is the cheap
-checkpoint — re-scoping after 5 hours of drafting is not.
+Pick 4–6 themes and 3 gilyonot per theme, with temporal spread and interpretive contrast,
+and list the sections each leaf renders. **Present the outline and wait for the user.**
+Leningrad images (`mode: image`) only where the page layout is itself the evidence, once
+or twice per parsha.
 
-### Stage 3 — Source harvest (~2 hr)
+### Stage 3 — Scan check, triage, harvest
 
-For each chosen sheet, parse `/api/sheets/<id>` into structured per-leaf data
-(`harvest.py`): section labels, the sources she chose, her questions. Save under
-`research/parshiyot/<parsha>-harvest/<theme>/<year>.json`. Pull verse texts for each
-theme's `primaryText` via Sefaria MCP `get_text` against `Miqra according to the
-Masorah`, clean with `clean_verses.py` (cantillation strip + maqaf→space).
+- **Scan check.** For every chosen section, check the digitization against her scan
+  (`https://www.nechama.org.il/pdf/<n>.pdf`, every page; most are two). Method, format and
+  calibration are in `bereshit-scancheck/README.md`. It's verification, not
+  transcription. Spot-check one finding per checker yourself.
+- **Transcribe** any sheet whose digitization lost her questions, and have a person verify
+  the part you'll use.
+- **Triage.** Settle every word-level difference with evidence in `triage.json`. The cited
+  source usually decides it: a reference she gives, or the commentator's own text.
+  Citation detail the digitizers *added* is editorial, not an error (Lev).
+- **Harvest.** `harvest_<parsha>.py` (copy `harvest_bereshit.py`), plus `overrides.json` for
+  items the digitization lost. `REVIEW.md` must be empty before drafting.
+- **Verses.** `fetch_verses.py` caches MAM Hebrew and JPS English, with footnotes and
+  variant notes stripped.
 
-### Stage 4 — Draft the JSON (~3 hr)
+### Stage 4 — Draft
 
-Build `data/<parsha>.json` as: overview → root-fork → per-theme (intro → theme-fork →
-leaves). Each leaf renders one gilayon. Use the `build_<parsha>.py` script pattern
-(copy `build_nasso.py`) so the file is reproducible and easy to iterate. The *how* —
-card sequence, narration voice, how many cruxes — is all in
-[references/voice-and-fidelity.md](references/voice-and-fidelity.md).
+- Leaves go in `research/scripts/<parsha>_leaves/<theme>.py`, with helpers in
+  `bereshit_lib.py`. Cards quote harvest items by `cite`, slices are verbatim, and verse
+  word groups are found by their bare letters.
+- Follow `bereshit-leaves/BRIEF.md` and
+  [references/voice-and-fidelity.md](references/voice-and-fidelity.md). **The reader
+  experiences the content, not her sheet**: no narration about how her sheet is built.
+- Check one theme in isolation with `check_leaves.py <theme>`. Each theme's paper trail goes
+  in `<parsha>-leaves/<theme>.md`.
+- Assemble with `build_<parsha>.py`.
 
-### Stage 5 — Validate & ship (~30 min)
+### Stage 5 — Validate & ship
 
-Run the extended validation script, browser-verify every leaf, then commit. The full
-checklist (and the bugs that taught us each item) is in
-[references/quality-and-errors.md](references/quality-and-errors.md). Do not skip it —
-this is where silent failures (un-highlighted phrases, overflowing panels, wrong-panel
-dimming) get caught.
+- Run `python3 -m pytest`. It includes `test_provenance.py`, and the render suite walks
+  every path at desktop and phone sizes.
+- Take Playwright screenshots of the hard cards: images, comparisons, LTR quotes.
+- Bump the asset `?v=` strings, then open the PR. See
+  [references/quality-and-errors.md](references/quality-and-errors.md).
 
 ## Cadence
 
-One parsha per week, ~6 hours of focused work at this depth. The `research/scripts/`
-are templates: a new parsha needs its slug, its chosen sheet IDs, and handcrafted
-narration swapped in. Same endpoints, same cleaning, same JSON shape.
+The scan check and triage are the expensive, essential part. Bereshit's 15 leaves took
+five parallel checkers and five parallel drafters. The scripts are templates: a new parsha
+needs its slug, chosen sheets and sections, theme intros, and its leaves.

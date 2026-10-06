@@ -279,7 +279,11 @@
      "kind": "text",
      "he": "(בסוף דברי רמב\"ן אלה נפלה טעות דפוס בחומשים שלנו וצריך להגיה: \"ולא מצא כנגדו בדרך \"נשי למך\"... וכן הגיה בעל כור הזהב.)",
      "basis": "scan-only",
-     "cite": "bereshit-scancheck/161223-1953.md:91,107"
+     "cite": "bereshit-scancheck/161223-1953.md:91,107",
+     "triage": {
+      "use": "scan",
+      "why": "her own note, read clearly (no doubtful letters) by the 1953 scan checker (161223-1953.md:91); the printed Ramban on 2:20 on Sefaria has the reading she calls a misprint"
+     }
     },
     {
      "i": 25,

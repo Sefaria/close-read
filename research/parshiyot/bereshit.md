@@ -4,8 +4,8 @@
 > Close Read must trace back to an entry here, and every entry here traces back to a
 > raw file and a sheet index. If you can't cite it, don't ship it.
 
-**Status:** Stage 1 (Survey) complete. Stage 2 (design) **decided 2026-10-06 (§7a)**; Stage 3
-(scan check + harvest) is next. Nothing is harvested or drafted beyond the 1963 demo (§5b).
+**Status (2026-10-06):** all five stages complete. The garden is `data/bereshit.json` (§10).
+The scan checks and triage are in §8, and the leaf paper trails in `bereshit-leaves/`.
 
 ---
 
