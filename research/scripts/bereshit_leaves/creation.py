@@ -9,7 +9,7 @@ def leaf_1963(prefix='cr-1963', title_card=True):
     jacob_q_start = 'הסבר, למה אין חלוקה'
     secs = []
 
-    secs.append({'id': prefix, 'title': {'en': '1963 · Where Does Chapter 2 Begin?'},
+    secs.append({'id': prefix, 'title': {'en': '1963 · Where Chapter 2 Begins'},
                  **({} if title_card else {'titleCard': False}),
                  'primaryText': P(), 'steps': [
         narration(f'{prefix}-intro', 'Genesis 1:31 to 2:3: the end of the sixth day, and the seventh.'),
