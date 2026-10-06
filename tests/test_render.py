@@ -116,6 +116,20 @@ PAGE_PROBE = """(exp) => {
     if (r.left < 0 || r.right > innerWidth) out.push('breadcrumb runs off the screen');
     const here = [...pill.querySelectorAll('.breadcrumb-link')].pop();
     if (here && here.scrollWidth > here.clientWidth + 1) out.push(`current crumb truncated: "${here.textContent}"`);
+    // On phones earlier crumbs shrink (to a 2.5rem minimum) but the current one never does, so
+    // a long current label is what overflows. Fonts render a few px wider on Linux CI than on a
+    // Mac, so require headroom rather than a bare fit.
+    if (here && innerWidth <= 768) {
+      const links = [...pill.querySelectorAll('.breadcrumb-link')].slice(0, -1);
+      const seps = [...pill.querySelectorAll('.breadcrumb-sep')].reduce((a, c) => a + c.getBoundingClientRect().width, 0);
+      const cs = getComputedStyle(pill);
+      const gap = parseFloat(cs.columnGap) || 0;
+      const minW = parseFloat(getComputedStyle(links[0] || here).minWidth) || 0;
+      const avail = pill.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight)
+        - seps - links.length * minW - gap * (pill.children.length - 1);
+      const room = avail - here.getBoundingClientRect().width;
+      if (room < 12) out.push(`current crumb "${here.textContent}" leaves only ${Math.round(room)}px before the breadcrumb overflows on phones; shorten it`);
+    }
   }
   const closing = document.querySelector('.closing-screen');
   if (closing && closing.classList.contains('is-hidden')) out.push('closing screen hidden at a leaf');
