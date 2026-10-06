@@ -479,7 +479,12 @@ body {
 
 /* --- Word Highlighting --- */
 .word-group {
-  transition: all 0.5s var(--ease-smooth);
+  /* Only the properties highlighting changes. Not `all`: font-size would then
+     animate too, and TextEffects.fitToPanel measures right after shrinking
+     the font, so it would see the old size and give up on fitting. */
+  transition: color 0.5s var(--ease-smooth), background-color 0.5s var(--ease-smooth),
+    border-color 0.5s var(--ease-smooth), box-shadow 0.5s var(--ease-smooth),
+    opacity 0.5s var(--ease-smooth);
   border-radius: 3px;
   padding: 1px 3px;
   margin: 0 -3px;
@@ -553,8 +558,11 @@ body {
   min-height: 80vh;
 }
 
+/* Enough runway after the last card that the sticky panel stays pinned while
+   the reader is still on it. With less, the panel starts scrolling away early
+   and a tall verse slides up under the fixed breadcrumb. */
 .step-card:last-child {
-  padding-bottom: 20vh;
+  padding-bottom: 50vh;
 }
 
 /* Inline divider shown in the sidebar when several sub-sections share a sticky
@@ -852,11 +860,14 @@ body {
     flex-direction: column;
   }
 
+  /* A bounded panel, so the cards below it stay readable. The fixed height is
+     what lets TextEffects.fitToPanel shrink a long passage to fit (with
+     height: auto the panel just grew, covering every card). Top padding
+     clears the fixed breadcrumb. */
   .primary-text-area {
     width: 100%;
-    height: auto;
-    min-height: 35vh;
-    padding: 1.5rem 1rem;
+    height: 45vh;
+    padding: 3rem 1rem 1rem;
     border-left: none;
     border-bottom: 1px solid var(--color-border);
     box-shadow: 0 4px 20px var(--color-shadow);
@@ -890,8 +901,11 @@ body {
     display: none;
   }
 
-  .section-nav {
-    right: 0.75rem;
+  /* Anchor to the right edge only: with the desktop `left` still set, the
+     nav stretched into an invisible full-width box that ate taps. */
+  .section-nav:not(.is-breadcrumb) {
+    left: auto;
+    right: 0.25rem;
   }
 
   .section-dot {
@@ -920,9 +934,22 @@ body {
     font-size: 0.8rem;
   }
 
+  /* Long theme/leaf labels don't fit a phone's width: earlier crumbs shrink
+     with an ellipsis so the current location (last crumb) stays whole. */
+  .section-nav.is-breadcrumb {
+    overflow: hidden;
+  }
+
   .breadcrumb-link {
     font-size: 0.75rem;
     padding: 0.15rem 0.3rem;
+    min-width: 2.5rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .breadcrumb-link:last-of-type {
+    flex-shrink: 0;
   }
 }
 

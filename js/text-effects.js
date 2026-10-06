@@ -7,61 +7,63 @@ const TextEffects = {
 
   // Shrink primary-he / primary-en font sizes so the content fits inside the
   // panel's padded area. CSS clamp() with cqi/vh can scale to the container
-  // dimensions but can't measure CONTENT height — so for tall passages (e.g.
-  // a theme with many highlighted phrases across long verses) the content
-  // still overflows. This pass measures and shrinks proportionally.
+  // dimensions but can't measure CONTENT height — so tall passages (long
+  // primaryText, or any passage in the short mobile panel) still overflow.
   //
-  // Idempotent: clears its own inline font-size before measuring so re-runs
-  // (e.g. on resize) start from CSS-clamp baseline.
+  // Text rewraps non-linearly as it shrinks, so instead of one proportional
+  // pass this binary-searches the largest scale that fits, applied to every
+  // side (comparison mode has two of each). Only if the passage still
+  // overflows at the floor sizes is the English caption hidden, and the
+  // Hebrew is then fit on its own.
+  //
+  // Idempotent: clears its own inline styles before measuring so re-runs
+  // (e.g. on resize, or once web fonts load) start from the CSS baseline.
   fitToPanel(panel) {
     if (!panel) return;
-    // Skip hidden panels (their clientHeight is 0 — fitting them is meaningless
-    // and would compute a negative innerH).
+    // Skip hidden panels (their clientHeight is 0 — fitting them is meaningless).
     if (panel.clientHeight === 0 || panel.offsetParent === null) return;
 
     const content = panel.querySelector('.primary-text-content.active');
     if (!content) return;
-    const he = content.querySelector('.primary-he');
-    const en = content.querySelector('.primary-en');
-    if (!he && !en) return;
+    const he = [...content.querySelectorAll('.primary-he')];
+    const en = [...content.querySelectorAll('.primary-en')];
+    if (!he.length && !en.length) return;
 
-    // Reset inline sizing so measurement reflects current CSS baseline
-    if (he) { he.style.fontSize = ''; he.style.lineHeight = ''; }
-    if (en) { en.style.fontSize = ''; en.style.lineHeight = ''; en.style.display = ''; }
-
-    // Force reflow before measuring
-    void content.offsetHeight;
+    [...he, ...en].forEach(el => {
+      el.style.fontSize = ''; el.style.lineHeight = ''; el.style.display = '';
+    });
 
     const cs = getComputedStyle(panel);
-    const panelInnerH = panel.clientHeight
-      - parseFloat(cs.paddingTop)
-      - parseFloat(cs.paddingBottom);
-    if (panelInnerH <= 0) return;
+    const innerH = panel.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom);
+    if (innerH <= 0) return;
+    const fits = () => content.scrollHeight <= innerH;
+    if (fits()) return;
 
-    const contentH = content.scrollHeight;
-    if (contentH <= panelInnerH) return; // already fits
+    const sized = [
+      ...he.map(el => ({ el, base: parseFloat(getComputedStyle(el).fontSize), floor: 14, lh: '1.65' })),
+      ...en.map(el => ({ el, base: parseFloat(getComputedStyle(el).fontSize), floor: 12, lh: '1.6' })),
+    ];
+    const apply = (items, scale) => items.forEach(({ el, base, floor, lh }) => {
+      el.style.fontSize = Math.max(floor, base * scale) + 'px';
+      el.style.lineHeight = lh;
+    });
+    // Largest scale in [0, 1] at which `items` fit; 0 means "at the floors".
+    const search = items => {
+      let lo = 0, hi = 1;
+      for (let i = 0; i < 10; i++) {
+        const mid = (lo + hi) / 2;
+        apply(items, mid);
+        if (fits()) lo = mid; else hi = mid;
+      }
+      apply(items, lo);
+      return fits();
+    };
 
-    // Shrink by the ratio, with a 5% safety margin and a minimum floor.
-    const ratio = (panelInnerH / contentH) * 0.95;
-    if (he) {
-      const base = parseFloat(getComputedStyle(he).fontSize);
-      const shrunk = Math.max(14, base * ratio);
-      he.style.fontSize = shrunk + 'px';
-      he.style.lineHeight = '1.65';
-    }
-    if (en) {
-      const base = parseFloat(getComputedStyle(en).fontSize);
-      const shrunk = Math.max(12, base * ratio);
-      en.style.fontSize = shrunk + 'px';
-      en.style.lineHeight = '1.6';
-    }
+    if (search(sized)) return;
 
-    // Second pass: if still overflowing (floor kicked in), hide the English
-    // caption rather than crop the verse.
-    void content.offsetHeight;
-    if (content.scrollHeight > panelInnerH && en) {
-      en.style.display = 'none';
-    }
+    // Doesn't fit even at the floors: keep the Hebrew, drop the caption.
+    en.forEach(el => { el.style.display = 'none'; });
+    search(sized.filter(s => he.includes(s.el)));
   },
 
   // Wrap each word in the primary text with targetable spans
@@ -181,6 +183,9 @@ const TextEffects = {
       if (newVerseData.words) {
         this.wrapWords(newContent, newVerseData.words);
       }
+      // Alternate verses are pre-rendered at the CSS baseline size; only the
+      // initially active one was fit. Fit the incoming one to the panel now.
+      this.fitToPanel(textArea);
     }
   },
 
