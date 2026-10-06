@@ -268,6 +268,12 @@ def test_branching_structure(slug):
         if not dec.get("prompt", {}).get("en"):
             problems.append(f"{dec['id']}: decision without prompt.en")
 
+    for s in sheet["sections"]:
+        if s.get("titleCard") is False and s["id"] in tree.targets:
+            problems.append(f"{s['id']}: a branch target can't be a continuation (titleCard: false)")
+    if sheet["sections"] and sheet["sections"][0].get("titleCard") is False:
+        problems.append(f"{sheet['sections'][0]['id']}: the first section can't be a continuation")
+
     reachable = set()
     for path in leaf_paths(sheet, tree):
         vis = visible_set(sheet, tree, path)
@@ -319,3 +325,21 @@ def test_images_are_well_formed(slug):
                 if rid not in used.get(v["ref"], set()):
                     problems.append(f"{where}: region '{rid}' is never highlighted")
     fail_if(problems, "image problems")
+
+
+def test_continuation_follows_its_branch():
+    """A `titleCard: false` section after a branch target is shown only on that branch's path."""
+    pt = {"ref": "x", "he": "א", "en": "a"}
+    sheet = {"title": {"en": "t"}, "sections": [
+        {"id": "ov", "title": {"en": "o"}, "primaryText": pt, "steps": []},
+        {"id": "fork", "type": "decision", "level": 0, "prompt": {"en": "?"}, "branches": [
+            {"id": "a", "label": {"en": "A"}, "target": "leaf-a"},
+            {"id": "b", "label": {"en": "B"}, "target": "leaf-b"}]},
+        {"id": "leaf-a", "title": {"en": "A"}, "primaryText": pt, "steps": []},
+        {"id": "leaf-a-page", "titleCard": False, "title": {"en": "A page"}, "primaryText": {**pt, "ref": "y"}, "steps": []},
+        {"id": "leaf-b", "title": {"en": "B"}, "primaryText": pt, "steps": []},
+    ]}
+    tree = build_tree(sheet)
+    assert "leaf-a-page" in visible_set(sheet, tree, ["a"])
+    assert "leaf-a-page" not in visible_set(sheet, tree, ["b"])
+    assert "leaf-a-page" not in visible_set(sheet, tree, [])

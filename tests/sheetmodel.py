@@ -127,8 +127,8 @@ def group_of(sheet, section_id, groups=None):
 def visible_set(sheet, tree, path):
     visible, prev = [], True
     for s in sheet["sections"]:
-        if s.get("type") == "decision":
-            show = prev
+        if s.get("type") == "decision" or s.get("titleCard") is False:
+            show = prev   # decisions and continuations follow the section before them
         else:
             t = tree.targets.get(s["id"])
             if t is None:

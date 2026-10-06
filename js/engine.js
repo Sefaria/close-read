@@ -203,13 +203,15 @@ class CloseReadApp {
   // Compute which section IDs are visible for a given path.
   // Rule: non-target reading sections are always visible. Targets are visible
   // iff path[level] === branchId AND their parent decision is visible.
-  // Decision sections are visible iff the immediately preceding section is visible.
+  // Decision sections, and continuation sections (`titleCard: false`, e.g. a
+  // manuscript page that scrolls in after a leaf's verse), are visible iff the
+  // immediately preceding section is visible.
   pathToVisibleSet(path) {
     const visible = new Set();
     let prevVisible = true;
     this.data.sections.forEach(section => {
       let show;
-      if (section.type === 'decision') {
+      if (section.type === 'decision' || section.titleCard === false) {
         show = prevVisible;
       } else {
         const target = this.tree.targets.get(section.id);

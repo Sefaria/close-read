@@ -1,10 +1,10 @@
 {
   "title": {
-    "he": "בראשית: היכן מתחיל פרק ב׳?",
-    "en": "Bereshit: Where Does Chapter 2 Begin?",
+    "he": "בראשית תשכ\"ג: היום השישי והיום השביעי",
+    "en": "Bereshit 1963: The Sixth Day and the Seventh",
     "subtitle": {
-      "he": "גיליון בראשית תשכ״ג, שאלה א׳",
-      "en": "Nechama's question of 1963, read against the Leningrad Codex"
+      "he": "גיליון בראשית תשכ\"ג",
+      "en": "One leaf of the Bereshit garden, for review"
     },
     "author": {
       "he": "נחמה ליבוביץ",
@@ -19,36 +19,48 @@
   },
   "sections": [
     {
-      "id": "section-chapter-break",
+      "id": "cr-1963",
       "title": {
         "he": "שאלת מבנה",
         "en": "A Question of Structure"
       },
       "primaryText": {
         "ref": "Genesis 1:31-2:3",
-        "he": "וַיַּרְא אֱלֹהִים אֶת כׇּל אֲשֶׁר עָשָׂה וְהִנֵּה טוֹב מְאֹד וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם הַשִּׁשִּׁי וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכׇּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ כִּי בוֹ שָׁבַת מִכׇּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת",
+        "he": "וַיַּרְא אֱלֹהִים אֶת כׇּל אֲשֶׁר עָשָׂה וְהִנֵּה טוֹב מְאֹד וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם הַשִּׁשִּׁי וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכׇּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ כִּי בוֹ שָׁבַת מִכׇּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת",
         "en": "And God saw all that had been made, and found it very good. And there was evening and there was morning, the sixth day. The heaven and the earth were finished, and all their array. On the seventh day God finished the work that had been undertaken, ceasing on the seventh day from doing any of the work. And God blessed the seventh day and declared it holy—having ceased on it from all the work of creation that God had done.",
         "words": {
+          "tov-meod": {
+            "he": "וְהִנֵּה טוֹב מְאֹד",
+            "en": "found it very good"
+          },
           "yom-hashishi": {
-            "he": "יוֹם הַשִּׁשִּׁי",
+            "he": "יוֹם הַשִּׁשִּׁי",
             "en": "the sixth day"
           },
           "vayechulu": {
-            "he": "וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם",
+            "he": "וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם",
             "en": "The heaven and the earth were finished, and all their array"
+          },
+          "vaychal": {
+            "he": "וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ",
+            "en": "On the seventh day God finished the work"
+          },
+          "vayishbot": {
+            "he": "וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי",
+            "en": "ceasing on the seventh day"
           }
         }
       },
       "steps": [
         {
-          "id": "cb-intro",
+          "id": "cr-1963-intro",
           "type": "narration",
           "text": {
-            "en": "Gilayon Bereshit 5723 (1963). Her sheet takes in Genesis 1:31 to 2:3, and its first section is headed simply “a question of structure.”"
+            "en": "Gilayon תשכ\"ג (1963). Her sheet takes in Genesis 1:31 to 2:3, and its first section is headed simply “a question of structure.”"
           }
         },
         {
-          "id": "cb-jacob",
+          "id": "cr-1963-jacob",
           "type": "commentary",
           "source": "Benno Jacob",
           "sourceLabel": {
@@ -59,6 +71,12 @@
             "he": "בנו יעקב בפרושו לבראשית ב' פסוק ג' מעיר: חלוקת הפרקים (של הבישוף הנוצרי מתחילת המאה ה-13) הפותח ב\"ויכולו\" פרק חדש, אינה נכונה ומפרידה בין הדבקים.",
             "en": "Benno Jacob, in his commentary on Genesis 2:3, remarks: the chapter division (that of the Christian bishop of the early thirteenth century), which opens a new chapter at “Va-yekhullu,” is not correct, and separates things that belong together."
           },
+          "cite": {
+            "sheet": 160726,
+            "i": 2,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
           "highlight": [
             "vayechulu"
           ]
@@ -66,7 +84,7 @@
       ]
     },
     {
-      "id": "section-folio-1v",
+      "id": "cr-1963-1v",
       "titleCard": false,
       "title": {
         "en": "The Leningrad Codex, folio 1v"
@@ -121,14 +139,14 @@
       },
       "steps": [
         {
-          "id": "cb-codex",
+          "id": "cr-1963-codex",
           "type": "narration",
           "text": {
             "en": "This is the opening of Genesis in the Leningrad Codex, a complete Hebrew Bible copied in 1008, centuries before chapter numbers existed."
           }
         },
         {
-          "id": "cb-days",
+          "id": "cr-1963-days",
           "type": "narration",
           "text": {
             "en": "The scribe ends each day with an open break. After “and there was evening and there was morning,” the rest of the line, or the next line, is left blank, and the next day starts on a fresh line."
@@ -144,7 +162,7 @@
       ]
     },
     {
-      "id": "section-folio-2r",
+      "id": "cr-1963-2r",
       "titleCard": false,
       "title": {
         "en": "The Leningrad Codex, folio 2r"
@@ -187,14 +205,14 @@
       },
       "steps": [
         {
-          "id": "cb-folio-2r-intro",
+          "id": "cr-1963-2r-intro",
           "type": "narration",
           "text": {
             "en": "The next page, folio 2r, carries Genesis 1:26 to 2:19."
           }
         },
         {
-          "id": "cb-day-6",
+          "id": "cr-1963-day-6",
           "type": "narration",
           "text": {
             "en": "The sixth day closes the same way. “Va-yekhullu” begins on the line below it."
@@ -204,7 +222,7 @@
           ]
         },
         {
-          "id": "cb-seventh",
+          "id": "cr-1963-seventh",
           "type": "narration",
           "text": {
             "en": "This is where the chapter changes: chapter 2 begins here, with “Va-yekhullu.” Genesis 2:1–3 runs from the foot of this column to the top of the next, a paragraph of its own. Counting from the first verse of the book, it is the seventh."
@@ -216,12 +234,463 @@
           "effect": "glow"
         },
         {
-          "id": "cb-question",
+          "id": "cr-1963-q-a",
           "type": "question",
           "text": {
             "he": "הסבר, למה אין חלוקה זו תואמת את מבנה פרשתנו.",
             "en": "Explain why this division [the chapter beginning at 2:1, with “Va-yekhullu”] does not fit the structure of our parasha."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 2,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        }
+      ]
+    },
+    {
+      "id": "cr-1963-good",
+      "titleCard": false,
+      "title": {
+        "he": "והנה טוב מאד",
+        "en": "“And behold, it was very good”"
+      },
+      "primaryText": {
+        "ref": "Genesis 1:31-2:3",
+        "he": "וַיַּרְא אֱלֹהִים אֶת כׇּל אֲשֶׁר עָשָׂה וְהִנֵּה טוֹב מְאֹד וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם הַשִּׁשִּׁי וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכׇּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ כִּי בוֹ שָׁבַת מִכׇּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת",
+        "en": "And God saw all that had been made, and found it very good. And there was evening and there was morning, the sixth day. The heaven and the earth were finished, and all their array. On the seventh day God finished the work that had been undertaken, ceasing on the seventh day from doing any of the work. And God blessed the seventh day and declared it holy—having ceased on it from all the work of creation that God had done.",
+        "words": {
+          "tov-meod": {
+            "he": "וְהִנֵּה טוֹב מְאֹד",
+            "en": "found it very good"
+          },
+          "yom-hashishi": {
+            "he": "יוֹם הַשִּׁשִּׁי",
+            "en": "the sixth day"
+          },
+          "vayechulu": {
+            "he": "וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם",
+            "en": "The heaven and the earth were finished, and all their array"
+          },
+          "vaychal": {
+            "he": "וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ",
+            "en": "On the seventh day God finished the work"
+          },
+          "vayishbot": {
+            "he": "וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי",
+            "en": "ceasing on the seventh day"
           }
+        }
+      },
+      "steps": [
+        {
+          "id": "cr-1963-g-intro",
+          "type": "narration",
+          "text": {
+            "en": "Her next section stays on 1:31, the end of the sixth day."
+          }
+        },
+        {
+          "id": "cr-1963-br-9-5",
+          "type": "commentary",
+          "source": "Bereshit Rabbah",
+          "sourceLabel": {
+            "he": "בראשית רבה",
+            "en": "Bereshit Rabbah"
+          },
+          "text": {
+            "he": "בתורתו של ר' מאיר מצאו כתוב ( מתנת כהונה : בספר תורה שלו כתב כן על הגליון) \"והנה טוב מאד\" – והנה טוב מות. אמר ר' שמואל בר נחמן: רכוב הייתי על כתפו של זקני ועולה מעירו לכפר חנן דרך בין שאן ושמעתי את ר' שמעון בן אלעזר יושב ודורש בשם ר' מאיר: והנה טוב מאד – והנה טוב מות.",
+            "en": "In the Torah of R. Meir they found written (Matnot Kehunah: in his Torah scroll he wrote this in the margin) “and behold, it was very good” — “and behold, death is good.” R. Shmuel bar Nachman said: I was riding on my grandfather’s shoulder, going up from his town to Kefar Chanan by way of Beit She’an, and I heard R. Shimon ben Elazar sitting and expounding in the name of R. Meir: “and behold, it was very good” — “and behold, death is good.”"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 9,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "ref": "Bereshit Rabbah 9:5",
+          "highlight": [
+            "tov-meod"
+          ]
+        },
+        {
+          "id": "cr-1963-br-9-7",
+          "type": "commentary",
+          "source": "Bereshit Rabbah",
+          "sourceLabel": {
+            "he": "בראשית רבה",
+            "en": "Bereshit Rabbah"
+          },
+          "text": {
+            "he": "ר' נחמן בר שמואל... אמר: \"הנה טוב מאד\" – זה יצר טוב, \"והנה טוב מאד\" – זה יצר רע. וכי יצר הרע טוב מאד – אתמהה? אלא שאלולי יצר הרע לא בנה אדם בית ולא נשא אשה ולא הוליד ולא נשא ונתן. וכן שלמה אומר: ( קהלת ד' ): \"כי היא קנאה איש מרעהו\".",
+            "en": "R. Nachman bar Shmuel… said: “Behold, it was good” — this is the good inclination; “and behold, it was very good” — this is the evil inclination. Is the evil inclination very good? Astonishing! But were it not for the evil inclination, a person would not build a house, nor marry, nor have children, nor do business. And so Solomon says (Ecclesiastes 4): “it is a man’s rivalry with his neighbor.”"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 10,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "ref": "Bereshit Rabbah 9:7",
+          "highlight": [
+            "tov-meod"
+          ]
+        },
+        {
+          "id": "cr-1963-g-on-first",
+          "type": "narration",
+          "text": {
+            "en": "On the first midrash she adds two of its commentators."
+          }
+        },
+        {
+          "id": "cr-1963-maharzu",
+          "type": "commentary",
+          "source": "Maharzu",
+          "sourceLabel": {
+            "he": "מהרז\"ו",
+            "en": "Maharzu, on the midrash"
+          },
+          "text": {
+            "he": "דכתיב (קהלת) \"ויום המות מיום הולדו\", ושוב אינו חוטא.",
+            "en": "As it is written (Ecclesiastes), “and the day of death than the day of one’s birth” — and he no longer sins."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 12,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-matnot",
+          "type": "commentary",
+          "source": "Matnot Kehunah",
+          "sourceLabel": {
+            "he": "מתנות כהונה",
+            "en": "Matnot Kehunah, on the midrash"
+          },
+          "text": {
+            "he": "שמפרידו מזה העולם הכלה, ומביאו לעולם העומד, וגם שם שוב אינו בא לידי חטא.",
+            "en": "For it separates him from this passing world and brings him to the enduring world, and there too he no longer comes to sin."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 13,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-q-g1",
+          "type": "question",
+          "text": {
+            "he": "1. התוכל להסביר את דברי המדרש הראשון בפירוש אחר, שלא כפי מפרשי המדרש הנ\"ל",
+            "en": "1. Can you explain the first midrash another way, not as the commentators on the midrash above do?"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 14,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-q-g2",
+          "type": "question",
+          "text": {
+            "he": "2. על איזה יסוד לשוני בפסוקנו בנויים המדרשים דלעיל?",
+            "en": "2. On what linguistic basis in our verse are the midrashim above built?"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 15,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "highlight": [
+            "tov-meod"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "cr-1963-q-g3",
+          "type": "question",
+          "text": {
+            "he": "3. הסבר רעיונו של המדרש השני.",
+            "en": "3. Explain the idea of the second midrash."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 16,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-d-intro",
+          "type": "narration",
+          "text": {
+            "en": "She returns to the same three words with Ralbag."
+          },
+          "highlight": [
+            "tov-meod"
+          ]
+        },
+        {
+          "id": "cr-1963-ralbag",
+          "type": "commentary",
+          "source": "Ralbag",
+          "sourceLabel": {
+            "he": "רלב\"ג",
+            "en": "Ralbag"
+          },
+          "text": {
+            "he": "וכבר כלל בזה המאמר כל אשר עשה, לפי שמה שעשה מהעולם היה קצתו בלתי מכוון בעצמו <u>ולא נשלם הטוב עד השלם התכלית אשר בעבורו היה מה שלפני התכלית</u> . וכן הטוב השלם לא נשלם לעולם בכללו עד שיהיה בשלמותו ותמותו. וכבר יחס זאת ההויה ליום הששי. וכבר הודיענו בזה שרש אחד נבנית עליו כל החכמה הטבעית, והוא שאין בנמצאות הטבעיות דבר לבטלה.",
+            "en": "He already included in this statement all that He made, because some of what He made of the world was not intended for its own sake, <u>and the good was not complete until the purpose was complete, for whose sake what came before the purpose existed</u>. And likewise the complete good was not completed for the world as a whole until it was in its wholeness and perfection. And he already ascribed this coming-into-being to the sixth day. And He thereby informed us of a root on which all natural science is built: that among natural things nothing is in vain."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 20,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "ref": "Ralbag on Torah, Genesis 1:24:6",
+          "highlight": [
+            "tov-meod",
+            "yom-hashishi"
+          ]
+        },
+        {
+          "id": "cr-1963-q-d1",
+          "type": "question",
+          "text": {
+            "he": "1. הסבר את המלים המסומנים בקו.",
+            "en": "1. Explain the underlined words."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 21,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-q-d2",
+          "type": "question",
+          "text": {
+            "he": "2. הסבר מה ההבדל בינו לבין דברי המדרשים.",
+            "en": "2. Explain how he differs from the midrashim."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 22,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-h-intro",
+          "type": "narration",
+          "text": {
+            "en": "Her last section turns to 2:2: “And on the seventh day God finished.”"
+          },
+          "highlight": [
+            "vaychal"
+          ]
+        },
+        {
+          "id": "cr-1963-h-order",
+          "type": "narration",
+          "text": {
+            "en": "Her questions for this section stand together at its end. Here each follows the source it asks about."
+          }
+        },
+        {
+          "id": "cr-1963-br-10-9",
+          "type": "commentary",
+          "source": "Bereshit Rabbah",
+          "sourceLabel": {
+            "he": "בראשית רבה",
+            "en": "Bereshit Rabbah"
+          },
+          "text": {
+            "he": "רבי שאליה לר' ישמעאל בר' יוסי, אמר לו: שמעת מאביך מהו \"ויכל א-לוהים ביום השביעי\", אתמהא? אלא כזה שהוא מכה בקורנוס על גבי הסדן, הגביהה מבעוד יום והורידה משתחשך. אמר ר' שמעון בן יוחאי: בשר ודם שאינו יודע לא עתיו ולא רגעיו ולא שעותיו הוא מוסיף מחול על הקדש, אבל הקב\"ה שהוא יודע רגעיו ועתיו ושעותיו, נכנס בו כחוט השערה. גניבא ורבנן - גניבא אמר: משל למלך שעשה לו חופה וציירה וכיירה ומה הייתה חסרה? כלה שתכנס לתוכה. כך מה היה עולם חסר? שבת. רבנן אמרי: משל למלך שעשו לו טבעת, מה הייתה חסרה? חותם. כך, מה היה העולם חסר? שבת.",
+            "en": "Rabbi asked R. Yishmael son of R. Yose: Have you heard from your father what “And on the seventh day God finished” means? Astonishing! Rather, it is like one who strikes with a hammer on the anvil: he raised it while it was still day and brought it down after dark. R. Shimon bar Yochai said: Flesh and blood, who knows neither its times nor its moments nor its hours, adds from the weekday onto the holy; but the Holy One, blessed be He, who knows His moments, His times and His hours, enters it by a hair’s breadth. Geniva and the Rabbis — Geniva said: A parable of a king who made himself a bridal canopy, painted it and adorned it; and what did it lack? A bride to enter it. So, what did the world lack? Shabbat. The Rabbis said: A parable of a king who had a ring made; what did it lack? A seal. So, what did the world lack? Shabbat."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 25,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "ref": "Bereshit Rabbah 10:9",
+          "highlight": [
+            "vaychal"
+          ]
+        },
+        {
+          "id": "cr-1963-q-h2",
+          "type": "question",
+          "text": {
+            "he": "2. במה שונים גניבא ורבנן שניהם מדעת ר' שמעון בן יוחאי?",
+            "en": "2. In what do Geniva and the Rabbis both differ from the view of R. Shimon bar Yochai?"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 31,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-q-h3",
+          "type": "question",
+          "text": {
+            "he": "3. מה ההבדל ברעיון בין משל הכלה למשל החותם?",
+            "en": "3. What is the difference in idea between the parable of the bride and the parable of the seal?"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 32,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-rashi",
+          "type": "commentary",
+          "source": "Rashi",
+          "sourceLabel": {
+            "he": "רש\"י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "ד\"ה ויכל אלו-הים ביום השביעי: בשר ודם שאינו יודע עתיו ורגעיו צריך להוסיף מהחול על הקדש, הקב\"ה שיודע עתיו ורגעיו נכנס בו כחוט השערה ונראה כאלו כלה בו ביום. ד\"א : מה היה העולם חסר? מנוחה, באה שבת, באת מנוחה, כלתה ונגמרה המלאכה.",
+            "en": "ויכל אלהים ביום השביעי AND ON THE SEVENTH DAY GOD FINISHED — R. Simeon says: A human being (literally, flesh and blood) who cannot know exactly his times and moments (who cannot accurately determine the point of time that marks the division between one period and that which follows it) must needs add from the week-day and observe it as the holy day (the Sabbath), but the Holy One, blessed be He, who knows His times and moments, began it (the seventh day) to a very hair’s breadth (with extreme exactness) and it therefore appeared as though He had completed His work on that very day (Genesis Rabbah 10:9). Another explanation: What did the world lack? Rest! Sabbath came — Rest came; and the work was thus finished and completed (Genesis Rabbah 10:9)!"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 26,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "sefaria",
+          "ref": "Rashi on Genesis 2:2:1",
+          "highlight": [
+            "vaychal"
+          ]
+        },
+        {
+          "id": "cr-1963-q-h5",
+          "type": "question",
+          "text": {
+            "he": "5. מהי דרכו של רש\"י בעבוד מקורו?",
+            "en": "5. What is Rashi’s way of reworking his source?"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 34,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-efodi",
+          "type": "commentary",
+          "source": "Profiat Duran",
+          "sourceLabel": {
+            "he": "ר' יצחק פריפוט דוראן",
+            "en": "R. Yitzhak Profiat Duran, Ma’aseh Efod"
+          },
+          "text": {
+            "he": "וכבר הביא (ר' יונה אבן ג'נאח בס' הרקמה) לבי\"ת שמושים אחרים, ושהיא (=האות בי\"ת) בעניין \"קודם\" ו\"אחר\", \"ויכל אלו-הים ביום השביעי\"; ( שמות י\"ב ט\"ו ) \"אך ביום הראשון תשביתו שאור\" – בעניין \" קודם \".",
+            "en": "And he (R. Yonah ibn Janach, in Sefer HaRikmah) already brought other uses of the letter bet: that it (= the letter bet) carries the sense of “before” and “after”: “And on the seventh day God finished”; (Exodus 12:15) “But on the first day you shall put away leaven” — in the sense of “before.”"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 27,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "highlight": [
+            "vaychal"
+          ]
+        },
+        {
+          "id": "cr-1963-ibn-ezra",
+          "type": "commentary",
+          "source": "Ibn Ezra",
+          "sourceLabel": {
+            "he": "ראב\"ע",
+            "en": "Ibn Ezra"
+          },
+          "text": {
+            "he": "יש אומרים כי הימים נבראים ובבריאת יום השביעי שלמה המלאכה, וזה הפירוש תפל. ויש אומרים כי יש בי\"ת שטעמו קודם, כמו ( דברים כ\"ה ד' ) \"לא תחסום שור בדישו\", ( שמות י\"ב ט\"ו ) \"אך ביום הראשון תשביתו\", ולמה זאת הצרה וכלוי מעשה איננו מעשה, כאלו אמר לא עשה מעשה. וכן פירוש \"ויכל\", גם \"וישבות\". וטעם \"מלאכתו אשר עשה ביום הששי\" טרם יום השבת.",
+            "en": "Some say that the days are created, and with the creation of the seventh day the work was complete; and this interpretation is tasteless. And some say there is a bet whose sense is “before,” as in (Deuteronomy 25:4) “You shall not muzzle an ox in its threshing,” (Exodus 12:15) “But on the first day you shall put away.” And why this trouble? Finishing a work is not a work; it is as if it said: He did no work. And so too the meaning of “finished,” and also of “ceased.” And the sense of “His work which He had done” is: on the sixth day, before the Sabbath day."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 28,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "ref": "Ibn Ezra on Genesis 2:2",
+          "highlight": [
+            "vaychal",
+            "vayishbot"
+          ]
+        },
+        {
+          "id": "cr-1963-q-h6",
+          "type": "question",
+          "text": {
+            "he": "6. למי מן המפרשים המוזכרים בגליוננו רומז הראב\"ע ב\"יש אומרים\" הראשון, ולמי ב\"יש אומרים\" השני?",
+            "en": "6. To which of the commentators mentioned in our gilayon does Ibn Ezra allude in the first “some say,” and to which in the second?"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 35,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
+        },
+        {
+          "id": "cr-1963-r-avraham",
+          "type": "commentary",
+          "source": "R. Avraham ben HaRambam",
+          "sourceLabel": {
+            "he": "ר' אברהם בן הרמב\"ם",
+            "en": "R. Avraham ben HaRambam"
+          },
+          "text": {
+            "he": "ונבוכו הקדמונים והמפרשים ז\"ל בטעם מאמרו \"ויכל ביום השביעי\"... ואענה אף אני, ואף על פי שמה שאמר מי שקדמני בזה איננו רחוק ממה שאני אומר בו: כי כל השלמה בין שני גבולים היחס שלה אל אותם שני גבולים יחס אחד. זה דבר ברי שאין מספק בו אלא מי שאינו מבין אותו. והשלמת הבריאה היתה עם סוף יום השישי ותחילת יום השביעי, לכן יחס השלמת הבריאה אל סוף יום השישי ואל תחילת יום השביעי יחס אחד. לכן: אלו אמר הכתוב \"ויכל א-לוהים ביום הששי\" היה טעמו עם סוף יום השישי, ומה שאמר \"ויכל א-לוהים ביום השביעי\" טעמו שבתחילת יום השביעי נשלמה הבריאה, לא שהיה ביום השביעי בריאה מחודשת.",
+            "en": "The ancients and the commentators, of blessed memory, were perplexed about the reason for His saying “and He finished on the seventh day”… And I too will answer, even though what my predecessor said about it is not far from what I say: every completion between two boundaries stands in one and the same relation to those two boundaries. This is plain, and only one who does not understand it doubts it. The completion of creation came with the end of the sixth day and the beginning of the seventh day; therefore the relation of the completion of creation to the end of the sixth day and to the beginning of the seventh day is one. Therefore: had Scripture said “God finished on the sixth day,” its sense would be with the end of the sixth day; and when it says “God finished on the seventh day,” its sense is that at the beginning of the seventh day creation was complete — not that there was a new creation on the seventh day."
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 29,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours",
+          "highlight": [
+            "vaychal"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "cr-1963-q-h1",
+          "type": "question",
+          "text": {
+            "he": "1. מהי השאלה שבה עוסקים, וכמה תשובות שונות ניתנו לעיל?",
+            "en": "1. What is the question they deal with, and how many different answers were given above?"
+          },
+          "cite": {
+            "sheet": 160726,
+            "i": 30,
+            "harvest": "research/parshiyot/bereshit-harvest/creation/1963.json"
+          },
+          "en_basis": "ours"
         }
       ]
     }
