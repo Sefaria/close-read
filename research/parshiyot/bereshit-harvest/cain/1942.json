@@ -44,7 +44,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 8,
@@ -199,7 +202,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -231,7 +237,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 40,
@@ -306,7 +315,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 52,
@@ -331,10 +343,5 @@
   "§ט: Her lead-in «על הפסוק ט\"ז \"ויצא קין מלפני ה'\"» is dropped from [51].",
   "§ט: Outside the checked sections: «עצה טובה: קרא בספר אגדה של ביאליק פרק י\"ט \"קין והבל\"» is at the **bottom** of the scan; the digitization moves it to the top as [0]. The footer instructions (answers to be sent to Nechama Leibowitz, write clearly, leave room for corrections) are not digitized."
  ],
- "needs_human": [
-  7,
-  32,
-  39,
-  51
- ]
+ "needs_human": []
 }

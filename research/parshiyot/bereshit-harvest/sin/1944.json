@@ -33,7 +33,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -64,7 +67,12 @@
      "he": "ענה לשאלתם!",
      "scan_status": "NOT-IN-SCAN",
      "basis": "digitization",
-     "exclude": "not in the scan: not her words"
+     "exclude": "not in the scan: not her words",
+     "triage": {
+      "use": "not-published",
+      "why": "Claude read the scan: question 1 runs straight into question 2; «ענה לשאלתם!» is not hers"
+     },
+     "publish": false
     },
     {
      "i": 5,
@@ -301,12 +309,15 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 27,
      "kind": "question",
-     "he": "2. כמי מהם תרגם רמב\"ן:\nדא הארטען זי די שטימע דעס עוויגען וועזענס, גאט, וואנדעלנד צור זייטע דעס טאגעס?",
+     "he": "2. כמי מהם תרגם רמבמ\"ן:\nדא הארטען זי די שטימע דעס עוויגען וועזענס, גאט, וואנדעלנד צור זייטע דעס טאגעס?",
      "scan_status": "DIFF",
      "digitized_he": "2. כמי מהם תרגם רמבמ\"ן:\nדא הארטען זי די שטימע דעס עוויגען וועזענס, גאט, וואנדעלנד צור זייטע דעס טאגעס?",
      "sic": [
@@ -324,8 +335,12 @@
        "class": "substantive"
       }
      ],
-     "basis": "scan",
-     "needs_human": true
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "the German that follows is Mendelssohn's translation, so «רמבמ\"ן» is right; her «רמב\"ן» is a typo the digitizers corrected"
+     },
+     "scan_reading": "2. כמי מהם תרגם רמב\"ן:\nדא הארטען זי די שטימע דעס עוויגען וועזענס, גאט, וואנדעלנד צור זייטע דעס טאגעס?"
     },
     {
      "i": 28,
@@ -416,7 +431,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 33,
@@ -498,7 +516,11 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "not-published",
+      "why": "grammatical aside on Ibn Ezra's terms"
+     },
+     "publish": false
     },
     {
      "i": 39,
@@ -602,11 +624,5 @@
   "§ד: `++` difficulty mark on question 1 ([42]) dropped.",
   "§ד: Footer below the closing rule, not digitized: `השאלות המסומנות ב + הן קשות יותר. יענה כל אחד כפי מדרגתו. את התשובות יש לשלוח לנחמה ליבוביץ, ירושלים, קרית משה.` (second line underlined)."
  ],
- "needs_human": [
-  0,
-  26,
-  27,
-  32,
-  38
- ]
+ "needs_human": []
 }

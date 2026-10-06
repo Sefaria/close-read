@@ -43,7 +43,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "scan",
+      "why": "Claude read the scan zoomed: «הפותח»"
+     }
     }
    ]
   },
@@ -140,7 +143,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 15,
@@ -225,7 +231,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 22,
@@ -385,7 +394,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 30,
@@ -470,10 +482,5 @@
   "§ה: The underlining of «שונות» (Q1) and «עקדת יצחק» (Q4) is dropped.",
   "§ה: The footer is dropped (outside the sections): «תשובות יש לשלוח לנחמה ליבוביץ ירושלים קרית משה, ר' אליעזר הלוי. יש להשאיר שולחים רחבים בצדי העמודים - לתקונים והערות.»"
  ],
- "needs_human": [
-  2,
-  14,
-  21,
-  29
- ]
+ "needs_human": []
 }

@@ -85,7 +85,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "scan",
+      "why": "Claude read the scan zoomed: «בפרושו הראשון»"
+     }
     },
     {
      "i": 7,
@@ -172,7 +175,11 @@
       }
      ],
      "basis": "digitization",
-     "needs_human": true
+     "triage": {
+      "use": "not-published",
+      "why": "cross-reference to another gilayon"
+     },
+     "publish": false
     }
    ]
   },
@@ -231,7 +238,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 19,
@@ -283,7 +293,11 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "needs_human": true,
+     "triage": {
+      "use": "open",
+      "why": "which Ibn Ezra passage (her start point «והטעם כאשר אמרו חכמינו», verse כ\"[?]): check the Ibn Ezra text when drafting 1950 §ב"
+     }
     },
     {
      "i": 24,
@@ -450,9 +464,6 @@
   "§ג: Page footer dropped: `תשובות יש לשלוח לנחמה ליבוביץ, ירושלים קרית משה.`"
  ],
  "needs_human": [
-  6,
-  13,
-  18,
   23
  ]
 }

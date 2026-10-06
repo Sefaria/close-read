@@ -51,7 +51,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 5,
@@ -106,7 +109,10 @@
       }
      ],
      "basis": "digitization",
-     "needs_human": true
+     "triage": {
+      "use": "digitized",
+      "why": "«רש\"ע» in the scan is her typo for «רש\"י», which the digitizers corrected"
+     }
     },
     {
      "i": 10,
@@ -136,7 +142,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "scan",
+      "why": "Claude read the scan: «למה לא למצוא תירוץ»"
+     }
     },
     {
      "i": 12,
@@ -152,7 +161,10 @@
       }
      ],
      "basis": "digitization",
-     "needs_human": true
+     "triage": {
+      "use": "digitized",
+      "why": "Rashi «מפרי האדמה» is on 4:3; the scan's verse letter is overstruck; the digitized «פסוק ג'» is right"
+     }
     },
     {
      "i": 13,
@@ -247,7 +259,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 20,
@@ -268,7 +283,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 21,
@@ -325,7 +343,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 25,
@@ -341,7 +362,10 @@
      "he": "(א) מה קשה לו[?]",
      "basis": "scan-only",
      "cite": "bereshit-scancheck/161216-1956.md:70",
-     "needs_human": true
+     "triage": {
+      "use": "scan",
+      "why": "«לו» fits her recurring question «מה קשה לו?»; the scan's last letter is smudged"
+     }
     },
     {
      "i": 26,
@@ -362,7 +386,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 27,
@@ -476,7 +503,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 38,
@@ -532,16 +562,5 @@
   "§ג: `xx` margin mark on Q3 dropped.",
   "§ג: Outside the checked sections: the «עצה טובה» box (Steinbeck, East of Eden) is at the **bottom** of page 2 in the scan; the digitization moves it to the top as [0]."
  ],
- "needs_human": [
-  4,
-  9,
-  11,
-  12,
-  19,
-  20,
-  24,
-  "after 25",
-  26,
-  37
- ]
+ "needs_human": []
 }

@@ -62,7 +62,7 @@
     {
      "i": 5,
      "kind": "question",
-     "he": "3. א.א. אורבך בספרו 'חז\"ל' עמ' 147: \"התרגומים הארמיים התחשבו בקללת ר' שמעון בן יוחאי\". הוכח דבריו.",
+     "he": "3. א. א. אורבך בספרו \"חז\"ל: אמונות ודעות\" עמוד 147 כותב: \"התרגומים הארמיים התחשבו בקללת ר' שמעון בן יוחאי\". הוכח דבריו.",
      "scan_status": "DIFF",
      "digitized_he": "3. א. א. אורבך בספרו \"חז\"ל: אמונות ודעות\" עמוד 147 כותב: \"התרגומים הארמיים התחשבו בקללת ר' שמעון בן יוחאי\". הוכח דבריו.",
      "scan_fixes": [
@@ -77,8 +77,12 @@
        "class": "substantive"
       }
      ],
-     "basis": "scan",
-     "needs_human": true
+     "basis": "digitization",
+     "triage": {
+      "use": "editorial",
+      "why": "the digitizers added the subtitle of Urbach's book: «חז\"ל: אמונות ודעות»"
+     },
+     "scan_reading": "3. א.א. אורבך בספרו 'חז\"ל' עמ' 147: \"התרגומים הארמיים התחשבו בקללת ר' שמעון בן יוחאי\". הוכח דבריו."
     },
     {
      "i": 6,
@@ -180,7 +184,10 @@
       }
      ],
      "basis": "digitization",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 16,
@@ -201,7 +208,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 17,
@@ -379,7 +389,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   }
@@ -395,10 +408,5 @@
   "§ג: Dropped `××` on [30] and [31].",
   "§ג: Footer dropped: `תשובות נא לשלוח לנחמה ליבוביץ, קרית משה ירושלים.`"
  ],
- "needs_human": [
-  5,
-  15,
-  16,
-  31
- ]
+ "needs_human": []
 }

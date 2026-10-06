@@ -97,7 +97,11 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "not-published",
+      "why": "verse-reference label"
+     },
+     "publish": false
     },
     {
      "i": 9,
@@ -149,7 +153,12 @@
      "kind": "text",
      "he": "* עיין עלון ההדרכה.",
      "basis": "scan-only",
-     "cite": "bereshit-scancheck/160442-1968.md:131 (her footnote to the Ramban)"
+     "cite": "bereshit-scancheck/160442-1968.md:131 (her footnote to the Ramban)",
+     "triage": {
+      "use": "not-published",
+      "why": "footnote pointing to the teacher's guide"
+     },
+     "publish": false
     },
     {
      "i": 11,
@@ -314,7 +323,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -449,8 +461,5 @@
   "§ו: `x` on question 1 and `xx` on question 2 dropped.",
   "§ו: Below §ו, a boxed subscription notice (`גליון לעיון בפרשת השבוע / ועלון הדרכה – שנת תשכ\"ח`, prices, address of the המחלקה לתרבות תורנית, and the line `גליון נח ישלח רק לאלה שחדשו את הזמנתם!`) is not digitized."
  ],
- "needs_human": [
-  8,
-  25
- ]
+ "needs_human": []
 }

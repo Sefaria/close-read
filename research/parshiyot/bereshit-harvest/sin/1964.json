@@ -44,7 +44,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 5,
@@ -112,7 +115,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 9,
@@ -264,7 +270,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 24,
@@ -312,7 +321,11 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "not-published",
+      "why": "internal cross-reference to her question א"
+     },
+     "publish": false
     },
     {
      "i": 27,
@@ -328,7 +341,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "spelling",
+      "why": "the checker paired the wrong fragments in its list; its table shows a spelling-only difference"
+     }
     }
    ]
   },
@@ -388,11 +404,5 @@
   "§ד: Editor credit `העורך: מיכאל …` dropped.",
   "§ד: Item letters `א)` / `ב)` rendered `1.` / `2.`."
  ],
- "needs_human": [
-  4,
-  8,
-  23,
-  26,
-  27
- ]
+ "needs_human": []
 }

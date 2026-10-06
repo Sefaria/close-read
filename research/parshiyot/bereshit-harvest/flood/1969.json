@@ -35,7 +35,11 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "not-published",
+      "why": "cross-reference to other gilyonot"
+     },
+     "publish": false
     }
    ]
   },
@@ -63,7 +67,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 3,
@@ -156,7 +163,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -275,7 +285,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 25,
@@ -450,10 +463,5 @@
   "§ד: Dropped `××` on [34].",
   "§ד: Header [29] shortened to the first half of the verse."
  ],
- "needs_human": [
-  0,
-  2,
-  10,
-  24
- ]
+ "needs_human": []
 }

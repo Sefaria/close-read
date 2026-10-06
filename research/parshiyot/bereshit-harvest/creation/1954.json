@@ -111,7 +111,7 @@
     {
      "i": 11,
      "kind": "question",
-     "he": "5. לשם מה נעזר הרמב\"ן ב דברים ב' כ\"ב ?",
+     "he": "5. לשם מה נעזר הרמב\"ן ב דברים ב' כ\"ג ?",
      "scan_status": "DIFF",
      "digitized_he": "5. לשם מה נעזר הרמב\"ן ב דברים ב' כ\"ג ?",
      "sic": [
@@ -132,8 +132,12 @@
        "class": "substantive"
       }
      ],
-     "basis": "scan",
-     "needs_human": true
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "Ramban on Gen 1:1 (Sefaria) cites «כפתרים היצאים מכפתור השמידם» as Deut 2:23; her «כ\"ב» is a typo the digitizers corrected"
+     },
+     "scan_reading": "5. לשם מה נעזר הרמב\"ן ב דברים ב' כ\"ב ?"
     }
    ]
   },
@@ -291,7 +295,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 23,
@@ -333,8 +340,5 @@
   "§ג: The Moreh credit line moved from the end to the top. The source label «רמב\"ם» is dropped.",
   "§ד: The «פסוק ד'» label and its link to Genesis 1:4 are the digitizer's."
  ],
- "needs_human": [
-  11,
-  22
- ]
+ "needs_human": []
 }

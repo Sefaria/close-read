@@ -91,7 +91,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 11,
@@ -258,7 +261,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -297,13 +303,20 @@
      "he": "ושני הפסוקים המובאים ברמב\"ן הם: בראשית פ' ד' כ\"ג[?]; שמואל א' י\"ב י\"א.",
      "basis": "scan-only",
      "cite": "bereshit-scancheck/161223-1953.md:90",
-     "needs_human": true
+     "triage": {
+      "use": "scan",
+      "why": "Ramban on Gen 2:20 (Sefaria) cites «נשי למך» (Gen 4:23) and «ואת יפתח ואת שמואל» (I Sam 12:11), as her line says"
+     }
     },
     {
      "kind": "text",
      "he": "(בסוף דברי רמב\"ן אלה נפלה טעות דפוס בחומשים שלנו וצריך להגיה: \"ולא מצא כנגדו בדרך \"נשי למך\"... וכן הגיה בעל כור הזהב.)",
      "basis": "scan-only",
-     "cite": "bereshit-scancheck/161223-1953.md:91,107"
+     "cite": "bereshit-scancheck/161223-1953.md:91,107",
+     "triage": {
+      "use": "scan",
+      "why": "Ramban on Gen 2:20 (Sefaria) cites «נשי למך» (Gen 4:23) and «ואת יפתח ואת שמואל» (I Sam 12:11), as her line says"
+     }
     },
     {
      "i": 25,
@@ -383,7 +396,10 @@
       }
      ],
      "basis": "digitization",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 31,
@@ -458,7 +474,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -505,7 +524,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "spelling",
+      "why": "the checker paired the wrong fragments in its list; its table shows a spelling-only difference"
+     }
     },
     {
      "i": 44,
@@ -539,7 +561,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 47,
@@ -555,7 +580,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   }
@@ -571,14 +599,5 @@
   "§ו: Rashi `ד\"ה לבשר אחד` added beyond her pointer.",
   "§ו: Sheet footer dropped: `השאלות המסומנות x קשות והמסומנות xx קשות ביותר, ענה לפי יכלתך והבנתך. תשובות יש לשלוח לנחמה ליבוביץ, ההסתדרות הציונית העולמית, המח' לחנוך ותרבות תורניים, ירושלים. ת.ד. 92.`"
  ],
- "needs_human": [
-  10,
-  20,
-  "after 24",
-  30,
-  35,
-  43,
-  46,
-  47
- ]
+ "needs_human": []
 }

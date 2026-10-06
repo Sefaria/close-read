@@ -233,6 +233,24 @@ def classify(fix):
     return 'corroborated' if '[?]' in fix['scan'] else 'spelling'
 
 
+TRIAGE = {(d['sheet'], d['i']): d for d in
+          json.load(open(os.path.join(ROOT, 'bereshit-scancheck', 'triage.json')))['decisions']}
+
+
+def apply_triage(sid, key, it):
+    d = TRIAGE.get((sid, key))
+    if not d:
+        return
+    it['triage'] = {'use': d['use'], 'why': d['why']}
+    if d['use'] in ('digitized', 'editorial') and it.get('digitized_he'):
+        it['he'], it['scan_reading'] = it['digitized_he'], it['he']
+        it['basis'] = 'digitization'
+    if d['use'] == 'not-published':
+        it['publish'] = False
+    if d['use'] != 'open':
+        it.pop('needs_human', None)
+
+
 OVERRIDES = json.load(open(os.path.join(ROOT, 'bereshit-scancheck', 'overrides.json')))['insert']
 
 
@@ -342,15 +360,19 @@ def harvest(theme, year, year_he, sid, letters):
             hard = [f for f in it.get('scan_unapplied', []) if f['class'] == 'substantive']
             if mine and (hard or any(f['class'] == 'substantive' for f in it.get('scan_fixes', []))):
                 it['needs_human'] = True
+            apply_triage(sid, it['i'], it)
+            if it.get('needs_human'):
                 needs.append(it['i'])
             items.append(it)
             for ov in OVERRIDES:
                 if ov['sheet'] == sid and ov['after'] == it['i']:
-                    items.append({'kind': ov['kind'], 'he': ov['he'], 'basis': 'scan-only',
-                                  'cite': 'bereshit-scancheck/' + ov['cite'],
-                                  **({'needs_human': True} if '[?]' in ov['he'] else {})})
-                    if '[?]' in ov['he']:
+                    new = {'kind': ov['kind'], 'he': ov['he'], 'basis': 'scan-only',
+                           'cite': 'bereshit-scancheck/' + ov['cite'],
+                           **({'needs_human': True} if '[?]' in ov['he'] else {})}
+                    apply_triage(sid, f"after {ov['after']}", new)
+                    if new.get('needs_human'):
                         needs.append(f"after {ov['after']}")
+                    items.append(new)
         out_secs.append({'letter': L,
                          'header_scan': (sc or {}).get('headers', {}).get(L),
                          'header_digitized': s['header']['digitized'] if s['header'] else None,
@@ -386,7 +408,9 @@ if __name__ == '__main__':
          'are applied from the scan automatically, and citation detail the digitizers *added* is',
          'kept as an editorial addition (Lev, 2026-10-06); neither is listed. For each line, check the',
          'scan and mark ✅ (scan reading right) or ✏️ (correction). Cites point into the scan-check',
-         'files, which cite page and strip.', '']
+         'files, which cite page and strip.', '',
+         'Differences already settled by evidence (an independent text, a zoomed reading, her own',
+         'recurring wording) are recorded with their reason in `triage.json` and are not listed here.', '']
     for theme, leaves in CHOSEN.items():
         for year, year_he, sid, letters in leaves:
             h = json.load(open(os.path.join(ROOT, 'bereshit-harvest', theme, f'{year}.json')))
@@ -395,6 +419,11 @@ if __name__ == '__main__':
                 hs, hd = sec.get('header_scan'), sec.get('header_digitized')
                 for it in sec['items']:
                     if it['kind'] not in ('text', 'question'):
+                        continue
+                    if it.get('triage', {}).get('use') not in (None, 'open'):
+                        continue
+                    if it.get('triage', {}).get('use') == 'open':
+                        rows.append(f"- §{sec['letter']} [{it.get('i')}] **open, to settle when drafting**: {it['triage']['why']}")
                         continue
                     if it.get('basis') == 'scan-only':
                         rows.append(f"- §{sec['letter']} **missing from the digitization**: «{it['he']}»  ({it['cite']})")

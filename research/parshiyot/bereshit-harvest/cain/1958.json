@@ -104,7 +104,10 @@
       }
      ],
      "basis": "digitization",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 9,
@@ -120,7 +123,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -214,7 +220,11 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "needs_human": true,
+     "triage": {
+      "use": "open",
+      "why": "her list of comparison verses (scan «ב\"ר ל\"ז … אלוקי אדוני אליהו …»): check each verse when drafting 1958 §ב"
+     }
     }
    ]
   },
@@ -396,8 +406,6 @@
   "§ד: Her underlining in [28] is rendered as bold in the digitization."
  ],
  "needs_human": [
-  8,
-  9,
   20
  ]
 }

@@ -79,7 +79,11 @@
      "kind": "question",
      "he": "4. בעקבות מי מהם הולך ספורנו?",
      "basis": "scan-only",
-     "cite": "bereshit-scancheck/161471-1952.md:30 (spot-checked by Claude on page1_strip2)"
+     "cite": "bereshit-scancheck/161471-1952.md:30 (spot-checked by Claude on page1_strip2)",
+     "triage": {
+      "use": "scan",
+      "why": "Claude read the scan (page1_strip2): «4. בעקבות מי מהם הולך ספורנו?», with ספורנו underlined"
+     }
     },
     {
      "i": 7,
@@ -141,7 +145,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     },
     {
      "i": 11,
@@ -248,7 +255,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -362,7 +372,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   },
@@ -417,7 +430,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   }
@@ -437,10 +453,5 @@
   "§ח: Banner `בריאת האשה` promoted into the lettered header ח; her label `עקדת יצחק:` became a grey attribution label.",
   "§ח: Abbreviation `ית'` expanded to `יתברך`."
  ],
- "needs_human": [
-  10,
-  23,
-  40,
-  43
- ]
+ "needs_human": []
 }

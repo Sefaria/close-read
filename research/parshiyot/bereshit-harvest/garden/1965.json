@@ -347,7 +347,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "scan",
+      "why": "Shadal on Gen 2:19 (Sefaria) cites «תהלים ק\"ד כ\"ח», as the scan has; the digitization's כ\"ה is wrong"
+     }
     },
     {
      "i": 44,
@@ -368,7 +371,10 @@
       }
      ],
      "basis": "scan",
-     "needs_human": true
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
     }
    ]
   }
@@ -381,8 +387,5 @@
   "§ו: Abbreviations expanded (`ב\"ה` → `ברוך הוא`, `תהל'` → `תהלים`).",
   "§ו: Sheet footer dropped: `התשובות המסומנות ב-x קשות והמסומנות ב-xx קשות ביותר. יבחר כל לומד לפי רמתו.` / `תשובות יש לשלוח לנחמה ליבוביץ, ירושלים, קרית משה.` (The x/xx marks on §ב and §ה questions, outside my sections, are also not in the digitization.)"
  ],
- "needs_human": [
-  43,
-  44
- ]
+ "needs_human": []
 }

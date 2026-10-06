@@ -477,7 +477,25 @@ Each scan fix is classed:
 - **spelling:** applied automatically;
 - **corroborated:** a doubtful letter, but the digitization's reading fits;
 - **substantive:** listed for a person in the generated
-  [`bereshit-scancheck/REVIEW.md`](bereshit-scancheck/REVIEW.md) (86 lines, 2–16 per leaf).
+  [`bereshit-scancheck/REVIEW.md`](bereshit-scancheck/REVIEW.md).
+
+**Triage (Claude, 2026-10-06), asked "are all of these relevant to what we publish?"** No.
+The 86 substantive lines were 64 distinct items. Each is now decided in
+[`bereshit-scancheck/triage.json`](bereshit-scancheck/triage.json), with its evidence:
+- **41 form:** same meaning in another form (word form, grammar, punctuation, word order).
+  Her words from the scan are used.
+- **8 settled from the scan:** read by Claude zoomed, e.g. 1950 "הראשון", 1956 "למה לא"; or
+  confirmed by the cited source, e.g. Shadal cites Ps 104:28 and Ramban 2:20 cites Gen 4:23.
+- **4 digitizer corrections:** her typos fixed, e.g. Ramban cites Deut 2:23, not her 2:22, and
+  the German line is Mendelssohn's, so "רמבמ"ן" is right. The digitized text is kept, with her
+  reading noted.
+- **3 spelling or editorial.**
+- **7 not published:** cross-references to other sheets and the teacher's guide, labels, a
+  grammatical aside, and the digitizer's "ענה לשאלתם!".
+- **2 open:** 1958 §ב's verse list and 1950 §ב's Ibn Ezra start point. Both get settled from
+  the cited texts when those leaves are drafted.
+
+**Nothing is left for Lev to review.**
 
 Verse texts for Gen 1:1–6:8 are cached in `bereshit-verses.json` (`fetch_verses.py`): MAM
 Hebrew plus the JPS gender-sensitive English, with leaked footnotes removed and the divine name
