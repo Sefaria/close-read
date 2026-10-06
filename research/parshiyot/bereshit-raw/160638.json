@@ -1,0 +1,373 @@
+{
+ "dateCreated": "2019-03-05T15:21:44.446532",
+ "dateModified": "2019-03-07T02:02:48.184295",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 2:9",
+  "Genesis 1:11",
+  "Ramban on Genesis 2:17:1",
+  "Shadal on Genesis 2:17:1",
+  "Malbim on Genesis 2:16:2",
+  "Genesis 2:17",
+  "Ibn Ezra on Genesis 2:17:1",
+  "Abarbanel on Torah, Genesis 2:8:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160638,
+ "includedRefs": [
+  "Genesis 2:9",
+  "Genesis 2:9",
+  "Abarbanel on Torah, Genesis 2:8:1",
+  "Genesis 2:17",
+  "Ramban on Genesis 2:17:1",
+  "Ibn Ezra on Genesis 2:17:1",
+  "Shadal on Genesis 2:17:1",
+  "Malbim on Genesis 2:16:2",
+  "Genesis 1:11"
+ ],
+ "nextNode": 36,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עיין גם גיליונות בראשית <a class=\"refLink\" href=\"/sheets/161545\" data-ref=\"sheet.161545\" target=\"_blank\">תש\"ו</a>, <a class=\"refLink\" href=\"/sheets/161685\" data-ref=\"sheet.161685\" target=\"_blank\">תש\"ך</a>.    "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. עץ הדעת ועץ החיים</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:9",
+   "text": {
+    "en": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.",
+    "he": "\"וַיַּצְמַח ה' אֱ-לֹהִים מִן הָאֲדָמָה כָּל עֵץ נֶחְמָד לְמַרְאֶה וְטוֹב לְמַאֲכָל וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע\""
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">עקדת יצחק, שער השביעי:</span><br><span style=\"color: rgb(51,51,51);\">הצמיח לו שם כל עץ נחמד למראה וטוב למאכל, הקדים מה שהוא על צד היותר טוב מפני מעלתו, כי מהידוע שהדבר אשר כזה הוא מעולה מהנמצא לו על צד ההכרח, כמו שכתב החוקר בפרק א' במידות על האהבה, אמר \"ואינו דבר הכרחי לבד אבל הוא גם דבר טוב\"... וכך הדברים הנחמדים למראה מתוספת המזונות וחלופיהן ושינוי הטעמים ומיני ערבותם, וכן בשאר העניינים מהמלבוש והדירה וזולתם היותר נאותים לעונשים לבלות ימיהם בטוב ושנותם בנעימים. \nועל הצורך ההכרחי אמר \"וטוב למאכל\", כי זה מה שיכלול המזון ושאר הצרכים ההכרחיים אשר אי אפשר להתקיים זולתם, כי כולם הכרחיים כמוהו. \nולפי ששני מיני אלו הצרכים הם מצד החלק החומרי, כללם בזיכרון עץ אחד ואמר: \"כל עץ נחמד למראה וטוב למאכל\" כי היו לאחדים. \nוהזכיר אצלם \"מן האדמה\" לומר שהם לצורך הכוח הארצי, מה שלא אמר בשני האחרים, ואולם לצורך הכוח השכלי המוחלט הצמיח לו עץ החיים אשר בתוך הגן והוא אשר יחזיק הכוח השכלי הנותן בו כוח לעמוד על אמיתת המושכלות להבדיל בין האמת והשקר ולהידבק תמיד בחיים הנצחיים כי הוא חלקו ועץ חיים הוא למחזיקים בו. וכן באמת הורהו ה' עץ החיים אשר הוא מזון הכוח השכלי וכמו שאמרה התורה על עצמה (<a class=\"refLink\" href=\"/Proverbs 5:30\" data-ref=\"Proverbs 5:30\" target=\"_blank\">משלי ה'</a>) \"כי מוצאי מצא חיים\". \nואמר שהוא \"בתוך הגן\", כי כן יסבוב עליו הגן כולו, כי הוא תוכיות הכל ועיקר הכל ותכלית הכל. \nאמנם לצורך ההתבוננות מהשכל המעשי – בכל מה שיצטרך אליו אדם קצת עם קצת חיים נאותים אנישיים אשר בו יסדר המלאכות והדתות ויישוב המדינות והנהגתם, כי הוא המחויב שישתלם בו השכל האנושי להגיע אל החיים השכליים בהחלט, והוא העניין שהשתדלה בו התורה האלוהית בשיעור נפלא – ראה אלוקים והצמיח אצל עץ החיים את עץ הדעת טוב ורע; הודה כי מסגולת זה העץ הוא, כי בשימוש בו ובמראהו ובריחו ובמגעו ואולי בטעימא ממנו לבד נקנה לאדם רוח דעת טוב ורע בכל אלו העניינים, כי הידיעה הזאת לא תשלם כי אם בידיעת שניהם הטוב להידבק בו והרע למאוס אותו.. \nוהנה היה עץ הדעת אצל עץ החיים להישירו אל מה שראוי ממנו להגיע אל החיים האמיתיים שהוא הטוב, לא שישתקע בו ויחשוב לו לתכלית, כי הוא הרע והנאסר עליו. והיה זה על הדרך שנאמר בתורה האלוקית, \"ראה נתתי לפניך היום את החיים ואת הטוב\" (<a class=\"refLink\" href=\"/Deuteronomy 30:30\" data-ref=\"Deuteronomy 30:30\" target=\"_blank\">דברים פרק ל'</a>), תורה כי הם שני עניינים קרובים ומצרניים, לא יתפרדו רק ליודע להשתמש בו כהוגן. \nורוב התורה או כולה אינו אלא לסדר זה הטוב המגיע האדם אל החיים.. \nוהנה עם זה כבר צייר וחקק במעשה הגן הזה צורת העולם בכללו ואגבו צורת העולם הקטן שהוא האדם וכל מיני חייו..</span>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מהן התמיהות הסגנוניות בפסוקנו שעליהן עומד בעל העקדה?"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מהו לדעתו היחס שבין עץ החיים לבין עץ הדעת?"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  במה שונה תפישתו מן התפישה הרגילה באיסור האכילה מעץ הדעת?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. מה הייתה לפי פירושו טעות האישה באומרה \"ולא תגעו בו\"?"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5.  מהי לדעתו מטרת התורה כולה או רובה, ומה מקום ראה פסוקנו לדבר על מטרת התורה כולה?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "6. כיצד מפרש בעל העקדה את הפסוק <a class=\"refLink\" href=\"/Deuteronomy 30:30\" data-ref=\"Deuteronomy 30:30\" target=\"_blank\">דברים פרק ל'</a> פסוק ט\"ו?"
+  },
+  {
+   "node": 11,
+   "outsideText": "<table><tbody><tr><td><big>ב. הדגשת \"בתוך הגן\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:9",
+   "text": {
+    "en": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.",
+    "he": "\"וַיַּצְמַח ה' אֱ-לֹהִים מִן הָאֲדָמָה כָּל עֵץ נֶחְמָד לְמַרְאֶה וְטוֹב לְמַאֲכָל וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע\""
+   }
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ב׳:ח׳:א׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 2:8:1",
+   "text": {
+    "en": "",
+    "he": "ואפשר לומר כי \"בתוך הגן\" חוזר לעץ החיים בלבד לפי שהוא היה באמצע הגן, כמו שתירגם אונקלוס, לפי שאין החיים אלא בשווי ובמיצוע מהאיכויות; ואמנם עץ הדעת לא אמר שהיה \"בתוך הגן\" אם לפי שלא היה באמצעיתו אבל היה בסופו או קרוב לקצהו, <b>כי הוא היה מטבע קצה ההפלגה – לא מהמיצוע</b>."
+   }
+  },
+  {
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אבן כספי:</span><br><span style=\"color: rgb(51,51,51);\">לא אמר מעץ הדעת והיה \"בתוך הגן\" כי אינו רק בקצה גבולו.</span>"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "הסבר לפי זה למה אמרה האישה לנחש: \"ומפרי העץ אשר <b>בתוך הגן</b> – אמר אלוקים – לא תאכלו ממנו ולא תגעו בו\" (פרק ג' פסוק ג')!"
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ג. הדגשת \"ממנו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ז",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:17",
+   "text": {
+    "en": "but of the tree of the knowledge of good and evil, thou shalt not eat of it; for in the day that thou eatest thereof thou shalt surely die.’",
+    "he": "\"וּמֵעֵץ הַדַּעַת טוֹב וָרָע לֹא תֹאכַל מִמֶּנּוּ...\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:י״ז:א׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 2:17:1",
+   "text": {
+    "en": "<b>You shall not eat from it.</b> That is, from its fruit, for the tree itself was not edible. <b>For on the day you eat from it you will certainly die.</b> That is, you will have incurred the death penalty, not that you will die immediately. A similar usage appears in I <i>Melachim</i> 2:42. According to the Sages, however, if Adam had not sinned he would have indeed been immortal, for the soul is capable of sustaining the body forever and this is what the Creator originally intended.",
+    "he": "ד\"ה לא תאכל ממנו: מן הפרי יזהירנו, כי העץ איננו נאכל. וכן אמר למטה \"פרי העץ אשר בתוך הגן\", וכמוהו (<a class=\"refLink\" href=\"/Isaiah 36:30\" data-ref=\"Isaiah 36:30\" target=\"_blank\">ישעיהו ל\"ו</a>): \"ואכלו איש את גפנו ואיש את תאנתו\", וכן (<a class=\"refLink\" href=\"/Genesis 3:30\" data-ref=\"Genesis 3:30\" target=\"_blank\">בראשית ג' י\"ז</a>) \"בעצבון תאכלנה\" – תאכל פריה. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ב׳:י״ז:א׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 2:17:1",
+   "text": {
+    "en": "<b>Ad-noy Elokim commanded.</b> Hashem would not have commanded Adam to begin with if he possessed no intelligence. Moreover, he obviously possessed the intellect to give names to the other creatures. It was only knowledge of good and evil that he lacked.",
+    "he": "ד\"ה ויצו: ...ואחר שאמר \"מעץ הדעת לא תאכל\" מה צורך למילת ממנו? רק הוסיף לבאר. וכן (<a class=\"refLink\" href=\"/Exodus 2:30\" data-ref=\"Exodus 2:30\" target=\"_blank\">שמות ב'</a>) \"ותפתח ותראהו את הילד\", או טעמו אפילו מעט ממנו"
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית ב׳:י״ז:א׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 2:17:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה לא תאכל ממנו: מילת \"ממנו\" נכפלה לחיזוק כמו למטה..."
+   }
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ב׳:ט״ז:ב׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 2:16:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ומעץ הדעת לא תאכל ממנו... והוא זרות בלשון, כמו שכתבתי בספרי \"באילת השחר\" כלל ר\"י * זה היה ניסיון לאדם, כי אדם טעה מלשון זה, שבא להורות שרק ממנו לא תאכל, רצה לומר מן המחובר לאילן, אבל אם תתלוש האישה מפירותיו ותיתן לו, מותר לו לאכול; ועל כן אמר (ג', י\"ב) \"האישה נתנה לי מן העץ\", שהיה דעתו שעל זה לא נזהר; וזה היה הניסיון שלא היה לו לפרש לעצמו פירוש בנבואתו משיקול דעתו (<a class=\"refLink\" href=\"/I Kings 3:30\" data-ref=\"I Kings 3:30\" target=\"_blank\">מלכים א' פרק ג'</a>)... כי אין לנו להקל במצוות ה' על פי פירוש שנפרש מסברתנו, שעל כל פנים היה לו להסתפק אם היה כן כוונת המצווה והיה לו להחמיר בספקו. וזה היה ניסיון: אם יעמוד בעצמו עת יסיתהו יצרו שממציא לו דרך היתר להקל במצווה על פי סברתו."
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה קשה להם?"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה בין הרמב\"ן לראב\"ע ביישוב הקושי?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. היכן מצא שד\"ל בפרשתנו דוגמה נוספת לכפל מעין זה?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. במה שונה המלבי\"ם מכל שאר הפרשנים שהבאנו ביישוב קושי זה?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5. מהי ראייתו מבראשית פרק ג' פסוק י\"ב?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. במה מנוגדת דעתו לדעת בעל העקדה (עיין מקטע א')?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">* אילת השחר, כלל ר\"י:</span><br><span style=\"color: rgb(51,51,51);\">כל מקום שכפל הכינוי עם גוף הפעול יש בו דרוש (<a class=\"refLink\" href=\"/Leviticus 25:46\" data-ref=\"Leviticus 25:46\" target=\"_blank\">ויקרא כ\"ה מ\"ו</a>) \"ובאחיכם... לא תרדה בו\", וכן כפל הייחוס \"ממנו מן\".</span>"
+  },
+  {
+   "node": 29,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות בטעמי המקרא</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:י״א",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:11",
+   "text": {
+    "en": "And God said: ‘Let the earth put forth grass, herb yielding seed, and fruit-tree bearing fruit after its kind, wherein is the seed thereof, upon the earth.’ And it was so.",
+    "he": "\"וַיֹּאמֶר אֱ-לֹהִים תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ בוֹ עַל הָאָרֶץ וַיְהִי כֵן\""
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מנחת שי:<br>ד\"ה \"דשא\": במקצת ספרים בזקף קטן וכן הוא נראה, כי כן דרך לבוא זקף קטן אחר הפשט (פשטא). אך בספרי ספרד ובדפוס קדמון הוא ברביע וכן נכון כפי ניגון הטעמים, וכן העיר רד\"ק בספר עט סופר."
+  },
+  {
+   "node": 32,
+   "outsideText": "איך מתפרש הפסוק לפי שתי מסורות הטעמים?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. הרכסים לבקעה:<br>ד\"ה \"למינו\": הלמ\"ד כלמ\"ד \"לבקרים\", \"לשבטיו\", כלומר: בקר בקר, שבט ושבט אשר לו. כן \"למינו\". מינים מינים, והוא מחובר ל- \"עץ פרי\" ולא ל- \"עשה פרי\" ולכך \"פרי\" השני בפשטא. ופירוש הכתוב: עץ פרי מינים מינים עשה פרי. ולא כמי שמפרש \"למינו\" = לפי מינו. כי טרם יהיה, לא נודע מה מינו."
+  },
+  {
+   "node": 34,
+   "outsideText": "הסבר את דבריו."
+  }
+ ],
+ "ssn": 212,
+ "status": "public",
+ "summary": "1964 (תשכ\"ד)<br><a href=\"http://www.nechama.org.il/pdf/212.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשכ\"ד - עצי הגן",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

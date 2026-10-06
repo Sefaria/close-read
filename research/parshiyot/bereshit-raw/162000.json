@@ -1,0 +1,700 @@
+{
+ "dateCreated": "2019-03-06T05:35:06.081669",
+ "dateModified": "2019-03-07T02:22:40.768885",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:15",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:16",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:17",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:18",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:19",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:20",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:21",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:22",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:23",
+  "Jeremiah 16:12",
+  "Ibn Ezra on Genesis 3:1:1",
+  "Psalms 126:3",
+  "Genesis 2:17",
+  "Joel 2:20",
+  "Genesis 2:16",
+  "Sforno on Genesis 2:2:1",
+  "Ramban on Genesis 2:9:1",
+  "Ibn Ezra on Genesis 2:2:2",
+  "Genesis 2:3",
+  "Genesis 2:4",
+  "Genesis 2:2",
+  "Ibn Ezra on Genesis 2:2:1",
+  "Radak on Genesis 2:3:3",
+  "Ibn Ezra on Genesis 2:6:1",
+  "Ramban on Genesis 2:17:1",
+  "Rashi on Genesis 2:2:1",
+  "Sforno on Genesis 2:4:1",
+  "Abarbanel on Torah, Genesis 3:1:1",
+  "Sforno on Genesis 3:1:2",
+  "Genesis 3:2",
+  "Ibn Ezra on Genesis 2:3:3",
+  "Ramban on Genesis 2:4:1",
+  "Rashi on Genesis 2:3:2",
+  "Genesis 2:6",
+  "Rabbeinu Bahya, Bereshit 2:9:1",
+  "Genesis 3:1",
+  "Rashi on Genesis 3:1:3",
+  "Judges 13:9",
+  "Ibn Ezra on Deuteronomy 33:6:3",
+  "Sforno on Genesis 3:1:1",
+  "Ramban on Genesis 2:3:1",
+  "Genesis 2:9",
+  "Ibn Ezra on Genesis 2:2:3"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 162000,
+ "includedRefs": [
+  "Genesis 2:2",
+  "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:15-23",
+  "Rashi on Genesis 2:2:1",
+  "Ibn Ezra on Genesis 2:2:1-3",
+  "Sforno on Genesis 2:2:1",
+  "Genesis 2:3",
+  "Rashi on Genesis 2:3:2",
+  "Ibn Ezra on Genesis 2:3:3",
+  "Ramban on Genesis 2:3:1",
+  "Radak on Genesis 2:3:3",
+  "Judges 13:9",
+  "Jeremiah 16:12",
+  "Joel 2:20",
+  "Psalms 126:3",
+  "Genesis 2:4",
+  "Ramban on Genesis 2:4:1",
+  "Sforno on Genesis 2:4:1",
+  "Genesis 2:6",
+  "Ibn Ezra on Genesis 2:6:1",
+  "Ibn Ezra on Deuteronomy 33:6:3",
+  "Genesis 2:9",
+  "Ramban on Genesis 2:9:1",
+  "Ramban on Genesis 2:9:1",
+  "Rabbeinu Bahya, Bereshit 2:9:1",
+  "Genesis 2:17",
+  "Ramban on Genesis 2:17:1",
+  "Ramban on Genesis 2:17:1",
+  "Genesis 3:1",
+  "Ibn Ezra on Genesis 3:1:1",
+  "Sforno on Genesis 3:1:1",
+  "Abarbanel on Torah, Genesis 3:1:1",
+  "Genesis 3:1",
+  "Rashi on Genesis 3:1:3",
+  "Sforno on Genesis 3:1:2",
+  "Genesis 2:16",
+  "Genesis 3:2"
+ ],
+ "nextNode": 68,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "heRef": "בראשית ב׳:ב׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:2",
+   "text": {
+    "en": "And on the seventh day God finished His work which He had made; and He rested on the seventh day from all His work which He had made.",
+    "he": "\"וַיְכַל אֱ-לֹהִים בַּיּוֹם הַשְּׁבִיעִי\""
+   }
+  },
+  {
+   "heRef": "מכילתא דרבי ישמעאל, מַסֶּכְתָּא דְפִסְחָא י״ד:ט״ו-כ״ג",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Mekhilta DeRabbi Yishmael, Tractate Pischa 14:15-23",
+   "text": {
+    "en": "(One verse (Exodus  12:40) states \"And the habitation of the children of Israel in the land of Egypt was four hundred and thirty years,\" and another, (Genesis 15:13) \"and they shall serve them and they shall afflict them four hundred years.\" How are these two verses to be reconciled? Thirty years before the birth of Isaac, the covenant between the pieces (at which the above was said) was made, (and after his birth until the exodus four hundred years elapsed.) Rebbi says: One verse states: \"and they shall serve them and they shall afflict them four hundred years,\" and another, (Ibid. 16) \"and the fourth generation will return here.\" How are these two verses to be reconciled? If they repent, I will redeem them by generations (Abraham, Isaac, Jacob, and the tribes). If not, I will redeem them by years. \"And the habitation of the children of Israel in Egypt and in other lands was four hundred and thirty years.\"  This is one of the verses that they (the seventy-two elders changed) in transcribing (the Torah) for King Ptolemy, viz. (Megillah 9a): Once King Ptolemy assembled seventy-two elders and placed each in a separate house (without telling them why he was doing so), and he said to each of them: \"Transcribe for me [into Greek] the Torah of Moses your teacher.\" The Holy One Blessed be He placed goodly counsel in the heart of each, and they all wrote as one (Genesis 1:1): \"G d created in the beginning\" [so that Ptolemy could not structure the words as: \"In the beginning, god was created.\"] [They wrote] (Ibid. 1:26): \"I will make a man in image and form\" [and not, literally: \"Let us make a man, etc.\", so that he would not be able to argue for a plurality of gods]. [They wrote] (Ibid. 2:2): \"And He finished on the sixth day, and He rested on the seventh day\" [and not, literally: \"And G d finished His work on the seventh day,\" so that he could not argue that G d worked on the seventh day]. [They wrote] (Ibid. 5:2): \"Male and female He created him\" [and not, literally: \"Male and female He created them\" (which Ptolemy could use as an argument for the creation of two separate bodies)]. [They wrote] (Ibid. 11:7): \"Let Me go down and confound their tongue\" [and not, literally: \"Let us go down\", so that he would not find support for his polytheistic views]. [They wrote] (Ibid. 18:12): \"And Sarah laughed bikrovehah\" [\"among her neighbors\", and not, literally: \"bekirbah\" (\"within her\"), so that Ptolemy would not question why Sarah should be punished for laughing, and not Abraham, if they both laughed inwardly]. [They wrote] (Ibid. 49:7): \"For in their wrath they killed an ox\" [instead of: \"a man\" (so as not to give Ptolemy a pretext to call Jews murderers)], \"and in their willfulness they razed a manger\" [instead of: \"an ox\"]. [They wrote] (Exodus 4:20): \"And Moses took his wife and his sons and he rode them on the bearer of men\" [instead of \"on the ass\" (so that he not say that Moses lacked a horse or a camel)]. [They wrote] (Ibid. 12:40): \"And the sojourning of the Jews, their dwelling in Egypt and in other lands was four hundred years.\" [(and not just: \"their dwelling in Egypt,\" as per the verse, which would be open to dispute by Ptolemy's reckoning)]. [They wrote] (Ibid. 24:5): \"And he sent the dignitaries of the children of Israel\" [lest \"youths\" be taken demeaningly]; (Ibid. 11): \"And to the dignitaries of the children of Israel, He did not stretch forth His hand.\" [They wrote] (Numbers 16:15): \"Not one desirable object of theirs\" [(instead of, literally: \"Not one ass of theirs\")] have I taken\" [thus preventing Ptolemy from contending that it was only an ass that Moses had not taken]. [They wrote] (Deuteronomy 4:19): [\"all the host of heaven …] which the L rd your G d bequeathed for illumination to all the peoples under the heavens\" [and not, as in the verse: \"which the L rd your G d bequeathed to all the peoples under the heavens,\" thus preventing him from construing this verse as a license for idolatry]. [They wrote] (Ibid. 17:3): \"and he go and serve other gods … which I did not command to serve\" [instead of, as per the verse: \"which I did not command\", lest he misconstrue it as: \"which I did not command to exist\" (and which \"forced themselves\" into creation against My will)]. And instead of (Leviticus 11:6): \"And the arneveth (hare) […it is unclean to you\"], they wrote: \"the slender-legged\"; for Ptolemy's wife was called \"Arneveth\", and Ptolemy would [otherwise] say: \"The Jews have poked fun at me and put my wife's name in the Torah!\" (Megillah 9a) (Exodus  12:41) \"and it was at the end of four hundred and thirty years\": We are hereby apprised that when the time arrived, the L rd did not delay them for one moment. On the fifteenth of Nissan the ministering angels came to Abraham to apprise him (that Isaac would be born); (on the fifteenth of Nissan he was born) and on the fifteenth of Nissan the decree went forth (in the covenant) between the pieces, it being written \"And it was at the end\" — there was one end for all of them. \"and it was on this very same day that all the hosts of the L rd went forth\": (The Shechinah, too, went forth with them.) And thus do you find, that whenever Israel is in bondage, the Shechinah is with them, viz. (Exodus  24:10) \"And they saw the G d of Israel, and under His feet, as the work of a sapphire brick\" (the sign of that bondage). And what is written of their redemption? (Ibid.) \"and as the appearance of the heavens in brightness.\" And it is written (Isaiah 63:9) \"In all of their sorrows, He sorrowed.\" This tells me only of communal sorrows. Whence do I derive (the same for) those of the individual? From (Psalms 91:15) \"He will call upon Me and I will answer Him; I am with him in sorrow,\" and (Genesis 39:20-21) \"And Joseph's master took him and placed him in the prison house … and the L rd was with Joseph, etc.\", and (II Samuel  7:23) \"… before Your people whom You have redeemed from Egypt, a nation and its G d.\" R. Eliezer says: Idolatry passed with Israel in the sea, viz. (Zechariah 10:11) \"And a 'rival' passed in the sea, and struck waves in the sea.\" Which was that? The idol of Michah (viz. Shoftim 17:4). R. Akiva said (on II Samuel 7:23): Were it not explicitly written, it would be impossible to say it, Israel  saying before the L rd, as it were, \"You redeemed Yourself!\" And thus do you find, that wherever they were exiled, the Shechinah was with them. They were exiled to Egypt — the Shechinah was with them, viz. (I Samuel 2:27) \"Did I not reveal Myself to your father's house when they were in Egypt? They were exiled to Bavel — the Shechinah was with them, viz. (Isaiah 43:14) \"For your sake I was exiled to Bavel.\" They were exiled to Eilam — the Shechinah was with them, viz. (Jeremiah 49:38) \"and I set My throne in Eilam.\" They were exiled to Edom — the Shechinah was with them, viz. (Isaiah 63:1) \"Who is This coming from Edom, His garments crimsoned, from Batzrah?\" And when they return in the future, the Shechinah will be with them, viz. (Devarim 30:3) \"And veshav the L rd your G d.\" It is not written \"veheshiv\" (\"He will return\" [you]), but \"veshav\" (\"He [Himself] will return.\") and it is written (Song of Songs 4:8) \"With Me from Levanon (the Temple), My bride (Israel); with Me from Levanon come.\" Now is she (Israel) coming from Levanon? Is she not ascending to Levanon? (The intent is: You and I were exiled from Levanon) and we will ascend) together) to Levanon.\n",
+    "he": "איתא במכילתא לשמות י\"ב מ':<br>ומושב בני ישראל אשר ישבו במצרים שלשים שנה וארבע מאות שנה, וזה אחד הדברים ששינו וכתבו שבעים הזקנים שתרגמו התורה ליוונית, לתלמי המלך: ומושב בני ישראל אשר ישבו במצרים ובשאר ארצות שלשים שנה וארבע מאות שנה. כיוצא בו כתבו אליו: אלקים ברא בראשית, אעשה אדם בצלם ובדמות... ויכל ביום השישי וישבת ביום השביעי..."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ב׳:א׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:2:1",
+   "text": {
+    "en": "ויכל אלהים ביום השביעי AND ON THE SEVENTH DAY GOD FINISHED — R. Simeon says: A human being (literally, flesh and blood) who cannot know exactly his times and moments (who cannot accurately determine the point of time that marks the division between one period and that which follows it) must needs add from the week-day and observe it as the holy day (the Sabbath), but the Holy One, blessed be He, who knows His times and moments, began it (the seventh day) to a very hair’s breadth (with extreme exactness) and it therefore appeared as though He had completed His work on that very day (Genesis Rabbah 10:9). Another explanation: What did the world lack? Rest! Sabbath came — Rest came; and the work was thus finished and completed (Genesis Rabbah 10:9)! ",
+    "he": "רבי שמעון אומר: בשר ודם שאינו יודע עתיו ורגעיו צריך להוסיף מחול על הקודש, הקב\"ה שיודע עתיו ורגעיו נכנס בו כחוט השערה ונראה כאילו כלה בו ביום. דבר אחר: מה היה העולם חסר, מנוחה, באת שבת באת מנוחה, כלתה ונגמרה המלאכה."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ב׳:ב׳:א׳-ג׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 2:2:1-3",
+   "text": {
+    "en": "",
+    "he": "יש אומרים כי הימים נבראים, ובבריאת יום שביעי שלמה המלאכה וזה הפירוש תפל. ויש אומרים כי יש בי\"ת שטעמו קודם כמו לא תחסם שור בדישו; אך ביום הראשון תשביתו שאר. ולמה זאת הצרה וכילוי מעשה איננו מעשה. כאילו אמר לא עשה מעשה. וכן פירש ויכל גם וישבת. וטעם מלאכתו אשר עשה ביום הששי טרם יום השבת. וטעם וישבות ביום השביעי מכל מלאכתו - מכל הבריאות שברא."
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ב׳:ב׳:א׳",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 2:2:1",
+   "text": {
+    "en": "ויכל אלוקים ביום השביעי, at the beginning of the seventh “day,” a moment which is indivisible from the time frame which follows, so that both the six previous “days” were an entity in themselves, and the seventh day was a totally self-contained entity. Our sages in Bereshit Rabbah 10,9 describe G’d as knowing the precise moment between the sixth and seventh day and describe it as “thin as a hair’s breadth.” [I believe the problem confronting the sages was the statement that G’d had completed all His work in the six days, and yet the Torah speaks of Him completing, ויכל, His work on the ”seventh” day, something that appears to be a contradiction to the former statement. Ed.] ",
+    "he": "בתחילת היום השביעי שהוא הרגע בלתי מתחלק אשר הוא ראשית לזמן העתיד ואינו חלק ממנו כאמרם ז\"ל נכנס בו כחוט השערה."
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:ג׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:3",
+   "text": {
+    "en": "And God blessed the seventh day, and hallowed it; because that in it He rested from all His work which God in creating had made.",
+    "he": "\"אֲשֶׁר בָּרָא אֱ-לֹהִים לַעֲשׂוֹת\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ג׳:ב׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:3:2",
+   "text": {
+    "en": "אשר ברא אלהים לעשות WHICH GOD IN CREATING HAD MADE — The work which should have been done on the Sabbath He did in the double work which He executed on the sixth day, as it is explained in Genesis Rabbah 11:9.",
+    "he": "המלאכה שהיתה ראויה לעשות בשבת כפל ועשאה בששי, כמו שמפורש בבראשית רבה (י\"א י'). "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ב׳:ג׳:ג׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 2:3:3",
+   "text": {
+    "en": "",
+    "he": "השרשים בכל המינים שנתן בהם כח לעשות דמותם. והמפרש לעשות תחת עשה גם עשה תחת ברא איננו כן לפי דעתי. ואמר הגאון שברכת היום וקידושו ישוב על השומרים שיהיו מבורכים קדושים. "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:ג׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 2:3:1",
+   "text": {
+    "en": "<b>And he blessed [...] and he sanctified:</b> He blessed it with manna and sanctified it with manna - and the verse is written about the future - [this is the] language of our teacher, Shlomo (Rashi) from Bereishit Rabbah 11:2. And in the name of Rabbi Saadia, [some] have said that the blessing and the sanctification is on those that observe [the Shabbat]; that they should be blessed and sanctified. But the understanding of the verse is not that it is speaking about the future. And Rabbi Avraham (Ibn Ezra) said that the blessing is an addition of good - that there be generated greater power to multiply among bodies  and greater intellectual ability for the soul; \"and He sanctified it,\" [means] that he did not do any work on it, as [He did] upon the other days. And his word about this is correct for those that believe in it, as this is not a concept that people can feel [with their senses]. And the truth is that the blessing on the Shabbat day is the source of blessings and it is the foundation of the world; \"and He sanctified it,\" that it should draw from the holy. And if you will understand this, you will know that which they said in Bereishit Rabbah 11:8, \"As it doesn't have a partner\"; and that which they also said, \"The Assembly of Israel will be its partner\"; and you will understand that there is an extra soul on Shabbat, in truth. <b>that the Lord created in making:</b> The work that was fitting to do on Shabbat, He doubled [up] and did on the sixth [day] as is explained in Bereishit Rabbah 11:9 - the language of Rashi. But [Ibn Ezra] says likes its simple understanding; \"[That His] work is the roots in all of the species, that He placed the ability to reproduce in them.\" But it appears to me, that its understanding is that He rested from all of His work that He had created, ex nihilo, to make from it all of the creations mentioned in the first six days. And behold, He said that He rested from the creation and from any action of the creation that He created on the first day, and from the acts that He did on the other days. And it is likely that \"making\" refers to that which is above: \"because He rested from all of His work that He created\" ex nihilo from making (<i>me'leaasot</i>, as if the prefix that means, from, were added). And like it is \"and they stopped counting\" (Genesis 41:49, which is as if it were written, \"from counting\"); \"and they stopped building the city (Genesis 11:8, which means, \"from the city\"); \"guard yourselves climbing the mountain\" (Exodus 19:12, which means \"from climbing\"); \"And they did not depart the commandment of the king\" (II Chronicles 8:15, which means \"from the commandment\"); and so [too] many [other examples of this]. And you should know that also included in the word, \"to make\" is that the six days of creation are all of the days of the world - since their duration will be six thousand years (Rosh Hashanah 31a) - as it is for this reason that they say that the day of the Holy One, blessed be He, is a thousand years (Bereishit Rabbah 19:8). And behold, on the first two days the whole world was water and nothing was completed on them, and they hint to the first two thousand years of chaos (<i>tohu</i>), in which there was not one who called in the name of God. And so did they say (Avodah Zarah 9a), \"Two thousand years of chaos.\" But as there was the creation of light on the first day, it corresponds to the thousand years of Adam - who was the light of the world, recognizing his Creator. And maybe Enosh did not worship idolatry until Adam died. On the second day, \"Let there be a firmament and let it divide\" (Genesis 1:6) - as on it, Noach and his righteous children became separated from the evildoers that were judged with water. On the third day, the dry land appeared and grew vegetation and produced fruit - that is the third millennium that started when Avraham was forty-eight years old (Bereishit Rabbah 48b) - and \"then began the calling in the name of the Lord\" (Genesis 4:26), and 'a righteous sprout' grew; since he pulled many to know the Lord, as they expounded [about] \"and the souls that they had made in Charan\" (Genesis 12:5). And he commanded 'his household and his children after him that they keep the way of the Lord, to do righteousness and justice.' And the matter advanced to the point that his seed received the Torah at Sinai. And the first Temple was built on that day, and they kept all of the commandments, which are the fruits of the world. And you should know that twilight is considered like the next day, and so the matter of each day begins slightly before it; as when Avraham is born at the end of the second day. And so you will see with each and every day. And on the fourth day, the big and small luminaries (the sun and the moon) and the stars were created. Its day hints to the fourth millennium, which is the one that begins when the first Temple was [already] built for  seventy-two years until one hundred and seventy-two years after the second Temple. And behold, on this day 'there was light for all of the Children of Israel,' 'since the glory of God filled the House of the Lord' and the light of Israel was like a fire on top of the altar, crouching there like a lion eating the sacrifices. And afterward, their light diminished and they were exiled, [such] as [the light] disappears at the beginning of the [cycle of the] moon. And it shone for them all the days of the second Temple,  and the fire on top of the altar was like a dog crouching. And the two luminaries set at the evening of the day, and the Temple was destroyed. On the fifth day, the waters swarmed with living animals and flying birds upon the earth. It hints to the fifth millennium that begins one hundred and seventy-two years after the destruction of Temple; since to it were the nations of the world compared, and man was made 'to be like the fish of the sea, like the crawling animals that none rules over - they bring it all up with a hook, they catch them with a net, and gather them with a drag.' And there is no one that seeks the Lord. On the sixth day in the morning, \"Let the earth bring forth the living creature after its kind, animals and creeping things, and beast of the earth after its kind\" (Genesis 1:24) - and its creation was before the shining of the sun, as the matter that is written (Psalms 104:22), \"The sun shines and they gather, and crouch in their dens.\" And then man was created in the image of God, and that is the time of his rulership, as it states (Psalms 104:23), \"Man goes out to his labor and to his work until the evening.\" And that is the sixth millennium, since in its beginning, the beasts rule in it - these are the kingdoms that did not know God. And after its tenth - like the measure of the sunrise to the day (see Pesachim 94a)- the redeemer will come, as it states about him (Psalms 89:37), \"and his throne will be like the sun across from Me.\" This is the son of David, who is made in the image of God, as it is written (Daniel 7:13-14), \"and behold with the clouds of the sky, there was a man coming, and he came up to the One of Ancient Days and they brought him in front of Him and they brought him close to Him. And to him did He give dominion and glory and kingship.\" And this will be one hundred and eighteen [years] after the [first] five thousand, to complete the word of the Lord through the mouth of Daniel (Daniel 12:11), “From the time that the regular sacrifice was removed and the silent abomination was placed, there are one thousand two hundred and ninety days.” And it appears from the change of the days, from the swarms of the waters and the fowl, to the beasts of the land that at the beginning of the sixth millennium, there will arise the rulership of a controlling, fearful and violent nation, and one that comes closer to the truth than the first ones. The seventh day is Shabbat. It hints to the world to come, which is completely Shabbat and rest for eternal life. And may God guard us in all of the days and place our portion with His innocent  servants (those do not try to divine the future).\n",
+    "he": "מלאכה שהיתה ראויה לעשות בשבת כפל ועשה בששי, כמו שמפורש בבראשית רבה (י\"א ט'), לשון רש\"י. אבל רבי אברהם אמר כפשוטו, כי מלאכתו 'השרשים בכל המינים, שנתן בהם כח לעשות כמותן'. ולי נראה פירושו, ששבת מכל מלאכתו אשר ברא יש מאין, לעשות ממנו כל המעשים הנזכרים בששת הימים."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ב׳:ג׳:ג׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 2:3:3",
+   "text": {
+    "en": "אשר ברא אלוקים לעשות, He had created them, whereas it was now up to the plants, animals, etc., to continue the process G’d had begun and to perfect the earth as well as themselves, each species according to its potential.",
+    "he": "לעשות מכאן ואילך, הוא בראם בששת ימי המעשה, שיהיו הם עושים מכאן ואילך, כל מין ומין תולדותיו כפי מה שהם."
+   }
+  },
+  {
+   "heRef": "שופטים י״ג:ט׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Judges 13:9",
+   "text": {
+    "en": "And God hearkened to the voice of Manoaĥ; and the angel of God came again to the woman as she sat in the field: but Manoaĥ her husband was not with her.",
+    "he": "\"וַיִּשְׁמַע הָאֱ-לֹהִים בְּקוֹל מָנוֹחַ וַיָּבֹא מַלְאַךְ הָאֱ-לֹהִים עוֹד אֶל הָאִשָּׁה וְהִיא יוֹשֶׁבֶת בַּשָּׂדֶה וּמָנוֹחַ אִישָׁהּ אֵין עִמָּהּ\""
+   }
+  },
+  {
+   "heRef": "ירמיהו ט״ז:י״ב",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Jeremiah 16:12",
+   "text": {
+    "en": "and ye have done worse than your fathers; for, behold, ye walk every one after the stubbornness of his evil heart, so that ye hearken not unto Me;",
+    "he": "\"וְאַתֶּם הֲרֵעֹתֶם לַעֲשׂוֹת מֵאֲבוֹתֵיכֶם וְהִנְּכֶם הֹלְכִים אִישׁ אַחֲרֵי שְׁרִרוּת לִבּוֹ הָרָע לְבִלְתִּי שְׁמֹעַ אֵלָי\""
+   }
+  },
+  {
+   "heRef": "יואל ב׳:כ׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Joel 2:20",
+   "text": {
+    "en": "But I will remove far off from you the northern one, And will drive him into a land barren and desolate, With his face toward the eastern sea, And his hinder part toward the western sea; that his foulness may come up, and his ill savour may come up, because he hath done great things.’",
+    "he": "\"וְאֶת הַצְּפוֹנִי אַרְחִיק מֵעֲלֵיכֶם וְהִדַּחְתִּיו אֶל אֶרֶץ צִיָּה וּשְׁמָמָה אֶת פָּנָיו אֶל הַיָּם הַקַּדְמֹנִי וְסֹפוֹ אֶל הַיָּם הָאַחֲרוֹן וְעָלָה בָאְשׁוֹ וְתַעַל צַחֲנָתוֹ כִּי הִגְדִּיל לַעֲשׂוֹת\""
+   }
+  },
+  {
+   "heRef": "תהילים קכ״ו:ג׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Psalms 126:3",
+   "text": {
+    "en": "The LORD hath done great things with us; we are rejoiced.",
+    "he": "\"הִגְדִּיל ה' לַעֲשׂוֹת עִמָּנוּ הָיִינוּ שְׂמֵחִים\"?"
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:ד׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:4",
+   "text": {
+    "en": "These are the generations of the heaven and of the earth when they were created, in the day that the LORD God made earth and heaven.",
+    "he": "\"אֵלֶּה תוֹלְדוֹת\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:ד׳:א׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 2:4:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה אלה תולדות: יספר תולדות השמים והארץ במטר ובצמיחה כאשר נבראו ונעשו כתיקונם, כי השמים יתנו טלם ומטרם, והארץ תתן יבולה, והם קיום כל חי."
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ב׳:ד׳:א׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 2:4:1",
+   "text": {
+    "en": "אלה תולדות השמים והארץ בהבראם. These are the plants and the living creatures which had been the potential derivatives of heaven and earth already at the time when heaven and earth were first created. The potential ability for heaven and earth to produce the inhabitants of their respective domains was inherent in their respective composition from the first moment of their existence. When the Torah, in its very first verse, wrote the words את השמים and את הארץ, this was already an allusion to the additional factors which had been created together with heaven and earth, i.e. their ability to produce their respective derivatives.",
+    "he": "אלה הצמים ובעלי החיים שאמרנו היו תולדות השמים וארץ בכח שנמצא בהם משעה שנבראו כי מאז נמצאו בהם כוחות פועלות ומתפעלות להויות ונפסדות כאמרם: את השמים לרבות תולדותיהם ואת הארץ לרבות תולדותיה אמנם יצאו לפועל."
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:ו׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:6",
+   "text": {
+    "en": "but there went up a mist from the earth, and watered the whole face of the ground.",
+    "he": "\"וְאֵד יַעֲלֶה מִן הָאָרֶץ וְהִשְׁקָה אֶת כָּל פְּנֵי הָאֲדָמָה\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ב׳:ו׳:א׳",
+   "node": 33,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Genesis 2:6:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ואד: ...והגאון אמר כי פירושו ולא אד יעלה מן הארץ. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על דברים ל״ג:ו׳:ג׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Deuteronomy 33:6:3",
+   "text": {
+    "en": "<b>and his men be numbered</b> i.e., and his men <i>not</i> be numbered, as in “I have not learned knowledge, [nor] understood holiness” [Proverbs 30: 3] (see also the particle “as” in “as Almighty God” [Exodus 6: 3] [<i>comment on</i> Exodus 6: 3]), as I have explained in numerous places — for it is possible for the tribe to survive indefinitely, and still remain few in number. Anything that can be numbered is scanty (compare, “my men are numbered” [Genesis 34: 30]).",
+    "he": "וגם דבריו לדברים פרק ל\"ג <a class=\"refLink\" href=\"/Genesis 2:6\" data-ref=\"Genesis 2:6\" target=\"_blank\">פסוק ו'</a>:<br>ד\"ה ויהי מתיו מספר: ואל יהי מתיו מספר כמו ולא למדתי חכמה (<a class=\"refLink\" href=\"/Proverbs 30:3\" data-ref=\"Proverbs 30:3\" target=\"_blank\">משלי ל' ג'</a>) ובי\"ת באל שדי (<a class=\"refLink\" href=\"/Exodus 6:3\" data-ref=\"Exodus 6:3\" target=\"_blank\">שמות ו' ג'</a>) אשר פירשתי רבים כי יתכן שיחיה לעולם ויהיו מעטים וכל דבר שיספר הוא מעט. וכן אני מתי מספר (<a class=\"refLink\" href=\"/Genesis 34:4\" data-ref=\"Genesis 34:4\" target=\"_blank\">בראשית ל\"ד ד'</a>). "
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:ט׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:9",
+   "text": {
+    "en": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.",
+    "he": "\"וַיַּצְמַח ה' אֱ-לֹהִים מִן הָאֲדָמָה כָּל עֵץ נֶחְמָד לְמַרְאֶה וְטוֹב לְמַאֲכָל וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:ט׳:א׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 2:9:1",
+   "text": {
+    "en": "...The commentators said that the fruit of this tree gave  birth to the sexual desire, and this is why they covered their nakedness after they ate from it. They brought as proof a similar usage of language in the statement of Barzilai haGiladi “I am now eighty years old. Can I tell the difference between good and bad?” (Shmuel II 19:36) which indicates that he had lost the sexual desire. This is not correct in my eyes, because later in this story it says “…and you will be like divine beings who know good and bad.” (Bereshit 3:5) And if you want to say that the snake lied to her, it says further on And the LORD God said, “Now that the man has become like one of us, knowing good and bad…” (Bereshit 3:22) It has already been said (Pirke d’rabbenu hakadosh, Gate 3, 16) that there were three who spoke the truth and were destroyed from the world, and they are – the snake, the spies and Doeg the Edomite (the Beroti). It seems right in my eyes that the human did what came naturally, just as the heavens and all their host, which do only truth, whose acts are only truth and do not deviate from their appointed task. There is no love in their actions or hate. The fruit of this tree gives birth to the will and desire that those who eat it should choose a thing or its opposite, for the good or the bad. This is why it is called ‘the tree of the knowledge of good and evil,’ because da’at in our language refers to will or intention, as the Sages said ‘we only taught this in a case when his intention is to return…if it is not his intention to clear it out…’ (Pesachim 6a). This is true in biblical Hebrew as well - “what is man that you should know him?,” (Psalms 144:3) meaning that you should care about or desire him, or “I have known him by name…” (Shemot 33:12) meaning that I chose him from all other people. So too the statement of Barzilai haGiladi ‘between good and evil,’ meaning that he had lost his power of discernment and could no longer desire something or be disgusted by it, eating without tasting and hearing without taking pleasure in son. Here in the garden there was no desire for sexual intimacy between the man and his wife, rather at the proper time they joined together and gave birth. Therefore their sexual organs were exposed just as their faces and hands and they were not ashamed of them. After they ate from the tree, the choice was in their hands and they had the will to do evil or go to themselves or others. This is a divine quality from one perspective, just as it was bad for humanity as they now had lust and desire. It is possible that the verse intended this when it said “…God made men straight, but they have engaged in too much reasoning.” (Kohelet 7:29) ‘Straight’ means that one should seize on a single straight path and ‘engaged in too much reasoning’ means that one seeks various acts among which they can choose. When Gd commanded the man not to eat from the tree he did not inform him of this quality of da’at which it imparted, rather Gd simply said ‘from the fruit of the tree in the midst of the garden,’ meaning the known one in the middle – don’t eat from it. This is what the woman said to the snake, and only in a later verse does it mention the tree by name “but as for the tree of knowledge of good and bad, you must not eat of it.” (Bereshit 2:17)",
+    "he": "ד\"ה ועץ הדעת טוב ורע: אמרו המפרשים כי היה פריו מוליד תאות המשגל, ולכן כיסו מערומיהם אחרי אכלם ממנו. והביאו לו דומה בלשון זה מאמר ברזילי הגלעדי האדע בין טוב לרע (<a class=\"refLink\" href=\"/II Samuel 19:36\" data-ref=\"II Samuel 19:36\" target=\"_blank\">שמואל ב' י\"ט ל\"ו</a>), כי בטלה ממנו התאוה ההיא. ואיננו נכון אצלי בעבור שאמר והייתם כאלהים יודעי טוב ורע (להלן ג' ה'). ואם תאמר כיחש לה, הנה ויאמר ה' אלהים הן האדם היה כאחד ממנו לדעת טוב ורע (להלן ג' כ\"ב). וכבר אמרו (פירקא דרבינו הקדוש, בבא דשלשה ט\"ז) שלשה אמרו אמת ואבדו מן העולם ואלו הן: נחש ומרגלים ודואג האדומי הבארותי. "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:ט׳:א׳",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 2:9:1",
+   "text": {
+    "en": "...The commentators said that the fruit of this tree gave  birth to the sexual desire, and this is why they covered their nakedness after they ate from it. They brought as proof a similar usage of language in the statement of Barzilai haGiladi “I am now eighty years old. Can I tell the difference between good and bad?” (Shmuel II 19:36) which indicates that he had lost the sexual desire. This is not correct in my eyes, because later in this story it says “…and you will be like divine beings who know good and bad.” (Bereshit 3:5) And if you want to say that the snake lied to her, it says further on And the LORD God said, “Now that the man has become like one of us, knowing good and bad…” (Bereshit 3:22) It has already been said (Pirke d’rabbenu hakadosh, Gate 3, 16) that there were three who spoke the truth and were destroyed from the world, and they are – the snake, the spies and Doeg the Edomite (the Beroti). It seems right in my eyes that the human did what came naturally, just as the heavens and all their host, which do only truth, whose acts are only truth and do not deviate from their appointed task. There is no love in their actions or hate. The fruit of this tree gives birth to the will and desire that those who eat it should choose a thing or its opposite, for the good or the bad. This is why it is called ‘the tree of the knowledge of good and evil,’ because da’at in our language refers to will or intention, as the Sages said ‘we only taught this in a case when his intention is to return…if it is not his intention to clear it out…’ (Pesachim 6a). This is true in biblical Hebrew as well - “what is man that you should know him?,” (Psalms 144:3) meaning that you should care about or desire him, or “I have known him by name…” (Shemot 33:12) meaning that I chose him from all other people. So too the statement of Barzilai haGiladi ‘between good and evil,’ meaning that he had lost his power of discernment and could no longer desire something or be disgusted by it, eating without tasting and hearing without taking pleasure in son. Here in the garden there was no desire for sexual intimacy between the man and his wife, rather at the proper time they joined together and gave birth. Therefore their sexual organs were exposed just as their faces and hands and they were not ashamed of them. After they ate from the tree, the choice was in their hands and they had the will to do evil or go to themselves or others. This is a divine quality from one perspective, just as it was bad for humanity as they now had lust and desire. It is possible that the verse intended this when it said “…God made men straight, but they have engaged in too much reasoning.” (Kohelet 7:29) ‘Straight’ means that one should seize on a single straight path and ‘engaged in too much reasoning’ means that one seeks various acts among which they can choose. When Gd commanded the man not to eat from the tree he did not inform him of this quality of da’at which it imparted, rather Gd simply said ‘from the fruit of the tree in the midst of the garden,’ meaning the known one in the middle – don’t eat from it. This is what the woman said to the snake, and only in a later verse does it mention the tree by name “but as for the tree of knowledge of good and bad, you must not eat of it.” (Bereshit 2:17)",
+    "he": "והיפה בעיני, כי האדם היה עושה בטבעו מה שראוי לעשות כפי התולדת, כאשר יעשו השמים וכל צבאם, פועלי אמת שפעולתם אמת ולא ישנו את תפקידם, ואין להם במעשיהם אהבה או שנאה. ופרי האילן הזה היה מוליד הרצון והחפץ שיבחרו אוכליו בדבר או בהפכו לטוב או לרע. ולכן נקרא 'עץ הדעת טוב ורע', כי 'הדעת' יאמר בלשוננו על הרצון, כלשונם (פסחים ו' א') לא שנו אלא שדעתו לחזור, ושדעתו לפנותו. ובלשון הכתוב (<a class=\"refLink\" href=\"/Psalms 144:3\" data-ref=\"Psalms 144:3\" target=\"_blank\">תהלים קמ\"ד ג'</a>) מה אדם ותדעהו, תחפוץ ותרצה בו, ידעתיך בשם (<a class=\"refLink\" href=\"/Exodus 33:12\" data-ref=\"Exodus 33:12\" target=\"_blank\">שמות ל\"ג י\"ב</a>), בחרתיך מכל האדם, וכן מאמר ברזילי האדע בין טוב לרע, שאבד ממנו כח הרעיון, לא היה בוחר בדבר ולא קץ בו, והיה אוכל מבלי שיטעם ושומע מבלי שיתענג בשיר. והנה בעת הזאת לא היה בין אדם ואשתו המשגל לתאוה, אבל בעת ההולדה יתחברו ויולידו, ולכן היו האיברים כולם בעיניהם כפנים והידים ולא יתבוששו בהם. והנה אחרי אכלו מן העץ היתה בידו הבחירה, וברצונו להרע או להטיב בין לו בין לאחרים, וזו מידה אלהית מצד אחד, ורעה לאדם בהיות לו בה יצר ותאוה. ואפשר שנתכוון הכתוב לענין הזה כשאמר: אשר עשה האלהים את האדם ישר והמה בקשו חשבונות רבים (<a class=\"refLink\" href=\"/Ecclesiastes 7:29\" data-ref=\"Ecclesiastes 7:29\" target=\"_blank\">קהלת ז' כ\"ט</a>). 'היושר' שיאחוז דרך אחת ישרה, 'והבקשה בחשבונות רבים' שיבקש לו מעשים משתנים בבחירה ממנו..."
+   }
+  },
+  {
+   "heRef": "רבנו בחיי, בראשית ב׳:ט׳:א׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rabbeinu Bahya, Bereshit 2:9:1",
+   "text": {
+    "en": "ויצמח ה' אלוקים מן האדמה, “The Lord G-d made grow from the earth, etc.” According to the plain meaning of the text these words prove that there is such a thing as Paradise on earth and that it contains a tree of knowledge as well as a tree of life. The fruit of the tree of life causes those who eat it to enjoy long life, whereas the fruit of the tree of knowledge instills in those who consume it willpower and freedom of choice. to do either good or evil both in matters physical as well as in matters spiritual. Our sages in Pessachim 6 said concerning this “לא שנו אלא שדעתו לחזור, the ruling applies only to someone who had resolved to return to his home during the festival of Passover.” <small>[The author uses the word דעתו in the Talmud where it refers to someone making a voluntary decision as proof that here in our verse too the term עץ הדעת, does not mean “the tree of knowledge,” but means ‘the tree permitting man a choice.” Ed.]</small> <br>We find support for this meaning of the word דעת in Psalms  144,3 מה אדם ותדעהו, “what is man that You should have granted him grace?” In other words: “why have You extended Your goodwill, Your love to man?” The meaning of the term עץ הדעת then is the tree which causes G-d to relate to man with either favour or disfavour.” Originally, G-d had withheld this kind of choice from Adam as he had been ‘programmed” in his deeds prior to his sin. This does not mean that he was not free to sin but that his actions were guided exclusively by his intellect thus practically excluding  sin as he had not been subject to temptation from within. <br>Once man had sinned, i.e. had eaten from the fruit of that tree, he became possessed of an independent will, i.e. obedience to G-d’s will was no longer automatic, dictated by his intellect. The new-found “independent will” meant that he had acquired an attribute reserved for G-d, an attribute that he could handle only at great potential cost to himself.",
+    "he": "עת הדעת נותן באוכליו רצון ובחירה... וכן יוכיח הלשון \"דעת\" שהוא נאמר על הרצון והבחירה כמו בלשון חז\"ל: <b>שדעתו</b> לעשות כך וכך, וכן תהלים קמ\"ד: מה אדם ותדעהו, כלומר מה קנינו <b>שתרצה</b> בו. ואם כן ביאור עץ הדעת כאילו אמר ועץ הרצון. והקב\"ה מנעו ממנו, לפי שהאדם היה מוכרח על מעשיו קודם שחטא והיו כל פעולותיו שכל גמור כמלאך שהוא מוכרח לעשות כל פעולותיו שכליות, לפי שאין לו מונע, כן היה האדם. אבל אחר שחטא ואכל היה לו רצון ובחירה ונתלבש בתאוות גופניות... זו מידה אלוקית ומידה טובה מצד אחד ורעה מצד אחר..."
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:י״ז",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:17",
+   "text": {
+    "en": "but of the tree of the knowledge of good and evil, thou shalt not eat of it; for in the day that thou eatest thereof thou shalt surely die.’",
+    "he": "\"וּמֵעֵץ הַדַּעַת טוֹב וָרָע לֹא תֹאכַל מִמֶּנּוּ כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:י״ז:א׳",
+   "node": 45,
+   "options": {
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 2:17:1",
+   "text": {
+    "en": "<b>You shall not eat from it.</b> That is, from its fruit, for the tree itself was not edible. <b>For on the day you eat from it you will certainly die.</b> That is, you will have incurred the death penalty, not that you will die immediately. A similar usage appears in I <i>Melachim</i> 2:42. According to the Sages, however, if Adam had not sinned he would have indeed been immortal, for the soul is capable of sustaining the body forever and this is what the Creator originally intended.",
+    "he": "ד\"ה לא תאכל ממנו: מן הפרי יזהירנו, כי העץ אינו נאכל. וכן אמר למטה (להלן ג' ג') מפרי העץ אשר בתוך הגן. וכמהו ואכלו איש גפנו ואיש תאנתו (<a class=\"refLink\" href=\"/II Kings 18:31\" data-ref=\"II Kings 18:31\" target=\"_blank\">מלכים ב' י\"ח ל\"א</a>), וכן בעצבון תאכלנה (להלן ג' י\"ז), תאכל פריה."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:י״ז:א׳",
+   "node": 47,
+   "options": {
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 2:17:1",
+   "text": {
+    "en": "<b>You shall not eat from it.</b> That is, from its fruit, for the tree itself was not edible. <b>For on the day you eat from it you will certainly die.</b> That is, you will have incurred the death penalty, not that you will die immediately. A similar usage appears in I <i>Melachim</i> 2:42. According to the Sages, however, if Adam had not sinned he would have indeed been immortal, for the soul is capable of sustaining the body forever and this is what the Creator originally intended.",
+    "he": "ד\"ה ביום אכלך ממנו מות תמות: בעת שתאכל ממנו תהיה בן מות. וכמוהו ביום צאתך והלכת אנה ואנה ידוע תדע כי מות תמות (<a class=\"refLink\" href=\"/I Kings 2:42\" data-ref=\"I Kings 2:42\" target=\"_blank\">מלכים א' ב' מ\"ב</a>), שאין הכוונה שימות מיד בו ביום, ואין הכוונה לידיעה בלבד שידע שימות, כי החיים יודעים שימותו כולם. אבל הכוונה כי בעת שיצא יהיה חייב מיתה למלך, והוא ימית אותו כאשר ירצה. ולא יבאו לראות כבלע את הקדש ומתו (<a class=\"refLink\" href=\"/Numbers 4:20\" data-ref=\"Numbers 4:20\" target=\"_blank\">במדבר ד' כ'</a>), ולא ישאו עליו חטא ומתו בו כי יחללוהו (<a class=\"refLink\" href=\"/Leviticus 22:9\" data-ref=\"Leviticus 22:9\" target=\"_blank\">ויקרא כ\"ב ט'</a>), אין עניינם אלא שיהיו חייבים מיתה וימותו בחטאם זה. \nועל דעת אנשי הטבע היה האדם מעותד למיתה מתחלת היצירה מפני היותו מורכב, אבל גזר עתה שאם יחטא ימות בחטאו כדרך חייבי מיתה בידי שמים בעבירות, כגון זר האוכל תרומה (ויקרא כ\"ט ט'), ושתוי יין (שם י' ט'), ומחוסר בגדים ששמשו (<a class=\"refLink\" href=\"/Exodus 28:43\" data-ref=\"Exodus 28:43\" target=\"_blank\">שמות כ\"ח מ\"ג</a>), וזולתם, שהכוונה בהם שימותו בחטאם טרם בא יומם. ולכך אמר בעונש עד שובך אל האדמה כי ממנה לוקחת כי עפר אתה ואל עפר תשוב בטבעך (להלן ג' י\"ט). וגם מתחילה היה אוכל מפרי העץ ומזרע הארץ, אם כן היתה בו התכה וסיבת הויה והפסד. ועל דעת רבותינו (עיין שבת נ\"ה ב') אלמלא שחטא לא מת לעולם, כי הנשמה העליונית נותנת לו חיים לעד, והחפץ האלהי אשר בו בעת היצירה יהיה דבק בו תמיד, והוא יקיים אותו לעד, כמו שפירשתי במלת וירא אלהים כי טוב (לעיל א' ד'). ודע כי אין ההרכבה מורה על ההפסד אלא לדעת קטני אמנה כי הבריאה היא בחיוב. אבל לדעת אנשי האמונה האומרים כי העולם מחודש בחפץ אלוהי פשוט, גם הקיום יהיה בו לעד כל ימי החפץ. וזה אמת ברור. אם כן ביום אכלך ממנו מות תמות, שאז תהיה בן מות, לא תתקיים לעד בחפצי. והאכילה היתה לו מתחילה לעונג. ויתכן שפירות גן עדן נבלעים באיברים כמן ומקיימים את אוכליהם, וכאשר גזר עליו ואכלת את עשב השדה, ובזעת אפיו יאכל לחם האדמה, היה זה סיבה להפסד, כי עפר הוא, ועפר יאכל, ואל עפר ישוב. "
+   }
+  },
+  {
+   "heRef": "בראשית ג׳:א׳",
+   "node": 50,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:1",
+   "text": {
+    "en": "Now the serpent was more subtle than any beast of the field which the LORD God had made. And he said unto the woman: ‘Yea, hath God said: Ye shall not eat of any tree of the garden?’",
+    "he": "\"וְהַנָּחָשׁ\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ג׳:א׳:א׳",
+   "node": 51,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 3:1:1",
+   "text": {
+    "en": "<b>And it said to the woman.</b> Some say that Chavah understood the gesticulations of the animals. According to Rav Sadyah Gaon, however, whenever speech is ascribed to an animal it is actually an angel that is speaking on its behalf. Alternatively, it is possible that these verses are to be taken literally, since it is no more difficult for Hashem to give intelligence to a serpent than to human beings.",
+    "he": "יש אומרים כי האישה הייתה מבינה ויודעת לשון החיות. ויפרשו ויאמר הנחש ברמיזה. ואחרים אמרו שהוא שטן ואיך לא יראו סוף הפרשה כי איך ילך השטן על גחון ואיך יאכל עפר. ומה טעם לקללת הוא ישופך ראש. ורבים השתבשו לחקור למה היה קולל הנחש ואם היתה לו דעת שלמה. או ציוה שלא ישיא האשה. ויאמר רב סעדיה גאון אחר שהתברר לנו שאין דיבור דעת כי אם באדם לבדו נצטרך לומר כי הנחש גם האתון לא דיברו. רק מלאך דיבר בשבילם. והשיב עליו רב שמואל בן תפני והנה קם רבי שלמה הספרדי בעל השירים השקולים וחכם גדול היה והשיב על רב שמואל. \nוהישר בעיני שהם הדברים כמשמעם, והנחש היה מדבר והיה הולך בקומה זקופה והשם דעת באדם שם בו. והנה הפסוק העיד כי היה ערום מכל חית השדה רק לא כאדם. ופירוש ערום - חכם, שיעדה דבריו בערמה. "
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ג׳:א׳:א׳",
+   "node": 52,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 3:1:1",
+   "text": {
+    "en": "והנחש, another word for Satan, which itself is a way of describing the evil urge. (Baba Batra 16). The reason why this evil urge is compared to a serpent is that just like a serpent which makes itself as invisible as possible, blending in with its environment, and yet causes more damage than the most prominently visible obstacles, so the evil urge lurks where one does not suspect to find it. It is a common practice to name phenomena according to other well known phenomena, such as calling the king “lion,” to show what is expected of a king, i.e. strength, fearlessness, etc. (compare Jeremiah 4,7 “the lion has come up from his thicket,” a reference to King Nevuchadnezzar) Also in Jeremiah 8,17 Israel’s enemies are referred to as נחשים צפעונים אשר אין להם לחש, “adders which cannot be charmed.” G’d, using a metaphor, calls the evil urge נחש, in our verse. Anything or anybody who leads Israel into sin is termed נחש. The reason why a serpent has been chosen for such a metaphor is that it is a creature whose potential harm is huge, whereas its potential benefit to man is minimal. Moreover, seeing that its visibility is minimal, it is similar to the evil urge who never attacks frontally, and often poses as friend rather than as enemy. Our sages in Pirkey de Rabbi Eliezer chapter 13 already enlarged on this metaphor by describing Samael as riding the serpent, meaning “taking advantage of this power of imagination.” The insidious nature of the evil urge consists of the fact that it conjures up in our imagination something desirable, which because of its desirability we rationalize into considering as harmless, harbouring no physical or spiritual danger for us. Greed, lust, combined with one’s imagination is a powerful tool for leading man into sin. Unless man is able to harness the power of reason against such insidious attempts to trick him into disobedience against G’d by giving in to his desire for gratification of his senses, he will fall victim to the evil urge’s machinations. When our sages (Jerusalem Talmud Berachot 1.8) said עינא ולבא סרסורי דחטאה, “the eyes and the heart are agents of sin,” they referred to the warning against the evil urge we recite twice daily in the last section of the keriyat shema. (Numbers 15,39).",
+    "he": "הוא שטן הוא יצר הרע רב ההזק עם מעט היותו נראה. כי אמנם יקרא הדבר בשם איזה דומה לו כמו שנקרא המלך אריה כאמרו עלה אריה מסבכו ויקראו האויבים המזיקים נחשים צפעונים אשר אין להם לחש כאמרו הנני משלח בכם נחשים צפעונים וכו'. ועל זה הדרך קרא בזה המקום את היצר הרע המחטיא - נחש, בהיותו דומה לנחש אשר תועלתו במציאות מעט מאוד ונזקו רב עם מיעוט הראותו."
+   }
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ג׳:א׳:א׳",
+   "node": 53,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 3:1:1",
+   "text": {
+    "en": "<b>That the tree was good for food.</b> She saw that the serpent himself ate of it with no ill effects. <b>And she also gave it to her husband.</b> The fruit had the effect of increasing one’s passions; therefore it was important to her that he eat of it as well. This passage illustrates the dangers of treating Hashem’s commandments as a subject for philosophical inquiry.",
+    "he": "הנחש לא דיבר כלל אל האשה ולא האשה אליו, כי לא איש דברים הוא ולזה לא אמר הכתוב ויפתח ה' את פי הנחש, כמו שאמר באתון בלעם, שלא דיבר כלל לא בטבע ולא בנס, אבל היה העניין שהיא ראתה את הנחש עולה בעץ הדעת ואוכל מפרותיו ולא היה מת והאשה חשבה בזה וחקרה בעצמה כאילו היתה מדברת עם הנחש וכי הוא בעלותו ובאכלו אומר אליה לא מות תמותון, אף היא במחשבתה תשיב אמריה."
+   }
+  },
+  {
+   "heRef": "בראשית ג׳:א׳",
+   "node": 56,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:1",
+   "text": {
+    "en": "Now the serpent was more subtle than any beast of the field which the LORD God had made. And he said unto the woman: ‘Yea, hath God said: Ye shall not eat of any tree of the garden?’",
+    "he": "\"אַף כִּי אָמַר\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:א׳:ג׳",
+   "node": 58,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:1:3",
+   "text": {
+    "en": "‘אף כי אמר וגו ALTHOUGH GOD HATH SAID — The meaning is, “Perhaps He has said unto you” ‘לא תאכלו מכל וגו YE SHALL NOT EAT OF EVERY TREE OF THE GARDEN — And although he saw them eating of the other fruits yet he entered into a long conversation with her so that she should answer him, and so that he might then have an opportunity to talk about that particular tree. ",
+    "he": "שמא אמר לכם לא תאכלו מכל וגו': ואף על פי שראה אותם אוכלים משאר פירות, הרבה עליה דברים כדי שתשיבנו ויבא לדבר באותו העץ."
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ג׳:א׳:ב׳",
+   "node": 59,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 3:1:2",
+   "text": {
+    "en": "היה ערום מכל חית השדה, for the power of imagination which dangles before our mental eye all sorts of visions designed to stir our desire is more powerful within man than within any other creature This is what the sages meant when they said: (Sukkah 52) “anyone who is of greater stature than his fellow also has to contend with a more powerful evil urge than his fellow.” ויאמר אל האשה, her relatively weak intellect was too lazy to understand that the images dangled before her eyes were a fatah morgana, illusion. אף כי אמר אלוקים, even though G’d has said not to eat from the tree of knowledge פן תמותון, in order that you do not die, this is not true, you will not die. Once the “serpent,” i.e. her power of imagination had sown the seed of doubt in her mind, so that her intelligence had already been undermined, she said: ",
+    "he": "ד\"ה ויאמר אל האשה: כי שכלה החלוש התעצל מתבונן ולא התקומם על הדמיון הכוזב וצייר אז כוחה המדמה כי אמנם אף כי אמר אלהים. שאף על פי שאמר אלהים לא תאכלו מעץ הדעת פן תמותון מכל מקום לא יתאמת זה, ובכן אמר שכשהנחש והוא הדמיון התחיל לשום ספק בזה הנה האשה בשכלה החלוש אמרה מכל עץ הגן נאכל ואין לנו צורך להכנס בסכנת אכילת עץ שהאל יתברך אמר לנו שבאכלנו ממנו נמות. אמנם הדמיון התחזק ליחס קנאה ושקר חס ושלום לאל יתברך וצייר שאסר אותו הפרי כדי שלא ישיגו בו התועלת להיות כאלהים ושלא יסבב מות כלל. ובכן אמר אל האשה."
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ז",
+   "node": 64,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:16",
+   "text": {
+    "en": "And the LORD God commanded the man, saying: ‘Of every tree of the garden thou mayest freely eat;",
+    "he": "\"וַיְצַו ה' אֱ-לֹהִים עַל הָאָדָם לֵאמֹר מִכֹּל עֵץ הַגָּן אָכֹל תֹּאכֵל וּמֵעֵץ הַדַּעַת טוֹב וָרָע לֹא תֹאכַל מִמֶּנּוּ כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת\""
+   }
+  },
+  {
+   "heRef": "בראשית ג׳:ב׳",
+   "node": 65,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:2",
+   "text": {
+    "en": "And the woman said unto the serpent: ‘Of the fruit of the trees of the garden we may eat;",
+    "he": "\"וַתֹּאמֶר הָאִשָּׁה אֶל הַנָּחָשׁ מִפְּרִי עֵץ הַגָּן נֹאכֵל וּמִפְּרִי הָעֵץ אֲשֶׁר בְּתוֹךְ הַגָּן אָמַר אֱ-לֹהִים לֹא תֹאכְלוּ מִמֶּנּוּ וְלֹא תִגְּעוּ בּוֹ פֶּן תְּמֻתוּן\""
+   }
+  }
+ ],
+ "ssn": 1351,
+ "status": "public",
+ "summary": "1943 (תש\"ג)<br><a href=\"http://www.nechama.org.il/pdf/1351.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ג - הבריאה ועץ הדעת",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

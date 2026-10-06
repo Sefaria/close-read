@@ -1,0 +1,645 @@
+{
+ "dateCreated": "2019-03-05T15:01:45.152661",
+ "dateModified": "2019-03-07T01:59:01.167576",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Bereshit Rabbah 19:7",
+  "Rashi on Genesis 3:14:1",
+  "Genesis 3:8",
+  "Rashi on Genesis 3:11:1",
+  "Radak on Genesis 3:8:1",
+  "I Samuel 26:19",
+  "Rashi on Genesis 3:8:1",
+  "Deuteronomy 13:7",
+  "Ramban on Genesis 3:8:1",
+  "Genesis 3:11",
+  "Rashi on Genesis 3:12:1",
+  "Jeremiah 29:8",
+  "Shir HaShirim Rabbah 3:7:5",
+  "Genesis 3:12",
+  "Joshua 15:18",
+  "II Kings 18:29",
+  "Job 2:3",
+  "Genesis 3:13",
+  "Ramban on Genesis 3:12:1",
+  "Jeremiah 4:10",
+  "Rashi on Genesis 3:13:1",
+  "Mizrachi, Genesis 3:13:1",
+  "Jeremiah 37:9"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160442,
+ "includedRefs": [
+  "Genesis 3:8",
+  "Shir HaShirim Rabbah 3:7:5",
+  "Genesis 3:8",
+  "Bereshit Rabbah 19:7",
+  "Rashi on Genesis 3:8:1",
+  "Radak on Genesis 3:8:1",
+  "Ramban on Genesis 3:8:1",
+  "Genesis 3:11",
+  "Rashi on Genesis 3:11:1",
+  "Genesis 3:12",
+  "Rashi on Genesis 3:12:1",
+  "Ramban on Genesis 3:12:1",
+  "Genesis 3:13",
+  "II Kings 18:29",
+  "Jeremiah 4:10",
+  "Jeremiah 29:8",
+  "Jeremiah 37:9",
+  "Deuteronomy 13:7",
+  "I Samuel 26:19",
+  "Joshua 15:18",
+  "Job 2:3",
+  "Genesis 3:13",
+  "Rashi on Genesis 3:13:1",
+  "Mizrachi, Genesis 3:13:1",
+  "Rashi on Genesis 3:14:1"
+ ],
+ "nextNode": 50,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. \"ויתחבא האדם...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ח׳",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:8",
+   "text": {
+    "en": "And they heard the voice of the LORD God walking in the garden toward the cool of the day; and the man and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.",
+    "he": "\"וַיִּשְׁמְעוּ אֶת קוֹל ה' אֱ-לֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם וַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ מִפְּנֵי ה' אֱ-לֹהִים בְּתוֹךְ עֵץ הַגָּן\""
+   }
+  },
+  {
+   "heRef": "שיר השירים רבה ג׳:ז׳:ה׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shir HaShirim Rabbah 3:7:5",
+   "text": {
+    "en": "",
+    "he": "עד שלא יחטא אדם <b>נותנין לו אימה</b> ויראה והבריות מתפחדין ממנו. כיון שהוא חוטא <b>נותנין עליו</b> אימה ויראה ומתפחד הוא מאחרים. תדע לך, שכן אמר רבי: עד שלא חטא אדם הראשון היה שומע קול הדבור (=דבר ה') עומד על רגליו ולא היה מתיירא, כיון שחטא – כששמע קול הדבור, נתיירא ונתחבא שנאמר: \"את קולך שמעתי ואירא\"."
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה הרעיון המסומל בדברי המדרש הזה?"
+  },
+  {
+   "node": 5,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"קול אלוקים מתהלך...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ח׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:8",
+   "text": {
+    "en": "And they heard the voice of the LORD God walking in the garden toward the cool of the day; and the man and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.",
+    "he": "\"וַיִּשְׁמְעוּ אֶת קוֹל ה' אֱ-לֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה י״ט:ז׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 19:7",
+   "text": {
+    "en": "... the root/essence of Shekhinah/God’s presence was in the lower ones / `iqar sh’khinah batachtonim haytah.",
+    "he": "\"וישמעו את קול ה' אלוקים מתהלך בגן\" – אמר ר' חלפון: שמענו שיש הילוך לקול, שנ' \"וישמעו את קול ה'... מתהלך...\" והילוך לאש, שנאמר (<a class=\"refLink\" href=\"/Exodus 9\" data-ref=\"Exodus 9\" target=\"_blank\">שמות ט'</a>) \"ותהלך אש ארצה\". אמר ר' אבא בר כהנא: \"מהלך\" אין כתיב כאן אלא \"מתהלך\" – מקפץ ועולה: עיקר שכינה בתחתונים היתה*, כיון שחטא אדם הראשון נסתלקה שכינה לרקיע ראשון, חטא קין נסתלקה לרקיע השני, דור אנוש לשלישי, דור המבול לרביעי... "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ח׳:א׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:8:1",
+   "text": {
+    "en": "וישמעו AND THEY HEARD — There are many Midrashic explanations and our Teachers have already collected them in their appropriate places in Genesis Rabbah and in other Midrashim. I, however, am only concerned with the plain sense of Scripture and with such Agadoth that explain the words of Scripture in a manner that fits in with them. וישמעו AND THEY HEARD — What did they hear? They heard the sound of the Holy One, blessed be He, as He walked in the garden (see Genesis Rabbah 19:12).",
+    "he": "ד\"ה וישמעו: שמעו את קול הקב\"ה שהיה מתהלך בגן."
+   }
+  },
+  {
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מורה נבוכים א' פרק כ\"ד:</span><br><span style=\"color: rgb(51,51,51);\">\"ההליכה\" גם כן מכלל השמות המונחים לתנועות מיוחדות מתנועות בעלי החיים. (<a class=\"refLink\" href=\"/Genesis 32\" data-ref=\"Genesis 32\" target=\"_blank\">בראשית ל\"ב</a>) \"ויעקב הלך לדרכו\" – וזה הרבה (=שימוש זה שכיח בלשון). וכבר הושאל זה השם להמשיך הגופות אשר הם יותר דקות מגופות בעלי החיים (<a class=\"refLink\" href=\"/Genesis 8:5\" data-ref=\"Genesis 8:5\" target=\"_blank\">בראשית ח' ה'</a>): \"והמים הלכו הלך וחסור\" (<a class=\"refLink\" href=\"/Exodus 9\" data-ref=\"Exodus 9\" target=\"_blank\">שמות ט'</a> כ\"ג) \"ותהלך אש ארצה\", ואחרי כן הושאל להתפשט ענין אחד והראותו – ואם אינו גוף כלל – אמר (<a class=\"refLink\" href=\"/Jeremiah 46\" data-ref=\"Jeremiah 46\" target=\"_blank\">ירמיהו מ\"ו</a>) \"קולה כנחש ילך\" (=השמועה על האיד הבא עליהם – על מצרים – באה ומתפשטת כלחישת נחש. פירוש אבן שמואל) וכן אמרו (<a class=\"refLink\" href=\"/Genesis 3\" data-ref=\"Genesis 3\" target=\"_blank\">בראשית ג'</a>): \"קול ה' אלוקים מתהלך בגן\" – ה\"קול\" הוא שנאמר עליו שהוא 'מתהלך'.</span>"
+  },
+  {
+   "heRef": "רד\"ק על בראשית ג׳:ח׳:א׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 3:8:1",
+   "text": {
+    "en": "וישמעו, some commentators explain what happened not as G’d’s voice “walking,” but as Adam and Chavah walking and hearing the voice of G’d while going for a walk. If that were correct, the word “they heard” should have been written after our being informed that they had been walking in the garden. Besides, the word מתהלך should have been in the plural mode. The correct interpretation of the verse is: while Adam and Chavah went for a walk they heard the voice of G’d “going for a walk.” We have a precedent for this, i.e. the “voice” of the serpent being described as “walking” in Jeremiah 46,22.",
+    "he": "ד\"ה וישמעו: יש מפרשים: בעוד שהיה אדם מתהלך בגן שמע את קול אלוקים, ומאחר שאמר \"וישמעו\" היה לו לומר \"מתהלכים\", והנכון כי הטעם \"מתהלך\" על קול ה', כי מצאנו בו \"הליכה\" (<a class=\"refLink\" href=\"/Jeremiah 46\" data-ref=\"Jeremiah 46\" target=\"_blank\">ירמיהו מ\"ו</a> כ\"ב) \"קולה כנחש ילך\"..."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ג׳:ח׳:א׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 3:8:1",
+   "text": {
+    "en": "<b>Moving (or “walking”) in the Garden.</b> There are numerous verses in which Hashem is said to “walk” among the righteous (see, for example, <i>Vayikra</i> 26:12) or to depart from them (<i>Bereishis</i> 18:33). These statements refer to the revelation of the Divine Presence and its subsequent departure.",
+    "he": "רמב\"ן, (אחרי הביאו את המדרש ואת הרמב\"ם):<br>ד\"ה וישמעו את קול ה' אלוקים מתהלך בגן:  ולפי דעתי כי טעם \"מתהלך בגן עדן\" כטעם (<a class=\"refLink\" href=\"/Leviticus 26:12\" data-ref=\"Leviticus 26:12\" target=\"_blank\">ויקרא כ\"ו י\"ב</a>) \"והתהלכתי בתוככם\" (בראשית י\"ח ל\"ג) \"וילך ה' כאשר כלה לדבר אל אברהם\" (<a class=\"refLink\" href=\"/Hosea 5:15\" data-ref=\"Hosea 5:15\" target=\"_blank\">הושע ה' ט\"ו</a>) \"אלך ואשובה אל מקומי\" והוא ענין גלוי שכינה במקום ההוא או הסתלקותו מן המקום שנגלה בו. \nוטעם \"לרוח היום\", כי בהגלות השכינה תבוא רוח גדולה וחזק כענין שנאמר (<a class=\"refLink\" href=\"/I Kings 19:11\" data-ref=\"I Kings 19:11\" target=\"_blank\">מל' א' י\"ט י\"א</a>) \"והנה ה' עובר ורוח גדולה וחזק מפרק הרים ומשבר סלעים לפני ה'\", וכן (<a class=\"refLink\" href=\"/Psalms 18:11\" data-ref=\"Psalms 18:11\" target=\"_blank\">תהלים י\"ח י\"א</a>) \"וידא על כנפי רוח\". וכתוב באיוב (ל\"א א') \"ויען ה' את איוב מן הסערה\". ולפיכך אמרו בכאן כי שמעו קול ה' שנתגלתה השכינה בגן כמתקרב אליהם לרוח היום, כי רוח ה' נשבה בו – בגן, כרוח הימים, לא רוח גדולה וחזק במחזה, כבשאר הנבואות, שלא יפחדו ויבהלו."
+   }
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מהו הקושי התחבירי בפסוקנו?"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  כמה דעות שונות נאמרו לעיל בפתרון <b>השאלה התחבירית</b>? סדר את הפרשנים לקבוצות!"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  במה שונה דעת הרמב\"ן מדעת ר' אבא בר כהנא (שלא בשאלה התחבירית)? איזו משתיהן נראית לך מתאימה יותר <b>להקשר</b>?"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. לשם מה מזכיר ר' חלפון בדבריו גם את ה\"אש\" – מה עניינה לענייננו?"
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"כי עירום אתה...\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:י״א",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:11",
+   "text": {
+    "en": "And He said: ‘Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?’",
+    "he": "\"מִי הִגִּיד לְךָ כִּי עֵירֹם אָתָּה\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״א:א׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:11:1",
+   "text": {
+    "en": "מי הגיד לך WHO TOLD THEE? — Whence has the knowledge come to you what shame there is in standing naked?",
+    "he": "מאין לך לדעת מה בושת יש בעומד עירום?"
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "שני קשיים רצה רש\"י ליישב בדבריו. אילו הם?"
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"אשר נתתה עמדי...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:י״ב",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:12",
+   "text": {
+    "en": "And the man said: ‘The woman whom Thou gavest to be with me, she gave me of the tree, and I did eat.’",
+    "he": "\"הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״ב:א׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:12:1",
+   "text": {
+    "en": "אשר נתת עמדי WHOM THOU GAVEST TO BE WITH ME — Here he showed his ingratitude (Avodah Zarah 5b). ",
+    "he": "ד\"ה אשר נתתה עמדי: כאן כפר בטובה."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ג׳:י״ב:א׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 3:12:1",
+   "text": {
+    "en": "\"And the reason for the words 'the woman you gave to me'-in other words, she gave me from the tree, and i figured that whatever she would say to me would be for my benefit and help. That is why in the punishment God says \"because you listened to the voice of your wife\", that you should not have listened to her advice in lieu of following my command. This is what the rabbis called 'ingratitude'. For we would want to explain that Adam answered God 'you caused me to fail in this area, that you gave me a woman to help and she ended up advising me to sin'. \"",
+    "he": "ד\"ה האשה אשר נתתה עמדי: כלומר, האשה אשר בכבודך נתת אותה לי לעזר, היא נתנה לי מן העץ, והייתי חושב שכל אשר תאמר אלי יהיה לי לעזר ולהועיל, וזהו שאמר בענשו: \"כי שמעת לקול אשתך\", שלא היית נזהר לעבור על מצוותי בעבור עצתה. ורבותינו קורין אותו בזה \"כפוי טובה\" (ע\"ז ה ע\"ב), ירצו לפרש, שענה אותו: אתה גרמת לי המכשול הזה, שנתת לי אשה לעזר והיא יעצתני להרשיע."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה קשה לשניהם בפסוקנו?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ההבדל בין שני הפירושים?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  למי משניהם יש להביא ראיה מן השימוש פעמיים בשורש \"נתן\" בפסוקנו: \"האשה אשר <b>נתתה</b> עמדי היא <b>נתנה</b> לי מן העץ\"?"
+  },
+  {
+   "node": 27,
+   "outsideText": "<table><tbody><tr><td><big>ה. הנחש השיאני (1)</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:י״ג",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:13",
+   "text": {
+    "en": "And the LORD God said unto the woman: ‘What is this thou hast done?’ And the woman said: ‘The serpent beguiled me, and I did eat.’",
+    "he": "\"הַנָּחָשׁ הִשִּׁיאַנִי\""
+   }
+  },
+  {
+   "node": 29,
+   "outsideText": "לפי שד\"ל בכורי עתים תקפ\"ח עמ' קמ\"ג, יש להבדיל בין \"המשיא\" ובין \"המסית\", והוא קובע את ההבדלים על פי הפסוקים הבאים:"
+  },
+  {
+   "heRef": "מלכים ב י״ח:כ״ט",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "II Kings 18:29",
+   "text": {
+    "en": "Thus saith the king: Let not Hezekiah beguile you; for he will not be able to deliver you out of his hand;",
+    "he": "\"אַל יַשִּׁא לָכֶם חִזְקִיָּהוּ כִּי לֹא יוּכַל לְהַצִּיל אֶתְכֶם...\""
+   }
+  },
+  {
+   "heRef": "ירמיהו ד׳:י׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Jeremiah 4:10",
+   "text": {
+    "en": "Then said I: ‘Ah, Lord GOD! surely Thou hast greatly deceived this people and Jerusalem, saying: Ye shall have peace; whereas the sword reacheth unto the soul.’",
+    "he": "\"אָכֵן הַשֵּׁא הִשֵּׁאתָ לָעָם הַזֶּה וְלִירוּשָׁלִַם לֵאמֹר שָׁלוֹם יִהְיֶה לָכֶם\""
+   }
+  },
+  {
+   "heRef": "ירמיהו כ״ט:ח׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Jeremiah 29:8",
+   "text": {
+    "en": "For thus saith the LORD of hosts, the God of Israel: Let not your prophets that are in the midst of you, and your diviners, beguile you, neither hearken ye to your dreams which ye cause to be dreamed.",
+    "he": "\"אַל יַשִּׁיאוּ לָכֶם נְבִיאֵיכֶם אֲשֶׁר בְּקִרְבְּכֶם...\""
+   }
+  },
+  {
+   "heRef": "ירמיהו ל״ז:ט׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Jeremiah 37:9",
+   "text": {
+    "en": "Thus saith the LORD: Deceive not yourselves, saying: The Chaldeans shall surely depart from us; for they shall not depart.",
+    "he": "\"אַל תַּשִּׁאוּ נַפְשֹׁתֵיכֶם לֵאמֹר הָלֹךְ יֵלְכוּ מֵעָלֵינוּ הַכַּשְׂדִּים...\""
+   }
+  },
+  {
+   "heRef": "דברים י״ג:ז׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Deuteronomy 13:7",
+   "text": {
+    "en": "If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, that is as thine own soul, entice thee secretly, saying: 'Let us go and serve other gods,' which thou hast not known, thou, nor thy fathers;",
+    "he": "\"כִּי יְסִיתְךָ אָחִיךָ בֶן אִמֶּךָ אוֹ בִנְךָ אוֹ בִתְּךָ... לֵאמֹר נֵלְכָה וְנַעַבְדָה אֱלֹהִים אֲחֵרִים...\""
+   }
+  },
+  {
+   "heRef": "שמואל א כ״ו:י״ט",
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "I Samuel 26:19",
+   "text": {
+    "en": "Now therefore I pray thee, let my lord the king hear the words of his servant. If the Lord has stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the Lord; for they have driven me out this day from being joined to the inheritance of the Lord, saying, Go, serve other gods.",
+    "he": "\"אִם ה' הֱסִיתְךָ בִי...\""
+   }
+  },
+  {
+   "heRef": "יהושע ט״ו:י״ח",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Joshua 15:18",
+   "text": {
+    "en": "And it came to pass, when she came unto him, that she persuaded him to ask of her father a field; and she alighted from off her ass; and Caleb said unto her: ‘What wouldest thou?’",
+    "he": "\"וַתְּסִיתֵהוּ לִשְׁאוֹל מֵאֵת אָבִיהָ שָׂדֶה...\""
+   }
+  },
+  {
+   "heRef": "איוב ב׳:ג׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Job 2:3",
+   "text": {
+    "en": "And the LORD said unto Satan: ‘Hast thou considered my servant Job, that there is none like him in the earth, a whole-hearted and an upright man, one that feareth God, and shunneth evil? and he still holdeth fast his integrity, although thou didst move Me against him, to destroy him without cause.’",
+    "he": "\"וַתְּסִיתֵנִי בוֹ לְבַלְּעוֹ חִנָּם\""
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "התוכל למצוא את ההבדל ביניהם?"
+  },
+  {
+   "node": 39,
+   "outsideText": "<table><tbody><tr><td><big>ו. הנחש השיאני (2)</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:י״ג",
+   "node": 40,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:13",
+   "text": {
+    "en": "And the LORD God said unto the woman: ‘What is this thou hast done?’ And the woman said: ‘The serpent beguiled me, and I did eat.’",
+    "he": "\"וַתֹּאמֶר הָאִשָּׁה הַנָּחָשׁ הִשִּׁיאַנִי\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״ג:א׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:13:1",
+   "text": {
+    "en": "השיאני means HE DECEIVED ME; — we find the word in the same meaning in (2 Chronicles 32:15), “Now therefore let not Hezekiah beguile you” (Genesis Rabbah 19). ",
+    "he": "ד\"ה: השיאני: הטעני, כמו (<a class=\"refLink\" href=\"/II Kings 18\" data-ref=\"II Kings 18\" target=\"_blank\">מלכים ב' י\"ח</a>) \"אל ישיא אתכם חזקיה\"."
+   }
+  },
+  {
+   "heRef": "מזרחי, בראשית ג׳:י״ג:א׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Mizrachi, Genesis 3:13:1",
+   "text": {
+    "en": "",
+    "he": "ר' אליהו מזרחי, מפרש את דבריו:<br>לא לשון הסתה ופיתוי, דאם כן אין זו תשובה לדברי השם!"
+   }
+  },
+  {
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">גור אריה:</span><br><span style=\"color: rgb(51,51,51);\">לא לשון הסתה, דאין זה תשובה לחוטא שאומרים לו: \"למה חטאת?\" והוא ישיב: \"פלוני הסית אותי\".</span>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״ד:א׳",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:14:1",
+   "text": {
+    "en": "כי עשית זאת BECAUSE THOU HAST DONE THIS — From here we infer that we should not occupy ourselves with what may be in favour of one who seduces people to idolatry, for had He asked it, “Why hast thou done this?”, it could have answered Him, “When the words of the teacher and those of the pupil are contradictory, whose orders should be obeyed?” (Sanhedrin 29a). (i. e. if You told them one thing and I another, should they not have obeyed You?).",
+    "he": "והשווה פסוק י\"ד, רש\"י:<br>ד\"ה כי עשית זאת: מכאן שאין מהפכין בזכותו של מסית..."
+   }
+  },
+  {
+   "node": 45,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">הרא\"ם, מקשה על דברי רש\"י האחרונים:</span><br><span style=\"color: rgb(51,51,51);\">יש לתמוה על דברי רש\"י ד\"ה כי עשית זאת, אם כן – 'השאה' זו 'הסתה'?</span>"
+  },
+  {
+   "node": 46,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' אליעזר היילפרין, בפירושו לרש\"י באורי מוהרא\"ל:</span><br><span style=\"color: rgb(51,51,51);\">לפי מה שקבעו בעלי הלשון על ההבדל בין \"משיא\" ובין \"מסית\" סרה תלונת הרא\"ם מעל רש\"י.</span>"
+  },
+  {
+   "node": 47,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1. התוכל ליישב את קושיית הרא\"ם בהתאם לתשובתך לשאלה במקטע ה?"
+  },
+  {
+   "node": 48,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2.  אם כן – למה אמרה האשה \"השיאני\" ולא אמרה \"הסיתני\"?"
+  }
+ ],
+ "ssn": 2,
+ "status": "public",
+ "summary": "1968 (תשכ\"ח)<br><a href=\"http://www.nechama.org.il/pdf/2.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשכ\"ח - אחרי החטא...",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

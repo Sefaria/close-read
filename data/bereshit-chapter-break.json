@@ -1,0 +1,229 @@
+{
+  "title": {
+    "he": "בראשית: היכן מתחיל פרק ב׳?",
+    "en": "Bereshit: Where Does Chapter 2 Begin?",
+    "subtitle": {
+      "he": "גיליון בראשית תשכ״ג, שאלה א׳",
+      "en": "Nechama's question of 1963, read against the Leningrad Codex"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "From the work of Nechama Leibowitz"
+    },
+    "sourceUrl": "https://www.sefaria.org/sheets/160726",
+    "sourceLabel": "View the original gilayon on Sefaria",
+    "questionLabel": {
+      "he": "נחמה שואלת",
+      "en": "Nechama asks"
+    }
+  },
+  "sections": [
+    {
+      "id": "section-chapter-break",
+      "title": {
+        "he": "שאלת מבנה",
+        "en": "A Question of Structure"
+      },
+      "primaryText": {
+        "ref": "Genesis 1:31-2:3",
+        "he": "וַיַּרְא אֱלֹהִים אֶת כׇּל אֲשֶׁר עָשָׂה וְהִנֵּה טוֹב מְאֹד וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם הַשִּׁשִּׁי וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכׇּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ כִּי בוֹ שָׁבַת מִכׇּל מְלַאכְתּוֹ אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת",
+        "en": "And God saw all that had been made, and found it very good. And there was evening and there was morning, the sixth day. The heaven and the earth were finished, and all their array. On the seventh day God finished the work that had been undertaken, ceasing on the seventh day from doing any of the work. And God blessed the seventh day and declared it holy—having ceased on it from all the work of creation that God had done.",
+        "words": {
+          "yom-hashishi": {
+            "he": "יוֹם הַשִּׁשִּׁי",
+            "en": "the sixth day"
+          },
+          "vayechulu": {
+            "he": "וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכׇל צְבָאָם",
+            "en": "The heaven and the earth were finished, and all their array"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "cb-intro",
+          "type": "narration",
+          "text": {
+            "en": "Gilayon Bereshit 5723 (1963). Her sheet takes in Genesis 1:31 to 2:3, and its first section is headed simply “a question of structure.”"
+          }
+        },
+        {
+          "id": "cb-jacob",
+          "type": "commentary",
+          "source": "Benno Jacob",
+          "sourceLabel": {
+            "he": "בנו יעקב",
+            "en": "Benno Jacob"
+          },
+          "text": {
+            "he": "בנו יעקב בפרושו לבראשית ב' פסוק ג' מעיר: חלוקת הפרקים (של הבישוף הנוצרי מתחילת המאה ה-13) הפותחת ב\"ויכולו\" פרק חדש, אינה נכונה ומפרידה בין הדבקים.",
+            "en": "Benno Jacob, in his commentary on Genesis 2:3, remarks: the chapter division (that of the Christian bishop of the early thirteenth century), which opens a new chapter at “Va-yekhullu,” is not correct, and separates things that belong together."
+          },
+          "highlight": [
+            "vayechulu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-folio-1v",
+      "titleCard": false,
+      "title": {
+        "en": "The Leningrad Codex, folio 1v"
+      },
+      "primaryText": {
+        "ref": "Leningrad Codex, folio 1v",
+        "mode": "image",
+        "src": "https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F001B.jpg",
+        "link": "https://www.sefaria.org/Genesis.1.1?with=Manuscripts",
+        "width": 3683,
+        "height": 4224,
+        "alt": "Folio 1v of the Leningrad Codex: Genesis 1:1–26 in three columns of Hebrew script, with Masoretic notes in the margins.",
+        "caption": {
+          "en": "Genesis 1:1–26. Columns read right to left."
+        },
+        "credit": {
+          "en": "Leningrad Codex (1008 CE). Bruce Zuckerman, West Semitic Research, in collaboration with the Ancient Biblical Manuscript Center; courtesy Russian National Library, Saltykov-Schedrin",
+          "url": "https://dornsife.usc.edu/wsrp/biblical-manuscripts"
+        },
+        "regions": {
+          "day-1": {
+            "x": 0.61,
+            "y": 0.452,
+            "w": 0.2,
+            "h": 0.026
+          },
+          "day-2": {
+            "x": 0.61,
+            "y": 0.672,
+            "w": 0.2,
+            "h": 0.026
+          },
+          "day-3": {
+            "x": 0.34,
+            "y": 0.426,
+            "w": 0.21,
+            "h": 0.05
+          },
+          "day-4": {
+            "x": 0.08,
+            "y": 0.252,
+            "w": 0.2,
+            "h": 0.048
+          },
+          "day-5": {
+            "x": 0.08,
+            "y": 0.56,
+            "w": 0.2,
+            "h": 0.028
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "cb-codex",
+          "type": "narration",
+          "text": {
+            "en": "This is the opening of Genesis in the Leningrad Codex, a complete Hebrew Bible copied in 1008, centuries before chapter numbers existed."
+          }
+        },
+        {
+          "id": "cb-days",
+          "type": "narration",
+          "text": {
+            "en": "The scribe ends each day with an open break. After “and there was evening and there was morning,” the rest of the line, or the next line, is left blank, and the next day starts on a fresh line."
+          },
+          "highlight": [
+            "day-1",
+            "day-2",
+            "day-3",
+            "day-4",
+            "day-5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-folio-2r",
+      "titleCard": false,
+      "title": {
+        "en": "The Leningrad Codex, folio 2r"
+      },
+      "primaryText": {
+        "ref": "Leningrad Codex, folio 2r",
+        "mode": "image",
+        "src": "https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F002A.jpg",
+        "link": "https://www.sefaria.org/Genesis.2.1?with=Manuscripts",
+        "width": 3958,
+        "height": 4248,
+        "alt": "Folio 2r of the Leningrad Codex: Genesis 1:26–2:19 in three columns of Hebrew script, with Masoretic notes in the margins.",
+        "caption": {
+          "en": "Genesis 1:26–2:19. Columns read right to left."
+        },
+        "credit": {
+          "en": "Leningrad Codex (1008 CE). Bruce Zuckerman, West Semitic Research, in collaboration with the Ancient Biblical Manuscript Center; courtesy Russian National Library, Saltykov-Schedrin",
+          "url": "https://dornsife.usc.edu/wsrp/biblical-manuscripts"
+        },
+        "regions": {
+          "day-6": {
+            "x": 0.625,
+            "y": 0.664,
+            "w": 0.195,
+            "h": 0.026
+          },
+          "vayechulu-a": {
+            "x": 0.625,
+            "y": 0.688,
+            "w": 0.195,
+            "h": 0.07
+          },
+          "vayechulu-b": {
+            "x": 0.37,
+            "y": 0.158,
+            "w": 0.2,
+            "h": 0.142
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "cb-folio-2r-intro",
+          "type": "narration",
+          "text": {
+            "en": "The next page, folio 2r, carries Genesis 1:26 to 2:19."
+          }
+        },
+        {
+          "id": "cb-day-6",
+          "type": "narration",
+          "text": {
+            "en": "The sixth day closes the same way. “Va-yekhullu” begins on the line below it."
+          },
+          "highlight": [
+            "day-6"
+          ]
+        },
+        {
+          "id": "cb-seventh",
+          "type": "narration",
+          "text": {
+            "en": "This is where the chapter changes: chapter 2 begins here, with “Va-yekhullu.” Genesis 2:1–3 runs from the foot of this column to the top of the next, a paragraph of its own. Counting from the first verse of the book, it is the seventh."
+          },
+          "highlight": [
+            "vayechulu-a",
+            "vayechulu-b"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "cb-question",
+          "type": "question",
+          "text": {
+            "he": "הסבר, למה אין חלוקה זו תואמת את מבנה פרשתנו.",
+            "en": "Explain why this division [the chapter beginning at 2:1, with “Va-yekhullu”] does not fit the structure of our parasha."
+          }
+        }
+      ]
+    }
+  ]
+}

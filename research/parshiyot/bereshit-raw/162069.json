@@ -1,0 +1,410 @@
+{
+ "dateCreated": "2019-03-06T05:36:08.078629",
+ "dateModified": "2019-03-07T02:23:53.851309",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Radak on Genesis 6:2:1",
+  "Shadal on Genesis 6:2:1",
+  "Malbim on Genesis 6:2:1",
+  "Sanhedrin 108a:5",
+  "Genesis 6:2",
+  "Rashi on Genesis 6:3:2",
+  "Mishnah Sanhedrin 10:3",
+  "Bereshit Rabbah 26:5",
+  "Rashi on Genesis 6:3:1",
+  "Bereshit Rabbah 26:6",
+  "Rashi on Genesis 6:3:4",
+  "Radak on Genesis 6:2:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 162069,
+ "includedRefs": [
+  "Genesis 6:2",
+  "Bereshit Rabbah 26:5",
+  "Genesis 6:2",
+  "Radak on Genesis 6:2:1",
+  "Radak on Genesis 6:2:2",
+  "Shadal on Genesis 6:2:1",
+  "Malbim on Genesis 6:2:1",
+  "Mishnah Sanhedrin 10:3",
+  "Sanhedrin 108a:5",
+  "Bereshit Rabbah 26:6",
+  "Rashi on Genesis 6:3:1",
+  "Rashi on Genesis 6:3:2",
+  "Rashi on Genesis 6:3:4"
+ ],
+ "nextNode": 34,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. מדברי המדרש</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:ב׳",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:2",
+   "text": {
+    "en": "that the sons of nobles saw the daughters of men that they were fair; and they took them wives, whomsoever they chose.",
+    "he": "\"וַיִּרְאוּ בְנֵי הָאֱ-לֹהִים אֶת בְּנוֹת הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ו:ה׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 26:5",
+   "text": {
+    "en": "",
+    "he": "ר' שמעון בן יוחאי קרא להון \"בני דייניא\".\nר' שמעון בן יוחאי מקלל לכל מאן דקרא להון \"בני אלהיא\".\nתני ר' שמעון בן יוחאי: כל פרצה שאינה מן הגדולים – אינה פרצה. \n\"כומריא גנבו אלוהיא מאן מומי ביה (=מי ישבע בה – בעבודה הזרה), או מאן מקרב\" (= או מי יקריב אליה קורבן)."
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  היכן מציינו בתורה \"אלוהים\" בהוראה שבה מפרש ר' שמעון בן יוחאי את המילה \"אלוהים\" בפסוקנו?"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2. למה מקלל ר' שמעון בן יוחאי את אלה המפרשים את פסוקנו שלא כפי פירושו?"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  <b>א. א. אורבך</b> בספרו \"חז\"ל: אמונות ודעות\" עמוד 147 כותב: \"התרגומים הארמיים התחשבו בקללת ר' שמעון בן יוחאי\". הוכח דבריו."
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. הסבר את הרעיון הכלול בדברי ר' שמעון בן יוחאי \"כל פרצה שאינה...\""
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5.  העתק את המשל הארמי המובא בסוף דברי המדרש, וסמן אותו בסימני פיסוק."
+  },
+  {
+   "node": 9,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"בני האלוהים\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:ב׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:2",
+   "text": {
+    "en": "that the sons of nobles saw the daughters of men that they were fair; and they took them wives, whomsoever they chose.",
+    "he": "\"וַיִּרְאוּ בְנֵי הָאֱ-לֹהִים אֶת בְּנוֹת הָאָדָם כִּי טֹבֹת הֵנָּה\n וַיִּקְחוּ לָהֶם נָשִׁים מִכֹּל אֲשֶׁר בָּחָרוּ\""
+   }
+  },
+  {
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ספרי בהעלותך י\"א ו':</span><br><span style=\"color: rgb(51,51,51);\">\"ויראו בני האלוהים\" - מה היו הדיינים עושים? היו אוחזים נשים מן השוק ומענים אותן. אם כך היו בני הדיינים עושים, קל וחומר לשאר הדיוטין.</span>"
+  },
+  {
+   "heRef": "רד\"ק על בראשית ו׳:ב׳:א׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 6:2:1",
+   "text": {
+    "en": "ויראו בני האלוהים, the sons of the judges, the elite of the species who are here referred to as אלוהים, just as in Exodus 22,27 אלוהים לא תקלל, “you must not curse a judge.” There are numerous similar examples in the Torah of the attribute אלוהים being applied to morally high ranking human beings. Onkelos also translates it in this vein when he speaks of בני רברביא. The explanations offered that the Torah refers to Uzza and Uzael are very far fetched. (compare Torah shleymah on this verse). [The two aforementioned are supposed to have been angels who had voted against the creation of man and who belittled man’s effort to conquer the evil urge. They were supposedly punished by being consigned to earth to experience life on earth by themselves. Instead of proving their superiority, they were the first to succumb to the allurement of physically attractive females. Their request to return to the celestial regions was denied by G’d. Ed.]<br> According to Bereshit Rabbah 26,5 Rabbi Shimon ben Yochai cursed anyone who translated the words בני האלוהים as “the sons of G’d.” He added that when the elite of the people are themselves guilty of the sins they want the common man to refrain from, their efforts are doomed to start with. Another reason offered why these people were referred to as בני האלוהים, (according to both Rabbi Chaninah and Rabbi Shimon ben Lakish, is that these were the people enjoying carefree long lives, free from sickness and other impediments. [This may have given them the illusion of being able to get away with whatever they felt like doing. Ed.] Rav Hunna, quoting Rabbi Yossi, says that these people were granted such long lives in order to enable them to study the sky, observe the orbits of the stars and make calculations resulting in our calendar.",
+    "he": "ד\"ה ויראו בני האלוהים: בני השופטים והגדולים ומנהיגי המדינות, כי הם נקראו אלוהים, כמו (<a class=\"refLink\" href=\"/Exodus 22\" data-ref=\"Exodus 22\" target=\"_blank\">שמות כ\"ב</a>) \"אלוהים לא תקלל\" והדומים לו... "
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ו׳:ב׳:ב׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 6:2:2",
+   "text": {
+    "en": "את בנות האדם, the daughters of the weaker specimen of the human race. The women were unable to resist the physically superior specimen referred to as בני האלוהים, and as a result if fancied by the latter, they would be taken by them as wives or concubines against their will, and the will of even their husbands. [The Torah describes the first time the law of the “survival of the fittest” was practiced by the human race. The result was the deluge. Ed.] The term אדם next to the term אלוהים simply compares the weak to the strong In the Sifri¸ (Behaalotcha 86) the point is made that when ordinary individuals observed that the judges took the law into their own hands, they reasoned that they themselves would most certainly be able to get away with the same thing, seeing that the judges are supposed to set a good example.<br> Rabbi Avraham Ibn Ezra understands the expression בני אלוהים, as referring to spiritually superior people, people who knew what G’d expected of them. They chose wives according to what they perceived was suitable for them basing themselves on their reading of astrology. As a result of such careful mating, their offspring were in many instances giants, etc., as we read about at the end of our verse. It is possible that they took women of their choice even against the will of these women.",
+    "he": "ד\"ה את בנות האדם: בנות המון האדם החלושים, שלא היה להם כוח לעמוד כנגדם, וכאשר היו רואים בני הגדולים בנות העניים שהיו טובות, רוצה לומר יפות תואר ומראה, היו עושקים ולוקחים איזה מהם טובות מכל האנשים ואותן שישרו בעיניהם, הן פנויות או נשואות לבעל, כי מי שהיה גדול מחבירו עושק את חבירו ואין מציל מידם. ו\"אדם\" נאמר על הפחותים והחלושים שנאמר (<a class=\"refLink\" href=\"/Psalms 49\" data-ref=\"Psalms 49\" target=\"_blank\">תהילים מ\"ט</a>) \"גם בני אדם גם בני איש\", \"בני- אדם\" – הפחותים, \"בני איש\" – הגדולים."
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית ו׳:ב׳:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 6:2:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה בני האלוהים: ... נראה לי כי \"בני האלוהים\" הם קצת מבני קין, שהיו תועים בארץ, והיה טבעם קשה ורע כקין אביהם, ובני שת היו מיושבים בקיבוץ מדיני, והיו נקראים \"בני אדם\". וקצת מבני קין היו חזקים וגבוהי קומה מהם, והיו בני האדם מפחדים ונבהלים מהם, והיו קוראים להם \"בני האלוהים\" מפני גובהם ואימתם ופראותם (כי היושבים במדבר לחורב ביום וקרח בלילה הם בעלי קומה וכוח יותר מהשוכנים בחברת המדינה ומתנהגים בחכמה).\nוהנה מתחילה לא היו בני שת מתערבים בבני קין, אך ברוב הימים התחילו בני קין לחטוף להם מבנות  אדם, וקצת מהן נשארו אצל בעליהן, וקצתן חזרו לבית אמן וילדו שם. ואז נולדו בקרב חברת בני האדם אנשים גבוהים וקשים ורעים יותר משאר בני שת, ומאז והלאה התחילה חברת האדם להתקלקל."
+   }
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ו׳:ב׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 6:2:1",
+   "text": {
+    "en": "",
+    "he": "ידוע ביקורת העמים הקדמונים, שהיו מאמינים בבני אלוהים חושקים את בנות האדם והיו <b>מהבילים</b>, כשאשה יפה תמצא חן בעיני אלוהים ויבואו אליהן וילדו להם. וסיפר שכפי מחשבת הדור ההוא והבליהם אמרו, שבני אלוהים רואים את בנות האדם שהן טובות וימצאו חן בעיניהם ויקחו להם נשים, שבאופן זה זנו הנשים מתחת בעליהן עם אנשים שההבילו עליהם, שהם בני אלוהים.\nוהגדות כאלה היו בימים האלה וגם אחרי כן, כי נודע שבכל סיפורי העמים הקדמונים יספרו שבימי קדם מלכו על מדינתם בני האלוהים שבאו משמים אל הארץ ונשאו נשים  מבנות האדם, ומהם עמדו גיבורים ומושלים, כמו שיימצא בסיפורי מצרים וחינא ומלכות יוון מן האלוהיות וחצי אלוהות, שהלכו על ההרים הרמים ועל ארצם בימי קדם, והם נעשו להם אלילים, וסיפרו עליהם מעשים של רצח וניאוף וכל מידות רעות, עד שגם עובדיהם התדמו להם בתועבותיהם, כמו האלילה שעבודתה הייתה בניאוף, והאליל שעבדו אותו בזבחי אדם, והעבודות האלה עמדו עד אמצע מלכות הרומיים, וכל שכן היו בתוקפם בימי משה...  לכן הודיע לנו משה רבנו ע\"ה כי הנפילים האלה שהם הענקים והעריצים היו בימים האלה וגם אחרי כן, שאז נמצאו גיבורי כוח נוראים, שאמרו על עצמם שהם בני אלוהים שנפלו משמים, והעם התחילו לעבוד אותם. והם היו בני האלוהים שבאו אל בנות האדם וילדו להם, עד שגם הבנים היו נחשבים לאלילים. – אבל דע, שכל הסיפורים וההגדות האלה, שעליהם בנו כהני האליל כל ענייני העבודה זרה וסיפורי האלילים והמיתולוגיה, הוא הכל שקר וכזב, \"היעשה לו אדם אלוהים והמה לא אלוהים?!\" רק המה הגיבורים אשר מעולם אנשי השם, שכל גיבור שעמד בימים ההם או איש שעשה לו שם על ידי חכמתן היו מייחסים לו אלוהות ואומרים שנפל משמים, וזה היה שורש להשחתת האדם ולעבודה זרה ואמונת שווא והבל, אשר לכן ראה ה' לקצר ימי האדם, שיראו כי אדם המה ובני תמותה, ולא אלוהים המה. "
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בנו יעקב, (בפירושו הגדול לספר בראשית, בגרמנית):</span><br><span style=\"color: rgb(51,51,51);\">ייתכן שהכינוי \"בני אלוהים\" מובנו כאן אירוני, כמו (<a class=\"refLink\" href=\"/Psalms 78\" data-ref=\"Psalms 78\" target=\"_blank\">תהילים ע\"ח</a>) \"אני אמרתי אלוהים אתם ובני עליון כולכם – אכן כאדם תמותון...\".</span>"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר, מה הן הדיעות השונות בתפישת המושג \"בני אלוהים\". סדרן לקבוצות."
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מצא ראיה מלשון פסוקנו לכך, שבני האלוהים עשו חמס, כפי שהדבר מוסבר בספרי בהעלותך."
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  הסבר מה הקשר בין פרשתנו לפרשת למך ד' י\"ז כ\"ד, ועיין גיליון <b>בראשית תש\"י</b> שאלות ב' ג', בייחוד דברי הרלב\"ג ודברי <b>המלבי\"ם</b> שם!"
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ג. השוואת מפרשים</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Numbers 6:3\" data-ref=\"Numbers 6:3\" target=\"_blank\">פסוק ג'</a></span><br><span style=\"color: rgb(51,51,51);\">\"לֹא יָדוֹן רוּחִי בָאָדָם לְעֹלָם בְּשַׁגַּם הוּא בָשָׂר\"  </span>"
+  },
+  {
+   "heRef": "משנה סנהדרין י׳:ג׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Mishnah Sanhedrin 10:3",
+   "text": {
+    "en": "The generation of the Flood has no share in the World to Come, nor will it stand in judgment, as it is says, (Genesis 6:3) \"My spirit shall not abide [<i>yadon</i>] in man forever,\" neither judgment [<i>din</i>] not spirit. The generation of Division has no share in the World to Come, as it is says, (Genesis 11:8) \"So the Lord scattered them abroad from thence upon the face of all the earth.\" \"So the Lord scattered them,\" in this world; (Genesis 11:9) \"and from thence did the Lord scatter them abroad\" in the World to Come. The people of Sodom have no share in the World to Come, as it says, (Genesis 13:13) \"Now the men of Sodom were wicked and sinners against the Lord exceedingly.\" \"Wicked\" in this world, \"and sinners\" in the World to Come. But they will stand in judgment. Rabbi Nechemiah says , neither will stand in judgment, as it says, (Psalms 1:5) \"Therefore the wicked shall not stand in the judgment, Nor sinners in the congregation of the righteous.\" \"Therefore the wicked shall not stand in judgment,\" this is the generation of the Flood; \"nor sinners in the congregation of the righteous,\" this is the people of Sodom. [The Sages] said to him, they will not stand in the congregation of the righteous, but they will stand in the congregation of the wicked. The spies have no share in the World to Come, as it says, (Numbers 14:37) \"Even those men that did bring up an evil report of the land, died by the plague before the Lord.\" \"Died,\" in this world; \"in the plague,\" in the World to Come. The generation of the wilderness has no share in the World to Come and will not stand in judgment, as it is written, (Numbers 14:35) \"In this wilderness they shall be consumed, and there they shall die,\" according to Rabbi Akiva. Rabbi Eliezer says, about them [the verse] says, (Psalms 50:5) \"Gather My saints together unto Me; Those that have made a covenant with Me by sacrifice.\" The congregation of Korah will not ascend in the future, as it says, (Numbers 16:33) \"and the earth closed upon them,\" in this world; \"and they perished from among the assembly,\" in the World to Come, according to Rabbi Akiva. Rabbi Eliezer says, about them [the verse] says, (I Samuel 2:6) \"The Lord killeth, and maketh alive; He bringeth down to the grave, and bringeth up.\" The Ten Tribes will not return in the future, as it says, (Deuteronomy 29:27) \"[God] will cast them into another land, as it is this day.\" Just as this day goes and does not return, so too, they will go and will not return, according to Rabbi Akiva. Rabbi Eliezer says, just as the day grows dark and [then] grows light; so too, the Ten Tribes, for whom it grew dark, in the future it will thus grow light for them.",
+    "he": "דור המבול אין להם חלק לעולם הבא, ואין עומדים בדין, שנאמר \"לא ידון רוחי באדם לעולם\", לא דין ולא רוח."
+   }
+  },
+  {
+   "heRef": "סנהדרין ק״ח א:ה׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sanhedrin 108a:5",
+   "text": {
+    "en": "gemara <b>The Sages taught</b> in a <i>baraita</i>: The members of <b>the generation of the flood have no share in the World-to-Come, as it is stated: “And He obliterated every living thing that was upon the face of the ground,</b> from man to cattle to creeping animal to the birds of the heaven; and they were obliterated from the earth” (Genesis 7:23). <b>“And He obliterated every living thing”</b> indicates <b>in this world,</b> whereas <b>“and they were obliterated from the earth”</b> indicates <b>for the World-to-Come;</b> this is <b>the statement of Rabbi Akiva. Rabbi Yehuda ben Beteira says:</b> The members of the generation of the flood will <b>neither live nor be judged, as it is stated: “My soul shall not abide [<i>yadon</i>] in man forever”</b> (Genesis 6:3), meaning <b>neither</b> will they stand in <b>judgment [<i>din</i>], nor</b> shall their <b>souls</b> be restored to them. <b>Alternatively, “My soul shall not abide”</b> means <b>their souls will not return to their sheaths [<i>nadan</i>],</b> i.e., to their bodies.",
+    "he": "ר' יהודה בן בתירא אומר: לא חיין ולא נידונין, שנאמר \"לא ידון רוחי באדם לעולם\" – לא דין ולא רוח. דבר אחר: שלא תהא נשמתן חוזרת לנדנה."
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ו:ו׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 26:6",
+   "text": {
+    "en": "",
+    "he": "אמר ר' ישמעאל בר' יוסי: איני נותן רוחי בהם בשעה שאני נותן מתן שכרם של צדיקים לעתיד לבוא...\nרבי אומר: \"ויאמר\" דור המבול לה': \"לא ידון!\" אמר ר' עקיבא: (<a class=\"refLink\" href=\"/Psalms 10\" data-ref=\"Psalms 10\" target=\"_blank\">תהילים י'</a>) \"על מה ניאץ רשע אלוהים? אמר בלבו לא תדרוש\" – לית דין ולית דיין. \nאבל אית דין ואית דיין. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ג׳:א׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:3:1",
+   "text": {
+    "en": "לא ידון רוחי באדם MY SPIRIT SHALL NOT STRIVE AGAINST MAN — My Spirit shall not be in a state of discontent and shall not strive with Myself because of man.",
+    "he": "ד\"ה לא ידון רוחי באדם: לא יתרעם ויריב רוחי עלי בשביל האדם. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ג׳:ב׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:3:2",
+   "text": {
+    "en": "לעולם ALWAYS — for a long time. Behold, My Spirit has been contending within Me whether to destroy or whether to show mercy: such contending (deliberation) shall not be forever — meaning, for a long time.",
+    "he": "ד\"ה לעולם: לאורך ימים. הנה רוחי נידון בקרבי אם להשחית ואם לרחם, לא יהיה מדון זה ברוחי לעולם, כלומר לאורך ימים."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ג׳:ד׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:3:4",
+   "text": {
+    "en": "והיו ימיו וגו THEREFORE HIS DAYS SHALL BE etc. — For 120 years I will be long-suffering with them, and if they repent not I shall bring a flood upon them. If, now, you object, saying that from the birth of Japheth until the Flood there were only 100 years, remember that there is no “earlier” or “later” in the Torah (events are not always related in chronological order) (Pesachim 6b): the decree (regarding the Flood) was issued twenty years before Noah had any children — so we find in Seder Olam. There are many Midrashic explanations of the words לא ידון but this is transparently its plain sense. ",
+    "he": "ד\"ה והיו ימיו מאה ועשרים שנה: עד ק\"כ שנה אאריך להם אפי, ואם לא ישובו אביא עליהם מבול..."
+   }
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ההבדל בתפישת המילה \"רוחי\" בין דברי הגמרא לבין פירוש רש\"י?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  מה ההבדל בתפישת הפועל \"ידון\" בין דברי הגמרא לבין פירוש רש\"י?"
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  במה שונים דברי רבי ור' עקיבא מכל השאר? ומה אילצם לדרוש כך?"
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4.  היכן מצא ר' עקיבא רמז לתשובה: \"אבל אית דין ואית דיין!\"?"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "5.  ממפרשי המשנה יש שמסתמכין על <a class=\"refLink\" href=\"/Ezekiel 37\" data-ref=\"Ezekiel 37\" target=\"_blank\">יחזקאל ל\"ז</a> לפירוש דברי המשנה. מה הסעד שניתן שם להבנת דברי המשנה כאן?"
+  }
+ ],
+ "ssn": 1420,
+ "status": "public",
+ "summary": "1971 (תשל\"א)<br><a href=\"http://www.nechama.org.il/pdf/1420.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשל\"א - בני האלוהים",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

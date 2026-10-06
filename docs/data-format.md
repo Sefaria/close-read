@@ -43,12 +43,13 @@ An array of section objects. Each section has a primary text that stays pinned o
 | `title.en` | string | yes\* | English section heading (\*reading sections only) |
 | `primaryText` | VerseData | yes\* | The verse pinned on screen when the section begins (\*reading sections only) |
 | `steps` | Step[] | yes\* | Ordered sequence of cards and verse changes (\*reading sections only) |
+| `titleCard` | boolean | no | `false` drops the big title card, so this section's pinned panel scrolls up straight behind the previous one and locks. Use it to bring in a new image or text as a continuation rather than a new chapter. `title` is still required (it labels the nav dot) |
 
 ---
 
 ## VerseData
 
-A verse can be rendered in two modes: **single** (default) or **comparison** (side-by-side).
+A verse can be rendered in two modes: **single** (default) or **comparison** (side-by-side). The panel can also show an **image** instead of text (see [Image](#image)).
 
 ### Single Verse
 
@@ -89,6 +90,43 @@ Set `"mode": "comparison"` to show two verses side by side.
 | `left` | object | yes | Left verse: `ref`, `he`, `en` |
 | `right` | object | yes | Right verse: `ref`, `he`, `en` |
 | `words` | WordMap | no | Word groups (use `side` to target left/right) |
+
+### Image
+
+Set `"mode": "image"` to pin a picture — a manuscript page, a printed edition, a map — instead of text. Steps highlight named **regions** of the image the way they highlight word groups: the panel zooms to the highlighted regions, outlines them and dims the rest of the page. A step with no `highlight` shows the whole image. Use it as the `primaryText` of a section with `"titleCard": false` when the page should scroll in and lock (its first step, unhighlighted, shows the whole page), or as the `newVerse` of a `verse-change` to crossfade in place. Zooms take 1.35 s + 0.4 s·|ln(zoom ratio)| (capped at 2.5 s), so 1×→5× takes ~2 s and a small adjustment ~1.5 s.
+
+```json
+{
+  "ref": "Leningrad Codex, folio 2r",
+  "mode": "image",
+  "src": "https://manuscripts.sefaria.org/leningrad-color/BIB_LENCDX_F002A.jpg",
+  "link": "https://www.sefaria.org/Genesis.2.1?with=Manuscripts",
+  "width": 3958,
+  "height": 4248,
+  "alt": "Folio 2r of the Leningrad Codex: Genesis 1:26–2:19 …",
+  "caption": { "en": "Genesis 1:26–2:19. Columns read right to left." },
+  "credit": { "en": "Leningrad Codex (1008 CE). …", "url": "https://…" },
+  "regions": {
+    "day-6": { "x": 0.625, "y": 0.664, "w": 0.195, "h": 0.026 }
+  }
+}
+```
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| `ref` | string | yes | Panel label, and the key crossfades match on. Must be unique within the section |
+| `mode` | `"image"` | yes | Triggers image layout |
+| `src` | string | yes | Image URL |
+| `width`, `height` | number | yes | The image's pixel size. Layout and zoom are computed from these, so they must match the real file (the render test checks the aspect ratio) |
+| `alt` | string | yes | Alt text describing the page |
+| `credit` | `{en, url?}` | yes | Attribution shown under the image (hidden on phones) |
+| `caption` | `{en}` | no | One line under the image |
+| `link` | string | no | Where the `ref` label links (e.g. the Sefaria manuscripts view) |
+| `regions` | RegionMap | no | Highlightable rectangles: id → `{x, y, w, h}` as **fractions of the image** (0–1, origin top-left) |
+
+Region ids work exactly like word-group ids: a step's `highlight` lists them, `effect` (`glow`, `pulse`) applies to the outline, and `tests/test_data.py` fails on a region that's outside the image or never highlighted. Several regions highlighted together zoom to their combined bounding box.
+
+**Placing regions:** draw them on a downsized copy of the image and look before shipping, and record how they were derived (folio, column, lines) in the research pack. They are claims about the image.
 
 ---
 

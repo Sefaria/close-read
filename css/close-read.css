@@ -477,6 +477,120 @@ body {
   letter-spacing: 0.1em;
 }
 
+/* --- Image Mode (manuscript pages etc.) ---
+   The active item fills the panel's padded height: ref label, a viewport that
+   takes the rest, and a one-line caption. TextEffects.layoutImage sizes the
+   stage to the viewport and zooms/pans it (transform) to highlighted regions. */
+.primary-text-content.image-mode.active {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.image-mode .primary-ref {
+  margin-bottom: 0.75rem;
+  flex: none;
+}
+
+.image-viewport {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+  border-radius: 6px;
+  background: var(--color-bg-warm);
+  border: 1px solid var(--color-border);
+}
+
+.image-stage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  /* duration is set per zoom by TextEffects.layoutImage */
+  transition: transform 1.35s var(--ease-smooth);
+}
+
+.image-stage img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.image-overlay {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+/* The dim layer covers the whole page except the highlighted regions' holes. */
+.image-dim {
+  fill: var(--color-bg);
+  opacity: 0;
+  transition: opacity 0.6s var(--ease-smooth);
+}
+
+.image-mode.has-highlights .image-dim {
+  opacity: 0.55;
+}
+
+.image-hole {
+  fill: white;
+}
+
+.image-hole.highlighted {
+  fill: black;
+}
+
+.image-region {
+  fill: none;
+  stroke: var(--color-highlight);
+  stroke-width: calc(2.5px / var(--zoom, 1));
+  vector-effect: non-scaling-stroke;
+  opacity: 0;
+  transition: opacity 0.5s var(--ease-smooth);
+}
+
+.image-region.highlighted {
+  opacity: 1;
+}
+
+.image-region.glow {
+  filter: drop-shadow(0 0 4px var(--color-highlight));
+}
+
+.image-region.pulse {
+  animation: image-region-pulse 2s ease-in-out infinite;
+}
+
+@keyframes image-region-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+.image-caption {
+  flex: none;
+  margin-top: 0.6rem;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  line-height: 1.4;
+  color: var(--color-text-muted);
+  text-align: center;
+}
+
+.image-caption-text {
+  display: block;
+  color: var(--color-text-secondary);
+}
+
+.image-credit a {
+  color: var(--color-text-muted);
+}
+
 /* --- Word Highlighting --- */
 .word-group {
   /* Only the properties highlighting changes. Not `all`: font-size would then
@@ -895,6 +1009,22 @@ body {
   .primary-text-content.comparison-mode {
     flex-direction: column;
     gap: 1rem;
+  }
+
+  /* Phones: one caption line, no credit (the ref label still links out). */
+  .image-mode .primary-ref {
+    margin-bottom: 0.4rem;
+  }
+
+  .image-caption {
+    margin-top: 0.35rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .image-credit {
+    display: none;
   }
 
   .comparison-vs {

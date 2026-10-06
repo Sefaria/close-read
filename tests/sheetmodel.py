@@ -34,6 +34,8 @@ def load_sheet(slug):
 # ─── Grouping (engine.groupSections) ───
 
 def primary_key(pt):
+    if pt.get("mode") == "image":
+        return f"image:{pt['ref']}|{pt['src']}"
     if pt.get("mode") == "comparison":
         return f"cmp:{pt['left']['ref']}|{pt['right']['ref']}|{pt['left']['he']}|{pt['right']['he']}"
     return f"single:{pt['ref']}|{pt['he']}"
@@ -46,6 +48,15 @@ def merged_words(pt_list):
     return words
 
 
+def is_image(verse):
+    return verse.get("mode") == "image"
+
+
+def targets(verse):
+    """What a step's `highlight` ids resolve against: word groups, or an image's regions."""
+    return (verse.get("regions") if is_image(verse) else verse.get("words")) or {}
+
+
 @dataclass
 class Group:
     dom_id: str                 # id of the .cr-section element (first sub-section)
@@ -55,6 +66,11 @@ class Group:
     @property
     def primary(self):
         base = self.sections[0]["primaryText"]
+        if is_image(base):
+            regions = {}
+            for s in self.sections:
+                regions.update(s["primaryText"].get("regions") or {})
+            return {**base, "regions": regions}
         return {**base, "words": merged_words(s["primaryText"] for s in self.sections)}
 
 
@@ -184,7 +200,8 @@ def card_expectations(sheet, groups=None):
                     "highlight": st.get("highlight") or [],
                     "effect": st.get("effect"),
                     "verse_ref": verse["ref"],
-                    "verse_words": verse.get("words") or {},
+                    "verse_words": targets(verse),
+                    "verse_mode": verse.get("mode") or "single",
                     "question_label": st.get("questionLabel") or title.get("questionLabel"),
                 }
 
@@ -199,7 +216,10 @@ def verses_of_group(group):
 
 
 def verse_sides(verse):
-    """(label, he, en, words) for each side of a verse (comparison has two)."""
+    """(label, he, en, words) for each side of a verse (comparison has two).
+    Images have no text sides."""
+    if is_image(verse):
+        return []
     if verse.get("mode") == "comparison":
         words = verse.get("words") or {}
         left = {k: w for k, w in words.items() if w.get("side", "left") == "left"}

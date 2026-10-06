@@ -1,0 +1,339 @@
+{
+ "dateCreated": "2019-03-06T05:28:39.072304",
+ "dateModified": "2019-03-07T02:15:26.319370",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Ibn Ezra on Genesis 2:15:1",
+  "Genesis 2:15",
+  "Genesis 2:16",
+  "Genesis 3:23",
+  "Genesis 2:17",
+  "Rabbeinu Bahya, Bereshit 2:9:1",
+  "Ibn Ezra on Genesis 3:6:3",
+  "Ibn Ezra on Genesis 2:15:2",
+  "Ramban on Genesis 2:9:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161545,
+ "includedRefs": [
+  "Genesis 2:15",
+  "Genesis 3:23",
+  "Ibn Ezra on Genesis 2:15:1-2",
+  "Genesis 2:17",
+  "Ibn Ezra on Genesis 3:6:3",
+  "Ramban on Genesis 2:9:1",
+  "Rabbeinu Bahya, Bereshit 2:9:1",
+  "Genesis 2:16",
+  "Genesis 2:16"
+ ],
+ "nextNode": 32,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. \"לעבדה ולשמרה\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ו",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:15",
+   "text": {
+    "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+    "he": "\"וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ\""
+   }
+  },
+  {
+   "heRef": "בראשית ג׳:כ״ג",
+   "node": 3,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 3:23",
+   "text": {
+    "en": "Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.",
+    "he": "\" וַיְשַׁלְּחֵהוּ ה' אֱ-לֹהִים מִגַּן עֵדֶן לַעֲבֹד אֶת הָאֲדָמָה אֲשֶׁר לֻקַּח מִשָּׁם\""
+   }
+  },
+  {
+   "node": 4,
+   "outsideText": "התוכל לבטל את דעתם ולהוכיח שאין כאן כל סתירה?"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  אל מי מוסב הכינוי של לעבדה ולשמרה?"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ב׳:ט״ו:א׳",
+   "node": 6,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "**"
+   },
+   "ref": "Ibn Ezra on Genesis 2:15:1-2",
+   "text": {
+    "en": " The meaning of \"to work it\"is to provide water for the garden.  \"To guard it\" from animals and to ensure that they do not enter the garden and sully it.  Some explain that \"to work it\" means \"to fulfill the command [no to eat from the tree], but this cannot be correct because a 'command' is not called 'work'.",
+    "he": "ד\"ה גן: לשון זכר ונקבה. וכן חיבורו גנים גנות. והאומרים כי לעבדה ולשמרה שב אל האדמה, איך יתכן לעבוד ולשמור מקום גדול ממקום קטן. ואחר שחטא והוציאו לעבוד את האדמה וכבר היה עובד האדמה. רק פירוש לעבדה על הגן שמפריו יאכל. ואחר שחטא שב לאכול את עשב השדה והוא הלחם. וטעם לעבדה להשקות הגן ולשמרה מכל החיות שלא יכנסו שם ויטנפוהו. ויש אומרים כי כן פירושו לעבוד מצותו והמצוה לא תעבד. "
+   }
+  },
+  {
+   "node": 7,
+   "outsideText": "מהן שלש הדעות המובאות בדבריו? ואיך הוא מבטל שתיים מהן?"
+  },
+  {
+   "node": 8,
+   "outsideText": "<table><tbody><tr><td><big>ב. עץ הדעת</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ז",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:17",
+   "text": {
+    "en": "but of the tree of the knowledge of good and evil, thou shalt not eat of it; for in the day that thou eatest thereof thou shalt surely die.’",
+    "he": "\"וּמֵעֵץ הַדַּעַת טוֹב וָרָע\"<b></b>"
+   }
+  },
+  {
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מדרש תדשא פרק ז':</span><br><span style=\"color: rgb(51,51,51);\">אמר ר' פנחס בן יאיר: העץ הזה עד שלא אכל ממנו אדם הראשון לא נקרא שמו אלא \"עץ\" בלבד כשאר כל העצים, אבל משאכל ועבר על גזרתו של הקב\"ה, נקרא שמו \"עץ הדעת טוב ורע\" על שם סופו. כמו שמצינו דברים רבים שנקראו שמם על שם סופם. ומניין אתה אומר, שלא נקרא העץ כן מתחילה? מתשובת האשה לנחש. ראה מה השיבה אותו - \"ומפרי העץ אשר בתוך הגן אמר אלוקים לא תאכלו ממנו\" ולא אמרה: \"מפרי <b>עץ הדעת טוב ורע</b>\" ועוד: בשעה שאמר הקב\"ה לאדם: \"למה אתה נחבא?\" מה אמר? \"המן <b>העץ</b> אשר צויתיך לבלתי אכל ממנו\" ולא אמר \"מעץ הדעת\". ולמה קרא שמו \"הדעת טוב ורע\"? שעל ידי אכילתו ידע אדם רעות, שעד שלא עבר על הצווי לא נגזר עמל, ולא יגיעה, ולא קר ולא חם ולא מכאוב, ולא כל דבר רע מזיקו, אבל משעבר על חק גזרתו של מקום, התחילו כל הרעות נוגעות בו ונצערים מעשיו. ולמה ציוה אותו הקב\"ה שיאכל מכל עץ הגן ומנע ממנו אחד מהם?? כדי שיהא רואה אותו תמיד, וזוכר את בוראו, ומכיר שעול יוצרו עליו, ושלא תהא רוחו גסה עליו. </span>"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ג׳:ו׳:ג׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 3:6:3",
+   "text": {
+    "en": "",
+    "he": "והנכון בעיני ששני עצים הם בתוך גן עדן. ואינם במקום אחר על כל פני האדמה. והאחד עץ הדעת, והוא יוליד תאות המשגל, ועל כן כיסו האדם ואשתו ערותם... וכאשר אכל אדם מעץ הדעת ידע את אשתו. וזאת הידיעה כינוי למשגל. ובעבור עץ הדעת נקרא כן. גם הנער כאשר ידע הטוב והרע אז יחל לתאוות המשגל."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:ט׳:א׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 2:9:1",
+   "text": {
+    "en": "...The commentators said that the fruit of this tree gave  birth to the sexual desire, and this is why they covered their nakedness after they ate from it. They brought as proof a similar usage of language in the statement of Barzilai haGiladi “I am now eighty years old. Can I tell the difference between good and bad?” (Shmuel II 19:36) which indicates that he had lost the sexual desire. This is not correct in my eyes, because later in this story it says “…and you will be like divine beings who know good and bad.” (Bereshit 3:5) And if you want to say that the snake lied to her, it says further on And the LORD God said, “Now that the man has become like one of us, knowing good and bad…” (Bereshit 3:22) It has already been said (Pirke d’rabbenu hakadosh, Gate 3, 16) that there were three who spoke the truth and were destroyed from the world, and they are – the snake, the spies and Doeg the Edomite (the Beroti). It seems right in my eyes that the human did what came naturally, just as the heavens and all their host, which do only truth, whose acts are only truth and do not deviate from their appointed task. There is no love in their actions or hate. The fruit of this tree gives birth to the will and desire that those who eat it should choose a thing or its opposite, for the good or the bad. This is why it is called ‘the tree of the knowledge of good and evil,’ because da’at in our language refers to will or intention, as the Sages said ‘we only taught this in a case when his intention is to return…if it is not his intention to clear it out…’ (Pesachim 6a). This is true in biblical Hebrew as well - “what is man that you should know him?,” (Psalms 144:3) meaning that you should care about or desire him, or “I have known him by name…” (Shemot 33:12) meaning that I chose him from all other people. So too the statement of Barzilai haGiladi ‘between good and evil,’ meaning that he had lost his power of discernment and could no longer desire something or be disgusted by it, eating without tasting and hearing without taking pleasure in son. Here in the garden there was no desire for sexual intimacy between the man and his wife, rather at the proper time they joined together and gave birth. Therefore their sexual organs were exposed just as their faces and hands and they were not ashamed of them. After they ate from the tree, the choice was in their hands and they had the will to do evil or go to themselves or others. This is a divine quality from one perspective, just as it was bad for humanity as they now had lust and desire. It is possible that the verse intended this when it said “…God made men straight, but they have engaged in too much reasoning.” (Kohelet 7:29) ‘Straight’ means that one should seize on a single straight path and ‘engaged in too much reasoning’ means that one seeks various acts among which they can choose. When Gd commanded the man not to eat from the tree he did not inform him of this quality of da’at which it imparted, rather Gd simply said ‘from the fruit of the tree in the midst of the garden,’ meaning the known one in the middle – don’t eat from it. This is what the woman said to the snake, and only in a later verse does it mention the tree by name “but as for the tree of knowledge of good and bad, you must not eat of it.” (Bereshit 2:17)",
+    "he": "ד\"ה \"ועץ החיים בתוך הגן\": ... \"ועץ הדעת טוב ורע\" - אמרו המפרשים, כי היה פריו מוליד תאוות המשגל, ולכן כיסו מערומיהם אחרי אכלם ממנו. והביאו לו דומה בלשון זה מאמר ברזילי הגלעדי \"האדע בין טוב לרע\" (<a class=\"refLink\" href=\"/II Samuel 19:36\" data-ref=\"II Samuel 19:36\" target=\"_blank\">שמואל ב' י\"ט ל\"ו</a>), כי בטלה ממנו התאוה ההיא. ואיננו נכון אצלי בעבור שאמר \"והייתם כאלוהים יודעי טוב ורע\" (להלן ג' ה'). ואם תאמר כיחש לה, הנה \"ויאמר ה' אלהים הן האדם היה כאחד ממנו לדעת טוב ורע\" (להלן ג' כ\"ב). וכבר אמרו (פירקא דרבינו הקדוש, בבא דשלשה ט\"ז) \"שלושה אמרו אמת ואבדו מן העולם, ואלו הן: נחש ומרגלים ודואג האדומי הבארותי.\" והיפה בעיני, כי האדם היה עושה בטבעו מה שראוי לעשות כפי התולדת, כאשר יעשו השמים וכל צבאם, פועלי אמת, שפעולתם אמת, ולא ישנו את תפקידם, ואין להם במעשיהם אהבה או שנאה. ופרי האילן הזה היה מוליד הרצון והחפץ שיבחרו אוכליו בדבר או בהפכו לטוב או לרע. ולכן נקרא \"עץ הדעת טוב ורע\", כי \"הדעת\" ייאמר בלשוננו על הרצון, כלשונם (פסחים ו' א') לא שנו אלא שדעתו לחזור, ושדעתו לפנותו. ובלשון הכתוב (תהלים קמ\"ד ג') \"מה אדם ותדעהו\" - תחפוץ ותרצה בו, \"ידעתיך בשם\" (<a class=\"refLink\" href=\"/Exodus 33:12\" data-ref=\"Exodus 33:12\" target=\"_blank\">שמות ל\"ג י\"ב</a>) - בחרתיך מכל האדם, וכן מאמר ברזילי \"האדע בין טוב לרע\" - שאבד ממנו כח הרצון, לא היה בוחר בדבר ולא קץ בו, והיה אוכל מבלי שיטעם ושומע מבלי שיתענג בשיר. והנה בעת הזאת לא היה בין אדם ואשתו המשגל לתאוה, אבל בעת ההולדה יתחברו ויולידו, ולכן היו האיברים כולם בעיניהם כפנים והידים ולא יתבוששו בהם. והנה אחרי אכלו מן העץ היתה בידו הבחירה, וברצונו להרע או להיטיב בין לו בין לאחרים, וזו מדה אלוהית מצד אחד, ורעה לאדם בהיות לו בה יצר ותאוה. ואפשר שנתכוון הכתוב לענין הזה, כשאמר \"אשר עשה האלוהים את האדם ישר והמה בקשו חשבונות רבים\" (<a class=\"refLink\" href=\"/Ecclesiastes 7:29\" data-ref=\"Ecclesiastes 7:29\" target=\"_blank\">קהלת ז' כ\"ט</a>). היושר - שיאחוז דרך אחת ישרה, והבקשה בחשבונות רבים - שיבקש לו מעשים משתנים בבחירה ממנו. וכאשר ציוהו הקב\"ה..."
+   }
+  },
+  {
+   "heRef": "רבנו בחיי, בראשית ב׳:ט׳:א׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rabbeinu Bahya, Bereshit 2:9:1",
+   "text": {
+    "en": "ויצמח ה' אלוקים מן האדמה, “The Lord G-d made grow from the earth, etc.” According to the plain meaning of the text these words prove that there is such a thing as Paradise on earth and that it contains a tree of knowledge as well as a tree of life. The fruit of the tree of life causes those who eat it to enjoy long life, whereas the fruit of the tree of knowledge instills in those who consume it willpower and freedom of choice. to do either good or evil both in matters physical as well as in matters spiritual. Our sages in Pessachim 6 said concerning this “לא שנו אלא שדעתו לחזור, the ruling applies only to someone who had resolved to return to his home during the festival of Passover.” <small>[The author uses the word דעתו in the Talmud where it refers to someone making a voluntary decision as proof that here in our verse too the term עץ הדעת, does not mean “the tree of knowledge,” but means ‘the tree permitting man a choice.” Ed.]</small> <br>We find support for this meaning of the word דעת in Psalms  144,3 מה אדם ותדעהו, “what is man that You should have granted him grace?” In other words: “why have You extended Your goodwill, Your love to man?” The meaning of the term עץ הדעת then is the tree which causes G-d to relate to man with either favour or disfavour.” Originally, G-d had withheld this kind of choice from Adam as he had been ‘programmed” in his deeds prior to his sin. This does not mean that he was not free to sin but that his actions were guided exclusively by his intellect thus practically excluding  sin as he had not been subject to temptation from within. <br>Once man had sinned, i.e. had eaten from the fruit of that tree, he became possessed of an independent will, i.e. obedience to G-d’s will was no longer automatic, dictated by his intellect. The new-found “independent will” meant that he had acquired an attribute reserved for G-d, an attribute that he could handle only at great potential cost to himself.",
+    "he": "עץ הדעת נותן באוכליו רצון ובחירה... וכן יוכיח הלשון \"דעת\", שהוא נאמר על הרצון והבחירה כמו בלשון חז\"ל: <b>שדעתו</b> לעשות כך וכך. וכן תהלים קמ\"ד: \"מה אדם ותדעהו\", כלומר מה עניינו <b>שתרצה</b> בו. ואם כן באור עץ הדעת כאילו אמר ועץ הרצון. והקב\"ה מנעו ממנו, לפי שהאדם היה מוכרח על מעשיו קודם שחטא והיו כל פעולותיו שכל גמור כמלאך, שהוא מוכרח לעשות כל פעולותיו שכליות, לפי שאין לו מונע, כן היה האדם. אבל אחר שחטא ואכל, היה לו רצון ובחירה ונתלבש בתאוות גופניות... זו מדה אלוקית ומדה טובה מצד אחד ורעה מצד אחד... "
+   }
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהי דעת כל אחד מן המפרשים הנ\"ל בעניין עץ הדעת? סמן את אלה המזדהים בפירושיהם או קרובים זה לזה!"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. במה מבטל הרמב\"ן את דעת המפרשים המובאים בדבריו?"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3.  פרש את דברי הרמב\"ן: \"ואם תאמר כיחש לו\"!"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "4. במה עדיף פסוק כ\"ב: \"הן האדם היה כאחד\" על פסוק ה': \"והייתם כאלוקים\" ובמה כוחו גדול לבטל את דעת המפרשים הנ\"ל?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "5.  מהי חולשת תפישתו של רבנו בחיי ומה הן הטענות שיש לטעון נגדו?"
+  },
+  {
+   "node": 19,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"עץ הדעת טוב ורע\"</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מדרש תדשא פרק ז':</span><br><span style=\"color: rgb(51,51,51);\">... ומניין אנו אומרים, שעד <b>שלא אכל</b> מן העץ היה יודע טוב ורע? ... שכן מצינו כתב עליו שהיה מלא חכמה ותבונה, שנאמר (<a class=\"refLink\" href=\"/Ezekiel 20:8\" data-ref=\"Ezekiel 20:8\" target=\"_blank\">יחזקאל כ' ח'</a>): \"מלא חכמה וכליל יופי בעדן גן אלוקים היית\".</span>"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הבא פסוקים מפרשת בראשית שעונים אף הם לשאלת המדרש \"ומניין אנו אומרים...\"."
+  },
+  {
+   "node": 22,
+   "outsideText": "<table><tbody><tr><td><big>ד. טעם המצוה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהו טעם איסור אכילת הפרי לפי דברי מדרש תדשא המובאים ב-ב?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. התוכל להסביר, למה הייתה מצוה ראשונה זו מסוג \"החוקים\"?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  התוכל להסביר, למה הייתה מצוה ראשונה זו דווקא מאיסורי מאכלות?"
+  },
+  {
+   "node": 26,
+   "outsideText": "<table><tbody><tr><td><big>ה. שאלות לשון וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ז",
+   "node": 27,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 2:16",
+   "text": {
+    "en": "And the LORD God commanded the man, saying: ‘Of every tree of the garden thou mayest freely eat;",
+    "he": "\"וַיְצַו ה' אֱ-לֹהִים עַל הָאָדָם\""
+   }
+  },
+  {
+   "node": 28,
+   "outsideText": "- למה נאמר \"ויצו על\" ולא \"ויצו את\"?"
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ז",
+   "node": 29,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 2:16",
+   "text": {
+    "en": "And the LORD God commanded the man, saying: ‘Of every tree of the garden thou mayest freely eat;",
+    "he": "\"מִכֹּל עֵץ הַגָּן אָכֹל תֹּאכֵל\" "
+   }
+  },
+  {
+   "node": 30,
+   "outsideText": "- מה ערך היה להקדים מלים אלה לאיסור, והלא אינן מצוה?"
+  }
+ ],
+ "ssn": 894,
+ "status": "public",
+ "summary": "1946 (תש\"ו)<br><a href=\"http://www.nechama.org.il/pdf/894.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ו - איסור אכילת הפרי",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

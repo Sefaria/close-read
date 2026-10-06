@@ -1,0 +1,439 @@
+{
+ "dateCreated": "2019-03-06T05:24:41.104672",
+ "dateModified": "2019-03-07T02:09:08.274460",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 18:15:1",
+  "Ibn Ezra on Genesis 3:1:2",
+  "Genesis 3:4",
+  "Shir HaShirim Rabbah 3:7:5",
+  "Genesis 3:5",
+  "Genesis 3:8",
+  "Genesis 3:1",
+  "Rashi on Genesis 3:1:3",
+  "Bereshit Rabbah 19:3",
+  "Sforno on Genesis 3:1:2",
+  "Radak on Genesis 3:1:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161233,
+ "includedRefs": [
+  "Genesis 3:1",
+  "Rashi on Genesis 3:1:3",
+  "Sforno on Genesis 3:1:2",
+  "Genesis 3:1",
+  "Ibn Ezra on Genesis 3:1:2",
+  "Radak on Genesis 3:1:1",
+  "Genesis 3:4",
+  "Bereshit Rabbah 19:3",
+  "Genesis 3:5",
+  "Rashi on Genesis 18:15:1",
+  "Genesis 3:8",
+  "Shir HaShirim Rabbah 3:7:5"
+ ],
+ "nextNode": 46,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עיין גם: לעניין הנחש גיליון <a class=\"refLink\" href=\"/sheets/162000\" data-ref=\"sheet.162000\" target=\"_blank\">בראשית תש\"ג</a>.\nלעניין עץ הדעת גיליון <a class=\"refLink\" href=\"/sheets/161545\" data-ref=\"sheet.161545\" target=\"_blank\">בראשית תש\"ו</a>. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. דברי ה' ודברי האשה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "השווה את האיסור האלוקי שבפרק ב' לסיפור עליו בפי האישה לנחש שבפרק ג'."
+  },
+  {
+   "node": 4,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\nדברי ה' – <a class=\"refLink\" href=\"/Genesis 2:16\" data-ref=\"Genesis 2:16\" target=\"_blank\">פרק ב' ט\"ז-י\"ז</a></td>\n<td>\nדברי האשה – <a class=\"refLink\" href=\"/Genesis 3:2\" data-ref=\"Genesis 3:2\" target=\"_blank\">פרק ג' ב'-ג</a>'</td></tr>\n<tr>\n<td>\n\"וַיְצַו ה' אֱ-לֹהִים<br>עַל הָאָדָם לֵאמֹר<br></td>\n<td>\n- - - <br>- - -</td></tr>\n<tr>\n<td>\nמִכֹּל עֵץ הַגָּן אָכֹל תֹּאכֵל</td>\n<td>\nמִפְּרִי עֵץ הַגָּן נֹאכֵל</td></tr>\n<tr>\n<td>\nוּמֵעֵץ הַדַּעַת טוֹב וָרָע<br><br><br>לֹא תֹאכַל מִמֶּנּוּ<br>- - - <br>כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ</td>\n<td>\nוּמִפְּרִי הָעֵץ אֲשֶׁר בְּתוֹךְ הַגָּן<br>-אָמַר אֱ-לֹהִים- <br>לֹא תֹאכְלוּ מִמֶּנּוּ <br>וְלֹא תִגְּעוּ בּוֹ<br>- - - </td></tr>\n<tr>\n<td>\nמוֹת תָּמוּת\"</td>\n<td>\nפֶּן תְּמֻתוּן\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1.  נסה להסביר מהן הסיבות לכל אחד מן השינויים הרבים (הוספות, חיסורים, חילופים) שהכניסה חוה בחזרה על הציווי האלוקי."
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהי המגמה הכללית של כל השינויים האלה?"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3. בנו יעקב, בספרו על בראשית Genesis מעיר:<br>מה שהיה בדברי ה' <b>קשר מוסרי בין חטא לעונש</b> הופכת האשה <b>לקשר מכני בין סיבה לתוצאה</b>."
+  },
+  {
+   "node": 8,
+   "outsideText": "הסבר את דבריו אלה – היכן מצא רמז לכך בלשון הכתוב? מהי תכלית האישה בשינוי זה?"
+  },
+  {
+   "node": 9,
+   "outsideText": "(לסוג שאלות ממין זה השווה גם:"
+  },
+  {
+   "node": 10,
+   "outsideText": "גיליון <a class=\"refLink\" href=\"/sheets/161475\" data-ref=\"sheet.161475\" target=\"_blank\">חיי שרה תשי\"ב</a>"
+  },
+  {
+   "node": 11,
+   "outsideText": "גיליון <a class=\"refLink\" href=\"/sheets/161639\" data-ref=\"sheet.161639\" target=\"_blank\">פינחס תשי\"א</a>"
+  },
+  {
+   "node": 12,
+   "outsideText": "גיליון <a class=\"refLink\" href=\"/sheets/161843\" data-ref=\"sheet.161843\" target=\"_blank\">מקץ תש\"ט</a>)."
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ב. הסתת הנחש: \"אף כי\" וכו'</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:1",
+   "text": {
+    "en": "Now the serpent was more subtle than any beast of the field which the LORD God had made. And he said unto the woman: ‘Yea, hath God said: Ye shall not eat of any tree of the garden?’",
+    "he": "\"אַף כִּי אָמַר אֱ-לֹהִים לֹא תֹאכְלוּ מִכֹּל עֵץ הַגָּן...\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:א׳:ג׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:1:3",
+   "text": {
+    "en": "‘אף כי אמר וגו ALTHOUGH GOD HATH SAID — The meaning is, “Perhaps He has said unto you” ‘לא תאכלו מכל וגו YE SHALL NOT EAT OF EVERY TREE OF THE GARDEN — And although he saw them eating of the other fruits yet he entered into a long conversation with her so that she should answer him, and so that he might then have an opportunity to talk about that particular tree. ",
+    "he": "ד\"ה אף כי אמר: שמא אמר לכם לא תאכלו מכל וגו' ואף על פי שראה אותם אוכלים משאר פירות הרבה עליה דברים כדי שתשיבנו ויבוא לדבר באותו העץ."
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ג׳:א׳:ב׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 3:1:2",
+   "text": {
+    "en": "היה ערום מכל חית השדה, for the power of imagination which dangles before our mental eye all sorts of visions designed to stir our desire is more powerful within man than within any other creature This is what the sages meant when they said: (Sukkah 52) “anyone who is of greater stature than his fellow also has to contend with a more powerful evil urge than his fellow.” ויאמר אל האשה, her relatively weak intellect was too lazy to understand that the images dangled before her eyes were a fatah morgana, illusion. אף כי אמר אלוקים, even though G’d has said not to eat from the tree of knowledge פן תמותון, in order that you do not die, this is not true, you will not die. Once the “serpent,” i.e. her power of imagination had sown the seed of doubt in her mind, so that her intelligence had already been undermined, she said: ",
+    "he": "ד\"ה ויאמר אל האשה: כי שכלה החלוש התעצל מהתבונן ולא התקומם על הדמיון הכוזב וצייר אז כוחה המדמה כי אמנם אף כי אמר אלהים שאף על פי שאמר אלהים לא תאכלו מעץ הדעת פן תמותון מכל מקום לא יתאמת זה. ובכן אמר שכשהנחש, והוא הדמיון, התחיל לשום ספק בזה, הנה האשה בשכלה החלוש אמרה מכל עץ הגן נאכל ואין לנו צורך להכנס בסכנת אכילת עץ שהאל יתברך אמר לנו שבאכלנו ממנו נמות. אמנם הדמיון התחזק ליחס קנאה ושקר חס וחלילה לאל יתברך, וצייר שאמר אותו הפרי כדי שלא ישיגו בו התועלת להיות כאלהים ושלא יסבב מות כלל. \n"
+   }
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. בשתי דרכים מפרשים הפרשנים האלה את ה\"אף כי\" – מה ביניהם?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. לפי איזה משני הפירושים הנ\"ל ההסתה חריפה יותר?"
+  },
+  {
+   "node": 19,
+   "outsideText": "בעקבות מי מן המפרשים הנ\"ל הלכו המתרגמים:"
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">King James Version:</span><br><span style=\"color: rgb(51,51,51);\">Yea, hath God said, Ye shall not eat of every tree of the garden?</span>"
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">Buber-Rosenzwieg:</span><br><span style=\"color: rgb(51,51,51);\">Ob wohl Gott sprach: Esst nicht von allen Baeumen des Gartans…!</span>"
+  },
+  {
+   "node": 22,
+   "outsideText": "<table><tbody><tr><td><big>ג. תחילת דברי הנחש</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:א׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:1",
+   "text": {
+    "en": "Now the serpent was more subtle than any beast of the field which the LORD God had made. And he said unto the woman: ‘Yea, hath God said: Ye shall not eat of any tree of the garden?’",
+    "he": "\"אַף כִּי אָמַר אֱ-לֹהִים...\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ג׳:א׳:ב׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 3:1:2",
+   "text": {
+    "en": "",
+    "he": "וטעם \"אף כי\" יורה כי דיבר דברים אחרים ואמר בסוף \"קל וחומר שאמר לכם לא תאכלו מפרי עץ הגן כלל\". "
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ג׳:א׳:א׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 3:1:1",
+   "text": {
+    "en": "והנחש היה ערום מכל חית ה שדה אשר עשה ה' אלוקים, It is in order to ask in what fashion the serpent conversed with Chavah. If G’d had opened the serpent’s mouth by means of a miracle, as He did when Bileam’s ass started speaking to him (Numbers 22,28), why did the Torah not report, as it did in that verse that “G’d opened the mouth of the serpent?” If, on the other hand, if, as in the view of Rabbi Saadyah gaon, the conversations reported in the Torah between both the ass and Bileam and the serpent and Chavah were conducted by an angel on their behalf, why was the serpent punished and cursed for all times? Besides, how is it possible that G’d assigned to an angel the task to seduce Chavah to sin against G’d? Furthermore, what reason was there to introduce the serpent into the story at this point? Why did the Torah have to write: “and the serpent was the wiliest of all the beasts of the field, etc.?” If the serpent was unable to speak, i.e. to communicate with Chavah in his own right, how do we know that it was such a clever creature? If we are to assume that the angel was dispatched to subject the woman to a test of her faith and obedience, how was the serpent to blame for the outcome? Besides, it would have been so much more appropriate for the angel to test Adam himself, seeing it was he who had been commanded by G’d not to eat from the tree of knowledge? Chavah had heard of this only second hand from her husband!<br> The whole subject is extremely confusing, when we look only at what has been revealed to us by the text. We need to resort to the writings of the Kabbalists to make better sense of this whole episode.(Pirkey de Rabbi Eliezer chapter 13)[in that chapter’s introduction, the point is made that jealousy and envy, some of the most destructive character traits, exist also in the celestial regions, and that when the angels who had not been delighted at man’s creation in the first place, saw how clever Adam was, and how he had named the animals immediately upon looking at them, they became afraid that their dominant role in G’d’s entourage would be jeopardized now. They therefore schemed to seduce man into sinning against His Creator in order to safeguard their role as being closest to G’d. Thereupon, Samael, the most powerful angel, the one who had 12 wings whereas all the others had only 6 wings, took his underlings with him to take a closer look at what went on in the terrestrial regions. He found that in those regions the serpent was by far the most intelligent of the beasts, and he could not find another beast as capable and willing to fall in with his wicked plans. We are informed there that the serpent was huge, and looked like a camel and Samael was riding on it. The sages, with their insight into then hidden aspects of the Torah, wanted to illustrate how G’d sometimes amuses Himself to make playful use both of the “camel,” i.e. the serpent, and its rider, i.e. Samael.<br> Another comment offered by the sages (Shabbat 146) is that after the serpent had engaged in sexual relations with Chavah, it had left behind within her some of the spiritually poisonous residue, which had contaminated her personality. This was so pervasive that until the Jewish people accepted the Torah at Mount Sinai they had not been able to totally cleanse themselves of that poison. The other nations of the world never cleansed themselves of this spiritually poisonous material. Students of such mystical aspects of the Torah will understand what I refer to, but I have no intention to use my commentary to dwell on such matters, having been warned by my teachers not to reveal what the Torah clearly had not seen fit to reveal to one and all. We will relate to such allusions only in the same way as the sages have seen fit to do themselves. Hopefully, those who are attuned will understand what the sages had in mind to convey to us. Some commentators, cited by Ibn Ezra, say that the serpent did not speak at all, but managed to convey its meaning to Chavah by whistling, hissing to her. Chavah was clever enough, according to that view, to understand what the serpent was trying to communicate to her. It seems very far fetched to credit Chavah with understanding what the serpent tried to hint to her in such a fashion. It is even more far fetched to credit the serpent with understanding what Chavah answered her in Hebrew.<br> The scholar Rabbi Avraham Ibn Ezra writes that the serpent did indeed speak, and it used to walk upright, just like man. Originally, G’d had equipped the serpent with superior knowledge and intelligence, i.e. “more crafty than any of the beasts of the field, but not as crafty as man.” this was also the opinion of our sages (Bereshit Rabbah 20,5) This is what they write: At the time G’d punished the serpent, He said to it: “here I had made you so that you are king of the all the beasts, something that you had not been satisfied with. I enabled you to walk upright just like man. You were not satisfied with this either. Now you will have to crawl on your belly and eat dust.” We must ask ourselves that if all this is so, why the Torah had not mentioned that the serpent had enjoyed such distinctions, that the Torah’s report of G’d’s creative activities makes no mention of this, as it did in Genesis 1,26 when man’s distinction over the other creatures is introduced by G’d saying “we will make him in our image, etc?” Furthermore, when G’d cursed the serpent, mention is meant of it having to crawl and having to eat dust. Why did the Torah not also mention that G’d deprived it of its superior intellect? This would have been the most severe part of the punishment and the Torah does not mention it at all? The most likely answer to all the points that we have raised is that the serpent was enabled, -miraculously,- on that occasion, to speak in a voice and language Chavah could understand, even though the Torah did not write specifically that “G’d opened its mouth,” as it did in connection with Bileam. seeing that this represented something far more extraordinary [Bileam’s ass speaking, which occurred in a world that was post Gan Eden, as opposed to an idyllic world where such miracles were not out of the ordinary. Besides, Bileam’s ass had saved her master from death by opening her mouth, whereas the serpent’s speaking had led to Chavah’s and her husband’s eventual death. Ed.]<br> Still. The question remains why the serpent was punished if G’d Himself had put these words in its mouth? We need to answer that the serpent had already planned its craftiness how to set a trap for man to discredit it in the eyes of G’d so that it would replace man as the superior creature on earth. G’d was aware of all this, and all He did was to follow the principle in Shabbat 104 of בא לטמא פותחים לו, “when someone is bent on defiling something, one facilitates this for him.” Furthermore, G’d had to make sure that Adam (mankind) knew that the serpent had been punished with good cause. [this editor is astounded by the use of Kimchi of the quote in Shabbat 104 as it is my understanding that whereas when planning to do good one enjoys heavenly assists, when planning to do evil one is merely not interfered with. Besides, this saying applies to human beings who have freedom of choice; whoever heard of this saying applying to animals? Ed.]<br> היה ערום, clever. Seeing that the word refers to intelligence, it is spelled with the vowel shuruk to distinguish it from the adjective arum naked, which is spelled with the vowel cholam. [in our editions of the Torah both words are spelled with the letter shuruk representing the vowel shuruk. Ed.]  Seeing the word occurs in the plural, the letter מ does not have a dagesh, compare מחשבות ערומים in Job 5,12 where it means :“the designs of the crafty ones.” When the word is used to described nudity, the letter מ is written with a dagesh. Compare Job 22,6 ובגדי ערומים תפשיט, “You leave them stripped of their clothing.” When the Torah wrote here היה ערום, it meant that the serpent possessed extraordinary powers of imagination, totally superior to other animals in this respect. Our sages generally describe the fox as crafty, able to scheme, something other animals are not credited with doing. (Berachot 61) This is not the same as possessing didactic intelligence, something reserved for man. When the Torah adds the words מכל חית השדה, it excludes the domestic animals, בהמות as not possessing even a modicum of such powers of imagination, The serpent at that time was superior to the fox in its ability to scheme. אשר עשה ה' אלוקים, even though all these creatures had been constructed out of the same raw material, G’d had given added an advantage to different ones of these creatures. Some had been granted greater physical prowess, others greater power to scheme.<br> ויאמר אל האשה, the serpent deliberately avoided speaking to Adam, but spoke to the woman. It knew that it would be easier to seduce the woman because women’s minds are more easily swayed. (Shabbat 33) אף כי אמר אלוקים, the fact that the Torah commences its report of this conversation with the word אף is proof that there had been an exchange of words between the serpent and Chavah prior to this already. It is likely that Chavah had told the serpent about the great honour G’d had bestowed on them to place them within the Garden of Eden. To this the serpent had replied that it did not view this as proof that G’d loved them especially, but as proof of the contrary, that G’d hated them. Granted that G’d had elevated the human species as compared to the animals, but He had not elevated them to the status of becoming potential competitors of His by forbidding them to eat from all the good trees in the garden. The Torah decided to omit the introduction to the dialogue between the two and to concentrate on its essence. This is a style the Torah employs on a number of occasions. One example is the spies telling Joshua that they had heard while in Jericho clear evidence that G’d had as good as given the country into the hands of the Israelites already. They are not quoted as telling Joshua about their personal experiences during that mission. No doubt they had reported this. (Joshua 2,23) The meaning of the word אף here appears to b: “on the contrary, even more so.” We have a number of parallel verses in which the word אף is used in this sense, for instance Job 4,19 אף שכני בתי חמר, “how much less those who dwell in house made of clay.” Or, Kings I 8,27 אף כי הבית הזה אשר בניתי, “how much less this House which I have built.” The serpent did not refer to G’d’s holy name. Rabbi Avraham Ibn Ezra writes that this was because the serpent did not know G’d’s name Hashem. According to our explanations of the serpent’s sudden ability to speak in a manner comprehensible to Chavah being an ad hoc miracle, G’d did not allow the serpent to use His holy name. It is beyond our imagination to assume that G’d would allow a beast to bandy about His sacred name, something that is His exclusively. A careful reading of the text will reveal that even Chavah did not use the holy name of G’d. The bald-faced lie of the serpent was its claim that G’d had said מכל עץ הנן, that man had been forbidden to eat of any of the trees of the garden, this was part of its shrewdness, pretending as if Chavah had told her this, though the serpent was perfectly aware that Chavah had said no such thing. He wanted to challenge Chavah by saying “what good is your being in Gan Eden, seeing you cannot enjoy any of its fruit?”",
+    "he": "... והכתוב הניח ראשי הדברים ולקח סופם, וכן הוא מנהג הכתוב במקומות רבים, כמו שאמרו המרגלים על יהושע (פרק ב'): \"כי נתן ה' בידינו את כל הארץ\" ואין מילת \"כי\" תחילת הדברים. ופירוש \"אף\" – \"כל שכן\", כמו (<a class=\"refLink\" href=\"/Job 4:19\" data-ref=\"Job 4:19\" target=\"_blank\">איוב ד' יט</a>) \"אף כי שוכני בתי חמר\" (<a class=\"refLink\" href=\"/I Kings 8:27\" data-ref=\"I Kings 8:27\" target=\"_blank\">מלכים א' ח' כ\"ז</a>) \"הן השמים ושמי השמים לא יכלכלוך אף כי הבית הזה אשר בניתי\"."
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1.  מהם הדברים שאמר הנחש – לפי פירושים אלה – <b>לפני</b> אמרו את הקל וחומר הכתוב?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. ההולכים המפרשים האלה – ראב\"ע ורד\"ק – כאן בעקבות אחד משני המפרשים שהובאו בשאלה ב', או בחרו להם דרך שלישית?"
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"אל תוסף על דבריו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ד׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:4",
+   "text": {
+    "en": "And the serpent said unto the woman: ‘Ye shall not surely die;",
+    "he": "\"וַיֹּאמֶר הַנָּחָשׁ אֶל הָאִשָּׁה לֹא מוֹת תְּמֻתוּן\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה י״ט:ג׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 19:3",
+   "text": {
+    "en": "",
+    "he": "הדא הוא דכתיב (<a class=\"refLink\" href=\"/Proverbs 30:6\" data-ref=\"Proverbs 30:6\" target=\"_blank\">משלי ל' ו</a>'): \"אל תוסף על דבריו פן יוכיח בך ונכזבת\"... כך אמר הקב\"ה: \"ביום אכלך ממנו...\" והיא לא אמרה כן, אלא: \"לא תאכלו ממנו ולא תגעו בו\". כיוון שראה (הנחש) אותה עוברת לפני העץ, נטלה ודחפה עליו, אמר לה: הא לא מתת. כשם שלא באה עליך מיתה בנגיעה כך אינך מתה באכילה. "
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר מהו מובנו הסמוי של מדרש זה: איזו דרך מדרכי הפיתוי של כל מסית ומדיח, של כל יצר הרע, מתואר כאן?"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מקובלנו: אין רש\"י מביא דברי מדרש אלא אם כן מצא קושי בפסוק הדורש ישוב, ואשר לשם יישובו יובא המדרש.  מהו הקושי בפסוקנו שאותו רצה רש\"י לישב ע\"י המדרש הזה?"
+  },
+  {
+   "node": 33,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"כי יודע אלוקים\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ה׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:5",
+   "text": {
+    "en": "for God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as God, knowing good and evil.’",
+    "he": "\"כִּי יֹדֵעַ אֱ-לֹהִים\""
+   }
+  },
+  {
+   "node": 35,
+   "outsideText": "מה משמעותה של מילת \"כי\" בפסוק זה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״ח:ט״ו:א׳",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 18:15:1",
+   "text": {
+    "en": "כי יראה וגו' כי צחקת FOR SHE WAS AFRAID… BUT THOU DIDST LAUGH — The first כי is used in the sense of “because”, giving a reason for the former statement—Sarah denied … because she was afraid; the second כי is used in the meaning of “but” — “and He said, ‘It is not as you say that you did not laugh, but thou didst laugh’.” For our Rabbis say (Rosh Hashanah 3a) that the word כי has four meanings: “if”, “perhaps”, “but”, “because”.",
+    "he": "להוראותיה השונות של מילת \"כי\" עיין <a class=\"refLink\" href=\"/Genesis 18:15\" data-ref=\"Genesis 18:15\" target=\"_blank\">בראשית י\"ח ט\"ו</a>, רש\"י:<br>ד\"ה כי יראה, כי צחקת: הראשון משמש לשון \"דהא\" הוא שנותן טעם לדבר: ותכחש שרה <b>לפי</b> שיראה; והשני משמש בלשון \"אלא\" ויאמר לא כדבריך הוא <b>אלא</b> צחקת. \nשאמרו רבותינו: \"כי\" משמש בארבע לשונות: אי, דילמא, אלא, דהא. "
+   }
+  },
+  {
+   "node": 37,
+   "outsideText": "ועיין גם גיליון <a class=\"refLink\" href=\"/sheets/161543\" data-ref=\"sheet.161543\" target=\"_blank\">האזינו תש\"י</a>."
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. שים לב: הנחש מדלג בדברי הסתתו על חוליה אחת במהלך מחשבתו – בין <a class=\"refLink\" href=\"/Genesis 3:4\" data-ref=\"Genesis 3:4\" target=\"_blank\">פסוק ד'</a> ל<a class=\"refLink\" href=\"/Genesis 3:5\" data-ref=\"Genesis 3:5\" target=\"_blank\">פסוק ה'</a>. השלם את החוליה החסרה!"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3.  מהי התחבולה שבה נוקט המפתה-המסית בפסוק זה, ובמה היא שונה מתחבולתו בפסוק הקודם?"
+  },
+  {
+   "node": 40,
+   "outsideText": "<table><tbody><tr><td><big>ו. כיון שחטא אדם - נתיירא</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ח׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:8",
+   "text": {
+    "en": "And they heard the voice of the LORD God walking in the garden toward the cool of the day; and the man and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.",
+    "he": "\"וַיִּשְׁמְעוּ אֶת קוֹל ה' אֱ-לֹהִים... \nוַיִּתְחַבֵּא הָאָדָם וְאִשְׁתּוֹ מִפְּנֵי ה' אֱ-לֹהִים\""
+   }
+  },
+  {
+   "heRef": "שיר השירים רבה ג׳:ז׳:ה׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shir HaShirim Rabbah 3:7:5",
+   "text": {
+    "en": "",
+    "he": "עד שלא יחטא אדם <b>נותנין לו אימה</b> ויראה והבריות מתפחדין ממנו. כיוון שהוא חוטא <b>נותנין עליו</b> אימה ויראה ומתפחד הוא מאחרים. תדע לך, שכן אמר רבי: עד שלא חטא אדם הראשון היה שומע קול הדיבור (=דבר ה') עומד על רגליו ולא היה מתיירא, כיוון שחטא – כששמע קול הדיבור, נתיירא ונתחבא שנאמר: \"את קולך שמעתי בגן ואירא\". "
+   }
+  },
+  {
+   "node": 43,
+   "outsideText": "ועיין גם גיליון <a class=\"refLink\" href=\"/sheets/161764\" data-ref=\"sheet.161764\" target=\"_blank\">נשא תשי\"ב, שאלה ב</a>'."
+  },
+  {
+   "node": 44,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר מהו הרעיון המסומל בדברי המדרש הזה!"
+  }
+ ],
+ "ssn": 581,
+ "status": "public",
+ "summary": "1955 (תשט\"ו)<br><a href=\"http://www.nechama.org.il/pdf/581.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשט\"ו - החטא",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

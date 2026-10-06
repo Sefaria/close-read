@@ -82,6 +82,8 @@ function buildIndex() {
 }
 
 class CloseReadApp {
+  static imageCount = 0;
+
   constructor(data) {
     this.data = data;
     this.sections = [];
@@ -415,6 +417,9 @@ class CloseReadApp {
   }
 
   primaryKey(pt) {
+    if (pt.mode === 'image') {
+      return `image:${pt.ref}|${pt.src}`;
+    }
     if (pt.mode === 'comparison') {
       return `cmp:${pt.left.ref}|${pt.right.ref}|${pt.left.he}|${pt.right.he}`;
     }
@@ -426,6 +431,11 @@ class CloseReadApp {
   // any sub-section's highlights can target spans on the same DOM.
   mergedPrimaryText(sections) {
     const base = sections[0].primaryText;
+    if (base.mode === 'image') {
+      const regions = {};
+      sections.forEach(s => Object.assign(regions, s.primaryText.regions || {}));
+      return { ...base, regions };
+    }
     if (base.mode === 'comparison') {
       const words = {};
       sections.forEach(s => Object.assign(words, s.primaryText.words || {}));
@@ -456,13 +466,19 @@ class CloseReadApp {
       // Prominent title card for the first sub-section of the group only.
       // Sub-sections that share this group's primary text get inline dividers
       // in the step track instead, so the sticky primary panel stays pinned
-      // across the whole group.
-      sectionEl.innerHTML = `
-        <div class="section-title-card">
-          ${firstSection.title.he ? `<div class="section-title-he">${firstSection.title.he}</div>` : ''}
-          <div class="section-title-en">${firstSection.title.en}</div>
-        </div>
-      `;
+      // across the whole group. `titleCard: false` drops it, so this group's
+      // panel scrolls up straight behind the previous one and locks (used to
+      // bring in a manuscript page as a continuation, not a new chapter).
+      if (firstSection.titleCard !== false) {
+        sectionEl.innerHTML = `
+          <div class="section-title-card">
+            ${firstSection.title.he ? `<div class="section-title-he">${firstSection.title.he}</div>` : ''}
+            <div class="section-title-en">${firstSection.title.en}</div>
+          </div>
+        `;
+      } else {
+        sectionEl.classList.add('no-title-card');
+      }
 
       // Scroll container with sticky text + scrolling cards
       const scrollContainer = document.createElement('div');
@@ -473,21 +489,13 @@ class CloseReadApp {
       primaryArea.className = 'primary-text-area';
 
       const mergedPrimary = this.mergedPrimaryText(group.sections);
-      if (mergedPrimary.mode === 'comparison') {
-        primaryArea.appendChild(this.buildComparisonVerse(mergedPrimary, true));
-      } else {
-        primaryArea.appendChild(this.buildVerseContent(mergedPrimary, true));
-      }
+      primaryArea.appendChild(this.buildPanelContent(mergedPrimary, true));
 
       // Build alternate verses from verse-change steps across all sub-sections
       group.sections.forEach(section => {
         section.steps.forEach(step => {
           if (step.type === 'verse-change' && step.newVerse) {
-            if (step.newVerse.mode === 'comparison') {
-              primaryArea.appendChild(this.buildComparisonVerse(step.newVerse, false));
-            } else {
-              primaryArea.appendChild(this.buildVerseContent(step.newVerse, false));
-            }
+            primaryArea.appendChild(this.buildPanelContent(step.newVerse, false));
           }
         });
       });
@@ -518,7 +526,7 @@ class CloseReadApp {
       // Register one entry per sub-section for nav dots and scroll triggers.
       group.sections.forEach((section, i) => {
         const navTarget = i === 0
-          ? sectionEl.querySelector('.section-title-card')
+          ? (sectionEl.querySelector('.section-title-card') || scrollContainer)
           : stepTrack.querySelector(`.section-divider[data-section-id="${section.id}"]`);
         this.sections.push({ el: sectionEl, data: section, navTarget });
       });
@@ -534,6 +542,64 @@ class CloseReadApp {
       <div class="section-divider-en">${section.title.en}</div>
     `;
     return divider;
+  }
+
+  // One pinned-panel item: a verse (single or comparison) or an image.
+  buildPanelContent(data, isActive) {
+    if (data.mode === 'image') return this.buildImageContent(data, isActive);
+    if (data.mode === 'comparison') return this.buildComparisonVerse(data, isActive);
+    return this.buildVerseContent(data, isActive);
+  }
+
+  // Image mode: a manuscript page (or any picture) in the pinned panel. Steps
+  // highlight named `regions` (fractions of the image, 0–1) the same way they
+  // highlight word groups; TextEffects zooms the panel to the highlighted
+  // regions and dims the rest. Coordinates come from the declared width/height,
+  // so layout never waits for the (large) image to load.
+  buildImageContent(data, isActive) {
+    const div = document.createElement('div');
+    div.className = `primary-text-content image-mode${isActive ? ' active' : ''}`;
+    div.dataset.ref = data.ref;
+    div.dataset.width = data.width;
+    div.dataset.height = data.height;
+
+    const maskId = `image-mask-${++CloseReadApp.imageCount}`;
+    const regions = Object.entries(data.regions || {});
+    const rect = (r, extra) =>
+      `<rect x="${r.x}" y="${r.y}" width="${r.w}" height="${r.h}" ${extra}/>`;
+    const caption = data.caption?.en || '';
+    const credit = data.credit
+      ? (data.credit.url
+        ? `<a href="${data.credit.url}" target="_blank" rel="noopener">${data.credit.en}</a>`
+        : data.credit.en)
+      : '';
+
+    div.innerHTML = `
+      <div class="primary-ref">
+        ${data.link ? `<a href="${data.link}" target="_blank" rel="noopener">${data.ref}</a>` : data.ref}
+      </div>
+      <div class="image-viewport">
+        <div class="image-stage">
+          <img src="${data.src}" alt="${(data.alt || '').replace(/"/g, '&quot;')}" decoding="async">
+          <svg class="image-overlay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true">
+            <defs>
+              <mask id="${maskId}" maskContentUnits="userSpaceOnUse">
+                <rect x="0" y="0" width="1" height="1" fill="white"/>
+                ${regions.map(([id, r]) => rect(r, `class="image-hole" data-region="${id}"`)).join('')}
+              </mask>
+            </defs>
+            <rect class="image-dim" x="0" y="0" width="1" height="1" mask="url(#${maskId})"/>
+            ${regions.map(([id, r]) => rect(r, `class="image-region" data-region="${id}"`)).join('')}
+          </svg>
+        </div>
+      </div>
+      ${caption || credit ? `
+        <div class="image-caption">
+          ${caption ? `<span class="image-caption-text">${caption}</span>` : ''}
+          ${credit ? `<span class="image-credit">${credit}</span>` : ''}
+        </div>` : ''}
+    `;
+    return div;
   }
 
   buildVerseContent(verseData, isActive) {

@@ -1,0 +1,414 @@
+{
+ "dateCreated": "2019-03-05T15:04:33.170049",
+ "dateModified": "2019-03-07T01:59:41.660373",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Bekhor Shor, Genesis 4:26:1",
+  "Shadal on Genesis 4:26:1",
+  "Genesis 5:24",
+  "Bereshit Rabbah 25:1",
+  "Genesis 4:26",
+  "Rashi on Genesis 4:26:1",
+  "Bereshit Rabbah 23:7",
+  "II Kings 2:3",
+  "Ibn Ezra on Genesis 4:26:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160469,
+ "includedRefs": [
+  "Genesis 4:26",
+  "Bereshit Rabbah 23:7",
+  "Rashi on Genesis 4:26:1",
+  "Ibn Ezra on Genesis 4:26:1",
+  "Bekhor Shor, Genesis 4:26:1",
+  "Shadal on Genesis 4:26:1",
+  "Genesis 5:24",
+  "Bereshit Rabbah 25:1",
+  "Bereshit Rabbah 25:1",
+  "II Kings 2:3"
+ ],
+ "nextNode": 40,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "לפרשת למך ולשירו עיין גיליון <a class=\"refLink\" href=\"/sheets/161438\" data-ref=\"sheet.161438\" target=\"_blank\">בראשית תש\"י</a>.\nלפרשת בני האלהים (ו', א-ח) עיין גיליון <a class=\"refLink\" href=\"/sheets/161580\" data-ref=\"sheet.161580\" target=\"_blank\">בראשית תשי\"א</a>."
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. קין והבל</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "קאסוטו, (בספרו \"מאדם עד נח\") מחלק את פרשת \"קין והבל\" (ד', א' – ד', כ\"ו) לשש פסקאות ואת הפרשה הבאה (ה', א' – ו', ח') \"ספר תולדות אדם\" לשלשה \"ענינים\":"
+  },
+  {
+   "node": 4,
+   "outsideText": "<a class=\"refLink\" href=\"/Genesis 5:1\" data-ref=\"Genesis 5:1\" target=\"_blank\">ה', א'-ל\"ב</a>"
+  },
+  {
+   "node": 5,
+   "outsideText": "<a class=\"refLink\" href=\"/Genesis 6:1\" data-ref=\"Genesis 6:1\" target=\"_blank\">ו', א'-ד'</a>"
+  },
+  {
+   "node": 6,
+   "outsideText": "<a class=\"refLink\" href=\"/Genesis 6:5\" data-ref=\"Genesis 6:5\" target=\"_blank\">ו', ה'-ח'</a>"
+  },
+  {
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "לפסקה אחרונה בפרשת \"קין והבל\" הוא מעיר: (במהדורה רביעית עמוד 127):<br>כלל גדול בתורה דורש שיבוא בחתימת הסיפור מעין הפתיחה... ועוד כלל אחר דורש שיסתיימו הסיפורים בכי טוב."
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר במה יש בסיומי שתי הפרשיות, פרשת \"קין והבל\" ופרשת \"ספר תולדות אדם\" - 'מעין הפתיחה'."
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהו הסיום ב\"כי טוב\" בכל אחת משתי הפרשיות הנ\"ל?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  לפי דעתו יש גם הקבלה בין סיום פרשת קין והבל לבין סיום הפרשה הבאה אחריה. מהי ההקבלה?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. קאסוטו חולק על רוב חוקרי המקרא הסבורים – בניגוד למחלקי החומש לסדרות - שהפסוקים ו', ה' ח' שייכים לפרשת המבול ולא לפרשת \"ספר תולדות אדם\".  מה יכולים להיות הנימוקים לחלוקה דלעיל (שמחלק קאסוטו)?"
+  },
+  {
+   "node": 12,
+   "outsideText": "<table><tbody><tr><td><big>ב. בני קין ובני שת</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "ליחס בין שתי הגיניאלוגיות: הגיניאלוגיה של בני קין (ד' י\"ז-כ\"ב) ושל בני אדם מצד שת (ה' א'-ל\"ב) אומר קאסוטו, (שם עמוד 181):<br>שתי המשפחות המתפתחות זו בצד זו התפתחות מקבילה מבחינה מסויימת נבדלות זו מזו מבחינה אחרת, בעלת חשיבות מרובה:\nצאצאיו של קין... לא יכלו לפתח בתוך חוגם אלא את התרבות החמרית, שאינה מספקת לשמש תריס בפני הפורענות, והואיל וכך, נספו כולם במי המבול.\nואילו צאצאיו של שת קיבלו בירושה (לא כולם אמנם, אבל יחידי סגולה לגבם) את דעת ה'... והנה דעת ה' והמידות המוסריות התלויות בה, מביאות לו לבן אדם אותה הברכה, שכל תרבות חומרית אינה יכולה להביא: הן שגורמות לנח... להיושע עם כל משפחתו ממי המבול."
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הוכח את כל דבריו (הן את <b>ההקבלה</b> בין שלשלות הדורות של שתי המשפחות והן את השוני שבניהן) מדברי הכתוב!"
+  },
+  {
+   "node": 15,
+   "outsideText": "<table><tbody><tr><td><big>ג. אז הוחל לקרא בשם ה'</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:כ״ו",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:26",
+   "text": {
+    "en": "And to Seth, to him also there was born a son; and he called his name Enosh; then began men to call upon the name of the LORD.",
+    "he": "\"אָז הוּחַל לִקְרֹא בְּשֵׁם  ה'\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ג:ז׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 23:7",
+   "text": {
+    "en": "",
+    "he": "\"אז הוחל לקרא בשם ה'\" - אמר ר' סימון: בשלשה מקומות נאמר בלשון הזה לשון מרד: (<a class=\"refLink\" href=\"/Genesis 4:26\" data-ref=\"Genesis 4:26\" target=\"_blank\">בראשית ד' כ\"ו</a>) \"אז הוחל לקרא בשם ה'\", (ו' א') \"ויהי כי החל האדם\", (י' ח') \"הוא החל להיות גבור בארץ\": אמר ר' אחא: אתם עשיתם עצמכם עבודת כוכבים וקראתם לשמכם, אף אני אקרא למי הים לשמי, ואכלה אותם האנשים מן העולם."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:כ״ו:א׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:26:1",
+   "text": {
+    "en": "אז הוחל THEN IT WAS BEGUN [TO CALL etc.] — The word הוחל must be connected in meaning with חולין “profane matters “) viz, calling the names of men and the names of idols after the name of the Holy One, blessed be He — making them the objects of idolatrous worship and calling them Deities (Genesis Rabbah 23:7).",
+    "he": "ד\"ה אז הוחל: לשון חולין. לקרא שמות האדם ואת שמות העצבים בשמו של הקב\"ה, לעשותם אלילים ולקרותן אלוהות."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ד׳:כ״ו:א׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 4:26:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה הוחל: והוא מגזרת תחילה, והטעם שהחלו להתפלל, ואילו היה מ\"חילול\" היה השם סמוך אל המילה."
+   }
+  },
+  {
+   "heRef": "בכור שור, בראשית ד׳:כ״ו:א׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bekhor Shor, Genesis 4:26:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה אז הוחל לקרוא בשם ה': מגיד לך חשיבותו של שת, שקרא שם בנו \"אנוש\", כלומר \"אדם\" כמו (<a class=\"refLink\" href=\"/Psalms 8\" data-ref=\"Psalms 8\" target=\"_blank\">תהלים ח'</a>) \"מה אנוש כי תזכרנו\", ואע\"פ שבדורו התחילו לקרות שמותם בשם הקב\"ה, שהיו משתפים שם שמים בשמם, כמו \"מחויאל\" \"מהללאל\"."
+   }
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' נפתלי הירש ויזל, \"אמרי שפר\":</span><br><span style=\"color: rgb(51,51,51);\">...ולדעתי לקרא בשם ה' כמו (<a class=\"refLink\" href=\"/Zephaniah 3:9\" data-ref=\"Zephaniah 3:9\" target=\"_blank\">צפניה ג' ט'</a>) \"כי אז אהפך אל עמים שפה ברורה לקרא כולם בשם ה' ולעבדו שכם אחד\" וכן \"ויבן שם מזבח לה' ויקרא שם בשם ה' אל עולם\", שכולם על פרסום אלוהותו ורוממותו יתברך ללמד לתועים דרך ה'. \nוהודיע הכתוב שבימי אנוש כבר טעו רבים מבני אדם ומבני קין מדרך ה' והיו חסידי הדורות כמו אדם שת אנוש, ואולי נלוו יחידים עמהם מלמדים שם ה' ודרכיו לבני עולם, וכן התגלגל הדבר מדור לדור, שהיו יחידי סגולה מלמדים ומורים דרך ה', אבל לא הועיל כלום.\nוהודיעה לנו התורה, שאל נחשוב, כי על כן רבה רעת האדם בארץ, בעבור שאין להם רב ומורה צדק ויהיה זה חרפת עולם לצדיקי הדורות ההם, אשר ידעו את מעשה ה' כי נורא הוא ולא הודיעום דרך ה', אבל כולם קראו בשם ה' ולא הועיל.\nאבל קודם הולדת אנוש היו רק מעטים בעולם ולא השחיתו דרכם עדיין, ויראה שהיה זה קודם \"שלקחו להם נשים מכל אשר בחרו\" ולא היו הקדושים צריכים לקרא בשם ה' לבני אדם, ולימדנו הכתוב שבימי אנוש כבר טעו בני אדם מדרך האמת.</span>"
+  },
+  {
+   "heRef": "שד\"ל על בראשית ד׳:כ״ו:א׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 4:26:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה לקרא בשם ה': עניינו כמו ברוב המקומות הדיבור אל העם להכריז ולהודיע תארי האל ובמה הוא חפץ... והכוונה, כי אז התחילו בני אדם לטעות בענייני ידיעת האל והדרכים הטובות לפניו ואז התחילו החכמים והישרים להכריז בקהל עם את האמת. וזה מתיישב גם לפי שאמרו חז\"ל כי בימי אנוש התחילה עבודת אלילים."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' שמשון רפאל הירש, (אחרי הביאו פרוש רש\"י):</span><br><span style=\"color: rgb(51,51,51);\">אולם גם פירוש זה הוא קשה, והפירוש ששמעתי מפי מורי ורבי החכם ברנייס ז\"ל הוא בלא ספק הנכון. הקריאה בשם ה' היתה זכות בימי אברהם, סימן תשובה לדור. היא בישרה את ראשית התיקון אחרי ששם ה' נשתכח מפי הבריות. אך בדור אנוש היא בישרה את ראשית ההשחתה. בדור זה הורגש הצורך לראשונה – לקרא בשם ה'. עד אז היה זה מיותר – כדרך שעתיד הוא להיות מיותר (ירמיה ל\"א ל\"ג) \"ולא ילמדו עוד איש את רעהו ואיש את אחיו לאמור: \"דעו את ה'\" כי כולם ידעו אותי למקטנם ועד גדולם\".</span>"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  היאך מגיע המדרש לפירושו \"הוחל\" – לשון מרד?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. לדעת שד\"ל (וכן ברלינר בהוצאה המדעית של רש\"י) אין שתי המילים הראשונות \"לשון חולין\" מדברי רש\"י, אלא תוספת של איזה תלמיד.  איך מפרש לפי זה רש\"י את פסוקנו בלי ההסבר הדקדוקי הנ\"ל?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מי מן המפרשים שהבאנו הולך בעקבות ר' אחא?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. שלשת הפרשנים האחרונים שהבאנו לעיל מסכימים כולם עם דעת חז\"ל שבדור אנוש  החלה העבודה זרה. למה אין הולכים בדרך רש\"י?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5.  מי מן המפרשים הנ\"ל יכול להסתמך על שמות ל\"ד ה'?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. רוב הפרשנים מתנגדים לפירושו של ראב\"ע (פרט לרשב\"ם ואבן כספי ההולכים בעקבותיו). מה חולשת פירושו?"
+  },
+  {
+   "node": 30,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"ויתהלך חנוך את האלוקים\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ה׳:כ״ד",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 5:24",
+   "text": {
+    "en": "And Enoch walked with God, and he was not; for God took him.",
+    "he": "\"וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת הָאֱ-לֹהִים וְאֵינֶנּוּ כִּי לָקַח אֹתוֹ אֱ-לֹהִים\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ה:א׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 25:1",
+   "text": {
+    "en": "",
+    "he": "ר' אייבו: חנוך חנף היה, פעמים צדיק פעמים רשע. אמר הקב\"ה: עד שהוא צדיק – אסלקנו. אמר ר' אייבו: בראש השנה דנו, בשעה שדן כל העולם. המינים שאלו את ר' אבהו, אמרו לו: \"אין אנו מוצאים מיתה לחנוך\". אמר להם: \"למה?\" אמרו לו: \"נאמר כאן 'לקיחה', ונאמר באליהו 'לקיחה'\"* אמר להם: \"אם 'לקיחה' אתם דורשים, נאמר כאן 'לקיחה' ונאמר ביחזקאל (כ\"ד ט\"ז) \"הנני לוקח את מחמד עיניך במגפה\". אמר ר' תנחומא: 'יפה השיבן ר' אבהו'. "
+   }
+  },
+  {
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ויתהלך חנוך: צדיק היה וקל בדעתו לשוב ולהרשיע, לפיכך מיהר הקב\"ה וסילקו והמיתו קודם זמנו, וזהו ששינה הכתוב במיתתו לכתוב \"ואיננו\" בעולם, למלאות שנותיו.</span>"
+  },
+  {
+   "heRef": "בראשית רבה כ״ה:א׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 25:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה כי לקח אותו: לפני זמנו, כמו (<a class=\"refLink\" href=\"/Ezekiel 24\" data-ref=\"Ezekiel 24\" target=\"_blank\">יחזקאל כ\"ד</a>) \"הנני לוקח ממך את מחמד עיניך במגפה\"."
+   }
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  מה ראה ר' תנחומא לשבח את ר' אייבו על תשובתו?"
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ראה רש\"י להביא את דברי המדרש על היותו צדיק העומד לשוב ולהרשיע, והלא בלשון זו מקלס הכתוב גם את נח? והלא רש\"י עצמו אומר שלא הביא מדרש אלא לצורך ישוב המקראות דבר דבור על אופניו (ועיין בפרשתנו רש\"י ג' ח' ד\"ה וישמעו) ומהו הקושי הלשוני ו<b>הענייני</b> שיש לישבו כאן?"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  היכן מצינו במקרא הוראה זו של \"ואיננו\"?"
+  },
+  {
+   "heRef": "מלכים ב ב׳:ג׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "II Kings 2:3",
+   "text": {
+    "en": "And the sons of the prophets that were at Beth-el came forth to Elisha, and said unto him: ‘Knowest thou that the LORD will take away thy master from thy head to-day?’ And he said: ‘Yea, I know it; hold ye your peace.’—",
+    "he": "\"כִּי הַיּוֹם ה' לֹקֵחַ אֶת אֲדֹנֶיךָ מֵעַל רֹאשֶׁךָ\""
+   }
+  }
+ ],
+ "ssn": 30,
+ "status": "public",
+ "summary": "1969 (תשכ\"ט)<br><a href=\"http://www.nechama.org.il/pdf/30.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשכ\"ט - בני קין",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

@@ -1,0 +1,717 @@
+{
+ "dateCreated": "2019-03-06T05:33:02.106932",
+ "dateModified": "2019-03-07T02:20:44.703549",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Ibn Ezra on Genesis 49:3:2",
+  "Sforno on Genesis 4:7:2",
+  "Rashi on Genesis 4:7:1",
+  "Ibn Ezra on Genesis 4:7:1",
+  "Ramban on Genesis 4:13:1",
+  "Rashi on Genesis 4:8:1",
+  "Rashi on Genesis 4:15:1",
+  "Genesis 4:7",
+  "Rashi on Genesis 4:10:1",
+  "Genesis 4:13",
+  "Ramban on Genesis 4:7:1",
+  "Sforno on Genesis 4:7:3",
+  "Rashi on Genesis 4:9:1",
+  "Rashi on Genesis 4:13:1",
+  "Rashi on Genesis 4:15:3",
+  "Ramban on Genesis 49:3:1",
+  "Ibn Ezra on Genesis 4:13:1",
+  "Ibn Ezra on Genesis 4:15:2",
+  "Genesis 4:3",
+  "Sforno on Genesis 4:7:1",
+  "Rashi on Genesis 3:9:1",
+  "Ibn Ezra on Genesis 4:8:1",
+  "Genesis 4:16",
+  "Genesis 4:15"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161880,
+ "includedRefs": [
+  "Genesis 4:3",
+  "Genesis 4:7",
+  "Rashi on Genesis 4:7:1",
+  "Ibn Ezra on Genesis 4:7:1",
+  "Ramban on Genesis 4:7:1",
+  "Ramban on Genesis 49:3:1",
+  "Ibn Ezra on Genesis 49:3:2",
+  "Sforno on Genesis 4:7:1",
+  "Sforno on Genesis 4:7:2-3",
+  "Rashi on Genesis 4:8:1",
+  "Rashi on Genesis 4:9:1",
+  "Rashi on Genesis 4:10:1",
+  "Rashi on Genesis 4:10:1",
+  "Rashi on Genesis 3:9:1",
+  "Rashi on Genesis 4:9:1",
+  "Genesis 4:13",
+  "Rashi on Genesis 4:13:1",
+  "Ramban on Genesis 4:13:1",
+  "Ibn Ezra on Genesis 4:13:1",
+  "Genesis 4:15",
+  "Rashi on Genesis 4:15:1",
+  "Genesis 4:15",
+  "Rashi on Genesis 4:15:3",
+  "Rashi on Genesis 4:15:3",
+  "Ibn Ezra on Genesis 4:15:2",
+  "Ramban on Genesis 4:13:1",
+  "Rashi on Genesis 4:8:1",
+  "Ibn Ezra on Genesis 4:8:1",
+  "Rashi on Genesis 4:13:1",
+  "Genesis 4:16"
+ ],
+ "nextNode": 55,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עצה טובה: קרא בספר אגדה של ביאליק פרק י\"ט \"קין והבל\". "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלה כללית</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ג׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:3",
+   "text": {
+    "en": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.",
+    "he": "\"וַיְהִי מִקֵּץ יָמִים וַיָּבֵא קַיִן מִפְּרִי הָאֲדָמָה מִנְחָה לַה' וְהֶבֶל הֵבִיא גַם הוּא מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן וַיִּשַׁע ה' אֶל הֶבֶל וְאֶל מִנְחָתוֹ\""
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מתעוררת השאלה: היש בפסוקים אלה סיבה או רמז לסיבה, למה שעה ה' אל מנחת הבל, ואל קין ואל מנחתו לא שעה? עיין בפסוקים ובמפרשים, אולי תמצא בהם תשובה."
+  },
+  {
+   "node": 5,
+   "outsideText": "<table><tbody><tr><td><big>ב. השוואת מפרשים</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ז׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:7",
+   "text": {
+    "en": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee is its desire, but thou mayest rule over it.’",
+    "he": "\"הֲלוֹא אִם תֵּיטִיב שְׂאֵת וְאִם לֹא תֵיטִיב לַפֶּתַח חַטָּאת רֹבֵץ וְאֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל בּוֹ\""
+   }
+  },
+  {
+   "node": 7,
+   "outsideText": "יש אומרים שפסוק זה הוא הקשה ביותר בכל ספר בראשית."
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה פירוש המילים \"אם תיטיב – שאת\", לפי כל אחד מהפרשנים הבאים?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ז׳:א׳",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:7:1",
+   "text": {
+    "en": "הלא אם תטיב IF THOU MENDEST — Its meaning is as the Targum gives it: “if thou wilt improve thy doings, thou shalt be forgiven”.",
+    "he": "ד\"ה הלוא אם תיטיב: כתרגומו פירושו. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ד׳:ז׳:א׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 4:7:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה הלוא: ופירוש שאת על דעת מפרשים רבים שאת עוונך, והנכון בעיני, שאת פנים, כי כתוב בתחילה \"ויפלו פניו\", וזה דרך בושה, כטעם \"ואיך אשא פני\". וטעמו אם עשית טוב - תשא פניך, וכן \"כי אז תשא פניך ממום\" (<a class=\"refLink\" href=\"/Job 14:15\" data-ref=\"Job 14:15\" target=\"_blank\">איוב י\"ד טו</a>). "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ד׳:ז׳:א׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 4:7:1",
+   "text": {
+    "en": "<b>If you improve, there is forgiveness.</b> Alternatively, “If you improve you will rise [i.e. above your brother].” And after all, it was only jealousy of him that caused you to be angry in the first place. <b>But if you do not improve.</b> Not only will you suffer on account of your brother, but the evil inclination will lead you astray in everything you do. <b>Its desire is unto you.</b> It wishes to cling to you, but you can overcome it. In this passage Hashem teaches Kayin that a person can repent whenever he chooses to.",
+    "he": "ד\"ה הלא אם תיטיב שאת: על דעת המפרשים (אונקלוס, רש\"י, ורד\"ק) שאת עוונך. ועל דעת רבי אברהם, שאת פניך כנגד \"למה נפלו פניך\", כי המתבייש כובש פנים למטה. וכן \"ואור פני לא יפילון\" (<a class=\"refLink\" href=\"/Job 29:24\" data-ref=\"Job 29:24\" target=\"_blank\">איוב כט כד</a>), והמכבדו כאילו נושא פניו למעלה. וזה טעם \"אולי ישא פני\" (להלן לב כא), \"לא תשא פני דל\" (<a class=\"refLink\" href=\"/Leviticus 19:15\" data-ref=\"Leviticus 19:15\" target=\"_blank\">ויקרא יט טו</a>). \nועל דעתי, \"אם תיטיב\" יהיה לך יתר \"שאת\" על אחיך, כי אתה הבכור. וזה טעם למה חרה לך, כי בבושתו מאחיו נפלו פניו, ובקנאתו ממנו הרגו. והנה אמר לו: \"למה חרה לך\" על אחיך, \"ולמה נפלו פניך\" ממנו, \"הלא אם תיטיב\" יהיה לך יתר \"שאת\" על אחיך, \"ואם לא תיטיב\" - לא עמו בלבד תבואך רעה, כי לפתח ביתך חטאתך רובץ, להכשילך בכל דרכיך. \"ואליך תשוקתו\". שהוא ישתוקק להיות דבק בך כל הימים, אבל \"אתה תמשול בו\", אם תחפוץ, כי תיטיב דרכיך ותסירנו מעליך. הורהו על התשובה, שהיא נתונה בידו לשוב בכל עת שירצה, ויסלח לו."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית מ״ט:ג׳:א׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 49:3:1",
+   "text": {
+    "en": "",
+    "he": "להבנת הרמב\"ן עיין גם <a class=\"refLink\" href=\"/Genesis 49:3\" data-ref=\"Genesis 49:3\" target=\"_blank\">פרק מ\"ט פסוק ג'</a>. רמב\"ן, שם:<br>שיעור הפסוק הזה ראובן אתה בכורי וכוחי וראשית אוני יתר שאתי ויתר עוזי. ועניינו אתה בכור כוחי וראשית אוני בהיותי ביתרון שאת ומעלה, כלשון \"הלא שאתו תבַעֵת אתכם\" (<a class=\"refLink\" href=\"/Job 13:11\" data-ref=\"Job 13:11\" target=\"_blank\">איוב יג יא</a>), \"משאתו יגורו אלים\" (שם מא יז), רוממות וגדולה, ובהיותי יתרון עז למלחמה, כמו \"ויתן עז למלכו\" (<a class=\"refLink\" href=\"/I Samuel 2:10\" data-ref=\"I Samuel 2:10\" target=\"_blank\">ש\"א ב י</a>), \"ועזוז מלחמה\" (<a class=\"refLink\" href=\"/Isaiah 42:25\" data-ref=\"Isaiah 42:25\" target=\"_blank\">ישעיה מב כה</a>)."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית מ״ט:ג׳:ב׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 49:3:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה יתר שאת: ראוי היית ליתרון על הכל שתהיה נישא. "
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ד׳:ז׳:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 4:7:1",
+   "text": {
+    "en": "הלא אם תיטיב, if only you improve yourself you will also be welcome in My eyes.",
+    "he": "ד\"ה הלא אם תיטיב: עצמך ותשתדל להיות גם אתה לרצון. "
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ד׳:ז׳:ב׳-ג׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 4:7:2-3",
+   "text": {
+    "en": "שאת, every lofty level of greatness is lying in wait for you, ready to become yours, ואם לא תיטיב לפתח חטאת רובץ, however, sin is also lying in wait for you if you will add further intentional sin to the already performed unintentional sin. This is the way of the evil urge, that once you give into it, it will forever be ready to tempt you again.",
+    "he": "ד\"ה שאת: רום המעלה וההתנשא רובץ לפניך ומוכן שיהי לך. \"ואם לא תיטיב לפתח חטאת רובץ\": גם כן החטאת מוכן לפניך כי תוסיף על חטאתך פשע, שכך דרכו של יצר הרע."
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. אל מי מוסב הכינוי שבמילה \"תשוקתו\" ובמילה \"בו\", לפי רש\"י וספורנו?"
+  },
+  {
+   "node": 17,
+   "outsideText": "<table><tbody><tr><td><big>ג. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": " רש\"י על בראשית ד׳:ח׳:א׳",
+   "node": 18,
+   "options": {
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 4:8:1",
+   "text": {
+    "en": "ויאמר קין אל הבל AND CAIN SPAKE TO ABEL — He began an argument, striving and contending with him, to seek a pretext to kill him. There are Midrashic explanations of these words, but this is the plain sense of the text. ",
+    "he": "<sup class=\"nechama\"></sup>  מה קשה לרש\"י בפסוקים הבאים.א) <a class=\"refLink\" href=\"/Genesis 4:8\" data-ref=\"Genesis 4:8\" data-ref=\"Genesis 4:8\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 4:8\" data-ref=\"Genesis 4:8\" data-ref=\"Genesis 4:8\" target=\"_blank\">פסוק ח'</a>:<br>ד\"ה ויאמר קין: נכנס עמו בדברי ריב ומצה להתעולל עליו להרגו, ויש בזה מדרשי אגדה, אך זה יישובו של מקרא."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ט׳:א׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:9:1",
+   "text": {
+    "en": "איה הבל אחיך WHERE IS ABEL THY BROTHER — thus entering into a friendly conversation with him: perhaps he might repent and say, “I have killed him, and sinned against You” (Genesis Rabbah 19:11).",
+    "he": "ד\"ה אי הבל אחיך: להיכנס עמו בדברי נחת, אולי ישוב ויאמר: אני הרגתיו, וחטאתי לך."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י׳:א׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:10:1",
+   "text": {
+    "en": "דמי אחיך THY BROTHERS BLOOD — דמי is plural — bloods” — his blood and the blood of his possible descendants (Genesis Rabbah 22:9). Another explanation of why the plural is used: he inflicted upon him many wounds, because he knew not whence his soul would depart (i. e. which blow would prove fatal) (Sanhedrin 37b). ",
+    "he": "ד\"ה דמי אחיך: דמו ודם זרעיותיו, "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י׳:א׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:10:1",
+   "text": {
+    "en": "דמי אחיך THY BROTHERS BLOOD — דמי is plural — bloods” — his blood and the blood of his possible descendants (Genesis Rabbah 22:9). Another explanation of why the plural is used: he inflicted upon him many wounds, because he knew not whence his soul would depart (i. e. which blow would prove fatal) (Sanhedrin 37b). ",
+    "he": "דבר אחר: שעשה בו פצעים הרבה, שלא היה יודע מהיכן נפשו יוצאה, "
+   }
+  },
+  {
+   "node": 22,
+   "outsideText": "מה כוונת רש\"י במילים דמו ודם זרעיותיו?"
+  },
+  {
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ד) <a class=\"refLink\" href=\"/Genesis 4:16\" data-ref=\"Genesis 4:16\" target=\"_blank\">פסוק ט\"ז</a>:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ויצא קין: יצא בהכנעה כגונב דעת העליונה.</span>"
+  },
+  {
+   "node": 24,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"אי הבל\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ט׳:א׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:9:1",
+   "text": {
+    "en": "איכה WHERE ART THOU — He knew where he was, but He asked this in order to open up a conversation with him that he should not become confused in his reply, if He were to pronounce punishment against him all of a sudden. Similarly in the case of Cain, He said to him, (4:9) “where is Abel thy brother?” Similarly with Balaam, (Numbers 22:9) “what men are these with thee?” — to open up a conversation with them; so, also, in the case of Hezekiah with reference to the messengers of Merodach-baladan (Isaiah 39:3). ",
+    "he": "השווה רש\"י, <a class=\"refLink\" href=\"/Genesis 3:9\" data-ref=\"Genesis 3:9\" target=\"_blank\">לפרק ג' פסוק ט'</a>:<br>ד\"ה איכה: יודע היה היכן הוא, אלא ליכנס עמו בדברים, שלא יהא נבהל להשיב אם יענישהו פתאום (ב\"ר). וכן בקין (בראשית ד) אמר לו: \"אי הבל אחיך\", וכן בבלעם (<a class=\"refLink\" href=\"/Numbers 22\" data-ref=\"Numbers 22\" target=\"_blank\">במדבר כב</a>) \"מי האנשים האלה עמך\" - ליכנס עמהם בדברים, וכן בחזקיהו בשלוחי מרודך בלאדן (<a class=\"refLink\" href=\"/Isaiah 39\" data-ref=\"Isaiah 39\" target=\"_blank\">ישעיהו לט</a>). "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ט׳:א׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:9:1",
+   "text": {
+    "en": "איה הבל אחיך WHERE IS ABEL THY BROTHER — thus entering into a friendly conversation with him: perhaps he might repent and say, “I have killed him, and sinned against You” (Genesis Rabbah 19:11).",
+    "he": "ד\"ה אי הבל: להיכנס עמו בדברי נחת, אולי ישוב ויאמר: אני הרגתיו וחטאתי לך."
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מפני מה אין דברי רש\"י שווים בשני המקומות, הלוא הקושי בשני המקומות אחד הוא?"
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"גדול עוני מנשוא\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:י״ג",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:13",
+   "text": {
+    "en": "And Cain said unto the LORD: ‘My punishment is greater than I can bear.",
+    "he": "\"גָּדוֹל עֲו‍ֹנִי מִנְּשֹׂא\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י״ג:א׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:13:1",
+   "text": {
+    "en": "גדול עוני מנשוא MY PUNISHMENT IS GREATER THAN I CAN BEAR (literally, my sin is greater than what can be borne) — This is a question: You bear the worlds above and below. and is it impossible for You to bear my sin? (Genesis Rabbah 22:11). ",
+    "he": "בתמיה, אתה טוען עליונים ותחתונים, ועווני אי אפשר לטעון."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ד׳:י״ג:א׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 4:13:1",
+   "text": {
+    "en": "<b>My sin is greater.</b> My sin was indeed unforgivable and Your decree just, nevertheless, <b>whoever finds me will kill me</b>, and You did not sentence me to die. Here Kayin acknowledged that human beings require Divine protection.",
+    "he": "בתמיה, אתה טוען עליונים ותחתונים, ועווני אי אפשר לטעון, לשון רש\"י מבראשית רבה (כב יא). \nוהנכון בפשט שהוא וידוי. אמר: אמת כי עווני גדול מלסלוח, וצדיק אתה ה' וישר משפטיך, אף על פי שענשת אותי הרבה מאוד. והנה \"גירשת אותי היום מעל פני האדמה\", כי בהיותי נע ונד ולא אוכל לעמוד במקום אחד, הנה אנכי מגורש מן האדמה ואין מקום למנוחתי, \"ומפניך אסתר\", כי לא אוכל לעמוד לפניך להתפלל או להקריב קרבן ומנחה, כי בושתי וגם נכלמתי כי נשאתי חרפת נעורי. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ד׳:י״ג:א׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 4:13:1",
+   "text": {
+    "en": "",
+    "he": "על דעת כל המפרשים, שהודה חטאו. ופירוש נשוא כטעם סלוח כמו נושא עון. ולפי דעתי, שהעברים יקראו העקב שכר. והעונש הרע שבא בעבור העוון - חטאת. וכן \"כי לא שלם עון האמורי\", \"אם יקרך עוון\", \"ויגדל עוון בת עמי\". והטעם כי זה העונש גדול לא אוכל לסבלו, ויורה על אמתחת זה הפירוש הפסוק הבא אחריו. "
+   }
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה ההבדל בין רש\"י, רמב\"ן וראב\"ע בפירוש המילים \"גדול עווני מנשא\"? מה היא חולשת רש\"י ומה היא חולשת הרמב\"ן בפירוש המילים האלה?"
+  },
+  {
+   "node": 34,
+   "outsideText": "<table><tbody><tr><td><big>ו. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ט״ו",
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:15",
+   "text": {
+    "en": "And the LORD said unto him: ‘Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold.’ And the LORD set a sign for Cain, lest any finding him should smite him.",
+    "he": "\"וַיֹּאמֶר לוֹ ה' לָכֵן כָּל הֹרֵג קַיִן שִׁבְעָתַיִם יֻקָּם וַיָּשֶׂם ה' לְקַיִן אוֹת לְבִלְתִּי הַכּוֹת אֹתוֹ כָּל מֹצְאוֹ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ט״ו:א׳",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:15:1",
+   "text": {
+    "en": "לכן כל הרג קין VERILY, WHOSOEVER SLAYETH CAIN — This is one of the verses where the construction is elliptical (literally, which abbreviate their statements), which give only a suggestion and do not fully explain. “Verily, whosoever slayeth Cain” express a threat, suggesting the consequence — “thus shall be done to him”, “thus and thus shall be his punishment”, without explicitly explaining what the punishment would be.",
+    "he": "ד\"ה לכן כל הורג קין: זה אחד מן המקראות שקיצרו דבריהם ורמזו ולא פירשו, \"לכן כל הורג קין\" לשון גערה: כה יעשה לו, כך וכך עונשו, ולא פירש עונשו."
+   }
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "העתיקו את <a class=\"refLink\" href=\"/Genesis 4:15\" data-ref=\"Genesis 4:15\" data-ref=\"Genesis 4:15\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 4:15\" data-ref=\"Genesis 4:15\" data-ref=\"Genesis 4:15\" target=\"_blank\">פסוק ט\"ו</a> בסימני פיסוק: נקודות, פסיקים, מרכאות, סימני קריאה וכדומה, בהתאם לפירוש רש\"י."
+  },
+  {
+   "node": 38,
+   "outsideText": "<table><tbody><tr><td><big>ז. אות קין</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ט״ו",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:15",
+   "text": {
+    "en": "And the LORD said unto him: ‘Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold.’ And the LORD set a sign for Cain, lest any finding him should smite him.",
+    "he": "\"וַיֹּאמֶר לוֹ ה' לָכֵן כָּל הֹרֵג קַיִן שִׁבְעָתַיִם יֻקָּם וַיָּשֶׂם ה' לְקַיִן אוֹת...\""
+   }
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "פליגי חכמים בעניין אות קין כי לא נתפרש בתורה. מה הוא האות לפי פירוש רש\"י, ראב\"ע ורמב\"ן?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ט״ו:ג׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:15:3",
+   "text": {
+    "en": "וישם ה' לקין אות AND THE LORD SET A SIGN FOR CAIN — He inscribed on his forehead a letter of His Divine Name (Pirkei DeRabbi Eliezer 21). Other editions of Rashi add the following: another interpretation of “Whoever will find me will slay me”: this refers to cattle and beasts, since there were then no human beings in the world of whom he might be afraid except his father and mother, and, of course, he did not fear that they would slay him. He, therefore, said, “Until now the fear of me was upon all animals — as it is written”, (Genesis 9:2) “And the fear of you shall be upon all beasts of the field” etc. — now, however, because of my sin the animals will no longer fear me and will kill me. God immediately set a sign for Cain, viz., he again made the animals be in fear of him. ",
+    "he": "חקק לו אות משמו במצחו "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ט״ו:ג׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:15:3",
+   "text": {
+    "en": "וישם ה' לקין אות AND THE LORD SET A SIGN FOR CAIN — He inscribed on his forehead a letter of His Divine Name (Pirkei DeRabbi Eliezer 21). Other editions of Rashi add the following: another interpretation of “Whoever will find me will slay me”: this refers to cattle and beasts, since there were then no human beings in the world of whom he might be afraid except his father and mother, and, of course, he did not fear that they would slay him. He, therefore, said, “Until now the fear of me was upon all animals — as it is written”, (Genesis 9:2) “And the fear of you shall be upon all beasts of the field” etc. — now, however, because of my sin the animals will no longer fear me and will kill me. God immediately set a sign for Cain, viz., he again made the animals be in fear of him. ",
+    "he": "(ס\"א דבר אחר: \"כל מוצאי יהרגני\" - הבהמות והחיות, אבל בני אדם עדיין לא היו שיירא מהם, רק אביו ואמו, ומהם לא היה ירא שיהרגוהו, אלא אמר עד עכשיו היה פחדתי על כל החיות כמ\"ש \"ומוראכם\" וגו' ועכשיו בשביל עוון זה לא ייראו ממני החיות ויהרגוני, מיד \"וישם ה' לקין אות\" - החזיר מוראו על הכל)."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ד׳:ט״ו:ב׳",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 4:15:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה שבעתים: ...ויש אומר, כי האות קרן. ואחרים אמרו, שנתן חוזק בלבו והסיר פחדו ממנו. והנכון בעיני, שהשם עשה לו אות, עד שהאמין, והכתוב לא גילה האות."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ד׳:י״ג:א׳",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 4:13:1",
+   "text": {
+    "en": "<b>My sin is greater.</b> My sin was indeed unforgivable and Your decree just, nevertheless, <b>whoever finds me will kill me</b>, and You did not sentence me to die. Here Kayin acknowledged that human beings require Divine protection.",
+    "he": "ד\"ה גדול עווני מנשא: ...כי בעבור שאהיה נע ונד ולא אבנה לי בית וגדרות בשום מקום, יהרגוני החיות, כי סר צלך מעלי. הודה כי האדם איננו נשגב ונמלט בכוחו, רק בשמירת עליון עליו. "
+   }
+  },
+  {
+   "node": 45,
+   "outsideText": "<table><tbody><tr><td><big>ח. שאלות לשון וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 46,
+   "outsideText": "מה פירוש המילים והביטויים המובאים במפרשים:"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ח׳:א׳",
+   "node": 47,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 4:8:1",
+   "text": {
+    "en": "ויאמר קין אל הבל AND CAIN SPAKE TO ABEL — He began an argument, striving and contending with him, to seek a pretext to kill him. There are Midrashic explanations of these words, but this is the plain sense of the text. ",
+    "he": "ד\"ה ויאמר קין: נכנס עמו בדברי ריב ומצה להתעולל עליו להרגו, ויש בזה מדרשי אגדה, אך זה ישובו של מקרא. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ד׳:ח׳:א׳",
+   "node": 48,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Genesis 4:8:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ויאמר קין: הקרוב אלי שאמר לו כל התוכחות שהוכיחו השם. ושואלים נולדו ביום סגריר ישאלו איך הכהו, ואין חרב. וזאת שאלת תוהו, כי יהרגהו בידו בחנק, ואלף עץ ואבן נמצאים. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י״ג:א׳",
+   "node": 49,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 4:13:1",
+   "text": {
+    "en": "גדול עוני מנשוא MY PUNISHMENT IS GREATER THAN I CAN BEAR (literally, my sin is greater than what can be borne) — This is a question: You bear the worlds above and below. and is it impossible for You to bear my sin? (Genesis Rabbah 22:11). ",
+    "he": "ד\"ה גדול עווני מנשוא: בתמיה אתה טוען עליונים ותחתונים, ועווני אי אפשר לטעון."
+   }
+  },
+  {
+   "node": 50,
+   "outsideText": "<table><tbody><tr><td><big>ט. \"ויצא קין מלפני ה'\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ט״ז",
+   "node": 51,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:16",
+   "text": {
+    "en": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.",
+    "he": "\"וַיֵּצֵא קַיִן מִלִּפְנֵי ה'\""
+   }
+  },
+  {
+   "node": 52,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ישנה מחלוקת במדרש בראשית רבה:</span><br><span style=\"color: rgb(51,51,51);\">ויצא קין. מהיכן יצא? ר' איבו אומר: הפשיל דברים לאחוריו (-השליך דבריו של הקדוש ברוך הוא אחרי גוו, כאדם המפשיל כליו לאחוריו), ויצא כגונב דעת העליונה. ר' חנינא בר ר' יצחק אומר: יצא שמח... פגע בו אדם הראשון. אמר לו: מה נעשה בדינך? אמר לו: עשיתי תשובה ונתפשרתי. התחיל אדם מטפח על פניו ואמר: \"מזמור שיר ליום השבת טוב להודות לה'\".</span>"
+  },
+  {
+   "node": 53,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "איזו משתי התשובות האלה קרובה יותר לפשוטו של מקרא? מי ממפרשינו נוטה גם הוא לדעה שעשה קין תשובה?"
+  }
+ ],
+ "ssn": 1229,
+ "status": "public",
+ "summary": "1942 (תש\"ב)<br><a href=\"http://www.nechama.org.il/pdf/1229.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ב - קין והבל",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

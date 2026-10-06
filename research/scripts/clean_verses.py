@@ -18,7 +18,7 @@ def clean_he(s):
     s = strip_cant(s)
     # Strip masoretic markers/spans like {ס}, {פ}, &nbsp;, etc.
     s = re.sub(r'<[^>]+>', '', s)
-    s = re.sub(r'\{[סף]\}', '', s)
+    s = re.sub(r'\{[סףפ]\}', '', s)
     s = s.replace('&nbsp;', ' ').replace('&thinsp;', ' ')
     s = re.sub(r'\s+', ' ', s).strip()
     return s

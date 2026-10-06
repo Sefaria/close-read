@@ -1,0 +1,513 @@
+{
+ "dateCreated": "2019-03-06T05:27:45.012196",
+ "dateModified": "2019-03-07T02:14:01.206810",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 2:8:1",
+  "Genesis 2:5",
+  "Rashi on Genesis 2:5:1",
+  "Genesis 2:8",
+  "Rashi on Exodus 6:30:1",
+  "Chizkuni, Genesis 2:15:2",
+  "Rashi on Genesis 2:5:2",
+  "Ramban on Genesis 2:5:1",
+  "Rashi on Genesis 28:10:1",
+  "Sforno on Genesis 2:5:1",
+  "Genesis 2:15"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161471,
+ "includedRefs": [
+  "Genesis 2:5",
+  "Rashi on Genesis 2:5:1-2",
+  "Ramban on Genesis 2:5:1",
+  "Sforno on Genesis 2:5:1",
+  "Genesis 2:5",
+  "Genesis 2:8",
+  "Rashi on Genesis 2:8:1",
+  "Genesis 2:8",
+  "Genesis 2:15",
+  "Rashi on Genesis 28:10:1",
+  "Rashi on Exodus 6:30:1",
+  "Genesis 2:15",
+  "Chizkuni, Genesis 2:15:2",
+  "Genesis 2:15"
+ ],
+ "nextNode": 52,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. \"טרם יהיה\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ה׳",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:5",
+   "text": {
+    "en": "No shrub of the field was yet in the earth, and no herb of the field had yet sprung up; for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground;",
+    "he": "\"וְכֹל שִׂיחַ הַשָּׂדֶה טֶרֶם יִהְיֶה\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ה׳:א׳-ב׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:5:1-2",
+   "text": {
+    "en": "טרם יהיה בארץ  WAS NOT YET IN THE EARTH — Wherever טרם occurs in the Scriptures it means “not yet” and does not mean “before”. It cannot be made into a verbal form, saying הטרים as one says הקדים (verbal form of קדם) and this passage proves that this is the meaning and not \"before\" as well as another (Exodus 9:30), כי טרם תראון “that ye do not yet fear the Lord”. Therefore you must explain this verse also thus: “No plant of the field was yet in the earth” at the time when the creation of the world was completed on the sixth day before man was created, and וכל עשב השדה טרם יצמח means “and every herb of the field had not yet grown”. But as regards the third day of creation about which it is written “The earth brought forth etc.” this does not signify that they came forth above the ground but that they remained at the opening of the ground (i. e. just below the surface) until the sixth day (Chullin 60a). כי לא המטיר BECAUSE GOD HAD NOT CAUSED IT TO RAIN — And what is the reason that God had not caused it to rain? כי אדם אין לעבוד את האדמה BECAUSE THERE WAS NO MAN TO TILL THE GROUND, and there was, therefore, no one to recognize the utility of rain. When Adam came (was created), however, and he realised that it was necessary for the world, he prayed for it and it fell, so that trees and verdure sprang forth.",
+    "he": "ד\"ה טרם יהיה בארץ: כל טרם שבמקרא לשון \"עד לא\" הוא, ואינו לשון קודם ואינו נפעל לומר הטרים כאשר יאמר הקדים. וזה מוכיח ועוד אחר (<a class=\"refLink\" href=\"/Exodus 9\" data-ref=\"Exodus 9\" target=\"_blank\">שמות ט</a>') כי טרם תיראון עדיין לא תיראון, ואף זה תפרש עדיין לא היה בארץ כשנגמרה בריאת העולם בששי קודם שנברא אדם וכל עשב השדה עדיין לא צמח, ובג' שכתוב ותוצא, לא יצאו אלא על פתח הקרקע עמדו עד יום ו', ולמה, כי לא המטיר, ומה טעם לא המטיר, לפי שאדם אין לעבוד את האדמה ואין מכיר בטובתן של גשמים. וכשבא אדם וידע שהם צורך לעולם התפלל עליהם וירדו וצמחו האילנות והדשאים."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ב׳:ה׳:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 2:5:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וכל שיח השדה: על דעת רבותינו (בבראשית רבה) [עיין חולין ס:] בשלישי עמדו על פתח קרקע הארץ, ובששי צמחו לאחר שהמטיר עליהם. ועל דעתי כפי הפשט, כי בשלישי הוציאה הארץ העשב ועץ הפרי בקומותם וצביונם כאשר ציוותה בהם, ועכשיו יספר הכתוב כי אין נוטע וזורע מהם, והיא לא תצמח, עד אשר עלה אד ממנה והשקה אותה ונוצר האדם העובד אותה לזרוע ולנטוע ולשמור. וזהו טעם \"שיח השדה טרם יצמח\", שלא אמר \"שיח האדמה\", כי המקום הנעבד יקרא \"שדה\", אשר תזרע בשדה (<a class=\"refLink\" href=\"/Exodus 23:16\" data-ref=\"Exodus 23:16\" target=\"_blank\">שמות כ\"ג ט\"ז</a>), לא נעבור בשדה ובכרם (<a class=\"refLink\" href=\"/Numbers 20:17\" data-ref=\"Numbers 20:17\" target=\"_blank\">במדבר כ' י\"ז</a>). וזהו תשמישו של עולם שנהיה מאחרי ששת ימי בראשית והלאה כל ימי עולם, כי בסיבת האד ימטירו השמים ובסבתם הארץ זירועיה תצמיח."
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה קשה לשניהם?"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ביניהם בישוב הקושי?"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3.  מה הסיוע <b>מלשון</b> הכתוב לכל אחד משני הפרשנים?"
+  },
+  {
+   "heRef": "ספורנו על בראשית ב׳:ה׳:א׳",
+   "node": 8,
+   "options": {
+    "PrependRefWithHe": "4. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Sforno on Genesis 2:5:1",
+   "text": {
+    "en": "טרם יהיה בארץ, these words emphasise that although all phenomena had been created, this referred to their potential, not to their functioning as they do nowadays. כל עשב השדה, had not yet sprouted,",
+    "he": "ד\"ה טרם יהיה בארץ: אמנם הטעם שבהבראם נמצאו בכח ולא בפועל באופן שכל שיח השדה עדיין לא היה בארץ וכן כל עשב השדה עדיין לא צמא."
+   }
+  },
+  {
+   "node": 9,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"טרם יצמח\"</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 2:5\" data-ref=\"Genesis 2:5\" data-ref=\"Genesis 2:5\" data-ref=\"Genesis 2:5\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 2:5\" data-ref=\"Genesis 2:5\" data-ref=\"Genesis 2:5\" data-ref=\"Genesis 2:5\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 2:5\" data-ref=\"Genesis 2:5\" data-ref=\"Genesis 2:5\" data-ref=\"Genesis 2:5\" target=\"_blank\">פסוק ה'</a></span><br><span style=\"color: rgb(51,51,51);\">\"...טֶרֶם יִהְיֶה... טֶרֶם יִצְמָח\"</span>"
+  },
+  {
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בנו יעקב, בספרו Genesis עמוד 81 (תרגום מגרמנית):</span><br><span style=\"color: rgb(51,51,51);\">לא נאמר שלא הייתה עדיין צמחיה קיימת, להיפך – נאמר: הייתה קימת אלא שהייתה עדיין במצב בלתי מפותח, ואין זה פלא, כי שני הגורמים המשפיעים על התפתחות הצמחיה לא פעלו עדיין: כי לא המטיר ה' ולא עבד אדם את האדמה. ובכן: פירוש \"טרם יהיה\" אינו: לא היה במציאות, לא היה קיים, כי אם: לא הגיע למה שהיה מיועד להיות. וכן <a class=\"refLink\" href=\"/Isaiah 15:6\" data-ref=\"Isaiah 15:6\" target=\"_blank\">ישעיהו ט\"ו ו'</a>; <a class=\"refLink\" href=\"/Jeremiah 14:5\" data-ref=\"Jeremiah 14:5\" target=\"_blank\">ירמיהו י\"ד ה'</a>. </span>"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  למי ממפרשינו מסכים בנו יעקב?"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהי ראייתו משני הפסוקים שבישעיה ובירמיהו?"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  כנגד איזו שיטה בספרות המדעית פונה כאן בנו יעקב?"
+  },
+  {
+   "node": 15,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"ואדם אין\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ה׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:5",
+   "text": {
+    "en": "No shrub of the field was yet in the earth, and no herb of the field had yet sprung up; for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground;",
+    "he": "\"... וְאָדָם אַיִן לַעֲבֹד אֶת הָאֲדָמָה\""
+   }
+  },
+  {
+   "node": 17,
+   "outsideText": "בהתאם לפירושו את שני חלקי הפסוק הראשונים (<a class=\"refLink\" href=\"/sheets/161471\" data-ref=\"sheet.161471\" target=\"_blank\">עיין שאלה ב'</a>) מפרש בנו יעקב גם את החלק האחרון \"ואדם אין לעבוד\", בהסתמכו על <a class=\"refLink\" href=\"/Numbers 20:5\" data-ref=\"Numbers 20:5\" target=\"_blank\">במדבר כ' ה'</a> \"ומים אין לשתות\"."
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "הסבר, איפוא, כיצד יתפרש פסוקנו לפי זה, ומה הקושי המתורץ על ידי כך?"
+  },
+  {
+   "node": 19,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"גן בעדן מקדם\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ח׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:8",
+   "text": {
+    "en": "And the LORD God planted a garden eastward, in Eden; and there He put the man whom He had formed.",
+    "he": "\"...גַּן בְּעֵדֶן מִקֶּדֶם...\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ח׳:א׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:8:1",
+   "text": {
+    "en": "מקדם EASTWARD — In the east of Eden He planted the garden. Should you say, however, it is already written, (1:27) “and He created the man etc.”, then I say that I have seen the Baraitha of R. Eliezer the son of R. José the Galilean, dealing with the thirty two rules of interpretation according to which the Torah (Agada) can be interpreted, and the following is one of them: when a general statement of an action is followed by a detailed account of it, the latter is a particularisation of the former: — “And He created the man” is a general statement, but it does not explicitly state whence he was created and what God did unto him. Now it repeats it and explains these things: “And the Lord God formed man”, “and He made to grow for him the garden of Eden”, and He caused a deep sleep to fall upon him.” He who hears this might think that it is a different account entirely, whereas it is nothing else but the details of the former general statement. Similarly with reference to the cattle the creation of which has been mentioned above (1:27). it resumes and writes, (2:19) “and out of the ground the Lord [God] formed every beast of the field etc.”, for the purpose of explaining “and He brought them unto the man to give them names”, and also to state that the fowls were created from the swamps. ",
+    "he": "ד\"ה מקדם: ואם תאמר הרי כבר נאמר ויברא וגו' את האדם וגו', ראיתי בברייתא של ר' אליעזר בנו של ר' יוסי הגלילי מל\"ב מידות שהתורה נדרשת וזו אחת מהן: כלל שלאחריו מעשה הוא פרטו של ראשון. ויברא וגו' את האדם זהו כלל סתם בריאתו מהיכן וסתם מעשיו חזר ופירש וייצר ה' אלהים וגו' ויצמח לו גן עדן ויניחהו בגן עדן ויפל עליו תרדמה השומע סבור שהוא מעשה אחר ואינו אלא פרטו של ראשון. וכן אצל הבהמה חזר וכתב ויצר ה' וגו' מן האדמה כל חית השדה כדי לפרש ויבא אל האדם לקרות שם וללמד על העופות שנבראו מן הרקק."
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  שני קשיים רצה רש\"י לתרץ בזה. הסבר מה הם."
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה תירוצו לכל אחד משני הקשיים?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3.  תן עוד דוגמאות בפרשת בראשית (או בפרשיות אחרות שבספר בראשית) מידה זו שהתורה נדרשת בה, שמזכירה <b>רש\"י</b> כאן."
+  },
+  {
+   "node": 25,
+   "outsideText": "<table><tbody><tr><td><big>ה. שאלת מבנה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 26,
+   "outsideText": "השוה:"
+  },
+  {
+   "heRef": "בראשית ב׳:ח׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:8",
+   "text": {
+    "en": "And the LORD God planted a garden eastward, in Eden; and there He put the man whom He had formed.",
+    "he": "\"וַיִּטַּע... גַּן בְּעֵדֶן מִקֶּדֶם וַיָּשֶׂם שָׁם אֶת הָאָדָם אֲשֶׁר יָצָר\""
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ו",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:15",
+   "text": {
+    "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+    "he": "\"וַיִּקַּח... אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ\""
+   }
+  },
+  {
+   "node": 29,
+   "outsideText": "הסבר, מהי סיבת הכפל הזה!"
+  },
+  {
+   "node": 30,
+   "outsideText": "והשוה רש\"י,"
+  },
+  {
+   "heRef": "רש\"י על בראשית כ״ח:י׳:א׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 28:10:1",
+   "text": {
+    "en": "ויצא יעקב AND JACOB WENT OUT— Owing to the fact that it was because the daughters of Canaan were evil in the eyes of Isaac, his father, that Esau went to Ishmael, Scripture broke off the narrative contained, in the section dealing with Jacob, and wrote (verse 6 till verse 9), “Now Esau saw that Isaac had blessed [Jacob] etc., that the daughters of Canaan were evil in the eyes of Isaac and so he went to Ishmael” and when it finished this (the account of Esau’s further marriage) it resumes the previous subject.",
+    "he": "ד\"ה ויצא יעקב: על ידי שבשביל שרעות בנות כנען בעיני יצחק אביו הלך עשו אל ישמעאל הפסיק הענין בפרשתו של יעקב וכתיב וירא עשו כי ברך וגו' ומשגמר חזר לענין הראשון. "
+   }
+  },
+  {
+   "heRef": "רש\"י על שמות ו׳:ל׳:א׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Exodus 6:30:1",
+   "text": {
+    "en": " ויאמר משה לפני ה׳ AND MOSES SAID BEFORE THE LORD — This is the statement which he made above, (v. 12), “Behold, the children of Israel have not hearkened unto me”. Scripture repeats it here, because it broke off the narrative for the reason already given. So is the method of the historian — just as a person who says, “let us return to the previous subject”.",
+    "he": "ד\"ה ויאמר משה לפני ה': היא האמירה שאמר למעלה הן בני ישראל לא שמעו אלי ושנה הכתוב כאן כיון שהפסיק הענין וכך היא השיטה כאדם האומר נחזור על הראשונות."
+   }
+  },
+  {
+   "node": 33,
+   "outsideText": "<table><tbody><tr><td><big>ו. \"לעבדה ולשמרה\" (1)</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ו",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:15",
+   "text": {
+    "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+    "he": "\"לְעָבְדָהּ וּלְשָׁמְרָהּ\""
+   }
+  },
+  {
+   "heRef": "חזקוני, בראשית ב׳:ט״ו:ב׳",
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Chizkuni, Genesis 2:15:2",
+   "text": {
+    "en": "ולשמרה, “and to protect it against animals that would trample it.” The Torah speaks of a period prior to when the angels with drawn swords would prevent entry into Gan Eden. An alternate exegesis of these two words: the word לעבדה, is to be understood as in Exodus 20,8, i.e. ששת ימים תעבוד, “during the six days you are to work, etc;” and the word: לשמרה, is to be understood as in Deuteronomy 5,12: שמור את יום השבת, “observe the Sabbath,” in other words, G-d commanded Adam already at that time to observe the seventh day of the week as we observe the Sabbath after the Torah had been given, by not performing work on it.",
+    "he": "\"לעבדה\": על שם \"ששת ימים תעבוד\"; \"ולשמרה\" על שם \"שמור את יום השבת\"."
+   }
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  כיצד פירש אות \"ה\" של לעבד<b>ה</b> ושל לשמר<b>ה</b>?"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. במה הוא נוטה מן הפירוש הרגיל, ומה הניעו לכך?"
+  },
+  {
+   "node": 38,
+   "outsideText": "<table><tbody><tr><td><big>ז. \"לעבדה ולשמרה\" (2)</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ו",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:15",
+   "text": {
+    "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+    "he": "\"לְעָבְדָהּ וּלְשָׁמְרָהּ\""
+   }
+  },
+  {
+   "node": 40,
+   "outsideText": "הסבר שאין פסוקנו סותר לנאמר ב<a class=\"refLink\" href=\"/Genesis 3:19\" data-ref=\"Genesis 3:19\" target=\"_blank\">פרק ג', י\"ט</a>."
+  },
+  {
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">והשוה אבות דר' נתן פרק י\"א בשבח העבודה:</span><br><span style=\"color: rgb(51,51,51);\">שמעיה אומר: אהוב את המלאכה – כיצד? שיהא אדם אוהב את המלאכה ואל יהיה שונא את המלאכה, שכשם שהתורה ניתנה בברית, כך המלאכה ניתנה בברית, שנאמר (שמות ל\"א) \"ששת ימים יעשה מלאכה... ... ברית עולם\". \nר' שמעון בן אלעזר אומר: אף אדם הראשון <b>לא טעם כלום עד שעשה מלאכה</b>, שנאמר \"ויניחהו בגן עדן לעבדה ולשמרה\" והדר \"מכל עץ הגן אכול תאכל.\"</span>"
+  },
+  {
+   "node": 42,
+   "outsideText": "<table><tbody><tr><td><big>ח. בריאת האשה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">עקדת יצחק:</span><br><span style=\"color: rgb(51,51,51);\">...ולזה ראתה חכמתו יתברך שלא יהיה זיווג האדם ואשתו על היחס המיני לבד כשאר בעלי החי, אבל שיהיה להם יחס אישי מיוחד, הוא יחזק אהבתם וחברתם להעזר זה מזה בכל ענייניהם עזר גמור ושלם, כאשר יאות להם, שלא יהיה כל אחד מהזכר והנקבה בפני עצמו כשאר הבעל חי הרועים על ידיהם, שאינם צריכים לחברה זה לזה. אמנם יתכן, שתהיה לו חברה נאותה ומשותפת לו כפי צרכו, ולזה אעשה לו העזר הראוי והנאות לו, השוה לו.</span>"
+  },
+  {
+   "node": 44,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר מהם הפסוקים בפרקנו שנאמר בהם במפורש או ברמז רעיון זה."
+  },
+  {
+   "node": 45,
+   "outsideText": "<table><tbody><tr><td><big>ט. המונוגומיה כאידאל</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 46,
+   "outsideText": "לדעת ר' דוד הופמן יש להביא מפרקנו ראיה לכך שמגמת התורה והאידיאל שלה היא המונוגמיה (נישואין לאשה אחת בלבד)."
+  },
+  {
+   "node": 47,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מהיכן בפרקנו יש למצוא רמז לכך?"
+  },
+  {
+   "node": 48,
+   "outsideText": "<table><tbody><tr><td><big>י. הערה כללית לפרק ב'</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 49,
+   "outsideText": "הערה כללית לפרק ב' בהשואה לפרק א'"
+  },
+  {
+   "node": 50,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, \"מאדם עד נח\" עמוד 49:</span><br><span style=\"color: rgb(51,51,51);\">ואשר להכפלה בענין יצירת האדם, המסופרת גם בפרשה הקודמת (פרק א') וגם בפרשתנו (פרק ב') – אינה מתנגדת כלל לדרכי המחשבה השמית... (התורה מספרת על יצירתו של האדם פעמיים) פעם בקיצור ובקווים הכלליים, כעל יצירת אחד היצורים שבעולם החמרי, ושנית באריכות ובפרטות כעל יצירת היצור המרכזי של העולם המוסרי. ולא היתה לה שום סיבה להמנע מהכפיל את העניין פעמיים, שהרי הייתה הכפלה זו מתאימה לשיטה של כלל ואחריו פרט, הרגילה לא רק בספרות המקראית, אלא גם ביתר הספרויות של המזרח הקדמון.</span>"
+  }
+ ],
+ "ssn": 820,
+ "status": "public",
+ "summary": "1952 (תשי\"ב)<br><a href=\"http://www.nechama.org.il/pdf/820.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשי\"ב - בהשוואת פרק א' ופרק ב'",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

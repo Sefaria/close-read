@@ -138,6 +138,14 @@ PANEL_PROBE = """(exp) => {
   for (const v of exp.verses) {
     const c = contents.find(el => el.dataset.ref === v.ref);
     if (!c) { out.push(`${exp.group}: verse [${v.ref}] not rendered`); continue; }
+    if (v.image) {
+      if (!c.querySelector('.image-stage img')?.getAttribute('src')) out.push(`${exp.group} [${v.ref}]: image has no src`);
+      for (const id of v.regions) {
+        if (!c.querySelector(`.image-region[data-region="${CSS.escape(id)}"]`) || !c.querySelector(`.image-hole[data-region="${CSS.escape(id)}"]`))
+          out.push(`${exp.group} [${v.ref}]: region '${id}' not drawn — cannot highlight`);
+      }
+      continue;
+    }
     if (v.he && !c.querySelector('.primary-he')?.textContent.trim()) out.push(`${exp.group} [${v.ref}]: Hebrew empty`);
     if (!c.querySelector('.primary-en')?.textContent.trim()) out.push(`${exp.group} [${v.ref}]: English empty`);
     for (const [id, langs] of Object.entries(v.words)) {
@@ -171,7 +179,23 @@ CARD_PROBE = """(exp) => {
   document.querySelectorAll('.primary-text-content.has-highlights').forEach(el => {
     if (!sec.contains(el)) out.push(`has-highlights leaked to section ${el.closest('.cr-section')?.id}`);
   });
-  if (hl.size) {
+  const image = content.classList.contains('image-mode');
+  if (image) {
+    if (hl.size && !content.classList.contains('has-highlights')) out.push('image panel missing has-highlights (rest of page not dimmed)');
+    if (!hl.size && content.classList.contains('has-highlights')) out.push('has-highlights on a step with no highlight');
+    content.querySelectorAll('.image-region').forEach(r => {
+      const on = r.classList.contains('highlighted');
+      if (hl.has(r.dataset.region) && !on) out.push(`region '${r.dataset.region}' not highlighted`);
+      if (!hl.has(r.dataset.region) && on) out.push(`region '${r.dataset.region}' highlighted but not in this step`);
+      if (on && (exp.effect === 'glow' || exp.effect === 'pulse') && !r.classList.contains(exp.effect))
+        out.push(`region '${r.dataset.region}' missing ${exp.effect}`);
+    });
+    for (const id of hl) if (!content.querySelector(`.image-region[data-region="${CSS.escape(id)}"]`)) out.push(`'${id}' has no region in the panel`);
+    const img = content.querySelector('.image-stage img');
+    if (!img.complete || !img.naturalWidth) out.push('image did not load');
+    else if (Math.abs(img.naturalWidth / img.naturalHeight - content.dataset.width / content.dataset.height) > 0.01)
+      out.push(`image is ${img.naturalWidth}×${img.naturalHeight} but data says ${content.dataset.width}×${content.dataset.height} (regions would be misplaced)`);
+  } else if (hl.size) {
     if (!content.classList.contains('has-highlights')) out.push('panel missing has-highlights (rest of verse not dimmed)');
     for (const id of hl) {
       const sp = content.querySelectorAll(`.word-group[data-word="${CSS.escape(id)}"]`);
@@ -253,6 +277,23 @@ CARD_PROBE = """(exp) => {
     });
   }
 
+  if (image) {
+    const vp = content.querySelector('.image-viewport').getBoundingClientRect();
+    if (vp.height < 80) out.push(`image viewport only ${Math.round(vp.height)}px tall`);
+    for (const id of hl) {
+      const r = content.querySelector(`.image-region[data-region="${CSS.escape(id)}"]`)?.getBoundingClientRect();
+      if (!r) continue;
+      let why = null;
+      if (r.top < -1 || r.bottom > vh + 1) why = 'off screen';
+      else if (r.left < vp.left - 1 || r.right > vp.right + 1 || r.top < vp.top - 1 || r.bottom > vp.bottom + 1) why = 'cut off by the image viewport';
+      else {
+        const h = document.elementFromPoint(r.left + r.width / 2, r.top + r.height / 2);
+        if (!h || !content.contains(h)) why = `covered by ${h ? describe(h) : 'nothing'}`;
+      }
+      if (why) out.push(`highlighted region '${id}' ${why}`);
+    }
+  }
+
   // ── the card itself ──
   const inner = card.querySelector('.card-inner');
   const text = inner.innerText.trim();
@@ -322,6 +363,8 @@ def test_scroll_path(page, base_url, slug, path, owned):
             "group": g.dom_id,
             "verses": [{
                 "ref": v["ref"],
+                "image": v.get("mode") == "image",
+                "regions": list((v.get("regions") or {}).keys()),
                 "he": bool(v.get("he") or v.get("left", {}).get("he")),
                 "words": {k: [l for l in ("he", "en") if w.get(l)] for k, w in (v.get("words") or {}).items()},
             } for v in verses_of_group(g)],
@@ -354,6 +397,8 @@ def test_scroll_path(page, base_url, slug, path, owned):
                 }""", arg=[c["step"], c["group"], c["verse_ref"]], timeout=3000)
         except Exception:
             pass  # the probe below says exactly what is wrong
+        if c["verse_mode"] == "image":
+            page.wait_for_timeout(2600)  # let the zoom transition (1.35–2.5 s) settle
         problems += [f"{where}: {p}" for p in page.evaluate(CARD_PROBE, c)]
 
     problems += page.problems

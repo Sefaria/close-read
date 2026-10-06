@@ -1,0 +1,578 @@
+{
+ "dateCreated": "2019-03-06T05:31:40.006453",
+ "dateModified": "2019-03-07T02:19:20.456314",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Sanhedrin 84a:16",
+  "Ibn Ezra on Genesis 1:26:1",
+  "Sanhedrin 84a:13",
+  "Sanhedrin 84a:11",
+  "Sanhedrin 84a:5",
+  "Shadal on Genesis 1:26:1",
+  "Sanhedrin 84a:15",
+  "Sanhedrin 84a:2",
+  "Sanhedrin 84a:8",
+  "Sanhedrin 84a:4",
+  "Sanhedrin 84a:3",
+  "Rashi on Genesis 1:26:1",
+  "Rashi on Genesis 1:22:1",
+  "Sanhedrin 84a:10",
+  "Genesis 1:28",
+  "Rashi on Genesis 1:26:2",
+  "I Kings 12:9",
+  "Psalms 8:7",
+  "Rashi on Genesis 2:8:1",
+  "Sanhedrin 84a:17",
+  "Sanhedrin 84a:12",
+  "Genesis 1:27",
+  "Sanhedrin 84a:14",
+  "Genesis 1:25",
+  "Tosefta Sanhedrin 8:3",
+  "II Samuel 24:14",
+  "Rashi on Genesis 1:27:3",
+  "Genesis 1:24",
+  "Sanhedrin 84a:1",
+  "II Samuel 16:20",
+  "Sanhedrin 84a:6",
+  "Sanhedrin 84a:7",
+  "Sanhedrin 84a:9",
+  "Sanhedrin 84a:18",
+  "Ramban on Genesis 1:26:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161776,
+ "includedRefs": [
+  "Rashi on Genesis 1:22:1",
+  "Genesis 1:24",
+  "Genesis 1:25",
+  "Genesis 1:27",
+  "Rashi on Genesis 1:27:3",
+  "Rashi on Genesis 2:8:1",
+  "Genesis 1:27",
+  "Genesis 1:28",
+  "Psalms 8:7",
+  "Rashi on Genesis 1:26:1",
+  "Rashi on Genesis 1:26:1",
+  "Rashi on Genesis 1:26:2",
+  "Ibn Ezra on Genesis 1:26:1",
+  "Ibn Ezra on Genesis 1:26:1",
+  "Ramban on Genesis 1:26:1",
+  "Shadal on Genesis 1:26:1",
+  "II Samuel 24:14",
+  "I Kings 12:9",
+  "II Samuel 16:20",
+  "Genesis 1:27",
+  "Sanhedrin 84a",
+  "Tosefta Sanhedrin 8:3"
+ ],
+ "nextNode": 47,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות כלליות</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. <a class=\"refLink\" href=\"/Genesis 1:24\" data-ref=\"Genesis 1:24\" target=\"_blank\">לפסוקים כ\"ד-כ\"ה</a> שואל אברבנאל:<br>למה יוחדו הדגים והעופות בברכה, ולא זכו אליה חית השדה והבהמה, שלא נאמר בבריאתם ברכת פריה ורביה?"
+  },
+  {
+   "node": 3,
+   "outsideText": "נסה לענות לשאלתו (תשובה שונה מתשובתו של רש\"י להלן)."
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:כ״ב:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:22:1",
+   "text": {
+    "en": "ויברך אותם AND HE BLESSED THEM — Because people decreased their number, hunting them and eating them, they needed a blessing (Genesis Rabbah 11:2); it is true that beasts also were in need of a blessing, but on account of the serpent that was to be cursed in the future, He did not bless them, in order that it might not be included in the blessing.",
+    "he": "ד\"ה ויברך: לפי שמחסרים אותם וצדין מהם ואוכלין אותם, הוצרכו לברכה, ואף החיות הוצרכו לברכה, אלא מפני הנחש שעתיד לקללה, לכך לא בירכן שלא יהא הוא בכלל). "
+   }
+  },
+  {
+   "heRef": "בראשית א׳:כ״ד",
+   "node": 5,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Genesis 1:24",
+   "text": {
+    "en": "And God said: ‘Let the earth bring forth the living creature after its kind, cattle, and creeping thing, and beast of the earth after its kind.’ And it was so.",
+    "he": "\"תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה וָרֶמֶשׂ וְחַיְתוֹ אֶרֶץ לְמִינָהּ וַיְהִי כֵן... \""
+   }
+  },
+  {
+   "heRef": "בראשית א׳:כ״ה",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:25",
+   "text": {
+    "en": "And God made the beast of the earth after its kind, and the cattle after their kind, and every thing that creepeth upon the ground after its kind; and God saw that it was good.",
+    "he": "נראה סותר לנאמר בפסוק כ\"ה:<br>\"<b>וַיַּעַשׂ אֱ-לֹהִים</b> אֶת חַיַּת הָאָרֶץ לְמִינָהּ וְאֶת הַבְּהֵמָה לְמִינָהּ וְאֵת כָּל רֶמֶשׂ הָאֲדָמָה לְמִינֵהוּ וַיַּרְא אֱ-לֹהִים כִּי טוֹב\""
+   }
+  },
+  {
+   "node": 7,
+   "outsideText": "נסה לישב סתירה זו!"
+  },
+  {
+   "heRef": "בראשית א׳:כ״ז",
+   "node": 8,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Genesis 1:27",
+   "text": {
+    "en": "And God created man in His own image, in the image of God created He him; male and female created He them.",
+    "he": "\"זָכָר וּנְקֵבָה בָּרָא אֹתָם\""
+   }
+  },
+  {
+   "node": 9,
+   "outsideText": "נראה כסותר לנאמר <a class=\"refLink\" href=\"/Genesis 2:18\" data-ref=\"Genesis 2:18\" target=\"_blank\">בפרק ב' פסוקים י\"ח-כ\"ג</a>."
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:כ״ז:ג׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:27:3",
+   "text": {
+    "en": "זכר ונקבה ברא אותם MALE AND FEMALE CREATED HE THEM — And further on (Genesis 2:21) it is said: “and He took one of his ribs etc.” (The two passages appear to be contradictory.) But according to a Midrashic explanation,  He created him at first with two faces, and afterwards He divided him. But the real sense of the verse is: here it tells you that both of them were created on the sixth day, but it does not explain to you how their creation took place; this it explains to you in another place (Genesis Rabbah 8:1 and see Eruvin 18a) . ",
+    "he": "ד\"ה זכר ונקבה: ...ופשוטו של מקרא כאן הודיעך שנבראו שניהם בששי, ולא פירש לך כיצד ברייתן, ופירש לך במקום אחר."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ח׳:א׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:8:1",
+   "text": {
+    "en": "מקדם EASTWARD — In the east of Eden He planted the garden. Should you say, however, it is already written, (1:27) “and He created the man etc.”, then I say that I have seen the Baraitha of R. Eliezer the son of R. José the Galilean, dealing with the thirty two rules of interpretation according to which the Torah (Agada) can be interpreted, and the following is one of them: when a general statement of an action is followed by a detailed account of it, the latter is a particularisation of the former: — “And He created the man” is a general statement, but it does not explicitly state whence he was created and what God did unto him. Now it repeats it and explains these things: “And the Lord God formed man”, “and He made to grow for him the garden of Eden”, and He caused a deep sleep to fall upon him.” He who hears this might think that it is a different account entirely, whereas it is nothing else but the details of the former general statement. Similarly with reference to the cattle the creation of which has been mentioned above (1:27). it resumes and writes, (2:19) “and out of the ground the Lord [God] formed every beast of the field etc.”, for the purpose of explaining “and He brought them unto the man to give them names”, and also to state that the fowls were created from the swamps. ",
+    "he": "ד\"ה מקדם:  ...ואם תאמר הרי כבר נאמר ויברא וגו' את האדם וגו', ראיתי בברייתא של ר' אליעזר בנו של ר' יוסי הגלילי מל\"ב מידות שהתורה נדרשת, וזו אחת מהן: כלל שלאחריו מעשה, הוא פרטו של ראשון \"ויברא\" וגו' \"את האדם\" - זהו כלל. סתם בריאתו מהיכן, וסתם מעשיו. חזר ופירש \"וייצר ה' אלוהים\" וגו' ויצמח לו גן בעדן ויניחהו בגן עדן ויפל עליו תרדמה. השומע סבור שהוא מעשה אחר, ואינו אלא פרטו של ראשון. וכן אצל הבהמה חזר וכתב \"ויצר ה'\" וגו' \"מן האדמה כל חית השדה\", כדי לפרש \"ויבא אל האדם\" לקרות שם, וללמד על העופות שנבראו מן הרקק. "
+   }
+  },
+  {
+   "node": 12,
+   "outsideText": "רש\"י מישב סתירה זו, באומרו כי התורה הולכת כאן בדרך סגנונית מיוחדת."
+  },
+  {
+   "node": 13,
+   "outsideText": "מהי הדרך הזו?"
+  },
+  {
+   "node": 14,
+   "outsideText": "היכן מצינו עוד - בפרשת בראשית - שהתורה הולכת בדרך זו?"
+  },
+  {
+   "node": 15,
+   "outsideText": "היכן מצינו עוד מקומות בתנ\"ך, בהם מסופר סיפור בדרך זו?"
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות מבנה וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:כ״ז",
+   "node": 17,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 1:27",
+   "text": {
+    "en": "And God created man in His own image, in the image of God created He him; male and female created He them.",
+    "he": "\"וַיִּבְרָא אֱ-לֹהִים אֶת הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם\""
+   }
+  },
+  {
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו:</span><br><span style=\"color: rgb(51,51,51);\">כאן מתרומם הסגנון ונעשה שיריי... מבנהו השיריי של הפסוק, לשונו החגיגית, הפתוס המיוחד שבו, מעידים על החשיבות המיוחדת, שהתורה מייחסת לבריאת האדם, המעולה שבנבראים.</span>"
+  },
+  {
+   "node": 19,
+   "outsideText": "הראה שיש בסגנון פסוקנו כל התכונות הללו!"
+  },
+  {
+   "heRef": "בראשית א׳:כ״ח",
+   "node": 20,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 1:28",
+   "text": {
+    "en": "And God blessed them; and God said unto them: ‘Be fruitful, and multiply, and replenish the earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that creepeth upon the earth.’",
+    "he": "\"וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל חַיָּה הָרֹמֶשֶׂת עַל הָאָרֶץ...\""
+   }
+  },
+  {
+   "heRef": "תהילים ח׳:ז׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Psalms 8:7",
+   "text": {
+    "en": "Thou hast made him to have dominion over the works of Thy hands; Thou hast put all things under His feet:",
+    "he": "ל<a class=\"refLink\" href=\"/Psalms 8:7\" data-ref=\"Psalms 8:7\" target=\"_blank\">תהלים פרק ח' פסוקים ז'-ח'</a><br>\"כֹּל שַׁתָּה תַחַת רַגְלָיו צֹנֶה וַאֲלָפִים כֻּלָּם וְגַם בַּהֲמוֹת שָׂדָי\""
+   }
+  },
+  {
+   "node": 22,
+   "outsideText": "לפי איזה סדר נמנו הבריות בפסוקנו, ולפי איזה סדר במזמור בתהלים?"
+  },
+  {
+   "node": 23,
+   "outsideText": "<table><tbody><tr><td><big>ג. ללשון הרבים \"נעשה אדם\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:כ״ו:א׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:26:1",
+   "text": {
+    "en": "נעשה אדם WE WILL MAKE MAN — The meekness of the Holy One, blessed be He, they (the Rabbis) learned from here: because the man is in the likeness of the angels and they might envy him, therefore He took counsel with them (Midrash Tanchuma, Shemot 18 and see Genesis Rabbah 8). And when He judges the kings He likewise consults His heavenly council, for thus we find in the case of Ahab to whom Micha said, (1 Kings 22:19) “I saw the Lord sitting on His throne, and all the host of heaven standing by Him on His right hand and on His left.” Has God, then, a right hand and a left hand? But it means that some stood on the right side to plead in favour of the accused and others stood on the left side to accuse; and similarly we read (Daniel 4:14), “the matter is by the decree of the watchers, and the sentence by the word of the holy ones”, — here, also, He consulted His heavenly council and asked permission of them, saying to them: “There are in the heavens beings after My likeness; if there will not be on earth also beings after My likeness, there will be envy among the beings that I have created” (Sanhedrin 38b).",
+    "he": "\"נַעֲשֶׂה אָדָם\""
+   }
+  },
+  {
+   "node": 25,
+   "outsideText": "כל מפרשי התורה מימות חז\"ל ואילך מתקשים בלשון רבים של \"נעשה\" ומשתדלים לפרשה, כל אחד לפי דרכו. ועיין קצות דרכיהם:"
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:כ״ו:א׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:26:1",
+   "text": {
+    "en": "נעשה אדם WE WILL MAKE MAN — The meekness of the Holy One, blessed be He, they (the Rabbis) learned from here: because the man is in the likeness of the angels and they might envy him, therefore He took counsel with them (Midrash Tanchuma, Shemot 18 and see Genesis Rabbah 8). And when He judges the kings He likewise consults His heavenly council, for thus we find in the case of Ahab to whom Micha said, (1 Kings 22:19) “I saw the Lord sitting on His throne, and all the host of heaven standing by Him on His right hand and on His left.” Has God, then, a right hand and a left hand? But it means that some stood on the right side to plead in favour of the accused and others stood on the left side to accuse; and similarly we read (Daniel 4:14), “the matter is by the decree of the watchers, and the sentence by the word of the holy ones”, — here, also, He consulted His heavenly council and asked permission of them, saying to them: “There are in the heavens beings after My likeness; if there will not be on earth also beings after My likeness, there will be envy among the beings that I have created” (Sanhedrin 38b).",
+    "he": "ד\"ה נעשה אדם (1): ענותנותו של הקדוש ברוך הוא למדנו מכאן, לפי שהאדם הוא בדמות המלאכים ויתקנאו בו, לפיכך נמלך בהן. וכשהוא דן את המלכים הוא נמלך בפמליא שלו, שכן מצינו באחאב שאמר לו מיכה (<a class=\"refLink\" href=\"/I Kings 22\" data-ref=\"I Kings 22\" target=\"_blank\">מלכים א' כב</a>) \"ראיתי את ה' יושב על כסאו וכל צבא השמים עומדים עליו מימינו ומשמאלו\", וכי יש ימין ושמאל לפניו? אלא אלו מיימינים לזכות, ואלו משמאילים לחובה. וכן (<a class=\"refLink\" href=\"/Daniel 4\" data-ref=\"Daniel 4\" target=\"_blank\">דניאל ד</a>) \"בגזירת עירין פתגמא ובמאמר קדישין שאלתא\". אף כאן בפמליא שלו נטל רשות. אמר להם: יש בעליונים כדמותי. אם אין כדמותי בתחתונים, הרי יש קנאה במעשה בראשית; "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:כ״ו:ב׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:26:2",
+   "text": {
+    "en": "נעשה אדם WE WILL MAKE MAN — Although they did not assist Him in forming him (the man) and although this use of the plural may give the heretics an occasion to rebel (i. e. to argue in favour of their own views), yet the verse does not refrain from teaching proper conduct and the virtue of humbleness, namely, that the greater should consult, and take permission from the smaller; for had it been written, “I shall make man”, we could not, then, have learned that He spoke to His judicial council but to Himself. And as a refutation of the heretics it is written immediately after this verse “And God created the man”, and it is not written “and they created” (Genesis Rabbah 8:9)",
+    "he": "ד\"ה נעשה אדם (2): אף על פי שלא סייעוהו ביצירתו, ויש מקום למינים לרדות, לא נמנע הכתוב מללמד דרך ארץ ומידת ענוה, שיהא הגדול נמלך ונוטל רשות מן הקטן. ואם כתב: אעשה אדם, לא למדנו שהיה מדבר עם בית דינו אלא עם עצמו, ותשובתו כתובה בצדו \"ויברא את האדם\", ולא כתיב ויבראו."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית א׳:כ״ו:א׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 1:26:1",
+   "text": {
+    "en": "\"Let us make man\" - there are those who say that the word <i>na'aseh</i>  is passive participle in the <i>Nif'al</i> verb construction, like, \"and which was made (<i>na'aseh</i>) for one day\" Nehemiah 5:18, and they [also] said that \"in our image\", \"after our likeness\" are the words of Moshe. Its meaning [would be]: G-d created man in his [own] image, where the <i>vav</i> [i.e., the pronominal suffix] refers back to man. And they would [further] explain: In the image of G-d, that the word \"G-d\" is attached to the word \"made\", as though it said that G-d made man in an image. But this is an explanation which lacks sense [<i>haser lev</i>], for the first passage should then have been thus: \"And G-d said, 'let man be made'\", and likewise, He made him \"in his image\" - how can \"his\" (the <i>vav</i> of <i>b'tzalmo</i>) refer to man, for then, he would have had an image before he would be [created]! And [further], what reason would there be [in the verse] such that “the one who spills the blood of man, by man shall his blood be shed” – because man was made in his own image? There was an image for all living creatures! Now the <i>Gaon</i> said that me explanaion of “in our image, after our likeness” is regarding dominion. The meaning [of the verse] would [then] be: in the image that He as as good and appropriate though wisdom. And due to the honor owed man, the text attributes it to G-d, and likewise [with the verse] “and from his land did he go forth” Ezekiel 36:20, for to Hashem is the earth and its fullness. And he said [further] that the word <i>na’aseh</i>, though it is in plural, is the manner of royal speak [i.e., the plural of majesty]. Similarly, “we shall give <i>nitnah</i> to you also this one” Genesis 29:27. “We say before the king” Daniel 2:36, “perhaps I will be able and we will smite him” Numbers 22:6. But these witnesses are false witnesses, for  <i>nitnah</i> is [actually] the <i>nif’al</i> verb construction, and similarly “the city is given” <i>nitnah</i> Jeremiah 32:24, and the <i>vav</i> converts it to the future tense, like is the rule with all past-tense verbs, meaning “she will be given to you”. And “we shall smite him” – he [Balak] and his camp, or it could be the infinitive of the verb, like “clease <i>nakeh</i>, I shall not clease you” Jeremiah 46:28. And even though we do find “they were not smitten” Exodus 9:32, [nevertheless], only that verb construction (<i>pu'al</i>) lacks an infinitive form – and R. Moshe of Spain erred in his book [on this matter]. And the word “we shall say (before the king)” Daniel 2:37 is Aramaic, and [further], how could Daniel speak hautily with Nebuchadnezzar, who was the king of kings? Now I shall explain: Know that all of the work of creation was created for the honor of man at the command of Hashem. The plants – the earth and the water brought them forth, and all the living souls [i.e., the animals]. And afterwards, Hashem said to the angels, “let US make man” – WE will busy ourselves with him, not the water and the earth. Now, since we know that he Torah speaks in the language of human beings, for the one who speaks is [as it were] a human [character], as well as the one who listens, and one cannot speak to one above or below his level, except by means of human imagery. Likewise, it says, \"the mouth of the earth\", \"the hand of the Jorden [river]\", \"the head of the ores of the earth\", and G-d forbid there should be [attributed] a physical form to Hashem, for thus it says: “to whom shall you compare Me?” Isaiah 25. Now since the human soul is most exalted, for it is immortal, it is compare in it livingness to Hashem, who is not corporal yet fills everything. Now the human body is like a microcosm. May G-d we blessed, Who began with the great and concluded with the small. Likewise did the prophet say that he saw the glory/manifestation of G-d like the image of man (see Ezekiel 1:28). Now Hashem is one, and He creates all, and He is all, and I cannot expound this further. Man was initially created as a dual-faced creature and yet he is one, and yet he is also two, and behold, an angel is in the image of G-d. He was created male and female. The word for “fruitfulness” and “multiplication” is a blessing, as with the creation of water, yet it is [also] a command as transmitted by our ancient [Sages], (may their remembrance be a  blessing!), and they used this verse as a mnemonic for this [matter].",
+    "he": "(1) ד\"ה נעשה אדם: יש אומרים כי מילת \"נעשה\" שם התואר מבנין נפעל, כמו \"ואשר היה נעשה ליום אחד\". ואמרו, כי \"בצלמנו כדמותנו\" דברי משה. ופירושו - ויברא אלוהים את האדם בצלמו שהוי\"ו שב אל האדם, ויפרשו \"בצלם אלוהים\", שהאלוהים דבק עם עשה, כאילו אמר כי האלוהים עשה את האדם בצלם. וזה הפירוש חסר לב כי היה הראשון ראוי להיות כן ויאמר אלוהים יהי נעשה אדם. וכן עשהו בצלמו. גם וי\"ו בצלמו איך ישוב אל האדם, והנה יש לו צלם קודם שיהיה? ומה טעם יש כי \"שופך דם האדם באדם דמו יישפך\" בעבור שנברא האדם בצלם, גם לכל נפש חיה צלם."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית א׳:כ״ו:א׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 1:26:1",
+   "text": {
+    "en": "\"Let us make man\" - there are those who say that the word <i>na'aseh</i>  is passive participle in the <i>Nif'al</i> verb construction, like, \"and which was made (<i>na'aseh</i>) for one day\" Nehemiah 5:18, and they [also] said that \"in our image\", \"after our likeness\" are the words of Moshe. Its meaning [would be]: G-d created man in his [own] image, where the <i>vav</i> [i.e., the pronominal suffix] refers back to man. And they would [further] explain: In the image of G-d, that the word \"G-d\" is attached to the word \"made\", as though it said that G-d made man in an image. But this is an explanation which lacks sense [<i>haser lev</i>], for the first passage should then have been thus: \"And G-d said, 'let man be made'\", and likewise, He made him \"in his image\" - how can \"his\" (the <i>vav</i> of <i>b'tzalmo</i>) refer to man, for then, he would have had an image before he would be [created]! And [further], what reason would there be [in the verse] such that “the one who spills the blood of man, by man shall his blood be shed” – because man was made in his own image? There was an image for all living creatures! Now the <i>Gaon</i> said that me explanaion of “in our image, after our likeness” is regarding dominion. The meaning [of the verse] would [then] be: in the image that He as as good and appropriate though wisdom. And due to the honor owed man, the text attributes it to G-d, and likewise [with the verse] “and from his land did he go forth” Ezekiel 36:20, for to Hashem is the earth and its fullness. And he said [further] that the word <i>na’aseh</i>, though it is in plural, is the manner of royal speak [i.e., the plural of majesty]. Similarly, “we shall give <i>nitnah</i> to you also this one” Genesis 29:27. “We say before the king” Daniel 2:36, “perhaps I will be able and we will smite him” Numbers 22:6. But these witnesses are false witnesses, for  <i>nitnah</i> is [actually] the <i>nif’al</i> verb construction, and similarly “the city is given” <i>nitnah</i> Jeremiah 32:24, and the <i>vav</i> converts it to the future tense, like is the rule with all past-tense verbs, meaning “she will be given to you”. And “we shall smite him” – he [Balak] and his camp, or it could be the infinitive of the verb, like “clease <i>nakeh</i>, I shall not clease you” Jeremiah 46:28. And even though we do find “they were not smitten” Exodus 9:32, [nevertheless], only that verb construction (<i>pu'al</i>) lacks an infinitive form – and R. Moshe of Spain erred in his book [on this matter]. And the word “we shall say (before the king)” Daniel 2:37 is Aramaic, and [further], how could Daniel speak hautily with Nebuchadnezzar, who was the king of kings? Now I shall explain: Know that all of the work of creation was created for the honor of man at the command of Hashem. The plants – the earth and the water brought them forth, and all the living souls [i.e., the animals]. And afterwards, Hashem said to the angels, “let US make man” – WE will busy ourselves with him, not the water and the earth. Now, since we know that he Torah speaks in the language of human beings, for the one who speaks is [as it were] a human [character], as well as the one who listens, and one cannot speak to one above or below his level, except by means of human imagery. Likewise, it says, \"the mouth of the earth\", \"the hand of the Jorden [river]\", \"the head of the ores of the earth\", and G-d forbid there should be [attributed] a physical form to Hashem, for thus it says: “to whom shall you compare Me?” Isaiah 25. Now since the human soul is most exalted, for it is immortal, it is compare in it livingness to Hashem, who is not corporal yet fills everything. Now the human body is like a microcosm. May G-d we blessed, Who began with the great and concluded with the small. Likewise did the prophet say that he saw the glory/manifestation of G-d like the image of man (see Ezekiel 1:28). Now Hashem is one, and He creates all, and He is all, and I cannot expound this further. Man was initially created as a dual-faced creature and yet he is one, and yet he is also two, and behold, an angel is in the image of G-d. He was created male and female. The word for “fruitfulness” and “multiplication” is a blessing, as with the creation of water, yet it is [also] a command as transmitted by our ancient [Sages], (may their remembrance be a  blessing!), and they used this verse as a mnemonic for this [matter].",
+    "he": "(2) ד\"ה נעשה אדם: ...ויאמר הגאון כי פירוש \"בצלמנו כדמותנו\" בממשלה, וטעמו בצלם שראה בחכמה כי טובה היא, ובעבור כבוד האדם סמכו אל האלוהים. וכן \"ומארצו יצאו\", כי לה' הארץ ומלואה. ואמר במילת נעשה, ואם היה לשון רבים שכן מנהג המלכים לדבר, וכמוהו \"ונתנה לך גם את זאת\". נאמר קדם מלכא, \"אולי אוכל נכה בו\". ואלה העדים עדי שקר הם, כי \"ונתנה לך\" בנין נפעל. וכמוהו \"והעיר נתנה\", והוי\"ו השיבו לעתיד כמשפט כל פועל עבר, והטעם ותינתן לך. ו\"נכה בו\" - הוא ומחנהו, או יהיה שם הפועל כמו \"ונקה לא אנקך\"."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית א׳:כ״ו:א׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 1:26:1",
+   "text": {
+    "en": "<b>And God said, \"Let us make man:\"</b> A [separate] proclamation was designated for the creation of man, because of his stature - since his nature is not like the nature of animals and beasts that He created in the proclamation that precedes it. And the correct simple meaning of the word, 'let us make,' is that which you have already been shown, to know (above, verse 1) that God created something from nothing on the first day alone, and afterwards He formed and made [everything] from the fundamental elements. And when He gave power of swarming in the water to swarm living creatures, the proclamation was (verse 20), \"let the waters swarm;\" and the proclamation with the animals was (verse 24) \"let the earth bring forth;\" [and] with man He said, \"let us make.\" That is to say, I and the earth - that was mentioned - let us make man: the earth will bring forth the body form the elements as it did with the beasts and the animals, as it is written (Genesis 2:7), \"And the Lord, God, formed man, dust from the earth;\" and He, may He be blessed, gave him the spirit from the mouth of the Highest, as it is written (Ibid.) and He blew into his nostrils, a living soul.\" And it stated, \"in our image, in our likeness,\" since he would be similar to both of them: in the configuration of his body, to the earth from which he was taken; and he would resemble the higher ones in his soul, which is not a body and does not die. And the second verse (27) states, \"in the image of God did He create him,\" to tell of the wonder which separates him from all the creatures. And this simple explanation of the verse I found from Rabbi Yosef Kimchi and it is the most plausible of all that have been thought. And the explanation of [the word,] image (<i>tselem</i>), is like an appearance, [as in] (Daniel 3:19), \"and the appearance of his face changed,\" and also (Psalms 39:7) \"As an appearance does man walk,\" and (Psalms 73:20) \"in the city will You disgrace their appearance,\" [meaning] the description of what he looked like. And likeness (<i>demut</i>) [means] similarity in form or action; such that [things] that share a resemblance in a matter are called likenesses of each other. And behold man is similar to the lower beings and the upper beings in [his] appearance and his glory. As it is written (Psalms 8:6), \"and with honor and glory have you crowned him\" [concerning his resemblance to the upper beings], and this refers to the direction of his countenance towards wisdom and knowledge and skilled action. And in his likeness, his body completely resembles the dirt, and his soul, the upper creatures. <b>Let them have dominion over the fish of the sea:</b> Because of [man's] being male and female, it states, \"let <i>them</i> have dominion  over the fish of the sea,\" in the plural. And in Bereishit Rabbah 7:5, they said, \"'let the earth bring forth living creatures (souls) according to their species' (verse 24), Rabbi Elazar said, 'living souls, this is the spirit of man.'\" And it is not at all possible that Rabbi Elazar would explain that \"let the earth bring forth...\" is to be explained as referring to the soul of Adam. But rather, he intended to say that which I mentioned: that the formation of the spirit of man which is in his blood was made from the ground, as per the proclamation for the animals and the beasts - as all souls of movement were made together; and afterwards, He made bodies for them - first He made the bodies of the beasts and the animals, and afterwards, the body of man and He put into him a soul; and after that, He blew into him a higher soul, [meaning that] it was that separated soul that had a different proclamation designated for it, by God who gave it, as it is written (Genesis 2:7), \"and He breathed into his nostrils a living soul.\" And the true way in this verse will be known to the one that understands the [next] verse and it is possible that Rabbi Elazar intended this and expounded [the verse], \"let the earth (<i>haarets</i>) bring forth,\" as the 'land (<i>erets</i>) of the living' which should bring forth a soul of its type that will exist forever. And so [too], what it stated (verse 27), \"male and female He created them,\" is because the creation at the beginning was from the male and the female and [man's] soul was included in both of them; but the [subsequent] formation was [only] a formation for the man and  a building [from man's] side (rib) for the woman, as is told at the end. And for this reason, creation is mentioned here and formation in the section below. And the learned one will understand. And the [meaning] of \"and they will have dominion\" is that they should rule powerfully over the fish and the fowl and the beast and all that crawls. And the beasts [in this verse] includes the animals (which are not mentioned separately). And it states, \"and over all the earth,\" [to mean] that they should rule over the earth itself: to uproot and to smash and to dig and to quarry copper and iron. And the expression, dominion (<i>rediyah</i>), [is like the] rulership of a master over his slave.",
+    "he": "ד\"ה ויאמר אלוהים: ...והפשט הנכון במילת \"נעשה\" הוא, מפני שכבר הָראית לדעת (לעיל פסוק א') כי האלוהים ברא יש מאין ביום הראשון לבדו, ואחר כך מן היסודות ההם הנבראים יצר ועשה. וכאשר נתן במים כח השירוץ לשרוץ נפש חיה והיה המאמר בהם \"ישרצו המים\", והיה המאמר בבהמה \"תוצא הארץ\", אמר באדם \"נעשה\", כלומר אני והארץ הנזכרת - נעשה אדם, שתוציא הארץ הגוף מיסודיה כאשר עשתה בבהמה ובחיה, כדכתיב (להלן ב' ז') \"וייצר ה' אלוהים את האדם עפר מן האדמה\", ויתן הוא יתברך הרוח מפי עליון, כדכתיב (שם) \"ויפח באפיו נשמת חיים\". \nואמר \"בצלמנו כדמותנו - כי ידמה לשניהם, במתכונת גופו לארץ אשר לוקח ממנה, וידמה ברוח לעליונים, שאינה גוף, ולא תמות. ואמר בכתוב השני \"בצלם אלוהים ברא אותו\", לספר הפלא אשר נפלא בו משאר הנבראים. וזה פשט המקרא הזה, מצאתיו לרבי יוסף הקמחי, והוא הנראה מכל מה שחשבו בו."
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית א׳:כ״ו:א׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 1:26:1",
+   "text": {
+    "en": "<b>\"Let us make:\"</b> It appears to me that this is also an ancient mode of expression, in the way of Aramaic. And the intention is not that He should consult with others, like angels; since it states \"in Our image,\" and man is not in the image of the angels. It is also not an expression of honor, like the speech of kings [who refers to themselves as 'we']. Rather, this is the way of Aramaic, as in (Daniel 2:36) \"and its interpretation will we say in front of the king;\" and Daniel would not have used an expression of honor for himself when he was speaking with the big king (as is attested by Rabbi Avraham Ibn Ezra). And this manner [of speaking] is used frequently by the Talmud Yerushalmi and the midrashim: for example, \"[Shimon ben Shetach] said to [Yannai], 'And what should we say [to introduce the Grace over the Meal], \"for the food which we have not eaten?\"'\" (Yerushalmi Berakhot 7:2); \"I too, we will solve it according to the opinion of the rabbis in the graveyard\" (Shir HaShirim Rabbah on the verse \"O, my dove, in the clefts of the rock\" [2:14]); and also, \"Were it only that I had a mother and father that I could honor, so that we would inherit the Garden of Eden\" (Yerushalmi Peah 1:1). And Ros. wrote that this is the way of the Holy Language (Biblical Hebrew), to [use] plural when [speaking] about [one]self, as in (II Samuel 24:14) \"Let us please fall in the hand of the Lord.\" And that is not a proof, since David was not speaking only about himself [in that verse], but [rather] about himself and about his people. And so [too] with Rechavam  when he said (I Kings 12:9), \"What do you advise and we will [respond] to the people\", since he combined himself with his advisers;  and so [too] Avshalom when he said (I Samuel 16:20), \"give your advice, [about] what we shall do.\"",
+    "he": "נראה לי, דזוהי מליצה ישנה על דרך לשון ארמית כמו (<a class=\"refLink\" href=\"/Daniel 2:36\" data-ref=\"Daniel 2:36\" target=\"_blank\">דניאל ב' ל\"ו</a>) \"ופשרה נאמר קדם מלכא\", ודניאל לא היה מדבר בלשון כבוד לעצמו. ודרך זו מצוי הרבה בתלמוד ירושלמי ובמדרשיהם, כגון (ברכות) \"אמר ליה שמעון בן שטח לינאי: ומה נאמר על המזון שלא אכלנו\"."
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהן דעות המפרשים הנ\"ל בשאלת לשון רבים של \"נעשה\"?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהו הקושי השני המתורץ בדברי היש אומרים המובא בראב\"ע (1)?"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  במה סותר ראב\"ע את דברי היש אומרים?"
+  },
+  {
+   "node": 35,
+   "outsideText": "האפשר להביא ראיה לדברי רב סעדיה גאון (ראב\"ע 2) מן הפסוקים הבאים:"
+  },
+  {
+   "heRef": "שמואל ב כ״ד:י״ד",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "II Samuel 24:14",
+   "text": {
+    "en": "And David said to Gad, I am in great distress: let us fall now into the hand of the Lord; for his mercies are great: and let me not fall into the hand of man.",
+    "he": "\"וַיֹּאמֶר דָּוִד אֶל גָּד צַר לִי מְאֹד נִפְּלָה נָּא בְיַד ה' כִּי רַבִּים רַחֲמָו וּבְיַד אָדָם אַל אֶפֹּלָה\""
+   }
+  },
+  {
+   "heRef": "מלכים א י״ב:ט׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "I Kings 12:9",
+   "text": {
+    "en": "And he said unto them: ‘What counsel give ye, that we may return answer to this people, who have spoken to me, saying: Make the yoke that thy father did put upon us lighter?’",
+    "he": "\"וַיֹּאמֶר אֲלֵיהֶם מָה אַתֶּם נוֹעָצִים וְנָשִׁיב דָּבָר אֶת הָעָם הַזֶּה אֲשֶׁר דִּבְּרוּ אֵלַי לֵאמֹר הָקֵל מִן הָעֹל אֲשֶׁר נָתַן אָבִיךָ עָלֵינוּ\""
+   }
+  },
+  {
+   "heRef": "שמואל ב ט״ז:כ׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "II Samuel 16:20",
+   "text": {
+    "en": "Then said Avshalom to Aĥitofel, Give counsel among you what we shall do.",
+    "he": "\"וַיֹּאמֶר אַבְשָׁלוֹם אֶל אֲחִיתֹפֶל הָבוּ לָכֶם עֵצָה מַה נַּעֲשֶׂה\""
+   }
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "5.  במה סותר ראב\"ע את דעת רב סעדיה גאון? (הסבר את ביטויו \"עדי שקר המה\".)"
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "6.  ר' יוסף קמחי (המובא ברמב\"ן) רואה סתירה בין כ\"ו \"בצלמנו\" ובין כ\"ז \"בצלם אלוקים\". מהי הסתירה, וכיצד הוא מיישבה?"
+  },
+  {
+   "node": 41,
+   "outsideText": "<table><tbody><tr><td><big>ד. הטעם שאדם נברא יחידי</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:כ״ז",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:27",
+   "text": {
+    "en": "And God created man in His own image, in the image of God created He him; male and female created He them.",
+    "he": "\"וַיִּבְרָא אֱ-לֹהִים אֶת הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "סנהדרין פ״ד א",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sanhedrin 84a",
+   "text": {
+    "en": "<b>or uncircumcised in flesh may enter My Temple”</b> (Ezekiel 44:9). The Gemara asks: <b>From where do we</b> derive that it is prohibited for <b>an acute mourner</b> priest to perform the Temple service? It is derived from a verse, <b>as it is written</b> with regard to a High Priest whose mother or father died: <b>“And from the Temple he shall not emerge and he shall not desecrate the Temple of his God”</b> (Leviticus 21:12), from which it may be inferred <b>that another,</b> who is not a High Priest but an ordinary priest, <b>who did not emerge</b> from the Temple and who continued to perform the service, <b>has desecrated</b> the service. <b>Rav Adda said to Rava: And let us derive</b> it by means of a verbal analogy: Derive the meaning of the term of <b>desecration</b> written with regard to an acute mourner who performs the Temple service <b>from</b> the term of <b>desecration</b> written with regard to an impure priest who partakes of <b><i>teruma</i>. Just as there,</b> with regard to <i>teruma</i>, he is punished <b>with death</b> at the hand of Heaven, <b>so too here,</b> with regard to an acute mourner who performs the Temple service, he is punished <b>with death</b> at the hand of Heaven. Rava answers: <b>Is</b> desecration <b>written with regard to</b> the matter of a priest who performs the Temple service as an acute mourner <b>itself? It is derived from</b> that which is written with regard to the High Priest, <b>by inference.</b> Therefore, <b>it is a matter that emerges from an inference,</b> and the principle is: <b>Any matter that emerges from an inference cannot be derived by means of a verbal analogy.</b> A verbal analogy can be derived only when the matter is written explicitly. The Gemara asks: <b>From where do we</b> derive <b>that</b> it is prohibited for a priest who is <b>seated</b> to perform the Temple service? <b>Rava says</b> that <b>Rav Naḥman says: The verse states: “For him has the Lord chosen from among all your tribes, to stand and minister</b> in the name of the Lord” (Deuteronomy 18:5). God states in the verse that <b>I chose him for</b> service while he is <b>standing, but not for</b> service while <b>seated.</b> § The <i>baraita</i> continues: With regard to <b>a blemished</b> priest who performs the Temple service, <b>Rabbi</b> Yehuda HaNasi <b>says:</b> He is punished <b>with death</b> at the hand of Heaven, <b>and the Rabbis say:</b> He is liable only <b>for</b> violating <b>a prohibition.</b> The Gemara elaborates: <b>What is the reason</b> for the opinion <b>of Rabbi</b> Yehuda HaNasi? It is <b>as it is written: “But he shall not come into the curtain</b> and he shall not approach the altar as he has a blemish, that he desecrate not My sacred places” (Leviticus 21:23). <b>And</b> Rabbi Yehuda HaNasi <b>derives</b> the punishment by means of a verbal analogy: The meaning of the term of <b>desecration</b> written with regard to a blemished priest who performs the Temple service is derived <b>from</b> the term of <b>desecration</b> written with regard to an impure priest who partakes of <b><i>teruma</i>. Just as there,</b> with regard to <i>teruma</i>, he is punished <b>with death</b> at the hand of Heaven, <b>so too here,</b> with regard to a blemished priest who performs the Temple service, he is punished <b>with death</b> at the hand of Heaven. The Gemara challenges: <b>And let us derive</b> the punishment by means of a different verbal analogy: Derive the meaning of the term of <b>desecration</b> written with regard to a blemished priest who performs the Temple service <b>from</b> the term of <b>desecration</b> written with regard to <b><i>notar</i>. Just as there,</b> with regard to <i>notar</i>, he is punished <b>with <i>karet</i>, so too here,</b> with regard to a blemished priest who performs the Temple service, he is punished <b>with <i>karet</i>.</b> The Gemara explains: <b>It is reasonable</b> to say that <b>he should have derived</b> the punishment for a blemished priest who performs the Temple service <b>from <i>teruma</i>, as</b> the <i>tanna</i> derives <b>the bodily disqualification</b> of a blemished priest <b>from the bodily disqualification</b> of the impure priest. The Gemara challenges: <b>On the contrary, he should have derived</b> the punishment for a blemished priest who performs the Temple service <b>from <i>notar</i>,</b> as there are elements common to <i>notar</i> and a blemished priest who performs the Temple service. Unlike <i>teruma</i>, both are cases involving <b>sacrificial</b> matters; both involve matters performed <b>inside</b> the Temple; and in both cases, the disqualification of <b><i>piggul</i> and</b> the disqualification of <b><i>notar</i></b> are applicable. <b>Rather,</b> Rabbi Yehuda HaNasi <b>derives</b> the <i>halakha</i> of a blemished priest who performed the Temple service <b>from</b> the <i>halakha</i> of <b>an impure</b> priest <b>who performed</b> the Temple <b>service,</b> due to the elements common to both. He derives <b>the bodily disqualification</b> of a blemished priest <b>from the bodily disqualification</b> of an impure priest who performs the Temple service, and he derives the case of a blemished priest, whose case involves <b>sacrificial</b> matters, matters performed <b>inside</b> the Temple, and the relevance of both <b><i>piggul</i> and <i>notar</i>, from</b> the case of an impure priest, whose case involves <b>sacrificial</b> matters, matters performed <b>inside</b> the Temple, and the relevance of both <b><i>piggul</i> and <i>notar</i>.</b> The Gemara asks: <b>And the Rabbis,</b> what is the reason that they hold that he is liable only for violating a prohibition? It is as <b>the verse states:</b> “And die <b>because of it</b> if they desecrate it; I am the Lord Who sanctifies them” (Leviticus 22:9), from which it is derived: <b>“Because of it”</b> they receive death at the hand of Heaven, <b>but not</b> in the case of <b>a blemished</b> priest. The <i>baraita</i> continues: With regard to one who <b>intentionally performed</b> an action of <b>misuse</b> of consecrated property. <b>Rabbi</b> Yehuda HaNasi <b>says:</b> He is punished <b>with death</b> at the hand of Heaven, <b>and the Rabbis say:</b> He is liable only <b>for</b> violating <b>a prohibition.</b> The Gemara elaborates: <b>What is the reason</b> for the opinion <b>of Rabbi</b> Yehuda HaNasi? <b>Rabbi Abbahu says: He derives</b> a verbal analogy: The meaning of the term of <b>sin</b> written with regard to one who intentionally misuses consecrated property (see Leviticus 5:15) is derived <b>from</b> the term of <b>sin</b> written with regard to an impure priest who partakes of <b><i>teruma</i></b> (see Leviticus 22:9). <b>Just as there,</b> with regard to <i>teruma</i>, the priest is punished <b>with death</b> at the hand of Heaven, <b>so too here,</b> one who intentionally misuses consecrated property is punished <b>with death</b> at the hand of Heaven. The Gemara explains: <b>And the Rabbis say</b> that <b>the verse states</b> with regard to <i>teruma</i>: <b>“Because of it”</b> they receive death at the hand of Heaven, <b>but not in</b> the case of the intentional <b>misuse</b> of consecrated property. The Gemara cites a dispute between the Sages with regard to the punishment of <b>a non-priest who performed</b> the Temple <b>service. It is taught</b> in a <i>baraita</i> that <b>Rabbi Yishmael says: It is stated here:</b> “You and your sons with you shall keep your priesthood in everything that pertains to the altar<b>…and any non-priest who approaches shall be put to death [<i>yumat</i>]”</b> (Numbers 18:7), <b>and it is stated there: “Anyone who approaches the Tabernacle of the Lord shall die [<i>yamut</i>]”</b> (Numbers 17:28). <b>Just as there,</b> the reference is to death <b>at the hand of Heaven; so too here,</b> in the case of a non-priest who performs the Temple service, the reference is to death <b>at the hand of Heaven.</b> <b>Rabbi Akiva says</b> that <b>it is stated here: “And any non-priest who approaches shall be put to death [<i>yumat</i>]” and it is stated there: “And that prophet or that dreamer of a dream shall be put to death [<i>yumat</i>]”</b> (Deuteronomy 13:6). <b>Just as there,</b> with regard to the prophet, he is executed <b>by stoning, so too here,</b> a non-priest who performs the Temple service is executed <b>by stoning. Rabbi Yoḥanan ben Nuri says: Just as there,</b> with regard to the prophet, he is executed <b>by strangulation, so too here,</b> a non-priest who performs the Temple service is executed <b>by strangulation.</b> The Gemara asks: <b>With regard to what</b> principle <b>do Rabbi Yishmael and Rabbi Akiva disagree?</b> The Gemara answers: <b>Rabbi Akiva holds:</b> In the verbal analogy, <b>one derives <i>yumat</i> from <i>yumat</i> and one does not derive <i>yumat</i> from <i>yamut</i>. And Rabbi Yishmael holds:</b> Although the terms are not identical, <b>one derives</b> by means of a verbal analogy the <i>halakha</i> of <b>an ordinary</b> person <b>from</b> the <i>halakha</i> of <b>an ordinary</b> person <b>and one does not derive</b> the <i>halakha</i> of <b>an ordinary</b> person <b>from</b> the <i>halakha</i> of <b>a prophet.</b> The Gemara asks: <b>And</b> what does <b>Rabbi Akiva</b> hold? <b>Once</b> the prophet <b>incited</b> others to idol worship, <b>you have no greater</b> example of <b>an ordinary</b> person <b>than that,</b> i.e., he no longer has the status of a prophet. The Gemara asks: <b>With regard to what</b> principle <b>do Rabbi Akiva and Rabbi Yoḥanan ben Nuri disagree?</b> The Gemara answers: They disagree <b>with regard to</b> the issue that is the subject of <b>the dispute of Rabbi Shimon and the Rabbis, as it is taught</b> in a <i>baraita</i>: <b>A prophet who incited</b> others to idol worship is executed <b>by stoning. Rabbi Shimon says:</b> He is executed <b>by strangulation.</b> The Gemara asks: <b>Didn’t we learn</b> in a mishna with regard to a prophet who incites others to idol worship that <b>Rabbi Akiva says:</b> He is executed <b>by strangulation,</b> contrary to Rabbi Akiva’s opinion cited in the <i>baraita</i>? The Gemara answers: These are <b>two <i>tanna’im</i> and</b> they disagree <b>with regard to</b> the opinion <b>of Rabbi Akiva. The mishna,</b> which cites the opinion that Rabbi Akiva holds that a prophet who incited others to idol worship is executed by strangulation, is citing the opinion of <b>Rabbi Shimon in accordance with</b> the opinion <b>of Rabbi Akiva.</b> Rabbi Shimon was his preeminent disciple. <b>The <i>baraita</i>,</b> which cites the opinion that Rabbi Akiva holds that a prophet who incited others to idol worship is executed by stoning, is citing the opinion of <b>the Rabbis,</b> who disagree with Rabbi Shimon, <b>and</b> they too hold <b>in accordance with</b> the opinion <b>of Rabbi Akiva.</b> ",
+    "he": "לפיכך נברא אדם יחידי, ללמדך שכל המאבד נפש אחת מישראל - מעלה עליו הכתוב כאילו איבד עולם מלא, וכל המקיים נפש אחת מישראל - מעלה עליו הכתוב כאילו קיים עולם מלא. ומפני שלום הבריות, שלא יאמר אדם לחברו: אבא גדול מאביך."
+   }
+  },
+  {
+   "heRef": "תוספתא סנהדרין ח׳:ג׳",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Tosefta Sanhedrin 8:3",
+   "text": {
+    "en": "",
+    "he": "אדם נברא יחידי בעולם... שלא יהו משפחות מתגרות זו בזו. ומה עכשיו שנברא יחידי מתגרות זו בזו, אילו נברא שנים - על אחת כמה וכמה.      \n"
+   }
+  },
+  {
+   "node": 45,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "כנגד אילו דעות (הרווחות בייחוד בזמננו) נאמרו דברי חז\"ל אלו?"
+  }
+ ],
+ "ssn": 1125,
+ "status": "public",
+ "summary": "1947 (תש\"ז)<br><a href=\"http://www.nechama.org.il/pdf/1125.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ז - יום השישי",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

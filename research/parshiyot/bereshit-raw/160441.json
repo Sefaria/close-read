@@ -1,0 +1,664 @@
+{
+ "dateCreated": "2019-03-11T02:09:33.484876",
+ "dateModified": "2019-05-01T04:43:01.069696",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 4:22:2",
+  "Bereshit Rabbah 23:3",
+  "Haamek Davar on Genesis 4:17:2",
+  "Ramban on Genesis 4:22:1",
+  "Genesis 4:22",
+  "Rashi on Genesis 4:17:1",
+  "Genesis 4:17",
+  "Rashi on Genesis 4:22:1",
+  "Genesis 4:23",
+  "Ralbag on Torah, Genesis 4:1:4",
+  "Psalms 74:3",
+  "Onkelos Genesis 4:22"
+ ],
+ "group": "גיליונות נחמה",
+ "highlighterTags": [],
+ "id": 160441,
+ "includedRefs": [
+  "Genesis 4:17",
+  "Genesis 4:17",
+  "Rashi on Genesis 4:17:1",
+  "Ralbag on Torah, Genesis 4:1:4",
+  "Genesis 4:17",
+  "Haamek Davar on Genesis 4:17:2",
+  "Genesis 4:22",
+  "Rashi on Genesis 4:22:2",
+  "Ramban on Genesis 4:22:1",
+  "Psalms 74:3",
+  "Onkelos Genesis 4:22",
+  "Genesis 4:22",
+  "Bereshit Rabbah 23:3",
+  "Rashi on Genesis 4:22:1",
+  "Genesis 4:23"
+ ],
+ "nextNode": 45,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "bilingual",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "promptedToPublish": "Mon Mar 18 2019 14:32:04 GMT+0200 (Israel Standard Time)",
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table><tbody><tr><td><big><b>\n\t\n\t\t\n\t\t\tA. Adam and Cain\n\t\t\n\t\n\n</b></big></td></tr></tbody></table>",
+    "he": "<table><tbody><tr><td><big>א. אדם וקין</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>According to the opinion of <strong>Benno Jacob</strong> in his commentary on Genesis (in German), the story of Cain is the conclusion of Adam's sin; so his punishment is somewhat parallel to Adam's punishment. And the commentator ends his words there as follows:</p>\n\n<p>The relationship of the sin of Cain to the sin of Adam is like the relationship of the first and second tablet of the two tablets of the covenant.</p>\n",
+    "he": "<p>לדעת בֶּנוֹ יעקב בפירושו לבראשית Genesis (בגרמנית), סיפורו של קין הוא השלמה לחטאו של אדם הראשון, ועונשו מקביל במובן מה לעונשו של אדם הראשון. והפרשן מסיים דבריו שם:<br>\n\"חטאו של קין, יחסו לחטאו של אדם כיחס הלוח הראשון ללוח השני של שני לוחות הברית\".</p>\n"
+   }
+  },
+  {
+   "node": 3,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>Are you able to explain these words of his and to prove the parallelism between the punishment of Adam and the punishment of Cain from the <strong>wording of the verses</strong>?</p>\n",
+    "he": "התוכל להסביר את דבריו אלה ולהוכיח <b>מלשון הכתובים</b> את ההקבלה בין עונש אדם לעונש קין?"
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table><tbody><tr><td><big><b>\n\t\n\t\t\n\t\t\t\n\t\t\tB. \"And she bore Enoch\"\n\t\t\t\n\t\t\n\t\n\n</b></big></td></tr></tbody></table>",
+    "he": "<table><tbody><tr><td><big>ב. \"ותלד את חנוך\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:י״ז",
+   "node": 5,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 4:17",
+   "text": {
+    "en": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><span>\"And she bore Enoch\"</span></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "he": "\"וַתֵּלֶד אֶת חֲנוֹךְ\""
+   }
+  },
+  {
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p><strong><span style=\"color: #999999;\">Ibn Kaspi:</span></strong></p>\n\n<p><span style=\"color: #333333;\">And this is a general matter; as all of the names of Cain's progeny have a root and a meaning in Hebrew <span style=\"\"><span><span style=\"\"><span style=\"\"><span><span style=\"\">–</span></span></span></span></span></span> like the names of the children of Jacob. And it is all to instruct; as the Scripture explained with the children of Jacob. However it was not like this with the children of Cain, as [this] is not fitting for several reasons.</span></p>\n",
+    "he": "<p><strong><span style=\"color: #999999;\">אבן כספי:</span></strong><br>\n<span style=\"color: #333333;\">וזה עניין כולל, כי כל שמות תולדות קין יש להם גזירה והוראה בעברי, כמו שמות בני יעקב, והכל להוראות, כמו שפירש הכתוב בבני יעקב, ולא כן בבני קין, כי אין ראוי לכמה סיבות.</span></p>\n"
+   }
+  },
+  {
+   "node": 7,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>Does Ibn Kaspi not contradict his own words in his first saying that the names of Cain's offspring have a meaning, \"like the names of the children of Jacob,\" and then later saying, \"However it was not like this with the children of Cain?\"</p>\n",
+    "he": "האין אבן כספי סותר את דברי עצמו באומרו תחילה כי יש לשמות תולדותיו של קין הוראה \"כמו שמות בני יעקב\" ובאומרו אחר כך \"ולא כן בבני קין\"?"
+   }
+  },
+  {
+   "node": 8,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table><tbody><tr><td><big><b>\n\t\n\t\t\n\t\t\tC. .\"...And she conceived, and bore... and he built a city...\"\n\t\t\n\t\n\n</b></big></td></tr></tbody></table>",
+    "he": "<table><tbody><tr><td><big>ג. \"...ותהר ותלד... ויהי בונה עיר...\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:י״ז",
+   "node": 9,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 4:17",
+   "text": {
+    "en": "<p>\"And Cain knew his wife; and she conceived, and bore Enoch; and he builded a city, and called the name of the city after the name of his son Enoch.\"</p>\n",
+    "he": "\"וַיֵּדַע קַיִן אֶת אִשְׁתּוֹ וַתַּהַר וַתֵּלֶד אֶת חֲנוֹךְ \nוַיְהִי בֹּנֶה עִיר וַיִּקְרָא שֵׁם הָעִיר כְּשֵׁם בְּנוֹ חֲנוֹךְ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י״ז:א׳",
+   "node": 10,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 4:17:1",
+   "text": {
+    "en": "ויהי AND HE WAS— Cain was, not Enoch — בונה עיר BUILDING A CITY ויקרא שם העיר AND HE CALLED THE NAME OF THE CITY (named the city) as a memorial of his son — חנוך.",
+    "he": "ד\"ה ויהי בונה עיר: ויהי קין בונה עיר, ויקרא שם העיר לזכר בנו חנוך."
+   }
+  },
+  {
+   "heRef": "רלב\"ג על התורה, בראשית ד׳:א׳:ד׳",
+   "node": 11,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ralbag on Torah, Genesis 4:1:4",
+   "text": {
+    "en": "<p>And it recounted after this that Cain already fathered a son, and that was Enoch; and he created the craft of building and built a city <span style=\"\"><span><span style=\"\">–</span></span></span> meaning to say Cain; or Enoch is the one that created this craft and he gave [his father] the honor of naming the city that he had built.</p>\n",
+    "he": "<p>וסיפר אחר זה, שכבר הוליד קין בן, והוא חנוך, והוא המציא מלאכת הבניין, ובנה עיר, רוצה לומר, קין; או חנוך, הוא המציא זאת המלאכה, וחלק כבוד לאביו שיקרא שם לעיר שבנה אותה.</p>\n"
+   }
+  },
+  {
+   "node": 13,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>1. What is the difficulty in our verse that they are trying to resolve?</p>\n",
+    "he": "1.  מה הקושי בפסוקנו, שאותו מנסים ליישב?"
+   }
+  },
+  {
+   "node": 14,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>2. Where else in the Book of Genesis do we find a difficulty of this type?</p>\n",
+    "he": "2. היכן מצינו בחומש בראשית קושי מסוג זה?"
+   }
+  },
+  {
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p><strong><span style=\"color: #999999;\">Cassuto, \"From Adam to Noah\":</span></strong><br>\n<span style=\"color: #333333;\">In the same way that in verse 4:2, after the words, \"and she continued to bear his brother, Abel,\" it is stated, \"and Abel was a shepherd of sheep\"; so too here, after the words, \"and she conceived and bore Enoch,\" there is the similar wording of, \"and he built a city.\" Hence in the same way as the subject of the verb, \"and he was,\" is certainly the son that was born, so too here <span style=\"\"><span><span style=\"\">– </span></span></span>it is not Cain that the verse is speaking about, but his son, Enoch. (In verse 2, the name of the son is [only] emphasized because of its opposition to the name, Cain; whereas here, there was no reason for it.)</span></p>\n",
+    "he": "<p><strong><span style=\"color: #999999;\">קאסוטו,\"מאדם עד נח\":</span></strong><br>\n<span style=\"color: #333333;\">כשם שבפסוק ב' אחר המלים \"ותוסף ללדת את אחיו את הבל\" נאמר \"ויהי הבל רועה צאן\" כך כאן – אחר המלים \"ותהר ותלד את חנוך\" נאמר בנוסחה דומה \"ויהי בונה עיר\". לפיכך כשם ששם נושא הפועל \"ויהי\" הריהו הבן הנולד, כך הדבר גם כאן: לא בקין הכתוב מדבר אלא בחנוך בנו. (בפסוק ב' מודגש שם הבן במפורש מפני ניגודו לשם קין, וכאן לא היה צורך בכך.)</span></p>\n"
+   }
+  },
+  {
+   "node": 15,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>3. What is the difference between the three opinions above; and which one appears to you to be the closest to the simple meaning of Scripture?</p>\n",
+    "he": "3.  מה ההבדל בין שלוש הדעות הנ\"ל, ואיזו נראית לך קרובה יותר לפשוטו של מקרא?"
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table><tbody><tr><td><big><b>\n\t\n\t\t\n\t\t\tD. \"And he built a city\"\n\t\t\n\t\n\n</b></big></td></tr></tbody></table>",
+    "he": "<table><tbody><tr><td><big>ד. \"ויהי בונה עיר\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:י״ז",
+   "node": 17,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 4:17",
+   "text": {
+    "en": "<p>\"and he builded a city\"</p>\n",
+    "he": "<p>\"וַיְהִי בֹּנֶה עִיר\"</p>\n"
+   }
+  },
+  {
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p><strong><span style=\"color: #999999;\">R. S. R. Hirsch:</span></strong><br>\n<span style=\"color: #333333;\">It does not state, \"and he built a city,\" but rather \"and he became the builder of a city.\" A new ambition was born with Cain: the city. Cain was disconnected from the ground, banished from the field, abandoned by God and excommunicated from the company of man. What else remained for him? He himself remained for him <span><span><span>– </span></span></span>his spiritual powers and the talents hidden in his personality remained. The natural result was <span><span><span>– </span></span></span>that he would become the builder of a city. The city <span><span><span>– </span></span></span>as opposed to a village <span><span><span>– </span></span></span>is disconnected from the ground and detached from agriculture. Its inhabitants make their livelihood from the powers of man. Agricultural produce comes to the city. But there, it is processed according to the needs of man <span><span><span>– </span></span></span>craft and industry imprint it with the stamp of human intelligence. Power, spirit and talent <span><span><span>– </span></span></span>these are the \"fields\" of the city-dwellers. And these are what continue to be developed, as is recounted immediately afterwards. The village is focused on the development of the ground; the city <span><span><span>– </span></span></span>on the development of man. The forces slumbering in man are awoken by the city <span><span><span>– </span></span></span>it is as if he is aroused... And the verse (Psalms 72:16), \"and let men blossom up in cities like grass in the field\" comes to be. Its simple meaning is like its plain reading <span><span><span>– </span></span></span>man blossoms in the city like the grass of the field. The contrast between the city and the village is also revealed in later laws: The tribe of Levi did not take a portion in the ground <span><span><span>– </span></span></span>but it was granted the Levite cities. The killer is exiled from the holy ground <span><span><span>– </span></span></span>in the same way as Cain was exiled from all of the earth <span><span><span>– </span></span></span>and is exiled to a city of refuge. Likewise, the homes of walled cities are judged as if they were disconnected from the ground <span><span><span>–</span></span></span> they pass from one hand to the other in perpetuity, like movable goods. And therefore it is characteristic that the first city was established by Cain, who was disconnected from the ground and dependent only upon himself. With the birth of his first son, he saw that he needed to secure his future; and he had no other path except to become the builder of a city.</span></p>\n",
+    "he": "<p><strong><span style=\"color: #999999;\">רש\"ר הירש:</span></strong><br>\n<span style=\"color: #333333;\">אין הוא אומר \"ויבן עיר\" אלא \"ויהי בונה עיר\". עם קין החלה שאיפה חדשה: העיר. קין היה תלוש מן הקרקע – מנושל מן השדה, עזוב מאת ה' ומנודה מחברת האדם. מה עוד נותר לו? הוא נותר לעצמו. נותרו כוחותיו הרוחניים והכשרונות הטמונים באישיותו. התוצאה הטבעית היתה – להיות בונה עיר. העיר – בניגוד לכפר – תלושה מן הקרקע ומנותקת מן החקלאות – יושביה מתפרנסים מכוחות האדם. התוצרת החקלאית מגיעה לערים, ושם יעבדוה בהתאם לצורכי האדם; האמנות והתעשיה מטביעים עליה את חותם השכל האנושי. הכוח, הרוח והכשרון – הם \"שדות\" ליושבי הערים. והם הולכים ומתפתחים – כפי שיסופר מיד להלן. הכפר שקוד על תרבות הקרקע, והעיר – על תרבות האדם. הכוחות הנמים באדם מתעוררים בעיר; כביכול, האדם ניעור... והפסוק מתקיים פשוטו כמשמעו (תהלים ע\"ב <span style=\"color: #333333;\">ט</span>\"ז) \"ויציצו מעיר כעשב הארץ\". האדם יפרח בעיר – כעשב בשדה. ניגוד זה שבין עיר לכפר מתגלה גם בחוקים מאוחרים יותר. שבט לוי לא נטל חלק בקרקע – והוא זכה בערי הלויים. הרוצח הוגלה מאדמת הקודש – כדרך שקין גורש מכלל האדמה – והוא גלה לערי המקלט. וכך, בתי ערי חומה נידונים כתלושים מן הקרקע, הם עוברים לצמיתות מיד ליד – כנכסי דניידי. ולפיכך: אופייני הדבר שהעיר הראשונה נוסדה על-ידי קין, שהוא תלוש מן הקרקע ותלוי רק בעצמו. עם הולדת בנו הראשון ראה צורך לבסס את עתידו, ולא היתה לו דרך אחרת, אלא להיות בונה עיר.</span></p>\n"
+   }
+  },
+  {
+   "heRef": "העמק דבר על בראשית ד׳:י״ז:ב׳",
+   "node": 19,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Haamek Davar on Genesis 4:17:2",
+   "text": {
+    "en": "<p>S.v. And he built a city: As Cain now understood the will of God: That it is good to deal much with his needs, and not to live like an animal or beast by way of only working the ground - but rather to pursue a particularly human life. Therefore he built himself a city.</p>\n",
+    "he": "ד\"ה ויהי בונה עיר: שהבין קין עתה רצון ה', שטוב להיות מרבה בצרכיו ולא לחיות כחיה ובהמה על ידי עבודת האדמה לבדה, אלא לבקש חיי אנושי בייחוד, על כן בנה לו עיר."
+   }
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>1. What is the difference in the approaches of these two commenators?</p>\n",
+    "he": "1.  מה ההבדל בין גישותיהם של שני הפרשנים האלה?"
+   }
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>2. According to which explanation does our verse fit the context of the verses?</p>\n",
+    "he": "2. לפי איזה פירוש משתלב פסוקנו בהקשר הכתובים?"
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>3. Compare the words of both of them to those of Abarbanel about Cain and his offspring, cited in the worksheet for <a class=\"refLink\" href=\"/sheets/161686\" target=\"_blank\">Noach from 1959</a>. Does one of the two commentators above follow the footsteps of Abarbanel there?</p>\n",
+    "he": "3.  השווה דברי שניהם לדברי <b>אברבנאל</b> על קין וצאצאיו שהובאו בגיליון <a class=\"refLink\" data-ref=\"sheet.161686\" href=\"/sheets/161686\" target=\"_blank\">נח תש\"ך</a>. האם אחד משני הפרשנים הנ\"ל הולך בעקבותיו של אברבנאל שם?"
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table><tbody><tr><td><big><b>\n\t\n\t\t\n\t\t\tE. \"The forger of every cutting instrument...\"\n\t\t\n\t\n\n</b></big></td></tr></tbody></table>",
+    "he": "<table><tbody><tr><td><big>ה. \"לוטש כל חורש...\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:כ״ב",
+   "node": 24,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 4:22",
+   "text": {
+    "en": "<p>\"And Zillah, she also bore Tubal-cain, the forger of every cutting instrument of copper and iron\"</p>\n",
+    "he": "<p>\"וְצִלָּה גַם הִוא יָלְדָה אֶת תּוּבַל קַיִן לֹטֵשׁ כָּל חֹרֵשׁ נְחֹשֶׁת וּבַרְזֶל\"</p>\n"
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:כ״ב:ב׳",
+   "node": 25,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 4:22:2",
+   "text": {
+    "en": "לטש כל חרש נחשת וברזל THE FORGER OF EVERY CUTTING INSTRUMENT OF BRASS AND IRON — He sharpened tools used in brass and iron work; לוטש has the some meaning as (Job 16:9) ילטוש “He sharpeneth his eye upon me.” The word  חרש is not of the form פעל (a noun like אֹכֶל, אֹהֶל etc.), but of the form פועל (a participle), for it has the vowel קמץ קטן (what we term צירה) and its accent is on the last syllabic (whereas the noun form has the accent on the first syllable, and the second has a Segol, like קדש), and the meaning is that he sharpened and polished all cutting implements (כל חרש) used in work of brass and iron.",
+    "he": "ד\"ה לוטש כל חורש נחושת וברזל: מחדד אומנות נחושת וברזל, כמו (איוב ט\"ז) \"ילטוש עיניו לי\". \"חורש\" אינו לשון פועֶל אלא לשון פועֵל, שהרי נקוד קמץ (=צירי) וטעמו למטה (מלרע). כלומר: מחדד ומצחצח כל כלי אומנות נחושת וברזל."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ד׳:כ״ב:א׳",
+   "node": 26,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 4:22:1",
+   "text": {
+    "en": "<p>S.v. The forger of every cutting instrument of brass and iron: And he would cut and forge all copper and iron; meaning that he would cut and forge all handiwork of copper and iron. And like this is (Hosea 14:3), \"all who bear iniquity, and accept the good,\" [the meaning of which is likewise, \"bear all iniquity\"].</p>\n",
+    "he": "<p>ד\"ה לוטש כל חורש נחושת וברזל: והוא היה לוטש וחורש כל נחושת וברזל. יאמר, כי הוא היה מחדד וחורש כל מלאכת נחושת וברזל. וכמוהו (<a class=\"refLink\" data-ref=\"Hosea 14:3\" href=\"/Hosea 14:3\" target=\"_blank\">הושע י\"ד ג'</a>) \"כל תשא עוון וקח טוב\".</p>\n"
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p><strong><span style=\"color: #999999;\">Biur (R. Shlomo Dubno):</span></strong><br>\n<span style=\"color: #333333;\">S.v. Forger: It is likely that it is a \"flattened\" noun [as in] (I Samuel 15:16), \"and we proscribed the rest\" [even though the noun would normally be understood as, more (<em>yoter</em>); when \"flattened,\" it becomes rest (<em>yeter</em>)]. [Hence it] means to say, he sharpened all the crafts (as if it were written <em>cheresh</em>, and not <em>choresh</em>) of copper and iron. </span></p>\n",
+    "he": "<p><strong><span style=\"color: #999999;\">ביאור (ר' שלמה דובנא):</span></strong><br>\n<span style=\"color: #333333;\">ד\"ה חורש: ייתכן להיות שם בפלס (<a class=\"refLink\" data-ref=\"I Samuel 15:16\" href=\"/I Samuel 15:16\" target=\"_blank\">שמואל א', ט\"ו ט\"ז</a>) \"ואת היותר החרמנו\". כלומר: מחדד כל אומנות נחושת וברזל.</span></p>\n"
+   }
+  },
+  {
+   "node": 28,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>1. What is the difficulty in our verse that all three of the commentaries above address?</p>\n",
+    "he": "1.  מה הקושי בפסוקנו, שעמדו עליו שלושת המפרשים הנ\"ל?"
+   }
+  },
+  {
+   "node": 29,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>2. Against which (theoretical) explanation of our verse does Rashi contend?</p>\n",
+    "he": "2. נגד איזה פירוש (אפשרי) לפסוקנו פונה רש\"י?"
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>3. Based on which of the Torah's hermeneutical principles does Ramban explain our verse?</p>\n",
+    "he": "3.  על-פי איזו מן המידות שהתורה נדרשת בהן מפרש הרמב\"ן את פסוקנו?"
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "*"
+   },
+   "outsideBiText": {
+    "en": "<p>4. What is the similarity of our verse to Hosea 14:3? And also compare it to:</p>\n",
+    "he": "<p>4. מה הדמיון של פסוקנו להושע י\"ד ג'? (והשווה גם ל:</p>\n"
+   }
+  },
+  {
+   "heRef": "תהילים ע״ד:ג׳",
+   "node": 33,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Psalms 74:3",
+   "text": {
+    "en": "<p>Lift up Thy steps because of the perpetual ruins, Even all the evil that the enemy hath done in the sanctuary.)</p>\n",
+    "he": "הָרִימָה פְעָמֶיךָ לְמַשֻּׁאוֹת נֶצַח כָּל הֵרַע אוֹיֵב בַּקֹּדֶשׁ.)"
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "*"
+   },
+   "outsideBiText": {
+    "en": "<p>5. Does the Biur agree with one of the two other commentators above?</p>\n",
+    "he": "<p> 5. האם מסכים הביאור עם אחד משני הפרשנים הנ\"ל?</p>\n"
+   }
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "*"
+   },
+   "outsideBiText": {
+    "en": "<p>6. Did one of the three commentators above follow the path of Onkelos:</p>\n",
+    "he": "<p> 6. האם הלך אחד משלושת הפרשנים הנ\"ל בדרך אונקלוס:</p>\n"
+   }
+  },
+  {
+   "heRef": "תרגום אונקלוס על בראשית ד׳:כ״ב",
+   "node": 36,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Onkelos Genesis 4:22",
+   "text": {
+    "en": "<p>And Zillah, she also bore Tubal-cain, the master of all who know the work of copper and iron.</p>\n",
+    "he": "<p>וצלה אף היא ילידת ית תובלקין, רבהון דכל דידעי עבידת נחשא ופרזלא.</p>\n"
+   }
+  },
+  {
+   "node": 34,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table><tbody><tr><td><big><b>\n\t\n\t\t\n\t\t\tF. \"...The forger of all cutting...\"\n\t\t\n\t\n\n</b></big></td></tr></tbody></table>",
+    "he": "<table><tbody><tr><td><big>ו. \"...לוטש כל חורש...\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:כ״ב",
+   "node": 37,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 4:22",
+   "text": {
+    "en": "<p><span class=\"segment\">\"And Zillah, she also bore Tubal-cain, the forger of every cutting instrument of copper and iron\"</span></p>\n",
+    "he": "<p><span class=\"segment\">\"וְצִלָּה גַם הִוא יָלְדָה אֶת תּוּבַל קַיִן לֹטֵשׁ כָּל חֹרֵשׁ נְחֹשֶׁת וּבַרְזֶל\"</span></p>\n"
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ג:ג׳",
+   "node": 36,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Bereshit Rabbah 23:3",
+   "text": {
+    "en": "<p>\"Tubal-Cain\": R. Yehoshua of Sakhnin said in the name of R. Levi, \"This one sweetened (literally, spiced) Cain's sin (some have the variant, 'Cain's work') <span style=\"\"><span><span style=\"\">–</span></span></span>Cain would kill, but he did not have with what to kill; but this one 'forged every cutting instrument of copper and iron.'\"</p>\n",
+    "he": "\"את תובל קין\" ר' יהושע דסכנין בשם ר' לוי אמר: זה תיבל עברתו של קין (יש גירסאות \"עבודתו של קין\"), קין הרג ולא היה לו במה להרוג, אבל זה \"לוטש כל חורש נחושת וברזל\"."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:כ״ב:א׳",
+   "node": 37,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 4:22:1",
+   "text": {
+    "en": "תובל קין TUBAL-CAIN — He refined Cain’s handicraft. The word תובל is connected in meaning with תבלין (spices which give a refined and improved taste to food); he refined and improved the work of Cain by providing weapons for murderers (Genesis Rabbah 23:3).",
+    "he": "ד\"ה תובל קין: לשון תבלין, תיבל והתקין אומנותו של קין, לעשות כלי זין לרוצחים."
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p> What brought them to explain that the purpose for the invention of sharpening iron was murder? And is it not that the verse does not mention weapons, nor does is speak about armament?</p>",
+    "he": "<p> מה הביאם לפרש שתכלית ההמצאה של לטישת ברזל – רצח? והלוא בפסוק לא הוזכרו כלי זין, ולא דובר בו על נשק?</p>\n"
+   }
+  },
+  {
+   "node": 39,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table><tbody><tr><td><big><b>\n\t\n\t\t\n\t\t\tG. \"And Lamech said to his wives\"\n\t\t\n\t\n\n</b></big></td></tr></tbody></table>",
+    "he": "<table><tbody><tr><td><big>ז. \"ויאמר למך לנשיו\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:כ״ג",
+   "node": 41,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 4:23",
+   "text": {
+    "en": "<p>\" Lamech said unto his wives\"</p>\n",
+    "he": "\"וַיֹּאמֶר לֶמֶךְ לְנָשָׁיו\""
+   }
+  },
+  {
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p><strong><span style=\"color: #999999;\">Ibn Kaspi</span></strong></p><p><span style=\"color: #333333;\">It is like the first statement of Haman to his wife.</span></p>",
+    "he": "<p><strong><span style=\"color: #999999;\">אבן כספי:</span></strong><br>\n<span style=\"color: #333333;\">כעניין המאמר הראשון מהמן לאשתו.</span></p>\n"
+   }
+  },
+  {
+   "node": 43,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "*"
+   },
+   "outsideBiText": {
+    "en": "<p> Explain what is the similarity between the two texts.</p>\n",
+    "he": "<p> הסבר מה הדמיון בין שני המקומות?</p>\n"
+   }
+  }
+ ],
+ "ssn": 1,
+ "status": "public",
+ "summary": "1970 (תש\"ל)<br>Editing and additional translation of English by R. Francis Nataf<br><a href=\"http://www.nechama.org.il/pdf/1.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "English",
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ל - קין וצאצאיו",
+ "topics": [
+  {
+   "asTyped": "English",
+   "slug": "english"
+  },
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+{
+ "dateCreated": "2019-03-06T05:30:29.370701",
+ "dateModified": "2019-03-07T02:17:48.727548",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 3:6:1",
+  "Rashi on Genesis 3:6:2",
+  "Genesis 3:3",
+  "Genesis 4:25",
+  "Abarbanel on Torah, Genesis 2:5:1",
+  "Rashi on Genesis 3:6:3",
+  "Mizrachi, Genesis 3:6:1",
+  "Rashi on Genesis 2:7:4",
+  "Genesis 4:5",
+  "Genesis 4:4",
+  "Ramban on Genesis 1:28:1",
+  "Bereshit Rabbah 19:3",
+  "Genesis 4:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161685,
+ "includedRefs": [
+  "Abarbanel on Torah, Genesis 2:5:1",
+  "Genesis 4:2",
+  "Genesis 4:4-5",
+  "Genesis 4:25",
+  "Ramban on Genesis 1:28:1",
+  "Genesis 3:3",
+  "Bereshit Rabbah 19:3",
+  "Rashi on Genesis 2:7:4",
+  "Rashi on Genesis 3:6:1",
+  "Rashi on Genesis 3:6:2",
+  "Rashi on Genesis 3:6:3",
+  "Rashi on Genesis 3:6:3",
+  "Mizrachi, Genesis 3:6:1"
+ ],
+ "nextNode": 40,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. אדם ובניו סטו מן התכלית</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ב׳:ה׳:א׳",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 2:5:1",
+   "text": {
+    "en": "",
+    "he": "הכוונה הכוללת בפרשה הגדולה הזאת היא להודיע, שברא אלוהים את האדם בצלמו השכלי, כדי שישתדל להשלים את נפשו בהכרת בוראו ולהדמות אליו יתברך בחכמתו, <b>כי שלמות הצלם הוא שידמה מאד אל הצורה אשר הוא צלם אליה</b>. והמציא גם כן לתיקון חייו כל הדברים ההכרחיים לקיומו ממאכל וממשתה מפירות עצי הגן אשר נטע וממימי נהרותיו, וכל זה במציאות טבעי בלתי יצטרך ליגיעה ועמל ולא למלאכה אנושית, אבל שיהיו כל צרכיו מוכנים ונמצאים תמיד אצלו, כדי שלא יטריד נפשו בבקשת צרכי גופי אלא בהשלמת נפשו אשר בעבורה נברא, ומפני זה ציוה אותו <b>שיסתפק</b> בדברים הטבעיים אשר המציא לצרכו, <b>ולא ימשך אחרי המותרות המצטרכות לעסקי המלאכות</b> ולדברים המפורסמים*, באופן שלא יטה שכלו אל התיקון הגופני שהוא הפך השלמות הנפשי, שהוא התכלית.\nוטעם כל זה האדם מדעתו ובחירתו הרעה הלך השכים, <b>טבל את ידיו</b>... והיתה הגזרה והצוואה בבריאתו \"מכל עץ הגן אכול תאכל\" כלומר: איני אוסר עליך הדברים ההכרחיים לפרנסתך למזון גופך ונפשך מעצי הגן ומעץ החיים, אבל מעץ הדעת טוב ורע, שהוא התעסקות והידיעות בדברים המפורסמים – מהו הטוב לרדוף אחריו ומהו הרע להתרחק ממנו – הנה מזה העץ, <b>והעצה הזאת</b>, עם היות שתראה אותו ותגע בו שהיא הנאה מועטת, כפי ההכרחי, \"לא תאכל ממנו\" כי <b>האכילה תורה על ההשתקעות</b> והזנת הגוף מהמאכל ההוא <b>ושישוב אותו המזון לעצם הניזון</b>, כי הנה ימשך מזה המות הגשמיי, כי בהיותך טרוד בעץ הדעת תתרחק מעץ החיים, והוא המות, ועל זה הדרך נאמר (<a class=\"refLink\" href=\"/Deuteronomy 15\" data-ref=\"Deuteronomy 15\" target=\"_blank\">דברים ט\"ו</a>) \"ראה נתתי לפניך היום את החיים ואת הטוב ואת המות ואת הרע ובחרת בחיים\". "
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:ב׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:2",
+   "text": {
+    "en": "And again she bore his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.",
+    "he": "\"וַיְהִי הֶבֶל רֹעֵה צֹאן וְקַיִן הָיָה עֹבֵד אֲדָמָה\""
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 4:2\" data-ref=\"Genesis 4:2\" target=\"_blank\">פרק ד' פסוק ב'</a></span><br><span style=\"color: rgb(51,51,51);\">...שקין לקח לו לאומנות לעבוד את האדמה, לפי שלא היה ירא אלוהים ולא חשש לקללת \"ארורה האדמה בעבורך\" שנאמר לאדם... להיותו נרדף אחר הדברים החמריים והקנינים המדומים, ולכן נקרא קין מלשון \"קנין\". \nאמנם הבל להיותו <b>גדול הלב</b> רודף אחרי הכבוד המדומה והשררה נעשה רועה צאן... ולזה נקרא הבל, כי הכבודות והשררות הבל המה מעשי תעתועים... </span>"
+  },
+  {
+   "heRef": "בראשית ד׳:ד׳-ה׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:4-5",
+   "text": {
+    "en": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering; but unto Cain and to his offering He had not respect. And Cain was very wroth, and his countenance fell.",
+    "he": "\"וַיִּשַׁע ה' אֶל הֶבֶל וְאֶל מִנְחָתוֹ וְאֶל קַיִן וְאֶל מִנְחָתוֹ לֹא שָׁעָה\""
+   }
+  },
+  {
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פרק ד' פסוקים ד'-ה'</span><br><span style=\"color: rgb(51,51,51);\"> ולא היה זה להיות מנחת הבל טובה ממנחת קין, אלא שראה יתברך שהיתה כוונתו של הבל לרדוף אחרי המעלה וההשכל, יען כי <b>ההנהגה והכבוד הוא מיצרו</b> וסמוך <b>לשכל</b>, גם שהכבוד מונע את האדם מכל מידה פחותה, ולכן היה הבל נכבד מטבעו, שר ושופט על מלאכתו, אבל קין היה עובד אדמה, טבעו נוטה אל החמרי, אשר קילל ה', <b>מבקש</b> המלאכות ודברים מקריים כאלה, נעשה בעצמו עבד לאדמה ולקנינים הבהמיים, ולא היה מושל עליהם. גם שהקנינים מבלי הכבוד הם סיבת כל פחיתות, כי המבקש ההון ולא יחוש אל הכבוד יבוא לידי גנבה וגזל ושאר חמידות הפחותות. </span>"
+  },
+  {
+   "heRef": "בראשית ד׳:כ״ה",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:25",
+   "text": {
+    "en": "And Adam knew his wife again; and she bore a son, and called his name Seth: ‘for God hath appointed me another seed instead of Abel; for Cain slew him.’",
+    "he": "\"וַיֵּדַע אָדָם עוֹד אֶת אִשְׁתּוֹ וַתֵּלֶד בֵּן וַתִּקְרָא אֶת שְׁמוֹ שֵׁת\""
+   }
+  },
+  {
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 4:25\" data-ref=\"Genesis 4:25\" target=\"_blank\">פרק ד' פסוק כ\"ה</a></span><br><span style=\"color: rgb(51,51,51);\"> ...אבל אדם שידע שלא ילך שת אחרי ההבל והכבוד המדומה ויהבל כהבל וגם לא יהיה רודף אחרי הקנינים הגלמיים כקין אבל יהיה בדמותו בצלמו, נמשך אחר הענין השכלי והשלמות הנפשיי האמתי, קראו שת, לפי שראה שממנו יושתת העולם. </span>"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מהי לפי דעת אברבנאל תכלית האדם שלשמה נוצר, ובמה סטו אדם ובניו ממנה?"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית א׳:כ״ח:א׳",
+   "node": 10,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 1:28:1",
+   "text": {
+    "en": "<b>And God blessed them:</b> That is a true blessing. Therefore, [here] it is written, \"and God said to them.\" But above (verse 22), it is written, \"And God blessed them, saying,\" [which] is explained as the blessing [only] being the [actual] proclamation by which he gave them the power to reproduce, [but] not a different proclamation through which they would be blessed (as was the case with man). <b>\"And fill the earth:\"</b> A blessing that they should fill the earth due to their great number. And according to my opinion, He blessed them that they fill all of the earth, [meaning] that the nations should separate into their families to the corners of the world due to their great number. And they should not be in one place, [such an idea being] the thought of the men of the Generation of Dispersion (at the time of the Tower of Babel). <b>\"And subdue it:\"</b> He gave them the power and rulership over the earth; to do whatever they wanted with the beasts and the swarming animals and all of those that slither on the ground; and to build and to uproot and plant and to quarry copper from its hills and [to do things] similar to this. And this is [all] included in its stating (above, verse 26), \"and over all the earth.\" <b>\"And have dominion over the fish of the sea;\"</b> He said that they should have dominion also over the fish of the seas that are covered by them and over the fowl of the sky that are not with man upon the ground and [even] also over all [dangerous] animals. And He sequenced them according to their creation: the fish and the fowl first and the animals afterwards; and so [too] does the verse state (Psalms 8:7-9), \"You have made him rule over the works of Your hands; You have put all things under His feet: Sheep and oxen - all of them, and also the beasts of the field; The fowl of the air, and the fish of the sea, etc.\" And our Rabbis differentiated between subduing and having dominion.  ",
+    "he": "ד\"ה וכבשוה: נתן להם כח וממשלה בארץ לעשות כרצונם בבהמות ובשרצים וכל זוחלי עפר, ולבנות ולעקור נטוע ומהרריה לחצוב נחושת וכיוצא בזה, וזה יכלול מה שאמר \"ובכל הארץ\"."
+   }
+  },
+  {
+   "node": 11,
+   "outsideText": "מה ההבדל העקרוני בין דעת הרמב\"ן לדעת אברבנאל כאן?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. הסבר את המקומות המסומנים בקו."
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. מה מסמלים עצי הגן (פרט לעץ החיים ועץ הדעת) והנהרות?"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5. מה ראה אברבנאל להדגיש כאן שראיית העץ והנגיעה בו היו סותרות לאדם?"
+  },
+  {
+   "node": 15,
+   "outsideText": "* למושג \"הדברים המפורסמים\" עיין עלון הדרכה. אין למלים \"לרדוף הטוב והתרחק מן הרע\" כאן כל כוונה לטוב או לרע המוסרי."
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ב. עץ הדעת - שמו ומהותו</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מדרש תדשא פרק ז':</span><br><span style=\"color: rgb(51,51,51);\">אמר רבי פינחס בן יאיר: העץ הזה עד שלא אכל ממנו אדם הראשון לא נקרא שמו אלא \"עץ\" בלבד כשאר כל העצים, אבל כשאכל ועבר על גזרתו של הקב\"ה, נקרא שמו עץ \"הדעת טוב ורע\" על שם סופו, כמו שמצינו דברים רבים שנקרא שמם על שם סופם.\nומניין אתה אומר, שלא נקרא העץ כן מתחילה? מתשובת האשה לנחש. ראה מה השיבה אותו: \"ומפרי העץ אשר בתוך הגן אמר אלוהים לא תאכלו ממנו\" ולא אמרה: מפרי <b>עץ הדעת טוב ורע</b>. ועוד: בשעה שאמר הקב\"ה לאדם: \"למה אתה נחבא?\" מה אמר? \"מן <b>העץ</b> אשר צויתיך לבלתי אכל ממנו\" ולא אמר \"מעץ הדעת\". \nולמה קרא שמו \"הדעת טוב ורע\"? שעל ידי אכילתו ידע אדם רעות, שעד שלא עבר על הציווי לא נגזר עמל, ולא יגיעה, ולא קור, ולא חום, ולא מכאוב, ולא כל דבר רע מזיקו, אבל משעבר על חוק גזרתו של מקום, התחילו כל הרעות נוגעות בו ונצערים (=לשון צער) מעשיו. \nולמה ציוה אותו הקב\"ה שיאכל מכל עץ הגן ומנע ממנו אחד מהם? כדי שיהא רואה אותו תמיד, וזוכר את בוראו ומכיר שעול יוצרו עליו ושלא תהא רוחו גסה עליו.</span>"
+  },
+  {
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "בנו יעקב, בפירושו Genesis (תרגום) פירושו לטוב ורע (פרק ג, י\"ז):<br>על פי <a class=\"refLink\" href=\"/Deuteronomy 30:15\" data-ref=\"Deuteronomy 30:15\" target=\"_blank\">דברים ל' ט\"ו-ט\"ז</a>: \"ראה נתתי לפניך היום את החיים ואת הטוב ואת המות ואת הרע אשר אנכי מצוך היום לאהבה את ה' ללכת בדרכיו ולשמור מצוותיו\" – הטוב הוא אהבת ה' ושמירת מצוותיו, והרע הוא אי-ציות לדבריו. האדם הראשון ילמד זאת בקבלו מצוה ראשונה. אם לא ישמע לה ידע מהו הרע אשר בו בחר וידע מה בינו לבין הטוב אשר היה מנת חלקו, לו שמע בקול המצוה. העץ הוא אבן בוחן בין טוב לרע, בין מותר לאסור, בין חיים למות. והרי זה בלתי תלוי בתוכנהּ של המצוה, אדרבא, הרי בזאת יבחן האדם, אם לא יהיה מושפע משיקולים מעשיים בתועלתיותה של המצוה, אם יכַון רצונו רק לשמוע בקול נותן המצוה. והרי המצוה ניתנה לו, שלא יהא אדם חושב שהוא אלוה, אלא ידע שאדון ומְצַוֶה עליו, ופרי העץ לא היה מזיק ולא היה בו סם מות, אדרבא, היה טוב למאכל..."
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. היש הבדל בין שתי תפישות אלה?"
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהו ההבדל העקרוני ביניהם לבין תפישת אברבנאל שהובאה בשאלה א'?"
+  },
+  {
+   "node": 21,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"אל תוסף על דבריו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ג׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:3",
+   "text": {
+    "en": "but of the fruit of the tree which is in the midst of the garden, God hath said: Ye shall not eat of it, neither shall ye touch it, lest ye die.’",
+    "he": "\"וּמִפְּרִי הָעֵץ אֲשֶׁר בְּתוֹךְ הַגָּן אָמַר אֱ-לֹהִים לֹא תֹאכְלוּ מִמֶּנּוּ וְלֹא תִגְּעוּ בּוֹ\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה י״ט:ג׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 19:3",
+   "text": {
+    "en": "",
+    "he": "הדא הוא דכתיב (<a class=\"refLink\" href=\"/Proverbs 30:6\" data-ref=\"Proverbs 30:6\" target=\"_blank\">משלי ל' ו'</a>) \"אל תוסף על דבריו פן יוכיח בך ונכזבת\". תני ר' חייא: שלא תעשה את הגדל יותר מן העיקר, שלא יפול ויקצץ הנטיעות. כך אמר הקב\"ה: \"כי ביום אכלך ממנו וגו'\" והיא לא אמרה כן אלא \"לא תאכלו ולא תגעו\"."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ולא תגעו בו: הוסיפה על הציווי, לפיכך באה לידי גרעון, הוא שנאמר (משלי ל'): \"אל תוסף על דבריו\".</span>"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. האם מסכימים דברי אברבנאל שבשאלה א' עם דברי המדרש?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. ומקשה בעל נימוקי רש\"י:<br>למה לא הביא רש\"י (ואף לא מקורו) פסוק מן התורה לראיה. כגון <a class=\"refLink\" href=\"/Deuteronomy 4:2\" data-ref=\"Deuteronomy 4:2\" target=\"_blank\">דברים ד' ב'</a> או <a class=\"refLink\" href=\"/Deuteronomy 13:1\" data-ref=\"Deuteronomy 13:1\" target=\"_blank\">י\"ג א' </a>והביא ממרחק לחמו – ממשלי?"
+  },
+  {
+   "node": 27,
+   "outsideText": "ענה לקושייתו."
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ז׳:ד׳",
+   "node": 29,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:7:4",
+   "text": {
+    "en": "לנפש חיה A LIVING SOUL — Also cattle and beasts are called נפש חיה (1:20, 22, 24), but the נפש of man is the most highly developed of all of them, because to him was granted understanding and speech.",
+    "he": "ד\"ה ויהי האדם לנפש חיה: אף בהמה וחיה נקראו נפש חיה, אך זו של אדם חיה שבכולן, שנתוסף בו דעה ודיבור."
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "היכן מצא רש\"י בפסוק זה רמז לעליונותו של האדם, הרי הוא עצמו מודה שאף בהמה וחיה נקראו \"נפש חיה\"?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ו׳:א׳",
+   "node": 31,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:6:1",
+   "text": {
+    "en": "ותרא האשה AND THE WOMAN SAW — She approved the words of the serpent — they pleased her and she believed him (Genesis Rabbah 19:3).",
+    "he": "ד\"ה ותרא האשה: ראתה דבריו של נחש והנאו לה והאמינתו."
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "מה קשה לו, ומה ראה להוסיף מלים \"והנאו לה והאמינתו\" שאינם במקורו כבראשית-רבה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ו׳:ב׳",
+   "node": 33,
+   "options": {
+    "PrependRefWithEn": "3) ",
+    "PrependRefWithHe": "3) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:6:2",
+   "text": {
+    "en": "כי טוב העץ THAT THE TREE WAS GOOD to make her become like God.",
+    "he": "ד\"ה כי טוב העץ: להיות כאלוהים."
+   }
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "למה לא יפרשנו כמשמעו \"כי טוב העץ למאכל\" – שטעמו טוב?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ו׳:ג׳",
+   "node": 35,
+   "options": {
+    "PrependRefWithEn": "4) ",
+    "PrependRefWithHe": "4) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:6:3",
+   "text": {
+    "en": "וכי תאוה היא לעינים AND THAT IT WAS A DELIGHT TO THE EYES — even as he had said to her: “then your eyes shall be opened”.",
+    "he": "ד\"ה וכי תאוה הוא לעינים: כמו שאמר לה \"ונפקחו עיניכם\"."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ו׳:ג׳",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:6:3",
+   "text": {
+    "en": "וכי תאוה היא לעינים AND THAT IT WAS A DELIGHT TO THE EYES — even as he had said to her: “then your eyes shall be opened”.",
+    "he": "ד\"ה ונחמד העץ להשכיל: כמו שאמר לה \"יודע טוב ורע\"."
+   }
+  },
+  {
+   "heRef": " מזרחי, בראשית ג׳:ו׳:א׳",
+   "node": 37,
+   "options": {
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Mizrachi, Genesis 3:6:1",
+   "text": {
+    "en": "",
+    "he": "<sup class=\"nechama\">*</sup>  הרא\"ם, מקשה:<br>ולמה יפרש הדיבור השני של האשה (כוונתו: הראיה השניה) על הדיבור הראשון של הנחש והדיבור הראשון של האשה (\"כי טוב העץ\") על הדיבור השני של הנחש?"
+   }
+  },
+  {
+   "node": 38,
+   "outsideText": "נסה ליישב קושייתו."
+  }
+ ],
+ "ssn": 1034,
+ "status": "public",
+ "summary": "1960 (תש\"כ)<br><a href=\"http://www.nechama.org.il/pdf/1034.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"כ - עץ הדעת טוב ורע",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}
