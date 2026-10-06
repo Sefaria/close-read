@@ -457,6 +457,29 @@ def test_branch_clicks_and_history(page, base_url, slug):
     if page.locator(".closing-screen").evaluate("e => e.classList.contains('is-hidden')"):
         problems.append("closing screen still hidden at a leaf")
 
+    # Having arrived by clicking (not by URL), a card in the leaf must still activate when
+    # scrolled to. Triggers created while the leaf was hidden once kept stale positions,
+    # so nothing activated after a click even though URL-loaded paths worked.
+    # The leaf = the sections the last click revealed; check its first highlighted card.
+    revealed = set(visible_set(sheet, tree, path)) - set(visible_set(sheet, tree, path[:-1]))
+    leaf = next((c for c in card_expectations(sheet) if c["section"] in revealed and c["highlight"]), None)
+    if leaf:
+        page.wait_for_timeout(800)
+        page.evaluate("""(id) => {
+          const c = document.querySelector(`.step-card[data-step-id="${CSS.escape(id)}"] .card-inner`);
+          const r = c.getBoundingClientRect();
+          window.scrollTo({ top: r.top + scrollY + r.height / 2 - 0.5 * innerHeight, behavior: 'instant' });
+        }""", leaf["step"])
+        try:
+            page.wait_for_function("""(id) => document.querySelector(`.step-card[data-step-id="${CSS.escape(id)}"]`).classList.contains('is-active')""",
+                                   arg=leaf["step"], timeout=3000)
+        except Exception:
+            problems.append(f"after clicking down to the leaf, card {leaf['step']} never activates when scrolled to")
+        else:
+            lit = page.evaluate("""(g) => document.getElementById(g).querySelectorAll('.word-group.highlighted, .image-region.highlighted').length""", leaf["group"])
+            if not lit:
+                problems.append(f"after clicking down to the leaf, card {leaf['step']} is active but lights nothing")
+
     while path:
         page.go_back()
         path.pop()
