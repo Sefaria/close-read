@@ -79,3 +79,4 @@ Key things to get right:
 - **New source colors**: Unknown sources get a neutral warm-brown fallback. For a custom color, add `.source-label[data-source="Name"] { ... }` to CSS
 - **New step types**: Add a case in `buildStepCard()` in engine.js and matching CSS
 - **New highlight effects**: Add a case in the `highlight()` method in text-effects.js and matching CSS class
+- **Images in the panel**: use `"mode": "image"` VerseData with fractional `regions` (see [Data Format](docs/data-format.md#image)); steps highlight region ids like word groups

@@ -1,0 +1,336 @@
+{
+ "dateCreated": "2019-03-06T05:29:11.857028",
+ "dateModified": "2019-03-07T02:16:18.356844",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Radak on Genesis 6:2:1",
+  "Malbim on Genesis 6:2:1",
+  "Ramban on Genesis 6:2:1",
+  "Rashi on Genesis 6:2:2",
+  "Onkelos Genesis 6:2",
+  "Rashi on Genesis 6:2:1",
+  "Ramban on Genesis 6:4:1",
+  "Rashi on Genesis 6:4:1",
+  "Bereshit Rabbah 26:5",
+  "Ramban on Genesis 6:1:1",
+  "Radak on Genesis 6:2:2",
+  "Rashi on Genesis 6:2:3"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161580,
+ "includedRefs": [
+  "Bereshit Rabbah 26:5",
+  "Onkelos Genesis 6:2",
+  "Onkelos Genesis 6:2",
+  "Rashi on Genesis 6:2:1",
+  "Rashi on Genesis 6:2:1",
+  "Rashi on Genesis 6:2:2",
+  "Rashi on Genesis 6:2:3",
+  "Rashi on Genesis 6:4:1",
+  "Ramban on Genesis 6:1:1-2:1",
+  "Ramban on Genesis 6:4:1",
+  "Radak on Genesis 6:2:1",
+  "Radak on Genesis 6:2:2",
+  "Malbim on Genesis 6:2:1"
+ ],
+ "nextNode": 23,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. בני האלוהים</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "outsideText": "מצאנו לחכמים דעות שונות בענין \"בני האלוהים\", והנה מקצתן:"
+  },
+  {
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ספרי בהעלותך י\"א ב':</span><br><span style=\"color: rgb(51,51,51);\">ויראו בני האלוהים... מה היו בני הדיינים עושים? היו אוחזים נשים מן השוק ומענים אותם. אם כך היו בני הדיינים עושים, קל וחמר לשאר הדיוטין.</span>"
+  },
+  {
+   "heRef": "בראשית רבה כ״ו:ה׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 26:5",
+   "text": {
+    "en": "",
+    "he": "בני האלוהים: ר' שמעון בן יוחאי קרא להון בני דיניא. ר' שמעון בן יוחאי מקלל לכל מאן דקרא להון בני אלהיא. תני רשב\"י: כל פרצה שאינה מן הגדולים – אינה פרצה. (מתנות כהונה: שמתוך שהגדולים פורצים הגדר כולם עושים אחריהם ככה.)"
+   }
+  },
+  {
+   "heRef": "תרגום אונקלוס על בראשית ו׳:ב׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Onkelos Genesis 6:2",
+   "text": {
+    "en": "that the sons of the mighty saw the daughters of men that they were beautiful, and took to them wives of all whom they pleased.",
+    "he": "וחזו בני רברביא ית בנת אנשא... ונסיבו להון נשין, מכול דאתרעיאו. "
+   }
+  },
+  {
+   "heRef": "תרגום אונקלוס על בראשית ו׳:ב׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Onkelos Genesis 6:2",
+   "text": {
+    "en": "that the sons of the mighty saw the daughters of men that they were beautiful, and took to them wives of all whom they pleased.",
+    "he": "גיבריא הוו בארעא.... ואף בתר כין דעאלין בני רברביא לוות בנת אנשא, וילדן להון, אינון גיבריא דמעלמא, אנשין דשמא."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ב׳:א׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:2:1",
+   "text": {
+    "en": "בני האלהים THE SONS OF ELOHIM — The sons of princes and rulers (Genesis Rabbah 26:15). Another explanation of בני האלהים is that these were princely angels who came as messengers from God: they, too, intermingled with them (the daughters of men). Wherever the word אלהים occurs in the Scriptures it signifies authority, and the following passages prove this: (Exodus 4:16) “and thou shalt be his (אלהים) master”, and (Exodus 7:1) “See, I have made the (אלהים) a master.”",
+    "he": "ד\"ה בני האלהים: בני השרים והשופטים. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ב׳:א׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:2:1",
+   "text": {
+    "en": "בני האלהים THE SONS OF ELOHIM — The sons of princes and rulers (Genesis Rabbah 26:15). Another explanation of בני האלהים is that these were princely angels who came as messengers from God: they, too, intermingled with them (the daughters of men). Wherever the word אלהים occurs in the Scriptures it signifies authority, and the following passages prove this: (Exodus 4:16) “and thou shalt be his (אלהים) master”, and (Exodus 7:1) “See, I have made the (אלהים) a master.”",
+    "he": "דבר אחר: בני האלהים: הם השרים ההולכים בשליחותו של מקום, אף הם היו מתערבים בהם. כל אלהים שבמקרא לשון מרות, וזה יוכיח (<a class=\"refLink\" href=\"/Exodus 4:16\" data-ref=\"Exodus 4:16\" target=\"_blank\">שמות ד' ט\"ז</a>) \"ואתה תהיה לו לאלהים\", (שם ז' א') \"ראה נתתיך אלהים\". "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ב׳:ב׳",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:2:2",
+   "text": {
+    "en": "כי טבת הנה THAT THEY WERE FAIR — Rabbi Judan said, “It is written here טבת, for when they were being made to appear “good” by being decked out to be taken beneath the marriage canopy one of the lords would come and carry her off first (Genesis Rabbah 26:5).",
+    "he": "ד\"ה כי טובות הנה: אמר רבי יודן: טבת כתיב, כשהיו מטיבין אותה מקושטת ליכנס לחופה, היה גדול נכנס ובועלה תחילה. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ב׳:ג׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:2:3",
+   "text": {
+    "en": "מכל אשר בחרו OF ALL WHOM THEY CHOOSE — even if it were a married woman or a man or an animal (Genesis Rabbah 26:5).",
+    "he": "ד\"ה מכל אשר בחרו: אף בעולת בעל, אף הזכר והבהמה. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ד׳:א׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:4:1",
+   "text": {
+    "en": "הנפילים THE GIANTS — Thy were called נפילים because they fell (נפלו) and caused the downfall of (הפילו) the world (Genesis Rabbah 26:7).",
+    "he": " ד\"ה הנפילים: על שם שנפלו והפילו את העולם. ובלשון עברית לשון ענקים הוא. "
+   }
+  },
+  {
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"יפסוק ד':</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה הגבורים: למרוד במקום.</span>"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:א׳:א׳-ב׳:א׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:1:1-2:1",
+   "text": {
+    "en": "<b>The sons of the rulers.</b> According to this rendering those who were charged with establishing justice trampled it openly.",
+    "he": "ד\"ה בני האלהים: בני השרים והשופטים, לשון רש\"י, וכך הוא בבראשית רבה (כו ה). אם כן יספר הכתוב, כי הדיינין, אשר להם לעשות המשפט, בניהם עושים החמס בגלוי ואין מונע אותם. "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:ד׳:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:4:1",
+   "text": {
+    "en": "And also after that - ...The correct interpretation in my eyes is that Adam and wife are called \"Bnei Ha-elohim\" because they were God's creation and He was their father, they had no father but Him. And Adam bore children as it says, \"And he bore sons and daughters\". Now these men, were the first to be born to a human mother and father, were perfect in height and strength because they were born in the likeness of their father. As it says about Shet, \"And he bore a son in his own likeness after his image\". And it is possible that all the children of the first generations - Adam, Shet and Enosh - were called \"Bnei Ha-elohim\" because these three mean were made in the image of God. But when the worship of idols commenced, men became weak and slack.... Now, when men began to multiply and bore daughters, the men of these first generations were strong and because of their great desire they would choose beautiful, tall wives who were in good health. Now, first the Passuk says that they took them as wives by force. After, the Passuk says that they came to women who were daughters of men who were not held in high esteem, and they bore children for them. Eventually, everyone recognised that they had been born to these \"Bnei Ha-elohim\" because these children were very tall. However, they were inferior to their fathers in terms of height and strength. This is the explanation of the word Nephilim - inferior. Still, they were strong men in comparison to the rest of the population. And the Passuk says that this happened in the first generation to those who were called Bnei Haelohim because they were absolutely perfect, and they caused the daughters of men to have \"nefilim\" - inferior ones...",
+    "he": "ד\"ה הנפילים: ...והנכון בעיני כי אדם ואשתו יקראו בני האלהים בעבור שהיו מעשה ידיו והוא אביהם, אין להם אב זולתו, והוא הוליד בנים רבים ככתוב (ה' ד'): ויולד בנים ובנות. והיו האנשים האלה הנולדים ראשונים מאב ואם בשלמות גדולה מן הגובה והחוזק, כי נולדו בדמות אביהם, ככתוב בשת (לעיל ה' ג') ויולד בדמותו כצלמו. ויתכן שהיו כל בני הקדמונים אדם שת אנוש נקראים בני האלהים, כי היו ג' האנשים האלה בדמות אלהים, ואז הוחל לעבוד עבודה זרה, והוחל לבוא באנשים חולשה ורפיון... \nוכאשר החל האדם לרוב ונולדו להם הבנות, היו אלה בני הראשונים בחזקם, ולרוב תאוותם היו בוחרים הנשים הטובות בעלות הקומה והבריאות. וסיפר בתחילה (ב<a class=\"refLink\" href=\"/Genesis 6:2\" data-ref=\"Genesis 6:2\" target=\"_blank\">פסוק ב'</a>) כי יקחו אותם לנשים דרך חמס, ואחר כך סיפר כי יבאו דרך זנות אל בנות האדם שאינן באותה המעלה, ולא יודע הדבר עד שיולידו להם בנים ויכירו כי אינם מבני שאר האנשים, רק לבני האלהים האלה נולדו, שהם גדולים מאד, אבל הם נופלים מאבותם בגובה וכח, כלשון לא נופל אנכי מכם (<a class=\"refLink\" href=\"/Job 12:3\" data-ref=\"Job 12:3\" target=\"_blank\">איוב י\"ב ג</a>'), והמה גבורים כנגד שאר בני האדם. ואמר שהיה זה בדורות הראשונים אשר היו נקראים \"בני האלהים\" בהיותם בתכלית השלמות שיולידו מבנות האדם נפילים, וגם אחרי כן, כי הנפילים עצמם יולידו נפילים מהם. \nופירוש \"אשר מעולם\" כי האנשים אחרי המבול כאשר יראו גבורים יזכירו אלה ויאמרו כבר היו גבורים מאלה לעולמים אשר היו לפנינו, והיו \"אנשי השם\" בכל הדורות אחרי כן. וזה פשט הגון בפרשה הזאת. אבל המדרש אשר לרבי אליעזר הגדול בפרקיו על המלאכים שנפלו ממקום קדושתן מן השמים, והוזכר בגמרא במסכת יומא (ס\"ז ב') הוא הנאות בלשון הכתוב יותר מן הכל אלא שיש צורך להאריך בסוד הענין ההוא."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ו׳:ב׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 6:2:1",
+   "text": {
+    "en": "ויראו בני האלוהים, the sons of the judges, the elite of the species who are here referred to as אלוהים, just as in Exodus 22,27 אלוהים לא תקלל, “you must not curse a judge.” There are numerous similar examples in the Torah of the attribute אלוהים being applied to morally high ranking human beings. Onkelos also translates it in this vein when he speaks of בני רברביא. The explanations offered that the Torah refers to Uzza and Uzael are very far fetched. (compare Torah shleymah on this verse). [The two aforementioned are supposed to have been angels who had voted against the creation of man and who belittled man’s effort to conquer the evil urge. They were supposedly punished by being consigned to earth to experience life on earth by themselves. Instead of proving their superiority, they were the first to succumb to the allurement of physically attractive females. Their request to return to the celestial regions was denied by G’d. Ed.]<br> According to Bereshit Rabbah 26,5 Rabbi Shimon ben Yochai cursed anyone who translated the words בני האלוהים as “the sons of G’d.” He added that when the elite of the people are themselves guilty of the sins they want the common man to refrain from, their efforts are doomed to start with. Another reason offered why these people were referred to as בני האלוהים, (according to both Rabbi Chaninah and Rabbi Shimon ben Lakish, is that these were the people enjoying carefree long lives, free from sickness and other impediments. [This may have given them the illusion of being able to get away with whatever they felt like doing. Ed.] Rav Hunna, quoting Rabbi Yossi, says that these people were granted such long lives in order to enable them to study the sky, observe the orbits of the stars and make calculations resulting in our calendar.",
+    "he": "ויראו בני האלוהים: בני השופטים והגדולים ומנהיגי המדינות, כי הם נקראו אלוהים, כמו (שמות כ\"ב) \"אלוהים לא תקלל\" והדומים לו... "
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ו׳:ב׳:ב׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 6:2:2",
+   "text": {
+    "en": "את בנות האדם, the daughters of the weaker specimen of the human race. The women were unable to resist the physically superior specimen referred to as בני האלוהים, and as a result if fancied by the latter, they would be taken by them as wives or concubines against their will, and the will of even their husbands. [The Torah describes the first time the law of the “survival of the fittest” was practiced by the human race. The result was the deluge. Ed.] The term אדם next to the term אלוהים simply compares the weak to the strong In the Sifri¸ (Behaalotcha 86) the point is made that when ordinary individuals observed that the judges took the law into their own hands, they reasoned that they themselves would most certainly be able to get away with the same thing, seeing that the judges are supposed to set a good example.<br> Rabbi Avraham Ibn Ezra understands the expression בני אלוהים, as referring to spiritually superior people, people who knew what G’d expected of them. They chose wives according to what they perceived was suitable for them basing themselves on their reading of astrology. As a result of such careful mating, their offspring were in many instances giants, etc., as we read about at the end of our verse. It is possible that they took women of their choice even against the will of these women.",
+    "he": "ד\"ה את בנות האדם: בנות המון האדם החלושים, שלא היה להם כח לעמוד כנגדם; וכאשר היו רואים בני הגדולים בנות העניים שהיו טובות, רצוני לומר, יפות תואר ומראה, היו עושקים ולוקחים איזה שהם טובות מכל האנשים ואותן שישרו בעיניהם, הן פנויות או נשואות לבעל, כי מי שהיה גדול מחברו עושק את חברו ואין מציל מידם; ו\"אדם\" נאמר על הפחותים והחלושים, שנאמר (תהלים מ\"ט): \"גם בני אדם גם בני איש\", \"בני אדם\" – הפחותים, \"בני איש\" – הגדולים."
+   }
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ו׳:ב׳:א׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 6:2:1",
+   "text": {
+    "en": "",
+    "he": "ידוע בקורות העמים הקדמונים, שהיו מאמינים שבני אלוהים חושקים את בנות האדם והיו <b>מהבילים</b>, שכשאשה יפה תמצא חן בעיני אלוהים ויבואו אליהן וילדו להם. וסיפר שכפי שמחשבת הדור ההוא והבליהם אמרו, שבני אלוהים רואים את בנות האדם שהן טובות וימצאו חן בעיניהם ויקחו להם נשים; שבאופן זה זנו הנשים מתחת בעליהן עם אנשים שההבילו עליהם, שהם בני אלוהים. \nוהגדות כאלה היו בימים האלה וגם אחרי כן, כי נודע שבכל סיפורי העמים הקדמונים יספרו שבימי קדם מלכו על מדינתם בני אלוהים שבאו משמים אל הארץ ונשאו נשים מבנות האדם ומהם עמדו גיבורים ומושלים, כמו שימצא בסיפורי מצרים וחינא ומלכות יון מן האלוהיות וחצי אלוהות, שהלכו על ההרים הרמים ועל ארצם בימי קדם והם נעשו להם אלילים, וסיפרו עליהם מעשים של רצח וניאוף וכל מידות רעות, עד שגם עובדיהם התדמו להם בתועבותיהם, כמו האלילה שעבודתה היתה בניאוף, והאליל שעבדו אותו בזבחי אדם, והעבודות האלה עמדו עד אמצע מלכות הרומיים וכל שכן שהיו בתקפם בימי משה... \nלכן הודיע לנו משה רבנו ע\"ה, כי הנפילים האלה שהם הענקים והעריצים, היו בימים האלה וגם אחרי כן, שאז נמצאו גיבורי כח נוראים, שאמרו על עצמם שהם בני אלוהים שנפלו משמים, והעם התחילו לעבוד אותם. והם היו בני האלוהים שבאו אל בנות האדם וילדו להם עד שגם הבנים היו נחשבים לאלילים. \nאבל דע, שכל הסיפורים וההגדות האלה שעליהם בנו כהני האליל, כל ענייני העבודה הזרה וסיפורי האלילים והמיתולוגיה, הוא הכל שקר וכזב, \"היעשה לו אדם אלוהים והמה לא אלוהים?!\" רק המה הגיבורים אשר מעולם אנשי השם, שכל גיבור שעמד בימים ההם או איש שעשה לו שם ע\"י חכמתן היו מיחסים לו אלוהות ואומרים שנפל משמים, וזה היה שורש להשחתת האדם ולעבודה זרה ואמונת שוא והבל, אשר לכן ראה ה' לקצר ימי האדם, שיראו כי אדם המה ובני תמותה ולא אלוהים המה."
+   }
+  },
+  {
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בנו יעקב, בספרו Genesis (תרגום מגרמנית):</span><br><span style=\"color: rgb(51,51,51);\">יתכן שהכנוי \"בני אלוהים\" מובנו כאן אירוני כמו (תהלים ע\"ח) \"אני אמרתי אלוהים אתם ובני עליון כולכם – אכן כאדם תמותון...\"</span>"
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר מהן הדעות השונות של הנ\"ל בהסבר המושג \"בני אלוהים\". סדר אותן לקבוצות!"
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מצא ראיה מלשון הכתוב לכך שנעשה כאן מעשה חמס!"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3.  הסבר מה הקשר בין פרשתנו לפרשת למך <a class=\"refLink\" href=\"/Genesis 4:17\" data-ref=\"Genesis 4:17\" target=\"_blank\">ד' י\"ז-כ\"ד</a>? ועיין גיליון <a class=\"refLink\" href=\"/sheets/161438\" data-ref=\"sheet.161438\" target=\"_blank\">בראשית תש\"י</a> ב', ג'. ביחוד דברי רלב\"ג והמלבי\"ם שם!"
+  }
+ ],
+ "ssn": 929,
+ "status": "public",
+ "summary": "1951 (תשי\"א)<br><a href=\"http://www.nechama.org.il/pdf/929.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשי\"א - בני האלוהים",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

@@ -1,0 +1,714 @@
+{
+ "dateCreated": "2019-03-06T05:30:18.923349",
+ "dateModified": "2019-03-07T02:17:39.206334",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 8:21",
+  "Ramban on Genesis 3:15:1",
+  "Rashi on Genesis 3:16:1",
+  "Isaiah 65:25",
+  "Rashi on Genesis 3:15:3",
+  "Onkelos Genesis 3:15",
+  "Genesis 2:17",
+  "Radak on Genesis 3:22:1",
+  "Mishneh Torah, Repentance 5:1",
+  "Genesis 5:29",
+  "Haamek Davar on Genesis 3:17:2",
+  "Rashi on Genesis 3:20:2",
+  "Genesis 3:17",
+  "II Samuel 14:17",
+  "Genesis 3:22",
+  "Genesis 3:16",
+  "Rashi on Genesis 4:1:1",
+  "Rashi on Genesis 3:15:2",
+  "Rashi on Genesis 3:17:1",
+  "Rashi on Genesis 3:22:1",
+  "Onkelos Genesis 3:22",
+  "Genesis 3:14",
+  "Genesis 3:11",
+  "Genesis 3:15",
+  "Rashi on Genesis 3:18:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161672,
+ "includedRefs": [
+  "Genesis 3:14",
+  "Genesis 3:17",
+  "Isaiah 65:25",
+  "Genesis 5:29",
+  "Genesis 8:21",
+  "Genesis 3:16",
+  "Genesis 2:17",
+  "Genesis 3:11",
+  "Rashi on Genesis 3:16:1",
+  "Rashi on Genesis 4:1:1",
+  "Rashi on Genesis 3:17:1",
+  "Rashi on Genesis 3:18:1",
+  "Rashi on Genesis 3:20:2",
+  "Genesis 3:15",
+  "Rashi on Genesis 3:15:2",
+  "Rashi on Genesis 3:15:3",
+  "Ramban on Genesis 3:15:1",
+  "Onkelos Genesis 3:15",
+  "Genesis 3:17",
+  "Haamek Davar on Genesis 3:17:2",
+  "Genesis 3:22",
+  "Onkelos Genesis 3:22",
+  "Rashi on Genesis 3:22:1",
+  "Radak on Genesis 3:22:1",
+  "Mishneh Torah, Repentance 5:1",
+  "II Samuel 14:17",
+  "Genesis 3:15"
+ ],
+ "nextNode": 56,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "גיליון זה המשך גיליון בראשית <a class=\"refLink\" href=\"/sheets/162000\" data-ref=\"sheet.162000\" target=\"_blank\">תש\"ג</a>, <a class=\"refLink\" href=\"/sheets/161941\" data-ref=\"sheet.161941\" target=\"_blank\">תש\"ד</a>, שעסקו באיסור ובחטא. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות מבנה וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מדוע מוציא ה' פסק דינו ראשונה על הנחש, ואינו פותח באדם ובחוה?"
+  },
+  {
+   "heRef": "בראשית ג׳:י״ד",
+   "node": 4,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 3:14",
+   "text": {
+    "en": "And the LORD God said unto the serpent: ‘Because thou hast done this, cursed art thou from among all cattle, and from among all beasts of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life.",
+    "he": "\"אָרוּר אַתָּה מִכָּל הַבְּהֵמָה וּמִכֹּל חַיַּת הַשָּׂדֶה עַל גְּחֹנְךָ תֵלֵךְ וְעָפָר תֹּאכַל <b>כָּל יְמֵי חַיֶּיךָ</b>\""
+   }
+  },
+  {
+   "heRef": "בראשית ג׳:י״ז",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:17",
+   "text": {
+    "en": "And unto Adam He said: ‘Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying: Thou shalt not eat of it; cursed is the ground for thy sake; in toil shalt thou eat of it all the days of thy life.",
+    "he": "\"אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ בְּעִצָּבוֹן תֹּאכְלֶנָּה <b>כֹּל יְמֵי חַיֶּיךָ</b>\""
+   }
+  },
+  {
+   "node": 6,
+   "outsideText": "מה ההבדל בין פירוש \"כל ימי חייך\" הנאמר לנחש לפירוש \"כל ימי חייך\" הנאמר לאדם?"
+  },
+  {
+   "heRef": "ישעיהו ס״ה:כ״ה",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 65:25",
+   "text": {
+    "en": "The wolf and the lamb shall feed together, And the lion shall eat straw like the ox; And dust shall be the serpent’s food. They shall not hurt nor destroy in all My holy mountain, Saith the LORD.",
+    "he": "\"זְאֵב וְטָלֶה יִרְעוּ כְאֶחָד וְאַרְיֵה כַּבָּקָר יֹאכַל תֶּבֶן וְנָחָשׁ עָפָר לַחְמוֹ לֹא יָרֵעוּ וְלֹא יַשְׁחִיתוּ בְּכָל הַר קָדְשִׁי אָמַר ה'\""
+   }
+  },
+  {
+   "heRef": "בראשית ה׳:כ״ט",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 5:29",
+   "text": {
+    "en": "And he called his name Noah, saying: ‘This same shall comfort us in our work and in the toil of our hands, which cometh from the ground which the LORD hath cursed.’",
+    "he": "\"וַיִּקְרָא אֶת שְׁמוֹ נֹחַ לֵאמֹר זֶה יְנַחֲמֵנוּ מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ מִן הָאֲדָמָה אֲשֶׁר אֵרְרָהּ ה'\""
+   }
+  },
+  {
+   "heRef": "בראשית ח׳:כ״א",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:21",
+   "text": {
+    "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+    "he": "\"...וַיֹּאמֶר ה' אֶל לִבּוֹ לֹא אֹסִף לְקַלֵּל עוֹד אֶת הָאֲדָמָה בַּעֲבוּר הָאָדָם כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו וְלֹא אֹסִף עוֹד לְהַכּוֹת אֶת כָּל חַי כַּאֲשֶׁר עָשִׂיתִי\""
+   }
+  },
+  {
+   "heRef": "בראשית ג׳:ט״ז",
+   "node": 10,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 3:16",
+   "text": {
+    "en": "Unto the woman He said: ‘I will greatly multiply thy pain and thy travail; in pain thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.’",
+    "he": "\"אֶל הָאִשָּׁה אָמַר הַרְבָּה אַרְבֶּה עִצְּבוֹנֵךְ וְהֵרֹנֵךְ בְּעֶצֶב תֵּלְדִי בָנִים וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל בָּךְ.\""
+   }
+  },
+  {
+   "node": 11,
+   "outsideText": "למה לא נאמר אל האשה \"כל ימי חייך\", כמו שנאמר אל הנחש ואל האדם?"
+  },
+  {
+   "node": 12,
+   "outsideText": "השווה את הפסוקים הבאים:"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ז",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:17",
+   "text": {
+    "en": "but of the tree of the knowledge of good and evil, thou shalt not eat of it; for in the day that thou eatest thereof thou shalt surely die.’",
+    "he": "\" ... וּמֵעֵץ הַדַּעַת טוֹב וָרָע לֹא תֹאכַל\""
+   }
+  },
+  {
+   "heRef": "בראשית ג׳:י״א",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:11",
+   "text": {
+    "en": "And He said: ‘Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?’",
+    "he": "\"... הֲמִן הָעֵץ אֲשֶׁר צִוִּיתִיךָ לְבִלְתִּי אֲכָל-מִמֶּנּוּ...\""
+   }
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  למה לא נקרא העץ בפרקנו בשמו (עץ הדעת טוב ורע), כמו שנקרא בפרק ב'?"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.   התוכל להסביר למה שינה בפסוק י\"א והביא את האיסור בדיבור ישיר?"
+  },
+  {
+   "node": 17,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ט״ז:א׳",
+   "node": 18,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:16:1",
+   "text": {
+    "en": "עצבנך THY PAIN — viz., the trouble of rearing children (Eruvin 100b).",
+    "he": "ד\"ה עצבונך: זה צער גידול בנים."
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מפרשי רש\"י מקשים: אמאי הקדים המאוחר: צער גידול בנים להריון ולידה. ענה על קושייתם."
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:א׳:א׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:1:1",
+   "text": {
+    "en": "(1) והאדם ידע AND THE MAN KNEW already before the events related above took place — before he sinned and was driven out of the Garden of Eden. So, also, the conception and birth of Cain took place before this. Had it been written, וידע אדם it would imply that after he was driven out children were born to him (Genesis Rabbah 22:2).",
+    "he": "ד\"ה והאדם ידע: כבר קודם העניין של מעלה, קודם שחטא ונטרד מגן עדן, וכן ההריון והלידה, שאם כתב וידע אדם, נשמע שלאחר שנטרד היו לו בנים."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״ז:א׳",
+   "node": 21,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:17:1",
+   "text": {
+    "en": "ארורה האדמה בעבורך CURSED BE THE GROUND FOR THY SAKE — It will produce to you cursed objects such as flies, fleas and ants; it may be compared to the case of one who gets into depraved ways, and people curse the breasts at which he was suckled (Genesis Rabbah 5:9). ",
+    "he": "ד\"ה ארורה האדמה: מעלה לך דברים ארורים, כגון זבובים ופרעושים ונמלים. משל ליוצא לתרבות רעה, והבריות מקללות שדים שינק מהם."
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "מה קשה לו, ולשם מה הוסיף את המשל?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״ח:א׳",
+   "node": 23,
+   "options": {
+    "PrependRefWithEn": "3) ",
+    "PrependRefWithHe": "3) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:18:1",
+   "text": {
+    "en": "וקוץ ודרדר תצמיח לך THORNS ALSO AND THISTLES SHALL IT BRING FORTH TO THEE— תצמיח has for subject the earth; when you sow it with various kinds of grain, it shall bring forth thorns and thistles — artichokes and cardoon — which are fit for food only after special preparation (Genesis Rabbah 20:10).",
+    "he": "ד\"ה וקוץ ודרדר תצמיח: הארץ כשתזרענה מיני זרעים, תצמיח קוץ ודרדר קונדס ועכביות, והן נאכלים על ידי תיקון."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "לשם מה הוסיף את המילה \"הארץ\" ולא התחיל מיד בפירושו \"כשתזרענה מיני זרעים...\"?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:כ׳:ב׳",
+   "node": 25,
+   "options": {
+    "PrependRefWithEn": "4) ",
+    "PrependRefWithHe": "4) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:20:2",
+   "text": {
+    "en": "חוה EVE — חוה has the same sound as חיה (and similar meaning “life”) — she was so called because she gives life (birth) to her children; the interchange of ‘י and ‘ו is similar to that in (Ecclesiastes 2:22), מה הוה לאדם “for what hath a man”, where הוה is used in the sense of היה “to be.” ",
+    "he": "ד\"ה חוה: נופל על לשון חיה, שמחיה את ולדותיה, כאשר תאמר (<a class=\"refLink\" href=\"/Ecclesiastes 2:22\" data-ref=\"Ecclesiastes 2:22\" target=\"_blank\">קהלת ב' כ\"ב</a>) \"מה הוה לאדם\", בלשון היה."
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה עניין הפסוק מ<a class=\"refLink\" href=\"/Ecclesiastes 2:22\" data-ref=\"Ecclesiastes 2:22\" target=\"_blank\">קהלת ב' כ\"ב</a> לכאן?"
+  },
+  {
+   "node": 27,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"הוא ישופך ראש...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ט״ו",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:15",
+   "text": {
+    "en": "And I will put enmity between thee and the woman, and between thy seed and her seed; they shall bruise thy head, and thou shalt bruise their heel.’",
+    "he": "\"הוּא יְשׁוּפְךָ רֹאשׁ וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ט״ו:ב׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:15:2",
+   "text": {
+    "en": "הוא ישופך HE WILL BRUISE (or, POUND) THEE— Like (Deuteronomy 9:21), “And I beat in pieces” which Onkelos translates by ושפית “I pounded it.”",
+    "he": "ד\"ה ישופך: יכתתך, כמו (<a class=\"refLink\" href=\"/Deuteronomy 9:21\" data-ref=\"Deuteronomy 9:21\" target=\"_blank\">דברים ט' כ\"א</a>) \"ואכות אותו\", ותרגומו: ושפית יתיה. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ט״ו:ג׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:15:3",
+   "text": {
+    "en": "ואתה תשופנו עקב AND THOU SHALT BRUISE HIS HEEL — As you will have no height (not stand erect) you will be able to bite him only on the heel, but even at that spot you will kill him. The word תשופנו is of the same import as the verb in (Isaiah 40:24). נשף בהם “It bloweth upon them.” When a serpent comes to bite, it blows with a kind of hissing sound. Although the words ישופך and תשופנו have different meanings, since they constitute “a play upon words” by sounding similar, they are both used here. ",
+    "he": "ד\"ה ואתה תשופנו עקב: לא יהא לך קומה, ותשכנו בעקבו, ואף משם תמיתנו. ולשון תשופנו כמו (<a class=\"refLink\" href=\"/Isaiah 40:24\" data-ref=\"Isaiah 40:24\" target=\"_blank\">ישעיה מ' כ\"ד</a>) \"נשף בהם\", כשהנחש בא לנשוך הוא נושף כמין שריקה. ולפי שהלשון נופל על הלשון, כתב לשון נשיפה בשניהם."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ג׳:ט״ו:א׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 3:15:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וטעם תשופנו עקב: שיהיה לאדם יתרון עליך באיבה, כי הוא ישופך ראש, ואתה לא תשופנו רק בעקבו, וירצץ מוחך שם."
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1.  מה החילוק בין שני המפרשים הנ\"ל?"
+  },
+  {
+   "heRef": "תרגום אונקלוס על בראשית ג׳:ט״ו",
+   "node": 33,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "**"
+   },
+   "ref": "Onkelos Genesis 3:15",
+   "text": {
+    "en": "",
+    "he": "ודבבו אשוי בינך ובין אתתא ובין בנך ובין בנהה הוא יהי דביר לך מה דעבדת לה מלקדמין ואת תהי נטיר לה לסופא ."
+   }
+  },
+  {
+   "node": 34,
+   "outsideText": "מדוע בחר לו תרגום אונקלוס כאן דרך הרחוקה ממשמעות המילים?"
+  },
+  {
+   "node": 35,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"בעבורך\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:י״ז",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:17",
+   "text": {
+    "en": "And unto Adam He said: ‘Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying: Thou shalt not eat of it; cursed is the ground for thy sake; in toil shalt thou eat of it all the days of thy life.",
+    "he": "\"אֲרוּרָה הָאֲדָמָה בַּעֲבוּרֶךָ\""
+   }
+  },
+  {
+   "heRef": "העמק דבר על בראשית ג׳:י״ז:ב׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Haamek Davar on Genesis 3:17:2",
+   "text": {
+    "en": "",
+    "he": "כל \"בעבור\" משמעו – לטובתו, כדי שיהיה כן, וכמו (בראשית כ\"ז) \"בעבור תברכני נפשך\", והנאמר משמעו לטובתך שתהא האדמה ארורה, ותביא לידי יגיעה ועבודה רבה, והוא לטובת האדם שלא יסור מדרכי ה'..."
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "במה שונה פירושו מן הפירוש המקובל, ומהי מעלת פירושו? כסיוע לדבריו עיין בדברי ר' וולף היידנהיים על ההפרש בין \"בגלל\" ובין \"בעבור\" שהועתקו בגיליון פרשת בא <a class=\"refLink\" href=\"/sheets/162000\" data-ref=\"sheet.162000\" target=\"_blank\">תש\"ג</a>."
+  },
+  {
+   "node": 39,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"...כאחד ממנו...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:כ״ב",
+   "node": 40,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:22",
+   "text": {
+    "en": "And the LORD God said: ‘Behold, the man is become as one of us, to know good and evil; and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever.’",
+    "he": "\"הֵן הָאָדָם הָיָה כְּאַחַד מִמֶּנּוּ לָדַעַת טוֹב וָרָע\""
+   }
+  },
+  {
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מכילתא, בשלח י\"ד כ\"ח:</span><br><span style=\"color: rgb(51,51,51);\">דרש ר' פפוס \"הן האדם היה כאחד ממנו\" – כאחד ממלאכי השרת. אמר ר' עקיבא: דייך, פפוס! אמר לו פפוס: ומה אתה מקיים \"הן האדם\"...? (כיצד אתה מפרש?) אמר לו ר' עקיבא: הקדוש ברוך הוא נתן לפניו שני דרכים: אחד של מוות ואחד של חיים, ובחר לו דרך המוות. </span>"
+  },
+  {
+   "heRef": "תרגום אונקלוס על בראשית ג׳:כ״ב",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Onkelos Genesis 3:22",
+   "text": {
+    "en": "",
+    "he": "הא אדם הוה יחידי בעלמא מנה למידע טב וביש."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:כ״ב:א׳",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:22:1",
+   "text": {
+    "en": "היה כאחד ממנו  IS BECOME LIKE ONE OF US (or, like the Being who is One, Unique amongst us) — Lo, he is unique among the terrestrial ones, even as I am unique among the celestial ones. And in what does his uniqueness consist? In knowing good and evil, which is not so in the case of cattle and beasts (Genesis Rabbah 21:5).",
+    "he": "ד\"ה והיה כאחד ממנו: הרי הוא יחיד בתחתונים, כמו שאני יחיד בעליונים, ומה היא יחידתו? - לדעת טוב ורע ומה שאין כן בבהמה ובחיה."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ג׳:כ״ב:א׳",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 3:22:1",
+   "text": {
+    "en": "ויאמר ה' אלוקים...כאחד ממנו, G’d included Himself when speaking about the angels, just as He had done when about to create man in 1,26, when He had saidנעשה אדם בצלמנו, “Let Us make man in Our image.”",
+    "he": "שיתף עצמו עם המלאכים כמו שאמר (א' כ\"ו) \"בצלמנו כדמותנו\"."
+   }
+  },
+  {
+   "heRef": "משנה תורה, הלכות תשובה ה׳:א׳",
+   "node": 45,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Mishneh Torah, Repentance 5:1",
+   "text": {
+    "en": "Every man was endowed with a free will; if he desires to bend himself toward the good path and to be just it is within the power of his hand to reach out for it, and if he desires to bend himself to a bad path and to be wicked it is within the power of his hand to reach out for it. This is known from what it is written in the Torah, saying: \"Behold, the man is become as one of us, to know good and evil\" (Gen. 3.22), that is as if saying: \"Behold, this species, man, stands alone in the world, and there is no other kind like him, as regards this subject of being able of his own accord, by his reason and thought, to know the good and the evil, and to do whatever his inclination dictates him with none to stay his hand from either doing good or evil; and, being that he is so, 'Lest he put forth his hand, and take also from the tree of life, and eat, and live forever'\" (Ibid.)<sup class=\"footnote-marker\">1</sup><i class=\"footnote\">Abodah Zarah, 16b; Megillah, 25a. G.</i>",
+    "he": "רשות לכל אדם נתונה: אם רצה להטות עצמו לדרך טובה ולהיות צדיק – הרשות בידו, ואם רצה להטות עצמו לדרך רעה ולהיות רשע – הרשות בידו. הוא שכתוב בתורה: \"הן האדם היה כאחד ממנו לדעת טוב ורע\", כלומר: הן מין זה של אדם היה יחיד בעולם, ואין מין שני דומה לו בזה העניין, שיהא הוא מעצמו בדעתו ובמחשבתו יודע הטוב והרע ועושה כל מה שהוא חפץ, ואין מי שיעכב בידו מלעשות הטוב או הרע. "
+   }
+  },
+  {
+   "node": 46,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">הרכסים לבקעה:</span><br><span style=\"color: rgb(51,51,51);\">כגידופי הרשעים האומרים (תהלים ב') \"ננתקה את מוסרותימו\"... נאמר: \"יושב בשמים ישחק ה' ילעג למו\", כן הדבר הזה: על גידופי הנחש שהרשיע להכשיל האדם, \"והייתם כאלוקים יודעי טוב ורע\" – אמר הוא יתברך כמלעיג על דבריו: \"הן האדם היה עתה (לדברי המגדף) כאחד ממנו לדעת טוב ורע\"...</span>"
+  },
+  {
+   "node": 47,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהי דעת החכמים הנ\"ל בפירוש הפסוק? סדרם לקבוצות."
+  },
+  {
+   "node": 48,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. העתק את פסוקנו בסימני פיסוק, לפי פירוש הרמב\"ם."
+  },
+  {
+   "node": 49,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  היש להביא תמיכה לדעת אחת הקבוצות מדקדוק הלשון?"
+  },
+  {
+   "heRef": "שמואל ב י״ד:י״ז",
+   "node": 50,
+   "options": {
+    "PrependRefWithHe": "4. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "II Samuel 14:17",
+   "text": {
+    "en": "Then thy handmaid said, Let the word of my lord the king now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the Lord thy God will be with thee.",
+    "he": "\"וַתֹּאמֶר שִׁפְחָתְךָ יִהְיֶה נָּא דְּבַר אֲדֹנִי הַמֶּלֶךְ לִמְנֻחָה כִּי כְּמַלְאַךְ הָאֱ-לֹהִים כֵּן אֲדֹנִי הַמֶּלֶךְ לִשְׁמֹעַ הַטּוֹב וְהָרָע וַה' אֱ-לֹהֶיךָ יְהִי עִמָּךְ\"."
+   }
+  },
+  {
+   "node": 51,
+   "outsideText": "<table><tbody><tr><td><big>ו. שאלות בקיאות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ט״ו",
+   "node": 52,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:15",
+   "text": {
+    "en": "And I will put enmity between thee and the woman, and between thy seed and her seed; they shall bruise thy head, and thou shalt bruise their heel.’",
+    "he": "\"יְשׁוּפְךָ\""
+   }
+  },
+  {
+   "node": 53,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ואתה תשופנו (לעיל): לפי דעתו יש לפרש \"ישופך\", \"תשופנו\" בפירושים שונים זה מזה, ונמצא הלשון נופל על לשון. </span>"
+  },
+  {
+   "node": 54,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הידועים לך מקומות בתנ\"ך, בם חוזרת מילה משורש אחד בפסוק אחד או בפסוקים סמוכים ומתפרשת פירושים שונים?"
+  }
+ ],
+ "ssn": 1021,
+ "status": "public",
+ "summary": "1945 (תש\"ה)<br><a href=\"http://www.nechama.org.il/pdf/1021.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ה - העונש",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

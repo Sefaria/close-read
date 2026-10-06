@@ -1,0 +1,553 @@
+{
+ "dateCreated": "2019-03-06T05:34:04.649266",
+ "dateModified": "2019-03-07T02:21:46.968596",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 3:6:2",
+  "Bereshit Rabbah 19:8",
+  "Genesis 3:8",
+  "Rashi on Genesis 3:11:1",
+  "Ibn Ezra on Genesis 3:8:1",
+  "Rashi on Genesis 3:7:3",
+  "Rashi on Genesis 3:8:1",
+  "Sforno on Genesis 3:22:1",
+  "Rashi on Genesis 3:6:1",
+  "Ramban on Genesis 3:8:1",
+  "Rashi on Genesis 3:3:1",
+  "Rashi on Genesis 3:12:1",
+  "Genesis 3:22",
+  "Rashi on Genesis 3:7:1",
+  "Rashi on Genesis 3:22:1",
+  "Rashi on Genesis 3:8:2",
+  "Ibn Ezra on Genesis 3:22:1",
+  "Genesis 3:9",
+  "Rashi on Genesis 3:4:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161941,
+ "includedRefs": [
+  "Rashi on Genesis 3:3:1",
+  "Rashi on Genesis 3:4:1",
+  "Rashi on Genesis 3:7:3-8:1",
+  "Rashi on Genesis 3:6:1",
+  "Rashi on Genesis 3:6:2",
+  "Rashi on Genesis 3:7:1",
+  "Rashi on Genesis 3:11:1",
+  "Rashi on Genesis 3:12:1",
+  "Genesis 3:8",
+  "Rashi on Genesis 3:8:1",
+  "Rashi on Genesis 3:8:1",
+  "Rashi on Genesis 3:8:2",
+  "Ibn Ezra on Genesis 3:8:1",
+  "Ramban on Genesis 3:8:1",
+  "Bereshit Rabbah 19:8",
+  "Genesis 3:9",
+  "Genesis 3:22",
+  "Rashi on Genesis 3:22:1",
+  "Ibn Ezra on Genesis 3:22:1",
+  "Sforno on Genesis 3:22:1"
+ ],
+ "nextNode": 47,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "שאלון זה הוא המשך שאלון <a class=\"refLink\" href=\"/sheets/162000\" data-ref=\"sheet.162000\" target=\"_blank\">בראשית תש\"ג</a>, שעסק בפסוקים הראשונים של פרקנו ובמהותו של \"הנחש\" ומובנו של \"עץ הדעת\". עיין שם! "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ג׳:א׳",
+   "node": 3,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Rashi on Genesis 3:3:1",
+   "text": {
+    "en": "ולא תגעו בו NEITHER SHALL YE TOUCH IT — She added to God’s command (which did not forbid touching the tree, but only eating of its fruit) therefore she was led to diminish from it. It is to this that the text refers (Proverbs 30:6): “Add thou not unto His words” (Genesis Rabbah 19:3). ",
+    "he": "ד\"ה ולא תגעו בו: הוסיפה על הציווי לפיכך באה לידי גרעון. הוא שנאמר (<a class=\"refLink\" href=\"/Proverbs 30\" data-ref=\"Proverbs 30\" target=\"_blank\">משלי ל'</a>) אל תוסף על דבריו."
+   }
+  },
+  {
+   "node": 4,
+   "outsideText": "יש ממפרשי רש\"י המקשים: למה הביא פסוק ממשלי (ל' ו') כראיה לדבריו ולא הביא את דברי התורה <a class=\"refLink\" href=\"/Deuteronomy 4:2\" data-ref=\"Deuteronomy 4:2\" target=\"_blank\">דברים ד' ב'</a>?"
+  },
+  {
+   "node": 5,
+   "outsideText": "ענה לשאלתם!"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ד׳:א׳",
+   "node": 6,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Rashi on Genesis 3:4:1",
+   "text": {
+    "en": "לא מות תמתון YE SHALL NOT SURELY DIE — He pushed her until she touched it. He then said to her, “Just as there is no death in touching it, so there is no death in eating it” (Genesis Rabbah 19:3). ",
+    "he": "ד\"ה לא מות תמותון: דחפה עד שנגעה בו. אמר לה: כשם שאין מיתה בנגיעה כך אין מיתה באכילה (ב\"ר). "
+   }
+  },
+  {
+   "node": 7,
+   "outsideText": "מה ראה רש\"י להביא דברי המדרש הזה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ז׳:ג׳-ח׳:א׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:7:3-8:1",
+   "text": {
+    "en": "עלה תאנה FIG LEAVES — This was the tree of which they had eaten; by the very thing through which their ruin had been caused was some improvement effected in their condition (Sanhedrin 70b). The other trees however prevented them from taking of their leaves. And why is not the name of the tree clearly mentioned? Because the Holy One, blessed be He, never wishes to grieve anything He has created: hence its name is not mentioned in order that it might not be put to shame by people saying, “This is the tree through which the world suffered” (Midrash R. Tanchuma 1:4:14). וישמעו AND THEY HEARD — There are many Midrashic explanations and our Teachers have already collected them in their appropriate places in Genesis Rabbah and in other Midrashim. I, however, am only concerned with the plain sense of Scripture and with such Agadoth that explain the words of Scripture in a manner that fits in with them. וישמעו AND THEY HEARD — What did they hear? They heard the sound of the Holy One, blessed be He, as He walked in the garden (see Genesis Rabbah 19:12).",
+    "he": "וראה הכלל שלו בבחירת המדרשים פסוק ה':<br>ד\"ה וישמעו: יש מדרשי אגדה רבים וכבר סדרום רבותינו על מכונם בב\"ר ובשאר מדרשות. ואני לא באתי אלא לפשוטו של מקרא ולאגדה המישבת דברי המקרא דבר דבור על אופניו."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ו׳:א׳",
+   "node": 9,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Rashi on Genesis 3:6:1",
+   "text": {
+    "en": "ותרא האשה AND THE WOMAN SAW — She approved the words of the serpent — they pleased her and she believed him (Genesis Rabbah 19:3).",
+    "he": "ד\"ה ותרא: ראתה דבריו של נחש והנאו לה והאמינתו (ב\"ר)."
+   }
+  },
+  {
+   "node": 10,
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "node": 11,
+   "outsideText": "דברי רש\"י אלה לקוחים מבראשית רבה פרשה י\"ט \"ראתה דבריו של נחש\". מה ראה רש\"י להוסיף עוד: \"והנאו לה והאמינה לו\"."
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ו׳:ב׳",
+   "node": 12,
+   "options": {
+    "PrependRefWithHe": "4. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Rashi on Genesis 3:6:2",
+   "text": {
+    "en": "כי טוב העץ THAT THE TREE WAS GOOD to make her become like God.",
+    "he": "ד\"ה כי טוב העץ: להיות כאלהים."
+   }
+  },
+  {
+   "node": 13,
+   "outsideText": "מניין לו?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ז׳:א׳",
+   "node": 14,
+   "options": {
+    "PrependRefWithHe": "5. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 3:7:1",
+   "text": {
+    "en": "‘ותפקחנה וגו [AND THE EYES OF BOTH OF THEM] WERE UNCLOSED — Scripture speaks here with reference to intelligence (the mind’s eye) and not with reference to actual seeing; the end of the verse proves this for it states,",
+    "he": "ד\"ה ותפחקנה: לענין החכמה דיבר הכתוב ולא לענין ראיה ממש. וסוף המקרא מוכיח."
+   }
+  },
+  {
+   "node": 15,
+   "outsideText": "למה לא פירש רש\"י כך גם ב <a class=\"refLink\" href=\"/Genesis 21:19\" data-ref=\"Genesis 21:19\" target=\"_blank\">פרק כ\"א פסוק י\"ט</a> ויפקח אלוקים את עיניה? (ועיין מורה נבוכים מאמר א' בסוף פרק ב' על פסוקנו ועל הפסוק ההוא, והועתקו דבריו בשאלון <a class=\"refLink\" href=\"/sheets/162003\" data-ref=\"sheet.162003\" target=\"_blank\">וירא תש\"ג</a> , עיין שם)."
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״א:א׳",
+   "node": 16,
+   "options": {
+    "PrependRefWithHe": "6. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 3:11:1",
+   "text": {
+    "en": "מי הגיד לך WHO TOLD THEE? — Whence has the knowledge come to you what shame there is in standing naked?",
+    "he": "ד\"ה מי הגיד לך: מאין לך לדעת מה בושת יש בעומד ערום."
+   }
+  },
+  {
+   "node": 17,
+   "outsideText": "ולמה לא פירש כמשמעו?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:י״ב:א׳",
+   "node": 18,
+   "options": {
+    "PrependRefWithHe": "7. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 3:12:1",
+   "text": {
+    "en": "אשר נתת עמדי WHOM THOU GAVEST TO BE WITH ME — Here he showed his ingratitude (Avodah Zarah 5b). ",
+    "he": "ד\"ה אשר נתת עמדי: (ע\"ז ה) כאן כפר בטובה."
+   }
+  },
+  {
+   "node": 19,
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"קול א-להים מתהלך\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ח׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:8",
+   "text": {
+    "en": "And they heard the voice of the LORD God walking in the garden toward the cool of the day; and the man and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.",
+    "he": "\"וַיִּשְׁמְעוּ אֶת קוֹל ה' אֱ-לֹהִים מִתְהַלֵּךְ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ח׳:א׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:8:1",
+   "text": {
+    "en": "וישמעו AND THEY HEARD — There are many Midrashic explanations and our Teachers have already collected them in their appropriate places in Genesis Rabbah and in other Midrashim. I, however, am only concerned with the plain sense of Scripture and with such Agadoth that explain the words of Scripture in a manner that fits in with them. וישמעו AND THEY HEARD — What did they hear? They heard the sound of the Holy One, blessed be He, as He walked in the garden (see Genesis Rabbah 19:12).",
+    "he": "ד\"ה וישמעו: יש מדרשי אגדה רבים וכבר סדרום רבותינו על מכונם בב\"ר ובשאר מדרשות. ואני לא באתי אלא לפשוטו של מקרא ולאגדה המישבת דברי המקרא דבר דבור על אופניו. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ח׳:א׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:8:1",
+   "text": {
+    "en": "וישמעו AND THEY HEARD — There are many Midrashic explanations and our Teachers have already collected them in their appropriate places in Genesis Rabbah and in other Midrashim. I, however, am only concerned with the plain sense of Scripture and with such Agadoth that explain the words of Scripture in a manner that fits in with them. וישמעו AND THEY HEARD — What did they hear? They heard the sound of the Holy One, blessed be He, as He walked in the garden (see Genesis Rabbah 19:12).",
+    "he": "ד\"ה וישמעו: מה שמעו, שמעו את קול הקב\"ה שהיה מתהלך בגן. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:ח׳:ב׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:8:2",
+   "text": {
+    "en": "לרוח היום IN THE WIND OF THE DAY — (רוח is used also in the meaning of direction,— north, east, — etc.) in that direction to which the sun travels (באה לשם) which is the west, for towards evening the sun is in the west, and they committed the sin in the tenth hour (Sanhedrin 38b).",
+    "he": "ד\"ה לרוח היום: לאותו רוח שהשמש באה משם (ס\"א \"לשם\", ודוק כי כן עיקר). וזו היא מערבית שלפנות ערב חמה במערב, והמה סרחו בעשירית (שם ל\"ח). "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ג׳:ח׳:א׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 3:8:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וישמעו. מתהלך בגן: קול השם. וזה היה סמוך לערב בעת התנופף רוח היום. ומצאנו לקול הליכה כמו קולה כנחש ילך, קול השופר הולך וחזק מאוד. \nויאמר ר' יונה המדקדק הספרדי כי הטעם והאדם מתהלך בגן. "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ג׳:ח׳:א׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 3:8:1",
+   "text": {
+    "en": "<b>Moving (or “walking”) in the Garden.</b> There are numerous verses in which Hashem is said to “walk” among the righteous (see, for example, <i>Vayikra</i> 26:12) or to depart from them (<i>Bereishis</i> 18:33). These statements refer to the revelation of the Divine Presence and its subsequent departure.",
+    "he": "ד\"ה וישמעו את קול ה' אלהים מתהלך בגן לרוח היום: אמרו בבראשית רבה (י\"ט י\"ב) אמר רבי חילפי שמענו שיש הילוך לקול, שנאמר וישמעו את קול ה' אלהים מתהלך בגן, וכן כתב הרב במורה הנבוכים (א' כ\"ד), וכן דעת רבי אברהם, כי \"מתהלך\" כינוי לקול, כענין קולה כנחש ילך (<a class=\"refLink\" href=\"/Jeremiah 46:22\" data-ref=\"Jeremiah 46:22\" target=\"_blank\">ירמיה מ\"ו כ\"ב</a>). והוא אמר כי טעם \"לרוח היום\" ששמעו הקול לפנות ערב. והזכיר בשם רבי יונה כי הטעם והאדם מתהלך בגן לרוח היום.\nולפי דעתי כי טעם מתהלך בגן עדן כטעם והתהלכתי בתוככם (<a class=\"refLink\" href=\"/Leviticus 26:12\" data-ref=\"Leviticus 26:12\" target=\"_blank\">ויקרא כ\"ו י\"ב</a>), וילך ה' כאשר כלה לדבר אל אברהם (להלן י\"ח ל\"ג), אלך אשובה אל מקומי (<a class=\"refLink\" href=\"/Hosea 5:15\" data-ref=\"Hosea 5:15\" data-ref=\"Hosea 5:15\" target=\"_blank\">הושע ה' ט\"ו</a>), והוא ענין גילוי שכינה במקום ההוא, או הסתלקותו מן המקום שנגלה בו. \nוטעם לרוח היום, כי בהגלות השכינה תבוא רוח גדולה וחזק, כענין שנאמר (מ\"א יט יא) והנה ה' עובר ורוח גדולה וחזק מפרק הרים ומשבר סלעים לפני ה', וכן וידא על כנפי רוח (<a class=\"refLink\" href=\"/Psalms 18:11\" data-ref=\"Psalms 18:11\" target=\"_blank\">תהלים י\"ח י\"א</a>), וכתוב באיוב (<a class=\"refLink\" href=\"/Job 38:1\" data-ref=\"Job 38:1\" target=\"_blank\">ל\"ח א</a>') ויען ה' את איוב מן הסערה, ולפיכך אמר בכאן כי שמעו קול ה' שנתגלה השכינה בגן כמתקרב אליהם לרוח היום, כי רוח ה' נשבה בו בגן כרוח הימים, לא רוח גדולה וחזק במחזה בשאר הנבואות, שלא יפחדו ויבהלו. ואמר כי אף על פי כן נתחבאו מפני מערומיהם.\nובבראשית רבה (י\"ט ז') נמי אמרו: אמר רבי אבא בר כהנא מהלך אין כתוב כאן אלא מתהלך, מקפץ ועולה. הנה רבי אבא עשאו כלשון \"וילך ה'\" (להלן י\"ח ל\"ג), כמו שפירשנו בלשון ההליכה, אלא שהוא פתר הכתוב להסתלקות השכינה, שהיתה שורה בגן עדן ונסתלקה ממנו בחטאו של אדם, כענין אלך אשובה אל מקומי (<a class=\"refLink\" href=\"/Hosea 5:15\" data-ref=\"Hosea 5:15\" data-ref=\"Hosea 5:15\" target=\"_blank\">הושע ה' ט\"ו</a>), ואנו מפרשים אותו לגילוי השכינה במקום ההוא, והוא הנכון והנאות בכתוב."
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. במה נחלקים המפרשים?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. כמי מהם תרגם רמבמ\"ן:<br>דא הארטען זי די שטימע דעס עוויגען וועזענס, גאט, וואנדעלנד צור זייטע דעס טאגעס?"
+  },
+  {
+   "heRef": "בראשית רבה י״ט:ח׳",
+   "node": 29,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Bereshit Rabbah 19:8",
+   "text": {
+    "en": "",
+    "he": "... שמעו קולו של אילנות שהיו אומרים: גנב דגנב דעתיה דברייה (= דעת בוראו). "
+   }
+  },
+  {
+   "node": 30,
+   "outsideText": "מה הרעיון הכלול בדברי המדרש?"
+  },
+  {
+   "node": 31,
+   "outsideText": "<table><tbody><tr><td><big>ג. ביאור מילת \"איכּה\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:ט׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:9",
+   "text": {
+    "en": "And the LORD God called unto the man, and said unto him: ‘Where art thou?’",
+    "he": "\"אַיֶּכָּה\""
+   }
+  },
+  {
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">הרכסים לבקעה:</span><br><span style=\"color: rgb(51,51,51);\">המבקש לדעת מקום המבוקש, יאמר \"איפה הוא?\", \"איפה הם רועים?\" (<a class=\"refLink\" href=\"/Genesis 37\" data-ref=\"Genesis 37\" target=\"_blank\">בראשית ל\"ז</a>), \"איפה לקטת היום?\" (רות).\nאבל השואל \"איה הוא?\" אינו כי אם מתמיה שלא מצאו במקום הרגיל (וו איזט ער גאבליאן), \"ואיה נפלאותיו אשר ספרו לנו?\" (<a class=\"refLink\" href=\"/Judges 6\" data-ref=\"Judges 6\" target=\"_blank\">שופטים ו'</a>) וו בלייבען זיינע וואונדר, \"איה שרה אשתך?\" (<a class=\"refLink\" href=\"/Genesis 18\" data-ref=\"Genesis 18\" target=\"_blank\">בראשית י\"ח</a>) = מדוע איננה עמך פה? \"איה ה' אלוקי אדוני אליהו?\" (<a class=\"refLink\" href=\"/II Kings 2\" data-ref=\"II Kings 2\" target=\"_blank\">מלכים ב' ב'</a>) = מדוע איננו עמי להושיעני כמוהו? – וכן זה: \"איכה?\" = מדוע אינך במקום הרגיל?...</span>"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה הקושי המתרץ על ידי ביאור זה של המילה \"איכה\"?"
+  },
+  {
+   "node": 35,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"האדם היה כאחד ממנו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ג׳:כ״ב",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 3:22",
+   "text": {
+    "en": "And the LORD God said: ‘Behold, the man is become as one of us, to know good and evil; and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever.’",
+    "he": "\"הֵן הָאָדָם הָיָה כְּאַחַד מִמֶּנּוּ לָדַעַת טוֹב וָרָע\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ג׳:כ״ב:א׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 3:22:1",
+   "text": {
+    "en": "היה כאחד ממנו  IS BECOME LIKE ONE OF US (or, like the Being who is One, Unique amongst us) — Lo, he is unique among the terrestrial ones, even as I am unique among the celestial ones. And in what does his uniqueness consist? In knowing good and evil, which is not so in the case of cattle and beasts (Genesis Rabbah 21:5).",
+    "he": "ד\"ה היה כאחד ממנו: הרי הוא יחיד בתחתונים כמו שאני יחיד בעליונים. ומה היא יחידתו - לדעת טוב ורע, מה שאין כן בבהמה וחיה. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ג׳:כ״ב:א׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 3:22:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ויאמר: כאשר יהיה אחד בפת\"ח קטן יהיה בטעם וענינו מוכרת. ואם יהיה בפתח גדול יהיה סמוך. וכן: כאחד שבטי ישראל. על כן לא יתכן מדקדוק הלשון להיות פירושו \"כמו אחד\", ומה טעם יהיה לו, והיה בעל הטעמים ראוי לדבק ממנו עם לדעת... וטעם הפסוק כמו והייתם כאלהים יודעי טוב ורע. או פירש על מחשבתו. ואל תתמה על מילת ממנו, כי כמוהו: נעשה אדם בצלמנו, הבה נרדה, וזה דיבור השם עם המלאכים. "
+   }
+  },
+  {
+   "node": 39,
+   "outsideText": "(הערה לדברי ראב\"ע הנ\"ל: \"פתח קטן\" בלשון המדקדקים הקדמונים = סגול."
+  },
+  {
+   "node": 40,
+   "outsideText": "\"מוכרת\" = נפרד ולא נסמך.)"
+  },
+  {
+   "heRef": "ספורנו על בראשית ג׳:כ״ב:א׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 3:22:1",
+   "text": {
+    "en": "כאחד ממנו לדעת טוב ורע, he will know good and evil even while continuing to wear “our image.” This would be an intolerable situation, as in spite of his tendency to give in to his evil urge he would live on forever. [the author considers בצלמנו as a reference to the infinite life prevailing among the celestial beings. Ed.] In such circumstances, this Adam whose evil urge was active would continue to chase the material blessings of this world, something which would prevent him from reaching the spiritual aims set for him on earth when G’d made him in the divine image.",
+    "he": "ד\"ה כאחד ממנו לדעת טוב ורע: הוא יודע טוב ורע עם היותו בצלמנו ואם יהיה נצחי בזה הענין הנה ירדוף כל הימים אחר הערב וישליך אחרי גיוו כל השגה שכלית וכל מעשה טוב ולא ישיג האושר הרוחני המכוון מאת האל יתברך בצלמו ודמותו."
+   }
+  },
+  {
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רמב\"ם, הלכות תשובה פרק חמישי הלכה א':</span><br><span style=\"color: rgb(51,51,51);\">רשות לכל אדם נתונה, אם רצה להטות עצמו לדרך טובה ולהיות צדיק – הרשות בידו. ואם רצה להטות עצמו לדרך רעה ולהיות רשע – הרשות בידו. הוא שכתוב בתורה: הן האדם היה כאחד ממנו לדעת טוב ורע. כלומר: הן מין זה של אדם היה יחיד בעולם ואין מין שני דומה לו בזה העניין. שיהא הוא מעצמו בדעתו ובמחשבתו יודע הטוב והרע ועושה כל מה שהוא חפץ ואין מי שיעכב בידו מלעשות הטוב או הרע...</span>"
+  },
+  {
+   "node": 43,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1. באר את דברי ראב\"ע: \"או פירש על מחשבתו\", \"ועל תתמה על מילת ממנו\"."
+  },
+  {
+   "node": 44,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. במה שונה דעת הרמב\"ם בהבנת הפסוק מדעת כל האחרים? העתק את הפסוק בסימני פסוק לפי תפישתו."
+  },
+  {
+   "node": 45,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. מה מאלצו שלא ללכת בדרך שאר המפרשים?"
+  }
+ ],
+ "ssn": 1291,
+ "status": "public",
+ "summary": "1944 (תש\"ד)<br><a href=\"http://www.nechama.org.il/pdf/1291.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ד - החטא",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

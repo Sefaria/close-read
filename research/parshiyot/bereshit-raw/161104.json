@@ -1,0 +1,374 @@
+{
+ "dateCreated": "2019-03-06T05:22:59.431443",
+ "dateModified": "2019-03-07T02:07:04.195411",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 4:3",
+  "Ibn Ezra on Genesis 4:13:1",
+  "Ramban on Genesis 4:3:1",
+  "Rashi on Genesis 4:13:1",
+  "Genesis 4:4",
+  "Genesis 4:13",
+  "Bereshit Rabbah 22:9",
+  "Ramban on Leviticus 1:9:1",
+  "Rashi on Genesis 4:9:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161104,
+ "includedRefs": [
+  "Bereshit Rabbah 22:9",
+  "Genesis 4:3",
+  "Genesis 4:4",
+  "Ramban on Genesis 4:3:1",
+  "Ramban on Leviticus 1:9:1",
+  "Rashi on Genesis 4:9:1",
+  "Rashi on Genesis 4:13:1",
+  "Genesis 4:13",
+  "Ibn Ezra on Genesis 4:13:1"
+ ],
+ "nextNode": 36,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "הערה: גיליון זה הוא המשכו של גיליון <a class=\"refLink\" href=\"/sheets/161216\" data-ref=\"sheet.161216\" target=\"_blank\">בראשית תשט\"ז</a> שעסק בחלק הראשון של פרקנו \nובייחוד בפסוק ח', עיין שם וצרפהו לגיליוננו זה."
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. \"...השומר אחי אנכי\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית רבה כ״ב:ט׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 22:9",
+   "text": {
+    "en": "... The voice of your brother’s bloods [are] screaming to me from [the surface of] the ground” [Gn 4:10]—[this means that] she (the voice of Hevel’s blood) could not go up above/l’ma`lah, for as yet no soul/n’shamah had gone up to there; and below/l’matah she could not stand (i.e., stay or sink into the ground), for as yet no adam had been buried there, and [so] “his blood was cast upon the trees and the stones.",
+    "he": "ויאמר ה' אל קין אי הבל אחיך ויאמר לא ידעתי השומר אחי אנכי. \nמשל לאיפורכוס (שר הממונה לשמור בני המדינה), שהיה מהלך באמצע פלטיא (רחוב גדול ברשות הרבים), מצא הרוג ואחד עומד על גביו. אמר לו: \"מי הרגו?\" אמר לו (זה העומד על גבי ההרוג): אנא בעי ליה גבך, ואת בעי לי גבי? (=אני מבקשו מעמך ואומר, שאתה הרגתו, ואתה אומר שאני הרגתיו?! מתנות כהונה). אמר לו (האיפורכוס): לא אמרת כלום."
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">תנחומא א' ט':</span><br><span style=\"color: rgb(51,51,51);\">כיון שאמר לו הקדוש ברוך הוא: \"אי הבל אחיך\", אמר לו: \"לא ידעתי, השומר אחי אנכי?\" אתה הוא שומר כל הבריות, ואתה מבקשו מידי?! משל למה הדבר דומה? לגנב שגנב כלים בלילה ולא נתפש. לבוקר תפשו השוער. אמר לו: \"למה גנבת את הכלים?\" אמר לו: \"אני גנב ולא הנחתי אומנותי, אבל אתה אומנותך בשער לשמור, למה הנחת אומנותך?! ועכשו אתה אומר לי כך?!\" אף קין כך אמר...</span>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1. הסבר מה משמעותה של טענת קין אל הקדוש ברוך הוא (וטענת כל חוטא) לפי דברי חז\"ל אלה!"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2.  מה משמעותה של תשובת הקדוש ברוך הוא: \"לא אמרת כלום\"? (עיין גם בדברי יצחק היינמן, דרכי אגדה, עמוד 17)."
+  },
+  {
+   "node": 7,
+   "outsideText": "<table><tbody><tr><td><big>ב. גאולת הדם</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מאדם עד נח, עמוד 104:</span><br><span style=\"color: rgb(51,51,51);\">רגילה התורה להלביש רעיונותיה לבוש של תיאור קונקרטי ולמסור את הוראותיה על ידי סיפור מעשים, שאפשר להסיק מהם אותן הוראות... ההוראות שרצתה התורה למסור כאן (בפרק ד') אינן כלולות במאורעות שהיא מספרת אלא <b>בדברי ה'</b>... \nהוראות אלה מתחלקות לשני סוגים: יש מהן שבולטות לעין וברורות אפילו לקורא הנחפז... (והן שתים...) ויש סוג שני, שאנו יכולים למצוא בכתוב כשאנו מעיינים בו בתשומת לב, ואלו הן: ...מחאה נגד המנהג של נקמת הדם... ניכרת בחוקי התורה בכלל נטייה <b>לצמצם אותו</b> (את מנהג נקמת הדם) ולהעמידו על המועט... וגם בפרשתנו, בקשר למקרה הראשון של רצח בתולדות האנושות, באה לידי ביטוי נטייה מעין זו.</span>"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה הן שתי ההוראות הבולטות לעין וברורות הכלולות שבפרקנו?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  היכן בפרקנו יש למצוא את המגמה להילחם בגאולת הדם?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3. היכן יש למצוא בחוקי התורה את הנטייה לצמצם את מנהג גאולת הדם?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. מה הוא \"המועט\" אשר השאירה התורה בחוקיה למנהג זה?"
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ג. קורבנות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ג׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:3",
+   "text": {
+    "en": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.",
+    "he": "\"... וַיָּבֵא קַיִן מִפְּרִי הָאֲדָמָה מִנְחָה לַה'\""
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:ד׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:4",
+   "text": {
+    "en": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering;",
+    "he": "\"וְהֶבֶל הֵבִיא גַם הוּא...\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ד׳:ג׳:א׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 4:3:1",
+   "text": {
+    "en": "<b>Kayin brought.</b> The intellectual giants of those early generations understood the real significance of the sacrifices.",
+    "he": "הבינו האנשים האלה סוד גדול מהקרבנות והמנחות, וכן נח, ורבותינו אמרו, שגם אדם הראשון הקריב שור פר. וזה יחסום פי מהבילים בטעם הקרבנות, ועוד ארמוז בו עיקר גדול ברצון הקדוש ברוך הוא*."
+   }
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1. מי הם \"המהבילים בטעם הקרבנות\"?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. כיצד נעזר הרמב\"ן בקרבן הבל, נח ואדם הראשון כדי להילחם ב\"מהבילים בטעם הקרבנות\"?"
+  },
+  {
+   "heRef": "רמב\"ן על ויקרא א׳:ט׳:א׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Leviticus 1:9:1",
+   "text": {
+    "en": "<b>as a burnt offering: </b>[the kohen] must burn the animal with the intention that it is a burnt offering. (Torat Kohanim 1:58) <b>a fire offering: </b>When he slaughters [the animal], he must slaughter it with the intention [to burn it completely in] fire. Every [instance of the word] אִשֶּׁה in Scripture, is an expression related to אֵשׁ, “fire.\" <b>pleasing: </b>gives Me contentment, for I said [My commandment], and My will was fulfilled!” End quotation from Rashi. But the Rav did not explain what \"for the fire\" means. And in Gemara (Zevachim 46:b) they said: \"To exclude unfinished burning,\" and he explains here that we slaughter it in order to place it over the burning wood fire upon the altar, not to place it over the coals that chill and go dim. And it seems to me that one needs to intend that the fire consume it completely, and not to roast it a little. And this relates to the rebellious son (Sanhedrin 70a): \"Like midcooked thieve's meat.\" And in Tractate Eruvin: \"Neither cooked nor consumed.\" (Eruvin 29b) And there are some that explain there: \"To exclude unfinished burning.\" (Zevachim 46a) His intention was to place over wood fire, as it is written \"over the fire on the wood,\" and not over straw fire nor kindling fire. It is like the matter we learned: \"finished oven with straw and mulch.\" (Shabbat 36b) And behold, in this verse the reason for the sacrifices is that they are \"a fire offering with a pleasing odor to the Lord.\" But the Rambam said in the Guide for the Perplexed (3:46) that the reason for the sacrifices was for the sake of the Egyptians and Chaldeans, in whose lands Israel used to live and dwell, who would worship the bull and the sheep. Because the Egyptians worshipped a lamb, and the Chaldeans worshipped demons that appeared to them as goats. And the people of India to this day never slaughter a cow. For this reason (God) commanded to slaughter these three species in God's name to make known that the matter which (the pagans) thought of as the ultimate sin is what (the Israelites) will sacrifice to their Creator and their sins will be attoned for. For thus are bad beliefs healed, which are ailments of the soul, since every ailment and illness is healed through its opposite. These are his words and he continues at length. This is rubbish! They have healed a great hurt and a great difficulty lightly! The table of the Eternal is made polluted. (Malachi 1:12) For they are not only to remove [false beliefs] from the hearts of the wicked and fools of the world.  Doesn't Scripture say that they are \"food of the gift offering, for a pleasing odor?\" (Leviticus 3:16) And also due to the idiocy of the Egyptians their illness won't be healed this way.  Rather it would increase suffering, because the intention of the aforementioned wicked ones was to worship the constellations of the sheep and the ox, which have power, according to their thinking.  And therefore they don't eat them in deference to their power and strength.  But if they are slaughtered for the Revered Name, this would be an honor for them... Since the deeds of people are determined by thought, speech and action, God, may He be blessed, commanded that when he sins, he brings a sacrifice and place his hands upon him corresponding to the deed, and confess with his mouth corresponding to the speech, and burn the innards and the kidneys, as they are the instruments of thought and desire. And the limbs [of the sacrifice] correspond to the hands and feet of a person that does all of his work. And he sprinkles the blood on the altar corresponding to the blood of his soul, so that a person think in doing all of this that he sinned to God with his body and his soul, and it is fit for him that his blood be spilled and his body burnt; were it not for the kindness of the Creator, who took an exchange and ransom from him [in] the sacrifice - that its blood be instead of his blood and its soul be instead of his soul. And the central limbs correspond to his central limbs. And the portions with which to sustain the teachers of Torah [are so] that they will pray for him. And the daily sacrifice is because there is no saving the community from always sinning. And these words are tenable [and] grab the heart, like the words of classic homiletic teachings (Shabbat 87a). And in the way of truth (mysticism), the sacrifices contain a hidden secret...",
+    "he": "* כוונת הרמב\"ן ב\"עוד ארמוז בו\" היא לדבריו <a class=\"refLink\" href=\"/Leviticus 1:9\" data-ref=\"Leviticus 1:9\" target=\"_blank\">ויקרא א' ט'</a>:<br>ד\"ה ניחוח: והנה בכתוב הזה טעם הקרבנות שהם אשה ריח ניחוח לה'. ואמר הרב במורה הנבוכים (ג מו) כי טעם הקרבנות, בעבור שהמצרים והכשדים, אשר היו ישראל גרים ותושבים בארצם מעולם, היו עובדים לבקר ולצאן, כי המצרים עובדים לטלה, והכשדים עובדים לשדים אשר ייראו להם בדמות שעירים, ואנשי הודו עד היום לא ישחטו בקר לעולם. בעבור כן ציוה לשחוט אלה השלושה מינין לשם הנכבד, כדי שייוודע כי הדבר שהיו חושבים כי הם בתכלית העבירה הוא אשר יקריבו לבורא, ובו יתכפרו העוונות. כי כן יתרפאו האמונות הרעות שהם מדווי הנפש, כי כל מדוה וכל חולי לא יתרפא כי אם בהפכו. אלה דבריו ובהם האריך.\nוהנה הם דברי הבאי, ירפאו שבר גדול וקושיא רבה על נקלה, יעשו שולחן ה' מגואל שאיננו רק להוציא מלבן של רשעים וטפשי עולם, והכתוב אמר כי הם לחם אשה לריח ניחוח.\nוגם כי לפי שטותם של מצרים לא תתרפא מחלתם בזה, אבל תוסיף מכאוב, כי מחשבת הרשעים הנזכרים לעבוד למזל טלה ומזל שור, שיש להם כוח בהם כפי מחשבתם, ולכן לא יאכלו אותם לכבוד כוחם ויסודם, אבל אם יזבחו אותם לשם הנכבד זה כבוד להם ומעלה, והם עצמם כך הם נוהגים, כמו שאמר (<a class=\"refLink\" href=\"/Leviticus 17:7\" data-ref=\"Leviticus 17:7\" target=\"_blank\">ויקרא יז ז</a>) \"ולא יזבחו עוד את זבחיהם לשעירים\", ועושי העגל זבחו לו. \nוהרב מזכיר שהיו מקריבים ללבנה בכל ראשי חודשיהם, ולשמש בעלותה במזלות הידועים להם בספריהם. ויותר תתרפא המחלה באכלנו מהם לשובע, שהוא אסור להם ומגונה בעיניהם ולא יעשו כן לעולם.\nוהנה נח בצאתו מן התיבה עם שלושת בניו - אין בעולם כשדי או מצרי הקריב קרבן, וייטב בעיני ה' ואמר בו (<a class=\"refLink\" href=\"/Genesis 8:21\" data-ref=\"Genesis 8:21\" target=\"_blank\">בראשית ח כא</a>) \"וירח ה' את ריח הניחוח\". וממנו אמר אל לבו, \"לא אוסיף עוד לקלל את האדמה בעבור האדם\" (שם). \"והבל הביא גם הוא מבכורות צאנו ומחלביהן, וישע ה' אל הבל ואל מנחתו\" (שם ד ד), ולא היה עדיין בעולם שמץ עבודה זרה כלל. \nובלעם אמר \"את שבעת המזבחות ערכתי ואעל פר ואיל במזבח\" (<a class=\"refLink\" href=\"/Numbers 23:4\" data-ref=\"Numbers 23:4\" target=\"_blank\">במדבר כג ד</a>), ואין דעתו עתה לשלול ממנו אמונות רעות, ולא נצטוה בכך, אבל עשה כן לקרבה אל האלוהים, כדי שיחול עליו הדיבור. ולשון הקרבנות, \"את קרבני לחמי לאשי ריח ניחוחי\" (שם כח ב), וחלילה שלא יהא בהם שום תועלת ורצון רק שוללות עבודה זרה מדעת השוטים. \nויותר ראוי לשמוע הטעם שאומרים בהם, כי בעבור שמעשי בני אדם נגמרים במחשבה ובדיבור ובמעשה, ציוה השם כי כאשר יחטא יביא קרבן, יסמוך ידיו עליו כנגד המעשה, ויתוודה בפיו כנגד הדיבור, וישרוף באש הקרב והכליות שהם כלי המחשבה והתאוה, והכרעים כנגד ידיו ורגליו של אדם העושים כל מלאכתו, ויזרוק הדם על המזבח כנגד דמו בנפשו, כדי שיחשוב אדם בעשותו כל אלה כי חטא לאלוהיו בגופו ובנפשו, וראוי לו שיישפך דמו ויישרף גופו לולא חסד הבורא שלקח ממנו תמורה וכיפר הקרבן הזה, שיהא דמו תחת דמו, נפש תחת נפש, וראשי אברי הקרבן כנגד ראשי אבריו, והמנות להחיות בהן מורי התורה שיתפללו עליו. וקרבן התמיד, בעבור שלא יינצלו הרבים מחטוא תמיד. ואלה דברים מתקבלים מושכים את הלב כדברי אגדה."
+   }
+  },
+  {
+   "node": 20,
+   "outsideText": "ועיין גיליון <a class=\"refLink\" href=\"/sheets/161535\" data-ref=\"sheet.161535\" target=\"_blank\">ויקרא תש\"ח</a>!"
+  },
+  {
+   "node": 21,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ט׳:א׳",
+   "node": 22,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:9:1",
+   "text": {
+    "en": "איה הבל אחיך WHERE IS ABEL THY BROTHER — thus entering into a friendly conversation with him: perhaps he might repent and say, “I have killed him, and sinned against You” (Genesis Rabbah 19:11).",
+    "he": "ד\"ה אי הבל אחיך: להיכנס עמו בדברי נחת, אולי ישוב ויאמר: \"אני הרגתיו וחטאתי לך\"."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א. מה קשה לו בפסוקנו?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  השווה דברי רש\"י כאן לדבריו בראשית ג' ט' ד\"ה איכה. למה לא פירשו גם שם כבמקומנו: \"אולי ישוב ויאמר: חטאתי\"?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י״ג:א׳",
+   "node": 25,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:13:1",
+   "text": {
+    "en": "גדול עוני מנשוא MY PUNISHMENT IS GREATER THAN I CAN BEAR (literally, my sin is greater than what can be borne) — This is a question: You bear the worlds above and below. and is it impossible for You to bear my sin? (Genesis Rabbah 22:11). ",
+    "he": "ד\"ה גדול עווני מנשוא: בתמיהה, אתה טוען עליונים ותחתונים, ועווני אי אפשר לטעון?!"
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   כיצד מפרש רש\"י מילת \"נשא\" בפסוק זה?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  היכן מצינו בפרשה זו שורש זה באותה הוראה לפי דעת רש\"י?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ג.   למה לא יפרש רש\"י שדברי קין הם כאן בניחותא ולא בתמיהה, והלא אין כאן ה\"א השאלה?!"
+  },
+  {
+   "node": 29,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"גדול עווני מנשוא\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:י״ג",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:13",
+   "text": {
+    "en": "And Cain said unto the LORD: ‘My punishment is greater than I can bear.",
+    "he": "\"גָּדוֹל עֲו‍ֹנִי מִנְּשֹׂא\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ד׳:י״ג:א׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 4:13:1",
+   "text": {
+    "en": "",
+    "he": "ופירושו על דעת כל המפרשים שהודה חטאו, ופירוש \"נשא\" כטעם \"סלח\", כמו <a class=\"refLink\" href=\"/Exodus 34:30\" data-ref=\"Exodus 34:30\" target=\"_blank\">שמות </a>(ל\"ד ז') \"נושא עוון ופשע\". \n...ולפי דעתי שהעברים יקראו העקב שכר והעונש הרע הבא בעבור העוון \"חטאת\" וכן (<a class=\"refLink\" href=\"/Genesis 15:30\" data-ref=\"Genesis 15:30\" target=\"_blank\">בראשית ט\"ו ט\"ז</a>) \"כי לא שלם עון האמורי\", (<a class=\"refLink\" href=\"/I Samuel 28:30\" data-ref=\"I Samuel 28:30\" target=\"_blank\">שמואל א' כ\"ח</a>) \"אם יקרך עוון בדבר הזה\", (<a class=\"refLink\" href=\"/Micah 4:30\" data-ref=\"Micah 4:30\" target=\"_blank\">מיכה ד'</a>) \"ויגדל עוון בת עמי\"; והטעם כי זה העונש גדול, לא אוכל לסבלו. ויורה על אמיתת זה הפירוש הפסוק הבא אחריו."
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מי ממפרשינו יפרש כפירושו הראשון המובא בשם \"כל המפרשים\"?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ההבדל בינו לבין פירוש רש\"י ומה המשותף ביניהם?"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. מה מצריך את ראב\"ע לפרש \"עווני\" – עונש ולא חטא?"
+  }
+ ],
+ "ssn": 451,
+ "status": "public",
+ "summary": "1957 (תשי\"ז)<br><a href=\"http://www.nechama.org.il/pdf/451.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשי\"ז - קין והבל",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

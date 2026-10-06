@@ -1,0 +1,359 @@
+{
+ "dateCreated": "2019-03-05T15:09:23.141412",
+ "dateModified": "2019-03-07T02:00:42.210555",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 1:26",
+  "Shadal on Genesis 1:26:4",
+  "Bekhor Shor, Genesis 1:26:3",
+  "Meshekh Chokhmah, Bereshit 7",
+  "Rashi on Genesis 1:27:2",
+  "Radak on Genesis 1:26:2",
+  "Radak on Genesis 1:27:1",
+  "Genesis 1:27",
+  "Shadal on Genesis 1:26:3",
+  "Rashi on Exodus 20:23:2",
+  "Rashi on Genesis 1:27:1",
+  "Bekhor Shor, Genesis 1:26:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160515,
+ "includedRefs": [
+  "Genesis 1:26",
+  "Genesis 1:27",
+  "Rashi on Genesis 1:27:1",
+  "Rashi on Genesis 1:27:2",
+  "Rashi on Exodus 20:23:2",
+  "Bekhor Shor, Genesis 1:26:2-3",
+  "Radak on Genesis 1:26:2",
+  "Radak on Genesis 1:27:1",
+  "Shadal on Genesis 1:26:3",
+  "Shadal on Genesis 1:26:4",
+  "Meshekh Chokhmah, Bereshit 7"
+ ],
+ "nextNode": 30,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. בצלם אלקים - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:כ״ו",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:26",
+   "text": {
+    "en": "And God said: ‘Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.’",
+    "he": "\"נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ\""
+   }
+  },
+  {
+   "heRef": "בראשית א׳:כ״ז",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:27",
+   "text": {
+    "en": "And God created man in His own image, in the image of God created He him; male and female created He them.",
+    "he": "\"וַיִּבְרָא אֱ-לֹהִים אֶת הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱ-לֹהִים בָּרָא אֹתוֹ\""
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה בצלמנו: בדפוס שלנו.</span>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה כדמותנו: להבין ולהשכיל. </span>"
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:כ״ז:א׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:27:1",
+   "text": {
+    "en": "ויברא אלהים את האדם בצלמו SO GOD CREATED THE MAN IN HIS IMAGE —in the type that was specially made for him, for everything else was created by a creative fiat, whilst he was brought into existence by a creative act (literally, by hand), as it is said (Psalms 139:5) “And Thou hast laid thy hand upon me.” He was made by a seal as a coin that is made by a die that is called in old French coin. It is similarly said, (Job 28:14) “it is changed as clay under the seal” (Sanhedrin 38a).",
+    "he": "ד\"ה ויברא אלוקים את האדם בצלמו: בדפוס העשוי לו, שהכל נברא במאמר והוא נברא בידים, שנאמר (<a class=\"refLink\" href=\"/Psalms 139\" data-ref=\"Psalms 139\" target=\"_blank\">תהלים קל\"ט</a>) \"ותשת עלי כפכה\". נעשה בחותם כמטבע העשויה על ידי רושם שקורין קוֹיְן בלעז (coin) וכך הוא אומר (איוב ל\"ח) \"תתהפך כחמר חותם\"."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:כ״ז:ב׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:27:2",
+   "text": {
+    "en": "בצלם אלהים ברא אותו IN THE IMAGE OF GOD CREATED HE HIM — It explains to you that the form prepared for him was the form of the image of his Creator.",
+    "he": "ד\"ה בצלם אלוקים ברא אותו: פירש לך, שאותו צלם המתוקן לו, צלם דיוקן יוצרו הוא."
+   }
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  שונה פירושו של רש\"י ל\"בצלמנו\" שב<a class=\"refLink\" href=\"/Genesis 1:26\" data-ref=\"Genesis 1:26\" target=\"_blank\">פסוק כ\"ו</a> מפירושו ל\"בצלמו\" שבפסוק כ\"ז. <br>הסבר מהו השונה, ומה אילצו לפרש בשני אופנים?"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. שונה פירושו לב' של \"<b>ב</b>צלמנו\" ב<a class=\"refLink\" href=\"/Genesis 1:26\" data-ref=\"Genesis 1:26\" target=\"_blank\">פסוק כ\"ו</a> מפירושו לב' של \"<b>ב</b>צלם אלוקים\" בפסוק כ\"ז. <br>מה ההבדל?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. הסבר, מהו המסומל בבריאה \"בידים\"?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. ומקשים פרשני רש\"י: אם פירש רש\"י את ביטוי ההגשמה בד\"ה \"כדמותנו\", למה לא פירש גם את ההגשמה של \"ותשת עלי <b>כפכה</b>\"?"
+  },
+  {
+   "node": 12,
+   "outsideText": "למה לא אמר בד\"ה בצלם אלוקים ש\"אותו צלם... יוצרו הוא\" אלא אמר \"צלם דיוקן יוצרו\"?"
+  },
+  {
+   "heRef": "רש\"י על שמות כ׳:כ״ג:ב׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Exodus 20:23:2",
+   "text": {
+    "en": " אשר לא תגלה ערותך THAT THY NAKEDNESS BE NOT UNCOVERED — because on account of these steps you will have to take large paces and so spread the legs. Now, although this would not be an actual uncovering of one’s nakedness (of the parts usually kept covered), since it is written, (Exodus 28:42) “And thou shalt make for them (the priests) linen breeches [to cover the flesh of their nakedness]”, still the taking of large paces is near enough to uncovering one’s nakedness that it may be described as such, and you would then be treating them (the stones of the altar) in a manner that implies disrespect. Now the following statement follows logically à fortiori: How is it in the case of stones which have no sense (feeling) to be particular about any disrespect shown to them? Scripture ordains that since they serve some useful purpose you should not treat them in a manner that implies disrespect! Then in the case of your fellow-man who is made in the image of your Creator and who is particular about any disrespect shown to him, how much more certain is it that you should not treat him disrespectfully!  (Mekhilta d'Rabbi Yishmael 20:23:1)",
+    "he": "ד\"ה אשר לא תגלה ערותך: ...חברך שהוא בדמות יוצרך."
+   }
+  },
+  {
+   "node": 14,
+   "outsideText": "ולא אמר: \"בצלם יוצרך\"."
+  },
+  {
+   "node": 15,
+   "outsideText": "<table><tbody><tr><td><big>ב. בצלמנו כדמותנו</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רב סעדיה גאון, (מובא בדברי ראב\"ע):</span><br><span style=\"color: rgb(51,51,51);\">בממשלה.</span>"
+  },
+  {
+   "heRef": "בכור שור, בראשית א׳:כ״ו:ב׳-ג׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bekhor Shor, Genesis 1:26:2-3",
+   "text": {
+    "en": "",
+    "he": "שהיא מאוימת להיות מושל ושליט על הכל ולא שזו דומה לזו, כי אין לתת דמיון ודמות ותמונה למעלה, כדכתיב (<a class=\"refLink\" href=\"/Deuteronomy 4:15\" data-ref=\"Deuteronomy 4:15\" target=\"_blank\">דברים ד' ט\"ו</a>) \"כי לא ראיתם כל תמונה\" וכן (<a class=\"refLink\" href=\"/Isaiah 40\" data-ref=\"Isaiah 40\" data-ref=\"Isaiah 40\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Isaiah 40\" data-ref=\"Isaiah 40\" data-ref=\"Isaiah 40\" target=\"_blank\">ישעיה מ'</a>) \"ואל מי תדמיוני ואשוה\" וכן (שם ה') \"ואל מי תדמיון אל ומה דמות תערכו לו\". ובאיוב (<a class=\"refLink\" href=\"/Job 10:4\" data-ref=\"Job 10:4\" target=\"_blank\">י' ד'</a>) הוא אומר: \"העיני בשר לך אם ראות אדם תראה\", בתמיה; ומה שאמר הכתוב (<a class=\"refLink\" href=\"/Deuteronomy 11:12\" data-ref=\"Deuteronomy 11:12\" target=\"_blank\">דברים י\"א י\"ב</a>, <a class=\"refLink\" href=\"/Zechariah 4:10\" data-ref=\"Zechariah 4:10\" target=\"_blank\">זכריה ד; י'</a>) \"עיני ה'\"; (<a class=\"refLink\" href=\"/Lamentations 2\" data-ref=\"Lamentations 2\" target=\"_blank\">איכה ב'</a>) \"הדום רגליו\" (<a class=\"refLink\" href=\"/Exodus 9:3\" data-ref=\"Exodus 9:3\" target=\"_blank\">שמות ט' ג'</a>) \"יד ה'\", אינו אלא לשׂבר את האוזן מה שיבין בראיה בהלוך ובלקיחה, ואין דרכם רק בעיניים וידים, לפי שלא ראה מעולם אדם ענין אחר.\nומה שכתוב (<a class=\"refLink\" href=\"/Ezekiel 1\" data-ref=\"Ezekiel 1\" target=\"_blank\">יחזקאל א'</a>) \"ועל דמות הכסא דמות כמראה אדם\" כך היה נראה בעיניו על ענין החזון, כמו חלום שנראה לו, שהוא רואה ואינו רואה.\nדהא כתיב (<a class=\"refLink\" href=\"/Exodus 34\" data-ref=\"Exodus 34\" target=\"_blank\">שמות ל\"ד</a>) \"כי לא יראני האדם וחי\" כלומר ולא שום דבר הוא, (?) ונדמה לו כאדם, שלא להבעיתו בדבר שאינו רגיל לראות, שהקב\"ה ופמליא של מעלה מדמין עצמן בכל ענין שירצו להראות לאדם... וכן הוא אומר (<a class=\"refLink\" href=\"/Hosea 14:1\" data-ref=\"Hosea 14:1\" target=\"_blank\">הושע י\"ד א'</a>) \"וביד הנביאים אדמה\" כלומר: אני מדמה עצמי בכל ענין שאני רוצה ולפיכך אינו אומר \"בצלמנו כדמותנו\" אלא על דרך האיום, ואף על פי שאין האיום שוה, מכל מקום דימהו הכתוב, כאדם האומר: הפרעוש הזה בין הפרעושים כמלך בין האנשים\" ואינם דומים זה לזה, וכל שכן כאן."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית א׳:כ״ו:ב׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 1:26:2",
+   "text": {
+    "en": "בצלמנו כדמותנו, according to the interpretation of my father of blessed memory, the meaning of the word בצלמנו applies both to a physical likeness as well as to a spiritual likeness, the ending נו not applying to two different subjects, “our,” but applying to two different parts of the same subject. It matches the prefix נ in the word נעשה. If we understand the word נעשה as applying to the angels, we must treat the words צלם and דמות as referring to spiritual attributes only, the meaning being that man would be endowed with parts of the spiritual attributes known as צלם and דמות respectively. The expressions צלם and דמות respectively, are sometimes applied to something physical and on other occasions applied to something abstract, spiritual. The word צלם is an attribute sometimes applied to a physical entity, such as in Samuel I 6,5 צלמי טחוריכם, “images of your hemorrhoids,” or in Numbers 33,52 צלמי מסכותם, “their molten images.” The same expression is also used to describe something spiritual, as in verse 27 of our chapter here.<br> The same is true of the word דמות as for instance, in Song of Songs 7,8 קומתך דומה לתמר, “your posture resembles that of a date palm,” or Ezekiel 1,13 ודמות החיות, “and the appearance of the chayot,” (a category of angels shown to the prophet in this vision). The same word is also used to describe physical appearances such as in Ezekiel 32,2 כפיר גוים נדמית “you were compared to a young lion;” or in Psalms 102,7 דמיתי לקאת מדבר, “I am like a great owl in the desert.”<br> The word נעשה is justified seeing that these attributes are means employed by G’d. The letter ב which serves as a prefix to צלמנו, is to be understood as a “helper,” meaning “equipped with our attribute צלם, i.e. our intelligence, we shall produce a creature whom we will endow with portions of these attributes of ours.” We will do this although, essentially, man is of the earth, to wit his name אדם. Alternately, it is possible to understand the prefix ב in the word בצלמנו as a letter that describes that something is equipped with an attribute. G’d would be saying that this new creature called אדם, man, shall be equipped with the attribute known as צלם. ",
+    "he": "צלם ודמות, שמות משותפים (שם בעל הוראות שונות אשר השיתוף ביניהן נעשה על יסוד איזה דמיון קרוב או רחוק) ואמר \"צלם\" בדבר גשמי כמו (<a class=\"refLink\" href=\"/I Samuel 1:11\" data-ref=\"I Samuel 1:11\" target=\"_blank\">שמואל א' ו' י\"א</a>) \"צלמי טחוריכם\", (<a class=\"refLink\" href=\"/Numbers 33:52\" data-ref=\"Numbers 33:52\" target=\"_blank\">במדבר ל\"ג נ\"ב</a>) \"צלמי מסכותם\", והדומים להם. ויאמר גם כן בדבר רוחני: \"בצלמנו\" \"בצלם אלוקים\", וכן \"דמות\" יאמר לדבר גשמי, כמו (<a class=\"refLink\" href=\"/Song of Songs 7\" data-ref=\"Song of Songs 7\" target=\"_blank\">שיר השירים ז'</a>) \"קמתך דמתה לתמר\", והדומים לו ולדבר רוחני (<a class=\"refLink\" href=\"/Ezekiel 32:2\" data-ref=\"Ezekiel 32:2\" target=\"_blank\">יחזקאל ל\"ב ב'</a>) \"כפיר גויים נדמית\", (<a class=\"refLink\" href=\"/Psalms 52:1\" data-ref=\"Psalms 52:1\" target=\"_blank\">תהלים נ\"ב א'</a>) \"דמיתי לקאת מדבר\" – בענין לא בגוף – וכן הדומים להם.\nובי\"ת בצלמנו יהיה בי\"ת העזר, כלומר עם צלמנו – שהוא השכל – נעשה ונתקן אותו, אף על פי שהוא מן האדמה; או תהיה בי\"ת – בי\"ת הכלי, כלומר שיהיה כענין נעשה בשכל, רצונו לומר, שיהיה אחד מחלקי השכל, ואמר אחר כך: \"כדמותנו\" כלומר: למה נעשה בצלמנו? כדי שיהיה דומה לנו שישתמש בשכליות, לפי הכח שיהיה לו בעודנו גוף והוא באדמה, כי אם ירצה, יוכל להדמות קצת אלינו כי בידו תהיה הבחירה."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית א׳:כ״ז:א׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 1:27:1",
+   "text": {
+    "en": "ויברא אלוקים את האדם בצלמו, the expression ברא, i.e. a totally new creation, refers only to man’s soul, as indicated by the word בצלמו, in G’d’s image, something that had not yet been created. The Torah wanted to draw a line of distinction between the construction of man’s body and that of his soul. When describing the construction of man’s body, (chapter 2 verse 7), the wording is וייצר אלוקים את האדם עפר מן האדמה, “G’d fashioned man from dust of the earth, etc;” the expression יצר is not one that can be applied to something abstract such as the soul. However, the word עשה, מעשה, is applicable both to bodies and to abstract beings such as souls.<br> As far as the verse (Zecharayh 12,1) ויוצר רוח אדם בקרבו, “He fashioned man’s spirit inside of him,” is concerned, the prophet referred to an instrument used by the body, something like the heart of the brain. These organs are instruments supporting the power of the spirit. The reason why, at this point the Torah (Moses) did not mention the making of man’s body, is because it is mentioned in the paragraph beginning with the words אלה תולדות השמים והארץ. (Genesis 2,4) In that paragraph some other details are mentioned which have been omitted at this point in order to refer to them in that passage in chapter 2. The whole story mentioned there also belongs to the report of what had transpired during these 6 days of creation.",
+    "he": "ד\"ה ויברא אלוקים את האדם בצלמו: בריאה זו על הנפש נאמרה, כמו שאמר \"בצלמו\", ולפיכך אמר \"ויברא\" להבדיל בין הגוף ובין הנפש, כי בסיפור יצירת גופו אמר \"וייצר... את האדם עפר מן האדמה\", כי אין לשון \"יצירה\" נופל על הנפש, כי איננה גוף, אלא לשון \"בריאה\". וכן לשון \"מעשה\" נופל בין על מה שאינו גוף בין על מה שהוא גוף... ולא זכר יצירת הגוף הנה, כי בפרשת אלה תולדות שמים וארץ יזכרנה עוד עם דברים אחרים שהניח מלזכור בפרשה זו."
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית א׳:כ״ו:ג׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 1:26:3",
+   "text": {
+    "en": "<b>\"In our image\" (<i>tsalmeinu</i>):</b> The form of the body and its build is not called <i>tselem</i> but rather <i>toar</i> or <i>tavnit</i> (as Rambam said in the Guide for the Perplexed 1:1). Since they would say  <i>yafat toar</i> (nice appearance), not <i>yafat tselem</i>. And to indicate the construction of the parts of a body, they would say, \"the <i>tavnit</i> of the tabernacle and the <i>tavnit</i> of all its vessels\" (Exodus 28:9). Rather, they would call <i>tselem</i> anything that is made to resemble something else, like a drawing on paper made to resemble a specific person; and so [too] any statue or mask made to resemble a certain body. As it is written (I Samuel 6:5), \"the resemblances of (<i>tsalmei</i>) your hemorrhoids and the resemblances of (<i>tsalmei</i>) your mice;\" and (Ezekiel 16:17) \"and you made resemblances of (<i>tsalmei</i>) males;\" and (Ezekiel 23:14) \"resemblances of (<i>tsalmei</i>) Chaldeans, inscribed with vermilion.\" And the word, <i>tselem</i> is derived from <i>tsel</i> (shadow) (and like Bochart also wrote), since a shadow depicts a form which resembles a body. And from it did men learn to begin the art of drawing. And also in Aramaic, they say a 'golden <i>tslam</i>' [to mean a golden statue] and the like; and the intention is always about something that is made to resemble something else. Only once do we find - in Daniel 3:19, \"and the appearance (<i>tselem</i>) of his face changed\" - [that it refers] to the appearance of a living person, and it is a borrowed expression [there] and not precise. And behold, man is a resemblance of God; meaning that from a certain angle, he resembles the Power that is Master of all the powers. And ostensibly, the letter <i>bet</i> (designating in or according to) in the word <i>betsalmeinu</i> is difficult according to my explanation - and so [too] (Genesis 9:6), \"since <i>betselem</i> (in the image/resemblance) of God did He make man.\" Since according to my explanation, man himself <i>is</i> the resemblance of God, and not [just created to be] in the image of God. However, it is fitting to know that we have found this in a few places - an additional <i>bet</i> in a word that [simply] indicates that it is the predicate of a statement (<i>praedicatum</i>). For example, \"since it is <i>be</i> evil\" (Exodus 32:22);   \"Behold, the Lord will come <i>be</i> strength\" (Isaiah 40:10); \"He is <i>be</i> one\" (Job 23:13); \"<i>be</i> the Lord is His name\" (Pslams 68:5). And this [type of] <i>bet</i> is frequently used in Arabic. And it appears that the expression, <i>be</i> evil, <i>be</i> strength, <i>be</i> one [all] mainly indicates [that it is] as if you would say a certain person has the characteristic that is called evil, strength or [oneness]. Here too, [it is understood as] \"let Us make man [to have] the quality which would justify it being called, resemblance of God.\" And behold, the word, <i>betsalmeinu</i>, and the expression, <i>tselem Elohim</i> (image of God), are not a proof that the Torah teaches that God has a human form (<i>Antropomorphismus</i>). And we cannot deny that some of our forbears attributed a build like the build of a man to God, and so did they say in the blessing for grooms (Ketuvot 8a), \"Who formed man in His resemblance, in the resemblance of the image of <i>tavnito</i> (His build).\" And <i>tavnit</i> is certainly a name that refers to the structure of the parts of a body. And nonetheless, our forbears did not believe that God and the angels had a body and a hull like us. And Rashi explicitly wrote (Makkot 12a, s.v. <i>chamuts begadim</i>) that angels are not flesh and blood. But the truth of the matter is that a completely incorporeal simple intellect that has no form - no breadth and width and height whatsoever - is something that is impossible for a person to imagine and [hence] it will not be [internalized by him.] And if the philosophers speak about Him, at the end of the day, they can only describe Him negatively (what He is not), not positively (what He is). And the Torah was given to the whole people, and the people need to be able to imagine their God with a positive description, not just a negative description. And behold, [therefore] our forbears would attribute to God and to the angels and to souls, a finer spiritual substance than any body known to us, and nonetheless, [that substance] has a form and a build. And see the book <i>Malakhet Machshevet</i>, <i>Parshat Shelach Lecha</i>. ",
+    "he": "ד\"ה בצלמנו: צורת הגוף ותבנית חלקיו לא תקרא צלם אלא \"תואר\" או \"תבנית\" (כמו שאמר הרמב\"ם במורה נבוכים חלק א' פרק א') כי יאמרו \"יפה תואר\" לא \"יפה צלם\". ויאמרו על הרכבת חלקי הגוף \"את תבנית המשכן ואת תבנית כל כליו\", אבל יקרא צלם כל דבר העשוי לדמיון דבר אחר, כמו הציור על הניר העשוי לדמיון צורת אדם מיוחד, וכן כל פסל ומסכה העשויים לדמיון גוף אחר, כמו שכתוב \"צלמי טחוריכם וצלמי עכבריכם\", (<a class=\"refLink\" href=\"/Ezekiel 23:14\" data-ref=\"Ezekiel 23:14\" target=\"_blank\">יחזקאל כ\"ג, י\"ד</a>) \"צלמי כשדים חקקים בששר\", ומילת צלם נגזרת מ\"צל\", כי כן הצל מצייר צורה אשר היא בדמיון הגוף, וממנו למדו בני אדם להתחיל במלאכת הציור. וכן גם בלשון ארמית כגון \"צלם דהבא\" הכוונה תמיד על דבר העשוי לדמיון דבר אחר. רק פעם מצאנו (<a class=\"refLink\" href=\"/Daniel 3:19\" data-ref=\"Daniel 3:19\" target=\"_blank\">בדניאל ג' י\"ט</a>) \"וצלם אנפוהי אשתני\", על תואר האדם החי, והוא לשון מושאל ובלתי מדוייק. \nוהנה האדם הוא צלם אלוקים, כלומר, שהוא בצד מה מתדמה אל הא-ל שהוא בעל הכוחות כולם, והנה לכאורה יקשה לפרושי אות בי\"ת אשר במלת \"בצלמנו\" וכן \"בצלם אלוקים ברא אותו\", כי לפירושי האדם עצמו הוא \"צלם אלוקים\" אך ראוי לדעת כי כן מצאנו בקצת מקומות בי\"ת נוספה במילה המורה על הנשוא כגון (<a class=\"refLink\" href=\"/Exodus 32\" data-ref=\"Exodus 32\" target=\"_blank\">שמות ל\"ב</a>) \"כי ברע הוא\" (<a class=\"refLink\" href=\"/Isaiah 40\" data-ref=\"Isaiah 40\" data-ref=\"Isaiah 40\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Isaiah 40\" data-ref=\"Isaiah 40\" data-ref=\"Isaiah 40\" target=\"_blank\">ישעיה מ'</a>) \"ה' בחזק יבוא\", (<a class=\"refLink\" href=\"/Psalms 68\" data-ref=\"Psalms 68\" target=\"_blank\">תהלים ס\"ח</a>) \"ביה שמו ועלזו לפניו\", והבי\"ת הזאת נוהגת הרבה בלשון הערבי. ונראה כי מליצת \"ברע\" \"בחזק\" עיקר הוראתה: פלוני הוא באותה תכונה שקוראים אותה בשם \"רע\", \"חזק\", אף כאן: נעשה אדם באותה תכונה שיצדק לקרא לה בשם \"צלם אלוקים\". "
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית א׳:כ״ו:ד׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 1:26:4",
+   "text": {
+    "en": "<b>\"<i>Ke'demuteinu</i>:\"</b> In similarity to Us - that He be similar to Us. However, in what way is man similar to God? It appears to me (like I wrote in <i>Bikkurei HaItim</i> 5588, page 165) that [just] like God is the Master of all powers - and that is the connotation of the word <i>Elohim</i> - so too is man distinguished from all the other animals; in that all of them have an ability and makeup for a specific trait and activity, and only man has the makeup and ability for all of the traits and activities in the world. (See Rabbi N. H. Wessely's <i>Sefer HaMiddot</i>, Section I, Chapters 1 and 2). And from this it comes out that he has dominion over all the animals; and for this reason, He immediately said, \"let them have dominion over the fish of the seas, etc.\" And so [too] did David state (Psalms 8:6-7), \"And You have made him little less than angels, etc. You have made him govern over the works of your hands.\" And behold, with man, it does not state, \"and it was so,\" since it does not state, \"let there be man,\" but [rather], let Us make man. Due to the stature of man, He fashioned him as if it were 'a thought-out work,' and as if he was made with more special supervision and attention than all the other animals. ",
+    "he": "ד\"ה כדמותנו: שיהיה דומה לנו, אמנם באיזה ענין האדם דומה לא-ל, נראה לי, כי כמו שהא-ל הוא בעל הכוחות כולם, וזו הוראת מילת אלוקים, כן האדם נבדל משאר בעלי חיים במה שכל אחד מהם יש לו כח והכנה למידה מיוחדת ולפעולה מיוחדת והאדם לבדו בעל הכנה וכח לכל מידות ולכל פעולות שבעולם."
+   }
+  },
+  {
+   "heRef": "משך חכמה, בראשית ז׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Meshekh Chokhmah, Bereshit 7",
+   "text": {
+    "en": "Let us make man in our image:  The image of G-d is free will, without any natural external inclination, only from free will and intellect.   G-d's knowledge does not impinge on free will, because his knowledge stems not (in the same way as the) knowledge of man which comes from his senses, rather it is He alone who perceives, as is explained in the Rambam. Behold it is not in our ability to understand how this works...rather this we know:  Free will is a condensation of G-dliness, because G-d provides place for his creations to do as they choose, and removed from their actions, the decree and the decision on an individual level...The torah speaks in the way that people speak - let us leave a place for man's personal choice, that he won't be forced in any of his actions, and in the obligation of his thoughts, to be free to do good or evil as he desires.  He will be able to do things against his more natural state, and against those things which are straight in the eyes of G-d.....",
+    "he": "הצלם האלוקי הוא הבחירה החפשית בלי טבע מכריח, רק מרצון ושכל חפשי, והנה ידיעתו יתברך אינה מכרעת הבחירה, כי אין ידיעתו באה נוספת כידיעה של בשר ודם הבאה מהחושים, רק היא עצמותו יתברך, וכמו שכתב הרמב\"ם, ואם כי אין ביכולת בנו להבין איך היה – כי אילו ידעתיו הייתיו – רק זאת אנו יודעים שהבחירה החפשית היא מצמצום האלוקות, שה' יתברך מניח מקום לברואיו לעשות כפי מה שיבחרו ושלל ממפעליהם הגזרה וההחלטה בפרטיות ולכן אמר אל לבו: \"נעשה אדם בצלמנו\" פירוש, שהתורה מדברת בלשון בני אדם שאמר: נניח מקום לבחירת האדם, שלא יהא מוכרח במפעליו ומחויב במחשבותיו ויהיה בחירי חפשי לעשות טוב או רע כאשר יחפוץ נפשו ויוכל לעשות דברים נגד מזגי טבעו ונגד הישר בעיני ה'..."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מהן השאלות השונות שעליהן עונים הפרשנים הנ\"ל מלבד שאלת ההגשמה שבביטוי צלם ודמות?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה המשותף לכל הנ\"ל בפירוש המושג צלם אלוקים ומה ההבדל שביניהם?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3. מה ההבדל בין שני פירושי הרד\"ק לבי\"ת \"<b>ב</b>צלם\", האם מסכים הוא עם אחד מפירושי רש\"י?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. מהו הקשר שבין שני חלקי <a class=\"refLink\" href=\"/Genesis 1:26\" data-ref=\"Genesis 1:26\" target=\"_blank\">פסוק כ\"ו</a> לפי רס\"ג, לפי שד\"ל ולפי משך חכמה?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "5. למי מחמשת הפרשנים יש להביא סיוע מ<a class=\"refLink\" href=\"/Psalms 8\" data-ref=\"Psalms 8\" target=\"_blank\">תהלים פרק ח'</a>?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "6.  למי יש להביא סיוע <a class=\"refLink\" href=\"/Genesis 9:6\" data-ref=\"Genesis 9:6\" target=\"_blank\">מבראשית ט', ו'</a>?"
+  }
+ ],
+ "ssn": 84,
+ "status": "public",
+ "summary": "1966 (תשכ\"ו)<br><a href=\"http://www.nechama.org.il/pdf/84.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשכ\"ו - בצלם אלוקים",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

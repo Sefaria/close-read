@@ -1,0 +1,229 @@
+{
+ "parsha": "bereshit",
+ "source": "local MongoDB `sefaria.sheets` (production restore)",
+ "db_latest_dateModified": "2026-08-15T20:57:16.549827",
+ "query": {
+  "owner": 54380,
+  "topics.slug": "parashat-bereshit"
+ },
+ "dropped_fields": [
+  "_id",
+  "likes",
+  "llm_scoring",
+  "views"
+ ],
+ "exported_at": "2026-10-06T09:43:48",
+ "count": 30,
+ "files": [
+  {
+   "id": 160441,
+   "file": "160441.json",
+   "title": "פרשת בראשית תש\"ל - קין וצאצאיו",
+   "n_sources": 44,
+   "sha256": "8afb4eaa83856e19cd8ff613accb132b0dd7ec7764d16ab49fdd760227851925"
+  },
+  {
+   "id": 160442,
+   "file": "160442.json",
+   "title": "פרשת בראשית תשכ\"ח - אחרי החטא...",
+   "n_sources": 48,
+   "sha256": "f381311d56736958bfe1beb9b57e37699d551850e832d2ca9cdd59560bb678e5"
+  },
+  {
+   "id": 160469,
+   "file": "160469.json",
+   "title": "פרשת בראשית תשכ\"ט - בני קין",
+   "n_sources": 38,
+   "sha256": "af5b62338bd1e32ee49020cbe8f2f5bd9b1126a10a563ec0e72fab8402f02f99"
+  },
+  {
+   "id": 160495,
+   "file": "160495.json",
+   "title": "פרשת בראשית תשכ\"ז - האכילה מעץ הדעת",
+   "n_sources": 53,
+   "sha256": "19751fcca4543bc559643c105818dd8749dc23aa9718b6a964f493a602362b99"
+  },
+  {
+   "id": 160515,
+   "file": "160515.json",
+   "title": "פרשת בראשית תשכ\"ו - בצלם אלוקים",
+   "n_sources": 28,
+   "sha256": "d53b1a0b78111c98ea3521816555dbd1729c3a8f39a133011519777cdcc30e2e"
+  },
+  {
+   "id": 160577,
+   "file": "160577.json",
+   "title": "פרשת בראשית תשכ\"ה - האדם",
+   "n_sources": 45,
+   "sha256": "47e06b4fb18a50fa8ab0df5df2ca6af09797b6c59617bc32a093c3c897ee56bf"
+  },
+  {
+   "id": 160638,
+   "file": "160638.json",
+   "title": "פרשת בראשית תשכ\"ד - עצי הגן",
+   "n_sources": 34,
+   "sha256": "e95af565fb4665f8996f5cb688d010a0e1d4d65bb451e81710b5359a284a073a"
+  },
+  {
+   "id": 160699,
+   "file": "160699.json",
+   "title": "פרשת בראשית תשכ\"ב - מזונם של הבריות",
+   "n_sources": 27,
+   "sha256": "abdb0f728e19f4c9b59044ca5497426396fa55e9a493e229ded2af9e7570b078"
+  },
+  {
+   "id": 160726,
+   "file": "160726.json",
+   "title": "פרשת בראשית תשכ\"ג - היום השישי והיום השביעי",
+   "n_sources": 37,
+   "sha256": "6761103215a37e11a438d1e834ce597680cbaa72f606b4fab9274dcf578553f7"
+  },
+  {
+   "id": 160823,
+   "file": "160823.json",
+   "title": "פרשת בראשית תשכ\"א - וינחם ה' כי עשה את האדם",
+   "n_sources": 31,
+   "sha256": "81456ab4aaadd9e3180a5f8e7f3ce634eb2c3c6c03f07eb460b291f22a10ab1f"
+  },
+  {
+   "id": 161104,
+   "file": "161104.json",
+   "title": "פרשת בראשית תשי\"ז - קין והבל",
+   "n_sources": 34,
+   "sha256": "908e76abd0ce28ee0abf74d84356c08efa32778639b57bca2b8ae79c1306774a"
+  },
+  {
+   "id": 161141,
+   "file": "161141.json",
+   "title": "פרשת בראשית תשי\"ח - קין והבל",
+   "n_sources": 39,
+   "sha256": "1d1c6fa0a208d7d7ae4714b4bd2df6e248fdbf347ba0851a84db76ff44707b11"
+  },
+  {
+   "id": 161180,
+   "file": "161180.json",
+   "title": "פרשת בראשית תשי\"ט - בריאת העולם + הפטרה",
+   "n_sources": 49,
+   "sha256": "2ddcd18b097dd11f3f3b16778c7b26f37cd490250541e1cf3cebdfa5addd132d"
+  },
+  {
+   "id": 161216,
+   "file": "161216.json",
+   "title": "פרשת בראשית תשט\"ז - קין והבל",
+   "n_sources": 40,
+   "sha256": "aca5a2bf2d118926d36356d8be8640f3f0853f99b5be44e9f51327de3d849b79"
+  },
+  {
+   "id": 161223,
+   "file": "161223.json",
+   "title": "פרשת בראשית תשי\"ג - בריאת האישה",
+   "n_sources": 48,
+   "sha256": "51039717abb629dd5cd5fae24dd3a0318af16760ad368eaff7e241ed9be7c2dd"
+  },
+  {
+   "id": 161233,
+   "file": "161233.json",
+   "title": "פרשת בראשית תשט\"ו - החטא",
+   "n_sources": 44,
+   "sha256": "171766209840a0b2f1a30efb3a430cb665518ddf727b84d5c4b82d5207535ebe"
+  },
+  {
+   "id": 161401,
+   "file": "161401.json",
+   "title": "פרשת בראשית תשי\"ד - סדר הבריאה",
+   "n_sources": 27,
+   "sha256": "b1a5830e9faaf4fb6e7d217a082b7aa30bfac3d8daaa1bda906bb7a0137e887a"
+  },
+  {
+   "id": 161438,
+   "file": "161438.json",
+   "title": "פרשת בראשית תש\"י - בני קין",
+   "n_sources": 39,
+   "sha256": "c6146a340a5f16bca3cd24892470fd7dc946d124c36d65a72340ef0f8fa68943"
+  },
+  {
+   "id": 161471,
+   "file": "161471.json",
+   "title": "פרשת בראשית תשי\"ב - בהשוואת פרק א' ופרק ב'",
+   "n_sources": 50,
+   "sha256": "6b240b227ed9e1f033290f8c5a378f8de4dbf92adf5d6b1788dc4f20d6573728"
+  },
+  {
+   "id": 161495,
+   "file": "161495.json",
+   "title": "פרשת בראשית תש\"ח - יום חמישי, יום השישי",
+   "n_sources": 46,
+   "sha256": "00c3563650058cfe217046b42b46cbba1394121a330fb0818cbde59c41aa9154"
+  },
+  {
+   "id": 161545,
+   "file": "161545.json",
+   "title": "פרשת בראשית תש\"ו - איסור אכילת הפרי",
+   "n_sources": 30,
+   "sha256": "fd59eb47f21a88d073c0a296d7111dc655c35097f0043138b45ef328ac593058"
+  },
+  {
+   "id": 161580,
+   "file": "161580.json",
+   "title": "פרשת בראשית תשי\"א - בני האלוהים",
+   "n_sources": 21,
+   "sha256": "409c6759341f5921852efa5dd1c869e74a431e51717cd36dc0c28efc8c7070c2"
+  },
+  {
+   "id": 161672,
+   "file": "161672.json",
+   "title": "פרשת בראשית תש\"ה - העונש",
+   "n_sources": 54,
+   "sha256": "cfc96e676874769eb88ddb70075581a60f1f430cbe6a5de537dc5bd5f2e859c2"
+  },
+  {
+   "id": 161685,
+   "file": "161685.json",
+   "title": "פרשת בראשית תש\"כ - עץ הדעת טוב ורע",
+   "n_sources": 38,
+   "sha256": "0a6f50a60560b524f52336cbeb579a95c55bc41566d8e7870c7d4ab309f1c6ce"
+  },
+  {
+   "id": 161776,
+   "file": "161776.json",
+   "title": "פרשת בראשית תש\"ז - יום השישי",
+   "n_sources": 45,
+   "sha256": "59cad93294e05f08d57df5991e8861af2ea626f7598a31da5156c67f8a7707b3"
+  },
+  {
+   "id": 161834,
+   "file": "161834.json",
+   "title": "פרשת בראשית תש\"ט - בריאת האישה",
+   "n_sources": 39,
+   "sha256": "40b6f6eba2d0b260593eae8ff1d4fd30964ad3c89180cc03ff018faee92e5f68"
+  },
+  {
+   "id": 161880,
+   "file": "161880.json",
+   "title": "פרשת בראשית תש\"ב - קין והבל",
+   "n_sources": 53,
+   "sha256": "c32a4476db6dea26d8baeba45fc563b3e0f224723a38b03b1bcf5f9ed1b70a38"
+  },
+  {
+   "id": 161941,
+   "file": "161941.json",
+   "title": "פרשת בראשית תש\"ד - החטא",
+   "n_sources": 45,
+   "sha256": "15f3ed3a259bb449f7e1a200a810f5c5224935bb49da99f5c6ba4e1401e8d7da"
+  },
+  {
+   "id": 162000,
+   "file": "162000.json",
+   "title": "פרשת בראשית תש\"ג - הבריאה ועץ הדעת",
+   "n_sources": 36,
+   "sha256": "fc819a6b96bf2b934bb838c8fd6a06af60ce8512c424120b46a53077ea18931b"
+  },
+  {
+   "id": 162069,
+   "file": "162069.json",
+   "title": "פרשת בראשית תשל\"א - בני האלוהים",
+   "n_sources": 32,
+   "sha256": "14ecede4477225056a781efee56b1ed940fa3735bbd64c4e9c7431bed972bb07"
+  }
+ ]
+}

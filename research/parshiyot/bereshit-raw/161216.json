@@ -1,0 +1,481 @@
+{
+ "dateCreated": "2019-03-06T05:24:26.433563",
+ "dateModified": "2019-03-07T02:08:44.650872",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 4:8",
+  "Bereshit Rabbah 22:7",
+  "Genesis 4:7",
+  "Rashi on Genesis 4:7:2",
+  "Rashi on Genesis 4:4:1",
+  "Rashi on Genesis 4:7:3",
+  "Malbim on Genesis 4:7:1",
+  "Rashi on Genesis 4:2:1",
+  "Onkelos Genesis 4:7",
+  "Rashi on Genesis 4:1:1",
+  "Rashi on Genesis 4:8:1",
+  "Rashi on Genesis 4:10:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161216,
+ "includedRefs": [
+  "Genesis 4:8",
+  "Bereshit Rabbah 22:7",
+  "Rashi on Genesis 4:1:1",
+  "Rashi on Genesis 4:2:1",
+  "Rashi on Genesis 4:4:1",
+  "Rashi on Genesis 4:7:2",
+  "Rashi on Genesis 4:7:3",
+  "Rashi on Genesis 4:8:1",
+  "Rashi on Genesis 4:10:1",
+  "Genesis 4:7",
+  "Genesis 4:7",
+  "Onkelos Genesis 4:7",
+  "Malbim on Genesis 4:7:1"
+ ],
+ "nextNode": 42,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עצה טובה למורים, מדריכים, לחוגי לומדים בנוער, בקיבוצים:\n1) קראו מתוך ספרו של ג'ון שטיינבק: East of Eden את הדיון בפירוש <a class=\"refLink\" href=\"/Genesis 4:7\" data-ref=\"Genesis 4:7\" target=\"_blank\">פסוק ז'</a> של פרקנו.\"קדמת עדן\" עמודים 335-342 בתרגום העברי, (עמודים 265-275 במקור בהוצאת \"בנטם\").\n2) דיון בפרקנו בכללו בספר ההוא עמוד 297-305 בתרגום העברי. אלא ששם ישנה שגיאה גסה בהבנת הכתובים, איזו היא?"
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. מדברי המדרש</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ח׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:8",
+   "text": {
+    "en": "And Cain spoke unto Abel his brother. And it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.",
+    "he": "\"וַיֹּאמֶר קַיִן אֶל הֶבֶל אָחִיו \nוַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה \nוַיָּקָם קַיִן אֶל הֶבֶל אָחִיו וַיַּהַרְגֵהוּ\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ב:ז׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 22:7",
+   "text": {
+    "en": "(7) “And Cain spoke to Abel his brother, and it came to pass when they were in the field…” (Genesis 4:8) What were they arguing about? They said: come let’s divide up the world, one will take the land and one will take the moveable property. This one said: the ground you are standing on is mine. The other one said: what you are wearing is mine. This one said: take it off! The other one said: fly! Because of this “…Cain rose against his brother Abel and killed him.” (ibid.) R’ Yehoshua of Sakhnin said in the name of R’ Levi: they both took the land and the moveable property. What were they arguing about? One said: the Holy Temple will be built in my boundary. The other said: the Holy Temple will be built in my boundary. As it says “…when they were in the field…” (ibid.) and the field only refers to the Holy Temple. This is what it says “…Zion shall be plowed as a field…” (Micah 3:12) Because of this “…Cain rose up against Abel his brother and slew him.” Yehudah bar Ami said: they were arguing about the first Eve. R’ Ibo said: the first Eve returned to the dust. Then what were they arguing about? R’ Huna said: an extra twin sister was born with Abel. This one said: I will take her because I am the first born. The other one said: I will take her because she was born with me. Because of this “…Cain rose up against Abel his brother and slew him.”",
+    "he": "\"ויאמר קין אל הבל אחיו ויהי בהיותם בשדה\" – על מה היו מדיינים? אמרו: \"בואו נחלוק את העולם\". אחד נטל את הקרקעות ואחד נטל את המטלטלין. דין אמר: \"ארעת דאת קאים עליה – דידי\" (זה אמר: הארץ אשר אתה עומד עליה שלי היא). ודין אמר: \"מה דאת לביש – דידי\" (וזה אמר: מה שאתה לובש שלי הוא). דין אמר: \"חלוץ!\" דין אמר: \"פרח!\" מתוך כך \"ויקם קין אל הבל אחיו ויהרגהו\". \nר' יהושע דסכנין בשם ר' לוי אמר: שניהם נטלו את הקרקעות, ושניהם נטלו את המטלטלין. ועל מה היו מדיינין? אלא זה אומר: \"בתחומִי בית המקדש ייבנה\". וזה אומר: \"בתחומִי בית המקדש ייבנה\", שנאמר \"ויהי בהיותם בשדה\" ואין \"שדה\" אלא בית המקדש, דכתיב (<a class=\"refLink\" href=\"/Micah 3\" data-ref=\"Micah 3\" target=\"_blank\">מיכה ג'</a>) \"ציון שדה תיחרש\". \nומתוך כך \"ויקם קין אל הבל אחיו ויהרגהו\". \nיהודה בר' אמי אמר: על חוה הראשונה היו מדיינין."
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  המדרש דן בגורמיהם של שנאות, ריבות, מלחמות והריגות בין בני אדם. הסבר את כוונת כל אחת משלוש הדעות הנאמרות בזה."
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מה ראה המדרש להביא את הדעות בסדר זה?"
+  },
+  {
+   "node": 7,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:א׳:א׳",
+   "node": 8,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:1:1",
+   "text": {
+    "en": "(1) והאדם ידע AND THE MAN KNEW already before the events related above took place — before he sinned and was driven out of the Garden of Eden. So, also, the conception and birth of Cain took place before this. Had it been written, וידע אדם it would imply that after he was driven out children were born to him (Genesis Rabbah 22:2).",
+    "he": "ד\"ה והאדם ידע: כבר קודם העניין של מעלה, קודם שחטא ונטרד מגן עדן, וכן ההריון והלידה, שאם כתב \"וידע האדם\", נשמע שלאחר שנטרד היו לו בנים."
+   }
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   הבא דוגמאות לכלל לשוני זה – שעליו בנויים דברי רש\"י – ממקומות אחרים בספר בראשית!"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב.  הסבר, מהי חשיבותם של דברי רש\"י אלה מבחינה <b>רעיונית</b>?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ב׳:א׳",
+   "node": 11,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:2:1",
+   "text": {
+    "en": "רעה צאן A FEEDER OF FLOCKS — Because the earth had been cursed he refrained from cultivating it. ",
+    "he": "ד\"ה רועה צאן: לפי שנתקללה האדמה, פירש לו מעבודתה."
+   }
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "מה קשה לרש\"י בפסוק זה, למה לו למצוא תירוץ לדבר זה שהיה הבל רועה צאן?"
+  },
+  {
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">3) פסוק ג'</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה מפרי האדמה: מן הגרוע.</span>"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ומקשין מפרשי רש\"י: מניין לו שמ' של \"מפרי\" מורה על הגרוע, ושמא בא דווקא לרמוז שהוא ממיטב? יישב קושייתם!"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ד׳:א׳",
+   "node": 15,
+   "options": {
+    "PrependRefWithEn": "4) ",
+    "PrependRefWithHe": "4) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:4:1",
+   "text": {
+    "en": "וישע AND HE HAD REGARD— and He turned to; similarly in the next verse “He had no respect for his offering” means, “He did not turn to it.” Similarly, (Isaiah 17:8) ולא ישעה אל המזבחות which means “And he shall not turn towards the altars”; so also (Job 14:6) שעה מעליו “turn away from him” — disregard him.",
+    "he": "ד\"ה וישע: ויפן. וכן \"ואל מנחתו לא שעה\" – לא פנה. וכן (<a class=\"refLink\" href=\"/Exodus 5\" data-ref=\"Exodus 5\" target=\"_blank\">שמות ה'</a>) \"ואל ישעו בדברי שקר\" פירושו \"אל יפנו\". וכן (<a class=\"refLink\" href=\"/Job 14\" data-ref=\"Job 14\" target=\"_blank\">איוב י\"ד</a>) \"שעה מעליו\". פנה מעליו."
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בעל ספר הזכרון, על רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">מה שכתוב: וכן (שמות) \"ואל ישעו בדברי שקר\" – אומר אני שטעות סופר הוא שנתפשט בכל ספרי הרב ז\"ל, והנכון הוא: וכן (<a class=\"refLink\" href=\"/Isaiah 17\" data-ref=\"Isaiah 17\" target=\"_blank\">ישעיה י\"ז</a>) \"ולא ישעה אל המזבחות\".</span>"
+  },
+  {
+   "node": 17,
+   "outsideText": "הסבר מה ראה לתקן הגירסא כך, במה מוכח שגרסת ספרנו משובשת?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ז׳:ב׳",
+   "node": 18,
+   "options": {
+    "PrependRefWithEn": "5) ",
+    "PrependRefWithHe": "5) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:7:2",
+   "text": {
+    "en": "לפתח חטאת רובץ SIN CROUCHETH AT THE ENTRANCE — Right up to the door of your grave (until your death) your sin will be preserved.",
+    "he": "ד\"ה לפתח חטאת רובץ: לפתח קברך חטאתך שמור. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ז׳:ג׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:7:3",
+   "text": {
+    "en": "ואליך תשוקתו AND UNTO THEE IS ITS LONGING — The longing of sin; it refers to the evil inclination. This is continually longing and desiring to make you sin.",
+    "he": "ד\"ה ואליך תשוקתו: של חטאת – הוא יצר הרע – תמיד הוא שוקק ומתאווה להכשילך."
+   }
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "א.  למה לא פירשוֹ שמשמעו שלפתח ביתך רובץ החטאת, ותיכשל בו תמיד בצאתך ובבואך?"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ב.   הסבר, למה פירש רש\"י \"חטאת\" – הוא יצר הרע בד\"ה ואליך תשוקתו, ולא פירשו בד\"ה לפתח חטאת רובץ, ששם מופיעה מילת \"חטאת\"? שים לב שבד\"ה לפתח אמר רש\"י <b>\"חטאתך\"</b> ובד\"ה ואליך תשוקתו אמר <b>\"חטאת\"</b> בלא כינוי."
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ג.  מה ראה רש\"י להשתמש בשני פעלים \"שוקק ומתאווה\" ולא הסתפק באחד?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:ח׳:א׳",
+   "node": 23,
+   "options": {
+    "PrependRefWithEn": "6) ",
+    "PrependRefWithHe": "6) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:8:1",
+   "text": {
+    "en": "ויאמר קין אל הבל AND CAIN SPAKE TO ABEL — He began an argument, striving and contending with him, to seek a pretext to kill him. There are Midrashic explanations of these words, but this is the plain sense of the text. ",
+    "he": "ד\"ה ואמר קין: נכנס עמו בדברי ריב ומצה להתעולל עליו להרגו. ויש בזה מדרשי אגדה – אך זה יישובו של מקרא."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  מה קשה לו?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב.   ב\"מדרשי אגדה\" התכוון לשלוש הדעות הנאמרות בבראשית רבה (עיין שאלה א). למה לא הביא רש\"י אחת מהן, ובמה שונה פירושו עקרונית מהן?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י׳:א׳",
+   "node": 26,
+   "options": {
+    "PrependRefWithEn": "7) ",
+    "PrependRefWithHe": "7) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:10:1",
+   "text": {
+    "en": "דמי אחיך THY BROTHERS BLOOD — דמי is plural — bloods” — his blood and the blood of his possible descendants (Genesis Rabbah 22:9). Another explanation of why the plural is used: he inflicted upon him many wounds, because he knew not whence his soul would depart (i. e. which blow would prove fatal) (Sanhedrin 37b). ",
+    "he": "ד\"ה דמי אחיך: דמו ודם זרעותיו."
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.   הסבר את הרעיון המסומל בדבריו אלו."
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ג.  היכן מצינו רעיון זה ברש\"י על התורה במקום אחר?"
+  },
+  {
+   "node": 29,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"הלא אם תטיב שאת...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ז׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:7",
+   "text": {
+    "en": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee is its desire, but thou mayest rule over it.’",
+    "he": "\"הֲלוֹא אִם תֵּיטִיב שְׂאֵת וְאִם לֹא תֵיטִיב לַפֶּתַח חַטָּאת רֹבֵץ וְאֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל בּוֹ\""
+   }
+  },
+  {
+   "heRef": "בראשית ד׳:ז׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:7",
+   "text": {
+    "en": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee is its desire, but thou mayest rule over it.’",
+    "he": "ד\"ה הלוא אם תיטיב שאת: כתרגומו פירושו. "
+   }
+  },
+  {
+   "heRef": "תרגום אונקלוס על בראשית ד׳:ז׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Onkelos Genesis 4:7",
+   "text": {
+    "en": "",
+    "he": "הלוא אם תטיב עובדך (מעשיך) ישתבק לך (יסולח לך). "
+   }
+  },
+  {
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">(תרגום אונקלוס:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה לפתח חטאת רובץ: לפתח קברך חטאתך שמור. </span>"
+  },
+  {
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">(תרגום אונקלוס:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ואליך תשוקתו: של חטאת – הוא יצר הרע – תמיד שוקק ומתאווה להכשילך. </span>"
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">(תרגום אונקלוס:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ואתה תמשל בו: אם תרצה – תתגבר עליו.</span>"
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ד׳:ז׳:א׳",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 4:7:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה הלוא: גילו לו שאין חפץ לה' במנחה, רק \"הנה שמוע מזֶּבח טוב\" (<a class=\"refLink\" href=\"/I Samuel 13\" data-ref=\"I Samuel 13\" target=\"_blank\">שמואל א' י\"ג</a>) ועיקר הוא שתיטיב מעשיך, לא הטבת המשאֵת והמנחה, מה שתיטיב המשאת לא יירצה בעיניו, כי בין אם תיטיב המשאת ובין אם לא תיטיב, אין בזה שום מעלה, אחר שלפתח רובץ החטאת לקטרג עליך... וביאר בזה שלושה דברים: \n(א) שיצר הרע רובץ לפתח, וצריך האדם לעיין על ראשית כל מעשיו, שלא ימליך עבד על אדוניו, כי הוא אורב על הפתח, שכל עת שייפתח הפתח ייכנס אליך ויטיל בך ארס התאווה והחטא. \n(ב) עוד הודיע לו כי בצד האחד היצר משתוקק אליך להחטיאך ולהורידך מטה. \n(ג) שבצד השני אתה יש בידך העוז והמשוה למשול בו, על ידי כח החופשיות אשר באדם, שרק בצד זה נקרא האדם חופשי, אם ימשול על בהמתו, לא אם בהמתו מושלת עליו."
+   }
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  העתק את פסוקנו פעמיים, וסמנו בסימני פיסוק בהתאם לכל אחד מן המפרשים הנ\"ל."
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. הסבר מה פירושה של מילת \"שאת\", לפי כל אחד משני הפירושים, והבא ראיות ממקומות אחרים בתורה לכל אחת משתי ההוראות."
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  הסבר כיצד מתקשר פסוקנו לפסוקים ה'-ו', לפי כל אחד משני הפירושים."
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. מה תיקן רש\"י בדבריו לד\"ה ואתה תמשל בו, מה היה המקרא חסר בלי פירושו?"
+  }
+ ],
+ "ssn": 563,
+ "status": "public",
+ "summary": "1956 (תשט\"ז)<br><a href=\"http://www.nechama.org.il/pdf/563.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשט\"ז - קין והבל",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

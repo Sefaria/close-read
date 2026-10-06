@@ -21,7 +21,7 @@ def pending(kind, slugs):
 
 
 from sheetmodel import (
-    DATA, build_tree, card_expectations, group_sections, leaf_paths, load_index,
+    DATA, build_tree, card_expectations, group_sections, is_image, leaf_paths, load_index,
     load_sheet, sheet_slugs, verse_sides, verses_of_group, visible_set,
 )
 
@@ -238,7 +238,7 @@ def test_steps_are_well_formed(slug):
             continue
         refs = {}
         for v in verses_of_group(g):
-            key = (v.get("he") if v.get("mode") != "comparison" else v["left"]["he"])
+            key = v["src"] if is_image(v) else (v.get("he") if v.get("mode") != "comparison" else v["left"]["he"])
             if v["ref"] in refs and refs[v["ref"]] != key:
                 problems.append(f"{g.dom_id}: two different verses share ref {v['ref']!r} — crossfade can't tell them apart")
             refs[v["ref"]] = key
@@ -278,3 +278,44 @@ def test_branching_structure(slug):
         if s["id"] not in reachable:
             problems.append(f"{s['id']}: not reachable by any path")
     fail_if(problems, "branching problems")
+
+
+IMAGE_SLUGS = [s for s in SLUGS if any(is_image(v) for g in group_sections(load_sheet(s)) if not g.is_decision for v in verses_of_group(g))]
+
+
+@pytest.mark.parametrize("slug", IMAGE_SLUGS)
+def test_images_are_well_formed(slug):
+    """Image panels: the fields the engine needs, every region inside the image,
+    and every region used by some step (an unused region is usually a typo'd id)."""
+    sheet = load_sheet(slug)
+    problems = []
+    used = {}
+    for c in card_expectations(sheet):
+        if c["verse_mode"] == "image":
+            used.setdefault(c["verse_ref"], set()).update(c["highlight"])
+    for g in group_sections(sheet):
+        if g.is_decision:
+            continue
+        for v in verses_of_group(g):
+            if not is_image(v):
+                continue
+            where = f"{g.dom_id} [{v['ref']}]"
+            for k in ("src", "alt"):
+                if not str(v.get(k) or "").strip():
+                    problems.append(f"{where}: image without {k}")
+            for k in ("width", "height"):
+                if not isinstance(v.get(k), (int, float)) or v[k] <= 0:
+                    problems.append(f"{where}: image needs a positive numeric {k} (layout is computed from it)")
+            if not (v.get("credit") or {}).get("en"):
+                problems.append(f"{where}: image without credit.en")
+            for rid, r in (v.get("regions") or {}).items():
+                try:
+                    x, y, w, h = (float(r[k]) for k in ("x", "y", "w", "h"))
+                except (KeyError, TypeError, ValueError):
+                    problems.append(f"{where}: region '{rid}' needs numeric x, y, w, h")
+                    continue
+                if w <= 0 or h <= 0 or x < 0 or y < 0 or x + w > 1 or y + h > 1:
+                    problems.append(f"{where}: region '{rid}' is not inside the image (fractions 0–1)")
+                if rid not in used.get(v["ref"], set()):
+                    problems.append(f"{where}: region '{rid}' is never highlighted")
+    fail_if(problems, "image problems")

@@ -136,7 +136,15 @@ When a verse has `"mode": "comparison"`, it renders as two side-by-side panels w
 
 Word groups in comparison mode can include `"side": "left"` or `"right"` to restrict matching to one panel.
 
-### 5. Source Color System
+### 5. Image Mode
+
+A panel item with `"mode": "image"` is built by `buildImageContent()` (engine.js): ref label, an `.image-viewport`, and a caption. Inside the viewport, an `.image-stage` holds the `<img>` and an SVG overlay (`viewBox="0 0 1 1"`, so region coordinates are fractions). The overlay has a dim layer masked by one hole per region, plus one outline rect per region.
+
+Highlighting reuses the word-group path: `TextEffects.highlight()` adds `.highlighted` (and `.glow`/`.pulse`) to the matching `.image-region` and `.image-hole` elements and `.has-highlights` to the panel item (which fades in the dim layer), then calls `layoutImage()`. That sizes the stage to fit the viewport at the image's declared aspect ratio and sets a CSS `translate(...) scale(z)` so the highlighted regions' bounding box fills the viewport (25% margin, zoom capped at 5×, 1.35 s + 0.4 s·|ln(zoom ratio)| transition, so 1×→5× takes ~2 s), clamped so the page edge doesn't pull into view. `reset()` zooms back out. `fitToPanel()` hands image items to `layoutImage()`, so resize, branch reveal and crossfade all re-lay them out.
+
+Layout uses the declared `width`/`height`, never the loaded image, so it doesn't wait on large files. The outline's `stroke-width` is divided by a `--zoom` custom property because `vector-effect: non-scaling-stroke` can't see a CSS transform on an ancestor.
+
+### 6. Source Color System
 
 Commentary cards display a source badge whose color is determined by CSS attribute selectors on `data-source`. The mapping is in CSS, not JS:
 

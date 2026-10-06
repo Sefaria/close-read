@@ -1,0 +1,367 @@
+{
+ "dateCreated": "2019-03-05T15:39:22.117458",
+ "dateModified": "2019-03-07T02:05:44.055724",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Bekhor Shor, Genesis 6:8:1",
+  "Ramban on Genesis 6:6:1",
+  "Rashi on Genesis 6:6:3",
+  "Shadal on Genesis 6:5:2",
+  "Genesis 6:5",
+  "Genesis 6:8",
+  "Genesis 6:6",
+  "Bekhor Shor, Genesis 6:9:1",
+  "HaKtav VeHaKabalah, Genesis 6:6:1",
+  "Genesis 6:7",
+  "Ibn Ezra on Genesis 6:6:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160823,
+ "includedRefs": [
+  "Genesis 6:5",
+  "Shadal on Genesis 6:5:2",
+  "Genesis 6:6",
+  "Genesis 6:7",
+  "Ibn Ezra on Genesis 6:6:1",
+  "Bekhor Shor, Genesis 6:8:1",
+  "HaKtav VeHaKabalah, Genesis 6:6:1",
+  "Rashi on Genesis 6:6:3",
+  "Ramban on Genesis 6:6:1",
+  "Genesis 6:8",
+  "Bekhor Shor, Genesis 6:9:1"
+ ],
+ "nextNode": 33,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. \"כי רבה רעת האדם\"</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "outsideText": "קאסוטו בספרו \"מאדם עד נח\" (עמ' 176) מצביע על ההקבלות שבין פסוקי פרקנו לבין פסוקים אחרים בפרשת בראשית:"
+  },
+  {
+   "node": 3,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n<b>פרק א'</b></td>\n<td> <b>פרק ו'</b></td></tr>\n<tr>\n<td>\n<b><a class=\"refLink\" href=\"/Genesis 1:31\" data-ref=\"Genesis 1:31\" target=\"_blank\">פסוק ל\"א</a></b> \n\"<b>וַיַּרְא אֱ-לֹהִים</b><br>אֶת כָּל אֲשֶׁר עָשָׂה\"</td>\n<td>\n<b><a class=\"refLink\" href=\"/Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" target=\"_blank\">פסוק ה'</a></b>\n\"<b>וַיַּרְא ה'</b> <br>כִּי רַבָּה רָעַת הָאָדָם בָּאָרֶץ\"</td></tr>\n<tr>\n<td>\n<b>פסוק כ\"ח</b>\n\"<b>פְּרוּ וּרְבוּ</b> <br>וּמִלְאוּ אֶת הָאָרֶץ\"</td>\n<td>\n<b>פסוק א'</b>\n\"וַיְהִי כִּי הֵחֵל הָאָדָם <b>לָרֹב</b> עַל<br>פְּנֵי הָאֲדָמָה\"\n<b><a class=\"refLink\" href=\"/Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" data-ref=\"Genesis 6:5\" target=\"_blank\">פסוק ה'</a></b>\n\"כִּי <b>רַבָּה</b> רָעַת הָאָדָם בָּאָרֶץ\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מעיר לזה:</span><br><span style=\"color: rgb(51,51,51);\">הקבלת המילים מורה על הקבלת העניין. הפעם ההקבלה היא ניגודית. </span>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר מהי משמעותה של הקבלה זו - מה באה ללמדנו."
+  },
+  {
+   "node": 6,
+   "outsideText": "<table><tbody><tr><td><big>ב. לשון \"יצר\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:ה׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:5",
+   "text": {
+    "en": "And the LORD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.",
+    "he": "\"וְכָל יֵצֶר מַחְשְׁבֹת לִבּוֹ רַק רַע\""
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית ו׳:ה׳:ב׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 6:5:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וכל יצר:  מה שהלב קורא ומציירו בדמיונו. והמילה מלשון \"יצירה\", כמו (<a class=\"refLink\" href=\"/Isaiah 29:30\" data-ref=\"Isaiah 29:30\" target=\"_blank\">ישעיה כ\"ט ט\"ז</a>) \"ויצר אמר ליוצרו\", ומצאנו לשון יצירה במחשבה, \"הנה אנכי יוצר עליכם רעה וחושב עליכם מחשבה\" (<a class=\"refLink\" href=\"/Jeremiah 18:30\" data-ref=\"Jeremiah 18:30\" target=\"_blank\">ירמיהו י\"ח י\"א</a>), אבל (<a class=\"refLink\" href=\"/Psalms 103:30\" data-ref=\"Psalms 103:30\" target=\"_blank\">תהלים ק\"ג י\"ד</a>) \"כי הוא ידע יצרנו\" אין עניינו כן, אלא יצירתנו ותולדתנו, מאין נוצרנו.    \n"
+   }
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה רצה לתקן בדבריו אלה?"
+  },
+  {
+   "node": 10,
+   "outsideText": "<table><tbody><tr><td><big>ג. לא אדם הוא להנחם</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:ו׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:6",
+   "text": {
+    "en": "And it repented the LORD that He had made man on the earth, and it grieved Him at His heart.",
+    "he": "\"וַיִּנָּחֶם ה' כִּי עָשָׂה אֶת הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "בראשית ו׳:ז׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:7",
+   "text": {
+    "en": "And the LORD said: ‘I will blot out man whom I have created from the face of the earth; both man, and beast, and creeping thing, and fowl of the air; for it repenteth Me that I have made them.’",
+    "he": "\"כִּי נִחַמְתִּי כִּי עֲשִׂיתִם\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ו׳:ו׳:א׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 6:6:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וינחם ה': ידוע כי לא אדם הוא להנחם, רק דיברה תורה בלשון בני אדם כי המשחית מה שעשה יראה שניהם. "
+   }
+  },
+  {
+   "heRef": "בכור שור, בראשית ו׳:ח׳:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bekhor Shor, Genesis 6:8:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה כי נחמתי כי עשיתים: \nוכן (<a class=\"refLink\" href=\"/I Samuel 15:30\" data-ref=\"I Samuel 15:30\" target=\"_blank\">שמואל א' ט\"ו י\"א</a>): \"נחמתי כי המלכתי את שאול למלך כי שב מאחרי\". \nוכן (<a class=\"refLink\" href=\"/Exodus 32:30\" data-ref=\"Exodus 32:30\" target=\"_blank\">שמות ל\"ב י\"ד</a>): \"וינחם ה' על הרעה\". \nומקשים על כל אלו (<a class=\"refLink\" href=\"/Numbers 23:30\" data-ref=\"Numbers 23:30\" target=\"_blank\">במדבר כ\"ג י\"ט</a>): \"לא איש אל ויכזב ובן אדם יתנחם\"? \nויש לך להבין כי בשלושה דרכים הנחמה באה, כי פעמים אדם נודר לחברו לעשות לו טובה או רעה ומתחרט בעצמו ואינו עומד בדיבורו. ואף על פי שיש לאל ידו לעשות אבל אינו רוצה. וזה כזב שכוזב לו; ופעמים סבור שיכול לעשות לו ואין לאל ידו לעשות, ומתנחם בעל כרחו מחמת האונס, ועל אלו שתיים הוא אומר: \"לא איש אל ויכזב\", אלא מקיים דברו, \"ובן אדם יתנחם\" מחמת שאין לו – והוא כל יכול; ולפי שהיה אומר לו בלק (במדבר נ\"ג י\"ז): \"מה דבר ה'?\" כלומר: \"חזור מן הברכה לקללה!\", לכן ענה לו: \"לא איש אל ויכזב, שלא יעמוד בדיבורו, כי כל דבריו אמת, ובן אדם ויתנחם, מחמת שאינו יכול לקיים, כי לא קצרה ידו\". \nאבל יש נחמה שלישית שאינה באה מחמת זה שנודר, אלא מחמת אותן שנודרין להם, כגון אם ידבר הקב\"ה על גוי וממלכה להרע להם, כמו על אותם של נינוה, ודאי מדעת כן הוא אומר אם לא יעמדו במרדן, ואם שבו – ישוב מחרון אפו וייטיב להם, ודברו הוא אמת. וכן הפך, אם אמר להטיב להם, והם קלקלו, וזהו כבודו של מעלה. \nוכן כשברא הקב\"ה אדם, לכבודו בראו ולשמשו, כמו שכתוב (<a class=\"refLink\" href=\"/Isaiah 42:30\" data-ref=\"Isaiah 42:30\" target=\"_blank\">ישעיה מ\"ב ז'</a>) \"כל הנקרא בשמי ולכבודי בראתיו, יצרתיו, אף עשיתיו\", וכיוון שקלקלו, הריני עושה עצמי כאילו נחמתי, ואנחם, ומכל מקום החזרה מהם באה; וכך שאול כשהמליכו, מדעת כן המליכו, שלא יעבור על רצונו של מקום, והוא פשע, ולפיכך גרמו לו עונותיו שאעשה עצמי כמתנחם, ואף על פי שידע מתחילה שיקלקלו, כי הכל גלוי לפניו, בראם כדי שיווסרו בם אחרים ולא יקלקלו מעשיהם."
+   }
+  },
+  {
+   "heRef": "הכתב והקבלה, בראשית ו׳:ו׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "HaKtav VeHaKabalah, Genesis 6:6:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וינחם ה': פירושו וירחם ה', כמו (<a class=\"refLink\" href=\"/Hosea 11:30\" data-ref=\"Hosea 11:30\" target=\"_blank\">הושע י\"א</a>) \"יחד נכמרו נחומי\", דתרגומו – \"רחמי\". וכן (<a class=\"refLink\" href=\"/Jonah 3:30\" data-ref=\"Jonah 3:30\" target=\"_blank\">יונה ג' ט</a>) \"מי יודע, ישוב וניחם האלוהים\" דתרגומו \"ויתרחם\" ... \nוטעם המקרא שהתנהג ה' עמהם במידת רחמיו, להאריך להם מאה ועשרים שנה, אולי ישובו. אף שמצד מעשיהם הרעים היו ראויים מיד להשחיתם - מכל מקום לא רצה לאבדם מיד, לפי שהם מעשה ידיו וחס עליהם..."
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. שני קשיים רצו פרשנים אלה ליישב. אילו הם ?"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. התוכל להביא ראיות מספרי המקרא (תורה, נביאים וכתובים) לכל אחד משימושי ה\"נחם\" האמורים במפרשים?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. מהי חולשתו של פירוש הכתב והקבלה?"
+  },
+  {
+   "node": 19,
+   "outsideText": "<table><tbody><tr><td><big>ד. הפעלים: נחם, עשה, עצב</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מאדם עד נח עמוד 177.</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה וינחם ה' כי עשה את האדם: שלושה פעלים יש בפסוק זה: <b>נחם</b>, <b>עשה</b>, <b>עצב</b>. וכל שלשת השרשים האלה באו כבר ודוקא באותו הסדר, בתחילת דבריו של למך (ח' כ\"ט) \"זה <b>ינחמנו</b> <b>ממעשנו</b> <b>ומעצבון</b> ידינו\" בודאי אין זה מקרה. לכל הפחות יש כאן הקבלה בצורה, הקושרת את שתי הפסקות זו בזו. ואולי יש גם הקבלה ניגודית בענין. למך היה מקוה שבנו יהיה מקור <b>תנחומים</b> מן <b>העצבון</b> היוצא <b>ממעשי</b> ידיהם של בני אדם העובדים עבודה קשה באדמה הארורה; אבל לא שם לב לזה, שכשם שמעשיהם של בני אדם <b>במקצוע העבודה החמרית</b>. היו גורמים עצבון לבעליהם, וכשם שבני אדם משתוקקים היו <b>לתנחומים</b> על <b>העצבון </b>הנגרם להם ע\"י מעשיהם החומריים, כך הבורא מתוך<b> עצבון</b> לבו היה <b>ניחם</b> על שעשה את האדם בארץ.</span>"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "העוסק קאסוטו באחת השאלות שהעסיקה את הפרשנים שבשאלתנו הקודמת? הקרובים דבריו לאחד מן הפרשנים דלעיל - או לא?"
+  },
+  {
+   "node": 22,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"ויתעצב אל לבו\" - מבנה תחבירי</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ו׳:ג׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:6:3",
+   "text": {
+    "en": "ויתעצב אל לבו AND IT GRIEVED HIM AT HIS HEART— He mourned at the failure of His handiwork. Similarly (2 Samuel 19:3) ‘The king grieved (נעצב) for his son”. (Similarly here: God grieved for his (man’s) heart: that it had changed from good to bad). The following extract from the Midrash Rabbah I am writing in order that you may know how to refute the arguments of certain heretics: A gentile once asked Rabbi Joshua, the son of Korcha, saying to him, “Do you not admit that the Holy One, blessed be He, knows what is to happen in the future?” He replied, “Yes.” The gentile retorted, “But is it not written ‘and He was grieved in His heart’?” He answered: “Have you ever had a son born to you?” The reply was “Yes.” He asked (the gentile): “And what did you do?” He replied: “I rejoiced and I made others rejoice also.” The Rabbi asked him: “But did you not know that he must die?” The heathen replied: “At the time of joy, let there be joy, at the time of mourning let there be mourning”. The Rabbi then said: “Such, too, is the way of the Holy One, blessed be He: although it was clear to Him that in the end men would sin and would be destroyed, He did not refrain from creating them for the sake of the righteous men who were to issue from them” (Genesis Rabbah 27:4). ",
+    "he": "\"וַיִּתְעַצֵּב אֶל לִבּוֹ\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:ו׳:א׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:6:1",
+   "text": {
+    "en": "",
+    "he": "...והענין, כי \"המה מרו ועצבו את רוח קדשו\" (<a class=\"refLink\" href=\"/Isaiah 23:30\" data-ref=\"Isaiah 23:30\" target=\"_blank\">ישעיה כ\"ג י'</a>) בפשעיהם. וענין \"אל לבו\", כי לא הגיד זה לנביא שלוח אלוהים, <b>וכן הלשון במחושב</b> כדרך (<a class=\"refLink\" href=\"/Genesis 24:30\" data-ref=\"Genesis 24:30\" target=\"_blank\">בראשית כ\"ד מ\"ה</a>) \"אני טרם אכלה לדבר אל לבי\" וזולתו."
+   }
+  },
+  {
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מדרשי התורה לאנשלמה אשתרוק:</span><br><span style=\"color: rgb(51,51,51);\">ויתעצב אל לבו: יש אומרים שכינוי \"לבו\" שב אל האדם, כי ניחם ה' במה שעשה את האדם, וזה כי עשה אלוהים את האדם ישר ונתן לו בשכלו לבחור בטוב ולמאוס ברע, והוא הרבה אשמה ונתעצב ונתעצם ללכת אחרי שרירות לבו ורוע תכונתו, כמו (<a class=\"refLink\" href=\"/Psalms 139:30\" data-ref=\"Psalms 139:30\" target=\"_blank\">תהלים קל\"ט</a>) \"וראה אם דרך עוצב בי\"..., כי אמר דוד: ראה אם נטה לבבי בדרך עוצב ותכונה רעה ונחני בדרך מישור. \nאו אמר \"אל לבו\" כמו על לבו. והרצון שלא נתעצב ה' בבריאת האדם במה שעשהו, כי כבר עשאהו בשלמות. רק נעצב וכעס על לבו של האדם ועל חפצו ורצונו לרע לו.</span>"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר כמה אפשרויות לפרוש פסוקנו <b>מבחינה תחבירית</b> קיימות (הן אלה המובאות בפירושים דלעיל, הן אלה שאינן מובאות). איזו מהן היא הנראית לך ביותר?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. היכן מצינו במקרא 'אל' בהוראת 'על' כפי שמפרשו בעל מדרשי התורה בפרושו השני?"
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ו. צחות לשון העברי</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:ח׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:8",
+   "text": {
+    "en": "But Noah found grace in the eyes of the LORD.",
+    "he": "\"<b>וְנֹחַ</b> מָצָא <b>חֵן</b>\""
+   }
+  },
+  {
+   "heRef": "בכור שור, בראשית ו׳:ט׳:א׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bekhor Shor, Genesis 6:9:1",
+   "text": {
+    "en": "",
+    "he": "צחות לשון העברי להפך אותיות השם על אדם טוב לטובה ועל אדם רע לרעה."
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מצא דוגמה בספר בראשית ההופכת אותיות שמו של אדם רע - ל... ? (במקביל למקומנו)."
+  }
+ ],
+ "ssn": 378,
+ "status": "public",
+ "summary": "1961 (תשכ\"א)<br><a href=\"http://www.nechama.org.il/pdf/378.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשכ\"א - וינחם ה' כי עשה את האדם",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

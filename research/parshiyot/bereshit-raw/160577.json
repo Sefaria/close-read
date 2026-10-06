@@ -1,0 +1,538 @@
+{
+ "dateCreated": "2019-03-05T15:15:34.373282",
+ "dateModified": "2019-03-07T02:01:32.982388",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Bereshit Rabbah 16:5",
+  "Bereshit Rabbah 14:10",
+  "Rashi on Genesis 2:18:1",
+  "Genesis 2:7",
+  "Rashi on Genesis 2:8:1",
+  "Sforno on Genesis 2:19:3",
+  "Genesis 2:15",
+  "Radak on Genesis 2:15:2",
+  "Rashi on Genesis 2:15:1",
+  "Genesis 2:19",
+  "Rashi on Genesis 2:7:4",
+  "Onkelos Genesis 2:7",
+  "Radak on Genesis 2:15:1",
+  "Taanit 22b:11",
+  "Abarbanel on Torah, Genesis 2:4:18"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160577,
+ "includedRefs": [
+  "Abarbanel on Torah, Genesis 2:4:18",
+  "Rashi on Genesis 2:7:4",
+  "Onkelos Genesis 2:7",
+  "Rashi on Genesis 2:8:1",
+  "Rashi on Genesis 2:18:1",
+  "Genesis 2:7",
+  "Taanit 22b:11",
+  "Bereshit Rabbah 14:10",
+  "Genesis 2:15",
+  "Bereshit Rabbah 16:5",
+  "Rashi on Genesis 2:15:1",
+  "Radak on Genesis 2:15:1-2",
+  "Genesis 2:15",
+  "Bereshit Rabbah 16:5",
+  "Bereshit Rabbah 16:5",
+  "Genesis 2:19",
+  "Sforno on Genesis 2:19:3"
+ ],
+ "nextNode": 47,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. סיפור יצירת החיות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ב׳:ד׳:י״ח",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 2:4:18",
+   "text": {
+    "en": "",
+    "he": "אברבנאל, מקשה:<br>\"וייצר ה' אלוקים מן האדמה כל חית השדה\" – מה ענין זה לכאן? ואם בא הכתוב לספר יצירת האשה, למה זה זכר <b>בתוך</b> ספורה קריאת שמות לכל בעלי החיים, שאינו מן הדרוש? ויקשה בכלל זה, שאם בא הכתוב להגיד, שהניח שמות הדברים כפי הסכמתו, מדוע אמר בלבד חית השדה ועוף השמים, ולא זכר יסודות וצמחים, דוממים ומתכות ושאר הנמצאים, שהרי ראוי להניח להם גם כן שמות?"
+   }
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ענה לשתי קושיותיו."
+  },
+  {
+   "node": 4,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ז׳:ד׳",
+   "node": 5,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:7:4",
+   "text": {
+    "en": "לנפש חיה A LIVING SOUL — Also cattle and beasts are called נפש חיה (1:20, 22, 24), but the נפש of man is the most highly developed of all of them, because to him was granted understanding and speech.",
+    "he": "ד\"ה ויהי האדם לנפש חיה: אף בהמה וחיה נקראו נפש חיה, אך זו של אדם חיה שבכולן, שנתוסף בו דעה ודיבור"
+   }
+  },
+  {
+   "heRef": "תרגום אונקלוס על בראשית ב׳:ז׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Onkelos Genesis 2:7",
+   "text": {
+    "en": "And the Lord God created man, dirt from the ground, and He blew into his nostrils a living soul, and it was for a speaking spirit in man.",
+    "he": "והות באדם לרוח ממללא.)"
+   }
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מקשה בעל נימוקי רש\"י, (הירשענזאהן):</span><br><span style=\"color: rgb(51,51,51);\">מניין לקחו אונקלוס ורש\"י לפרש מאמר אחד השוה בשלושה מקומות (א' ב'; א' כ\"ד, ובמקומנו) לפרש את האחד בכוונה אחרת מן כולם?</span>"
+  },
+  {
+   "node": 8,
+   "outsideText": "יישב קושייתו."
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ח׳:א׳",
+   "node": 9,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:8:1",
+   "text": {
+    "en": "מקדם EASTWARD — In the east of Eden He planted the garden. Should you say, however, it is already written, (1:27) “and He created the man etc.”, then I say that I have seen the Baraitha of R. Eliezer the son of R. José the Galilean, dealing with the thirty two rules of interpretation according to which the Torah (Agada) can be interpreted, and the following is one of them: when a general statement of an action is followed by a detailed account of it, the latter is a particularisation of the former: — “And He created the man” is a general statement, but it does not explicitly state whence he was created and what God did unto him. Now it repeats it and explains these things: “And the Lord God formed man”, “and He made to grow for him the garden of Eden”, and He caused a deep sleep to fall upon him.” He who hears this might think that it is a different account entirely, whereas it is nothing else but the details of the former general statement. Similarly with reference to the cattle the creation of which has been mentioned above (1:27). it resumes and writes, (2:19) “and out of the ground the Lord [God] formed every beast of the field etc.”, for the purpose of explaining “and He brought them unto the man to give them names”, and also to state that the fowls were created from the swamps. ",
+    "he": "ד\"ה מקדם...: ואם תאמר: הרי כבר נאמר (פרק א) \"ויברא... את האדם\"? ראיתי בברייתא של ר' אליעזר בנו של ר' יוסי הגלילי מל\"ב מדות שהתורה נדרשה וזו אחת מהן: \"כלל שלאחריו מעשה הוא פרטו של ראשון\". \"ויברא... את האדם\" זהו כלל. <b>סתם בריאתו מהיכן וסתם מעשיו</b>. חזר ופירש \"וייצר ה' אלוקים את האדם עפר... ויצמח לו גן בעדן ויניחהו בגן עדן ויפל עליו תרדמה...\" <b>השומע סבור שהוא מעשה אחר</b> <b>ואינו אלא פרטו של ראשון</b>. וכן אצל הבהמה חזר וכתב \"ויצר ה'... כל חית השדה\", כדי לפרש \"ויבא אל האדם\" לקרות שם וללמד על העופות שנבראו מן הרקק."
+   }
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  מהו הקושי שבפרקנו שאותו בא ליישב?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  הסבר את המילים המסומנות בקו."
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ג.  התוכל לציין מקומות נוספים בחומש בראשית המתפרשים יפה ע\"י המידה הזו: כלל שלאחריו מעשה הוא פרטו של ראשון?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:י״ח:א׳",
+   "node": 13,
+   "options": {
+    "PrependRefWithEn": "3) ",
+    "PrependRefWithHe": "3) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:18:1",
+   "text": {
+    "en": "'לא טוב היות וגו IT IS NOT GOOD etc. — I shall make an help meet for him in order that people may not say that there are two Deities, the Holy One, blessed be He, the only One among the celestial Beings without a mate, and this one (Adam), the only one among the terrestrial beings, without a mate (Pirkei D'Rabbi Eliezer 12).",
+    "he": "ד\"ה לא טוב היות: שלא יאמרו שתי רשויות הן: הקב\"ה בעליונים יחיד ואין לו זוג וזה בתחתונים ואין לו זוג."
+   }
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מפרשי רש\"י <b>מקשים</b>: מה ראו חז\"ל ורש\"י לתלות הטעם של \"לא טוב היות האדם לבדו\" <b>בטעם זה</b>, שלא יאמרו... ולא אמרו כפי שפירשו <b>ספורנו</b> \"לא יושג טוב התכלית המכוון בדמותו ובצלמו, אם יצטרך להתעסק הוא עצמו בצרכי חייו\"? יישב קושייתם!"
+  },
+  {
+   "node": 15,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"ויהי האדם לנפש חיה\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ז׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:7",
+   "text": {
+    "en": "Then the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+    "he": "\"וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה\""
+   }
+  },
+  {
+   "heRef": "תענית כ״ב ב:י״א",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Taanit 22b:11",
+   "text": {
+    "en": "<b>Rabbi Yosei says: An individual is not permitted to afflict himself by fasting, lest</b> he become too weak to work and <b>be beholden to other beings, and</b> those <b>beings will not have mercy on him. Rav Yehuda said</b> that <b>Rav said: What is the reason of Rabbi Yosei?</b> It is <b>as it is written: “And man became a living soul”</b> (Genesis 2:7). Rabbi Yosei interprets this verse as a command: <b>The soul I placed within you,</b> preserve and <b>sustain it.</b>",
+    "he": "ר' יוסי אומר: אין היחיד רשאי לסגף עצמו בתענית, שמא יצטרך לבריות [רש\"י: כי אין בו כח להרויח ולהתפרנס מיגיעו] ואין הבריות מרחמות עליו. [מהרש\"א: שהוא עצמו גרם לו חולי ע\"י סיגוף]. אמר רב יהודה אמר רב: מאי טעמא דר' יוסי? דכתיב (בראשית ב') \"ויהי האדם לנפש חיה\" – <b>נשמה שנתתי בך – החייה</b>!"
+   }
+  },
+  {
+   "heRef": "בראשית רבה י״ד:י׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 14:10",
+   "text": {
+    "en": "",
+    "he": "\"ויהי האדם לנפש חיה\": ר' יהודא אמר: עשאו עבד מכורן (<b>מכור לצמיתות, משועבד</b>) בפני עצמו, דאין לא לעי לא נגיס (=אם אינו יגע ועמל, אינו אוכל), הוא דעתיה דר' הונא (ויש גורסין דר' חנינא) דאמר (איכה א') \"נתנני ה' בידי לא אוכל קום\"..."
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "ר' דוד הנגיד, בן רבנו אברהם בן הרמב\"ם (פרשת בראשית מתורגם מערבית י\"ל בהוצאת קרינפיס, ירושלים תש\"ז):<br>ואני אומר עוד \"ויהי האדם לנפש חיה\" שחובה על האדם שישתדל בחיי נפשו, יחיה את נפשו ואל ימיתנה, ירפאנה ולא יחלנה, יען כי לנפש יש בריאות ומחלה, ומחלת הנפש היא האיולת והסכלות וקניית המדות המושחתות, הפריצות והרשעות; ורפואתה – קניית המעלות ומדות טובות והלוך אחרי אנשי הדעת. ומגמת הבורא יתברך מן האדם, שילך בדרכיו יתברך ושיהיו כל מעשיו שלמים ובריאים ונפשו שלמה ומתוקנת ותתמיד בחיים הנצחיים, כמו שאמר \"ויהי האדם לנפש חיה\"."
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מהו הקושי בפסוקנו שעליו עמדו כל הנ\"ל?"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ההבדל ביניהם בפירוש פסוקנו?"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. כיצד דורש ר' הונא את הפסוק איכה א' י\"ד?"
+  },
+  {
+   "node": 23,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"ויקח ה'\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ו",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:15",
+   "text": {
+    "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+    "he": "\"וַיִּקַּח ה' אֱ-לֹהִים אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה ט״ז:ה׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 16:5",
+   "text": {
+    "en": "",
+    "he": "\"ויקח ה' את האדם\" – ר' יהודה אומר: עילה אותו. האיך מה דאת אמר (<a class=\"refLink\" href=\"/Isaiah 63:3\" data-ref=\"Isaiah 63:3\" target=\"_blank\">ישעיהו ס\"ג ג'</a>) \"ולקחום עמים והביאום וגו'\". \nר' נחמיה אומר: פיתה אותו, האיך מה דאת אמר (הושע ד' ג') \"קחו עמכם דברים ושובו אל ה' וגו'\"."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ט״ו:א׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:15:1",
+   "text": {
+    "en": "ויקח AND HE TOOK — He took him with kind words and induced him to enter (Genesis Rabbah 16:3). ",
+    "he": "לקחו בדברים נאים ופתהו ליכנס."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ב׳:ט״ו:א׳-ב׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 2:15:1-2",
+   "text": {
+    "en": "ויקח ה' אלוקים, even though we have been told already in verse 8 that G’d placed Adam in Gan Eden, the Torah repeats this by stating that “G’d took man etc.,” because at this point the Torah wanted to inform us of the commandment which accompanied Adam’s taking up residence in that idyllic place. Our verse also spells out something that had not been mentioned previously, i.e. that Adam was not to treat Gan Eden as a retreat, but that he was made responsible for maintaining it in good order. לעבדה ולשמרה, to work it and to preserve it intact. The verse makes plain that G’d removed Adam from a nearby location where he had been created, depositing him in Gan Eden The question is why G’d had not created Adam in Gan Eden in the first place, seeing He was going to transfer him there anyway? The reason is that He wanted him to appreciate the quality of that garden. Had he been created there, he would not have had any means of comparing it to another region on earth, and would not have cherished its excellence. By transferring him to Gan Eden, G’d demonstrated to Adam that He had his best interests at heart. The word ויקח may be understood as similar to G’d saying about Avraham ואקח את אביכם את אברהם מעבר הנהר, “I took your father Avraham from beyond the river Euphrates.” (Joshua 24,3)<br> לעבדה ולשמרה, although the noun גן is masculine, the Torah treats it here as if it were in the feminine mode. The reason is that the work would be performed on the soil, אדמה of the garden, and the word אדמה is a feminine noun. Alternatively, the word “garden” appears in the Bible both in a masculine mode, גן and in a feminine mode גנה, when the letter ה is added at the end. An example of this is found in Isaiah 61,11 וכגנה זרעויה תצמיח, “and its seeds will sprout like those in a garden.” The word לעבדה refers to constructive labour, furthering the growth and fruit-bearing capability of the trees, whereas the word ולשמרה refers to the taking of preventive measures to counter invasion of the garden by predators, and other measures to prevent its deterioration. Our sages, reading into this expression also a moral/ethical teaching, understand the word לעבדה as the dedication to study of G’d’s commandments, whereas the expression לשמרה refers to the carrying out of these commandments in practice. (Sifri Eykev 21)\n",
+    "he": "אע\"פ שזכר למעלה (ב' ח') \"וישם שם\" חזר ושנה עוד ואמר \"ויקח\" לפי שרוצה לזכור המצוה שציוהו האל. ועוד הוסיף \"לעבדה ולשמרה\" שלא זכר בתחילה. \nופירוש \"ויניחה\" שלקחו ממקום שנברא שם סמוך לגן עדן והניחו בגן עדן. ולמה לא יצרו תחילה בגן עדן אחר שסופו היה להניחו שם? כדי שיהיה המקום ההוא חביב עליו יותר, שהיה חדש אצלו ושיכיר כי האל הולך ומטיב עמו. וטעם \"ויקח\" כמו (<a class=\"refLink\" href=\"/Joshua 24\" data-ref=\"Joshua 24\" target=\"_blank\">יהושע כ\"ד</a>) \"ואקח את אביכם מעבר הנהר\"."
+   }
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה הם הקשיים בפסוקנו העומדים בפני בעל המדרש והפרשנים?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  דברי ר' יהודה ור' נחמיה מובאים בבראשית רבה גם לפסוק ח' בפרקנו. הסבר, למה לא הביאו רש\"י שם?"
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. הסבר, מה ראה רש\"י לשנות מלשון מקורו (דברי ר' נחמיה)?"
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. למה הביא רד\"ק ראייתו מיהושע ולא הביאה מחומש <a class=\"refLink\" href=\"/Genesis 16:3\" data-ref=\"Genesis 16:3\" target=\"_blank\">בראשית ט\"ז ג'</a>?"
+  },
+  {
+   "node": 32,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"לעבדה ולשמרה\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:ט״ו",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:15",
+   "text": {
+    "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+    "he": "\"וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה ט״ז:ה׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 16:5",
+   "text": {
+    "en": "",
+    "he": "\"ויניחהו\" – נתן לו מצות שבת, כמה דאת אמר (<a class=\"refLink\" href=\"/Exodus 20:11\" data-ref=\"Exodus 20:11\" target=\"_blank\">שמות כ' י\"א</a>) \"וינח ביום השביעי\"; \"לעבדה\" (<a class=\"refLink\" href=\"/Exodus 20:9\" data-ref=\"Exodus 20:9\" target=\"_blank\">שם שם ט'</a>) \"ששת ימים תעבוד\", \"ולשמרה\" – (דברים ה') \"שמור את יום השבת\". "
+   }
+  },
+  {
+   "heRef": "בראשית רבה ט״ז:ה׳",
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 16:5",
+   "text": {
+    "en": "",
+    "he": "דבר אחר: \"לעבדה ולשמרה\" – אלו הקרבנות, שנאמר (שמות ג' י\"ב) \"תעבדון את האלוקים\", (<a class=\"refLink\" href=\"/Numbers 28:2\" data-ref=\"Numbers 28:2\" target=\"_blank\">במדבר כ\"ח ב'</a>) \"תשמרו להקריב לי\"."
+   }
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1. מהו המשותף לדעת שני המדרשים האלה בפירוש המילים \"לעבדה ולשמרה\"?"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מהו הרעיון המסומל בדברי בעל ה\"דבר אחר\"?"
+  },
+  {
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">הערה: קאסוטו, בספרו \"מאדם עד נח\" עמוד 68:</span><br><span style=\"color: rgb(51,51,51);\">נראה שפירושם של חז\"ל על \"לעבדה\" - אלו הקרבנות, אינו דרש בעלמא אלא פשוטו של מקרא.</span>"
+  },
+  {
+   "node": 39,
+   "outsideText": "<table><tbody><tr><td><big>ו. קריאת שמות לחיות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ט",
+   "node": 40,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:19",
+   "text": {
+    "en": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto the man to see what he would call them; and whatsoever the man would call every living creature, that was to be the name thereof.",
+    "he": "\"וַיִּצֶר ה' אֱ-לֹהִים מִן הָאֲדָמָה כָּל חַיַּת הַשָּׂדֶה וְאֵת כָּל עוֹף הַשָּׁמַיִם\nוַיָּבֵא אֶל הָאָדָם לִרְאוֹת מַה יִּקְרָא לוֹ\""
+   }
+  },
+  {
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' נפתלי הירץ ויזל, אמרי שפר:</span><br><span style=\"color: rgb(51,51,51);\">חפץ ה' שהאדם יקרא שמות לחיה ולבהמה ולעוף השמים, על כן הביאם אליו לראות מה שם יקרא לכל אחד מהם, והוא, ברוך הוא, צופה ויודע הכל, וידע מה יקרא להם, ושיכוון בכל שם כפי הראוי לאותו המין. ואם כן – מילת \"לראות\" כמו (פרק י\"א) \"לראות את העיר ואת המגדל אשר בנו בני האדם\"; (<a class=\"refLink\" href=\"/Psalms 14:2\" data-ref=\"Psalms 14:2\" target=\"_blank\">תהלים י\"ד ב'</a>) \"לראות היש משכיל דורש את אלוקים\"; וכן, \"לראות מה יקרא לו\", כי הוא משגיח בכל עת, כי קריאת השמות איננו לבד שיבדלו בשמותיהם לדעת מי זה ומי זה, אבל השם הוא תולדתו הפנימית ולאיזה דבר נברא לשמש...</span>"
+  },
+  {
+   "heRef": "ספורנו על בראשית ב׳:י״ט:ג׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 2:19:3",
+   "text": {
+    "en": "לראות מה יקרא לו, so that he would see which name would be appropriate for each creature, based on the specific tasks they performed in the universe.",
+    "he": "כדי שיראה ויתבונן איזה שם ראוי לכל אחד מהם כפי המעלה המיוחדת לצורתו."
+   }
+  },
+  {
+   "node": 43,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ההבדל בין שני הפירושים מבחינה תחבירית?"
+  },
+  {
+   "node": 44,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. שד\"ל מביא הוכחה לפירושו של ספורנו משני הפסוקים הבאים: <a class=\"refLink\" href=\"/II Samuel 24:13\" data-ref=\"II Samuel 24:13\" target=\"_blank\">שמואל ב', כ\"ד י\"ג</a>; <a class=\"refLink\" href=\"/Psalms 104:25\" data-ref=\"Psalms 104:25\" target=\"_blank\">תהלים ק\"ד כ\"ה</a>. הסבר במה מסייע כל אחד מן הפסוקים האלה לפירושו של ספורנו?"
+  },
+  {
+   "node": 45,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  לדעת כמה ממפרשינו, פסוק זה הוא ביצועו של מה שנאמר בבראשית א' כ\"ח. הסבר!"
+  }
+ ],
+ "ssn": 148,
+ "status": "public",
+ "summary": "1965 (תשכ\"ה)<br><a href=\"http://www.nechama.org.il/pdf/148.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשכ\"ה - האדם",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

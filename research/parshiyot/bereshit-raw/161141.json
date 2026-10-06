@@ -1,0 +1,350 @@
+{
+ "dateCreated": "2019-03-06T05:23:26.636853",
+ "dateModified": "2019-03-07T02:07:38.568747",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 4:11:2",
+  "Genesis 4:12",
+  "Ramban on Genesis 4:11:1",
+  "Rashi on Genesis 4:12:1",
+  "Rashi on Genesis 4:11:1",
+  "Genesis 4:11",
+  "Bereshit Rabbah 22:9",
+  "Genesis 4:9"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161141,
+ "includedRefs": [
+  "Genesis 4:9",
+  "Bereshit Rabbah 22:9",
+  "Genesis 4:11",
+  "Rashi on Genesis 4:11:1-2",
+  "Ramban on Genesis 4:11:1",
+  "Genesis 4:12",
+  "Rashi on Genesis 4:12:1"
+ ],
+ "nextNode": 41,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "שים לב: גיליוננו זה הוא המשך גיליונות בראשית-<a class=\"refLink\" href=\"/sheets/161216\" data-ref=\"sheet.161216\" target=\"_blank\">תשט\"ז</a> <a class=\"refLink\" href=\"/sheets/161104\" data-ref=\"sheet.161104\" target=\"_blank\">ותשי\"ז</a>, שעסקו שניהם בחלקו הראשון של הפרק (א-ט). עיין שם וצרפם לגיליוננו. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות מבנה וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הפסוקים ב-ה בפרקנו בנויים לפי הסדר \"פתח במה שסיים\" (סדר כיאסטי), הסבר כיצד, והבא דוגמאות נוספות לסדר זה מתוך פרשת בראשית."
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. קאסוטו, תורת התעודות, 80-90:<br>\"כשבא איזה פועל פעמים בזה אחר זה <b>בהקבלה</b>, אז נוהג הכתוב לשנות את זמנו ואת מקומו: פעם הוא בא בעתיד מהופך לעבר ופעם בעבר, פעם בתחילת המשפט ופעם אחר איזו מילה אחרת\"."
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  הסבר מהי משמעותה המיוחדת של צורה זו, בפסוק ב':<br>\"וַיְהִי הֶבֶל... וְקַיִן הָיָה...\""
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  הבא דוגמאות נוספות לצורה זו מתוך פרקנו."
+  },
+  {
+   "node": 7,
+   "outsideText": "את הפסוקים י'-י\"א מדפיס קאסוטו בספרו \"מאדם עד נח\" בצורה זו:"
+  },
+  {
+   "node": 8,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n\"וַיֹּאמֶר </td>\n<td> </td>\n<td> </td></tr>\n<tr>\n<td>\nמֶה עָשִׂיתָ קוֹל </td>\n<td> </td>\n<td>\nדְּמֵי אָחִיךָ</td></tr>\n<tr>\n<td>\nצֹעֲקִים אֵלַי</td>\n<td>\nמִן הָאֲדָמָה</td>\n<td> </td></tr>\n<tr>\n<td>\nוְעַתָּה אָרוּר אָתָּה</td>\n<td>\nמִן הָאֲדָמָה </td>\n<td> </td></tr>\n<tr>\n<td>\nאֲשֶׁר פָּצְתָה אֶת פִּיהָ לָקַחַת אֶת</td>\n<td> </td>\n<td>\nדְּמֵי אָחִיךָ</td></tr>\n<tr>\n<td>\nמִיָּדֶךָ\"</td>\n<td> </td>\n<td> </td></tr></tbody></table>"
+  },
+  {
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ואלה דבריו (עמוד 124):</span><br><span style=\"color: rgb(51,51,51);\">סידרתי את חלקיו של <a class=\"refLink\" href=\"/Genesis 4:11\" data-ref=\"Genesis 4:11\" data-ref=\"Genesis 4:11\" target=\"_blank\">פסוק י\"א</a> בצורה העלולה להבליט את התקבולת שבינו ובין הפסוק הקודם. שתי צלעותיו של פס' י' מסתיימות במלים \"דמי אחיך\" ו\"מן האדמה\". וכאן ב<a class=\"refLink\" href=\"/Genesis 4:11\" data-ref=\"Genesis 4:11\" data-ref=\"Genesis 4:11\" target=\"_blank\">פסוק י\"א</a> באות בסדר הפוך שכבר מצאנו דוגמתו שתי צלעות המסתיימות במילים \"מן האדמה\" ו\"דמי אחיך\".</span>"
+  },
+  {
+   "node": 10,
+   "outsideText": "הסבר מהי משמעות של הקבלה זו?"
+  },
+  {
+   "node": 11,
+   "outsideText": "<table><tbody><tr><td><big>ב. השוואת פסוקים</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 12,
+   "outsideText": "השווה:"
+  },
+  {
+   "node": 13,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n<b>פרק ד'</b></td>\n<td>\n <b>פרק ג'</b></td></tr>\n<tr>\n<td>\n<b><a class=\"refLink\" href=\"/Genesis 4:9\" data-ref=\"Genesis 4:9\" data-ref=\"Genesis 4:9\" target=\"_blank\">פסוק ט'</a></b>\n\"וַיֹּאמֶר ה' אֶל קַיִן <br>אֵי הֶבֶל אָחִיךָ\"</td>\n<td>\n<b><a class=\"refLink\" href=\"/Genesis 4:9\" data-ref=\"Genesis 4:9\" data-ref=\"Genesis 4:9\" target=\"_blank\">פסוק ט'</a></b>\n\"וַיֹּאמֶר לוֹ <br>אַיֶּכָּה\"</td></tr>\n<tr>\n<td>\n<b>פסוק י'</b>\n\"מֶה עָשִׂיתָ\"</td>\n<td>\n<b>פסוק י\"ג</b>\n\"מַה זֹּאת עָשִׂית\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  האם השאלות האלה הן שאלות רטוריות או לא? הוכח את דבריך מן הכתוב."
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. הבא דוגמאות נוספות לשאלות מסוג זה מספר בראשית."
+  },
+  {
+   "node": 16,
+   "outsideText": "השווה את דברי רש\"י, במקומנו למקום שבפרק ג':"
+  },
+  {
+   "node": 17,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\nד\"ה אי הבל אחיך: <br>נכנס עמו בדברי נחת, אולי ישוב ויאמר: אני הרגתיו וחטאתי לך</td>\n<td>\nד\"ה איכה:<br>יודע היה היכן הוא, אלא נכנס עמו בדברים, שלא יהא נבהל להשיב אם יענישוהו פתאום. וכן בקין אמר: \"אי הבל אחיך\", וכן בבלעם (<a class=\"refLink\" href=\"/Numbers 22\" data-ref=\"Numbers 22\" target=\"_blank\">במדבר כ\"ב</a>): \"מי האנשים האלה\" להיכנס עמהם בדברים, וכן בחזקיהו בשלוחי מרודך בלאדן.</td></tr></tbody></table>"
+  },
+  {
+   "node": 18,
+   "outsideText": "הסבר את השוני בדבריו כאן וכאן!"
+  },
+  {
+   "node": 19,
+   "outsideText": "הסבר למה נשאלה השאלה בשני המקומות בלשון 'איה' ולא בלשון 'איפה'?"
+  },
+  {
+   "node": 20,
+   "outsideText": "היעזר במקומות הבאים:"
+  },
+  {
+   "node": 21,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n<a class=\"refLink\" href=\"/Genesis 37\" data-ref=\"Genesis 37\" target=\"_blank\">בראשית ל\"ז</a>   \n\"אֵיפֹה הֵם רֹעִים\"\n<a class=\"refLink\" href=\"/Ruth 2:19\" data-ref=\"Ruth 2:19\" target=\"_blank\">רות ב' י\"ט</a>        \n\"אֵיפֹה לִקַּטְתְּ הַיּוֹם\"\n<a class=\"refLink\" href=\"/I Samuel 19:22\" data-ref=\"I Samuel 19:22\" target=\"_blank\">שמואל א', י\"ט כ\"ב</a>\n\"אֵיפֹה שְׁמוּאֵל וְדָוִד\"\n<a class=\"refLink\" href=\"/Job 38:4\" data-ref=\"Job 38:4\" target=\"_blank\">איוב ל\"ח ד'</a>    \n\"אֵיפֹה הָיִיתָ בְּיָסְדִי אָרֶץ\"</td>\n<td>\n<a class=\"refLink\" href=\"/Judges 6:13\" data-ref=\"Judges 6:13\" target=\"_blank\">שופטים ו' י\"ג</a>   \n\"וְאַיֵּה כָל נִפְלְאֹתָיו אֲשֶׁר סִפְּרוּ לָנוּ אֲבוֹתֵינוּ\"\n<a class=\"refLink\" href=\"/II Kings 18\" data-ref=\"II Kings 18\" target=\"_blank\">מלכים ב' י\"ח</a>    \n\"אַיֵּה אֱלֹהֵי חֲמָת וְאַרְפָּד\"\n<a class=\"refLink\" href=\"/II Kings 2\" data-ref=\"II Kings 2\" target=\"_blank\">מלכים ב' ב'</a>   \n\"אַיֵּה ה' אֱ-לֹהֵי אֵלִיָּהוּ\"\n<a class=\"refLink\" href=\"/Jeremiah 2:28\" data-ref=\"Jeremiah 2:28\" target=\"_blank\">ירמיהו ב' כ\"ח</a>   \n\"וְאַיֵּה אֱלֹהֶיךָ אֲשֶׁר עָשִׂיתָ לָּךְ יָקוּמוּ אִם יוֹשִׁיעוּךָ\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 22,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"אי הבל אחיך ...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:ט׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:9",
+   "text": {
+    "en": "And the LORD said unto Cain: ‘Where is Abel thy brother?’ And he said: ‘I know not; am I my brother’s keeper?’",
+    "he": "\"אֵי הֶבֶל אָחִיךָ וַיֹּאמֶר לֹא יָדַעְתִּי\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ב:ט׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 22:9",
+   "text": {
+    "en": "... The voice of your brother’s bloods [are] screaming to me from [the surface of] the ground” [Gn 4:10]—[this means that] she (the voice of Hevel’s blood) could not go up above/l’ma`lah, for as yet no soul/n’shamah had gone up to there; and below/l’matah she could not stand (i.e., stay or sink into the ground), for as yet no adam had been buried there, and [so] “his blood was cast upon the trees and the stones.",
+    "he": "משל לאחד שנכנס לגינה וליקט <b>תותין</b> ואכל, והיה בעל הגינה רץ אחריו, אמר לו: \"מה בידך?\" אמר לו: \"אין בידי כלום\". אמר לו: \"והרי ידיך מלוכלכות!\" כך אמר לו קין להקדוש ברוך הוא: \"השומר אחי אנכי?\" אמר לו הקדוש ברוך הוא: רשע! \"<b>קול דמי</b> אחיך צועקים אלי\". \nמשל לאחד שנכנס למרעה וחטף גדי אחד והפשילו לאחוריו, והיה בעל המרעה רץ אחריו, אמר לו: \"מה בידך?\" אמר לו: \"אין בידי כלום!\" אמר לו: \"והרי הוא מפעה אחריך\". כך אמר הקדוש ברוך הוא לקין: \"קול דמי אחיך...\""
+   }
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר במה שונה משל ראשון ממשל שני!"
+  },
+  {
+   "node": 26,
+   "outsideText": "<table><tbody><tr><td><big>ד. הקללה</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:י״א",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:11",
+   "text": {
+    "en": "And now cursed art thou from the ground, which hath opened her mouth to receive thy brother’s blood from thy hand.",
+    "he": "\"וְעַתָּה אָרוּר אָתָּה מִן הָאֲדָמָה אֲשֶׁר פָּצְתָה אֶת פִּיהָ לָקַחַת אֶת דְּמֵי אָחִיךָ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י״א:א׳-ב׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:11:1-2",
+   "text": {
+    "en": "ארור אתה מן האדמה CURSED BE THOU FROM THE GROUND or, MORE THAN THE GROUND — More than the ground has already been cursed on account of its sin (cf. Rashi on Genesis 1:11): in this, too, it has again sinned אשר פצתה את פיה לקחת את דמי אחיך IN THAT IT HATH OPENED ITS MOUTH TO TAKE THY BROTHER’S BLOOD: therefore do I impose upon it an additional curse regarding you—“it shall not henceforth yield unto thee its strength”.",
+    "he": "ד\"ה מן האדמה: יותר ממה שנתקללה היא כבר בעוונה וגם בזו הוסיפה לחטוא. \"אשר פצתה את פיה לקחת את דמי אחיך\": והנני מוסיף לה קללה אצלך - \"לא תוסף תת כוחה לך\"."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ד׳:י״א:א׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 4:11:1",
+   "text": {
+    "en": "",
+    "he": "רמב\"ן, (אחרי הביאו דברי רש\"י הנ\"ל):<br>ארור אתה מן האדמה: ואיננו נכון, כי בכאן לא ארר האדמה בעבורו כאשר באביו, אבל אמר שיהיה הוא ארור ממנה. ופירוש הקללה, שלא תוסיף תת כוחה אליו, ושיהיה נע ונד בה. ואמר: \"כי תעבוד את האדמה\", כי בכל אשר תטרח בה לעבוד אותה כראוי, בחרישה ועידור ובכל עבודה בשדה ותזרע אותה כהוגן, \"לא תוסיף תת כוחה לך\", אבל תזרע הרבה, ותביא מעט, וזו היא הארירה. <b>ואמר כן כנגד אמונתו, כי הוא היה עובד אדמה. והנה אירר מעשיו</b>. וזה טעם \"לא תוסף תת כוחה לך\" שלא תיתן כוחה לך, כאשר הייתה עושה עד הנה בהיותו עובד אותה... \nוייתכן שאיררו מן האדמה - שלא תיתן היא מעצמה כוחה אליו, תאנה וגפן לא ייתנו חילם באחוזתו, ועץ השדה לא ייתן אליו פריו, וחזר ואמר גם כן, כי תעבוד אותה לחרוש ולזרוע – \"לא תוסף תת כחה לך\" כאשר בתחילה, והנה הן שתי קללות באומנותו: והשלישית שיהיה נע ונד בה. והטעם שלא ינוח לבו ולא ישקוט לעמוד במקום אחד ממנה, אבל יהיה גולה לעולם, כי עונש הרוצחים גלות. \nבטעם \"אשר פצתה את פיה\" לאמר: אתה הרגת את אחיך וכיסית את דמו באדמה, ואני אגזור עליה שתגלה את דמיה, ולא תכסה עוד על הרוגיה, כי תיענש בה ובכל אשר תכסה בה, כגון הזריעה והנטיעה, וזה עונש של שפיכות דמים בארץ, כעניין שכתוב (<a class=\"refLink\" href=\"/Numbers 35\" data-ref=\"Numbers 35\" target=\"_blank\">במדבר ל\"ה</a>) \"כי הדם הוא יחניף את הארץ\", וחנופת הארץ – מארה בפרותיה כעניין (<a class=\"refLink\" href=\"/Haggai 2:16\" data-ref=\"Haggai 2:16\" target=\"_blank\">חגי ב, ט\"ז</a>) \"מהיותם בא אל ערמת עשרים והייתה עשרה, בא אל היקב לחשוף חמשים פורה והייתה עשרים\"."
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ההבדל בין רש\"י לבין רמב\"ן בפירוש הקללה בכללה, ובפירוש מילת \"מן\" בפרט?"
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. התוכל להסביר את חולשת פירושו של רש\"י מבחינה לשונית?"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  לשם מה הוסיף הרמב\"ן את המילים המסומנות בקו (\"ואמר כן כנגד..\")?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "4. מה ההבדל בין שני פירושי הרמב\"ן, (השני מתחיל ב\"וייתכן שאיררו מן האדמה\")."
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "5.  לשם מה מוסיף הרמב\"ן את הקטע השלישי - \"וטעם 'אשר פצתה את פיה'\"? מה הוסיף בזה על האמור כבר?"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. איך יפרש הרמב\"ן את קללת \"נע ונד\"?"
+  },
+  {
+   "node": 36,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"נע ונד תהיה בארץ\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ד׳:י״ב",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 4:12",
+   "text": {
+    "en": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a wanderer shalt thou be in the earth.’",
+    "he": "\"נָע וָנָד תִּהְיֶה בָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ד׳:י״ב:א׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 4:12:1",
+   "text": {
+    "en": "נע ונד A VAGABOND AND A WANDERER — You shall not be permitted to dwell in one place. ",
+    "he": "אין לך רשות לדור במקום אחד."
+   }
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "במה שונה פירושו של רש\"י ל\"נע ונד\" מפירוש הרמב\"ן, לעיל בשאלה ד?"
+  }
+ ],
+ "ssn": 488,
+ "status": "public",
+ "summary": "1958 (תשי\"ח)<br><a href=\"http://www.nechama.org.il/pdf/488.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשי\"ח - קין והבל",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

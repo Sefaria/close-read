@@ -1,0 +1,443 @@
+{
+ "dateCreated": "2019-03-06T05:32:24.926435",
+ "dateModified": "2019-03-07T02:20:07.163904",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 2:8:1",
+  "Genesis 2:18",
+  "Shadal on Genesis 2:19:3",
+  "Genesis 2:22",
+  "Genesis 2:19",
+  "Malbim on Genesis 2:19:1",
+  "Abarbanel on Torah, Genesis 2:4:21",
+  "Shadal on Genesis 2:18:1",
+  "Shadal on Genesis 2:19:2",
+  "Rashi on Genesis 2:19:1",
+  "Isaiah 5:26"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161834,
+ "includedRefs": [
+  "Rashi on Genesis 2:8:1",
+  "Genesis 2:18",
+  "Shadal on Genesis 2:18:1",
+  "Abarbanel on Torah, Genesis 2:4:21",
+  "Genesis 2:19",
+  "Genesis 2:22",
+  "Malbim on Genesis 2:19:1",
+  "Shadal on Genesis 2:19:3",
+  "Shadal on Genesis 2:19:2",
+  "Isaiah 5:26",
+  "Genesis 2:18",
+  "Rashi on Genesis 2:8:1",
+  "Rashi on Genesis 2:19:1"
+ ],
+ "nextNode": 41,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות כלליות בהשוואת פרק ב' לפרק א'</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. קאסוטו, בספרו מאדם עד נח עמוד 44, מסביר שהתורה מדברת פעמיים על יצירתו של האדם:<br>\"במקום אחד בקיצור בקוים כללים <b>כעל יצירת אחד היצורים שבעולם החומרי</b>, והשני באריכות ובפרטות <b>כעל יצירת היצור המרכזי של העולם המוסרי</b> – ולכן לא היתה לה שום סיבה להימנע מלהכפיל את הענין פעמים\"."
+  },
+  {
+   "node": 3,
+   "outsideText": "הסבר הבדלים בפרטים שבין פרק ב' לפרק א', המתבארים על ידי ההבדל העקרוני הנ\"ל שבין שני הפרקים!"
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ח׳:א׳",
+   "node": 4,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 2:8:1",
+   "text": {
+    "en": "מקדם EASTWARD — In the east of Eden He planted the garden. Should you say, however, it is already written, (1:27) “and He created the man etc.”, then I say that I have seen the Baraitha of R. Eliezer the son of R. José the Galilean, dealing with the thirty two rules of interpretation according to which the Torah (Agada) can be interpreted, and the following is one of them: when a general statement of an action is followed by a detailed account of it, the latter is a particularisation of the former: — “And He created the man” is a general statement, but it does not explicitly state whence he was created and what God did unto him. Now it repeats it and explains these things: “And the Lord God formed man”, “and He made to grow for him the garden of Eden”, and He caused a deep sleep to fall upon him.” He who hears this might think that it is a different account entirely, whereas it is nothing else but the details of the former general statement. Similarly with reference to the cattle the creation of which has been mentioned above (1:27). it resumes and writes, (2:19) “and out of the ground the Lord [God] formed every beast of the field etc.”, for the purpose of explaining “and He brought them unto the man to give them names”, and also to state that the fowls were created from the swamps. ",
+    "he": "ד\"ה מקדם: ... ראיתי בברייתא של ר' אליעזר בנו של ר' יוסי הגלילי מל\"ב מידות שהתורה נדרשת, וזו אחת מהן, כלל שלאחריו מעשה  - הוא פרטו של ראשון: \"ויברא\" וגו' \"את האדם\" זהו כלל. סתם בריאתו מהיכן, וסתם מעשיו. חזר ופירש \"וייצר ה' אלוהים\" וגו', ויצמח לו גן עדן \"ויניחהו בגן עדן... ויפל עליו תרדמה\" השומע סבור שהוא מעשה אחר, ואינו אלא פרטו של ראשון. וכן אצל הבהמה חזר וכתב \"ויצר ה'\" וגו' \"מן האדמה כל חית השדה\", כדי לפרש \"ויבא אל האדם\" לקרות שם, וללמד על העופות שנבראו מן הרקק "
+   }
+  },
+  {
+   "node": 5,
+   "outsideText": "מהי הבעיה הכללית שרצה רש\"י לפתרה בזה, ומה היא דרכו לפתרונה?"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  <b>קאסוטו</b>, בספרו הנ\"ל מוצא תופעה דומה לזו שלפנינו <a class=\"refLink\" href=\"/Genesis 28:5\" data-ref=\"Genesis 28:5\" target=\"_blank\">בבראשית כ\"ח פסוקים ה'-י\"א</a>. <br>הסבר מהו הצד השווה שבין שני המקומות, ובמה מסייע המקום ההוא לפתרון הבעייה המופיעה בשאלה 2."
+  },
+  {
+   "node": 7,
+   "outsideText": "<table><tbody><tr><td><big>ב. בריאת האשה</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ח",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:18",
+   "text": {
+    "en": "And the LORD God said: ‘It is not good that the man should be alone; I will make him a help meet for him.’",
+    "he": "\"לֹא טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂה לּוֹ...\""
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית ב׳:י״ח:א׳",
+   "node": 9,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Shadal on Genesis 2:18:1",
+   "text": {
+    "en": "",
+    "he": "המכוון להעיר אותנו על יקרת הזיווג וערכו הרב... ותלמידי מוהר\"ר איגל מוסיף, כי מה שכתוב \"לא טוב\" אינו אלא כאומר שעדיין לא נשלמה כונת הבורא בבריאת האדם, כי אחרי בריאת כל דבר נאמר \"וירא אלוקים כי טוב\", שנעשה רצונו, וכאן לא נעשה עדיין רצונו, כי מעולם לא היה רצונו שיהיה האדם יחידי."
+   }
+  },
+  {
+   "node": 10,
+   "outsideText": "מה בא לתקן בדבריו?"
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ב׳:ד׳:כ״א",
+   "node": 11,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Abarbanel on Torah, Genesis 2:4:21",
+   "text": {
+    "en": "",
+    "he": "למה לא נבראת האשה באותו אופן שנבראו נקבות הבעלי חי עם זכריהם יחד?"
+   }
+  },
+  {
+   "node": 12,
+   "outsideText": "נסה לענות לשאלתו בייחוד בהיעזרך בדברי שד\"ל הנ\"ל."
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ג. מונוגמיה מן התורה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 14,
+   "outsideText": "לדעת ר' דוד הופמן יש להביא מפרקנו ראיה לכך שמגמת התורה והאידיאל שלה היא המונוגמיה (נישואי אישה אחת בלבד)."
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מהיכן בפרקנו יש למצוא רמז לכך?"
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות לשון וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 17,
+   "outsideText": "השווה:"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ט",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:19",
+   "text": {
+    "en": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto the man to see what he would call them; and whatsoever the man would call every living creature, that was to be the name thereof.",
+    "he": "\"וַיִּצֶר ה'... כָּל חַיַּת הַשָּׂדֶה... <b>וַיָּבֵא</b> אֶל הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:כ״ב",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:22",
+   "text": {
+    "en": "And the rib, which the LORD God had taken from the man, made He a woman, and brought her unto the man.",
+    "he": "\"וַיִּבֶן ה' אֱ-לֹהִים אֶת הַצֵּלָע... <b>וַיְבִאֶהָ</b> אֶל הָאָדָם\""
+   }
+  },
+  {
+   "node": 20,
+   "outsideText": "התוכל להסביר את המושא (\"ויבא\" ולא – ויבא אותם) שב<a class=\"refLink\" href=\"/Genesis 2:19\" data-ref=\"Genesis 2:19\" target=\"_blank\">פסוק י\"ט</a>, לעומת מציאות הכינוי (ויביאה) בפסוק כ\"ב?"
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "(היעזר בכללו של המלבי\"ם, ויקרא פ\"ה, צו י\"ב, וכן אילת השחר כלל קנ\"א:<br>מדרך הלשון שכל פעם המשלים וגומר פעולת הפועל הקודם לו, אם נזכר גוף הפעול אחר הפועל הראשון, אז יבוא הפועל השני סתם בלי כינוי ובלא מלת \"את\" המורה על הפעול כמו בראשית כ\"ח: \"ויקח מאבני המקום וישם מראשותיו\"...)."
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ב׳:י״ט:א׳",
+   "node": 22,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Malbim on Genesis 2:19:1",
+   "text": {
+    "en": "",
+    "he": "\"וַיָּבֵא אֶל הָאָדָם <b>לִרְאוֹת</b> מַה יִּקְרָא לוֹ\""
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית ב׳:י״ט:ג׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 2:19:3",
+   "text": {
+    "en": "",
+    "he": "פעמים הרבה המקור חוזר למי שאינו נושא המאמר, כגון (<a class=\"refLink\" href=\"/Psalms 104\" data-ref=\"Psalms 104\" target=\"_blank\">תהלים ק\"ד</a>): \"כולם אליך ישברון לתת אכלם בעתו\"; (<a class=\"refLink\" href=\"/Proverbs 1:1\" data-ref=\"Proverbs 1:1\" target=\"_blank\">משלי א' א'</a>): \"משלי שלמה בן דוד מלך ישראל <b>לדעת</b> חכמה ומוסר\" – כדי שהקורא ידע. ופירוש \"ראה\" – יגמור בלבבו כמו (<a class=\"refLink\" href=\"/Exodus 2:24\" data-ref=\"Exodus 2:24\" target=\"_blank\">שמות ב' כ\"ד</a>) \"אתה דע <b>וראה</b>\"."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "א.  הסבר מה מצריך את שד\"ל לפרש את פסוקנו בדרך זו, ומהו הקושי שנחלץ ממנו על ידי כך?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ב.  היכן מצינו תופעה לשונית זו <b>בפרקנו</b> שנית?"
+  },
+  {
+   "heRef": "שד\"ל על בראשית ב׳:י״ט:ב׳",
+   "node": 26,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Shadal on Genesis 2:19:2",
+   "text": {
+    "en": "",
+    "he": "\"מַה יִּקְרָא לוֹ\""
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  מה התמיהה הלשונית שמעורר פסוקנו, וכיצד יש לתרצה?"
+  },
+  {
+   "heRef": "ישעיהו ה׳:כ״ו",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 5:26",
+   "text": {
+    "en": "And He will lift up an ensign to the nations from far, And will hiss unto them from the end of the earth; And, behold, they shall come with speed swiftly;",
+    "he": "\"וְנָשָׂא נֵס לַגּוֹיִם מֵרָחוֹק וְשָׁרַק לוֹ מִקְצֵה הָאָרֶץ\")."
+   }
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  התוכל להביא דוגמאות נוספות מתוך התנ\"ך לתופעה זו?"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ח",
+   "node": 30,
+   "options": {
+    "PrependRefWithHe": "4. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 2:18",
+   "text": {
+    "en": "And the LORD God said: ‘It is not good that the man should be alone; I will make him a help meet for him.’",
+    "he": "\"וַיֹּאמֶר ה' אֱ-לֹהִים\""
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ראב\"ע:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ויאמר:...ומלת \"לכל הבהמה\", גם היא מושכת עצמה ואחרת עמה, כי טעמו ולכל עוף השמים. וכן \"ויהי מתיו מספר\" (<a class=\"refLink\" href=\"/Deuteronomy 33:6\" data-ref=\"Deuteronomy 33:6\" target=\"_blank\">דברים לג, ו</a>), וכן \"ולא למדתי חכמה\" (<a class=\"refLink\" href=\"/Proverbs 30:3\" data-ref=\"Proverbs 30:3\" target=\"_blank\">משלי ל, ג</a>), ורבים כאלה. \n\n</span>"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  מהי התופעה הלשונית שעליה הוא עומד, והיכן מצאנוה שנית בפרקנו (פרק ב')?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  מהי ראייתו ממשלי ל' פסוק ג'?"
+  },
+  {
+   "node": 34,
+   "outsideText": "<table><tbody><tr><td><big>ה. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:ח׳:א׳",
+   "node": 35,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:8:1",
+   "text": {
+    "en": "מקדם EASTWARD — In the east of Eden He planted the garden. Should you say, however, it is already written, (1:27) “and He created the man etc.”, then I say that I have seen the Baraitha of R. Eliezer the son of R. José the Galilean, dealing with the thirty two rules of interpretation according to which the Torah (Agada) can be interpreted, and the following is one of them: when a general statement of an action is followed by a detailed account of it, the latter is a particularisation of the former: — “And He created the man” is a general statement, but it does not explicitly state whence he was created and what God did unto him. Now it repeats it and explains these things: “And the Lord God formed man”, “and He made to grow for him the garden of Eden”, and He caused a deep sleep to fall upon him.” He who hears this might think that it is a different account entirely, whereas it is nothing else but the details of the former general statement. Similarly with reference to the cattle the creation of which has been mentioned above (1:27). it resumes and writes, (2:19) “and out of the ground the Lord [God] formed every beast of the field etc.”, for the purpose of explaining “and He brought them unto the man to give them names”, and also to state that the fowls were created from the swamps. ",
+    "he": "ד\"ה מקדם: ... ואם תאמר הרי כבר נאמר \"ויברא\" וגו' \"את האדם\" וגו', ראיתי בברייתא של ר' אליעזר בנו של ר' יוסי הגלילי מל\"ב מידות שהתורה נדרשת, וזו אחת מהן, כלל שלאחריו מעשה - הוא פרטו של ראשון. \"ויברא\" וגו' \"את האדם\" - זהו כלל. סתם בריאתו מהיכן, וסתם מעשיו. חזר ופירש \"וייצר ה' אלוהים\" וגו' ויצמח לו גן עדן \"ויניחהו בגן עדן... ויפל עליו תרדמה\". השומע סבור שהוא מעשה אחר, ואינו אלא פרטו של ראשון. וכן אצל הבהמה חזר וכתב \"ויצר ה'\" וגו' \"מן האדמה כל חית השדה\" כדי לפרש \"ויבא אל האדם\" לקרות שם, וללמד על העופות שנבראו מן הרקק."
+   }
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הרא\"ם, מקשה, הלוא מקום הקושיא הוא על פסוק \"וייצר ה'\", ולמה המתין עד כאן? נסה ליישב דברי רש\"י."
+  },
+  {
+   "heRef": "רש\"י על בראשית ב׳:י״ט:א׳",
+   "node": 37,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 2:19:1",
+   "text": {
+    "en": "ויצר מן האדמה NOW OUT OF THE GROUND THE ETERNAL GOD HAD FORMED — The formation spoken of here is the creation mentioned above (1:25) “And God made the beast of the earth etc.” and this statement comes (is repeated) here to point out that the fowls were created from the swamps; for above it is said that they were created from the waters and here it states that they were created from the earth. Furthermore it teaches you here that when they were created, immediately — on the very same day — He brought them to Adam to give them names (Chullin 27b); and in the statement of the Agada (Genesis Rabbah 17:4) we are told that this expression יצירה means domination and subjugation, like (Deuteronomy 20:19) כי תצור אל עיר “when thou shalt besiege a city\", for He subjugated them under the power of Adam.",
+    "he": "ד\"ה ויצר וגו' מן האדמה: ... ובדברי אגדה (בראשית רבה) יצירה זו לשון רידוי וכיבוש כמו (<a class=\"refLink\" href=\"/Deuteronomy 20\" data-ref=\"Deuteronomy 20\" target=\"_blank\">דברים כ</a>) \"כי תצור אל עיר\", שכבשן תחת ידו של אדם."
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  מה קשה לו?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ב.   התוכל לתרץ בדרך אחרת מבלי להוציא המילה ממשמעותה?"
+  }
+ ],
+ "ssn": 1183,
+ "status": "public",
+ "summary": "1949 (תש\"ט)<br><a href=\"http://www.nechama.org.il/pdf/1183.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תש\"ט - בריאת האישה",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

@@ -1,0 +1,542 @@
+{
+ "dateCreated": "2019-03-06T05:23:58.110354",
+ "dateModified": "2019-03-07T02:08:15.978335",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Pirkei Avot 5:1",
+  "Genesis 1:4",
+  "Isaiah 42:5",
+  "Jeremiah 4:23",
+  "Rashi on Genesis 1:4:1",
+  "Radak on Isaiah 42:5:4",
+  "Mizrachi, Genesis 1:4:5",
+  "Rashi on Isaiah 42:5:7",
+  "Sotah 12a:17",
+  "Ramban on Genesis 1:4:1",
+  "Isaiah 43:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161180,
+ "includedRefs": [
+  "Jeremiah 4:23",
+  "Pirkei Avot 5:1",
+  "Genesis 1:4",
+  "Rashi on Genesis 1:4:1",
+  "Genesis 1:4",
+  "Ramban on Genesis 1:4:1",
+  "Mizrachi, Genesis 1:4:5",
+  "Genesis 1:4",
+  "Genesis 1:4",
+  "Sotah 12a:17",
+  "Isaiah 42:5",
+  "Rashi on Isaiah 42:5:7",
+  "Radak on Isaiah 42:5:4",
+  "Isaiah 42:5",
+  "Isaiah 43:2",
+  "Isaiah 43:2"
+ ],
+ "nextNode": 51,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "לפסוקים א'–ג' עיין גיליון <a class=\"refLink\" href=\"/sheets/161401\" data-ref=\"sheet.161401\" target=\"_blank\">בראשית תשי\"ד</a>. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. בראשית וירמיהו</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "בנביאים ובכתובים מצינו השפעת הפרק הזה, בכללו ובפרטי מליצותיו."
+  },
+  {
+   "heRef": "ירמיהו ד׳:כ״ג",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Jeremiah 4:23",
+   "text": {
+    "en": "I beheld the earth, And, lo, it was waste and void; And the heavens, and they had no light. .",
+    "he": "השווה לפרקנו <a class=\"refLink\" href=\"/Jeremiah 4:23\" data-ref=\"Jeremiah 4:23\" target=\"_blank\">ירמיהו פרק ד' פסוקים כ\"ג-כ\"ו</a>:<br>\"רָאִיתִי אֶת הָאָרֶץ    וְהִנֵּה - תֹהוּ וָבֹהוּ            וְאֶל הַשָּׁמַיִם  - וְאֵין אוֹרָם \n רָאִיתִי הֶהָרִים        וְהִנֵּה - רֹעֲשִׁים                 וְכָל הַגְּבָעוֹת - הִתְקַלְקָלוּ \n רָאִיתִי                  וְהִנֵּה - אֵין הָאָדָם              וְכָל עוֹף הַשָּׁמַיִם - נָדָדוּ \n רָאִיתִי                  וְהִנֵּה הַכַּרְמֶל - הַמִּדְבָּר       וְכָל עָרָיו נִתְּצוּ\""
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "התוכל להסביר במה דומה סדר העניינים המובא בפסוקים אלה לסדר פרקנו, ובמה הוא שונה ממנו, ומהי סיבת הדמיון והשוני?"
+  },
+  {
+   "node": 6,
+   "outsideText": "<table><tbody><tr><td><big>ב. בעשרה מאמרות נברא העולם</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "משנה אבות ה׳:א׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Pirkei Avot 5:1",
+   "text": {
+    "en": "With ten utterances the world was created.  And what is learned - couldn't it have been created by one utterance? Rather, [it was done this way] in order to punish the wicked who destroy the world that was created with ten utterances and to give reward to the righteous who sustain the world that was created with ten utterances.",
+    "he": "בעשרה מאמרות נברא העולם.\n"
+   }
+  },
+  {
+   "node": 8,
+   "outsideText": "קאסוטו, הרואה בפרקנו הרמוניה מספרית הקושרת את כל חלקי הפרשה כבחוט השני ומשמשת הוכחה לאחדותה, והרואה ביחוד שמספר 7 (או מכפלות שלו) חוזר ונשנה בפרקנו, במספר הפסקאות, במספר מילות יסוד וכדומה, מחלק אף את \"עשרה המאמרות\" לשני סוגים:"
+  },
+  {
+   "node": 9,
+   "outsideText": "7 מאמרות השייכים לסוג אחד,"
+  },
+  {
+   "node": 10,
+   "outsideText": "3 מאמרות השייכים לסוג שני."
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  נסה למצוא אילו הם ה-7 ואלו הם ה-3, ומה מאחד כל קבוצה לסוג?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. התוכל למצוא עוד מילות יסוד בפרקנו החוזרות 7 פעמים?"
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"וירא, ויבדל\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:ד׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:4",
+   "text": {
+    "en": "And God saw the light, that it was good; and God divided the light from the darkness.",
+    "he": "\"וַיַּרְא אֱ-לֹהִים אֶת הָאוֹר כִּי טוֹב וַיַּבְדֵּל אֱ-לֹהִים בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית א׳:ד׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 1:4:1",
+   "text": {
+    "en": "וירא אלהים את האור כי טוב ויבדל AND GOD SAW THE LIGHT THAT IT WAS GOOD, AND GOD CAUSED A DIVISION — Here, also, we must depend upon the statement of the Agada: He saw that the wicked were unworthy of using it (the light); He, therefore, set it apart (ויבדל), reserving it for the righteous in the world to come (Chagigah 12a). But according to the plain sense explain it thus: He saw that it was good, and that it was not seemly that light and darkness should function together in a confused manner. He therefore limited this one’s sphere of activity to the daytime, and this one’s sphere of activity to the nighttime (see Genesis Rabbah 3:6).",
+    "he": "ד\"ה וירא אלוהים את האור כי טוב ויבדל: אף בזה צריכים אנו לדברי אגדה: ראהו שאינו כדאי להשתמש בו רשעים והבדילו לצדיקים לעתיד לבוא.\nולפי פשוטו כך פירשוהו: ראהו כי טוב ואין נאה לו ולחושך שיהיו משמשים בערבוביא וקבע לזה תחומו ביום ולזה תחומו בלילה."
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1.  מה הם <b>הקשיים</b> בפסוקנו שהצריכו את רש\"י להביא דברי אגדה?"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ההבדל בפירוש מילת \"ויבדל\" בין הפשט לבין הדרש?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3. כיצד מפרש רש\"י מילת \"ויקרא\", \"קרא\" בפסוקנו – והיכן מצינו \"קרא\" בהוראה זו?"
+  },
+  {
+   "node": 19,
+   "outsideText": "<table><tbody><tr><td><big>ד. הנמלך ה' בדעתו?</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:ד׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:4",
+   "text": {
+    "en": "And God saw the light, that it was good; and God divided the light from the darkness.",
+    "he": "\"וַיַּרְא אֱ-לֹהִים אֶת הָאוֹר כִּי טוֹב\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית א׳:ד׳:א׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 1:4:1",
+   "text": {
+    "en": "<b>And God saw the light, that it was good:</b> Our Rabbi Shlomo (Rashi) wrote, \"Here too, we need the words of the Aggadah (homiletical teachings): He saw it, [and saw] that it was not proper for the wicked to use it; so He separated it for the righteous in the future. And according to its simple meaning, explain it as follows: He saw it, that it was good, and it was unseemly that [light] and darkness should serve in a mishmash; so He established for this one its boundary by day, and for that one its boundary by night.\" And Rabbi Avraham said, \"Like 'I myself saw' (Ecclesiastes 2:13); it is [seeing] in [one’s] thought. And the meaning of 'and He separated,' is [that they were separated] through the calling of [their] names.\" And the words of both of them are not correct - since; if so, it would appear to be a matter of new deliberation and counsel, that after God's having said, \"Let there be light\" and there was light, it would state that He saw it, that it was good, and hence, He separated between it and darkness; like the matter of a man who did not know the nature of something until it [existed]. But the order in the story of creation is that the taking of things into actuality is called 'saying,' - [as per] \"And God said, 'let there be light;'\" \"And He said... 'let there be a firmament'\" (verse 6); \"And He said... 'let the earth bring forth grass'\" (verse 11) - and their [continued] existence is called 'seeing;' as with the matter of \"I myself saw\" in Ecclesiastes; and so [too], \"The woman saw that the tree was good for eating\" (Genesis 3:6). And it is like the matter, [when] they said (Ketuvot 109a), \"I see the words of Admon;\" and similar to it is \"And the king said to Tsadok the priest, 'do you see? return to the  city in peace.'\" And the matter is to show their maintenance in His will, and if the Will should separate from them for an instant, they would turn to nothing. And when it stated, with the act of each day, \"and God saw that it was good,\" and on the sixth day when everything was completed, \"And God saw everything that He had done, and behold it was good,\" so [too] did it state on the first day with the existence of light, \"And God saw... that it was good,\" [meaning] that He wanted its existence forever. And it added here, [the phrase,] \"the light,\" since had it simply stated, \"And God saw that it was good,\" it would have referred back to the creation of the heavens and the earth, and He had not yet decreed [continued] existence upon them; since they would not be maintained as they were, but [rather] from the material that was created on the first [day], the firmament was made on the second [day] and the waters were separated and the dirt was made into the dry land that He called earth on the third [day]; and then He decreed their existence and He said about them, \"And God saw that it was good.\" <b>and God separated between the light and between the darkness:</b> This is not the darkness mentioned in the first verse, which is fire, but [rather], it is the absence of light; since God gave a measure [of time] to the light, and that it should be absent after [that measure] until its return. And some of the commentators have said, that this light was created in front of the Holy One, blessed be He - meaning in the West - and He immediately had [the light] set for the measure of night; and afterwards, He had it shine for the measure of day. And this is the meaning of, \"and it was evening and it was morning\" (verse 5), that first was the night and afterwards the day, and both of them were after the coming forth of the light. And this is not correct at all, since they would be adding to the six days of creation, a short day (before the sun set completely and the first night began). But it is possible for us to say that the light was created in front of Him, may He be blessed, and it did not spread to the elements mentioned - but He separated between it and between the darkness, by giving them both a measure - and it stood in front of Him according to the measure of night; and afterwards, He made it shine over the elements. And behold, [this way] the evening was before the morning. And it is also possible for us to say, that time existed from when the heavens and the earth came out from the void into the existence mentioned in the first verse. Since even though our time is in minutes and hours, which are [dependent upon] light and darkness, once there is existence, it [is] within time. And if so, the heavens and the earth were created, and they stood like that according to the measure of the night - without light - and He said, \"let there be light, and there was light;\" and He decreed upon [the light] that it should stand like the first measure [of night], and afterwards, it should become absent from the elements; \"and it was evening, and it was morning.\" ",
+    "he": "כתב רבנו שלמה (רש\"י): אף בזה אנו צריכים לדברי אגדה (עד סוף דבריו). ור' אברהם (הראב\"ע) אמר \"וירא\" (קהלת) \"וראיתי אני\" והיא במחשבת הלב, וטעם \"ויבדל\" בקריאת השמות. \nואין דברי שניהם (רש\"י וראב\"ע) נכונים, שאם כן (= אם נפרש כדבריהם) יראה כעין המלכה (= מלשון נמלך בדעתו) ועצה חדשה, שיאמר אחרי שאמר אלוהים \"יהי אור\" והיה אור, ראה אותו כי טוב הוא ולכן הבדיל בינו לבין החושך, כענין באדם שלא ידע טיבו של דבר עד היותו..."
+   }
+  },
+  {
+   "heRef": "מזרחי, בראשית א׳:ד׳:ה׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Mizrachi, Genesis 1:4:5",
+   "text": {
+    "en": "",
+    "he": "ומקשה הרא\"ם, (ר' אליהו מזרחי) בהגינו על רש\"י על דברי רמב\"ן אלה:<br>ואיני מבין דבריו כלל, כי כמוהו (ו, ה') \"וירא ה' כי רבה רעה האדם בארץ... וינחם ה' כי עשה את האדם בארץ...\", כאילו היה שם המלכה ועצה חדשה אחר היותו..."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "התוכל להסיר את תלונת הרא\"ם מעל הרמב\"ן, ולהסביר למה אין הרמב\"ן מקשה על הפסוק ההוא (ו' ה') שהדבר נראה כאילו נמלך ה' בדעתו?"
+  },
+  {
+   "node": 24,
+   "outsideText": "<table><tbody><tr><td><big>ה. איזכור בריאת החושך</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:ד׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:4",
+   "text": {
+    "en": "And God saw the light, that it was good; and God divided the light from the darkness.",
+    "he": "\"וַיַּרְא אֱ-לֹהִים אֶת הָאוֹר כִּי טוֹב\""
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מקשים מפרשים: למה לא נאמר בפסוקים אלה כי גם החושך נברא, ולמה מצינו בספר ישעיה (<a class=\"refLink\" href=\"/Isaiah 45:7\" data-ref=\"Isaiah 45:7\" target=\"_blank\">מ\"ה ז'</a>) \"יוצר אור <b>ובורא</b> חושך\" שלא כבמקומנו? נסה לישב קושיתם."
+  },
+  {
+   "node": 27,
+   "outsideText": "<table><tbody><tr><td><big>ו. ה\"טוב\" בלידת משה</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית א׳:ד׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:4",
+   "text": {
+    "en": "And God saw the light, that it was good; and God divided the light from the darkness.",
+    "he": "\"וַיַּרְא אֱ-לֹהִים אֶת הָאוֹר כִּי טוֹב\""
+   }
+  },
+  {
+   "heRef": "סוטה י״ב א:י״ז",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sotah 12a:17",
+   "text": {
+    "en": "The verse states with regard to the birth of Moses: “And the woman conceived, and bore a son; <b>and when she saw him that he was a goodly [<i>tov</i>] child,</b> she hid him three months” (Exodus 2:2). It <b>is taught</b> in a <i>baraita</i> that <b>Rabbi Meir says: “Tov” is his,</b> Moses’, real <b>name,</b> as it was given to him by his parents when he was born. <b>Rabbi Yehuda says: His name was Toviya. Rabbi Neḥemya says:</b> They said he was good because they saw that he was <b>fit for prophecy. Others say:</b> They said he was good because he was <b>born when he was</b> already <b>circumcised. And the Rabbis say: At the time when Moses was born, the entire house was filled with light,</b> as <b>it is written here: “And when she saw him that he was a goodly [<i>tov</i>] child,” and it is written there: “And God saw the light, that it was good [<i>tov</i>]”</b> (Genesis 1:4).",
+    "he": "(<a class=\"refLink\" href=\"/Exodus 2:2\" data-ref=\"Exodus 2:2\" target=\"_blank\">שמות ב' ב'</a>) \"ותרא אותו כי טוב הוא\" – בשעה שנולד משה נתמלא הבית כולו אור; כתיב הכא: \"ותרא אותו כי טוב הוא\" וכתיב התם: \"וירא אלוהים את האור כי טוב\""
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "הסבר מה מובנו של מדרש זה – והלא לכאורה אינו אלא דמיון חיצוני-מילולי בלבד !"
+  },
+  {
+   "node": 31,
+   "outsideText": "<table><tbody><tr><td><big>ז. המקשר בין הפרשה להפטרה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה המקשר פרק זה לפרשתנו? – נסה למצוא <b>יותר</b> מקשר בין <a class=\"refLink\" href=\"/Isaiah 42:5\" data-ref=\"Isaiah 42:5\" target=\"_blank\">פסוק ה'</a> לפרשה!"
+  },
+  {
+   "node": 33,
+   "outsideText": "<table><tbody><tr><td><big>ח. בביאור \"הנותן נשמה\" וכו'</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "ישעיהו מ״ב:ה׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 42:5",
+   "text": {
+    "en": "Thus saith God the LORD, He that created the heavens, and stretched them forth, He that spread forth the earth and that which cometh out of it, He that giveth breath unto the people upon it, And spirit to them that walk therein:",
+    "he": "\"נֹתֵן נְשָׁמָה לָעָם עָלֶיהָ וְרוּחַ לַהֹלְכִים בָּהּ\""
+   }
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה נותן נשמה: נשמת חיים.</span>"
+  },
+  {
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה לעם עליה: לכולם בשווה.</span>"
+  },
+  {
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה  ורוח: קודש; </span>"
+  },
+  {
+   "heRef": "רש\"י על ישעיהו מ״ב:ה׳:ז׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Isaiah 42:5:7",
+   "text": {
+    "en": "",
+    "he": "ד\"ה להולכים בה: למתהלכים לפניו. "
+   }
+  },
+  {
+   "heRef": "רד\"ק על ישעי׳ מ״ב:ה׳:ד׳",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Isaiah 42:5:4",
+   "text": {
+    "en": "",
+    "he": "שברא האדם ונפח בו נשמה כמו שאמר: \"ויפח\" נשמת חיים; ויצא שאר בעלי חיים כמו שאמר \"נפש חיה למינה\" וזהו \"...ורוח להולכים בה\"... והקדים אדם, אף על פי שהוא היה אחרון, למי שהוא עיקר היצירה."
+   }
+  },
+  {
+   "node": 40,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">שד\"ל:</span><br><span style=\"color: rgb(51,51,51);\">לעם עליה: \"עם\" לשון קהילה וקיבוץ אף שלא מבני אדם, כמו (<a class=\"refLink\" href=\"/Proverbs 30\" data-ref=\"Proverbs 30\" target=\"_blank\">משלי ל'</a>) \"הנמלים עם לא עז\" והכוונה לקיבוץ בהמות וחיות שעליה; </span>"
+  },
+  {
+   "heRef": "ישעיהו מ״ב:ה׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 42:5",
+   "text": {
+    "en": "Thus saith God the LORD, He that created the heavens, and stretched them forth, He that spread forth the earth and that which cometh out of it, He that giveth breath unto the people upon it, And spirit to them that walk therein:",
+    "he": "ד\"ה להולכים בה הם בני אדם."
+   }
+  },
+  {
+   "node": 42,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "סדרם לשתי קבוצות, והכרע ביניהם בראיות מוכיחות!"
+  },
+  {
+   "node": 43,
+   "outsideText": "<table><tbody><tr><td><big>ט. בביאור \"כי תעבור\" וכו'</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "ישעיהו מ״ג:ב׳",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 43:2",
+   "text": {
+    "en": "When thou passest through the waters, I will be with thee, And through the rivers, they shall not overflow thee; When thou walkest through the fire, thou shalt not be burned, Neither shall the flame kindle upon thee.",
+    "he": "\"כִּי תַעֲבֹר בַּמַּיִם - אִתְּךָ אָנִי\nוּבַנְּהָרוֹת - לֹא יִשְׁטְפוּךָ"
+   }
+  },
+  {
+   "heRef": "ישעיהו מ״ג:ב׳",
+   "node": 45,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 43:2",
+   "text": {
+    "en": "When thou passest through the waters, I will be with thee, And through the rivers, they shall not overflow thee; When thou walkest through the fire, thou shalt not be burned, Neither shall the flame kindle upon thee.",
+    "he": "כִּי תֵלֵךְ בְּמוֹ אֵשׁ - לֹא תִכָּוֶה\nוְלֶהָבָה לֹא תִבְעַר בָּךְ\""
+   }
+  },
+  {
+   "node": 46,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בשתי דרכים מפרש אברבנאל, את פסוקנו:</span><br><span style=\"color: rgb(51,51,51);\">1) (דומה לרש\"י): בא לנחמם באומרו, כי אם היות שהלכו בגלות מפני רב חטאיהם לא יראו פן תקרם שמה הכליה, כי הנה האל' יתברך אשר בראם מבטיח אותם \"אל תירא\". והנה הביא להם ראיה משתי התשועות אשר עשה עמהם להפליא כדי שיאמינו כי כן יעשה להם בקיבוץ הגלויות. וזהו: אל תירא כי <b>גאלתיך</b> (מגלות מצרים) ששם נגלה כבודו עליהם, וקרא והודיע לכל העולם שלקחם לו לעם וזהו: \"קראתי בשמך לי אתה\". \nעוד זכר להם קריעת ים סוף והעברת הירדן ביבשה ועליהם אמר: \"כי תעבר במים אתך אני\" שהוא ים סוף \"ובנהרות לא ישטפוך\" שהוא הירדן, וככה יעשה להם בקיבוץ הגלויות. \nוסוף המאמר: \"כי תלך במו אש\" וכו' שהגלות הזה נמשל לאש...</span>"
+  },
+  {
+   "node": 47,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בשתי דרכים מפרש אברבנאל, את פסוקנו:</span><br><span style=\"color: rgb(51,51,51);\">2) ומלבד מה שפירשנו בפרשה הזאת עוד רמז בדבריו אלה לכל הדברים אשר ראינו בעינינו שקרו לגלות ירושלים אשר בספרד בהיותם יושבים במלכות ספרד וגם במקומות אחרים שנשתמרו בהם כפלים כיוצאי מצרים מתקף הצרות והשמדות ולבם נכון עם כל זה בה' אל' <b>וניבא הנביא שלא ישארו בגויותם</b> כי אם ישובו אל ה' על כל פנים. ועל זה אמר \"אל תירא...\" אחרי שקראתי בשמך יעקב וישראל להיות לי לעם, לא תוכל להתחלף ולהמיר עצמך בגוי אחר, כי לי אתה ושלי אתה ושלי תהיה.\nולכן אמר עוד: \"כי תעבר במים...\" רמז למים הזדונים שהם בני אדם <b>הנטבלים</b> כשיקבלו דתם יאמר: אף על פי שתעבור באותם המים, לא תצא מתחת ידי, כי כל נהרות העולם לא ישטפוך מתחת השגחתי.\nעוד ראינו שהתעוללו הגויים כנגד האנוסים באמרם שלא היו שומרים דתם כראוי והיו דנים אותם לשרפה למאות ולאלפים. אבות ובנים, אנשים ונשים. והבטיחם הנביא שהחסידים מהם ימלטו מידם – וכן היה: שברחו לארץ ישמעאל וארץ התוגר ושבו בתשובה. וזהו אמרו: \"כי תלך במו אש לא תכוה...\"</span>"
+  },
+  {
+   "node": 48,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ההבדל בין שני הפירושים בתפישה הכללית ובפירוש הפרטים?"
+  },
+  {
+   "node": 49,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. התוכל לפרש את פסוקנו זה בדרך שלישית לפשוטו של מקרא בהסתמך על מקומות אחרים במקרא?"
+  }
+ ],
+ "ssn": 527,
+ "status": "public",
+ "summary": "1959 (תשי\"ט)<br><a href=\"http://www.nechama.org.il/pdf/527.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Bereshit"
+ ],
+ "title": "פרשת בראשית תשי\"ט - בריאת העולם + הפטרה",
+ "topics": [
+  {
+   "asTyped": "Bereshit",
+   "slug": "parashat-bereshit"
+  }
+ ]
+}

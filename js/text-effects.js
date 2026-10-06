@@ -25,6 +25,10 @@ const TextEffects = {
 
     const content = panel.querySelector('.primary-text-content.active');
     if (!content) return;
+    if (content.classList.contains('image-mode')) {
+      this.layoutImage(content);
+      return;
+    }
     const he = [...content.querySelectorAll('.primary-he')];
     const en = [...content.querySelectorAll('.primary-en')];
     if (!he.length && !en.length) return;
@@ -138,7 +142,76 @@ const TextEffects = {
     const primaryContainer = scope.querySelector('.primary-text-content.active');
     if (primaryContainer) {
       primaryContainer.classList.add('has-highlights');
+      if (primaryContainer.classList.contains('image-mode')) {
+        primaryContainer.querySelectorAll('.image-region, .image-hole').forEach(r => {
+          if (!groupIds.includes(r.dataset.region)) return;
+          r.classList.add('highlighted');
+          if (r.classList.contains('image-region')) {
+            if (effect === 'glow') r.classList.add('glow');
+            if (effect === 'pulse') r.classList.add('pulse');
+          }
+        });
+        this.layoutImage(primaryContainer);
+      }
     }
+  },
+
+  // Size an image-mode panel item and zoom it to its highlighted regions.
+  //
+  // The stage (image + SVG overlay) is sized to fit the viewport at the
+  // image's aspect ratio, then transformed: with no highlights it sits
+  // centered at scale 1; with highlights it scales so the regions' bounding
+  // box fills the viewport (with a margin, capped at MAX_ZOOM) and pans so the
+  // box is centered — clamped so the page edge never pulls into view when the
+  // zoomed page is larger than the viewport. Idempotent; safe on resize.
+  MAX_ZOOM: 5,
+  // Zoom timing. A fixed duration makes a 5× zoom feel like a lunge next to a
+  // 1.4× one, but scaling time with the zoom ratio makes big zooms crawl. Our
+  // eyes read zoom on a log scale, so the duration grows with |ln(ratio)|:
+  // each doubling of magnification adds the same ZOOM_PER_LN·ln2 ≈ 0.28 s.
+  //   1× → 1.4×: ~1.5 s    1× → 5× (or 5× → 1×): ~2.0 s    pan only: 1.35 s
+  ZOOM_BASE_S: 1.35,
+  ZOOM_PER_LN_S: 0.4,
+  ZOOM_MAX_S: 2.5,
+  layoutImage(content) {
+    const viewport = content.querySelector('.image-viewport');
+    const stage = content.querySelector('.image-stage');
+    if (!viewport || !stage) return;
+    const vw = viewport.clientWidth, vh = viewport.clientHeight;
+    if (!vw || !vh) return;
+    const aspect = Number(content.dataset.width) / Number(content.dataset.height);
+    let sw = vw, sh = vw / aspect;
+    if (sh > vh) { sh = vh; sw = vh * aspect; }
+    stage.style.width = `${sw}px`;
+    stage.style.height = `${sh}px`;
+
+    const lit = [...content.querySelectorAll('.image-region.highlighted')];
+    let z = 1, cx = 0.5, cy = 0.5;
+    if (lit.length) {
+      const num = (r, k) => parseFloat(r.getAttribute(k));
+      const x0 = Math.min(...lit.map(r => num(r, 'x')));
+      const y0 = Math.min(...lit.map(r => num(r, 'y')));
+      const x1 = Math.max(...lit.map(r => num(r, 'x') + num(r, 'width')));
+      const y1 = Math.max(...lit.map(r => num(r, 'y') + num(r, 'height')));
+      const margin = 1.25;
+      z = Math.min(vw / ((x1 - x0) * sw * margin), vh / ((y1 - y0) * sh * margin), this.MAX_ZOOM);
+      z = Math.max(z, 1);
+      cx = (x0 + x1) / 2;
+      cy = (y0 + y1) / 2;
+    }
+    const pan = (view, size, c) => {
+      const scaled = size * z;
+      if (scaled <= view) return (view - scaled) / 2;
+      return Math.min(0, Math.max(view - scaled, view / 2 - c * scaled));
+    };
+    const tx = pan(vw, sw, cx), ty = pan(vh, sh, cy);
+    const prev = Number(stage.dataset.zoom) || 1;
+    const secs = Math.min(this.ZOOM_MAX_S, this.ZOOM_BASE_S + this.ZOOM_PER_LN_S * Math.abs(Math.log(z / prev)));
+    stage.style.transitionDuration = `${secs.toFixed(2)}s`;
+    stage.dataset.zoom = z;
+    stage.style.transform = `translate(${tx}px, ${ty}px) scale(${z})`;
+    // non-scaling-stroke can't see the CSS transform, so undo the zoom by hand.
+    stage.style.setProperty('--zoom', z);
   },
 
   // Reset all highlights. Optionally scope to a section element.
@@ -148,8 +221,12 @@ const TextEffects = {
     scope.querySelectorAll('.word-group').forEach(span => {
       span.classList.remove('dimmed', 'highlighted', 'glow', 'pulse');
     });
+    scope.querySelectorAll('.image-region, .image-hole').forEach(r => {
+      r.classList.remove('highlighted', 'glow', 'pulse');
+    });
     scope.querySelectorAll('.primary-text-content').forEach(el => {
       el.classList.remove('has-highlights');
+      if (el.classList.contains('image-mode') && el.classList.contains('active')) this.layoutImage(el);
     });
   },
 
