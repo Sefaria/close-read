@@ -1,20 +1,45 @@
 {
-  "_doc": "Items in the scan that the digitization lacks, inserted by harvest_bereshit.py after raw item `after`. Each entry cites the scan-check line it comes from. Text is the checker's reading of the scan; [?] marks a doubtful letter. Hand-maintained input, so keep the citations.",
-  "insert": [
-    {"sheet": 161471, "section": "א", "after": 6, "kind": "question",
-     "he": "4. בעקבות מי מהם הולך ספורנו?",
-     "cite": "161471-1952.md:30 (spot-checked by Claude on page1_strip2)"},
-    {"sheet": 161223, "section": "ד", "after": 24, "kind": "text",
-     "he": "ושני הפסוקים המובאים ברמב\"ן הם: בראשית פ' ד' כ\"ג[?]; שמואל א' י\"ב י\"א.",
-     "cite": "161223-1953.md:90"},
-    {"sheet": 161223, "section": "ד", "after": 24, "kind": "text",
-     "he": "(בסוף דברי רמב\"ן אלה נפלה טעות דפוס בחומשים שלנו וצריך להגיה: \"ולא מצא כנגדו בדרך \"נשי למך\"... וכן הגיה בעל כור הזהב.)",
-     "cite": "161223-1953.md:91,107"},
-    {"sheet": 161216, "section": "ב", "after": 25, "kind": "question",
-     "he": "(א) מה קשה לו[?]",
-     "cite": "161216-1956.md:70"},
-    {"sheet": 160442, "section": "ב", "after": 10, "kind": "text",
-     "he": "* עיין עלון ההדרכה.",
-     "cite": "160442-1968.md:131 (her footnote to the Ramban)"}
-  ]
+ "_doc": "Items in the scan that the digitization lacks, inserted by harvest_bereshit.py after raw item `after`. Each entry cites the scan-check line it comes from. Text is the checker's reading of the scan; [?] marks a doubtful letter. Hand-maintained input, so keep the citations.",
+ "insert": [
+  {
+   "sheet": 161471,
+   "section": "א",
+   "after": 6,
+   "kind": "question",
+   "he": "4. בעקבות מי מהם הולך ספורנו?",
+   "cite": "161471-1952.md:30 (spot-checked by Claude on page1_strip2)"
+  },
+  {
+   "sheet": 161223,
+   "section": "ד",
+   "after": 24,
+   "kind": "text",
+   "he": "ושני הפסוקים המובאים ברמב\"ן הם: בראשית פ' ד' כ\"ג; שמואל א' י\"ב י\"א.",
+   "cite": "161223-1953.md:90; [?] settled: Ramban on Gen 2:20 cites נשי למך as בראשית ד' כ\"ג (triage)"
+  },
+  {
+   "sheet": 161223,
+   "section": "ד",
+   "after": 24,
+   "kind": "text",
+   "he": "(בסוף דברי רמב\"ן אלה נפלה טעות דפוס בחומשים שלנו וצריך להגיה: \"ולא מצא כנגדו בדרך \"נשי למך\"... וכן הגיה בעל כור הזהב.)",
+   "cite": "161223-1953.md:91,107"
+  },
+  {
+   "sheet": 161216,
+   "section": "ב",
+   "after": 25,
+   "kind": "question",
+   "he": "(א) מה קשה לו?",
+   "cite": "161216-1956.md:70; [?] settled: her recurring «מה קשה לו?» (triage)"
+  },
+  {
+   "sheet": 160442,
+   "section": "ב",
+   "after": 10,
+   "kind": "text",
+   "he": "* עיין עלון ההדרכה.",
+   "cite": "160442-1968.md:131 (her footnote to the Ramban)"
+  }
+ ]
 }

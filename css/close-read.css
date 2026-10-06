@@ -477,6 +477,13 @@ body {
   letter-spacing: 0.1em;
 }
 
+/* A source quoted in a left-to-right language (German, English) in the original-text slot. */
+.card-text-he[dir="ltr"] {
+  direction: ltr;
+  text-align: left;
+  font-family: var(--font-english);
+}
+
 /* --- Image Mode (manuscript pages etc.) ---
    The active item fills the panel's padded height: ref label, a viewport that
    takes the rest, and a one-line caption. TextEffects.layoutImage sizes the

@@ -154,8 +154,8 @@
   {
    "sheet": 161223,
    "i": 46,
-   "use": "form",
-   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+   "use": "spelling",
+   "why": "re-triaged (Claude, 2026-10-06, caught by the garden drafter): the checker's list paired a fragment wrongly (applying it garbled the question); its table reading «…מדברי \"רוח הקדש\" הוא?» differs from the digitization only in spelling (הקדש/הקודש), so the digitized text stands"
   },
   {
    "sheet": 161223,
@@ -340,8 +340,8 @@
   {
    "sheet": 160442,
    "i": 8,
-   "use": "not-published",
-   "why": "verse-reference label"
+   "use": "form",
+   "why": "re-triaged (Claude, 2026-10-06, caught by the 1968 leaf drafter): the only difference is her abbreviation שמ' inside her full quote of Moreh Nevukhim 1:24; the item is publishable. The earlier 'not-published: verse-reference label' was wrong."
   },
   {
    "sheet": 160442,
@@ -370,8 +370,8 @@
   {
    "sheet": 161141,
    "i": 20,
-   "use": "open",
-   "why": "her list of comparison verses (scan «ב\"ר ל\"ז … אלוקי אדוני אליהו …»): check each verse when drafting 1958 §ב"
+   "use": "digitized",
+   "why": "Cain drafter fetched all eight verses: her citations are right, but she misquotes 2 Kings 2:14 (no «אדוני») and Jer 2:28 («אם יושיעוך»); the digitizers silently corrected the quotes, so the digitized verse list stands (evidence in bereshit-leaves/cain.md)"
   },
   {
    "sheet": 161471,
@@ -384,6 +384,36 @@
    "i": 4,
    "use": "not-published",
    "why": "Claude read the scan: question 1 runs straight into question 2; «ענה לשאלתם!» is not hers"
+  },
+  {
+   "sheet": 161941,
+   "i": 7,
+   "use": "scan",
+   "why": "Claude read the scan zoomed (page crop): «פסוק ח' ד\"ה וישמעו»; Rashi's וישמעו is on 3:8"
+  },
+  {
+   "sheet": 161941,
+   "i": 28,
+   "use": "scan",
+   "why": "her quote of Bereshit Rabbah reads «קולן» in the scan (sin drafter, 300 dpi)"
+  },
+  {
+   "sheet": 160442,
+   "i": 21,
+   "use": "form",
+   "why": "her spelling «נתת» throughout §ד (scan; sin drafter)"
+  },
+  {
+   "sheet": 160442,
+   "i": 22,
+   "use": "form",
+   "why": "her spelling «נתת» throughout §ד (scan; sin drafter)"
+  },
+  {
+   "sheet": 160638,
+   "i": 14,
+   "use": "form",
+   "why": "her citation placement «ג' ג':» before the quote and the closing «?» (scan check §ב)"
   }
  ]
 }

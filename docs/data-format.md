@@ -250,6 +250,7 @@ The `newVerse` object follows the same VerseData format (single or comparison).
 | `sourceLabel` | `{he, en}` | yes | Display name for the source badge |
 | `annotation` | `{he, en}` | no | Nechama's framing note, displayed below the source text |
 | `questionLabel` | `{he, en}` | no | Override the title-level question label for this specific step |
+| `heDir` | `"ltr"` | no | The original-text slot (`text.he`) holds a left-to-right language (e.g. a German quote): render it LTR in the English face |
 
 ---
 

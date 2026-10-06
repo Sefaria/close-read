@@ -25,11 +25,8 @@ def flat(t):
 
 def find_item(harvest, i):
     for sec in harvest['sections']:
-        for k, it in enumerate(sec['items']):
+        for it in sec['items']:
             if it.get('i') == i:
-                return it
-            if isinstance(i, str) and it.get('basis') == 'scan-only' and k \
-                    and sec['items'][k - 1].get('i') == int(i.split()[1]):
                 return it
     return None
 
@@ -66,7 +63,7 @@ def test_quoted_cards_trace_to_harvest(slug):
                 problems.append(f'{where}: quotes an unpublishable item [{cite["i"]}]')
             he = flat(st['text'].get('he'))
             for lang in ('he', 'en'):
-                leak = re.search(r'\[\?\]|\[\[|\*\*|«|»', st['text'].get(lang) or '')
+                leak = re.search(r'\[[,/?.]{1,4}\]|\[\[|\*\*|«|»', st['text'].get(lang) or '')
                 if leak:
                     problems.append(f'{where}: checker markup {leak[0]!r} in displayed {lang}')
             if not he:

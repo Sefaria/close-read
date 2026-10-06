@@ -574,3 +574,50 @@ appended to a question or when our English is relabeled as Sefaria's.
 | `cr-1963-q-h6` | question | [35] | ours |
 | `cr-1963-r-avraham` | commentary · R. Avraham ben HaRambam | [29] | ours |
 | `cr-1963-q-h1` | question | [30] | ours |
+
+## 10. Stage 4: the garden (2026-10-06)
+
+`data/bereshit.json`, assembled by `research/scripts/build_bereshit.py`:
+- an overview, then a fork with 5 themes, each theme with an intro and a fork of 3 years;
+- 15 leaves, 54 sections, 446 steps;
+- the demo slug `bereshit-chapter-break` retired; its content is the 1963 leaf.
+
+Leaves are in `research/scripts/bereshit_leaves/<theme>.py`. Each leaf's paper trail (cards →
+harvest items, slices and start/stop points, omitted questions and why, translation choices) is
+in [`bereshit-leaves/`](bereshit-leaves/): `creation.md`, `garden.md`, `sin.md`, `cain.md`,
+`flood.md`. The drafting rules are in `bereshit-leaves/BRIEF.md`.
+
+**Decisions made during drafting** (each recorded with its evidence in triage.json or the theme
+trail):
+- **1964 §ד was dropped** (the sheet's editor wrote it, not Nechama), and §ב is rendered
+  instead, after its own scan check.
+- **1968 [8] (Moreh 1:24) was re-triaged to publishable.** It had been misfiled as a
+  verse-reference label.
+- **1953 [46] was re-triaged to spelling.** A mis-paired checker fragment had garbled it.
+- **1958 [20], her comparison verses, keeps the digitized text.** She misquotes 2 Kings 2:14
+  and Jer 2:28, and the digitizers corrected the quotes.
+- **1950 [23], her Ibn Ezra pointer, is on 4:23.** Her start phrase occurs once in the
+  chapter, so the verse number is כ"ג.
+- **Her slips in references** are translated as written, with the right reference in
+  brackets: 1943 Judges 13:9 (the card is omitted), 1965 Isaiah and Hosea in Bereshit Rabbah
+  16:5, 1971 Psalms 78→82, 1956 Job and 1 Samuel. The 1954 Moreh's «האמונה» (Ibn Tibbon has
+  «האמירה») is translated as written and flagged.
+
+**Harvest fixes found by drafting** (all in `harvest_bereshit.py`):
+- a doubtful scan reading no longer writes `[?]` into her text; a doubtful letter is
+  corroborated by the digitization's word when they agree;
+- fragment fixes apply only on an exact, unique match, and word-level fixes only where
+  triage says the scan wins (an earlier normalized fallback mangled items);
+- inline tags no longer split words;
+- scan-only items have explicit keys;
+- the 1943 transcription items have keys;
+- the checkers' " / " line-break marks are removed.
+
+The verse cache now strips MAM's variant notes (4:13, 5:1).
+
+**Open for Lev:**
+1. **1950:** her Ibn Ezra pointer has no stop. Item [25] continues the same comment but isn't
+   in her scan and no question names it, so it isn't quoted. Should it run on?
+2. **1942 [52]:** a faded word, «לפשוטו»; the digitized reading is used.
+3. **1964 «לעונשים»:** the Akeidah on Sefaria (Pressburg) reads «לאנשים», and the English
+   follows it.

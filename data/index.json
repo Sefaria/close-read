@@ -6,10 +6,10 @@
     "description": "Twenty-eight gilyonot, four themes, thirty years of return. Choose a theme, choose her angle, walk the sheet."
   },
   {
-    "slug": "bereshit-chapter-break",
-    "title": { "he": "בראשית תשכ״ג: היום השישי והיום השביעי", "en": "Bereshit 1963: The Sixth Day and the Seventh" },
+    "slug": "bereshit",
+    "title": { "he": "פרשת בראשית", "en": "Parashat Bereshit" },
     "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
-    "description": "One leaf of the Bereshit garden, for review: her 1963 gilayon on Genesis 1:31–2:3, with the Leningrad Codex"
+    "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions."
   },
   {
     "slug": "cain-abel-birth-records",

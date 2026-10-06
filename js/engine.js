@@ -687,7 +687,7 @@ class CloseReadApp {
           <span class="source-label" data-source="${step.source}">${labelText}</span>
           ${step.ref ? `<span class="source-ref"><a href="https://www.sefaria.org/${refSlug}" target="_blank" rel="noopener">${step.ref}</a></span>` : ''}
         </div>
-        ${step.text.he ? `<div class="card-text-he">${step.text.he}</div>` : ''}
+        ${step.text.he ? `<div class="card-text-he"${step.heDir === 'ltr' ? ' dir="ltr"' : ''}>${step.text.he}</div>` : ''}
         <div class="card-text-en">${step.text.en}</div>
         ${step.annotation ? `
           <div class="card-annotation">

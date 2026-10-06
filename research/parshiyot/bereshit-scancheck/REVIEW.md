@@ -10,10 +10,10 @@ files, which cite page and strip.
 Differences already settled by evidence (an independent text, a zoomed reading, her own
 recurring wording) are recorded with their reason in `triage.json` and are not listed here.
 
-## 1958 (תשי"ח) · sheet 161141 · cain
-Scan check: `bereshit-scancheck/161141-1958.md`
+## 1953 (תשי"ג) · sheet 161223 · garden
+Scan check: `bereshit-scancheck/161223-1953.md`
 
-- §ב [20] **open, to settle when drafting**: her list of comparison verses (scan «ב"ר ל"ז … אלוקי אדוני אליהו …»): check each verse when drafting 1958 §ב
+- §ד **missing from the digitization**: «(בסוף דברי רמב"ן אלה נפלה טעות דפוס בחומשים שלנו וצריך להגיה: "ולא מצא כנגדו בדרך "נשי למך"... וכן הגיה בעל כור הזהב.)»  (bereshit-scancheck/161223-1953.md:91,107)
 
 ## 1950 (תש"י) · sheet 161438 · flood
 Scan check: `bereshit-scancheck/161438-1950.md`

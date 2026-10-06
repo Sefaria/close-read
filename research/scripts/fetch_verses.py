@@ -27,6 +27,7 @@ def get(ref, version):
 
 def clean_he(s):
     brk = 'פ' if '{פ}' in s else 'ס' if '{ס}' in s else None
+    s = strip_footnotes(s)   # MAM carries variant notes as footnotes (4:13, 5:1)
     s = re.sub(r'<[^>]+>', '', s)
     s = re.sub(r'\{[פס]\}', '', s).replace('&nbsp;', ' ').replace('&thinsp;', ' ')
     s = CANT.sub('', s).replace('־', ' ')

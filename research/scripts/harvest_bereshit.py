@@ -36,7 +36,7 @@ CHOSEN = {
                  ('1953', 'תשי"ג', 161223, ['ב', 'ג', 'ד', 'ו']),
                  ('1965', 'תשכ"ה', 160577, ['ג', 'ד', 'ו'])],
     'sin':      [('1944', 'תש"ד', 161941, ['_open', 'א', 'ב', 'ג', 'ד']),
-                 ('1964', 'תשכ"ד', 160638, ['א', 'ג', 'ד']),
+                 ('1964', 'תשכ"ד', 160638, ['א', 'ב', 'ג', 'ד']),
                  ('1968', 'תשכ"ח', 160442, ['ב', 'ד', 'ו'])],
     'cain':     [('1942', 'תש"ב', 161880, ['ב', 'ה', 'ז', 'ט']),
                  ('1956', 'תשט"ז', 161216, ['א', 'ב', 'ג']),
@@ -52,6 +52,8 @@ HEADER_RE = re.compile(r'^([' + HEB + r'])\.\s*(.*)')
 
 def strip(s):
     s = re.sub(r'<br\s*/?>', '\n', s or '')
+    # Inline formatting (bold/underline/etc.) can sit inside a word: «לעבד<b>ה</b>».
+    s = re.sub(r'</?(?:b|i|u|em|strong|span|small|big|sup|sub|a|font)\b[^>]*>', '', s)
     s = html.unescape(re.sub(r'<[^>]+>', ' ', s))
     return re.sub(r'[ \t‎‏]+', ' ', s).strip()
 
@@ -148,17 +150,35 @@ def apply_pairs(he, pairs):
             x = m[1].strip()
             return '' if b[:m.start()].rstrip().endswith(x) else ' ' + x
         b_clean = re.sub(r'\s*\[\[sic:?\s*([^\]]*)\]\]', unsic, b).strip()
+        # A doubtful letter inside a word ("ת[?]טיב") is corroborated when the digitization has a
+        # word matching it with any letter in that slot ("תיטיב"): two independent readings agree,
+        # so use that word. Punctuation doubts ("[,]", "[,/?]") are dropped.
+        def corroborate(bscan, adig):
+            out = bscan
+            for tok in re.findall(r'\S*\[\?\]\S*', bscan):
+                rx = '^' + re.escape(tok).replace(re.escape('[?]'), '[\u05D0-\u05EA]?') + '$'
+                hits = [w for w in re.split(r'\s+', adig) if re.match(rx, w)]
+                if len(hits) == 1:
+                    out = out.replace(tok, hits[0], 1)
+            return re.sub(r'\[(?=[^\]]*[,./])[,./?]{1,4}\]', '', out)
+        b_clean = corroborate(b_clean, a)
+        # Checkers write her line breaks as " / "; in her text that's just a space.
+        b_clean = re.sub(r'\s+/\s+', ' ', b_clean)
         segs_a, segs_b = split(a), split(b_clean)
         if len(segs_a) != len(segs_b):
             segs_a, segs_b = [a], [b_clean]
+        # Whatever doubt is left: the digitization's reading stands. Never write a mark into her text.
+        if re.search(r'\[[^\]\[]{0,4}\]', b_clean):
+            unapplied.append({'digitized': a, 'scan': b, 'reason': 'doubtful scan reading; digitization kept'})
+            continue
         ok = True
         for x, y in zip(segs_a, segs_b):
             if not x or x == y or (y and norm(y) in norm(he)):
                 continue
-            if x in he:
+            # Only exact matches are rewritten. (A normalized fallback once rewrote whole items
+            # and mangled them; an inexact fragment is left for a person instead.)
+            if he.count(x) == 1:
                 he = he.replace(x, y)
-            elif norm(x) and norm(x) in norm(he):
-                he = norm(he).replace(norm(x), y)
             else:
                 ok = False
         (applied if ok else unapplied).append({'digitized': a, 'scan': b})
@@ -305,6 +325,18 @@ def harvest_1943():
             t = src.get('text') or {}
             items.append({'i': i, 'kind': 'source', 'ref': src['ref'], 'he': strip(t.get('he')),
                           'en': strip(t.get('en')), 'basis': 'digitization'})
+        # Stable keys for transcription items (they have no raw index): "<letter>/q<n>" for
+        # her questions, "<letter>/text<n>" for her prose, so cards can cite them.
+        nq = nt = 0
+        for it in items:
+            if it.get('basis') != 'transcription':
+                continue
+            if it['kind'] == 'question':
+                nq += 1
+                it['i'] = f'{letter}/q{nq}'
+            else:
+                nt += 1
+                it['i'] = f'{letter}/text{nt}'
         sections.append({'letter': letter, 'header_scan': header, 'header_digitized': None, 'items': items})
     return sections
 
@@ -340,6 +372,11 @@ def harvest(theme, year, year_he, sid, letters):
             if edits:
                 it['editorial_additions'] = [{'digitized': a, 'scan': b} for a, b in edits]
             pairs = [p for p in pairs if p not in edits]
+            # A substantive (word-level) fix is applied only when the triage says the scan wins
+            # for this item; a mis-paired fragment in a checker's list must not rewrite text.
+            use = TRIAGE.get((sid, it['i']), {}).get('use')
+            pairs = [p for p in pairs if classify({'digitized': p[0], 'scan': p[1]}) != 'substantive'
+                     or use in ('scan', 'form')]
             if pairs:
                 new, applied, unapplied, sics = apply_pairs(it['he'], pairs)
                 if new != it['he']:
@@ -366,10 +403,13 @@ def harvest(theme, year, year_he, sid, letters):
             items.append(it)
             for ov in OVERRIDES:
                 if ov['sheet'] == sid and ov['after'] == it['i']:
-                    new = {'kind': ov['kind'], 'he': ov['he'], 'basis': 'scan-only',
+                    nth = sum(1 for o in OVERRIDES if o['sheet'] == sid and o['after'] == it['i']
+                              and OVERRIDES.index(o) < OVERRIDES.index(ov))
+                    new = {'i': f"after {ov['after']}" + (f'.{nth + 1}' if nth else ''),
+                           'kind': ov['kind'], 'he': ov['he'], 'basis': 'scan-only',
                            'cite': 'bereshit-scancheck/' + ov['cite'],
                            **({'needs_human': True} if '[?]' in ov['he'] else {})}
-                    apply_triage(sid, f"after {ov['after']}", new)
+                    apply_triage(sid, new['i'], new)
                     if new.get('needs_human'):
                         needs.append(f"after {ov['after']}")
                     items.append(new)
