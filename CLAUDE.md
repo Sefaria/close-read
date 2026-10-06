@@ -26,6 +26,27 @@ The default page (`/`) shows an index of available sheets. Load a specific sheet
 
 When adding a new sheet, also add an entry to `data/index.json`.
 
+## Tests
+
+```bash
+pip install -r requirements-dev.txt && python3 -m playwright install chromium
+python3 -m pytest                      # everything (~1 min)
+python3 -m pytest tests/test_data.py   # JSON checks only, no browser (<1 s)
+python3 -m pytest -k "nasso and mobile"
+```
+
+- `tests/test_data.py` checks the JSON alone. It replays the engine's word wrap, so overlapping or nested word groups, unresolvable highlights, broken branch targets and unreachable sections are caught without a browser.
+- `tests/test_render.py` serves the site and opens every leaf path of every sheet in `data/index.json` at desktop (1440×900) and mobile (390×844). It scrolls each card into reading position and checks:
+  - the active card is the only active one;
+  - the panel shows the right verse, the right words are lit with the rest dimmed, and nothing leaks into other sections;
+  - highlighted words are on screen, uncovered and not clipped;
+  - the verse fits the screen and the ref label sits clear of the breadcrumb;
+  - the card is readable and not covered by the sticky panel;
+  - fixed nav doesn't overlap text, and there are no `undefined`s or console errors.
+  It also clicks through the branches and walks back with history.
+- `tests/sheetmodel.py` mirrors the engine's grouping, branching and active-verse rules. Change it when you change `groupSections`, `pathToVisibleSet` or `activateStep`.
+- New sheets are picked up from `data/index.json` automatically. CI runs both layers on every PR (`.github/workflows/test.yml`).
+
 ## Stack
 
 Static HTML/CSS/JS. No build step. GSAP + ScrollTrigger from CDN. Google Fonts (Frank Ruhl Libre, Crimson Text, Inter).
