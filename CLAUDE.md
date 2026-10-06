@@ -4,7 +4,7 @@ A data-driven scrollytelling engine for Torah study in the style of NYT's "Close
 
 Built for Nechama Leibowitz's study sheets.
 
-Per-module detail lives in [AGENTS.md](AGENTS.md) → [agent_docs/](agent_docs/).
+Per-module detail (engine, text effects, CSS, data contract, Nechama workflow, gotchas) lives in the Sefaria wiki at `sefaria-wiki/wiki/repos/close-read/` — start at `_index.md`. Update those pages when you change a module; they replaced the old `agent_docs/` tree.
 
 ## Key Documentation
 
