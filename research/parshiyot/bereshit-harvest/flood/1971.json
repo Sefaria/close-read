@@ -1,0 +1,398 @@
+{
+ "sheet_id": 162069,
+ "year_g": "1971",
+ "year_he": "תשל\"א",
+ "theme": "flood",
+ "title": "פרשת בראשית תשל\"א - בני האלוהים",
+ "sefaria_url": "https://www.sefaria.org/sheets/162069",
+ "pdf_url": "https://www.nechama.org.il/pdf/1420.pdf",
+ "scancheck": "bereshit-scancheck/162069-1971.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. ויראו בני האלוהים את בנות האדם (underlined)",
+   "header_digitized": "א. מדברי המדרש",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Genesis 6:2",
+     "he": "\"וַיִּרְאוּ בְנֵי הָאֱ-לֹהִים אֶת בְּנוֹת הָאָדָם\"",
+     "en": "that the sons of nobles saw the daughters of men that they were fair; and they took them wives, whomsoever they chose.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 26:5",
+     "he": "ר' שמעון בן יוחאי קרא להון \"בני דייניא\".\nר' שמעון בן יוחאי מקלל לכל מאן דקרא להון \"בני אלהיא\".\nתני ר' שמעון בן יוחאי: כל פרצה שאינה מן הגדולים – אינה פרצה. \n\"כומריא גנבו אלוהיא מאן מומי ביה (=מי ישבע בה – בעבודה הזרה), או מאן מקרב\" (= או מי יקריב אליה קורבן).",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "question",
+     "he": "1. היכן מצינו בתורה 'אלוהים' בהוראה שבה מפרש ר' שמעון בן יוחאי את המלה 'אלוהים' בפסוקנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. היכן מציינו בתורה \"אלוהים\" בהוראה שבה מפרש ר' שמעון בן יוחאי את המילה \"אלוהים\" בפסוקנו?",
+     "scan_fixes": [
+      {
+       "digitized": "היכן מציינו בתורה \"אלוהים\" … את המילה \"אלוהים\" בפסוקנו?",
+       "scan": "היכן מצינו בתורה 'אלוהים' … את המלה 'אלוהים' בפסוקנו?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "מציינו … המילה",
+       "scan": "מצינו … המלה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 4,
+     "kind": "question",
+     "he": "2. למה מקלל ר' שמעון בן יוחאי את אלה המפרשים את פסוקנו שלא כפי פירושו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "question",
+     "he": "3. א. א. אורבך בספרו \"חז\"ל: אמונות ודעות\" עמוד 147 כותב: \"התרגומים הארמיים התחשבו בקללת ר' שמעון בן יוחאי\". הוכח דבריו.",
+     "scan_status": "DIFF",
+     "basis": "digitization",
+     "triage": {
+      "use": "editorial",
+      "why": "the digitizers added the subtitle of Urbach's book: «חז\"ל: אמונות ודעות»"
+     }
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "4. הסבר את הרעיון הכלול בדברי ר' שמעון בן יוחאי \"כל פרצה שאינה...\"",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "5. העתק את המשל הארמי המובא בסוף דברי המדרש וסמן אותו בסמני פסוק.",
+     "scan_status": "DIFF",
+     "digitized_he": "5. העתק את המשל הארמי המובא בסוף דברי המדרש, וסמן אותו בסימני פיסוק.",
+     "scan_fixes": [
+      {
+       "digitized": "בסוף דברי המדרש, וסמן אותו בסימני פיסוק.",
+       "scan": "בסוף דברי המדרש וסמן אותו בסמני פסוק.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "המדרש, וסמן אותו בסימני פיסוק",
+       "scan": "המדרש וסמן אותו בסמני פסוק",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. ויראו בני האלוהים את בנות האדם כי טובות הנה - ויקחו להם נשים מכל אשר בחרו",
+   "header_digitized": "ב. \"בני האלוהים\"",
+   "items": [
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Genesis 6:2",
+     "he": "\"וַיִּרְאוּ בְנֵי הָאֱ-לֹהִים אֶת בְּנוֹת הָאָדָם כִּי טֹבֹת הֵנָּה\n וַיִּקְחוּ לָהֶם נָשִׁים מִכֹּל אֲשֶׁר בָּחָרוּ\"",
+     "en": "that the sons of nobles saw the daughters of men that they were fair; and they took them wives, whomsoever they chose.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "question",
+     "he": "ספרי בהעלותך י\"א ו':\n\"ויראו בני האלוהים\" - מה היו הדיינים עושים? היו אוחזים נשים מן השוק ומענים אותן. אם כך היו בני הדיינים עושים, קל וחומר לשאר הדיוטין.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Radak on Genesis 6:2:1",
+     "he": "ד\"ה ויראו בני האלוהים: בני השופטים והגדולים ומנהיגי המדינות, כי הם נקראו אלוהים, כמו (שמות כ\"ב) \"אלוהים לא תקלל\" והדומים לו...",
+     "en": "ויראו בני האלוהים, the sons of the judges, the elite of the species who are here referred to as אלוהים, just as in Exodus 22,27 אלוהים לא תקלל, “you must not curse a judge.” There are numerous similar examples in the Torah of the attribute אלוהים being applied to morally high ranking human beings. Onkelos also translates it in this vein when he speaks of בני רברביא. The explanations offered that the Torah refers to Uzza and Uzael are very far fetched. (compare Torah shleymah on this verse). [The two aforementioned are supposed to have been angels who had voted against the creation of man and who belittled man’s effort to conquer the evil urge. They were supposedly punished by being consigned to earth to experience life on earth by themselves. Instead of proving their superiority, they were the first to succumb to the allurement of physically attractive females. Their request to return to the celestial regions was denied by G’d. Ed.]\n According to Bereshit Rabbah 26,5 Rabbi Shimon ben Yochai cursed anyone who translated the words בני האלוהים as “the sons of G’d.” He added that when the elite of the people are themselves guilty of the sins they want the common man to refrain from, their efforts are doomed to start with. Another reason offered why these people were referred to as בני האלוהים, (according to both Rabbi Chaninah and Rabbi Shimon ben Lakish, is that these were the people enjoying carefree long lives, free from sickness and other impediments. [This may have given them the illusion of being able to get away with whatever they felt like doing. Ed.] Rav Hunna, quoting Rabbi Yossi, says that these people were granted such long lives in order to enable them to study the sky, observe the orbits of the stars and make calculations resulting in our calendar.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "source",
+     "ref": "Radak on Genesis 6:2:2",
+     "he": "ד\"ה את בנות האדם: בנות המון האדם החלושים, שלא היה להם כוח לעמוד כנגדם, וכאשר היו רואים בני הגדולים בנות העניים שהיו טובות, רוצה לומר יפות תואר ומראה, היו עושקים ולוקחים איזה מהם טובות מכל האנשים ואותן שישרו בעיניהם, הן פנויות או נשואות לבעל, כי מי שהיה גדול מחבירו עושק את חבירו ואין מציל מידם. ו\"אדם\" נאמר על הפחותים והחלושים שנאמר (תהילים מ\"ט) \"גם בני אדם גם בני איש\", \"בני- אדם\" – הפחותים, \"בני איש\" – הגדולים.",
+     "en": "את בנות האדם, the daughters of the weaker specimen of the human race. The women were unable to resist the physically superior specimen referred to as בני האלוהים, and as a result if fancied by the latter, they would be taken by them as wives or concubines against their will, and the will of even their husbands. [The Torah describes the first time the law of the “survival of the fittest” was practiced by the human race. The result was the deluge. Ed.] The term אדם next to the term אלוהים simply compares the weak to the strong In the Sifri¸ (Behaalotcha 86) the point is made that when ordinary individuals observed that the judges took the law into their own hands, they reasoned that they themselves would most certainly be able to get away with the same thing, seeing that the judges are supposed to set a good example.\n Rabbi Avraham Ibn Ezra understands the expression בני אלוהים, as referring to spiritually superior people, people who knew what G’d expected of them. They chose wives according to what they perceived was suitable for them basing themselves on their reading of astrology. As a result of such careful mating, their offspring were in many instances giants, etc., as we read about at the end of our verse. It is possible that they took women of their choice even against the will of these women.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 13,
+     "kind": "source",
+     "ref": "Shadal on Genesis 6:2:1",
+     "he": "ד\"ה בני האלוהים: ... נראה לי כי \"בני האלוהים\" הם קצת מבני קין, שהיו תועים בארץ, והיה טבעם קשה ורע כקין אביהם, ובני שת היו מיושבים בקיבוץ מדיני, והיו נקראים \"בני אדם\". וקצת מבני קין היו חזקים וגבוהי קומה מהם, והיו בני האדם מפחדים ונבהלים מהם, והיו קוראים להם \"בני האלוהים\" מפני גובהם ואימתם ופראותם (כי היושבים במדבר לחורב ביום וקרח בלילה הם בעלי קומה וכוח יותר מהשוכנים בחברת המדינה ומתנהגים בחכמה).\nוהנה מתחילה לא היו בני שת מתערבים בבני קין, אך ברוב הימים התחילו בני קין לחטוף להם מבנות  אדם, וקצת מהן נשארו אצל בעליהן, וקצתן חזרו לבית אמן וילדו שם. ואז נולדו בקרב חברת בני האדם אנשים גבוהים וקשים ורעים יותר משאר בני שת, ומאז והלאה התחילה חברת האדם להתקלקל.",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Malbim on Genesis 6:2:1",
+     "he": "ידוע ביקורת העמים הקדמונים, שהיו מאמינים בבני אלוהים חושקים את בנות האדם והיו מהבילים, כשאשה יפה תמצא חן בעיני אלוהים ויבואו אליהן וילדו להם. וסיפר שכפי מחשבת הדור ההוא והבליהם אמרו, שבני אלוהים רואים את בנות האדם שהן טובות וימצאו חן בעיניהם ויקחו להם נשים, שבאופן זה זנו הנשים מתחת בעליהן עם אנשים שההבילו עליהם, שהם בני אלוהים.\nוהגדות כאלה היו בימים האלה וגם אחרי כן, כי נודע שבכל סיפורי העמים הקדמונים יספרו שבימי קדם מלכו על מדינתם בני האלוהים שבאו משמים אל הארץ ונשאו נשים  מבנות האדם, ומהם עמדו גיבורים ומושלים, כמו שיימצא בסיפורי מצרים וחינא ומלכות יוון מן האלוהיות וחצי אלוהות, שהלכו על ההרים הרמים ועל ארצם בימי קדם, והם נעשו להם אלילים, וסיפרו עליהם מעשים של רצח וניאוף וכל מידות רעות, עד שגם עובדיהם התדמו להם בתועבותיהם, כמו האלילה שעבודתה הייתה בניאוף, והאליל שעבדו אותו בזבחי אדם, והעבודות האלה עמדו עד אמצע מלכות הרומיים, וכל שכן היו בתוקפם בימי משה...  לכן הודיע לנו משה רבנו ע\"ה כי הנפילים האלה שהם הענקים והעריצים היו בימים האלה וגם אחרי כן, שאז נמצאו גיבורי כוח נוראים, שאמרו על עצמם שהם בני אלוהים שנפלו משמים, והעם התחילו לעבוד אותם. והם היו בני האלוהים שבאו אל בנות האדם וילדו להם, עד שגם הבנים היו נחשבים לאלילים. – אבל דע, שכל הסיפורים וההגדות האלה, שעליהם בנו כהני האליל כל ענייני העבודה זרה וסיפורי האלילים והמיתולוגיה, הוא הכל שקר וכזב, \"היעשה לו אדם אלוהים והמה לא אלוהים?!\" רק המה הגיבורים אשר מעולם אנשי השם, שכל גיבור שעמד בימים ההם או איש שעשה לו שם על ידי חכמתן היו מייחסים לו אלוהות ואומרים שנפל משמים, וזה היה שורש להשחתת האדם ולעבודה זרה ואמונת שווא והבל, אשר לכן ראה ה' לקצר ימי האדם, שיראו כי אדם המה ובני תמותה, ולא אלוהים המה.",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "text",
+     "he": "בנו יעקב, (בפירושו הגדול לספר בראשית, בגרמנית):\nייתכן שהכינוי \"בני אלוהים\" מובנו כאן אירוני, כמו (תהילים ע\"ח) \"אני אמרתי אלוהים אתם ובני עליון כולכם – אכן כאדם תמותון...\".",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "בנו יעקב, (בפירושו …)",
+       "scan": "בנו יעקב (בפירושו הגדול לספר בראשית, בגרמנית)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "1. הסבר, מה הן הדעות השונות בתפישת המושג \"בני אלוהים\". סדרם לקבוצות.",
+     "scan_status": "DIFF",
+     "digitized_he": "1. הסבר, מה הן הדיעות השונות בתפישת המושג \"בני אלוהים\". סדרן לקבוצות.",
+     "scan_fixes": [
+      {
+       "digitized": "מה הן הדיעות השונות … סדרן לקבוצות.",
+       "scan": "מה הן הדעות השונות … סדרם לקבוצות.",
+       "class": "substantive"
+      },
+      {
+       "digitized": "הדיעות … סדרן",
+       "scan": "הדעות … סדרם",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "2. מצא ראיה מלשון פסוקנו לכך, שבני האלוהים עשו חמס, כפי שהדבר מוסבר בספרי בהעלותך.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "question",
+     "he": "3. הסבר מה הקשר בין פרשתנו לפרשת למך ד' י\"ז-כ\"ד, ועיין גליון בראשית תש\"י שאלות ב, ג, ביחוד דברי הרלב\"ג ודברי המלבי\"ם שם!",
+     "scan_status": "DIFF",
+     "digitized_he": "3. הסבר מה הקשר בין פרשתנו לפרשת למך ד' י\"ז כ\"ד, ועיין גיליון בראשית תש\"י שאלות ב' ג', בייחוד דברי הרלב\"ג ודברי המלבי\"ם שם!",
+     "scan_fixes": [
+      {
+       "digitized": "ד' י\"ז כ\"ד, ועיין גיליון בראשית תש\"י שאלות ב' ג', בייחוד",
+       "scan": "ד' י\"ז-כ\"ד, ועיין גליון בראשית תש\"י שאלות ב, ג, ביחוד",
+       "class": "spelling"
+      },
+      {
+       "digitized": "י\"ז כ\"ד … גיליון … ב' ג', בייחוד",
+       "scan": "י\"ז-כ\"ד … גליון … ב, ג, ביחוד",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. ג'. לא ידון רוחי באדם לעולם   בשגם הוא בשר (underlined)",
+   "header_digitized": "ג. השוואת מפרשים",
+   "items": [
+    {
+     "i": 20,
+     "kind": "text",
+     "he": "פסוק ג'\n\"לֹא יָדוֹן רוּחִי בָאָדָם לְעֹלָם בְּשַׁגַּם הוּא בָשָׂר\"",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Mishnah Sanhedrin 10:3",
+     "he": "דור המבול אין להם חלק לעולם הבא, ואין עומדים בדין, שנאמר \"לא ידון רוחי באדם לעולם\", לא דין ולא רוח.",
+     "en": "The generation of the Flood has no share in the World to Come, nor will it stand in judgment, as it is says, (Genesis 6:3) \"My spirit shall not abide [yadon] in man forever,\" neither judgment [din] not spirit. The generation of Division has no share in the World to Come, as it is says, (Genesis 11:8) \"So the Lord scattered them abroad from thence upon the face of all the earth.\" \"So the Lord scattered them,\" in this world; (Genesis 11:9) \"and from thence did the Lord scatter them abroad\" in the World to Come. The people of Sodom have no share in the World to Come, as it says, (Genesis 13:13) \"Now the men of Sodom were wicked and sinners against the Lord exceedingly.\" \"Wicked\" in this world, \"and sinners\" in the World to Come. But they will stand in judgment. Rabbi Nechemiah says , neither will stand in judgment, as it says, (Psalms 1:5) \"Therefore the wicked shall not stand in the judgment, Nor sinners in the congregation of the righteous.\" \"Therefore the wicked shall not stand in judgment,\" this is the generation of the Flood; \"nor sinners in the congregation of the righteous,\" this is the people of Sodom. [The Sages] said to him, they will not stand in the congregation of the righteous, but they will stand in the congregation of the wicked. The spies have no share in the World to Come, as it says, (Numbers 14:37) \"Even those men that did bring up an evil report of the land, died by the plague before the Lord.\" \"Died,\" in this world; \"in the plague,\" in the World to Come. The generation of the wilderness has no share in the World to Come and will not stand in judgment, as it is written, (Numbers 14:35) \"In this wilderness they shall be consumed, and there they shall die,\" according to Rabbi Akiva. Rabbi Eliezer says, about them [the verse] says, (Psalms 50:5) \"Gather My saints together unto Me; Those that have made a covenant with Me by sacrifice.\" The congregation of Korah will not ascend in the future, as it says, (Numbers 16:33) \"and the earth closed upon them,\" in this world; \"and they perished from among the assembly,\" in the World to Come, according to Rabbi Akiva. Rabbi Eliezer says, about them [the verse] says, (I Samuel 2:6) \"The Lord killeth, and maketh alive; He bringeth down to the grave, and bringeth up.\" The Ten Tribes will not return in the future, as it says, (Deuteronomy 29:27) \"[God] will cast them into another land, as it is this day.\" Just as this day goes and does not return, so too, they will go and will not return, according to Rabbi Akiva. Rabbi Eliezer says, just as the day grows dark and [then] grows light; so too, the Ten Tribes, for whom it grew dark, in the future it will thus grow light for them.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Sanhedrin 108a:5",
+     "he": "ר' יהודה בן בתירא אומר: לא חיין ולא נידונין, שנאמר \"לא ידון רוחי באדם לעולם\" – לא דין ולא רוח. דבר אחר: שלא תהא נשמתן חוזרת לנדנה.",
+     "en": "gemara The Sages taught in a baraita: The members of the generation of the flood have no share in the World-to-Come, as it is stated: “And He obliterated every living thing that was upon the face of the ground, from man to cattle to creeping animal to the birds of the heaven; and they were obliterated from the earth” (Genesis 7:23). “And He obliterated every living thing” indicates in this world, whereas “and they were obliterated from the earth” indicates for the World-to-Come; this is the statement of Rabbi Akiva. Rabbi Yehuda ben Beteira says: The members of the generation of the flood will neither live nor be judged, as it is stated: “My soul shall not abide [yadon] in man forever” (Genesis 6:3), meaning neither will they stand in judgment [din], nor shall their souls be restored to them. Alternatively, “My soul shall not abide” means their souls will not return to their sheaths [nadan], i.e., to their bodies.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 26:6",
+     "he": "אמר ר' ישמעאל בר' יוסי: איני נותן רוחי בהם בשעה שאני נותן מתן שכרם של צדיקים לעתיד לבוא...\nרבי אומר: \"ויאמר\" דור המבול לה': \"לא ידון!\" אמר ר' עקיבא: (תהילים י') \"על מה ניאץ רשע אלוהים? אמר בלבו לא תדרוש\" – לית דין ולית דיין. \nאבל אית דין ואית דיין.",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:3:1",
+     "he": "ד\"ה לא ידון רוחי באדם: לא יתרעם ויריב רוחי עלי בשביל האדם.",
+     "en": "לא ידון רוחי באדם MY SPIRIT SHALL NOT STRIVE AGAINST MAN — My Spirit shall not be in a state of discontent and shall not strive with Myself because of man.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:3:2",
+     "he": "ד\"ה לעולם: לאורך ימים. הנה רוחי נידון בקרבי אם להשחית ואם לרחם, לא יהיה מדון זה ברוחי לעולם, כלומר לאורך ימים.",
+     "en": "לעולם ALWAYS — for a long time. Behold, My Spirit has been contending within Me whether to destroy or whether to show mercy: such contending (deliberation) shall not be forever — meaning, for a long time.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:3:4",
+     "he": "ד\"ה והיו ימיו מאה ועשרים שנה: עד ק\"כ שנה אאריך להם אפי, ואם לא ישובו אביא עליהם מבול...",
+     "en": "והיו ימיו וגו THEREFORE HIS DAYS SHALL BE etc. — For 120 years I will be long-suffering with them, and if they repent not I shall bring a flood upon them. If, now, you object, saying that from the birth of Japheth until the Flood there were only 100 years, remember that there is no “earlier” or “later” in the Torah (events are not always related in chronological order) (Pesachim 6b): the decree (regarding the Flood) was issued twenty years before Noah had any children — so we find in Seder Olam. There are many Midrashic explanations of the words לא ידון but this is transparently its plain sense.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "1. מה ההבדל בתפישת המלה \"רוחי\" בין דברי הגמרא לבין פירוש רש\"י?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה ההבדל בתפישת המילה \"רוחי\" בין דברי הגמרא לבין פירוש רש\"י?",
+     "scan_fixes": [
+      {
+       "digitized": "המילה \"רוחי\"",
+       "scan": "המלה \"רוחי\"",
+       "class": "spelling"
+      },
+      {
+       "digitized": "המילה",
+       "scan": "המלה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 28,
+     "kind": "question",
+     "he": "2. מה ההבדל בתפישת הפעל \"ידון\" בין דברי הגמרא לבין פירוש רש\"י?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה ההבדל בתפישת הפועל \"ידון\" בין דברי הגמרא לבין פירוש רש\"י?",
+     "scan_fixes": [
+      {
+       "digitized": "בתפישת הפועל \"ידון\"",
+       "scan": "בתפישת הפעל \"ידון\"",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הפועל",
+       "scan": "הפעל",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 29,
+     "kind": "question",
+     "he": "3. במה שונים דברי רבי ור' עקיבא מכל השאר? ומה אלצם לדרוש כך?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. במה שונים דברי רבי ור' עקיבא מכל השאר? ומה אילצם לדרוש כך?",
+     "scan_fixes": [
+      {
+       "digitized": "ומה אילצם לדרוש כך?",
+       "scan": "ומה אלצם לדרוש כך?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "אילצם",
+       "scan": "אלצם",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 30,
+     "kind": "question",
+     "he": "4. היכן מצא ר' עקיבא רמז לתשובה: \"אבל אית דין ואית דיין!\"?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "question",
+     "he": "5. ממפרשי המשנה יש שמסתמכין על יחזקאל ל\"ז לפירוש דברי המשנה. מה הסעד שניתן שם להבנת דברי המשנה כאן?",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "ממפרשי המשנה יש שמסתמכין על יחזקאל ל\"ז לפירוש דברי המשנה.",
+       "scan": "ממפרשי המשנה יש שמסתמכין לפירוש דברי המשנה על יחזקאל ל\"ז.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: Header [0] renamed; scan header is the half-verse.",
+  "§א: Dropped `××` on [4].",
+  "§א: Question numbering `1) 2) …` rendered `1. 2. …`.",
+  "§ב: Header [8] shortened to the phrase \"בני האלוהים\".",
+  "§ב: Radak printed as one block in the scan; split into [11]/[12].",
+  "§ג: Header [19] supplied by digitizer; scan header is the verse.",
+  "§ג: Wrong refLink on [20] (`פסוק ג'` → Numbers 6:3).",
+  "§ג: Dropped `××` on [30] and [31].",
+  "§ג: Footer dropped: `תשובות נא לשלוח לנחמה ליבוביץ, קרית משה ירושלים.`"
+ ],
+ "needs_human": []
+}

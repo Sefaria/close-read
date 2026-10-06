@@ -1,0 +1,326 @@
+{
+ "sheet_id": 161401,
+ "year_g": "1954",
+ "year_he": "תשי\"ד",
+ "theme": "creation",
+ "title": "פרשת בראשית תשי\"ד - סדר הבריאה",
+ "sefaria_url": "https://www.sefaria.org/sheets/161401",
+ "pdf_url": "https://www.nechama.org.il/pdf/750.pdf",
+ "scancheck": "bereshit-scancheck/161401-1954.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "ב",
+   "header_scan": "ב. בראשית ברא אלוקים",
+   "header_digitized": "ב. \"בראשית\" - קושיית ר' יצחק",
+   "items": [
+    {
+     "i": 4,
+     "kind": "source",
+     "ref": "Rashi on Genesis 1:1:2",
+     "he": "\"בְּרֵאשִׁית בָּרָא אֱ-לֹהִים\"",
+     "en": "בראשית ברא IN THE BEGINNING GOD CREATED — This verse calls aloud for explanation in the manner that our Rabbis explained it: God created the world for the sake of the Torah which is called (Proverbs 8:22) “The beginning (ראשית) of His (God’s) way”, and for the sake of Israel who are called (Jeremiah 2:3) “The beginning (ראשית) of His (God’s) increase’’. If, however, you wish to explain it in its plain sense, explain it thus: At the beginning of the Creation of heaven and earth when the earth was without form and void and there was darkness, God said, “Let there be light”. The text does not intend to point out the order of the acts of Creation — to state that these (heaven and earth) were created first; for if it intended to point this out, it should have written 'בראשונה ברא את השמים וגו “At first God created etc.” And for this reason: Because, wherever the word ראשית occurs in Scripture, it is in the construct state. E. g., (Jeremiah 26:1) “In the beginning of (בראשית) the reign of Jehoiakim”; (Genesis 10:10) “The beginning of (ראשית) his kingdom”; (Deuteronomy 18:4) “The first fruit of (ראשית) thy corn.” Similarly here you must translate בראשית ברא אלהים as though it read בראשית ברוא, at the beginning of God’s creating. A similar grammatical construction (of a noun in construct followed by a verb) is: (Hosea 1:2) תחלת דבר ה' בהושע, which is as much as to say, “At the beginning of God’s speaking through Hosea, the Lord said to Hosea.” Should you, however, insist that it does actually intend to point out that these (heaven and earth) were created first, and that the meaning is, “At the beginning of everything He created these, admitting therefore that the word בראשית is in the construct state and explaining the omission of a word signifying “everything” by saying that you have texts which are elliptical, omitting a word, as for example (Job 3:10) “Because it shut not up the doors of my mother’s womb” where it does not explicitly explain who it was that closed the womb; and (Isaiah 8:4) “He shall take away the spoil of Samaria” without explaining who shall take it away; and (Amos 6:12) “Doth he plough with oxen,\" and it does not explicitly state, “Doth a man plough with oxen”; (Isaiah 46:10) “Declaring from the beginning the end,” and it does not explicitly state, “Declaring from the beginning of a thing the end of a thing’ — if it is so (that you assert that this verse intends to point out that heaven and earth were created first), you should be astonished at yourself, because as a matter of fact the waters were created before heaven and earth, for, lo, it is written, (v. 2) “The Spirit of God was hovering on the face of the waters,” and Scripture had not yet disclosed when the creation of the waters took place — consequently you must learn from this that the creation of the waters preceded that of the earth. And a further proof that the heavens and earth were not the first thing created is that the heavens were created from fire (אש) and water (מים), from which it follows that fire and water were in existence before the heavens. Therefore you must needs admit that the text teaches nothing about the earlier or later sequence of the acts of Creation.",
+     "scan_status": "NOT-IN-SCAN",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Rashi on Genesis 1:1:1",
+     "he": "ד\"ה בראשית: אמר רבי יצחק: לא היה צריך להתחיל את התורה אלא מהחודש הזה לכם שהיא מצוה ראשונה שנצטוו בה ישראל, ומה טעם פתח בבראשית? משום (תהילים קי\"א) כח מעשיו הגיד לעמו לתת להם נחלת גוים. שאם יאמרו אומות העולם לישראל, ליסטים אתם שכבשתם ארצות שבעה גוים, הם אומרים להם: כל הארץ של הקב\"ה היא, הוא בראה ונתנה לאשר ישר בעיניו, ברצונו נתנה להם וברצונו נטלה מהם ונתנה לנו.",
+     "en": "בראשית IN THE BEGINNING — Rabbi Isaac said: The Torah which is the Law book of Israel should have commenced with the verse (Exodus 12:2) “This month shall be unto you the first of the months” which is the first commandment given to Israel. What is the reason, then, that it commences with the account of the Creation? Because of the thought expressed in the text (Psalms 111:6) “He declared to His people the strength of His works (i.e. He gave an account of the work of Creation), in order that He might give them the heritage of the nations.” For should the peoples of the world say to Israel, “You are robbers, because you took by force the lands of the seven nations of Canaan”, Israel may reply to them, “All the earth belongs to the Holy One, blessed be He; He created it and gave it to whom He pleased. When He willed He gave it to them, and when He willed He took it from them and gave it to us” (Yalkut Shimoni on Torah 187).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "source",
+     "ref": "Ramban on Genesis 1:1:1",
+     "he": "ד\"ה בראשית ברא אלוהים: אמר רבי יצחק לא היה צריך להתחיל התורה אלא מהחודש הזה לכם שהיא מצוה ראשונה שנצטוו בה ישראל, ומה טעם פתח בבראשית משום כח מעשיו הגיד לעמו, שאם יאמרו אומות העולם לסטים אתם שכבשתם לכם ארצות שבעה גוים, הם אומרים להם, כל הארץ של הקב\"ה היא, ונתנה לאשר ישר בעיניו, וברצונו נתנה להם, וברצונו נטלה מהם ונתנה לנו. וזו אגדה בלשון שכתבה רבינו שלמה בפירושיו.\nויש לשאול בה, כי צורך גדול הוא להתחיל התורה בבראשית ברא אלהים, כי הוא שורש האמונה, ושאינו מאמין בזה וחושב שהעולם קדמון, הוא כופר בעיקר ואין לו תורה כלל. והתשובה, מפני שמעשה בראשית סוד עמוק אינו מובן מן המקראות, ולא יוודע על בוריו אלא מפי הקבלה עד משה רבנו מפי הגבורה, ויודעיו חייבין להסתיר אותו, לכך אמר רבי יצחק שאין להתחלת התורה צורך בבראשית ברא, והסיפור במה שנברא ביום ראשון ומה נעשה ביום שני ושאר הימים, והאריכות ביצירת אדם וחוה, וחטאם וענשם, וסיפור גן עדן וגרוש אדם ממנו, כי כל זה לא יובן בינה שלמה מן הכתובים, וכל שכן סיפור דור המבול והפלגה, שאין הצורך בהם גדול, ויספיק לאנשי התורה בלעדי הכתובים האלה, ויאמינו בכלל בנזכר להם בעשרת הדברות (שמות כ' י\"א) כי ששת ימים עשה ה' את השמים ואת הארץ את הים ואת כל אשר בם וינח ביום השביעי, ותשאר הידיעה ליחידים שבהם הלכה למשה מסיני עם התורה שבעל פה.\nונתן רבי יצחק טעם לזה, כי התחילה התורה בבראשית ברא אלהים וסיפור כל ענין היצירה עד בריאת אדם, ושהמשילו במעשה ידיו וכל שת תחת רגליו, וגן עדן שהוא מבחר המקומות הנבראים בעולם הזה נעשה מכון לשבתו, עד שגירש אותו חטאו משם, ואנשי דור המבול בחטאם גורשו מן העולם כולו, והצדיק בהם לבדו נמלט הוא ובניו, וזרעם חטאם גרם להם להפיצם במקומות ולזרותם בארצות, ותפשו להם המקומות למשפחותם בגוייהם כפי שנזדמן להם.\nאם כן ראוי הוא, כאשר יוסיף הגוי לחטוא, שיאבד ממקומו ויבוא גוי אחר לרשת את ארצו, כי כן הוא משפט האלהים בארץ מעולם, וכל שכן עם המסופר בכתוב כי כנען מקולל ונמכר לעבד עולם (ט' כ\"ז), ואינו ראוי שיירש מבחר מקומות היישוב, אבל יירשוה עבדי ה' זרע אוהבו, כענין שכתוב (תהלים ק\"ה מ\"ד) ויתן להם ארצות גוים ועמל לאומים יירשו בעבור ישמרו חקיו ותורותיו ינצורו. כלומר, שגירש משם מורדיו, והשכין בו עובדיו, שידעו כי בעבודתו ינחלוה, ואם יחטאו לו תקיא אותם הארץ, כאשר קאה את הגוי אשר לפניהם.\nואשר יבאר הפירוש שכתבתי, לשונם בבראשית רבה (א' ג') שאמרוה שם בלשון הזה רבי יהושע דסכנין בשם רבי לוי פתח, כח מעשיו הגיד לעמו (תהלים קי\"א ו'), מה טעם גילה להם הקב\"ה לישראל מה שנברא ביום ראשון ומה שנברא ביום שני, מפני ז' אומות שלא יהיו מונין את ישראל ואומרים להם הלא אומה של בזיזות אתם, וישראל משיבין להם, ואתם הלא בזוזה היא בידכם, הלא כפתורים היוצאים מכפתור השמידום וישבו תחתם (דברים ב' כ\"ג), העולם ומלואו של הקב\"ה הוא, כשרצה נתנו לכם, כשרצה נטלו מכם ונתנו לנו, הדא הוא דכתיב (תהלים קי\"א ו') לתת להם נחלת גוים כח מעשיו הגיד לעמו, בשביל לתת להם נחלת גוים הגיד להם את בראשית.\nוכבר בא להם ממקום אחר עוד הענין שהזכרתי בתעלומות מעשה בראשית, אמרו רבותינו ז\"ל (עיין פתיחה למורה נבוכים) כח מעשיו הגיד לעמו, להגיד כח מעשה בראשית לבשר ודם אי אפשר, לפיכך סתם לך הכתוב בראשית ברא אלהים. אם כן נתבאר מה שאמרנו בזה.",
+     "en": "In the beginning, God created: Rabbi Yitshak said: \"The Torah should not have been begun except from 'This month is for you,' (Exodus 12:2) which is the first commandment that Israel was commanded. And what is the reason that it opened with 'In the beginning?' So that if the nations of the world would say: 'you are thieves, since you conquered for yourselves the lands of the seven nations,' they would respond to them, 'all the earth is the Holy One's, blessed be He and He gave it to whomever it was fit in his eyes; and by His will He gave it to them and by His will, He took it from them and gave it to us.'\" And this is a tale in the words that our Rabbi Shlomo (Rashi) wrote in his commentaries. And one can question it, because there is great need to begin the Torah with \"In the beginning God created\" for it is the root of faith; and one who doesn't believe this and believes that the world is primordial is an apostate and has no Torah whatsoever. And the answer, it is because the work of creation - it is a deep secret - is not intelligible from the verses, and will not be understood by its students except through the received tradition up until Moses our Master from the mouth of God [lit. \"The Strength\"], and those who know it are required to hide it. Therefore Rabbi Isaac said that beginning of the Torah doesn't require \"In the beginning God created\" and the story of what was created on the first day, and what was done on the second day and the remaining days, and the lengthy telling of the creation of Adam and Eve, and their sin and punishment, and the story of the Garden of Eden and Adam's exile from it, for all this cannot be understood with full understanding from the texts. And all the more so the story of the generation of the Deluge and the Division, for there is not great need of them. And it would be sufficient for the people of the Torah without these texts, and they would believe in the general information that was mentioned to them in the Ten Commandments (Exodus 20:10): \"For in six days God created the heavens and the earth, the sea and all they contain, and He rested on the seventh day\", and the knowledge would remain to the few individuals among them, as 'a law given to Moses from Sinai\" (halacha leMoshe miSinai), along with the Oral Law. And Rabbi Isaac gave a reason for this, that the Torah began with \"In the beginning God created\" and the story of the whole topic of creation until the creation of Adam, and that He made him ruler over the work of His hands and all that was given over beneath his feet, and the Garden of Eden - which is the best of all the places created in this world - became established for his dwelling, until his sin drove him from there. And the people of the generation of the Deluge, by their sin were driven from the entire world, and the righteous one among them alone was spared, him and his sons. And their descendants, their sin caused them to be scattered in places and planted in lands, and they captured for themselves the places according to their families among their peoples, as the opportunities arose to them. If so, it is appropriate that when a people continues to sin, it will be destroyed from its place and another people will inherit his land, for this is the law of God in the world from always. And all the more so with what is told in the text that Canaan is cursed and was sold as an eternal slave, and it is not appropriate that he inherits the choicest places of settlement, but it will be inherited by the slaves of God, the seed of he who loved Him, like the matter which is written (Psalms 105:44), \"And He gave them the lands of nations and the labor of peoples they shall inherit so that they shall keep His laws and guard His instructions.\" That is to say, He chased out those who rebelled against Him, and settled in His servants, so that they would know that by serving Him they possess it - and if they sin against Him, the land will vomit them up as it vomited up the nation before them. And in order to elucidate the commentary that I have written [above, here] is the [Sages'] language in Bereishit Rabbah 1:3, who stated it in the following language: \"Rabbi Yehoshua of Sakhnin opened in the name of Rabbi Levi, '\"The strength of his actions He told His people\" (Psalms 111:6); what is the reason that the Holy One, blessed be He, revealed to Israel, what He created on the first day and what He created on the second day? Because of the seven [Canaanite] nations, so that they should not designate Israel and say to them, \"Are you not a nation of looting?\" and Israel will respond to them, \"And you, is [the land] not looted in your hands, is it not [written] (Deuteronomy 2:23), 'the Kaftorim that came out of Kaftor destroyed them and dwelt in their place.' The world and its fullness [belong to] the Holy One, blessed be He: when He wanted, He gave it to you; when He wanted, He took it from you and gave it to us. That is what is written (Psalms 111:6), 'to give them the inheritance of the peoples,' [and so, it is stated in the first part of the verse,] 'The strength of his actions He told His people.'\" [This means that, in order to give them the inheritance of the nations, He told them [about the] beginning. And the matter that I mentioned has already come from another source: about the hidden matters of the story of creation, our Rabbis, of blessed memory, have said (Psalms 111:6), \"'The strength of his actions He told His people;' to tell the strength of the story of creation to flesh and blood is impossible. Therefore, the verse is sealed to you [and only states], 'In the beginning, God created.\" If so, what we said about this is elucidated.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "1. תמה הרמב\"ן על קושית ר' יצחק על התחלת התורה. הסבר מהי תמיהתו (של הרמב\"ן)?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. תמה הרמב\"ן על קושיית ר' יצחק על התחלת התורה. הסבר מהי תמיהתו (של הרמב\"ן).",
+     "scan_fixes": [
+      {
+       "digitized": "קושיית ר' יצחק … הסבר מהי תמיהתו (של הרמב\"ן).",
+       "scan": "קושית ר' יצחק … הסבר מהי תמיהתו (של הרמב\"ן)?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "קושיית",
+       "scan": "קושית",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 8,
+     "kind": "question",
+     "he": "2. הרמב\"ן מעמיק ומסביר את קושיית ר' יצחק להסיר התמיהה. הסבר, מה תיקן הרמב\"ן בדבריו בקושיית ר' יצחק (המובאת ברש\"י)?",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "question",
+     "he": "3. הרמב\"ן מביא – בפרשו את דברי ר' יצחק הנ\"ל – את דברי ר' יהושע דסכנין בשם ר' לוי – ממדרש רבה. במה מסייעים דברי המדרש הזה להבנת קושיתו של ר' יצחק?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. הרמב\"ן מביא – בפרשו את דברי ר' יצחק הנ\"ל – את דברי ר' יהושע דסכנין בשם ר' לוי – ממדרש רבה. במה מסייעים דברי המדרש הזה להבנת קושייתו של ר' יצחק?",
+     "scan_fixes": [
+      {
+       "digitized": "קושייתו של ר' יצחק",
+       "scan": "קושיתו של ר' יצחק",
+       "class": "spelling"
+      },
+      {
+       "digitized": "קושייתו",
+       "scan": "קושיתו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 10,
+     "kind": "question",
+     "he": "4. כיצד מתרץ ר' יצחק את קושיתו (בתוך דברי רש\"י) וכיצד מעמיק ומרחיב הרמב\"ן את תרוצו זה?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. כיצד מתרץ ר' יצחק את קושייתו (בתוך דברי רש\"י), וכיצד מעמיק ומרחיב הרמב\"ן את תירוצו זה?",
+     "scan_fixes": [
+      {
+       "digitized": "את קושייתו (בתוך דברי רש\"י), וכיצד … את תירוצו זה?",
+       "scan": "את קושיתו (בתוך דברי רש\"י) וכיצד … את תרוצו זה?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "קושייתו … תירוצו",
+       "scan": "קושיתו … תרוצו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "5. לשם מה נעזר הרמב\"ן בדברים ב' כ\"ג?",
+     "scan_status": "DIFF",
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "Ramban on Gen 1:1 (Sefaria) cites «כפתרים היצאים מכפתור השמידם» as Deut 2:23; her «כ\"ב» is a typo the digitizers corrected"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. ג. ויאמר אלוקים יהי אור ויהי אור (\"ויאמר\" underlined; the letter \"ג.\" is typed twice)",
+   "header_digitized": "ג. כוונת \"ויאמר\" ביחס לה'",
+   "items": [
+    {
+     "i": 13,
+     "kind": "source",
+     "ref": "Genesis 1:3",
+     "he": "\"וַיֹּאמֶר אֱ-לֹהִים יְהִי אוֹר וַיְהִי אוֹר\"",
+     "en": "And God said: ‘Let there be light.’ And there was light.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 1:3:1",
+     "he": "ד\"ה ויאמר: אמר הגאון, כי פירוש \"ויאמר\" כמו וירצה, ואלו היה כך – היה ראוי \"להיות אור\".",
+     "en": "“And He said” – The Gaon said that the meaning of vayomer (“And He said”) is like “and He desired”. But if this was so, it would have been appropriate for there to have been light [from the beginning, without darkness]. Rather, it’s in accordance with its [plain] meaning. And thus, “By the word of G-d were the heavens made” Psalms 33:6, “for He commanded and they were created” Psalms 148:5, The meaning is: a way of referring to an effortless action, comparable to a king and his servants. Now this light was above the wind.",
+     "scan_status": "DIFF",
+     "digitized_he": "ד\"ה ויאמר: אמר הגאון, כי פירוש \"ויאמר\" כמו וירצה, ואילו היה כך – היה ראוי \"להיות אור\".",
+     "scan_fixes": [
+      {
+       "digitized": "ואילו היה כך",
+       "scan": "ואלו היה כך",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 15,
+     "kind": "source",
+     "ref": "Ramban on Genesis 1:3:1",
+     "he": "מלת \"אמירה\" בכאן להורות על החפץ כדרך (שמואל א' כ') \"מה תאמר נפשך ואעשה לך\" – מה תרצה ותחפץ וכן (בראשית כ\"ד נ\"א) \"ותהי אשה לבן אדוניך כאשר דבר ה'\" – כאשר רצה, כי כן הוא הרצון לפניו.",
+     "en": "And God said, \"let there be light:\" The word, saying, here is to indicate will; in the same way as (I Samuel 20:4) \"What does your soul say, and I will do it for you,\" [which means] what do you will and want; and so [too] (Genesis 24:51), \"and she shall be a wife to the son of your master, as God has said,\" meaning as He willed; since this is how will is in front of Him. Or [saying] is like thought, as per (Isaiah 47:8), \"who says in her heart;\" (Zechariah 12:5) \"And the captains of Yehuda said in their hearts.\" And the issue is to say that it was without effort. And so [too], our Rabbis called this 'thought.' They said (Bereishit Rabbah 12:14), \"The thought was at day, the act was with the dimming of the sun.\" And it is to indicate something thought out that has a reason, not just a simple want. And the word, being, indicates an act that is in the present time (tense), as per (Nechemiah 6:6), \"and you will be a king for them.\" And therefore the verse states that when He created the material of the heavens, He said that there would be a thing that shines [coming] from this material; He called it light. And there was light: It did not state, \"and it was so,\" as it is stated with the other days, since the light did not stand in this way all of the days, as [was the case] with the rest of the act of creation. And our rabbis have a midrash about this in a hidden secret. And know that the days that are mentioned in the act of creation were, in the creation of the heavens and the earth, real days - composed of hours and minutes - and they were six like the six days of the [week], like the simple understanding of the verse. And in the inner [understanding] of the matter, the spheres (sfirot) that are emanated from the Most High are called 'days,' since any proclamation that brings existence is called a 'day.' And there were six, 'because to the Lord is greatness and strength.' And the proclamations were ten, since the name 'day' does not apply to the first ones. And the explanation of the order of the verses in this [way] is elevated and hidden, and our knowledge of it is less than a drop in the Great Sea.",
+     "scan_status": "DIFF",
+     "digitized_he": "מילת \"אמירה\" בכאן להורות על החפץ כדרך (שמואל א' כ') \"מה תאמר נפשך ואעשה לך\" – מה תרצה ותחפץ וכן (בראשית כ\"ד נ\"א) \"ותהי אשה לבן אדוניך כאשר דבר ה'\" – כאשר רצה, כי כן הוא הרצון לפניו.",
+     "scan_fixes": [
+      {
+       "digitized": "מילת \"אמירה\"",
+       "scan": "מלת \"אמירה\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 16,
+     "kind": "text",
+     "he": "מורה נבוכים א' פרק ס\"ה (ההערות בסוגריים מפירושו של יהודה אבן שמואל):\n...ה\"דיבור\" ו\"האמונה\" מילה משותפת (בעלת הוראות שונות): נופלת על הדיבור בלשון כאמרו (שמות י\"ט י\"ט) \"משה ידבר\", (שמות ה' ה') \"ויאמר פרעה\", ונופלת על ענין המצויר בשכל מבלתי שידובר בו – אמר (קהלת ג'): \"ואמרתי אני בלבי\", \"ודברתי בלבי\" (בראשית כ\"ז מ\"א) \"ויאמר עשו בלבו\" – וזה הרבה; ותיפול על הרצון (שמואל ב', כ\"א ט\"ז) \"ויאמר להכות את דוד\" – כאילו אמר ורצה להרגו, כלומר חשב בלבו להרגו. \n(פירוש אבן שמואל: ההוראה השלישית של \"דיבור\" היא על הרצון, כלומר על ההשגה השואפת לפעולה) (שמות ג'): \"הלהרגני אתה אומר\" פירושו: התרצה להרגני. \nוכל \"אמירה ו\"דיבור\" שבאו מיוחסים לה' הם משני העניינים האחרונים – רצוני לומר: שהם אם כינוי על הרצון והחפץ (של האלוה) או כינוי על הענין המובן מאת ה'... \nואמנם הכינוי על הרצון והחפץ ב\"אמירה\" ו\"דיבור\"... כי לא יבין האדם בתחילת מחשבה (לפני העמיקו בדבר), איך יעשה הדבר, אשר ירצה הרוצה לעשותו, ברצון בלבד; (האדם אינו מבין כלל, כיצד אפשר שבעלות דבר מה ברצונו של רוצה אחד, יעשה הדבר ע\"י הרצון בלבד בלי צירוף מעשה: האדם יודע מנסיונו המצומצם שרצונו שלו אינו מחייב העשות הדברים שהוא רוצה בהם, אם לא שיעמול ויטרח בהם). אבל אי אפשר בתחילת הדעת מבלתי שיעשה הרוצה הדבר אשר ירצה להמציאו או יצוה לזולתו לעשותו, (לפי המחשבה השטחית אי אפשר כלל שברצות הרוצה להמציא איזה דבר יומצא הדבר בלי עשיה – מצד הרוצה, או מצד משהו זולתו שנצטוה לעשותו) ולזה (מכיון שיש רק שתי אפשרויות אלה) – הושאל לה' הציווי בהיות מה שרצה היותו, ונאמר שהוא ציוה שיהיה כך (יחסו לאלוקים את הציווי – \"אמירה\" ו\"דיבור\" בהוראת ציווי, בכל פעם שבאו לספר על התהוות מה שרצה האלוה בהתהוותו, ואמרו שאלוה ציוה שיתהווה דבר זה. למשל: \"ויאמר אלוקים יהי אור\" פרושו ציוה שיתהוה האור. ומובן שאין לחשוב על ציווי ממש ושאין כאן אלא השאלה מתוך דימוי למעשים שלנו, שאינם פרי רצון לבד, אלא פרי עשיה או ציווי של עשיה)... וכל מה שבא במעשה בראשית \"ויאמר, ויאמר\" עניינו: רצה או חפץ. \n...והמופת עליו שאלו ה\"מאמרות\" אמנם הם רצונים, לא מאמרים – כי מאמרי הציווי אמנם יהיו לנמצא יקבל הציווי ההוא. כן אמרו: (תהלים ל\"ג ו') \"בדבר ה' שמים נעשו וברוח פיו כל צבאם\" – כמו ש\"פיו\" ו\"רוח פיו\" – השאלה, כן \"דברו\" ו\"מאמרו\" – השאלה...",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "1. האם מסכימים רב סעדיה (שהובא בראב\"ע), הרמב\"ם והרמב\"ן כאן בפירושם של \"ויאמר\"?",
+     "scan_status": "DIFF",
+     "editorial_additions": [
+      {
+       "digitized": "רב סעדיה (שהובא בראב\"ע), הרמב\"ם והרמב\"ן כאן בפירושם",
+       "scan": "רב סעדיה הרמב\"ם והרמב\"ן כאן בפרושם"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "question",
+     "he": "2. מהי טענת הראב\"ע נגד רב סעדיה וכיצד אפשר להסיר תלונתו מעל פרוש רב סעדיה גאון?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מהי טענת הראב\"ע נגד רב סעדיה, וכיצד אפשר להסיר תלונתו מעל פירוש רב סעדיה גאון?",
+     "scan_fixes": [
+      {
+       "digitized": "נגד רב סעדיה, וכיצד … מעל פירוש רב סעדיה גאון",
+       "scan": "נגד רב סעדיה וכיצד … מעל פרוש רב סעדיה גאון",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פירוש רב סעדיה",
+       "scan": "פרוש רב סעדיה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "3. שני הפסוקים המובאים ברמב\"ן לראיה ש\"ויאמר\" בא בהוראת \"רצה\" אינם מובאים ברשימת פסוקי הרמב\"ם להוראה זו. התוכל לשער למה נמנע הרמב\"ם מהביא דוקא את אלה?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. שני הפסוקים המובאים ברמב\"ן לראיה ש\"ויאמר\" בא בהוראת \"רצה\" אינם מובאים ברשימת פסוקי הרמב\"ם להוראה זו. התוכל לשער למה נמנע הרמב\"ם מהביא דווקא את אלה?",
+     "scan_fixes": [
+      {
+       "digitized": "דווקא את אלה",
+       "scan": "דוקא את אלה",
+       "class": "spelling"
+      },
+      {
+       "digitized": "דווקא",
+       "scan": "דוקא",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "4. הסבר, מהי הוכחתו של הרמב\"ם ש\"ויאמר\" בפרקנו אינו ניתן להתפרש כ\"ויצו\"?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "5. הסבר למה שאלה התורה לפעולת רצון הבורא דוקא את פעל ה\"אמירה\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "5. הסבר, למה שאלה התורה לפעולת רצון הבורא דווקא את פעל ה\"אמירה\"?",
+     "scan_fixes": [
+      {
+       "digitized": "הסבר, למה … דווקא את פעל",
+       "scan": "הסבר למה … דוקא את פעל",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הסבר, למה … דווקא",
+       "scan": "הסבר למה … דוקא",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 22,
+     "kind": "question",
+     "he": "6. על סמך פסוקנו הוסיפו חז\"ל עוד כינוי לה'. איזהו? (כינוי: כגון – הבורא יתברך, הקב\"ה).",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "עוד כינוי לה'. איזהו? (כינוי: כגון – הבורא יתברך, הקב\"ה).",
+       "scan": "עוד כנוי לה'. איזהו? (כנוי: כגון - הבורא ית', הקבה\"ו[?]).",
+       "reason": "doubtful scan reading; digitization kept",
+       "class": "substantive"
+      },
+      {
+       "digitized": "כינוי … (כינוי: כגון – הבורא יתברך, הקב\"ה)",
+       "scan": "כנוי … (כנוי: כגון - הבורא ית', הקבה\"ו[?])",
+       "reason": "doubtful scan reading; digitization kept",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "7. פסוקנו – וכל הכרוך בו – הטביע חותמו על מקום אחד בתפילת שחרית. איזהו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. ד. יהי אור ויהי אור. (the letter \"ד.\" is typed twice)",
+   "header_digitized": "ד. \"ויהי אור\"",
+   "items": [
+    {
+     "i": 25,
+     "kind": "text",
+     "he": "פסוק ד'\n\"יְהִי אוֹר וַיְהִי אוֹר\"",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "למה נאמר רק ביום הראשון בלשון זו ולא נאמר כביום שני ושלישי ורביעי: \"ויהי כן\"?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§ב: [4]: the digitizer added a Rashi 1:1:2 ref whose displayed text repeats the section's lemma. It is not a source in the scan.",
+  "§ב: [5] and [6]: the scan gives a bare opening plus a stopping point. The full Rashi and Ramban texts are the digitizer's.",
+  "§ב: The difficulty marks (Q3 `xx`, Q4 `x`) are dropped.",
+  "§ג: The doubled section letter «ג. ג.» is not reproduced.",
+  "§ג: The difficulty marks are dropped: Q2 `xx`, Q3 `xx`, Q4 `xx` (overtyped), Q5 `xx`.",
+  "§ג: The Moreh credit line moved from the end to the top. The source label «רמב\"ם» is dropped.",
+  "§ד: The «פסוק ד'» label and its link to Genesis 1:4 are the digitizer's."
+ ],
+ "needs_human": []
+}

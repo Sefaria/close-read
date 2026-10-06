@@ -144,7 +144,11 @@ Highlighting reuses the word-group path: `TextEffects.highlight()` adds `.highli
 
 Layout uses the declared `width`/`height`, never the loaded image, so it doesn't wait on large files. The outline's `stroke-width` is divided by a `--zoom` custom property because `vector-effect: non-scaling-stroke` can't see a CSS transform on an ancestor.
 
-### 6. Source Color System
+### 6. Continuations
+
+A reading section with `titleCard: false` is a continuation. It has no title card, so its pinned panel scrolls up behind the previous one, and `pathToVisibleSet` shows it iff the section before it is visible. A leaf can therefore continue onto a manuscript page and back to the verse, and all of it travels with the leaf's branch.
+
+### 7. Source Color System
 
 Commentary cards display a source badge whose color is determined by CSS attribute selectors on `data-source`. The mapping is in CSS, not JS:
 

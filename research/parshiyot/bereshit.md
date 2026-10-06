@@ -4,8 +4,8 @@
 > Close Read must trace back to an entry here, and every entry here traces back to a
 > raw file and a sheet index. If you can't cite it, don't ship it.
 
-**Status:** Stage 1 (Survey) complete. Stage 2 (design) **decided 2026-10-06 (§7a)**; Stage 3
-(scan check + harvest) is next. Nothing is harvested or drafted beyond the 1963 demo (§5b).
+**Status (2026-10-06):** all five stages complete. The garden is `data/bereshit.json` (§10).
+The scan checks and triage are in §8, and the leaf paper trails in `bereshit-leaves/`.
 
 ---
 
@@ -295,7 +295,7 @@ fold it into the garden or delete it. Everything attributed to Nechama comes fro
 |---|---|
 | Section title "שאלת מבנה" | the scan's header (not the digitized one; see §2.4) |
 | Intro: range 1:31–2:3 | the scan's heading `א' ל"א ב' א-ג` |
-| Benno Jacob commentary | `160726[2]`, first sentence, checked word by word against the scan. Where they differ the scan wins: it spells `בפרושו`, the digitization `בפירושו`. Punctuation (`ב'`, `"ויכולו"`) as in the source. English is our translation (recorded here; the card no longer labels it, per Lev 2026-10-06) |
+| Benno Jacob commentary | `160726[2]`, first sentence, checked word by word against the scan. Where they differ the scan wins: it spells `בפרושו` (digitization `בפירושו`) and `הפותח` (digitization `הפותחת`). The second I missed in my own check; the Stage 3 scan checker caught it (`bereshit-scancheck/160726-1963.md`), and I confirmed it on a zoomed crop. Punctuation (`ב'`, `"ויכולו"`) as in the source. English is our translation (recorded here; the card no longer labels it, per Lev 2026-10-06) |
 | Question | `160726[2]`, second sentence, verbatim. English is ours |
 | Codex narration (folio 1v: 2 cards, folio 2r: 3 cards) | our addition; the codex isn't in her sheet (the card no longer says so, per Lev). Only what's visible on the folios and matches WLC (§5a) |
 
@@ -439,3 +439,185 @@ of the narration (§5b).
 2. Merge or split Theme 5 (5 or 6 themes)?
 3. All four Leningrad moments, or only the ones where the layout is the evidence (1963, 1969)?
 4. Transcribe 1943 from the scan so it can be a leaf or sibling? It's referenced by 1944, 1945, 1955 and 1963.
+
+## 8. Stage 3: scan check and harvest (2026-10-06)
+
+**3a. Scan checks.** All 15 leaves are checked against their scans, in
+[`bereshit-scancheck/`](bereshit-scancheck/), one file per sheet, using the method and format in
+its README. It's a verification, not a transcription: the digitization is an independent
+reading, so agreement is evidence and disagreement is flagged. Five checker agents read every
+page at 300 dpi (most scans are two pages, which the Stage 1 checks missed). I spot-checked one
+finding per agent against the scan, or against an independent text, and all five held:
+1952 §א's lost Q4, 1963 `הפותח`, 1944 `[4]`/`[10]`, 1950 `הראשון`, and 1958 `אומנותו`
+(confirmed in Sefaria's own Ramban edition).
+
+**What the scans show, across all 14:**
+- **Headers.** Nearly every section header in the digitization is the digitizer's. Hers are a
+  verse pointer plus the verse's words.
+- **Spelling.** Her spelling (defective forms, abbreviations like פ', ע', ית') was normalized.
+- **Marks.** Her ×/×× and + difficulty marks and her footers (send answers to…) are dropped.
+- **Real losses:** a question (1952 §א Q4, 1956 §ב), two prose passages (1953 §ד), her
+  start and stop points in pointer lists (1942 §ז).
+- **Word changes:** 1950 "האחרון"→"הראשון", 1956 "לו"→"לא", 1958 "אמונתו"→"אומנותו",
+  1965 Psalms 104:25 vs 104:28.
+- **Not hers:** 1944's "ענה לשאלתם!" is not in the scan, so it's excluded.
+- **Editorial additions (Lev, 2026-10-06):** where the digitizers *added* citation detail, it's
+  a purposeful editorial service, not an error. Examples: "בראשית רבה **פרשה י"ט**", "**פרק**
+  כ"א **פסוק** י"ט", "(תרגום מגרמנית)", 1954's "(שהובא בראב"ע)". Their richer citation is kept,
+  recorded as `editorial_additions`, and not sent for review. A *changed* citation (1954's
+  verse כ"ב→כ"ג, 1965's 104:28→25) is still substantive.
+- **Digitizer slips** inside quoted sources, e.g. 1964's Malbim lost a clause.
+
+**3b. Harvest.** `research/scripts/harvest_bereshit.py` writes
+[`bereshit-harvest/<theme>/<year>.json`](bereshit-harvest/) from the digitization, the scan
+checks, `bereshit-scancheck/overrides.json` (the 5 lost items, each cited), and the 1943
+transcription. Each item records its basis: digitization, scan, scan-only or transcription.
+Each scan fix is classed:
+- **editorial:** the digitizers added citation detail; theirs is kept;
+- **spelling:** applied automatically;
+- **corroborated:** a doubtful letter, but the digitization's reading fits;
+- **substantive:** listed for a person in the generated
+  [`bereshit-scancheck/REVIEW.md`](bereshit-scancheck/REVIEW.md).
+
+**Triage (Claude, 2026-10-06), asked "are all of these relevant to what we publish?"** No.
+The 86 substantive lines were 64 distinct items. Each is now decided in
+[`bereshit-scancheck/triage.json`](bereshit-scancheck/triage.json), with its evidence:
+- **41 form:** same meaning in another form (word form, grammar, punctuation, word order).
+  Her words from the scan are used.
+- **8 settled from the scan:** read by Claude zoomed, e.g. 1950 "הראשון", 1956 "למה לא"; or
+  confirmed by the cited source, e.g. Shadal cites Ps 104:28 and Ramban 2:20 cites Gen 4:23.
+- **4 digitizer corrections:** her typos fixed, e.g. Ramban cites Deut 2:23, not her 2:22, and
+  the German line is Mendelssohn's, so "רמבמ"ן" is right. The digitized text is kept, with her
+  reading noted.
+- **3 spelling or editorial.**
+- **7 not published:** cross-references to other sheets and the teacher's guide, labels, a
+  grammatical aside, and the digitizer's "ענה לשאלתם!".
+- **2 open:** 1958 §ב's verse list and 1950 §ב's Ibn Ezra start point. Both get settled from
+  the cited texts when those leaves are drafted.
+
+**Nothing is left for Lev to review.**
+
+Verse texts for Gen 1:1–6:8 are cached in `bereshit-verses.json` (`fetch_verses.py`): MAM
+Hebrew plus the JPS gender-sensitive English, with leaked footnotes removed and the divine name
+rendered "the Lord" (the Nasso convention, recorded in its meta).
+
+**Rule for drafting:** a line of her words is quotable only if its basis is digitization or
+spelling-class, or its REVIEW line has been checked by a person. Items marked `exclude` are not
+hers.
+
+## 9. Stage 4: the 1963 leaf (2026-10-06, for Lev's review)
+
+Built by `research/scripts/build_bereshit.py` → `data/bereshit-chapter-break.json` (same slug
+as the demo, which it replaces; the slug goes when the garden is assembled). Her Hebrew is never
+typed: every commentary and question card slices a harvest item verbatim, and
+`tests/test_provenance.py` re-checks each one. That test is proven to fail when four words are
+appended to a question or when our English is relabeled as Sefaria's.
+
+**What's rendered, and what's left out (gilayon 160726):**
+- **Sections:** א, ג, ד, ה. ב (Abarbanel: why no "כי טוב" for man) is out, per the §7 design.
+- **Her questions omitted** (omitted, never altered):
+  - §ג Q4, on how Ecclesiastes 4 helps the second midrash;
+  - §ה Q4, which rests on the Akeidat Yitzhak, a source not on her sheet;
+  - §ה Q7, the verse list, for density.
+- **Order:** her sources keep her order. In §ה her questions stand together at the end; here
+  each follows the source it asks about. Her Q1 ("what is the question they deal with?") closes
+  the section. The narration deliberately doesn't name the puzzle, because her Q1 asks the
+  student to.
+- **No sheet narration (Lev, 2026-10-06):** the reader experiences the content, not her sheet.
+  Narration only points at the verse or the page. Section titles are content titles ("Where
+  Does Chapter 2 Begin?"), not her structural headers. Everything about how her sheet is built
+  stays here in the pack.
+- **Slices:** question א is the tail of item [2] (from "הסבר, למה"); the Jacob quote is its
+  head. §ג Q1 stops before "(עיין גם עלון ההדרכה!)", a pointer to the teacher's guide. In
+  §ה, the Bereshit Rabbah card starts after her label "בראשית רבה:".
+- **Editorial gloss:** the English of question א carries a bracket, "[the chapter beginning
+  at 2:1, with 'Va-yekhullu']" (Lev, 2026-10-06). Her Hebrew is unchanged.
+- **Ralbag:** her underline («ולא נשלם הטוב… שלפני התכלית») is reproduced in Hebrew and English,
+  since her §ד Q1 asks about "the underlined words" (scan check `160726-1963.md`).
+- **Translation choices:** אתמהא → "Astonishing!"; "רבי שאליה" → "Rabbi asked". Labels give
+  names only: Maharzu and Matnot Kehunah are labeled as commentaries on the midrash; Efodi as
+  "R. Yitzhak Profiat Duran, Ma'aseh Efod", her own attribution.
+- **English basis:** all ours. Rashi's Sefaria English was rejected because it translates the
+  canonical comment ("R. Simeon says…"), not her abridged quote.
+
+**Every card → harvest item:**
+
+| Card | Type | Harvest [i] | English |
+|---|---|---|---|
+| `cr-1963-intro` | narration | — | — |
+| `cr-1963-jacob` | commentary · Benno Jacob | [2] | ours |
+| `cr-1963-codex` | narration | — | — |
+| `cr-1963-days` | narration | — | — |
+| `cr-1963-2r-intro` | narration | — | — |
+| `cr-1963-day-6` | narration | — | — |
+| `cr-1963-seventh` | narration | — | — |
+| `cr-1963-q-a` | question | [2] | ours |
+| `cr-1963-g-intro` | narration | — | — |
+| `cr-1963-br-9-5` | commentary · Bereshit Rabbah | [9] | ours |
+| `cr-1963-br-9-7` | commentary · Bereshit Rabbah | [10] | ours |
+| `cr-1963-maharzu` | commentary · Maharzu, on the midrash | [12] | ours |
+| `cr-1963-matnot` | commentary · Matnot Kehunah, on the midrash | [13] | ours |
+| `cr-1963-q-g1` | question | [14] | ours |
+| `cr-1963-q-g2` | question | [15] | ours |
+| `cr-1963-q-g3` | question | [16] | ours |
+| `cr-1963-ralbag` | commentary · Ralbag | [20] | ours |
+| `cr-1963-q-d1` | question | [21] | ours |
+| `cr-1963-q-d2` | question | [22] | ours |
+| `cr-1963-h-intro` | narration | — | — |
+| `cr-1963-br-10-9` | commentary · Bereshit Rabbah | [25] | ours |
+| `cr-1963-q-h2` | question | [31] | ours |
+| `cr-1963-q-h3` | question | [32] | ours |
+| `cr-1963-rashi` | commentary · Rashi | [26] | ours |
+| `cr-1963-q-h5` | question | [34] | ours |
+| `cr-1963-efodi` | commentary · R. Yitzhak Profiat Duran, Ma’aseh Efod | [27] | ours |
+| `cr-1963-ibn-ezra` | commentary · Ibn Ezra | [28] | ours |
+| `cr-1963-q-h6` | question | [35] | ours |
+| `cr-1963-r-avraham` | commentary · R. Avraham ben HaRambam | [29] | ours |
+| `cr-1963-q-h1` | question | [30] | ours |
+
+## 10. Stage 4: the garden (2026-10-06)
+
+`data/bereshit.json`, assembled by `research/scripts/build_bereshit.py`:
+- an overview, then a fork with 5 themes, each theme with an intro and a fork of 3 years;
+- 15 leaves, 54 sections, 446 steps;
+- the demo slug `bereshit-chapter-break` retired; its content is the 1963 leaf.
+
+Leaves are in `research/scripts/bereshit_leaves/<theme>.py`. Each leaf's paper trail (cards →
+harvest items, slices and start/stop points, omitted questions and why, translation choices) is
+in [`bereshit-leaves/`](bereshit-leaves/): `creation.md`, `garden.md`, `sin.md`, `cain.md`,
+`flood.md`. The drafting rules are in `bereshit-leaves/BRIEF.md`.
+
+**Decisions made during drafting** (each recorded with its evidence in triage.json or the theme
+trail):
+- **1964 §ד was dropped** (the sheet's editor wrote it, not Nechama), and §ב is rendered
+  instead, after its own scan check.
+- **1968 [8] (Moreh 1:24) was re-triaged to publishable.** It had been misfiled as a
+  verse-reference label.
+- **1953 [46] was re-triaged to spelling.** A mis-paired checker fragment had garbled it.
+- **1958 [20], her comparison verses, keeps the digitized text.** She misquotes 2 Kings 2:14
+  and Jer 2:28, and the digitizers corrected the quotes.
+- **1950 [23], her Ibn Ezra pointer, is on 4:23.** Her start phrase occurs once in the
+  chapter, so the verse number is כ"ג.
+- **Her slips in references** are translated as written, with the right reference in
+  brackets: 1943 Judges 13:9 (the card is omitted), 1965 Isaiah and Hosea in Bereshit Rabbah
+  16:5, 1971 Psalms 78→82, 1956 Job and 1 Samuel. The 1954 Moreh's «האמונה» (Ibn Tibbon has
+  «האמירה») is translated as written and flagged.
+
+**Harvest fixes found by drafting** (all in `harvest_bereshit.py`):
+- a doubtful scan reading no longer writes `[?]` into her text; a doubtful letter is
+  corroborated by the digitization's word when they agree;
+- fragment fixes apply only on an exact, unique match, and word-level fixes only where
+  triage says the scan wins (an earlier normalized fallback mangled items);
+- inline tags no longer split words;
+- scan-only items have explicit keys;
+- the 1943 transcription items have keys;
+- the checkers' " / " line-break marks are removed.
+
+The verse cache now strips MAM's variant notes (4:13, 5:1).
+
+**Open for Lev:**
+1. **1950:** her Ibn Ezra pointer has no stop. Item [25] continues the same comment but isn't
+   in her scan and no question names it, so it isn't quoted. Should it run on?
+2. **1942 [52]:** a faded word, «לפשוטו»; the digitized reading is used.
+3. **1964 «לעונשים»:** the Akeidah on Sefaria (Pressburg) reads «לאנשים», and the English
+   follows it.

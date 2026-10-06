@@ -1,0 +1,454 @@
+{
+ "sheet_id": 161438,
+ "year_g": "1950",
+ "year_he": "תש\"י",
+ "theme": "flood",
+ "title": "פרשת בראשית תש\"י - בני קין",
+ "sefaria_url": "https://www.sefaria.org/sheets/161438",
+ "pdf_url": "https://www.nechama.org.il/pdf/787.pdf",
+ "scancheck": "bereshit-scancheck/161438-1950.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. שאלות ודיוקים ברש\"י:",
+   "header_digitized": "א. שאלות ודיוקים ברש\"י",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:17:1",
+     "he": "ד\"ה ויהי בונה עיר: קין בונה עיר ויקרא שם העיר לזכר בנו חנוך.",
+     "en": "ויהי AND HE WAS— Cain was, not Enoch — בונה עיר BUILDING A CITY ויקרא שם העיר AND HE CALLED THE NAME OF THE CITY (named the city) as a memorial of his son — חנוך.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 2,
+     "kind": "question",
+     "he": "מה קשה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:20:1",
+     "he": "ד\"ה אבי כל יושב אוהל ומקנה: הוא היה הראשון לרועי בהמות במדברות ויושב אהלים חדש כאן וחדש כאן בשביל מרעה צאנו וכשכלה המרעה במקום זה הולך ותוקע אהלו במקום אחר ומדרש אגדה בונה בתים לעבודת כוכבים כמה דאת אמר (יחזקאל ח) סמל הקנאה המקנה וכן ואחיו תופש כנור ועוגב לזמר לעבודת כוכבים.",
+     "en": "אבי יושב אהל ומקנה THE FATHER OF SUCH AS ABIDE IN TENTS AND OF SUCH THAT HAVE CATTLE — He was the first of those who pastured cattle, and he dwelt in tents, a month here and a month there, on account of the pasture necessary for his sheep; for when the grass was finished in one place he went away and pitched his tent in another place. There is a Midrashic statement (Genesis Rabbah 23:3) that he built temples for idol worship, (for ומקנה may be read ומקנה –– provoking jealousy), just as you say, (Ezekiel 8:3) \"the image of jealousy which provoketh God to jealousy\" (המקנה); similarly his brother handled the harp and guitar to make music for idol worship.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "question",
+     "he": "א.  מה קשה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "question",
+     "he": "ב.  לשם מה הפך מלת \"אהל\" שבפ' ללשון רבים \"אהלים\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "ב.  לשם מה הפך מילת \"אוהל\" שבפסוק ללשון רבים \"אהלים\"?",
+     "scan_fixes": [
+      {
+       "digitized": "לשם מה הפך מילת \"אוהל\" שבפסוק ללשון רבים \"אהלים\"?",
+       "scan": "לשם מה הפך מלת \"אהל\" שבפ' ללשון רבים \"אהלים\"?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "מילת \"אוהל\" שבפסוק",
+       "scan": "מלת \"אהל\" שבפ'",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "ג.  לשם מה לא הסתפק בפרושו הראשון והוסיף עליו עוד מדרש אגדה?",
+     "scan_status": "DIFF",
+     "digitized_he": "ג.  לשם מה לא הסתפק בפירושו האחרון והוסיף עליו עוד מדרש אגדה?",
+     "scan_fixes": [
+      {
+       "digitized": "לשם מה לא הסתפק בפירושו האחרון והוסיף עליו עוד מדרש אגדה?",
+       "scan": "לשם מה לא הסתפק בפרושו הראשון והוסיף עליו עוד מדרש אגדה?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בפירושו האחרון",
+       "scan": "בפרושו הראשון",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "Claude read the scan zoomed: «בפרושו הראשון»"
+     }
+    },
+    {
+     "i": 7,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:23:1",
+     "he": "ד\"ה שמען קולי: שהיו נשיו פורשות ממנו מתשמיש לפי שהרג את קין ואת תובל קין בנו שהיה למך סומא ותובל קין מושכו וראה את קין ונדמה לו כחיה ואמר לאביו למשוך בקשת והרגו וכיון שידע שהוא קין זקנו הכה כף אל כף וספק את בנו ביניהם והרגו והיו נשיו פורשות ממנו והוא מפייסן.",
+     "en": "שמען קולי HEAR MY VOICE — For his wives separated from him because he had killed Cain and Tubal-Cain, his own son. Lamech was blind and Tubal-Cain used to lead him. The latter saw Cain and thought him to be an animal. He therefore told his father to draw the bow, and thus Lamech killed him. As soon as he learned that it was his forefather Cain, he smote his hands together, struck his son between them and so killed him too. His wives thereupon separated from him, and he endeavoured to appease them,",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:23:2",
+     "he": "ד\"ה שמען קולי: להשמע לי לתשמיש וכי איש אשר הרגתי לפצעי הוא נהרג וכי אני פצעתיו מזיד שיהא הפצע קרוי על שמי וילד אשר הרגתי לחבורתי נהרג כלומר ע\"י חבורתי בתמיה והלא שוגג אני ולא מזיד לא זהו פצעי ולא זהו חבורתי.",
+     "en": "saying שמען קולי “Hear my voice”— obey me and return to me: for the man I slew — was he slain by my wounding? i. e. did I wound him with premeditation, that the wound should be called by my name (i. e. attributed to me); and the child that I slew — was it slain by my blow? (i. e. by a blow directed intentionally by me?) [Rashi here inserts the word בתמיה which he uses frequently to direct that the preceding words should be read as a question.] Did I not act inadvertently and not with premeditation? This was not my wound, nor was this my blow!",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:23:3",
+     "he": "ד\"ה פצע: מכת חרב או חץ מקאדור\"ה בלע\"ז.",
+     "en": "פצע wound, is the stroke inflicted by a sword or arrow (old French macheure).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:24:1",
+     "he": "ד\"ה כי שבעתים יוקם קין: קין שהרג מזיד נתלה לו עד ז' דורות אני שהרגתי שוגג לא כ\"ש שיתלה לי שביעיות הרבה.",
+     "en": "כי שבעתים יקם קין IF CAIN SHALL BE AVENGED SEVENFOLD — (according to Rashi, as previously explained, it signifies “If vengeance shall be taken on Cain after seven generations”). If in the case of Cain who killed with premeditation the punishment was suspended for him until the seventh generation, in the case of myself who slew inadvertently does it not necessarily follow that it should be suspended for me until many seven generations?",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:24:2",
+     "he": "ד\"ה שבעים ושבעה: לשון רבוי שביעיות אחז לו כך דרש רבי תנחומא, ומדרש בראשית רבה לא הרג למך כלום ונשיו פורשות ממנו משקיימו פריה ורביה לפי שנגזרה גזירה לכלות זרעו של קין לאחר שבעה דורות אמרו מה אנו יולדות לבהלה למחר המבול בא ושוטף את הכל והוא אומר להן וכי איש הרגתי לפצעי וכי אני הרגתי את הבל שהיה איש בקומה וילד בשנים שיהא זרעי כלה באותו עון ומה קין שהרג נתלה לו שבעה דורות אני שלא הרגתי לא כ\"ש שיתלו לי שביעיות הרבה וזה ק\"ו של שטות א\"כ אין הקב\"ה גובה את חובו ומקיים את דברו.",
+     "en": "שבעים ושבעה SEVENTY AND SEVEN — He uses a term that denotes many periods of seven generations. Thus did R. Tanchuma 1:1:11 explain this passage; but the Midrash Rabbah (Genesis Rabbah 23:4) does not mention that Lamech slew anyone at all, and only states that his wives had lived apart from him after they had born children, because God’s decree had been issued that Cain’s descendants should be exterminated after seven generations. They said, “Why should we bear children only to be destroyed? Soon the Flood will come and will sweep everyone away!” Lamech then said unto them, “Did ‘I’ slay a man ‘לפצע for my wounding” (i.e. that I should be wounded — punished)? Did “I” slay Abel who was a man in height but a child in years, that my descendants should be exterminated on account of this sin (the sin of Cain who killed Abel)? If Cain who did kill had his punishment suspended until the seventh generation, I who have not killed — does it not necessarily follow that my punishment) should be suspended for many seven generations? This, however, is an absurd argument a fortiori, for if so, the Holy One, blessed be He, could never exact his debt nor fulfil his word.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "א.  במה שוים שני הפרושים ובמה הם שונים זמ\"ז עקרונית?",
+     "scan_status": "DIFF",
+     "digitized_he": "א.  במה שווים שני הפירושים ובמה הם שונים זה מזה עקרונית?",
+     "scan_fixes": [
+      {
+       "digitized": "במה שווים שני הפירושים ובמה הם שונים זה מזה עקרונית?",
+       "scan": "במה שוים שני הפרושים ובמה הם שונים זמ\"ז עקרונית?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "שווים … הפירושים … זה מזה",
+       "scan": "שוים … הפרושים … זמ\"ז",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 13,
+     "kind": "text",
+     "he": "ב.  כידוע אין רש\"י מביא שני פירושים לפסוק אחד אלא אם כן לא נחה דעתו לגמרי בכל אחד לבדו. הסבר מה חולשת כל אחד משניהם. (השווה שאלה זו גיליון תולדות תש\"ד ב').",
+     "scan_status": "DIFF",
+     "basis": "digitization",
+     "triage": {
+      "use": "not-published",
+      "why": "cross-reference to another gilayon"
+     },
+     "publish": false
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. כ\"ג - כ\"ד",
+   "header_digitized": "ב. התנצלות או התפארות?",
+   "items": [
+    {
+     "i": 15,
+     "kind": "source",
+     "ref": "Genesis 4:23",
+     "he": "\"וַיֹּאמֶר לֶמֶךְ לְנָשָׁיו עָדָה וְצִלָּה שְׁמַעַן קוֹלִי נְשֵׁי לֶמֶךְ הַאְזֵנָּה אִמְרָתִי כִּי אִישׁ הָרַגְתִּי לְפִצְעִי וְיֶלֶד לְחַבֻּרָתִי כִּי שִׁבְעָתַיִם יֻקַּם קָיִן וְלֶמֶךְ שִׁבְעִים וְשִׁבְעָה\"",
+     "en": "And Lamech said unto his wives: Adah and Zillah, hear my voice; Ye wives of Lamech, hearken unto my speech; For I have slain a man for wounding me, And a young man for bruising me;",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "text",
+     "he": "נחלקו המפרשים בכונת שיר זה, אם הם דברי התנצלות של למך או דברי התפארות.",
+     "scan_status": "DIFF",
+     "digitized_he": "נחלקו המפרשים בכוונת שיר זה, אם הם דברי התנצלות של למך או דברי התפארות.",
+     "scan_fixes": [
+      {
+       "digitized": "נחלקו המפרשים בכוונת שיר זה…",
+       "scan": "נחלקו המפרשים בכונת שיר זה…",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בכוונת",
+       "scan": "בכונת",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 17,
+     "kind": "text",
+     "he": "עיין בדברי המפרשים האלה וסדרם לקבוצות:",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "text",
+     "he": "רב סעדיה גאון, ספר הגלוי קע\"ד:\n... הכוונה בזה לאחד משני דברים תשובת למך מחטאיו למען נשוב מחטאינו, \"כאשר נפרש \"כי איש הרגתי\" בהחלט (=בחיוב), נאמר: אם ייהרג ההורג את קין, יוקח ממנו נקמה גדולה – אף כי קין בעצמו הרג – ולמך שהרג איש וילד, מכל שכן שייקחו ממנו נקמה בעבורם יותר ויותר, ובייחוד מפני שהילד אין לו חטא כלל... ואם נתרגם \"כי איש הרגתי\" בשלילה, אזי נאמר: אם קין שהרג נפש, ינקם הרבה מרוצחו מפני שעשה תשובה, למך שלא הרג לא איש ולא ילד הוא הלא יותר ויותר יוקם ממי שירצחוהו.",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "רב סעדיה גאון, ספר הגלוי קע\"ד:",
+       "scan": "רב סעדיא[?] גאון ספר הגלוי קע\"ד:",
+       "reason": "doubtful scan reading; digitization kept",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "form",
+      "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+     }
+    },
+    {
+     "i": 19,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:23:1",
+     "he": "ד\"ה שמען קולי: שהיו נשיו פורשות ממנו מתשמיש לפי שהרג את קין ואת תובל קין בנו שהיה למך סומא ותובל קין מושכו וראה את קין ונדמה לו כחיה ואמר לאביו למשוך בקשת והרגו וכיון שידע שהוא קין זקנו הכה כף אל כף וספק את בנו ביניהם והרגו והיו נשיו פורשות ממנו והוא מפייסן.",
+     "en": "שמען קולי HEAR MY VOICE — For his wives separated from him because he had killed Cain and Tubal-Cain, his own son. Lamech was blind and Tubal-Cain used to lead him. The latter saw Cain and thought him to be an animal. He therefore told his father to draw the bow, and thus Lamech killed him. As soon as he learned that it was his forefather Cain, he smote his hands together, struck his son between them and so killed him too. His wives thereupon separated from him, and he endeavoured to appease them,",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:23:2",
+     "he": "ד\"ה שמען קולי: להשמע לי לתשמיש וכי איש אשר הרגתי לפצעי הוא נהרג וכי אני פצעתיו מזיד שיהא הפצע קרוי על שמי וילד אשר הרגתי לחבורתי נהרג כלומר ע\"י חבורתי בתמיה והלא שוגג אני ולא מזיד לא זהו פצעי ולא זהו חבורתי .",
+     "en": "saying שמען קולי “Hear my voice”— obey me and return to me: for the man I slew — was he slain by my wounding? i. e. did I wound him with premeditation, that the wound should be called by my name (i. e. attributed to me); and the child that I slew — was it slain by my blow? (i. e. by a blow directed intentionally by me?) [Rashi here inserts the word בתמיה which he uses frequently to direct that the preceding words should be read as a question.] Did I not act inadvertently and not with premeditation? This was not my wound, nor was this my blow!",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:24:2",
+     "he": "ד\"ה שבעים ושבעה: לשון רבוי שביעיות אחז לו כך דרש רבי תנחומא.",
+     "en": "שבעים ושבעה SEVENTY AND SEVEN — He uses a term that denotes many periods of seven generations. Thus did R. Tanchuma 1:1:11 explain this passage; but the Midrash Rabbah (Genesis Rabbah 23:4) does not mention that Lamech slew anyone at all, and only states that his wives had lived apart from him after they had born children, because God’s decree had been issued that Cain’s descendants should be exterminated after seven generations. They said, “Why should we bear children only to be destroyed? Soon the Flood will come and will sweep everyone away!” Lamech then said unto them, “Did ‘I’ slay a man ‘לפצע for my wounding” (i.e. that I should be wounded — punished)? Did “I” slay Abel who was a man in height but a child in years, that my descendants should be exterminated on account of this sin (the sin of Cain who killed Abel)? If Cain who did kill had his punishment suspended until the seventh generation, I who have not killed — does it not necessarily follow that my punishment) should be suspended for many seven generations? This, however, is an absurd argument a fortiori, for if so, the Holy One, blessed be He, could never exact his debt nor fulfil his word.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:24:2",
+     "he": "ד\"ה כי שבעתיים: ומדרש בראשית רבה לא הרג למך כלום ונשיו פורשות ממנו משקיימו פריה ורביה לפי שנגזרה גזירה לכלות זרעו של קין לאחר שבעה דורות אמרו מה אנו יולדות לבהלה למחר המבול בא ושוטף את הכל והוא אומר להן וכי איש הרגתי לפצעי וכי אני הרגתי את הבל שהיה איש בקומה וילד בשנים שיהא זרעי כלה באותו עון ומה קין שהרג נתלה לו שבעה דורות אני שלא הרגתי לא כ\"ש שיתלו לי שביעיות הרבה וזה ק\"ו של שטות א\"כ אין הקב\"ה גובה את חובו ומקיים את דברו.",
+     "en": "שבעים ושבעה SEVENTY AND SEVEN — He uses a term that denotes many periods of seven generations. Thus did R. Tanchuma 1:1:11 explain this passage; but the Midrash Rabbah (Genesis Rabbah 23:4) does not mention that Lamech slew anyone at all, and only states that his wives had lived apart from him after they had born children, because God’s decree had been issued that Cain’s descendants should be exterminated after seven generations. They said, “Why should we bear children only to be destroyed? Soon the Flood will come and will sweep everyone away!” Lamech then said unto them, “Did ‘I’ slay a man ‘לפצע for my wounding” (i.e. that I should be wounded — punished)? Did “I” slay Abel who was a man in height but a child in years, that my descendants should be exterminated on account of this sin (the sin of Cain who killed Abel)? If Cain who did kill had his punishment suspended until the seventh generation, I who have not killed — does it not necessarily follow that my punishment) should be suspended for many seven generations? This, however, is an absurd argument a fortiori, for if so, the Holy One, blessed be He, could never exact his debt nor fulfil his word.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "text",
+     "he": "ראב\"ע, פסוק כ\"א:",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "ראב\"ע, פסוק כ\"א:",
+       "scan": "ראב\"ע כ\"[?] החל מן \"והטעם כאשר אמרו חכמינו\".",
+       "reason": "doubtful scan reading; digitization kept",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "scan",
+      "why": "settled by the flood drafter: her start phrase «והטעם כאשר אמרו חכמינו» occurs once in Sefaria's Ibn Ezra on Genesis 4 (Piotrkow, with חז\"ל for חכמינו), in the comment on 4:23; the unreadable verse number is כ\"ג and the digitizer's «כ\"א» a misreading. Item [23] is a label; the Ibn Ezra is quoted from [24] at her start phrase"
+     }
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 4:23:1",
+     "he": "...והטעם כאשר אמרו חכמינו: כי עדה וצלה נמנעו כי פחדו להוליד בנים בעבור שיהיו שבועיים לקין ויהרגו או ימותו ועל כן אמר למך לנשיו אני הוא באמת השביעי ואם יפצעני אדם שהוא גדול או ילד יעשה לי חבורה אז הרגתיו. ומלת הרגתי. תמורת אהרוג. וכמוהו: \"נתתי כסף השדה\", \"אשר לקחתי מיד האמורי\", ורבים כמוהם.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 4:24:1",
+     "he": "ואם עד שבעתים יקם קין למך עד שבעים ושבעה - בעבור שהוא הרג בזדון ואני לא הרגתי. והטעם שאמר לנשיו, כי כבר בטלה הגזרה על קין ובאמת, כי בני למך וכל זרעו מתו במבול ולא נשאר לקין שם מחמס אחיו.",
+     "en": "",
+     "scan_status": "NOT-IN-SCAN",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "source",
+     "ref": "Ramban on Genesis 4:23:1",
+     "he": "ד\"ה ויאמר למך לנשיו: ...אבל ענין למך עם נשיו לא הזכירו הכתוב בביאור. ונוכל לומר גם כן שהיו יראות מעונש שלא יהרג למך בעון אביו, כי השם לא אמר לקין סלחתי לך, רק שלא יהרג, אבל יגבה חובו מזרעו, ולא ידעו מתי. וכן היה הדבר. ולמך נחם אותן לאמר, כי השם ירחם עליו כאשר רחם על קין, כי הוא נקי כפים ממנו, ויתפלל לפניו גם הוא וישמע תפלתו...",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 27,
+     "kind": "source",
+     "ref": "Ramban on Genesis 4:23:1",
+     "he": "ד\"ה ויאמר למך לנשיו: ...אבל הנראה בעיני, כי היה למך איש חכם מאד בכל מלאכת מחשבת, ולמד לבנו הבכור ענין המרעה כפי טבעי הבהמות, ולמד את השני חכמת הנגון, ולמד את השלישי ללטוש ולעשות חרבות ורמחים וחניתות וכל כלי המלחמה. והיו נשיו מתפחדות שלא יענש, כי הביא החרב והרציחה בעולם, והנה הוא תופש מעשה אבותיו בידו, כי הוא בן המרצח הראשון, וברא משחית לחבל. והוא אמר להן אני לא הרגתי איש לפצעים ולא ילד לחבורות כאשר עשה קין, ולא יענישני השם, אבל ישמרני מן ההריגה יותר ממנו. והזכיר כן לומר, כי לא בחרב וחנית יכול אדם להרוג בפצעים וחבורות, שימית במיתה רעה יותר מן החרב, ואין החרב גורם הרציחה, ואין על העושו חטא.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 28,
+     "kind": "source",
+     "ref": "Ralbag on Torah, Genesis 4:1:4",
+     "he": "... מה שאמר למך לנשיו, להורות על מיעוט פחדו מעונש ה' ושהוא לא היה משתדל לשוב אל ה' בכל כוחו, כדי שיסור חרון אף ה' מעליו, כי בלי ספק אם היה עושה כן, היה נמלט מהרע הנגזר לבוא עליו, כי חנון ה' ונחם על הרעה, וכבר העידה התורה במאמר כולל כי בכל דור המבול היו משחיתים דרכם ולא היה נמצא אז צדיק זולת נח...",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 29,
+     "kind": "source",
+     "ref": "Sforno on Genesis 4:23:1-3",
+     "he": "ד\"ה שמען קולי: צועק עלי יגון.\nד\"ה אמרתי: שאספר צערי.\nד\"ה הרגתי לפצעי: חבלתי בצמי ממש שהיה הרוג אביו.\nד\"ה וילד לחברתי: שהיתה החבורה במצמי ממש, במה שהיה ההרוג בני.",
+     "en": "שמען קולי נשי למך, Lemech called out in grief אמרתי, I have to express my mental anguish’ הרגתי לפצעי, I have caused myself real injury, for the one who has killed my father (ancestor Kayin) has inflicted upon me the child a deep wound, seeing that the killer was my son.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 30,
+     "kind": "source",
+     "ref": "Sforno on Genesis 4:24:1",
+     "he": "ד\"ה ולמך שבעים ושבעה: שיהיה הצער שאצטער על זה כל ימי הרבה יותר מן הצער שהצטער קין על היותו נע ונד, וזה כי הצטער למך כל ימיו על שהרג את קין זקנו ותובל קין בנו, כפי מה שבא בקבלה.",
+     "en": "ולמך שבעים ושבעה. My anguish over what I have done will be many times greater than the anguish of Kayin who had been condemned to be a constant fugitive on the earth. 'כי שבעתים יוקם קין וגו, for if Kayin’s punishment was indeed great, my punishment for having killed my son will be many times greater. [he referred to the anguish he suffered over what he had done, not to the punishment imposed upon him externally, as retribution. Ed.]",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "source",
+     "ref": "Malbim on Genesis 4:23:1-24:1",
+     "he": "ד\"ה שמען קולי: ואל תמרו את פי, כי איש אחד ועשה לי פצע והרגתי אותו ובעת ההרג נתן בי חבורה – שהיא קלה מפצע – והרגתי גם את ילדו, ולא היה מי שיקום כנגדי ויבקש דמם מידי, כי אין משפט נגדי בארץ, כי זרועי רמה. \nואם תאמר, שאענש בדיני שמים, אז אשיב כי אם קין שהיה הרוצח הראשון, בכל זאת אמר ה' שמי שיהרוג אותו ינקם על אחת שבע, כל שכן למך, שהוא תקיף יותר מקין והוא מושל ממשל רב, מי שיהרגהו ינקם פי שבעים ושבע, כי בניו ועבדיו יקחו נקמתו... ובזה יספר איך יצאו בני קין לתרבות רעה והתפארות ברצח, עד שגם את נשיהם הפחידו בהרג וטבח...",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "question",
+     "he": "1. אחרי חלקך את כל המפרשים הנ\"ל לקבוצות הסבר, איזו דעה נראית לך מתאימה יותר לקשר שבין פרשתנו למה שלפניה ולאחריה!",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "question",
+     "he": "2. מהו פרושו של \"כי\" בפ' כ\"ג (כי איש הרגתי) לפי כ\"א מן הדעות הנ\"ל?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מהו פירושו של \"כי\" בפסוק כ\"ג (כי איש הרגתי) לפי כל אחת מן הדעות הנ\"ל?",
+     "scan_fixes": [
+      {
+       "digitized": "מהו פירושו של \"כי\" בפסוק כ\"ג (כי איש הרגתי) לפי כל אחת מן הדעות הנ\"ל?",
+       "scan": "מהו פרושו של \"כי\" בפ' כ\"ג (כי איש הרגתי) לפי כ\"א מן הדעות הנ\"ל?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פירושו … בפסוק כ\"ג … לפי כל אחת",
+       "scan": "פרושו … בפ' כ\"ג … לפי כ\"א",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. בכ[?]נת הספור כולו אומר המלבי\"ם: הגם שקין…",
+   "header_digitized": "ג. בכוונת הסיפור כולו",
+   "items": [
+    {
+     "i": 35,
+     "kind": "source",
+     "ref": "Malbim on Genesis 4:23:1",
+     "he": "בכוונת הסיפור כולו אומר המלבי\"ם:\nהגם שקין ובניו יסדו עיר וקיבוץ מדיני ותקנו נימוסים ומלאכות להנהגת החברה, בכל זאת אם לא התבונה תיתן קולה ואם לא יהיו האנשים בעלי יושר ואוהבי צדק בטבעם, לא יועילו הנימוסים, שאם יעמוד איש עריץ, יצחק לכל חוק ונימוס ויגזרו משפט וצדק...",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 36,
+     "kind": "text",
+     "he": "והשוה לדבריו דברי קאסוטו \"מאדם עד נח\" עמ' 130:\nלאחר שהזכירה (התורה) החידושים שחדש קין ובניו בתרבות האנושית, מביאה היא את שירו של למך, המוכיח שעל יד ההתקדמות החומרית לא הייתה מורגשת התקדמות מוסרית. החמס היה שורר ובמעשי החמס היו אותם הדורות מתפארים, דווקא המידות המגונות השנואות בעיני ה' היו נחשבות למעלה בעיני בני אדם. במצב שכזה לא היה אפשר ששופט כל הארץ לא יעשה משפט. כל ההישגים בתרבות החומרית אינם שווים כלום בלי המידות הטובות בדרכי המוסר...",
+     "scan_status": "DIFF",
+     "digitized_he": "והשווה לדבריו דברי קאסוטו, \"מאדם עד נח\" עמוד 130:\nלאחר שהזכירה (התורה) החידושים שחדש קין ובניו בתרבות האנושית, מביאה היא את שירו של למך, המוכיח שעל יד ההתקדמות החומרית לא הייתה מורגשת התקדמות מוסרית. החמס היה שורר ובמעשי החמס היו אותם הדורות מתפארים, דווקא המידות המגונות השנואות בעיני ה' היו נחשבות למעלה בעיני בני אדם. במצב שכזה לא היה אפשר ששופט כל הארץ לא יעשה משפט. כל ההישגים בתרבות החומרית אינם שווים כלום בלי המידות הטובות בדרכי המוסר...",
+     "scan_fixes": [
+      {
+       "digitized": "והשווה לדבריו דברי קאסוטו, \"מאדם עד נח\" עמוד 130:",
+       "scan": "והשוה לדבריו דברי קאסוטו \"מאדם עד נח\" עמ' 130:",
+       "class": "spelling"
+      },
+      {
+       "digitized": "והשווה … קאסוטו, … עמוד 130",
+       "scan": "והשוה … קאסוטו … עמ' 130",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 37,
+     "kind": "question",
+     "he": "1. מהו ההבדל הדק בין שתי דעות אלה הדומות זו לזו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 38,
+     "kind": "question",
+     "he": "2. היכן בתורה נפגש ברעיון שבדברי קאסוטו שנית?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: Rashi texts [1], [3], [7]–[11] are full texts supplied by the digitizer; the scan has bare pointers only.",
+  "§א: Dropped difficulty marks: `×` on [5], `××` on [6], `××` on [13].",
+  "§א: Her question lettering `(א) (ב) (ג)` rendered as `א. ב. ג.`; Rashi pointer numbers `1) 2) 3)` dropped.",
+  "§ב: Header [14] supplied by digitizer; scan header is the verse range.",
+  "§ב: Verse [15] printed by digitizer; scan does not print the verse.",
+  "§ב: Rashi, Ibn Ezra, Ramban, Sforno full texts [19]–[27], [29]–[30] supplied by digitizer from pointers.",
+  "§ב: [25] Ibn Ezra 4:24 not separately named in scan.",
+  "§ב: Dropped `×` on [33]; Rashi/Ramban pointer numbering `1. 2.` dropped.",
+  "§ג: Separate header [34] created by digitizer; \"אומר המלבי\"ם:\" moved into [35].",
+  "§ג: Page footer dropped: `תשובות יש לשלוח לנחמה ליבוביץ, ירושלים קרית משה.`"
+ ],
+ "needs_human": []
+}

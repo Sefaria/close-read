@@ -1,0 +1,425 @@
+{
+ "_doc": "Decisions on substantive scan-check differences (Claude, 2026-10-06). use: scan | digitized (with her typo noted) | editorial | spelling | form (follow the scan) | not-published | open (a person or the drafting step settles it). Each decision states its evidence.",
+ "decisions": [
+  {
+   "sheet": 161438,
+   "i": 6,
+   "use": "scan",
+   "why": "Claude read the scan zoomed: «בפרושו הראשון»"
+  },
+  {
+   "sheet": 161216,
+   "i": 11,
+   "use": "scan",
+   "why": "Claude read the scan: «למה לא למצוא תירוץ»"
+  },
+  {
+   "sheet": 160726,
+   "i": 2,
+   "use": "scan",
+   "why": "Claude read the scan zoomed: «הפותח»"
+  },
+  {
+   "sheet": 160577,
+   "i": 43,
+   "use": "scan",
+   "why": "Shadal on Gen 2:19 (Sefaria) cites «תהלים ק\"ד כ\"ח», as the scan has; the digitization's כ\"ה is wrong"
+  },
+  {
+   "sheet": 161401,
+   "i": 11,
+   "use": "digitized",
+   "why": "Ramban on Gen 1:1 (Sefaria) cites «כפתרים היצאים מכפתור השמידם» as Deut 2:23; her «כ\"ב» is a typo the digitizers corrected"
+  },
+  {
+   "sheet": 161941,
+   "i": 27,
+   "use": "digitized",
+   "why": "the German that follows is Mendelssohn's translation, so «רמבמ\"ן» is right; her «רמב\"ן» is a typo the digitizers corrected"
+  },
+  {
+   "sheet": 161216,
+   "i": 9,
+   "use": "digitized",
+   "why": "«רש\"ע» in the scan is her typo for «רש\"י», which the digitizers corrected"
+  },
+  {
+   "sheet": 161216,
+   "i": 12,
+   "use": "digitized",
+   "why": "Rashi «מפרי האדמה» is on 4:3; the scan's verse letter is overstruck; the digitized «פסוק ג'» is right"
+  },
+  {
+   "sheet": 161223,
+   "i": "after 24",
+   "use": "scan",
+   "why": "Ramban on Gen 2:20 (Sefaria) cites «נשי למך» (Gen 4:23) and «ואת יפתח ואת שמואל» (I Sam 12:11), as her line says"
+  },
+  {
+   "sheet": 161216,
+   "i": "after 25",
+   "use": "scan",
+   "why": "«לו» fits her recurring question «מה קשה לו?»; the scan's last letter is smudged"
+  },
+  {
+   "sheet": 161223,
+   "i": 43,
+   "use": "spelling",
+   "why": "the checker paired the wrong fragments in its list; its table shows a spelling-only difference"
+  },
+  {
+   "sheet": 160638,
+   "i": 27,
+   "use": "spelling",
+   "why": "the checker paired the wrong fragments in its list; its table shows a spelling-only difference"
+  },
+  {
+   "sheet": 162069,
+   "i": 5,
+   "use": "editorial",
+   "why": "the digitizers added the subtitle of Urbach's book: «חז\"ל: אמונות ודעות»"
+  },
+  {
+   "sheet": 161401,
+   "i": 22,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160726,
+   "i": 14,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160726,
+   "i": 21,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160726,
+   "i": 29,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161471,
+   "i": 10,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161471,
+   "i": 23,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161471,
+   "i": 40,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161471,
+   "i": 43,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161223,
+   "i": 10,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161223,
+   "i": 20,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161223,
+   "i": 30,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161223,
+   "i": 35,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161223,
+   "i": 46,
+   "use": "spelling",
+   "why": "re-triaged (Claude, 2026-10-06, caught by the garden drafter): the checker's list paired a fragment wrongly (applying it garbled the question); its table reading «…מדברי \"רוח הקדש\" הוא?» differs from the digitization only in spelling (הקדש/הקודש), so the digitized text stands"
+  },
+  {
+   "sheet": 161223,
+   "i": 47,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160577,
+   "i": 44,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161941,
+   "i": 0,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161941,
+   "i": 26,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161941,
+   "i": 32,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160638,
+   "i": 4,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160638,
+   "i": 8,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160638,
+   "i": 23,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160442,
+   "i": 25,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161880,
+   "i": 7,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161880,
+   "i": 32,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161880,
+   "i": 39,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161880,
+   "i": 51,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161216,
+   "i": 4,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161216,
+   "i": 19,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161216,
+   "i": 20,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161216,
+   "i": 24,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161216,
+   "i": 26,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161216,
+   "i": 37,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161141,
+   "i": 8,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161141,
+   "i": 9,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160469,
+   "i": 2,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160469,
+   "i": 10,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 160469,
+   "i": 24,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 162069,
+   "i": 15,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 162069,
+   "i": 16,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 162069,
+   "i": 31,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161438,
+   "i": 18,
+   "use": "form",
+   "why": "same meaning in a different form (word form, grammar, punctuation, word order, her wording of a list): use her words from the scan"
+  },
+  {
+   "sheet": 161941,
+   "i": 38,
+   "use": "not-published",
+   "why": "grammatical aside on Ibn Ezra's terms"
+  },
+  {
+   "sheet": 160638,
+   "i": 26,
+   "use": "not-published",
+   "why": "internal cross-reference to her question א"
+  },
+  {
+   "sheet": 160442,
+   "i": 8,
+   "use": "form",
+   "why": "re-triaged (Claude, 2026-10-06, caught by the 1968 leaf drafter): the only difference is her abbreviation שמ' inside her full quote of Moreh Nevukhim 1:24; the item is publishable. The earlier 'not-published: verse-reference label' was wrong."
+  },
+  {
+   "sheet": 160442,
+   "i": "after 10",
+   "use": "not-published",
+   "why": "footnote pointing to the teacher's guide"
+  },
+  {
+   "sheet": 161438,
+   "i": 13,
+   "use": "not-published",
+   "why": "cross-reference to another gilayon"
+  },
+  {
+   "sheet": 160469,
+   "i": 0,
+   "use": "not-published",
+   "why": "cross-reference to other gilyonot"
+  },
+  {
+   "sheet": 161438,
+   "i": 23,
+   "use": "scan",
+   "why": "settled by the flood drafter: her start phrase «והטעם כאשר אמרו חכמינו» occurs once in Sefaria's Ibn Ezra on Genesis 4 (Piotrkow, with חז\"ל for חכמינו), in the comment on 4:23; the unreadable verse number is כ\"ג and the digitizer's «כ\"א» a misreading. Item [23] is a label; the Ibn Ezra is quoted from [24] at her start phrase"
+  },
+  {
+   "sheet": 161141,
+   "i": 20,
+   "use": "digitized",
+   "why": "Cain drafter fetched all eight verses: her citations are right, but she misquotes 2 Kings 2:14 (no «אדוני») and Jer 2:28 («אם יושיעוך»); the digitizers silently corrected the quotes, so the digitized verse list stands (evidence in bereshit-leaves/cain.md)"
+  },
+  {
+   "sheet": 161471,
+   "i": "after 6",
+   "use": "scan",
+   "why": "Claude read the scan (page1_strip2): «4. בעקבות מי מהם הולך ספורנו?», with ספורנו underlined"
+  },
+  {
+   "sheet": 161941,
+   "i": 4,
+   "use": "not-published",
+   "why": "Claude read the scan: question 1 runs straight into question 2; «ענה לשאלתם!» is not hers"
+  },
+  {
+   "sheet": 161941,
+   "i": 7,
+   "use": "scan",
+   "why": "Claude read the scan zoomed (page crop): «פסוק ח' ד\"ה וישמעו»; Rashi's וישמעו is on 3:8"
+  },
+  {
+   "sheet": 161941,
+   "i": 28,
+   "use": "scan",
+   "why": "her quote of Bereshit Rabbah reads «קולן» in the scan (sin drafter, 300 dpi)"
+  },
+  {
+   "sheet": 160442,
+   "i": 21,
+   "use": "form",
+   "why": "her spelling «נתת» throughout §ד (scan; sin drafter)"
+  },
+  {
+   "sheet": 160442,
+   "i": 22,
+   "use": "form",
+   "why": "her spelling «נתת» throughout §ד (scan; sin drafter)"
+  },
+  {
+   "sheet": 160638,
+   "i": 14,
+   "use": "form",
+   "why": "her citation placement «ג' ג':» before the quote and the closing «?» (scan check §ב)"
+  },
+  {
+   "sheet": 161223,
+   "i": "after 24.2",
+   "use": "scan",
+   "why": "her own note, read clearly (no doubtful letters) by the 1953 scan checker (161223-1953.md:91); the printed Ramban on 2:20 on Sefaria has the reading she calls a misprint"
+  }
+ ]
+}

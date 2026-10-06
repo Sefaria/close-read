@@ -6,10 +6,10 @@
     "description": "Twenty-eight gilyonot, four themes, thirty years of return. Choose a theme, choose her angle, walk the sheet."
   },
   {
-    "slug": "bereshit-chapter-break",
-    "title": { "he": "בראשית: היכן מתחיל פרק ב׳?", "en": "Bereshit: Where Does Chapter 2 Begin?" },
+    "slug": "bereshit",
+    "title": { "he": "פרשת בראשית", "en": "Parashat Bereshit" },
     "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
-    "description": "Image-panel demo: Nechama's 1963 question on the chapter break at Va-yekhullu, read against the Leningrad Codex"
+    "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions."
   },
   {
     "slug": "cain-abel-birth-records",

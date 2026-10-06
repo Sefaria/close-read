@@ -43,7 +43,7 @@ An array of section objects. Each section has a primary text that stays pinned o
 | `title.en` | string | yes\* | English section heading (\*reading sections only) |
 | `primaryText` | VerseData | yes\* | The verse pinned on screen when the section begins (\*reading sections only) |
 | `steps` | Step[] | yes\* | Ordered sequence of cards and verse changes (\*reading sections only) |
-| `titleCard` | boolean | no | `false` drops the big title card, so this section's pinned panel scrolls up straight behind the previous one and locks. Use it to bring in a new image or text as a continuation rather than a new chapter. `title` is still required (it labels the nav dot) |
+| `titleCard` | boolean | no | `false` makes the section a **continuation** of the one before it: no big title card, so its pinned panel scrolls up straight behind the previous one and locks; and in a branching sheet it is shown exactly when the previous section is (so a leaf's verse → manuscript page → page sequence travels with the leaf's branch). Can't be a branch target or the first section. `title` is still required (it labels the nav dot) |
 
 ---
 
@@ -250,6 +250,7 @@ The `newVerse` object follows the same VerseData format (single or comparison).
 | `sourceLabel` | `{he, en}` | yes | Display name for the source badge |
 | `annotation` | `{he, en}` | no | Nechama's framing note, displayed below the source text |
 | `questionLabel` | `{he, en}` | no | Override the title-level question label for this specific step |
+| `heDir` | `"ltr"` | no | The original-text slot (`text.he`) holds a left-to-right language (e.g. a German quote): render it LTR in the English face |
 
 ---
 

@@ -77,16 +77,25 @@ Which cruxes to render (when a sheet has more than 3):
 
 ## 3. Voice — the narrator names, then disappears
 
-The narrator is a guide, not an interpreter. Its entire job is to make Nechama's
-editorial choices legible and then step aside so the sources speak.
+**The reader experiences the content, not her sheet** (Lev, 2026-10-06): "We're taking her
+thinking from one form into another." Her sources, her questions and the verse are the
+experience. How her sheet was built (which section, where the questions sat, what she added,
+what we left out) is the paper trail, and it goes in the research pack, never on screen.
+
+The narrator is a guide to the text, not to the sheet, and not an interpreter. It says as
+little as possible and steps aside so the sources speak.
 
 **What the narrator does:**
-- Names the gilayon: the year, what's new about this sheet's angle. *"Gilayon תשי״ג /
-  1953. Nine years on, the headline of her sheet has changed."*
-- Names the puzzle, in her terms, pointing at the verse phrase that creates it.
-- Names who speaks next, and what shifts between voices. *"Ramban accepts the question in
-  its sharpest form — but he moves the moment of sin."*
-- Frames the closing question.
+- Points at the verse: *"The end of the sixth day."* *"'And on the seventh day God finished.'"*
+- Says what's on a page or image the reader is looking at (a manuscript's layout).
+
+**What the narrator doesn't do:**
+- **Never narrates her sheet.** No "Gilayon תשי״ג…", "her next section…", "she adds two
+  commentators…", "her questions stand at the end…". The year belongs in the leaf's title
+  and branch label, not in a card.
+- **Never states her question for her,** above all when her question asks the student to
+  find the question.
+- Doesn't name who speaks next; the source label does that.
 
 **What the narrator never does:**
 - **Never moralizes.** No life lessons, no "and so we learn that…". The reader draws the
