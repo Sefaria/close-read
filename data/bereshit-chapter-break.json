@@ -21,8 +21,7 @@
     {
       "id": "cr-1963",
       "title": {
-        "he": "שאלת מבנה",
-        "en": "A Question of Structure"
+        "en": "Where Does Chapter 2 Begin?"
       },
       "primaryText": {
         "ref": "Genesis 1:31-2:3",
@@ -56,7 +55,7 @@
           "id": "cr-1963-intro",
           "type": "narration",
           "text": {
-            "en": "Gilayon תשכ\"ג (1963). Her sheet takes in Genesis 1:31 to 2:3, and its first section is headed simply “a question of structure.”"
+            "en": "Genesis 1:31 to 2:3: the end of the sixth day, and the seventh."
           }
         },
         {
@@ -253,8 +252,7 @@
       "id": "cr-1963-good",
       "titleCard": false,
       "title": {
-        "he": "והנה טוב מאד",
-        "en": "“And behold, it was very good”"
+        "en": "“Very Good,” and the Seventh Day"
       },
       "primaryText": {
         "ref": "Genesis 1:31-2:3",
@@ -288,7 +286,7 @@
           "id": "cr-1963-g-intro",
           "type": "narration",
           "text": {
-            "en": "Her next section stays on 1:31, the end of the sixth day."
+            "en": "The end of the sixth day."
           }
         },
         {
@@ -336,13 +334,6 @@
           "highlight": [
             "tov-meod"
           ]
-        },
-        {
-          "id": "cr-1963-g-on-first",
-          "type": "narration",
-          "text": {
-            "en": "On the first midrash she adds two of its commentators."
-          }
         },
         {
           "id": "cr-1963-maharzu",
@@ -429,16 +420,6 @@
           "en_basis": "ours"
         },
         {
-          "id": "cr-1963-d-intro",
-          "type": "narration",
-          "text": {
-            "en": "She returns to the same three words with Ralbag."
-          },
-          "highlight": [
-            "tov-meod"
-          ]
-        },
-        {
           "id": "cr-1963-ralbag",
           "type": "commentary",
           "source": "Ralbag",
@@ -494,18 +475,11 @@
           "id": "cr-1963-h-intro",
           "type": "narration",
           "text": {
-            "en": "Her last section turns to 2:2: “And on the seventh day God finished.”"
+            "en": "“And on the seventh day God finished.”"
           },
           "highlight": [
             "vaychal"
           ]
-        },
-        {
-          "id": "cr-1963-h-order",
-          "type": "narration",
-          "text": {
-            "en": "Her questions for this section stand together at its end. Here each follows the source it asks about."
-          }
         },
         {
           "id": "cr-1963-br-10-9",

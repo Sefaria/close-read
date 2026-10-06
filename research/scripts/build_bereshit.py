@@ -12,9 +12,12 @@ because Sefaria's English translates the canonical ref, not her quotation. An ab
 (e.g. 1963's Rashi on 2:2, whose Sefaria English opens "R. Simeon says…", a phrase she didn't
 quote) gets our own translation.
 
-What *is* authored here: English translations marked en_basis "ours", and narration, which
-names the gilayon, the passage, and who speaks next. It doesn't explain the sources, and
-it never states her question for her.
+What *is* authored here: English translations marked en_basis "ours", and narration.
+Narration is about the content (the verse, the page), never about her sheet: no "her
+sheet…", "her next section…", "she adds…" (Lev, 2026-10-06: "we're taking her thinking
+from one form into another"). Where a source or question sits on her sheet, what was
+omitted and why, belongs in the research pack, not on screen. Narration also never states
+her question for her.
 
 Output (for now): data/bereshit-chapter-break.json, the 1963 leaf on its own, for review.
 """
@@ -201,11 +204,10 @@ def leaf_1963(prefix='cr-1963', title_card=True):
     jacob_q_start = 'הסבר, למה אין חלוקה'
     secs = []
 
-    secs.append({'id': prefix, 'title': {'he': 'שאלת מבנה', 'en': 'A Question of Structure'},
+    secs.append({'id': prefix, 'title': {'en': 'Where Does Chapter 2 Begin?'},
                  **({} if title_card else {'titleCard': False}),
                  'primaryText': P(), 'steps': [
-        narration(f'{prefix}-intro', 'Gilayon תשכ"ג (1963). Her sheet takes in Genesis 1:31 to 2:3, '
-                  'and its first section is headed simply “a question of structure.”'),
+        narration(f'{prefix}-intro', 'Genesis 1:31 to 2:3: the end of the sixth day, and the seventh.'),
         commentary(f'{prefix}-jacob', h, 2, 'Benno Jacob', 'בנו יעקב', 'Benno Jacob',
                    'Benno Jacob, in his commentary on Genesis 2:3, remarks: the chapter division '
                    '(that of the Christian bishop of the early thirteenth century), which opens a new '
@@ -237,10 +239,10 @@ def leaf_1963(prefix='cr-1963', title_card=True):
     ]})
 
     secs.append({'id': f'{prefix}-good', 'titleCard': False,
-                 'title': {'he': 'והנה טוב מאד', 'en': '“And behold, it was very good”'},
+                 'title': {'en': '“Very Good,” and the Seventh Day'},
                  'primaryText': P(), 'steps': [
         # §ג — scan header: ג. א' ל"א וירא אלו-הים את כל אשר עשה והנה טוב מאד.
-        narration(f'{prefix}-g-intro', 'Her next section stays on 1:31, the end of the sixth day.'),
+        narration(f'{prefix}-g-intro', 'The end of the sixth day.'),
         commentary(f'{prefix}-br-9-5', h, 9, 'Bereshit Rabbah', 'בראשית רבה', 'Bereshit Rabbah',
                    'In the Torah of R. Meir they found written (Matnot Kehunah: in his Torah scroll he '
                    'wrote this in the margin) “and behold, it was very good” — “and behold, death is '
@@ -256,7 +258,6 @@ def leaf_1963(prefix='cr-1963', title_card=True):
                    'build a house, nor marry, nor have children, nor do business. And so Solomon says '
                    '(Ecclesiastes 4): “it is a man’s rivalry with his neighbor.”',
                    'ours', ref='Bereshit Rabbah 9:7', highlight=['tov-meod']),
-        narration(f'{prefix}-g-on-first', 'On the first midrash she adds two of its commentators.'),
         commentary(f'{prefix}-maharzu', h, 12, 'Maharzu', 'מהרז"ו', 'Maharzu, on the midrash',
                    'As it is written (Ecclesiastes), “and the day of death than the day of one’s birth” — '
                    'and he no longer sins.', 'ours', start='דכתיב'),
@@ -270,7 +271,6 @@ def leaf_1963(prefix='cr-1963', title_card=True):
         question(f'{prefix}-q-g3', h, 16, '3. Explain the idea of the second midrash.'),
 
         # §ד — scan header: ד. והנה טוב מאד.
-        narration(f'{prefix}-d-intro', 'She returns to the same three words with Ralbag.', highlight=['tov-meod']),
         commentary(f'{prefix}-ralbag', h, 20, 'Ralbag', 'רלב"ג', 'Ralbag',
                    'He already included in this statement all that He made, because some of what He made '
                    'of the world was not intended for its own sake, <u>and the good was not complete until '
@@ -288,10 +288,7 @@ def leaf_1963(prefix='cr-1963', title_card=True):
         # §ה — scan header: ה. ויכל אלו-הים ביום השביעי.
         # Her questions stand together at the end of the section; here each follows the source it
         # asks about, and her first question, which asks what the question is, closes the section.
-        narration(f'{prefix}-h-intro', 'Her last section turns to 2:2: “And on the seventh day God finished.”',
-                  highlight=['vaychal']),
-        narration(f'{prefix}-h-order', 'Her questions for this section stand together at its end. Here each '
-                  'follows the source it asks about.'),
+        narration(f'{prefix}-h-intro', '“And on the seventh day God finished.”', highlight=['vaychal']),
         commentary(f'{prefix}-br-10-9', h, 25, 'Bereshit Rabbah', 'בראשית רבה', 'Bereshit Rabbah',
                    'Rabbi asked R. Yishmael son of R. Yose: Have you heard from your father what “And on the '
                    'seventh day God finished” means? Astonishing! Rather, it is like one who strikes with a '

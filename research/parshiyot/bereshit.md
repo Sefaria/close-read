@@ -520,9 +520,13 @@ appended to a question or when our English is relabeled as Sefaria's.
   - §ה Q4, which rests on the Akeidat Yitzhak, a source not on her sheet;
   - §ה Q7, the verse list, for density.
 - **Order:** her sources keep her order. In §ה her questions stand together at the end; here
-  each follows the source it asks about, and a card says so (`cr-1963-h-order`). Her Q1 ("what
-  is the question they deal with?") closes the section. The narration deliberately doesn't
-  name the puzzle, because her Q1 asks the student to.
+  each follows the source it asks about. Her Q1 ("what is the question they deal with?") closes
+  the section. The narration deliberately doesn't name the puzzle, because her Q1 asks the
+  student to.
+- **No sheet narration (Lev, 2026-10-06):** the reader experiences the content, not her sheet.
+  Narration only points at the verse or the page. Section titles are content titles ("Where
+  Does Chapter 2 Begin?"), not her structural headers. Everything about how her sheet is built
+  stays here in the pack.
 - **Slices:** question א is the tail of item [2] (from "הסבר, למה"); the Jacob quote is its
   head. §ג Q1 stops before "(עיין גם עלון ההדרכה!)", a pointer to the teacher's guide. In
   §ה, the Bereshit Rabbah card starts after her label "בראשית רבה:".
@@ -551,18 +555,15 @@ appended to a question or when our English is relabeled as Sefaria's.
 | `cr-1963-g-intro` | narration | — | — |
 | `cr-1963-br-9-5` | commentary · Bereshit Rabbah | [9] | ours |
 | `cr-1963-br-9-7` | commentary · Bereshit Rabbah | [10] | ours |
-| `cr-1963-g-on-first` | narration | — | — |
 | `cr-1963-maharzu` | commentary · Maharzu, on the midrash | [12] | ours |
 | `cr-1963-matnot` | commentary · Matnot Kehunah, on the midrash | [13] | ours |
 | `cr-1963-q-g1` | question | [14] | ours |
 | `cr-1963-q-g2` | question | [15] | ours |
 | `cr-1963-q-g3` | question | [16] | ours |
-| `cr-1963-d-intro` | narration | — | — |
 | `cr-1963-ralbag` | commentary · Ralbag | [20] | ours |
 | `cr-1963-q-d1` | question | [21] | ours |
 | `cr-1963-q-d2` | question | [22] | ours |
 | `cr-1963-h-intro` | narration | — | — |
-| `cr-1963-h-order` | narration | — | — |
 | `cr-1963-br-10-9` | commentary · Bereshit Rabbah | [25] | ours |
 | `cr-1963-q-h2` | question | [31] | ours |
 | `cr-1963-q-h3` | question | [32] | ours |
