@@ -226,13 +226,13 @@
         "he": "וַיֹּאמֶר מֹשֶׁה אֶל אַהֲרֹן הוּא אֲשֶׁר דִּבֶּר ה׳ לֵאמֹר בִּקְרֹבַי אֶקָּדֵשׁ וְעַל פְּנֵי כָל הָעָם אֶכָּבֵד וַיִּדֹּם אַהֲרֹן",
         "en": "Then Moses said unto Aaron: 'This is it that the LORD spoke, saying: Through them that are nigh unto Me I will be sanctified, and before all the people I will be glorified.' And Aaron was still.",
         "words": {
-          "vayidom": {
-            "he": "וַיִּדֹּם",
-            "en": "was still"
-          },
           "vayidom-aharon": {
             "he": "וַיִּדֹּם אַהֲרֹן",
             "en": "And Aaron was still"
+          },
+          "vayidom": {
+            "he": "וַיִּדֹּם",
+            "en": "was still"
           }
         }
       },
@@ -255,7 +255,7 @@
             "he": "נהפך לבו והיה כאבן דומם, ולא נשא קולו בבכי ובמספד כאב על בנים, גם לא קיבל תנחומין ממשה, כי לא נותרה בו נשמה והדיבור אין בו.",
             "en": "His heart became like an inanimate rock, and he did not raise his voice in crying or eulogy, as would a father for his children; he also did not accept condolences from Moses. For he had no breath left in him, nor did he have any speech."
           },
-          "highlight": ["vayidom-aharon"],
+          "highlight": ["vayidom-aharon", "vayidom"],
           "annotation": {
             "he": "האברבנאל רואה את הדממה כמצב של הלם — אהרן לא בחר לשתוק, אלא איבד את היכולת להגיב. הוא היה \"כאבן דומם\".",
             "en": "Abarbanel sees the stillness as a state of shock — Aaron did not choose to be silent; he lost the ability to respond. He was \"like an inanimate rock.\""
@@ -285,7 +285,7 @@
             "he": "מה ההבדל ביניהם, ואיזה נראה לך קרוב לפשוטו של מקרא?",
             "en": "What is the difference between these two readings, and which appears closer to the plain meaning of Scripture to you?"
           },
-          "highlight": ["vayidom-aharon"],
+          "highlight": ["vayidom-aharon", "vayidom"],
           "effect": "pulse"
         },
         {
