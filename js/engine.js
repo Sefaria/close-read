@@ -275,10 +275,21 @@ class CloseReadApp {
     // setTimeout (rAF can be paused in headless / background-tab environments,
     // which would leave triggers stale after a visibility flip).
     setTimeout(() => {
-      ScrollTrigger.refresh();
+      this.refreshTriggers();
       const el = document.getElementById(target);
       if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }, 0);
+  }
+
+  // Recompute every trigger after sections are shown or hidden. A global
+  // ScrollTrigger.refresh() is not enough here: triggers created while their
+  // section was display:none kept start/end positions thousands of px off after
+  // the branch revealed them (cards never activated when you clicked into a
+  // leaf; loading the same leaf by URL worked). Refreshing each trigger
+  // recomputes it against the current layout.
+  refreshTriggers() {
+    ScrollTrigger.refresh();
+    ScrollTrigger.getAll().forEach(t => t.refresh());
   }
 
   wirePopstate() {
@@ -287,7 +298,7 @@ class CloseReadApp {
       this.applyVisibility();
       if (this.hasBranching()) {
         this.renderBreadcrumb();
-        setTimeout(() => ScrollTrigger.refresh(), 0);
+        setTimeout(() => this.refreshTriggers(), 0);
       }
     });
   }

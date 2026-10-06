@@ -116,6 +116,20 @@ PAGE_PROBE = """(exp) => {
     if (r.left < 0 || r.right > innerWidth) out.push('breadcrumb runs off the screen');
     const here = [...pill.querySelectorAll('.breadcrumb-link')].pop();
     if (here && here.scrollWidth > here.clientWidth + 1) out.push(`current crumb truncated: "${here.textContent}"`);
+    // On phones earlier crumbs shrink (to a 2.5rem minimum) but the current one never does, so
+    // a long current label is what overflows. Fonts render a few px wider on Linux CI than on a
+    // Mac, so require headroom rather than a bare fit.
+    if (here && innerWidth <= 768) {
+      const links = [...pill.querySelectorAll('.breadcrumb-link')].slice(0, -1);
+      const seps = [...pill.querySelectorAll('.breadcrumb-sep')].reduce((a, c) => a + c.getBoundingClientRect().width, 0);
+      const cs = getComputedStyle(pill);
+      const gap = parseFloat(cs.columnGap) || 0;
+      const minW = parseFloat(getComputedStyle(links[0] || here).minWidth) || 0;
+      const avail = pill.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight)
+        - seps - links.length * minW - gap * (pill.children.length - 1);
+      const room = avail - here.getBoundingClientRect().width;
+      if (room < 12) out.push(`current crumb "${here.textContent}" leaves only ${Math.round(room)}px before the breadcrumb overflows on phones; shorten it`);
+    }
   }
   const closing = document.querySelector('.closing-screen');
   if (closing && closing.classList.contains('is-hidden')) out.push('closing screen hidden at a leaf');
@@ -442,6 +456,29 @@ def test_branch_clicks_and_history(page, base_url, slug):
 
     if page.locator(".closing-screen").evaluate("e => e.classList.contains('is-hidden')"):
         problems.append("closing screen still hidden at a leaf")
+
+    # Having arrived by clicking (not by URL), a card in the leaf must still activate when
+    # scrolled to. Triggers created while the leaf was hidden once kept stale positions,
+    # so nothing activated after a click even though URL-loaded paths worked.
+    # The leaf = the sections the last click revealed; check its first highlighted card.
+    revealed = set(visible_set(sheet, tree, path)) - set(visible_set(sheet, tree, path[:-1]))
+    leaf = next((c for c in card_expectations(sheet) if c["section"] in revealed and c["highlight"]), None)
+    if leaf:
+        page.wait_for_timeout(800)
+        page.evaluate("""(id) => {
+          const c = document.querySelector(`.step-card[data-step-id="${CSS.escape(id)}"] .card-inner`);
+          const r = c.getBoundingClientRect();
+          window.scrollTo({ top: r.top + scrollY + r.height / 2 - 0.5 * innerHeight, behavior: 'instant' });
+        }""", leaf["step"])
+        try:
+            page.wait_for_function("""(id) => document.querySelector(`.step-card[data-step-id="${CSS.escape(id)}"]`).classList.contains('is-active')""",
+                                   arg=leaf["step"], timeout=3000)
+        except Exception:
+            problems.append(f"after clicking down to the leaf, card {leaf['step']} never activates when scrolled to")
+        else:
+            lit = page.evaluate("""(g) => document.getElementById(g).querySelectorAll('.word-group.highlighted, .image-region.highlighted').length""", leaf["group"])
+            if not lit:
+                problems.append(f"after clicking down to the leaf, card {leaf['step']} is active but lights nothing")
 
     while path:
         page.go_back()
