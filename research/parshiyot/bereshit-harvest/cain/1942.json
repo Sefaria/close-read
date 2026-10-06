@@ -1,0 +1,340 @@
+{
+ "sheet_id": 161880,
+ "year_g": "1942",
+ "year_he": "תש\"ב",
+ "theme": "cain",
+ "title": "פרשת בראשית תש\"ב - קין והבל",
+ "sefaria_url": "https://www.sefaria.org/sheets/161880",
+ "pdf_url": "https://www.nechama.org.il/pdf/1229.pdf",
+ "scancheck": "bereshit-scancheck/161880-1942.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "ב",
+   "header_scan": "ב. פסוק ז.",
+   "header_digitized": "ב. השוואת מפרשים",
+   "items": [
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Genesis 4:7",
+     "he": "\"הֲלוֹא אִם תֵּיטִיב שְׂאֵת וְאִם לֹא תֵיטִיב לַפֶּתַח חַטָּאת רֹבֵץ וְאֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל בּוֹ\"",
+     "en": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee is its desire, but thou mayest rule over it.’",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "text",
+     "he": "יש אומרים שפסוק זה הוא הקשה ביותר בכל ספר בראשית.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "1. / מה פרוש המלים \"אם ת[?]טיב -- שאת\" לפי רש\"י רמב\"ן ראב\"ע ספורנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה פירוש המילים \"אם תיטיב – שאת\", לפי כל אחד מהפרשנים הבאים?",
+     "scan_fixes": [
+      {
+       "digitized": "1. מה פירוש המילים \"אם תיטיב – שאת\", לפי כל אחד מהפרשנים הבאים?",
+       "scan": "1. / מה פרוש המלים \"אם ת[?]טיב -- שאת\" לפי רש\"י רמב\"ן ראב\"ע ספורנו?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:7:1",
+     "he": "ד\"ה הלוא אם תיטיב: כתרגומו פירושו.",
+     "en": "הלא אם תטיב IF THOU MENDEST — Its meaning is as the Targum gives it: “if thou wilt improve thy doings, thou shalt be forgiven”.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 4:7:1",
+     "he": "ד\"ה הלוא: ופירוש שאת על דעת מפרשים רבים שאת עוונך, והנכון בעיני, שאת פנים, כי כתוב בתחילה \"ויפלו פניו\", וזה דרך בושה, כטעם \"ואיך אשא פני\". וטעמו אם עשית טוב - תשא פניך, וכן \"כי אז תשא פניך ממום\" ( איוב י\"ד טו ).",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Ramban on Genesis 4:7:1",
+     "he": "ד\"ה הלא אם תיטיב שאת: על דעת המפרשים (אונקלוס, רש\"י, ורד\"ק) שאת עוונך. ועל דעת רבי אברהם, שאת פניך כנגד \"למה נפלו פניך\", כי המתבייש כובש פנים למטה. וכן \"ואור פני לא יפילון\" ( איוב כט כד ), והמכבדו כאילו נושא פניו למעלה. וזה טעם \"אולי ישא פני\" (להלן לב כא), \"לא תשא פני דל\" ( ויקרא יט טו ). \nועל דעתי, \"אם תיטיב\" יהיה לך יתר \"שאת\" על אחיך, כי אתה הבכור. וזה טעם למה חרה לך, כי בבושתו מאחיו נפלו פניו, ובקנאתו ממנו הרגו. והנה אמר לו: \"למה חרה לך\" על אחיך, \"ולמה נפלו פניך\" ממנו, \"הלא אם תיטיב\" יהיה לך יתר \"שאת\" על אחיך, \"ואם לא תיטיב\" - לא עמו בלבד תבואך רעה, כי לפתח ביתך חטאתך רובץ, להכשילך בכל דרכיך. \"ואליך תשוקתו\". שהוא ישתוקק להיות דבק בך כל הימים, אבל \"אתה תמשול בו\", אם תחפוץ, כי תיטיב דרכיך ותסירנו מעליך. הורהו על התשובה, שהיא נתונה בידו לשוב בכל עת שירצה, ויסלח לו.",
+     "en": "If you improve, there is forgiveness. Alternatively, “If you improve you will rise [i.e. above your brother].” And after all, it was only jealousy of him that caused you to be angry in the first place. But if you do not improve. Not only will you suffer on account of your brother, but the evil inclination will lead you astray in everything you do. Its desire is unto you. It wishes to cling to you, but you can overcome it. In this passage Hashem teaches Kayin that a person can repent whenever he chooses to.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Ramban on Genesis 49:3:1",
+     "he": "להבנת הרמב\"ן עיין גם פרק מ\"ט פסוק ג' . רמב\"ן, שם:\nשיעור הפסוק הזה ראובן אתה בכורי וכוחי וראשית אוני יתר שאתי ויתר עוזי. ועניינו אתה בכור כוחי וראשית אוני בהיותי ביתרון שאת ומעלה, כלשון \"הלא שאתו תבַעֵת אתכם\" ( איוב יג יא ), \"משאתו יגורו אלים\" (שם מא יז), רוממות וגדולה, ובהיותי יתרון עז למלחמה, כמו \"ויתן עז למלכו\" ( ש\"א ב י ), \"ועזוז מלחמה\" ( ישעיה מב כה ).",
+     "en": "",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "להבנת הרמב\"ן עיין גם פרק מ\"ט פסוק ג'. רמב\"ן, שם:",
+       "scan": "להבנת הרמב\"ן עיין גם מ\"ט פסוק ג. הרמב\"ן שם",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 49:3:2",
+     "he": "ד\"ה יתר שאת: ראוי היית ליתרון על הכל שתהיה נישא.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 13,
+     "kind": "source",
+     "ref": "Sforno on Genesis 4:7:1",
+     "he": "ד\"ה הלא אם תיטיב: עצמך ותשתדל להיות גם אתה לרצון.",
+     "en": "הלא אם תיטיב, if only you improve yourself you will also be welcome in My eyes.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Sforno on Genesis 4:7:2-3",
+     "he": "ד\"ה שאת: רום המעלה וההתנשא רובץ לפניך ומוכן שיהי לך. \"ואם לא תיטיב לפתח חטאת רובץ\": גם כן החטאת מוכן לפניך כי תוסיף על חטאתך פשע, שכך דרכו של יצר הרע.",
+     "en": "שאת, every lofty level of greatness is lying in wait for you, ready to become yours, ואם לא תיטיב לפתח חטאת רובץ, however, sin is also lying in wait for you if you will add further intentional sin to the already performed unintentional sin. This is the way of the evil urge, that once you give into it, it will forever be ready to tempt you again.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "2. / אל מי מוסב הכנוי שבמלה 'ת[?]שוקתו' ובמלה 'בו' לפי רש\"י וספורנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. אל מי מוסב הכינוי שבמילה \"תשוקתו\" ובמילה \"בו\", לפי רש\"י וספורנו?",
+     "scan_fixes": [
+      {
+       "digitized": "2. אל מי מוסב הכינוי שבמילה \"תשוקתו\" ובמילה \"בו\", לפי רש\"י וספורנו?",
+       "scan": "2. / אל מי מוסב הכנוי שבמלה 'ת[?]שוקתו' ובמלה 'בו' לפי רש\"י וספורנו?",
+       "class": "corroborated"
+      },
+      {
+       "digitized": "...הכינוי שבמילה \"תשוקתו\" ובמילה \"בו\", לפי רש\"י וספורנו?",
+       "scan": "...הכנוי שבמלה 'ת[?]שוקתו' ובמלה 'בו' לפי רש\"י וספורנו?",
+       "class": "corroborated"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ה",
+   "header_scan": "ה. פסוק י\"ג.",
+   "header_digitized": "ה. \"גדול עוני מנשוא\"",
+   "items": [
+    {
+     "i": 28,
+     "kind": "source",
+     "ref": "Genesis 4:13",
+     "he": "\"גָּדוֹל עֲו‍ֹנִי מִנְּשֹׂא\"",
+     "en": "And Cain said unto the LORD: ‘My punishment is greater than I can bear.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 29,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:13:1",
+     "he": "בתמיה, אתה טוען עליונים ותחתונים, ועווני אי אפשר לטעון.",
+     "en": "גדול עוני מנשוא MY PUNISHMENT IS GREATER THAN I CAN BEAR (literally, my sin is greater than what can be borne) — This is a question: You bear the worlds above and below. and is it impossible for You to bear my sin? (Genesis Rabbah 22:11).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 30,
+     "kind": "source",
+     "ref": "Ramban on Genesis 4:13:1",
+     "he": "בתמיה, אתה טוען עליונים ותחתונים, ועווני אי אפשר לטעון, לשון רש\"י מבראשית רבה (כב יא). \nוהנכון בפשט שהוא וידוי. אמר: אמת כי עווני גדול מלסלוח, וצדיק אתה ה' וישר משפטיך, אף על פי שענשת אותי הרבה מאוד. והנה \"גירשת אותי היום מעל פני האדמה\", כי בהיותי נע ונד ולא אוכל לעמוד במקום אחד, הנה אנכי מגורש מן האדמה ואין מקום למנוחתי, \"ומפניך אסתר\", כי לא אוכל לעמוד לפניך להתפלל או להקריב קרבן ומנחה, כי בושתי וגם נכלמתי כי נשאתי חרפת נעורי.",
+     "en": "My sin is greater. My sin was indeed unforgivable and Your decree just, nevertheless, whoever finds me will kill me , and You did not sentence me to die. Here Kayin acknowledged that human beings require Divine protection.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 4:13:1",
+     "he": "על דעת כל המפרשים, שהודה חטאו. ופירוש נשוא כטעם סלוח כמו נושא עון. ולפי דעתי, שהעברים יקראו העקב שכר. והעונש הרע שבא בעבור העוון - חטאת. וכן \"כי לא שלם עון האמורי\", \"אם יקרך עוון\", \"ויגדל עוון בת עמי\". והטעם כי זה העונש גדול לא אוכל לסבלו, ויורה על אמתחת זה הפירוש הפסוק הבא אחריו.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "question",
+     "he": "מה ההבדל בין רש\"י ורמב\"ן וראב\"ע בפרוש המלים גדול עוני מנשא? / רמב\"ן עד[?] למלים חרפת נעורי\"/. מה היא חולשת רש\"י ומה היא חולשת הרמב\"ן בפרוש המלים האלה?",
+     "scan_status": "DIFF",
+     "digitized_he": "מה ההבדל בין רש\"י, רמב\"ן וראב\"ע בפירוש המילים \"גדול עווני מנשא\"? מה היא חולשת רש\"י ומה היא חולשת הרמב\"ן בפירוש המילים האלה?",
+     "scan_fixes": [
+      {
+       "digitized": "מה ההבדל בין רש\"י, רמב\"ן וראב\"ע בפירוש המילים \"גדול עווני מנשא\"? מה היא חולשת רש\"י ומה היא חולשת הרמב\"ן בפירוש המילים האלה?",
+       "scan": "מה ההבדל בין רש\"י ורמב\"ן וראב\"ע בפרוש המלים גדול עוני מנשא? / רמב\"ן עד[?] למלים חרפת נעורי\"/. מה היא חולשת רש\"י ומה היא חולשת הרמב\"ן בפרוש המלים האלה?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "מה ההבדל בין רש\"י, רמב\"ן וראב\"ע בפירוש המילים \"גדול עווני מנשא\"? ...בפירוש המילים האלה?",
+       "scan": "מה ההבדל בין רש\"י ורמב\"ן וראב\"ע בפרוש המלים גדול עוני מנשא? / רמב\"ן עד[?] למלים חרפת נעורי\"/. ...בפרוש המלים האלה?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  },
+  {
+   "letter": "ז",
+   "header_scan": "ז. פסוק ט\"ו.",
+   "header_digitized": "ז. אות קין",
+   "items": [
+    {
+     "i": 38,
+     "kind": "source",
+     "ref": "Genesis 4:15",
+     "he": "\"וַיֹּאמֶר לוֹ ה' לָכֵן כָּל הֹרֵג קַיִן שִׁבְעָתַיִם יֻקָּם וַיָּשֶׂם ה' לְקַיִן אוֹת...\"",
+     "en": "And the LORD said unto him: ‘Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold.’ And the LORD set a sign for Cain, lest any finding him should smite him.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 39,
+     "kind": "question",
+     "he": "פליגי חכמים בענין אות קין כי לא נתפרש בתורה, מה הוא האות לפי פרוש רש\"י ראב\"ע / ד\"ה שבעתים החל מן המלים \"ויש אומר, כי האות...\"/ רמב\"ן פסוק י\"ג ד\"ה גדול עוני מנשא החל מן המלים \"כי בעבור שאהיה נע ונד\"./",
+     "scan_status": "DIFF",
+     "digitized_he": "פליגי חכמים בעניין אות קין כי לא נתפרש בתורה. מה הוא האות לפי פירוש רש\"י, ראב\"ע ורמב\"ן?",
+     "scan_fixes": [
+      {
+       "digitized": "פליגי חכמים בעניין אות קין כי לא נתפרש בתורה. מה הוא האות לפי פירוש רש\"י, ראב\"ע ורמב\"ן?",
+       "scan": "פליגי חכמים בענין אות קין כי לא נתפרש בתורה, מה הוא האות לפי פרוש רש\"י ראב\"ע / ד\"ה שבעתים החל מן המלים \"ויש אומר, כי האות...\"/ רמב\"ן פסוק י\"ג ד\"ה גדול עוני מנשא החל מן המלים \"כי בעבור שאהיה נע ונד\"./",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 40,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:15:3",
+     "he": "חקק לו אות משמו במצחו",
+     "en": "וישם ה' לקין אות AND THE LORD SET A SIGN FOR CAIN — He inscribed on his forehead a letter of His Divine Name (Pirkei DeRabbi Eliezer 21). Other editions of Rashi add the following: another interpretation of “Whoever will find me will slay me”: this refers to cattle and beasts, since there were then no human beings in the world of whom he might be afraid except his father and mother, and, of course, he did not fear that they would slay him. He, therefore, said, “Until now the fear of me was upon all animals — as it is written”, (Genesis 9:2) “And the fear of you shall be upon all beasts of the field” etc. — now, however, because of my sin the animals will no longer fear me and will kill me. God immediately set a sign for Cain, viz., he again made the animals be in fear of him.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 41,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:15:3",
+     "he": "(ס\"א דבר אחר: \"כל מוצאי יהרגני\" - הבהמות והחיות, אבל בני אדם עדיין לא היו שיירא מהם, רק אביו ואמו, ומהם לא היה ירא שיהרגוהו, אלא אמר עד עכשיו היה פחדתי על כל החיות כמ\"ש \"ומוראכם\" וגו' ועכשיו בשביל עוון זה לא ייראו ממני החיות ויהרגוני, מיד \"וישם ה' לקין אות\" - החזיר מוראו על הכל).",
+     "en": "וישם ה' לקין אות AND THE LORD SET A SIGN FOR CAIN — He inscribed on his forehead a letter of His Divine Name (Pirkei DeRabbi Eliezer 21). Other editions of Rashi add the following: another interpretation of “Whoever will find me will slay me”: this refers to cattle and beasts, since there were then no human beings in the world of whom he might be afraid except his father and mother, and, of course, he did not fear that they would slay him. He, therefore, said, “Until now the fear of me was upon all animals — as it is written”, (Genesis 9:2) “And the fear of you shall be upon all beasts of the field” etc. — now, however, because of my sin the animals will no longer fear me and will kill me. God immediately set a sign for Cain, viz., he again made the animals be in fear of him.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 42,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 4:15:2",
+     "he": "ד\"ה שבעתים: ...ויש אומר, כי האות קרן. ואחרים אמרו, שנתן חוזק בלבו והסיר פחדו ממנו. והנכון בעיני, שהשם עשה לו אות, עד שהאמין, והכתוב לא גילה האות.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 43,
+     "kind": "source",
+     "ref": "Ramban on Genesis 4:13:1",
+     "he": "ד\"ה גדול עווני מנשא: ...כי בעבור שאהיה נע ונד ולא אבנה לי בית וגדרות בשום מקום, יהרגוני החיות, כי סר צלך מעלי. הודה כי האדם איננו נשגב ונמלט בכוחו, רק בשמירת עליון עליו.",
+     "en": "My sin is greater. My sin was indeed unforgivable and Your decree just, nevertheless, whoever finds me will kill me , and You did not sentence me to die. Here Kayin acknowledged that human beings require Divine protection.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ט",
+   "header_scan": "ט. על הפסוק ט\"ז \"ויצא קין מלפני ה'\", ישנה מחלוקת במדרש רבה:",
+   "header_digitized": "ט. \"ויצא קין מלפני ה'\"",
+   "items": [
+    {
+     "i": 50,
+     "kind": "source",
+     "ref": "Genesis 4:16",
+     "he": "\"וַיֵּצֵא קַיִן מִלִּפְנֵי ה'\"",
+     "en": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 51,
+     "kind": "question",
+     "he": "על הפסוק ט\"ז \"ויצא קין מלפני ה'\", ישנה מחלוקת במדרש רבה: ויצא קין מהיכן יצא? ר' איבא אומר: הפשיל דברים לאחוריו / השליך דבריו של הקב\"ה אחר[?]י גוו כאדם המפשיל כליו לאחוריו/ ויצא כגונב דעת העליונים\". ר' חננא בר יצחק אומר: \"יצא שמח... פגע בו אדם הראשון. אמר לו: מה נעשה בדינך? אמר לו: עשיתי תשובה ונתפשרתי. התחיל אדם מטפח על פניו ואמר: \"מזמור שיר ליום השבת טוב להודות לה'\".",
+     "scan_status": "DIFF",
+     "digitized_he": "ישנה מחלוקת במדרש בראשית רבה: \n ויצא קין. מהיכן יצא? ר' איבו אומר: הפשיל דברים לאחוריו (-השליך דבריו של הקדוש ברוך הוא אחרי גוו, כאדם המפשיל כליו לאחוריו), ויצא כגונב דעת העליונה. ר' חנינא בר ר' יצחק אומר: יצא שמח... פגע בו אדם הראשון. אמר לו: מה נעשה בדינך? אמר לו: עשיתי תשובה ונתפשרתי. התחיל אדם מטפח על פניו ואמר: \"מזמור שיר ליום השבת טוב להודות לה'\".",
+     "scan_fixes": [
+      {
+       "digitized": "ישנה מחלוקת במדרש בראשית רבה: ויצא קין. מהיכן יצא? ר' איבו אומר: הפשיל דברים לאחוריו (-השליך דבריו של הקדוש ברוך הוא אחרי גוו, כאדם המפשיל כליו לאחוריו), ויצא כגונב דעת העליונה. ר' חנינא בר ר' יצחק אומר: יצא שמח...",
+       "scan": "על הפסוק ט\"ז \"ויצא קין מלפני ה'\", ישנה מחלוקת במדרש רבה: ויצא קין מהיכן יצא? ר' איבא אומר: הפשיל דברים לאחוריו / השליך דבריו של הקב\"ה אחר[?]י גוו כאדם המפשיל כליו לאחוריו/ ויצא כגונב דעת העליונים\". ר' חננא בר יצחק אומר: \"יצא שמח... פגע בו אדם הראשון אמר לו: מה נעשה בדינך? אמר לו: עשיתי תשובה ונתפשרתי. התחיל אדם מטפח על פניו ואמר: מזמור שיר ליום השבת טוב להודות לה'.\"",
+       "class": "substantive"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "ישנה מחלוקת במדרש בראשית רבה: ... ר' איבו ... העליונה. ר' חנינא בר ר' יצחק",
+       "scan": "על הפסוק ט\"ז \"ויצא קין מלפני ה'\", ישנה מחלוקת במדרש רבה: ... ר' איבא ... של הקב\"ה ... העליונים\". ר' חננא בר יצחק",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 52,
+     "kind": "question",
+     "he": "איזו משתי התשובות האלה קרובה יותר לפשוטו של מקרא? מי ממפרשינו נוטה גם הוא לדעה שעשה קין תשובה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§ב: Header «השוואת מפרשים» is the digitizer's; scan has only the verse pointer.",
+  "§ב: `/` marks before items 1 and 2 dropped.",
+  "§ב: Commentators in Q1 replaced by «לפי כל אחד מהפרשנים הבאים».",
+  "§ה: Header is the digitizer's.",
+  "§ה: Ramban stop-point «עד למלים חרפת נעורי» dropped from the question text (the digitized Ramban does end at «חרפת נעורי», so the stop was honored).",
+  "§ז: Header is the digitizer's.",
+  "§ז: Her `החל מן המלים` start-points for Ibn Ezra and Ramban are not in the digitized question; the digitizer honored them by opening [42] and [43] with «...».",
+  "§ז: [41] (Rashi's ס\"א variant) is the digitizer's choice; the scan just says «רש\"י».",
+  "§ט: Header is the digitizer's (drawn from her verse quote).",
+  "§ט: Her lead-in «על הפסוק ט\"ז \"ויצא קין מלפני ה'\"» is dropped from [51].",
+  "§ט: Outside the checked sections: «עצה טובה: קרא בספר אגדה של ביאליק פרק י\"ט \"קין והבל\"» is at the **bottom** of the scan; the digitization moves it to the top as [0]. The footer instructions (answers to be sent to Nechama Leibowitz, write clearly, leave room for corrections) are not digitized."
+ ],
+ "needs_human": [
+  7,
+  32,
+  39,
+  51
+ ]
+}

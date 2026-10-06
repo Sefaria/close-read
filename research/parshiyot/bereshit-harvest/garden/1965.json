@@ -1,0 +1,388 @@
+{
+ "sheet_id": 160577,
+ "year_g": "1965",
+ "year_he": "תשכ\"ה",
+ "theme": "garden",
+ "title": "פרשת בראשית תשכ\"ה - האדם",
+ "sefaria_url": "https://www.sefaria.org/sheets/160577",
+ "pdf_url": "https://www.nechama.org.il/pdf/148.pdf",
+ "scancheck": "bereshit-scancheck/160577-1965.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "ג",
+   "header_scan": "ג. ז' ויהי האדם לנפש חיה",
+   "header_digitized": "ג. \"ויהי האדם לנפש חיה\"",
+   "items": [
+    {
+     "i": 15,
+     "kind": "source",
+     "ref": "Genesis 2:7",
+     "he": "\"וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה\"",
+     "en": "Then the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "source",
+     "ref": "Taanit 22b:11",
+     "he": "ר' יוסי אומר: אין היחיד רשאי לסגף עצמו בתענית, שמא יצטרך לבריות [רש\"י: כי אין בו כח להרויח ולהתפרנס מיגיעו] ואין הבריות מרחמות עליו. [מהרש\"א: שהוא עצמו גרם לו חולי ע\"י סגוף]. אמר רב יהודה אמר רב: מאי טעמא דר' יוסי? דכתיב (בר' ב') \"ויהי האדם לנפש חיה\" – נשמה שנתתי בך – החייה !",
+     "en": "Rabbi Yosei says: An individual is not permitted to afflict himself by fasting, lest he become too weak to work and be beholden to other beings, and those beings will not have mercy on him. Rav Yehuda said that Rav said: What is the reason of Rabbi Yosei? It is as it is written: “And man became a living soul” (Genesis 2:7). Rabbi Yosei interprets this verse as a command: The soul I placed within you, preserve and sustain it.",
+     "scan_status": "DIFF",
+     "digitized_he": "ר' יוסי אומר: אין היחיד רשאי לסגף עצמו בתענית, שמא יצטרך לבריות [רש\"י: כי אין בו כח להרויח ולהתפרנס מיגיעו] ואין הבריות מרחמות עליו. [מהרש\"א: שהוא עצמו גרם לו חולי ע\"י סיגוף]. אמר רב יהודה אמר רב: מאי טעמא דר' יוסי? דכתיב (בראשית ב') \"ויהי האדם לנפש חיה\" – נשמה שנתתי בך – החייה !",
+     "scan_fixes": [
+      {
+       "digitized": "גרם לו חולי ע\"י סיגוף",
+       "scan": "גרם לו חולי ע\"י סגוף",
+       "class": "spelling"
+      },
+      {
+       "digitized": "דכתיב (בראשית ב')",
+       "scan": "דכתיב (בר' ב')",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 17,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 14:10",
+     "he": "\"ויהי האדם לנפש חיה\": ר' יהודא אמר: עשאו עבד מכורן ( מכור לצמיתות, משועבד ) בפני עצמו, דאין לא לעי לא נגיס (=אם אינו יגע ועמל, אינו אוכל), הוא דעתיה דר' הונא (ויש גורסין דר' חנינא) דאמר (איכה א') \"נתנני ה' בידי לא אוכל קום\"...",
+     "en": "",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "text",
+     "he": "ר' דוד הנגיד בן רבנו אברהם בן הרמב\"ם (פרשת בראשית מתורגם מערבית י\"ל בהוצאת קרינפיס ירושלים תש\"ז)\nואני אומר עוד \"ויהי האדם לנפש חיה\" שחובה על האדם שישתדל בחיי נפשו, יחיה את נפשו ואל ימיתנה, ירפאנה ולא יחלנה, יען כי לנפש יש בריאות ומחלה, ומחלת הנפש היא האולת והסכלות וקניית המדות המושחתות, הפריצות והרשעות; ורפואתה – קניית המעלות ומדות טובות והלוך אחרי אנשי הדעת. ומגמת הבורא ית' מן האדם, שילך בדרכיו ית' ושיהיו כל מעשיו שלמים ובריאים ונפשו שלמה ומתוקנת ותתמיד בחיים הנצחיים, כמו שאמר \"ויהי האדם לנפש חיה\".",
+     "scan_status": "DIFF",
+     "digitized_he": "ר' דוד הנגיד, בן רבנו אברהם בן הרמב\"ם (פרשת בראשית מתורגם מערבית י\"ל בהוצאת קרינפיס, ירושלים תש\"ז):\nואני אומר עוד \"ויהי האדם לנפש חיה\" שחובה על האדם שישתדל בחיי נפשו, יחיה את נפשו ואל ימיתנה, ירפאנה ולא יחלנה, יען כי לנפש יש בריאות ומחלה, ומחלת הנפש היא האיולת והסכלות וקניית המדות המושחתות, הפריצות והרשעות; ורפואתה – קניית המעלות ומדות טובות והלוך אחרי אנשי הדעת. ומגמת הבורא יתברך מן האדם, שילך בדרכיו יתברך ושיהיו כל מעשיו שלמים ובריאים ונפשו שלמה ומתוקנת ותתמיד בחיים הנצחיים, כמו שאמר \"ויהי האדם לנפש חיה\".",
+     "scan_fixes": [
+      {
+       "digitized": "ר' דוד הנגיד, בן רבנו אברהם בן הרמב\"ם (… בהוצאת קרינפיס, ירושלים תש\"ז):",
+       "scan": "ר' דוד הנגיד בן רבנו אברהם בן הרמב\"ם (… בהוצאת קרינפיס ירושלים תש\"ז)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ומחלת הנפש היא האיולת",
+       "scan": "ומחלת הנפש היא האולת",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ומגמת הבורא יתברך מן האדם, שילך בדרכיו יתברך",
+       "scan": "ומגמת הבורא ית' מן האדם, שילך בדרכיו ית'",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "1. מהו הקשי בפסוקנו שעליו עמדו כל הנ\"ל?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מהו הקושי בפסוקנו שעליו עמדו כל הנ\"ל?",
+     "scan_fixes": [
+      {
+       "digitized": "מהו הקושי בפסוקנו",
+       "scan": "מהו הקשי בפסוקנו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "2. מה ההבדל ביניהם בפרוש פסוקנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה ההבדל ביניהם בפירוש פסוקנו?",
+     "scan_fixes": [
+      {
+       "digitized": "ביניהם בפירוש פסוקנו?",
+       "scan": "ביניהם בפרוש פסוקנו?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בפירוש פסוקנו",
+       "scan": "בפרוש פסוקנו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "3. כיצד דורש ר' הונא את הפסוק איכה א' י\"ד?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. ט\"ו ויקח ה' אלוקים את האדם ויניחהו בגן עדן לעבדה ולשמרה.",
+   "header_digitized": "ד. \"ויקח ה'\"",
+   "items": [
+    {
+     "i": 23,
+     "kind": "source",
+     "ref": "Genesis 2:15",
+     "he": "\"וַיִּקַּח ה' אֱ-לֹהִים אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ\"",
+     "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 16:5",
+     "he": "\"ויקח ה' את האדם\" – ר' יהודה אומר: עלה[?] אותו. האיך מה דאת אמר ( ישעיהו ס\"ג ג' ) \"ולקחום עמים והביאום וגו'\". \nר' נחמיה אומר: פיתה אותו, האיך מה דאת אומר (הושע ד' ג') \"קחו עמכם דברים ושובו אל ה' וגו'\".",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "\"ויקח ה' את האדם\" – ר' יהודה אומר: עילה אותו. האיך מה דאת אמר ( ישעיהו ס\"ג ג' ) \"ולקחום עמים והביאום וגו'\". \nר' נחמיה אומר: פיתה אותו, האיך מה דאת אמר (הושע ד' ג') \"קחו עמכם דברים ושובו אל ה' וגו'\".",
+     "scan_fixes": [
+      {
+       "digitized": "ר' יהודה אומר: עילה אותו",
+       "scan": "ר' יהודה אומר: עלה[?] אותו",
+       "class": "corroborated"
+      },
+      {
+       "digitized": "האיך מה דאת אמר (הושע ד' ג')",
+       "scan": "האיך מה דאת אומר (הושע ד' ג')",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "(ישעיהו ס\"ג ג')",
+       "scan": "(ישע' ס\"ג ג')",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 25,
+     "kind": "source",
+     "ref": "Rashi on Genesis 2:15:1",
+     "he": "לקחו בדברים נאים ופתהו ליכנס.",
+     "en": "ויקח AND HE TOOK — He took him with kind words and induced him to enter (Genesis Rabbah 16:3).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "source",
+     "ref": "Radak on Genesis 2:15:1-2",
+     "he": "אע\"פ שזכר למעלה (ב' ח') \"וישם שם\" חזר ושנה עוד ואמר \"ויקח\" לפי שרוצה לזכור המצוה שצוהו האל. ועוד הוסיף \"לעבדה ולשמרה\" שלא זכר בתחילה. \nופירוש \"ויניחה\" שלקחו ממקום שנברא שם סמוך לגן עדן והניחו בגן עדן. ולמה לא יצרו תחילה בגן עדן אחר שסופו היה להניחו שם? כדי שיהיה המקום ההוא חביב עליו יותר, שהיה חדש אצלו ושיכיר כי האל הולך ומטיב עמו. וטעם \"ויקח\" כמו ( יהושע כ\"ד ) \"ואקח את אביכם מעבר הנהר\".",
+     "en": "ויקח ה' אלוקים, even though we have been told already in verse 8 that G’d placed Adam in Gan Eden, the Torah repeats this by stating that “G’d took man etc.,” because at this point the Torah wanted to inform us of the commandment which accompanied Adam’s taking up residence in that idyllic place. Our verse also spells out something that had not been mentioned previously, i.e. that Adam was not to treat Gan Eden as a retreat, but that he was made responsible for maintaining it in good order. לעבדה ולשמרה, to work it and to preserve it intact. The verse makes plain that G’d removed Adam from a nearby location where he had been created, depositing him in Gan Eden The question is why G’d had not created Adam in Gan Eden in the first place, seeing He was going to transfer him there anyway? The reason is that He wanted him to appreciate the quality of that garden. Had he been created there, he would not have had any means of comparing it to another region on earth, and would not have cherished its excellence. By transferring him to Gan Eden, G’d demonstrated to Adam that He had his best interests at heart. The word ויקח may be understood as similar to G’d saying about Avraham ואקח את אביכם את אברהם מעבר הנהר, “I took your father Avraham from beyond the river Euphrates.” (Joshua 24,3)\n לעבדה ולשמרה, although the noun גן is masculine, the Torah treats it here as if it were in the feminine mode. The reason is that the work would be performed on the soil, אדמה of the garden, and the word אדמה is a feminine noun. Alternatively, the word “garden” appears in the Bible both in a masculine mode, גן and in a feminine mode גנה, when the letter ה is added at the end. An example of this is found in Isaiah 61,11 וכגנה זרעויה תצמיח, “and its seeds will sprout like those in a garden.” The word לעבדה refers to constructive labour, furthering the growth and fruit-bearing capability of the trees, whereas the word ולשמרה refers to the taking of preventive measures to counter invasion of the garden by predators, and other measures to prevent its deterioration. Our sages, reading into this expression also a moral/ethical teaching, understand the word לעבדה as the dedication to study of G’d’s commandments, whereas the expression לשמרה refers to the carrying out of these commandments in practice. (Sifri Eykev 21)",
+     "scan_status": "DIFF",
+     "digitized_he": "אע\"פ שזכר למעלה (ב' ח') \"וישם שם\" חזר ושנה עוד ואמר \"ויקח\" לפי שרוצה לזכור המצוה שציוהו האל. ועוד הוסיף \"לעבדה ולשמרה\" שלא זכר בתחילה. \nופירוש \"ויניחה\" שלקחו ממקום שנברא שם סמוך לגן עדן והניחו בגן עדן. ולמה לא יצרו תחילה בגן עדן אחר שסופו היה להניחו שם? כדי שיהיה המקום ההוא חביב עליו יותר, שהיה חדש אצלו ושיכיר כי האל הולך ומטיב עמו. וטעם \"ויקח\" כמו ( יהושע כ\"ד ) \"ואקח את אביכם מעבר הנהר\".",
+     "scan_fixes": [
+      {
+       "digitized": "המצוה שציוהו האל",
+       "scan": "המצוה שצוהו האל",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "1. מה הם הקשיים בפסוקנו העומדים בפני בעל המדרש והפרשנים?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 28,
+     "kind": "question",
+     "he": "2. דברי ר' יהודה ור' נחמיה מובאים בבראשית רבה גם לפסוק ח' בפרקנו, הסבר למה לא הביאו רש\"י שם?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. דברי ר' יהודה ור' נחמיה מובאים בבראשית רבה גם לפסוק ח' בפרקנו. הסבר, למה לא הביאו רש\"י שם?",
+     "scan_fixes": [
+      {
+       "digitized": "בפרקנו. הסבר, למה",
+       "scan": "בפרקנו, הסבר למה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 29,
+     "kind": "question",
+     "he": "3. הסבר מה ראה רש\"י לשנות מלשון מקורו (דברי ר' נחמיה)?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. הסבר, מה ראה רש\"י לשנות מלשון מקורו (דברי ר' נחמיה)?",
+     "scan_fixes": [
+      {
+       "digitized": "הסבר, מה ראה",
+       "scan": "הסבר מה ראה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 30,
+     "kind": "question",
+     "he": "4. למה הביא רד\"ק ראיתו מיהושע ולא הביאה מחמש בראשית ט\"ז ג' ?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. למה הביא רד\"ק ראייתו מיהושע ולא הביאה מחומש בראשית ט\"ז ג' ?",
+     "scan_fixes": [
+      {
+       "digitized": "ראייתו מיהושע ולא הביאה מחומש",
+       "scan": "ראיתו מיהושע ולא הביאה מחמש",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ראייתו … מחומש",
+       "scan": "ראיתו … מחמש",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ו",
+   "header_scan": "ו. י\"ט ויצר ה' אלוקים מן האדמה כל חית השדה ואת כל עוף השמים / ויבא אל האדם לראות מה יקרא לו.",
+   "header_digitized": "ו. קריאת שמות לחיות",
+   "items": [
+    {
+     "i": 39,
+     "kind": "source",
+     "ref": "Genesis 2:19",
+     "he": "\"וַיִּצֶר ה' אֱ-לֹהִים מִן הָאֲדָמָה כָּל חַיַּת הַשָּׂדֶה וְאֵת כָּל עוֹף הַשָּׁמַיִם\nוַיָּבֵא אֶל הָאָדָם לִרְאוֹת מַה יִּקְרָא לוֹ\"",
+     "en": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto the man to see what he would call them; and whatsoever the man would call every living creature, that was to be the name thereof.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 40,
+     "kind": "text",
+     "he": "ר' נפתלי הירץ ויזל, אמרי שפר: \n חפץ ה' שהאדם יקרא שמות לחיה ולבהמה ולעוף השמים, על כן הביאם אליו לראות מה שם יקרא לכל אחד מהם, והוא ב\"ה צופה ויודע הכל, וידע מה יקרא להם, ושיכוון בכל שם כפי הראוי לאותו המין. ואם כן – מילת \"לראות\" כמו (פרק י\"א) \"לראות את העיר ואת המגדל אשר בנו בני האדם\"; ( תהלים י\"ד ב' ) \"לראות היש משכיל דורש את אלוקים\"; וכן, \"לראות מה יקרא לו\", כי הוא משגיח בכל עת, כי קריאת השמות איננו לבד שיבדלו בשמותיהם לדעת מי זה ומי זה, אבל השם הוא תולדתו הפנימית ולאיזה דבר נברא לשמש...",
+     "scan_status": "DIFF",
+     "digitized_he": "ר' נפתלי הירץ ויזל, אמרי שפר: \n חפץ ה' שהאדם יקרא שמות לחיה ולבהמה ולעוף השמים, על כן הביאם אליו לראות מה שם יקרא לכל אחד מהם, והוא, ברוך הוא, צופה ויודע הכל, וידע מה יקרא להם, ושיכוון בכל שם כפי הראוי לאותו המין. ואם כן – מילת \"לראות\" כמו (פרק י\"א) \"לראות את העיר ואת המגדל אשר בנו בני האדם\"; ( תהלים י\"ד ב' ) \"לראות היש משכיל דורש את אלוקים\"; וכן, \"לראות מה יקרא לו\", כי הוא משגיח בכל עת, כי קריאת השמות איננו לבד שיבדלו בשמותיהם לדעת מי זה ומי זה, אבל השם הוא תולדתו הפנימית ולאיזה דבר נברא לשמש...",
+     "scan_fixes": [
+      {
+       "digitized": "והוא, ברוך הוא, צופה ויודע הכל",
+       "scan": "והוא ב\"ה צופה ויודע הכל",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "(תהלים י\"ד ב')",
+       "scan": "(תהל' י\"ד ב')",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 41,
+     "kind": "source",
+     "ref": "Sforno on Genesis 2:19:3",
+     "he": "כדי שיראה ויתבונן איזה שם ראוי לכל אחד מהם כפי המעלה המיוחדת לצורתו.",
+     "en": "לראות מה יקרא לו, so that he would see which name would be appropriate for each creature, based on the specific tasks they performed in the universe.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 42,
+     "kind": "question",
+     "he": "1. מה ההבדל בין שני הפרושים מבחינה תחבירית?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה ההבדל בין שני הפירושים מבחינה תחבירית?",
+     "scan_fixes": [
+      {
+       "digitized": "בין שני הפירושים",
+       "scan": "בין שני הפרושים",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הפירושים",
+       "scan": "הפרושים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 43,
+     "kind": "question",
+     "he": "2. שד\"ל מביא הוכחה לפרושו של ספורנו משני הפסוקים הבאים: שמואל ב' כ\"ד י\"ג ; תהלים ק\"ד כ\"ח . הסבר במה מסייע כל אחד מן הפסוקים האלה לפרושו של ספורנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. שד\"ל מביא הוכחה לפירושו של ספורנו משני הפסוקים הבאים: שמואל ב', כ\"ד י\"ג ; תהלים ק\"ד כ\"ה . הסבר במה מסייע כל אחד מן הפסוקים האלה לפירושו של ספורנו?",
+     "scan_fixes": [
+      {
+       "digitized": "תהלים ק\"ד כ\"ה",
+       "scan": "תהלים ק\"ד כ\"ח",
+       "class": "substantive"
+      },
+      {
+       "digitized": "שמואל ב', כ\"ד",
+       "scan": "שמואל ב' כ\"ד",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לפירושו",
+       "scan": "לפרושו",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "שמואל ב', כ\"ד י\"ג; תהלים ק\"ד כ\"ה.",
+       "scan": "שמואל ב' כ\"ד י\"ג; תהלים ק\"ד כ\"ח.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 44,
+     "kind": "question",
+     "he": "3. לדעת כמה ממפרשינו הרי פסוק זה הוא בצועו של מה שנאמר בבראשית א' כ\"ח. הסבר!",
+     "scan_status": "DIFF",
+     "digitized_he": "3. לדעת כמה ממפרשינו, פסוק זה הוא ביצועו של מה שנאמר בבראשית א' כ\"ח. הסבר!",
+     "scan_fixes": [
+      {
+       "digitized": "לדעת כמה ממפרשינו, פסוק זה הוא ביצועו של מה שנאמר",
+       "scan": "לדעת כמה ממפרשינו הרי פסוק זה הוא בצועו של מה שנאמר",
+       "class": "substantive"
+      },
+      {
+       "digitized": "ממפרשינו, פסוק זה הוא ביצועו",
+       "scan": "ממפרשינו הרי פסוק זה הוא בצועו",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§ג: Verse pointer `ז'` dropped from the header; quote marks added.",
+  "§ג: Question numbering `1)` restyled as `1.` (all sections).",
+  "§ד: Header shortened to `\"ויקח ה'\"`; verse pointer `ט\"ו` dropped.",
+  "§ו: Header retitled `קריאת שמות לחיות`; verse pointer `י\"ט` dropped.",
+  "§ו: Abbreviations expanded (`ב\"ה` → `ברוך הוא`, `תהל'` → `תהלים`).",
+  "§ו: Sheet footer dropped: `התשובות המסומנות ב-x קשות והמסומנות ב-xx קשות ביותר. יבחר כל לומד לפי רמתו.` / `תשובות יש לשלוח לנחמה ליבוביץ, ירושלים, קרית משה.` (The x/xx marks on §ב and §ה questions, outside my sections, are also not in the digitization.)"
+ ],
+ "needs_human": [
+  43,
+  44
+ ]
+}

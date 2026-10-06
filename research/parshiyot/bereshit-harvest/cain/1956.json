@@ -1,0 +1,547 @@
+{
+ "sheet_id": 161216,
+ "year_g": "1956",
+ "year_he": "תשט\"ז",
+ "theme": "cain",
+ "title": "פרשת בראשית תשט\"ז - קין והבל",
+ "sefaria_url": "https://www.sefaria.org/sheets/161216",
+ "pdf_url": "https://www.nechama.org.il/pdf/563.pdf",
+ "scancheck": "bereshit-scancheck/161216-1956.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. שאלה כללית לפרקנו:",
+   "header_digitized": "א. מדברי המדרש",
+   "items": [
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Genesis 4:8",
+     "he": "\"וַיֹּאמֶר קַיִן אֶל הֶבֶל אָחִיו \nוַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה \nוַיָּקָם קַיִן אֶל הֶבֶל אָחִיו וַיַּהַרְגֵהוּ\"",
+     "en": "And Cain spoke unto Abel his brother. And it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 22:7",
+     "he": "\"ויאמר קין אל הבל אחיו ויהי בהיותם בשדה\" – על מה היו מדיינים? אמרו: \"בואו נחלוק את העולם\". אחד נטל את הקרקעות ואחד נטל את המטלטלין. דין אמר: \"ארעת דאת קאים עליה – דידי\" (זה אמר: הארץ אשר אתה עומד עליה שלי היא). ודין אמר: \"מה דאת לביש – דידי\" (וזה אמר: מה שאתה לובש שלי הוא). דין אמר: \"חלוץ!\" דין אמר: \"פרח!\" מתוך כך \"ויקם קין אל הבל אחיו ויהרגהו\". \nר' יהושע דסכנין בשם ר' לוי אמר: שניהם נטלו את הקרקעות, ושניהם נטלו את המטלטלין. ועל מה היו מדיינין? אלא זה אומר: \"בתחומִי בית המקדש ייבנה\". וזה אומר: \"בתחומִי בית המקדש ייבנה\", שנאמר \"ויהי בהיותם בשדה\" ואין \"שדה\" אלא בית המקדש, דכתיב ( מיכה ג' ) \"ציון שדה תיחרש\". \nומתוך כך \"ויקם קין אל הבל אחיו ויהרגהו\". \nיהודה בר' אמי אמר: על חוה הראשונה היו מדיינין.",
+     "en": "(7) “And Cain spoke to Abel his brother, and it came to pass when they were in the field…” (Genesis 4:8) What were they arguing about? They said: come let’s divide up the world, one will take the land and one will take the moveable property. This one said: the ground you are standing on is mine. The other one said: what you are wearing is mine. This one said: take it off! The other one said: fly! Because of this “…Cain rose against his brother Abel and killed him.” (ibid.) R’ Yehoshua of Sakhnin said in the name of R’ Levi: they both took the land and the moveable property. What were they arguing about? One said: the Holy Temple will be built in my boundary. The other said: the Holy Temple will be built in my boundary. As it says “…when they were in the field…” (ibid.) and the field only refers to the Holy Temple. This is what it says “…Zion shall be plowed as a field…” (Micah 3:12) Because of this “…Cain rose up against Abel his brother and slew him.” Yehudah bar Ami said: they were arguing about the first Eve. R’ Ibo said: the first Eve returned to the dust. Then what were they arguing about? R’ Huna said: an extra twin sister was born with Abel. This one said: I will take her because I am the first born. The other one said: I will take her because she was born with me. Because of this “…Cain rose up against Abel his brother and slew him.”",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "question",
+     "he": "1. המדרש דן בגורמיהם של שנאות, ריבות, מלחמות, הריגות בין בני אדם. הסבר את כונת כל אחת של שלוש הדעות הנאמרות בזה?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. המדרש דן בגורמיהם של שנאות, ריבות, מלחמות והריגות בין בני אדם. הסבר את כוונת כל אחת משלוש הדעות הנאמרות בזה.",
+     "scan_fixes": [
+      {
+       "digitized": "1. המדרש דן בגורמיהם של שנאות, ריבות, מלחמות והריגות בין בני אדם. הסבר את כוונת כל אחת משלוש הדעות הנאמרות בזה.",
+       "scan": "1. המדרש דן בגורמיהם של שנאות, ריבות, מלחמות, הריגות בין בני אדם. הסבר את כונת כל אחת של שלוש הדעות הנאמרות בזה?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "...מלחמות והריגות בין בני אדם. הסבר את כוונת כל אחת משלוש הדעות הנאמרות בזה.",
+       "scan": "...מלחמות, הריגות בין בני אדם. הסבר את כונת כל אחת של שלוש הדעות הנאמרות בזה?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 5,
+     "kind": "question",
+     "he": "2. מה ראה המדרש להביא את הדעות בסדר זה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. שאלות ודיוקים ברש\"י:",
+   "header_digitized": "ב. שאלות ודיוקים ברש\"י",
+   "items": [
+    {
+     "i": 7,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:1:1",
+     "he": "ד\"ה והאדם ידע: כבר קודם העניין של מעלה, קודם שחטא ונטרד מגן עדן, וכן ההריון והלידה, שאם כתב \"וידע האדם\", נשמע שלאחר שנטרד היו לו בנים.",
+     "en": "(1) והאדם ידע AND THE MAN KNEW already before the events related above took place — before he sinned and was driven out of the Garden of Eden. So, also, the conception and birth of Cain took place before this. Had it been written, וידע אדם it would imply that after he was driven out children were born to him (Genesis Rabbah 22:2).",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "text",
+     "he": "א.  הבא דוגמאות לכלל לשוני זה – שעליו בנויים דברי רש\"י – ממקומות אחרים בספר בראשית!",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "question",
+     "he": "ב.  הסבר, מהי חשיבותם של דברי רש\"י אלה מבחינה רעיונית ?",
+     "scan_status": "DIFF",
+     "sic": [
+      " [[sic: רש\"ע]]",
+      " [[sic: רש\"ע]]"
+     ],
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "ב. הסבר, מהי חשיבותם של דברי רש\"י אלה מבחינה רעיונית?",
+       "scan": "(ב) הסבר, מהי חשיבותם של דברי רש\"ע [[sic: רש\"ע]] אלה מבחינה רעיונית!",
+       "class": "substantive"
+      },
+      {
+       "digitized": "...של דברי רש\"י אלה מבחינה רעיונית?",
+       "scan": "...של דברי רש\"ע [[sic: רש\"ע]] אלה מבחינה רעיונית!",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "needs_human": true
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:2:1",
+     "he": "ד\"ה רועה צאן: לפי שנתקללה האדמה, פירש לו מעבודתה.",
+     "en": "רעה צאן A FEEDER OF FLOCKS — Because the earth had been cursed he refrained from cultivating it.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "מה קשה לרש\"י בפסוק זה, למה לא למצוא תירוץ לדבר זה שהיה הבל רועה צאן?",
+     "scan_status": "DIFF",
+     "digitized_he": "מה קשה לרש\"י בפסוק זה, למה לו למצוא תירוץ לדבר זה שהיה הבל רועה צאן?",
+     "scan_fixes": [
+      {
+       "digitized": "מה קשה לרש\"י בפסוק זה, למה לו למצוא תירוץ לדבר זה שהיה הבל רועה צאן?",
+       "scan": "מה קשה לרש\"י בפסוק זה, למה לא למצוא תירוץ לדבר זה שהיה הבל רועה צאן?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "...למה לו למצוא תירוץ...",
+       "scan": "...למה לא למצוא תירוץ...",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "3) פסוק ג' \n ד\"ה מפרי האדמה: מן הגרוע.",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "3) פסוק ג'ד\"ה מפרי האדמה: מן הגרוע.",
+       "scan": "3) ג[?] ד\"ה מפרי האדמה: מן הגרוע.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "needs_human": true
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "ומקשין מפרשי רש\"י: מניין לו שמ' של \"מפרי\" מורה על הגרוע, ושמא בא דוקא לרמוז שהוא ממיטב? ישב קושיתם!",
+     "scan_status": "DIFF",
+     "digitized_he": "ומקשין מפרשי רש\"י: מניין לו שמ' של \"מפרי\" מורה על הגרוע, ושמא בא דווקא לרמוז שהוא ממיטב? יישב קושייתם!",
+     "scan_fixes": [
+      {
+       "digitized": "...ושמא בא דווקא לרמוז שהוא ממיטב? יישב קושייתם!",
+       "scan": "...ושמא בא דוקא לרמוז שהוא ממיטב? ישב קושיתם!",
+       "class": "spelling"
+      },
+      {
+       "digitized": "...בא דווקא ... יישב קושייתם!",
+       "scan": "...בא דוקא ... ישב קושיתם!",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:4:1",
+     "he": "ד\"ה וישע: ויפן. וכן \"ואל מנחתו לא שעה\" – לא פנה. וכן ( שמות ה' ) \"ואל ישעו בדברי שקר\" פירושו \"אל יפנו\". וכן ( איוב י\"ד ) \"שעה מעליו\". פנה מעליו.",
+     "en": "וישע AND HE HAD REGARD— and He turned to; similarly in the next verse “He had no respect for his offering” means, “He did not turn to it.” Similarly, (Isaiah 17:8) ולא ישעה אל המזבחות which means “And he shall not turn towards the altars”; so also (Job 14:6) שעה מעליו “turn away from him” — disregard him.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "text",
+     "he": "בעל ספר הזכרון, על רש\"י: \n מה שכתוב: וכן (שמות) \"ואל ישעו בדברי שקר\" – אומר אני שטעות סופר הוא שנתפשט בכל ספרי הרב ז\"ל, והנכון הוא: וכן ( ישעיה י\"ז ) \"ולא ישעה אל המזבחות\".",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "הסבר מה ראה לתקן הגירסא כך, במה מוכח שגרסת ספרינו משובשת\"",
+     "scan_status": "DIFF",
+     "digitized_he": "הסבר מה ראה לתקן הגירסא כך, במה מוכח שגרסת ספרנו משובשת?",
+     "scan_fixes": [
+      {
+       "digitized": "הסבר מה ראה לתקן הגירסא כך, במה מוכח שגרסת ספרנו משובשת?",
+       "scan": "הסבר מה ראה לתקן הגירסא כך, במה מוכח שגרסת ספרינו משובשת\"",
+       "class": "spelling"
+      },
+      {
+       "digitized": "...שגרסת ספרנו משובשת?",
+       "scan": "...שגרסת ספרינו משובשת\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 17,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:7:2",
+     "he": "ד\"ה לפתח חטאת רובץ: לפתח קברך חטאתך שמור.",
+     "en": "לפתח חטאת רובץ SIN CROUCHETH AT THE ENTRANCE — Right up to the door of your grave (until your death) your sin will be preserved.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:7:3",
+     "he": "ד\"ה ואליך תשוקתו: של חטאת – הוא יצר הרע – תמיד הוא שוקק ומתאווה להכשילך.",
+     "en": "ואליך תשוקתו AND UNTO THEE IS ITS LONGING — The longing of sin; it refers to the evil inclination. This is continually longing and desiring to make you sin.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "(א) למה לא פרשו כמשמעו שלפתח ביתך רובץ החטאת ותכשל בו תמיד בצאתך ובבואך?",
+     "scan_status": "DIFF",
+     "digitized_he": "א.  למה לא פירשוֹ שמשמעו שלפתח ביתך רובץ החטאת, ותיכשל בו תמיד בצאתך ובבואך?",
+     "scan_fixes": [
+      {
+       "digitized": "א. למה לא פירשוֹ שמשמעו שלפתח ביתך רובץ החטאת, ותיכשל בו תמיד בצאתך ובבואך?",
+       "scan": "(א) למה לא פרשו כמשמעו שלפתח ביתך רובץ החטאת ותכשל בו תמיד בצאתך ובבואך?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "למה לא פירשוֹ שמשמעו ... החטאת, ותיכשל בו...",
+       "scan": "למה לא פרשו כמשמעו ... החטאת ותכשל בו...",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "(ב) הסבר, למה פירש רש\"י \"חטאת\" – הוא היצר הרע בד\"ה ואליך תשוקתו ולא פרשו בד\"ה לפתח חטאת רובץ, ששם מופיעה מלת \"חטאת\"? שים לב שבד\"ה לפתח אמר רש\"י \"חטאתך\" ובד\"ה ואליך תשוקתו אמר: חטאת בלא כנוי.",
+     "scan_status": "DIFF",
+     "digitized_he": "ב.  הסבר, למה פירש רש\"י \"חטאת\" – הוא יצר הרע בד\"ה ואליך תשוקתו, ולא פירשו בד\"ה לפתח חטאת רובץ, ששם מופיעה מילת \"חטאת\"? שים לב שבד\"ה לפתח אמר רש\"י \"חטאתך\" ובד\"ה ואליך תשוקתו אמר \"חטאת\" בלא כינוי.",
+     "scan_fixes": [
+      {
+       "digitized": "ב. הסבר, למה פירש רש\"י \"חטאת\" – הוא יצר הרע בד\"ה ואליך תשוקתו, ולא פירשו בד\"ה לפתח חטאת רובץ, ששם מופיעה מילת \"חטאת\"? שים לב שבד\"ה לפתח אמר רש\"י \"חטאתך\" ובד\"ה ואליך תשוקתו אמר \"חטאת\" בלא כינוי.",
+       "scan": "(ב) הסבר, למה פירש רש\"י \"חטאת\" – הוא היצר הרע בד\"ה ואליך תשוקתו ולא פרשו בד\"ה לפתח חטאת רובץ, ששם מופיעה מלת \"חטאת\"? שים לב שבד\"ה לפתח אמר רש\"י \"חטאתך\" ובד\"ה ואליך תשוקתו אמר: חטאת בלא כנוי.",
+       "class": "substantive"
+      },
+      {
+       "digitized": "...הוא יצר הרע ... ולא פירשו ... מילת \"חטאת\"? ... אמר \"חטאת\" בלא כינוי.",
+       "scan": "...הוא היצר הרע ... ולא פרשו ... מלת \"חטאת\"? ... אמר: חטאת בלא כנוי.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "ג.  מה ראה רש\"י להשתמש בשני פעלים \"שוקק ומתאוה\" ולא הסתפק באחד?",
+     "scan_status": "DIFF",
+     "digitized_he": "ג.  מה ראה רש\"י להשתמש בשני פעלים \"שוקק ומתאווה\" ולא הסתפק באחד?",
+     "scan_fixes": [
+      {
+       "digitized": "...בשני פעלים \"שוקק ומתאווה\" ולא הסתפק באחד?",
+       "scan": "...בשני פעלים \"שוקק ומתאוה\" ולא הסתפק באחד?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "\"שוקק ומתאווה\"",
+       "scan": "\"שוקק ומתאוה\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:8:1",
+     "he": "ד\"ה ואמר קין: נכנס עמו בדברי ריב ומצה להתעולל עליו להרגו. ויש בזה מדרשי אגדה – אך זה יישובו של מקרא.",
+     "en": "ויאמר קין אל הבל AND CAIN SPAKE TO ABEL — He began an argument, striving and contending with him, to seek a pretext to kill him. There are Midrashic explanations of these words, but this is the plain sense of the text.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "א.  מה קשה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "question",
+     "he": "(ב) ב\"מדרשי אגדה\" התכון לשלש הדעות הנאמרות בבראשית רבה (ע' שאלה א) למה לא הביא רש\"י אחת מהן ובמה שונה פרושו עקרונית מהן?",
+     "scan_status": "DIFF",
+     "digitized_he": "ב.  ב\"מדרשי אגדה\" התכוון לשלוש הדעות הנאמרות בבראשית רבה (עיין שאלה א). למה לא הביא רש\"י אחת מהן, ובמה שונה פירושו עקרונית מהן?",
+     "scan_fixes": [
+      {
+       "digitized": "ב. ב\"מדרשי אגדה\" התכוון לשלוש הדעות הנאמרות בבראשית רבה (עיין שאלה א). למה לא הביא רש\"י אחת מהן, ובמה שונה פירושו עקרונית מהן?",
+       "scan": "(ב) ב\"מדרשי אגדה\" התכון לשלש הדעות הנאמרות בבראשית רבה (ע' שאלה א) למה לא הביא רש\"י אחת מהן ובמה שונה פרושו עקרונית מהן?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "...התכוון לשלוש ... (עיין שאלה א). ... מהן, ובמה שונה פירושו...",
+       "scan": "...התכון לשלש ... (ע' שאלה א) ... מהן ובמה שונה פרושו...",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 25,
+     "kind": "source",
+     "ref": "Rashi on Genesis 4:10:1",
+     "he": "ד\"ה דמי אחיך: דמו ודם זרעותיו.",
+     "en": "דמי אחיך THY BROTHERS BLOOD — דמי is plural — bloods” — his blood and the blood of his possible descendants (Genesis Rabbah 22:9). Another explanation of why the plural is used: he inflicted upon him many wounds, because he knew not whence his soul would depart (i. e. which blow would prove fatal) (Sanhedrin 37b).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "kind": "question",
+     "he": "(א) מה קשה לו[?]",
+     "basis": "scan-only",
+     "cite": "bereshit-scancheck/161216-1956.md:70",
+     "needs_human": true
+    },
+    {
+     "i": 26,
+     "kind": "text",
+     "he": "(ב) הסבר את הרעיון המסומל בדבריו אלה.",
+     "scan_status": "DIFF",
+     "digitized_he": "ב.  הסבר את הרעיון המסומל בדבריו אלו.",
+     "scan_fixes": [
+      {
+       "digitized": "ב. הסבר את הרעיון המסומל בדבריו אלו.",
+       "scan": "(ב) הסבר את הרעיון המסומל בדבריו אלה.",
+       "class": "substantive"
+      },
+      {
+       "digitized": "...בדבריו אלו.",
+       "scan": "...בדבריו אלה.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "ג.  היכן מצינו רעיון זה ברש\"י על התורה במקום אחר?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. ז הלא אם תטיב שאת ואם לא תטיב לפתח חטאת רובץ ואליך תשוקתו ואתה תמשל בו.",
+   "header_digitized": "ג. \"הלא אם תטיב שאת...\"",
+   "items": [
+    {
+     "i": 29,
+     "kind": "source",
+     "ref": "Genesis 4:7",
+     "he": "\"הֲלוֹא אִם תֵּיטִיב שְׂאֵת וְאִם לֹא תֵיטִיב לַפֶּתַח חַטָּאת רֹבֵץ וְאֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל בּוֹ\"",
+     "en": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee is its desire, but thou mayest rule over it.’",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 30,
+     "kind": "source",
+     "ref": "Genesis 4:7",
+     "he": "ד\"ה הלוא אם תיטיב שאת: כתרגומו פירושו.",
+     "en": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee is its desire, but thou mayest rule over it.’",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "source",
+     "ref": "Onkelos Genesis 4:7",
+     "he": "הלוא אם תטיב עובדך (מעשיך) ישתבק לך (יסולח לך).",
+     "en": "",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "text",
+     "he": "(תרגום אונקלוס: \n ד\"ה לפתח חטאת רובץ: לפתח קברך חטאתך שמור.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "text",
+     "he": "(תרגום אונקלוס: \n ד\"ה ואליך תשוקתו: של חטאת – הוא יצר הרע – תמיד שוקק ומתאווה להכשילך.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 34,
+     "kind": "text",
+     "he": "(תרגום אונקלוס: \n ד\"ה ואתה תמשל בו: אם תרצה – תתגבר עליו.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 35,
+     "kind": "source",
+     "ref": "Malbim on Genesis 4:7:1",
+     "he": "ד\"ה הלוא: גילו לו שאין חפץ לה' במנחה, רק \"הנה שמוע מזֶּבח טוב\" ( שמואל א' י\"ג ) ועיקר הוא שתיטיב מעשיך, לא הטבת המשאֵת והמנחה, מה שתיטיב המשאת לא יירצה בעיניו, כי בין אם תיטיב המשאת ובין אם לא תיטיב, אין בזה שום מעלה, אחר שלפתח רובץ החטאת לקטרג עליך... וביאר בזה שלושה דברים: \n(א) שיצר הרע רובץ לפתח, וצריך האדם לעיין על ראשית כל מעשיו, שלא ימליך עבד על אדוניו, כי הוא אורב על הפתח, שכל עת שייפתח הפתח ייכנס אליך ויטיל בך ארס התאווה והחטא. \n(ב) עוד הודיע לו כי בצד האחד היצר משתוקק אליך להחטיאך ולהורידך מטה. \n(ג) שבצד השני אתה יש בידך העוז והמשוה למשול בו, על ידי כח החופשיות אשר באדם, שרק בצד זה נקרא האדם חופשי, אם ימשול על בהמתו, לא אם בהמתו מושלת עליו.",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 36,
+     "kind": "question",
+     "he": "1. העתק את פסוקנו פעמים וסמנו בסמני פסוק בהתאם לכל אחד מן המפרשים הנ\"ל.",
+     "scan_status": "DIFF",
+     "digitized_he": "1. העתק את פסוקנו פעמיים, וסמנו בסימני פיסוק בהתאם לכל אחד מן המפרשים הנ\"ל.",
+     "scan_fixes": [
+      {
+       "digitized": "1. העתק את פסוקנו פעמיים, וסמנו בסימני פיסוק בהתאם לכל אחד מן המפרשים הנ\"ל.",
+       "scan": "1. העתק את פסוקנו פעמים וסמנו בסמני פסוק בהתאם לכל אחד מן המפרשים הנ\"ל.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פעמיים, וסמנו בסימני פיסוק",
+       "scan": "פעמים וסמנו בסמני פסוק",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 37,
+     "kind": "question",
+     "he": "2. הסבר מה פרושה של מלת \"שאת\" לפי כל אחד משני הפרושים והבא ראיות ממקומות אחרים בתורה לכל אחת משתי ההוראות.",
+     "scan_status": "DIFF",
+     "digitized_he": "2. הסבר מה פירושה של מילת \"שאת\", לפי כל אחד משני הפירושים, והבא ראיות ממקומות אחרים בתורה לכל אחת משתי ההוראות.",
+     "scan_fixes": [
+      {
+       "digitized": "פירושה של מילת \"שאת\", ... הפירושים,",
+       "scan": "פרושה של מלת \"שאת\" ... הפרושים",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "2. הסבר מה פירושה של מילת \"שאת\", לפי כל אחד משני הפירושים, והבא ראיות...",
+       "scan": "2. הסבר מה פרושה של מלת \"שאת\" לפי כל אחד משני הפרושים והבא ראיות ממקומות אחרים בתורה לכל אחת משתי ההוראות.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 38,
+     "kind": "question",
+     "he": "3. הסבר כיצד מתקשר פסוקנו לפסוקים ה'-ו', לפי כל אחד משני הפרושים.",
+     "scan_status": "DIFF",
+     "digitized_he": "3. הסבר כיצד מתקשר פסוקנו לפסוקים ה'-ו', לפי כל אחד משני הפירושים.",
+     "scan_fixes": [
+      {
+       "digitized": "...לפי כל אחד משני הפירושים.",
+       "scan": "...לפי כל אחד משני הפרושים.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הפירושים",
+       "scan": "הפרושים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 39,
+     "kind": "question",
+     "he": "4. מה תיקן רש\"י בדבריו לד\"ה ואתה תמשול בו, מה היה המקרא חסר בלי פרושו?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. מה תיקן רש\"י בדבריו לד\"ה ואתה תמשל בו, מה היה המקרא חסר בלי פירושו?",
+     "scan_fixes": [
+      {
+       "digitized": "4. מה תיקן רש\"י בדבריו לד\"ה ואתה תמשל בו, מה היה המקרא חסר בלי פירושו?",
+       "scan": "4. מה תיקן רש\"י בדבריו לד\"ה ואתה תמשול בו, מה היה המקרא חסר בלי פרושו?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ואתה תמשל בו ... בלי פירושו?",
+       "scan": "ואתה תמשול בו ... בלי פרושו?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: Header «מדברי המדרש» is the digitizer's.",
+  "§א: `xx` mark on Q2 dropped.",
+  "§ב: Rashi items carry her numbering `1)`–`7)` plus the verse letter (`א`…`ט`); the digitization drops these except in [12], where it writes «פסוק ג'» instead of `ג`.",
+  "§ב: Her lettering `(א)/(ב)/(ג)` becomes «א./ב./ג.» in the digitization.",
+  "§ב: Dropped `x` / `xx` margin marks: on Rashi 2 (`2x`), Q [11] (`x`), Q [13] (`x`), Rashi 4 (`4xx`), [15] (`xx`), Rashi 5 (`5xx`), Q [19] (`xx`), Q [20] (`xx`), Q [9] (`x`), Q [24] (`x`), Q [27] (`x`).",
+  "§ב: One question dropped (see MISSING above).",
+  "§ג: Header is the digitizer's.",
+  "§ג: `xx` margin mark on Q3 dropped.",
+  "§ג: Outside the checked sections: the «עצה טובה» box (Steinbeck, East of Eden) is at the **bottom** of page 2 in the scan; the digitization moves it to the top as [0]."
+ ],
+ "needs_human": [
+  4,
+  9,
+  11,
+  12,
+  19,
+  20,
+  24,
+  "after 25",
+  26,
+  37
+ ]
+}

@@ -1,0 +1,463 @@
+{
+ "sheet_id": 160442,
+ "year_g": "1968",
+ "year_he": "תשכ\"ח",
+ "theme": "sin",
+ "title": "פרשת בראשית תשכ\"ח - אחרי החטא...",
+ "sefaria_url": "https://www.sefaria.org/sheets/160442",
+ "pdf_url": "https://www.nechama.org.il/pdf/2.pdf",
+ "scancheck": "bereshit-scancheck/160442-1968.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "ב",
+   "header_scan": "ב. ח'  וישמעו את קול ה' אלוקים מתהלך בגן לרוח היום.",
+   "header_digitized": "ב. \"קול אלוקים מתהלך...\"",
+   "items": [
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Genesis 3:8",
+     "he": "\"וַיִּשְׁמְעוּ אֶת קוֹל ה' אֱ-לֹהִים מִתְהַלֵּךְ בַּגָּן לְרוּחַ הַיּוֹם\"",
+     "en": "And they heard the voice of the LORD God walking in the garden toward the cool of the day; and the man and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 19:7",
+     "he": "\"וישמעו את קול ה' אלוקים מתהלך בגן\" – אמר ר' חלפון: שמענו שיש הילוך לקול, שנ' \"וישמעו את קול ה'... מתהלך...\" והילוך לאש, שנאמר ( שמות ט' ) \"ותהלך אש ארצה\". אמר ר' אבא בר כהנא: \"מהלך\" אין כתיב כאן אלא \"מתהלך\" – מקפץ ועולה: עיקר שכינה בתחתונים היתה*, כיון שחטא אדם הראשון נסתלקה שכינה לרקיע ראשון, חטא קין נסתלקה לרקיע השני, דור אנוש לשלישי, דור המבול לרביעי,...",
+     "en": "... the root/essence of Shekhinah/God’s presence was in the lower ones / `iqar sh’khinah batachtonim haytah.",
+     "scan_status": "DIFF",
+     "digitized_he": "\"וישמעו את קול ה' אלוקים מתהלך בגן\" – אמר ר' חלפון: שמענו שיש הילוך לקול, שנ' \"וישמעו את קול ה'... מתהלך...\" והילוך לאש, שנאמר ( שמות ט' ) \"ותהלך אש ארצה\". אמר ר' אבא בר כהנא: \"מהלך\" אין כתיב כאן אלא \"מתהלך\" – מקפץ ועולה: עיקר שכינה בתחתונים היתה*, כיון שחטא אדם הראשון נסתלקה שכינה לרקיע ראשון, חטא קין נסתלקה לרקיע השני, דור אנוש לשלישי, דור המבול לרביעי...",
+     "scan_fixes": [
+      {
+       "digitized": "לרביעי...",
+       "scan": "לרביעי,...",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "שנאמר (שמות ט')",
+       "scan": "שנ' (שמות ט')",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 7,
+     "kind": "source",
+     "ref": "Rashi on Genesis 3:8:1",
+     "he": "ד\"ה וישמעו: שמעו את קול הקב\"ה שהיה מתהלך בגן.",
+     "en": "וישמעו AND THEY HEARD — There are many Midrashic explanations and our Teachers have already collected them in their appropriate places in Genesis Rabbah and in other Midrashim. I, however, am only concerned with the plain sense of Scripture and with such Agadoth that explain the words of Scripture in a manner that fits in with them. וישמעו AND THEY HEARD — What did they hear? They heard the sound of the Holy One, blessed be He, as He walked in the garden (see Genesis Rabbah 19:12).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "text",
+     "he": "רמב\"ם מורה נבוכים א פרק כ\"ד: \n \"ההליכה\" גם כן מכלל השמות המונחים לתנועות מיוחדות מתנועות בעלי החיים. ( בראשית ל\"ב ) \"ויעקב הלך לדרכו\" – וזה הרבה (= שמוש זה שכיח בלשון). וכבר הושאל זה השם להמשיך הגופות אשר הם יותר דקות מגופות בעלי החיים ( בראשית ח' ה' ): \"והמים הלכו הלך וחסור\" ( שמות ט' כ\"ג) \"ותהלך אש ארצה\", ואחרי כן הושאל להתפשט ענין אחד והראותו – ואם אינו גוף כלל – אמר ( ירמיהו מ\"ו ) \"קולה כנחש ילך\" (=השמועה על האיד הבא עליהם – על מצרים – באה ומתפשטת כלחישת נחש. פירוש אבן שמואל) וכן אמרו ( בראשית ג' ): \"קול ה' אלוקים מתהלך בגן\" – ה\"קול\" הוא שנאמר עליו שהוא 'מתהלך'.",
+     "scan_status": "DIFF",
+     "digitized_he": "מורה נבוכים א' פרק כ\"ד: \n \"ההליכה\" גם כן מכלל השמות המונחים לתנועות מיוחדות מתנועות בעלי החיים. ( בראשית ל\"ב ) \"ויעקב הלך לדרכו\" – וזה הרבה (=שימוש זה שכיח בלשון). וכבר הושאל זה השם להמשיך הגופות אשר הם יותר דקות מגופות בעלי החיים ( בראשית ח' ה' ): \"והמים הלכו הלך וחסור\" ( שמות ט' כ\"ג) \"ותהלך אש ארצה\", ואחרי כן הושאל להתפשט ענין אחד והראותו – ואם אינו גוף כלל – אמר ( ירמיהו מ\"ו ) \"קולה כנחש ילך\" (=השמועה על האיד הבא עליהם – על מצרים – באה ומתפשטת כלחישת נחש. פירוש אבן שמואל) וכן אמרו ( בראשית ג' ): \"קול ה' אלוקים מתהלך בגן\" – ה\"קול\" הוא שנאמר עליו שהוא 'מתהלך'.",
+     "scan_fixes": [
+      {
+       "digitized": "(=שימוש זה שכיח בלשון)",
+       "scan": "(= שמוש זה שכיח בלשון)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "מורה נבוכים א' פרק כ\"ד",
+       "scan": "רמב\"ם מורה נבוכים א פרק כ\"ד",
+       "class": "substantive"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "(בראשית ל\"ב)",
+       "scan": "(בר' ל\"ב)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "(בראשית ח' ה'):",
+       "scan": ": (בר' ח' ה')",
+       "class": "spelling"
+      },
+      {
+       "digitized": "(שמות ט' כ\"ג)",
+       "scan": "(שמ' ט' כ\"ג)",
+       "class": "substantive"
+      },
+      {
+       "digitized": "וכן אמרו (בראשית ג'):",
+       "scan": "וכן אמרו: (בר' ג')",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Radak on Genesis 3:8:1",
+     "he": "ד\"ה וישמעו: יש מפרשים: בעוד שהיה אדם מתהלך בגן שמע את קול אלוקים, ומאחר שאמר \"וישמעו\" היה לו לומר \"מתהלכים\", והנכון כי הטעם \"מתהלך\" על קול ה', כי מצאנו בו \"הליכה\" ( ירמיהו מ\"ו כ\"ב) \"קולה כנחש ילך\"...",
+     "en": "וישמעו, some commentators explain what happened not as G’d’s voice “walking,” but as Adam and Chavah walking and hearing the voice of G’d while going for a walk. If that were correct, the word “they heard” should have been written after our being informed that they had been walking in the garden. Besides, the word מתהלך should have been in the plural mode. The correct interpretation of the verse is: while Adam and Chavah went for a walk they heard the voice of G’d “going for a walk.” We have a precedent for this, i.e. the “voice” of the serpent being described as “walking” in Jeremiah 46,22.",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "(ירמיהו מ\"ו כ\"ב)",
+       "scan": "(ירמ' מ\"ו כ\"ב)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Ramban on Genesis 3:8:1",
+     "he": "רמב\"ן, (אחרי הביאו את המדרש ואת הרמב\"ם):\nד\"ה וישמעו את קול ה' אלוקים מתהלך בגן:  ולפי דעתי כי טעם \"מתהלך בגן עדן\" כטעם ( ויקרא כ\"ו י\"ב ) \"והתהלכתי בתוככם\" (בר' י\"ח ל\"ג) \"וילך ה' כאשר כלה לדבר אל אברהם\" ( הושע ה' ט\"ו ) \"אלך ואשובה אל מקומי\" והוא ענין גלוי שכינה במקום ההוא או הסתלקותו מן המקום שנגלה בו. \nוטעם \"לרוח היום\", כי בהגלות השכינה תבוא רוח גדולה וחזק כענין שנאמר ( מל' א' י\"ט י\"א ) \"והנה ה' עובר ורוח גדולה וחזק מפרק הרים ומשבר סלעים לפני ה'\", וכן ( תהלים י\"ח י\"א ) \"וידא על כנפי רוח\". וכתוב באיוב (ל\"א א') \"ויען ה' את איוב מן הסערה\". ולפיכך אמרו בכאן \"כי שמעו קול ה' שנתגלתה השכינה בגן כמתקרב אליהם לרוח היום, כי רוח ה' נשבה בו – בגן, כרוח הימים, לא רוח גדולה וחזק במחזה, כבשאר הנבואות, שלא יפחדו ויבהלו.",
+     "en": "Moving (or “walking”) in the Garden. There are numerous verses in which Hashem is said to “walk” among the righteous (see, for example, Vayikra 26:12) or to depart from them ( Bereishis 18:33). These statements refer to the revelation of the Divine Presence and its subsequent departure.",
+     "scan_status": "DIFF",
+     "digitized_he": "רמב\"ן, (אחרי הביאו את המדרש ואת הרמב\"ם):\nד\"ה וישמעו את קול ה' אלוקים מתהלך בגן:  ולפי דעתי כי טעם \"מתהלך בגן עדן\" כטעם ( ויקרא כ\"ו י\"ב ) \"והתהלכתי בתוככם\" (בראשית י\"ח ל\"ג) \"וילך ה' כאשר כלה לדבר אל אברהם\" ( הושע ה' ט\"ו ) \"אלך ואשובה אל מקומי\" והוא ענין גלוי שכינה במקום ההוא או הסתלקותו מן המקום שנגלה בו. \nוטעם \"לרוח היום\", כי בהגלות השכינה תבוא רוח גדולה וחזק כענין שנאמר ( מל' א' י\"ט י\"א ) \"והנה ה' עובר ורוח גדולה וחזק מפרק הרים ומשבר סלעים לפני ה'\", וכן ( תהלים י\"ח י\"א ) \"וידא על כנפי רוח\". וכתוב באיוב (ל\"א א') \"ויען ה' את איוב מן הסערה\". ולפיכך אמרו בכאן כי שמעו קול ה' שנתגלתה השכינה בגן כמתקרב אליהם לרוח היום, כי רוח ה' נשבה בו – בגן, כרוח הימים, לא רוח גדולה וחזק במחזה, כבשאר הנבואות, שלא יפחדו ויבהלו.",
+     "scan_fixes": [
+      {
+       "digitized": "(בראשית י\"ח ל\"ג)",
+       "scan": "(בר' י\"ח ל\"ג)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "אמרו בכאן כי שמעו",
+       "scan": "אמרו בכאן \"כי שמעו",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "רמב\"ן, (אחרי הביאו את המדרש ואת הרמב\"ם):ד\"ה וישמעו את קול ה' אלוקים מתהלך בגן:",
+       "scan": "רמב\"ן ד\"ה וישמעו את קול ה' אלוקים מתהלך בגן: (אחרי הביאו את המדרש ואת הרמב\"ם): ולפי דעתי…",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "kind": "text",
+     "he": "* עיין עלון ההדרכה.",
+     "basis": "scan-only",
+     "cite": "bereshit-scancheck/160442-1968.md:131 (her footnote to the Ramban)"
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "1. מהו הקשי התחבירי בפסוקנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מהו הקושי התחבירי בפסוקנו?",
+     "scan_fixes": [
+      {
+       "digitized": "מהו הקושי התחבירי",
+       "scan": "מהו הקשי התחבירי",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הקושי",
+       "scan": "הקשי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "2. כמה דעות שונות נאמרו לעיל בפתרון השאלה התחבירית ? סדר את הפרשנים לקבוצות!",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "3. במה שונה דעת הרמב\"ן מדעת ר' אבא בר כהנא (שלא בשאלה התחבירית)? איזו משתיהן נראית לך מתאימה יותר להקשר ?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "question",
+     "he": "4. לשם מה מזכיר ר' חלפון בדבריו גם את ה\"אש\" – מה ענינה לעניננו?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. לשם מה מזכיר ר' חלפון בדבריו גם את ה\"אש\" – מה עניינה לענייננו?",
+     "scan_fixes": [
+      {
+       "digitized": "מה עניינה לענייננו?",
+       "scan": "מה ענינה לעניננו?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "עניינה לענייננו",
+       "scan": "ענינה לעניננו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. י\"ב  האשה אשר נתת עמדי.",
+   "header_digitized": "ד. \"אשר נתתה עמדי...\"",
+   "items": [
+    {
+     "i": 20,
+     "kind": "source",
+     "ref": "Genesis 3:12",
+     "he": "\"האשה אשר נתת עמדי\"",
+     "en": "And the man said: ‘The woman whom Thou gavest to be with me, she gave me of the tree, and I did eat.’",
+     "scan_status": "DIFF",
+     "digitized_he": "\"הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי\"",
+     "scan_fixes": [
+      {
+       "digitized": "נָתַתָּה עִמָּדִי",
+       "scan": "נתת עמדי",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Rashi on Genesis 3:12:1",
+     "he": "ד\"ה אשר נתת עמדי: כאן כפר בטובה.",
+     "en": "אשר נתת עמדי WHOM THOU GAVEST TO BE WITH ME — Here he showed his ingratitude (Avodah Zarah 5b).",
+     "scan_status": "DIFF",
+     "digitized_he": "ד\"ה אשר נתתה עמדי: כאן כפר בטובה.",
+     "scan_fixes": [
+      {
+       "digitized": "ד\"ה אשר נתתה עמדי",
+       "scan": "ד\"ה אשר נתת עמדי",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Ramban on Genesis 3:12:1",
+     "he": "ד\"ה האשה אשר נתת עמדי: כלומר: האשה אשר בכבודך נתת אותה לי לעזר, היא נתנה לי מן העץ, והייתי חושב שכל אשר תאמר אלי יהיה לי לעזר ולהועיל, וזהו שאמר בענשו: \"כי שמעת לקול אשתך\", שלא היית נזהר לעבור על מצוותי בעבור עצתה. ורבותינו קורין אותו בזה \"כפוי טובה\" (ע\"ז ה' ע\"ב), ירצו לפרש, שענה אותו: אתה גרמת לי המכשול הזה, שנתת לי אשה לעזר והיא יעצתני להרשיע.",
+     "en": "\"And the reason for the words 'the woman you gave to me'-in other words, she gave me from the tree, and i figured that whatever she would say to me would be for my benefit and help. That is why in the punishment God says \"because you listened to the voice of your wife\", that you should not have listened to her advice in lieu of following my command. This is what the rabbis called 'ingratitude'. For we would want to explain that Adam answered God 'you caused me to fail in this area, that you gave me a woman to help and she ended up advising me to sin'. \"",
+     "scan_status": "DIFF",
+     "digitized_he": "ד\"ה האשה אשר נתתה עמדי: כלומר, האשה אשר בכבודך נתת אותה לי לעזר, היא נתנה לי מן העץ, והייתי חושב שכל אשר תאמר אלי יהיה לי לעזר ולהועיל, וזהו שאמר בענשו: \"כי שמעת לקול אשתך\", שלא היית נזהר לעבור על מצוותי בעבור עצתה. ורבותינו קורין אותו בזה \"כפוי טובה\" (ע\"ז ה ע\"ב), ירצו לפרש, שענה אותו: אתה גרמת לי המכשול הזה, שנתת לי אשה לעזר והיא יעצתני להרשיע.",
+     "scan_fixes": [
+      {
+       "digitized": "ד\"ה האשה אשר נתתה עמדי: כלומר,",
+       "scan": "ד\"ה האשה אשר נתת עמדי: כלומר:",
+       "class": "substantive"
+      },
+      {
+       "digitized": "(ע\"ז ה ע\"ב)",
+       "scan": "(ע\"ז ה' ע\"ב)",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "1. מה קשה לשניהם בפסוקנו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "question",
+     "he": "2. מה ההבדל בין שני הפרושים?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה ההבדל בין שני הפירושים?",
+     "scan_fixes": [
+      {
+       "digitized": "שני הפירושים",
+       "scan": "שני הפרושים",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הפירושים",
+       "scan": "הפרושים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 25,
+     "kind": "question",
+     "he": "3. למי משניהם יש להביא ראיה מן השמוש פעמים בשרש \"נתן\" בפסוקנו \"האשה אשר נתת עמדי היא נתנה לי מן העץ\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. למי משניהם יש להביא ראיה מן השימוש פעמיים בשורש \"נתן\" בפסוקנו: \"האשה אשר נתתה עמדי היא נתנה לי מן העץ\"?",
+     "scan_fixes": [
+      {
+       "digitized": "מן השימוש פעמיים בשורש \"נתן\" בפסוקנו: \"האשה אשר נתתה עמדי…\"",
+       "scan": "מן השמוש פעמים בשרש \"נתן\" בפסוקנו \"האשה אשר נתת עמדי…\"",
+       "class": "substantive"
+      },
+      {
+       "digitized": "השימוש פעמיים בשורש \"נתן\" בפסוקנו: \"האשה אשר נתתה עמדי…\"",
+       "scan": "השמוש פעמים בשרש \"נתן\" בפסוקנו \"האשה אשר נתת עמדי…\"",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  },
+  {
+   "letter": "ו",
+   "header_scan": "ו. י\"ג  ותאמר האשה הנחש השיאני",
+   "header_digitized": "ו. הנחש השיאני (2)",
+   "items": [
+    {
+     "i": 39,
+     "kind": "source",
+     "ref": "Genesis 3:13",
+     "he": "\"וַתֹּאמֶר הָאִשָּׁה הַנָּחָשׁ הִשִּׁיאַנִי\"",
+     "en": "And the LORD God said unto the woman: ‘What is this thou hast done?’ And the woman said: ‘The serpent beguiled me, and I did eat.’",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 40,
+     "kind": "source",
+     "ref": "Rashi on Genesis 3:13:1",
+     "he": "ד\"ה: השיאני: הטעני, כמו ( מלכים ב' י\"ח ) \"אל ישיא אתכם חזקיה\".",
+     "en": "השיאני means HE DECEIVED ME; — we find the word in the same meaning in (2 Chronicles 32:15), “Now therefore let not Hezekiah beguile you” (Genesis Rabbah 19).",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "(מלכים ב' י\"ח)",
+       "scan": "(מל' ב' י\"ח)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 41,
+     "kind": "source",
+     "ref": "Mizrachi, Genesis 3:13:1",
+     "he": "ר' אליהו מזרחי, מפרש את דבריו:\nלא לשון הסתה ופתוי, דאם כן אין זו תשובה לדברי השם!",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "ר' אליהו מזרחי, מפרש את דבריו:\nלא לשון הסתה ופיתוי, דאם כן אין זו תשובה לדברי השם!",
+     "scan_fixes": [
+      {
+       "digitized": "הסתה ופיתוי",
+       "scan": "הסתה ופתוי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 42,
+     "kind": "question",
+     "he": "גור אריה: \n לא לשון הסתה, דאין זה תשובה לחוטא שאומרים לו: \"למה חטאת?\" והוא ישיב: \"פלוני הסית אותי\".",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 43,
+     "kind": "source",
+     "ref": "Rashi on Genesis 3:14:1",
+     "he": "והשוה י\"ד רש\"י\nד\"ה כי עשית זאת: מכאן שאין מהפכין בזכותו של מסית...",
+     "en": "כי עשית זאת BECAUSE THOU HAST DONE THIS — From here we infer that we should not occupy ourselves with what may be in favour of one who seduces people to idolatry, for had He asked it, “Why hast thou done this?”, it could have answered Him, “When the words of the teacher and those of the pupil are contradictory, whose orders should be obeyed?” (Sanhedrin 29a). (i. e. if You told them one thing and I another, should they not have obeyed You?).",
+     "scan_status": "DIFF",
+     "digitized_he": "והשווה פסוק י\"ד, רש\"י:\nד\"ה כי עשית זאת: מכאן שאין מהפכין בזכותו של מסית...",
+     "scan_fixes": [
+      {
+       "digitized": "והשווה פסוק י\"ד, רש\"י:",
+       "scan": "והשוה י\"ד רש\"י",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 44,
+     "kind": "question",
+     "he": "הרא\"ם, מקשה על דברי רש\"י האחרונים: \n יש לתמוה על דברי רש\"י ד\"ה כי עשית זאת, אם כן – 'השאה' זו 'הסתה'?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 45,
+     "kind": "text",
+     "he": "ר' אליעזר היילפרין, בפרושו לרש\"י \"באורי מוהרא\"ל\": \n לפי מה שקבעו בעלי הלשון על ההבדל בין \"משיא\" ובין \"מסית\" סרה תלונת הרא\"ם מעל רש\"י.",
+     "scan_status": "DIFF",
+     "digitized_he": "ר' אליעזר היילפרין, בפירושו לרש\"י באורי מוהרא\"ל: \n לפי מה שקבעו בעלי הלשון על ההבדל בין \"משיא\" ובין \"מסית\" סרה תלונת הרא\"ם מעל רש\"י.",
+     "scan_fixes": [
+      {
+       "digitized": "בפירושו לרש\"י באורי מוהרא\"ל:",
+       "scan": "בפרושו לרש\"י \"באורי מוהרא\"ל\":",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בפירושו לרש\"י באורי מוהרא\"ל",
+       "scan": "בפרושו לרש\"י \"באורי מוהרא\"ל\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 46,
+     "kind": "question",
+     "he": "1. התוכל לישב את קושית הרא\"ם בהתאם לתשובתך לשאלה ה?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. התוכל ליישב את קושיית הרא\"ם בהתאם לתשובתך לשאלה במקטע ה?",
+     "scan_fixes": [
+      {
+       "digitized": "התוכל ליישב את קושיית הרא\"ם בהתאם לתשובתך לשאלה במקטע ה?",
+       "scan": "התוכל לישב את קושית הרא\"ם בהתאם לתשובתך לשאלה ה?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "ליישב את קושיית הרא\"ם … לשאלה במקטע ה?",
+       "scan": "לישב את קושית הרא\"ם … לשאלה ה?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 47,
+     "kind": "question",
+     "he": "2. אם כן – למה אמרה האשה \"השיאני\" ולא אמרה \"הסיתני\"?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§ב: The scan has two `*` in §ב: after `היתה` in Bereshit Rabbah [6] (kept in the digitization as `היתה*`) and after `\"והתהלכתי בתוככם\"` in Ramban [10] (dropped). The footnote line `* עיין עלון ההדרכה.` is dropped.",
+  "§ב: Question numbering `1)`–`4)` rendered `1.`–`4.`; `xx` marks on questions 3 and 4 dropped.",
+  "§ד: Question numbering `1)`–`3)` rendered `1.`–`3.`; underlining of `נתת` / `נתנה` in q3 lost.",
+  "§ו: `x` on question 1 and `xx` on question 2 dropped.",
+  "§ו: Below §ו, a boxed subscription notice (`גליון לעיון בפרשת השבוע / ועלון הדרכה – שנת תשכ\"ח`, prices, address of the המחלקה לתרבות תורנית, and the line `גליון נח ישלח רק לאלה שחדשו את הזמנתם!`) is not digitized."
+ ],
+ "needs_human": [
+  8,
+  25,
+  46
+ ]
+}

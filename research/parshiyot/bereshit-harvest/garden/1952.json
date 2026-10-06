@@ -1,0 +1,445 @@
+{
+ "sheet_id": 161471,
+ "year_g": "1952",
+ "year_he": "תשי\"ב",
+ "theme": "garden",
+ "title": "פרשת בראשית תשי\"ב - בהשוואת פרק א' ופרק ב'",
+ "sefaria_url": "https://www.sefaria.org/sheets/161471",
+ "pdf_url": "https://www.nechama.org.il/pdf/820.pdf",
+ "scancheck": "bereshit-scancheck/161471-1952.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. ה': וכל שיח השדה טרם יהיה",
+   "header_digitized": "א. \"טרם יהיה\"",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Genesis 2:5",
+     "he": "\"וְכֹל שִׂיחַ הַשָּׂדֶה טֶרֶם יִהְיֶה\"",
+     "en": "No shrub of the field was yet in the earth, and no herb of the field had yet sprung up; for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground;",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Rashi on Genesis 2:5:1-2",
+     "he": "ד\"ה טרם יהיה בארץ: כל טרם שבמקרא לשון \"עד לא\" הוא, ואינו לשון קודם ואינו נפעל לומר הטרים כאשר יאמר הקדים. וזה מוכיח ועוד אחר ( שמות ט ') כי טרם תיראון עדיין לא תיראון, ואף זה תפרש עדיין לא היה בארץ כשנגמרה בריאת העולם בששי קודם שנברא אדם וכל עשב השדה עדיין לא צמח, ובג' שכתוב ותוצא, לא יצאו אלא על פתח הקרקע עמדו עד יום ו', ולמה, כי לא המטיר, ומה טעם לא המטיר, לפי שאדם אין לעבוד את האדמה ואין מכיר בטובתן של גשמים. וכשבא אדם וידע שהם צורך לעולם התפלל עליהם וירדו וצמחו האילנות והדשאים.",
+     "en": "טרם יהיה בארץ WAS NOT YET IN THE EARTH — Wherever טרם occurs in the Scriptures it means “not yet” and does not mean “before”. It cannot be made into a verbal form, saying הטרים as one says הקדים (verbal form of קדם) and this passage proves that this is the meaning and not \"before\" as well as another (Exodus 9:30), כי טרם תראון “that ye do not yet fear the Lord”. Therefore you must explain this verse also thus: “No plant of the field was yet in the earth” at the time when the creation of the world was completed on the sixth day before man was created, and וכל עשב השדה טרם יצמח means “and every herb of the field had not yet grown”. But as regards the third day of creation about which it is written “The earth brought forth etc.” this does not signify that they came forth above the ground but that they remained at the opening of the ground (i. e. just below the surface) until the sixth day (Chullin 60a). כי לא המטיר BECAUSE GOD HAD NOT CAUSED IT TO RAIN — And what is the reason that God had not caused it to rain? כי אדם אין לעבוד את האדמה BECAUSE THERE WAS NO MAN TO TILL THE GROUND, and there was, therefore, no one to recognize the utility of rain. When Adam came (was created), however, and he realised that it was necessary for the world, he prayed for it and it fell, so that trees and verdure sprang forth.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Ramban on Genesis 2:5:1",
+     "he": "ד\"ה וכל שיח השדה: על דעת רבותינו (בבראשית רבה) [עיין חולין ס:] בשלישי עמדו על פתח קרקע הארץ, ובששי צמחו לאחר שהמטיר עליהם. ועל דעתי כפי הפשט, כי בשלישי הוציאה הארץ העשב ועץ הפרי בקומותם וצביונם כאשר ציוותה בהם, ועכשיו יספר הכתוב כי אין נוטע וזורע מהם, והיא לא תצמח, עד אשר עלה אד ממנה והשקה אותה ונוצר האדם העובד אותה לזרוע ולנטוע ולשמור. וזהו טעם \"שיח השדה טרם יצמח\", שלא אמר \"שיח האדמה\", כי המקום הנעבד יקרא \"שדה\", אשר תזרע בשדה ( שמות כ\"ג ט\"ז ), לא נעבור בשדה ובכרם ( במדבר כ' י\"ז ). וזהו תשמישו של עולם שנהיה מאחרי ששת ימי בראשית והלאה כל ימי עולם, כי בסיבת האד ימטירו השמים ובסבתם הארץ זירועיה תצמיח.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "question",
+     "he": "1. מה קשה לשניהם?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "question",
+     "he": "2. מה ביניהם בישוב הקשי?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה ביניהם בישוב הקושי?",
+     "scan_fixes": [
+      {
+       "digitized": "מה ביניהם בישוב הקושי?",
+       "scan": "מה ביניהם בישוב הקשי?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בישוב הקושי?",
+       "scan": "בישוב הקשי?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "3. מה הסיוע מלשון הכתוב לכל אחד משני הפרשנים?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "kind": "question",
+     "he": "4. בעקבות מי מהם הולך ספורנו?",
+     "basis": "scan-only",
+     "cite": "bereshit-scancheck/161471-1952.md:30 (spot-checked by Claude on page1_strip2)"
+    },
+    {
+     "i": 7,
+     "kind": "source",
+     "ref": "Sforno on Genesis 2:5:1",
+     "he": "ד\"ה טרם יהיה בארץ: אמנם הטעם שבהבראם נמצאו בכח ולא בפועל באופן שכל שיח השדה עדיין לא היה בארץ וכן כל עשב השדה עדיין לא צמא.",
+     "en": "טרם יהיה בארץ, these words emphasise that although all phenomena had been created, this referred to their potential, not to their functioning as they do nowadays. כל עשב השדה, had not yet sprouted,",
+     "scan_status": "NOT-IN-SCAN",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. ה'... טרם יהיה...טרם יצמח",
+   "header_digitized": "ב. \"טרם יצמח\"",
+   "items": [
+    {
+     "i": 9,
+     "kind": "text",
+     "he": "פסוק ה' \n \"...טֶרֶם יִהְיֶה... טֶרֶם יִצְמָח\"",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "text",
+     "he": "בנו יעקב בספרו Genesis עמ' 81: \n לא נאמר שלא היתה עדיין צמחיה קיימת,, להיפך – נאמר: היתה קיימת אלא שהיתה עדיין במצב בלתי מפותח, ואין פלא, כי שני הגורמים המשפיעים על התפתחות הצמחיה לא פעלו עדיין: כי לא המטיר ה' ולא עבד אדם את האדמה. ובכן: פירוש \"טרם יהיה\" אינו: לא היה במציאות, לא היה קיים, כי אם: לא הגיע למה שהיה מיועד להיות. וכן ישעיהו ט\"ו ו' ; ירמיהו י\"ד ה' .",
+     "scan_status": "DIFF",
+     "digitized_he": "בנו יעקב, בספרו Genesis עמוד 81 (תרגום מגרמנית): \n לא נאמר שלא הייתה עדיין צמחיה קיימת, להיפך – נאמר: הייתה קימת אלא שהייתה עדיין במצב בלתי מפותח, ואין זה פלא, כי שני הגורמים המשפיעים על התפתחות הצמחיה לא פעלו עדיין: כי לא המטיר ה' ולא עבד אדם את האדמה. ובכן: פירוש \"טרם יהיה\" אינו: לא היה במציאות, לא היה קיים, כי אם: לא הגיע למה שהיה מיועד להיות. וכן ישעיהו ט\"ו ו' ; ירמיהו י\"ד ה' .",
+     "scan_fixes": [
+      {
+       "digitized": "בנו יעקב, בספרו Genesis עמוד 81 (תרגום מגרמנית):",
+       "scan": "בנו יעקב בספרו Genesis עמ' 81:",
+       "class": "substantive"
+      },
+      {
+       "digitized": "לא נאמר שלא הייתה עדיין צמחיה קיימת",
+       "scan": "לא נאמר שלא היתה עדיין צמחיה קיימת,",
+       "class": "spelling"
+      },
+      {
+       "digitized": "נאמר: הייתה קימת אלא שהייתה עדיין",
+       "scan": "נאמר: היתה קיימת אלא שהיתה עדיין",
+       "class": "spelling"
+      },
+      {
+       "digitized": "במצב בלתי מפותח, ואין זה פלא",
+       "scan": "במצב בלתי מפותח, ואין פלא",
+       "class": "substantive"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "וכן ישעיהו ט\"ו ו'; ירמיהו י\"ד ה'.",
+       "scan": "וכן ישעיהו ט\"ו[?] ו'; ירמיה י\"ד ה'",
+       "class": "corroborated"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "1. למי ממפרשינו מסכים בנו יעקב?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "2. מהי ראיתו משני הפסוקים שבישעיה ובירמיהו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מהי ראייתו משני הפסוקים שבישעיה ובירמיהו?",
+     "scan_fixes": [
+      {
+       "digitized": "מהי ראייתו",
+       "scan": "מהי ראיתו",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ראייתו",
+       "scan": "ראיתו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "3. כנגד איזו שיטה בספרות המדעית פונה כאן בנו יעקב?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. ח' רש\"י ד\"ה מקדם החל מן \"ואם תאמר\" עד \"וללמד על העופות\".",
+   "header_digitized": "ד. \"גן בעדן מקדם\" - שאלות ברש\"י",
+   "items": [
+    {
+     "i": 19,
+     "kind": "source",
+     "ref": "Genesis 2:8",
+     "he": "\"...גַּן בְּעֵדֶן מִקֶּדֶם...\"",
+     "en": "And the LORD God planted a garden eastward, in Eden; and there He put the man whom He had formed.",
+     "scan_status": "NOT-IN-SCAN",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "source",
+     "ref": "Rashi on Genesis 2:8:1",
+     "he": "ד\"ה מקדם: ואם תאמר הרי כבר נאמר ויברא וגו' את האדם וגו', ראיתי בברייתא של ר' אליעזר בנו של ר' יוסי הגלילי מל\"ב מידות שהתורה נדרשת וזו אחת מהן: כלל שלאחריו מעשה הוא פרטו של ראשון. ויברא וגו' את האדם זהו כלל סתם בריאתו מהיכן וסתם מעשיו חזר ופירש וייצר ה' אלהים וגו' ויצמח לו גן עדן ויניחהו בגן עדן ויפל עליו תרדמה השומע סבור שהוא מעשה אחר ואינו אלא פרטו של ראשון. וכן אצל הבהמה חזר וכתב ויצר ה' וגו' מן האדמה כל חית השדה כדי לפרש ויבא אל האדם לקרות שם וללמד על העופות שנבראו מן הרקק.",
+     "en": "מקדם EASTWARD — In the east of Eden He planted the garden. Should you say, however, it is already written, (1:27) “and He created the man etc.”, then I say that I have seen the Baraitha of R. Eliezer the son of R. José the Galilean, dealing with the thirty two rules of interpretation according to which the Torah (Agada) can be interpreted, and the following is one of them: when a general statement of an action is followed by a detailed account of it, the latter is a particularisation of the former: — “And He created the man” is a general statement, but it does not explicitly state whence he was created and what God did unto him. Now it repeats it and explains these things: “And the Lord God formed man”, “and He made to grow for him the garden of Eden”, and He caused a deep sleep to fall upon him.” He who hears this might think that it is a different account entirely, whereas it is nothing else but the details of the former general statement. Similarly with reference to the cattle the creation of which has been mentioned above (1:27). it resumes and writes, (2:19) “and out of the ground the Lord [God] formed every beast of the field etc.”, for the purpose of explaining “and He brought them unto the man to give them names”, and also to state that the fowls were created from the swamps.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "1. שני קשיים רצה רש\"י לתרץ בזה, הסבר מה הם?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. שני קשיים רצה רש\"י לתרץ בזה. הסבר מה הם.",
+     "scan_fixes": [
+      {
+       "digitized": "שני קשיים רצה רש\"י לתרץ בזה. הסבר מה הם.",
+       "scan": "שני קשיים רצה רש\"י לתרץ בזה, הסבר מה הם?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לתרץ בזה. הסבר מה הם.",
+       "scan": "לתרץ בזה, הסבר מה הם?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 22,
+     "kind": "question",
+     "he": "2. מה תירוצו לכל אחד משני הקשיים?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "3. תן עוד דוגמאות בפרשת בראשית (או בפרשיות אחרות שבספר בראשית) למדה זו שהתורה נדרשת בה, שמזכירה רש\"י כאן.",
+     "scan_status": "DIFF",
+     "digitized_he": "3. תן עוד דוגמאות בפרשת בראשית (או בפרשיות אחרות שבספר בראשית) מידה זו שהתורה נדרשת בה, שמזכירה רש\"י כאן.",
+     "scan_fixes": [
+      {
+       "digitized": "...שבספר בראשית) מידה זו שהתורה נדרשת בה",
+       "scan": "...שבספר בראשית) למדה זו שהתורה נדרשת בה",
+       "class": "substantive"
+      },
+      {
+       "digitized": "מידה זו",
+       "scan": "למדה זו",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  },
+  {
+   "letter": "ו",
+   "header_scan": "ו. ט\"ו לעבדה ולשמרה",
+   "header_digitized": "ו. \"לעבדה ולשמרה\" (1)",
+   "items": [
+    {
+     "i": 33,
+     "kind": "source",
+     "ref": "Genesis 2:15",
+     "he": "\"לְעָבְדָהּ וּלְשָׁמְרָהּ\"",
+     "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 34,
+     "kind": "source",
+     "ref": "Chizkuni, Genesis 2:15:2",
+     "he": "\"לעבדה\": על שם \"ששת ימים תעבוד\"; \"ולשמרה\" על שם \"שמור את יום השבת\".",
+     "en": "ולשמרה, “and to protect it against animals that would trample it.” The Torah speaks of a period prior to when the angels with drawn swords would prevent entry into Gan Eden. An alternate exegesis of these two words: the word לעבדה, is to be understood as in Exodus 20,8, i.e. ששת ימים תעבוד, “during the six days you are to work, etc;” and the word: לשמרה, is to be understood as in Deuteronomy 5,12: שמור את יום השבת, “observe the Sabbath,” in other words, G-d commanded Adam already at that time to observe the seventh day of the week as we observe the Sabbath after the Torah had been given, by not performing work on it.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 35,
+     "kind": "question",
+     "he": "1. כיצד פירש אות \"ה\" של לעבד ה ושל לשמר ה ?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 36,
+     "kind": "question",
+     "he": "2. במה הוא נוטה מן הפירוש הרגיל ומה הניעו לכך?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. במה הוא נוטה מן הפירוש הרגיל, ומה הניעו לכך?",
+     "scan_fixes": [
+      {
+       "digitized": "הפירוש הרגיל, ומה",
+       "scan": "הפירוש הרגיל ומה",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הרגיל, ומה",
+       "scan": "הרגיל ומה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ז",
+   "header_scan": "ז. ט\"ו \"לעבדה ולשמרה\"",
+   "header_digitized": "ז. \"לעבדה ולשמרה\" (2)",
+   "items": [
+    {
+     "i": 38,
+     "kind": "source",
+     "ref": "Genesis 2:15",
+     "he": "\"לְעָבְדָהּ וּלְשָׁמְרָהּ\"",
+     "en": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 39,
+     "kind": "text",
+     "he": "הסבר שאין פסוקנו סותר לנאמר ב פרק ג', י\"ט .",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "בפרק ג', י\"ט.",
+       "scan": "בפרק ג' י\"ט,",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 40,
+     "kind": "question",
+     "he": "(והשוה אבות דר' נתן פרק י\"א בשבח העבודה: \n שמעיה אומר: \"אהוב את המלאכה\" - כיצד? שיהא אדם אוהב את המלאכה ואל יהיה שונא את המלאכה, שכשם שהתורה ניתנה בברית, כך המלאכה ניתנה בברית, שנאמר (שמ' ל\"א) \"ששת ימים יעשה מלאכה.. ברית עולם\", \nר' שמעון בן אלעזר אומר: אף אדם הראשון לא טעם כלום עד שעשה מלאכה , שנאמר \"ויניחהו בגן עדן לעבדה ולשמרה\" והדר \"מכל עץ הגן אכול תאכל\").",
+     "scan_status": "DIFF",
+     "digitized_he": "והשוה אבות דר' נתן פרק י\"א בשבח העבודה: \n שמעיה אומר: אהוב את המלאכה – כיצד? שיהא אדם אוהב את המלאכה ואל יהיה שונא את המלאכה, שכשם שהתורה ניתנה בברית, כך המלאכה ניתנה בברית, שנאמר (שמות ל\"א) \"ששת ימים יעשה מלאכה... ... ברית עולם\". \nר' שמעון בן אלעזר אומר: אף אדם הראשון לא טעם כלום עד שעשה מלאכה , שנאמר \"ויניחהו בגן עדן לעבדה ולשמרה\" והדר \"מכל עץ הגן אכול תאכל.\"",
+     "scan_fixes": [
+      {
+       "digitized": "והשוה אבות דר' נתן פרק י\"א בשבח העבודה:",
+       "scan": "(והשוה אבות דר' נתן פרק י\"א בשבח העבודה:",
+       "class": "spelling"
+      },
+      {
+       "digitized": "שמעיה אומר: אהוב את המלאכה – כיצד?",
+       "scan": "שמעיה אומר: \"אהוב את המלאכה\" - כיצד?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "שנאמר (שמות ל\"א) \"ששת ימים יעשה מלאכה... ... ברית עולם\".",
+       "scan": "שנאמר (שמ' ל\"א) \"ששת ימים יעשה מלאכה.. ברית עולם\",",
+       "class": "substantive"
+      },
+      {
+       "digitized": "\"מכל עץ הגן אכול תאכל.\"",
+       "scan": "\"מכל עץ הגן אכול תאכל\").",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  },
+  {
+   "letter": "ח",
+   "header_scan": "בריאת האשה",
+   "header_digitized": "ח. בריאת האשה",
+   "items": [
+    {
+     "i": 42,
+     "kind": "text",
+     "he": "עקדת יצחק: \n ...ולזה ראתה חכמתו ית', שלא יהיה זווג האדם ואשתו על היחס המיניי[?] לבד כשאר בעלי החי, אבל שיהיה להם יחס אישי מיוחד, הוא יחזק אהבתם וחברתם להעזר זה מזה בכל עניניהם[?] עזר גמור ושלם, כאשר יאות להם, שלא יהיה כל אחד מהזכר והנקבה בפני עצמו כשאר הבעל חי הרועים על ידיהם, שאינם צריכים לחברה זה לזה. אמנם יתכן, שתהיה לו חברה נאותה ומשותפת לו כפי צרכו, ולזה אעשה לו העזר הראוי והנאות לו, השוה לו.",
+     "scan_status": "DIFF",
+     "digitized_he": "עקדת יצחק: \n ...ולזה ראתה חכמתו יתברך שלא יהיה זיווג האדם ואשתו על היחס המיני לבד כשאר בעלי החי, אבל שיהיה להם יחס אישי מיוחד, הוא יחזק אהבתם וחברתם להעזר זה מזה בכל ענייניהם עזר גמור ושלם, כאשר יאות להם, שלא יהיה כל אחד מהזכר והנקבה בפני עצמו כשאר הבעל חי הרועים על ידיהם, שאינם צריכים לחברה זה לזה. אמנם יתכן, שתהיה לו חברה נאותה ומשותפת לו כפי צרכו, ולזה אעשה לו העזר הראוי והנאות לו, השוה לו.",
+     "scan_fixes": [
+      {
+       "digitized": "ולזה ראתה חכמתו יתברך שלא יהיה זיווג האדם",
+       "scan": "ולזה ראתה חכמתו ית', שלא יהיה זווג האדם",
+       "class": "spelling"
+      },
+      {
+       "digitized": "על היחס המיני לבד",
+       "scan": "על היחס המיניי[?] לבד",
+       "class": "corroborated"
+      },
+      {
+       "digitized": "בכל ענייניהם",
+       "scan": "בכל עניניהם[?]",
+       "class": "corroborated"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 43,
+     "kind": "text",
+     "he": "הסבר מה הם הפסוקים בפרקנו[,/?] שנאמר בהם במפורש או ברמז רעיון זה.",
+     "scan_status": "DIFF",
+     "digitized_he": "הסבר מהם הפסוקים בפרקנו שנאמר בהם במפורש או ברמז רעיון זה.",
+     "scan_fixes": [
+      {
+       "digitized": "הסבר מהם הפסוקים בפרקנו שנאמר",
+       "scan": "הסבר מה הם הפסוקים בפרקנו[,/?] שנאמר",
+       "class": "substantive"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "הסבר מהם הפסוקים בפרקנו שנאמר",
+       "scan": "הסבר מה הם הפסוקים בפרקנו[,] שנאמר",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: Header phrase `\"טרם יהיה\"` is the digitizer's; scan has the verse pointer `ה':` + verse words.",
+  "§א: Rashi and Ramban full texts expanded from `ד\"ה` pointers.",
+  "§א: Sforno text [7] added; her Q4 about Sforno dropped.",
+  "§א: Typed `x` mark before Q3 dropped.",
+  "§ב: Header phrase `\"טרם יצמח\"` is the digitizer's.",
+  "§ב: `(תרגום מגרמנית)` moved from the end of the quote into the attribution.",
+  "§ד: Rashi excerpt extended beyond her stopping point `\"וללמד על העופות\"`.",
+  "§ד: Typed `x` mark before Q3 dropped.",
+  "§ו: `(1)` numbering and quote marks in the header are the digitizer's; verse pointer `ט\"ו` dropped.",
+  "§ז: `(2)` and dropped verse pointer `ט\"ו` in header.",
+  "§ז: Her parenthesis around the Avot deR. Natan comparison removed; paragraph break inserted.",
+  "§ח: Banner `בריאת האשה` promoted into the lettered header ח; her label `עקדת יצחק:` became a grey attribution label.",
+  "§ח: Abbreviation `ית'` expanded to `יתברך`."
+ ],
+ "needs_human": [
+  10,
+  23,
+  40,
+  43
+ ]
+}

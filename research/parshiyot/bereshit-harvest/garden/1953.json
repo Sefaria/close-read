@@ -1,0 +1,584 @@
+{
+ "sheet_id": 161223,
+ "year_g": "1953",
+ "year_he": "תשי\"ג",
+ "theme": "garden",
+ "title": "פרשת בראשית תשי\"ג - בריאת האישה",
+ "sefaria_url": "https://www.sefaria.org/sheets/161223",
+ "pdf_url": "https://www.nechama.org.il/pdf/570.pdf",
+ "scancheck": "bereshit-scancheck/161223-1953.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "ב",
+   "header_scan": "ב. י\"ח לא טוב היות האדם לבדו",
+   "header_digitized": "ב. \"לא טוב היות האדם לבדו\"",
+   "items": [
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Genesis 2:18",
+     "he": "\"לֹא טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ\"",
+     "en": "And the LORD God said: ‘It is not good that the man should be alone; I will make him a help meet for him.’",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "source",
+     "ref": "Rashi on Genesis 2:18:1",
+     "he": "שלא יאמרו שתי רשויות הן: הקב\"ה יחיד בעליונים ואין לו זוג, וזה יחיד בתחתונים ואין לו זוג.",
+     "en": "'לא טוב היות וגו IT IS NOT GOOD etc. — I shall make an help meet for him in order that people may not say that there are two Deities, the Holy One, blessed be He, the only One among the celestial Beings without a mate, and this one (Adam), the only one among the terrestrial beings, without a mate (Pirkei D'Rabbi Eliezer 12).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "source",
+     "ref": "Sforno on Genesis 2:18:1",
+     "he": "לא יושג טוב התכלית המכוון בדמותו ובצלמו, אם יצטרך להתעסק הוא עצמו בצרכי חייו.",
+     "en": "לא טוב היות האדם לבדו, the purpose of the human species on earth will not be achieved while man who is supposed to reflect the divine image will be left to personally carry out all the menial tasks of daily life on earth by being solitary.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Chizkuni, Genesis 2:18:1",
+     "he": "מתחילה עלה במחשבה לעשות לו זוג, ולא מצא פתח לעשות עד לאחר קריאת השמות, כדי שיתאוה לה ויחבבנה יותר.",
+     "en": "לא טוב היות האדם לבדו, “it is not good for Adam to remain solitary;” this was not a new idea that G-d had; He had planned for it all the time; He did not want to impose a partner on Adam, and that is why He gave him a chance to name the animals and to find that all of them had suitable mates, something that he now felt he lacked. G-d therefore responded to a wish of Adam that he had not even voiced as yet. If the mate was provided in response to his longing he would appreciate his wife more.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Shadal on Genesis 2:18:1",
+     "he": "אין הכוונה לומר שהאל נמלך במחשבתו, אלא המכוון הוא להעיר אותנו על יקרת הזווג, ולהודיע כי לא טוב היות האדם לבדו, ולפיכך רצה הקב\"ה, שיהיה האדם שרוי שעה אחת בלא אשה, ואח\"כ הזמינה לו, כדי שתהיה חביבה עליו, אחר שהרגיש כי בזולתה היה חסר.",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "אין הכוונה לומר שהאל נמלך במחשבתו, אלא המכוון הוא להעיר אותנו על יקרת הזיווג, ולהודיע כי לא טוב היות האדם לבדו, ולפיכך רצה הקב\"ה שיהיה האדם שרוי שעה אחת בלא אישה, ואחר כך הזמינה לו, כדי שתהיה חביבה עליו, אחר שהרגיש כי בזולתה היה חסר.",
+     "scan_fixes": [
+      {
+       "digitized": "על יקרת הזיווג",
+       "scan": "על יקרת הזווג",
+       "class": "spelling"
+      },
+      {
+       "digitized": "רצה הקב\"ה שיהיה האדם שרוי שעה אחת בלא אישה, ואחר כך הזמינה לו",
+       "scan": "רצה הקב\"ה, שיהיה האדם שרוי שעה אחת בלא אשה, ואח\"כ הזמינה לו",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 10,
+     "kind": "question",
+     "he": "1. מפרשי רש\"י מקשים: מה הצריכו לרש\"י להביא כאן דברי חז\"ל אלה ולפרש שמצד זה איננו טוב, ולא יפרש כפשוטו כפי שפרש[?] ספורנו? תרץ קושייתם! (שים לב ודייק בלשון הכתוב!)",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מפרשי רש\"י מקשים: מה הצריכו לרש\"י להביא כאן דברי חז\"ל אלה ולפרש שמצד זה אינו טוב, ולא יפרש כפשוטו כפי שפירש ספורנו? תרץ קושייתם! (שים לב ודייק בלשון הכתוב!)",
+     "scan_fixes": [
+      {
+       "digitized": "ולפרש שמצד זה אינו טוב, ולא יפרש כפשוטו כפי שפירש ספורנו?",
+       "scan": "ולפרש שמצד זה איננו טוב, ולא יפרש כפשוטו כפי שפרש[?] ספורנו?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "שמצד זה אינו טוב … כפי שפירש ספורנו",
+       "scan": "שמצד זה איננו טוב … כפי שפרש[?] ספורנו",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "2. מהו הקשי שרצה חזקוני לתרץ בדבריו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מהו הקושי שרצה חזקוני לתרץ בדבריו?",
+     "scan_fixes": [
+      {
+       "digitized": "מהו הקושי שרצה חזקוני",
+       "scan": "מהו הקשי שרצה חזקוני",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "3. מהו הקשי שרצה שד\"ל לתרץ בדבריו?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. מהו הקושי שרצה שד\"ל לתרץ בדבריו?",
+     "scan_fixes": [
+      {
+       "digitized": "מהו הקושי שרצה שד\"ל",
+       "scan": "מהו הקשי שרצה שד\"ל",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. י\"ח אעשה לו עזר כנגדו",
+   "header_digitized": "ג. בביאור הביטוי \"עזר כנגדו\"",
+   "items": [
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Genesis 2:18",
+     "he": "\"אֶעֱשֶׂה לּוֹ עֵזֶר כְּנֶגְדּוֹ\"",
+     "en": "And the LORD God said: ‘It is not good that the man should be alone; I will make him a help meet for him.’",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "source",
+     "ref": "Rashi on Genesis 2:18:2",
+     "he": "זכה – \"עזר\"; לא זכה – \"כנגדו\" להלחם.",
+     "en": "עזר כנגדו A HELP MEET FOR HIM — (כנגדו literally, opposite, opposed to him) If he is worthy she shall be a help to him; if he is unworthy she shall be opposed to him, to fight him (Yevamot 63a).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "source",
+     "ref": "Gur Aryeh on Bereishit 2:18:2",
+     "he": "דבריו אלה מבאר בעל גור אריה (ר' יהודה בן בצלאל, מהר\"ל מפראג, חי[?] במאה ה-16): וכך פירוש דברי רש\"י: אעשה לו עזר שהוא עזר כנגדו, כי זה העזר איננו עזר כמו האב לבן או בן לאב, דלעולם לא יתנגדו זה את זה, אבל עזר זה יהיה \"עזר כנגדו\", כי האישה שהיא חשובה ושקולה כמו האיש ומסייעה לאיש, או האיש מביא כי האשה שהיא, זה נקרא \"עזר כנגדו\", וכן אם לא זכה היא כנגדו לגמרי, אבל האב לבן איננו כנגדו לעולם – כך יש לפרש לפי פשוטו, ואם לא היה כן, לא היה מביא רש\"י מדרש זה, שאיננו קרוב לפשוטו . ויש בזה דבר נעלם עוד: כי הזכר והנקבה הם שני הפכים, זה זכר וזאת נקבה, אם זכה – מתחברים בכח אחד לגמרי, כי כל שני הפכים מתחברים בכח אחד . כאשר הם זוכים, כלומר, שהשם ית' שעושה שלום בין ההפכים מקשר ומחבר אותם ; אבל כאשר אינם זוכים, אז לפי שהם הפכים – גורם שהיא \"כנגדו\".",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "דבריו אלה מבאר בעל גור אריה, (מהר\"ל מפראג, במאה ה-16):\nוכך פירוש דברי רש\"י: אעשה לו עזר שהוא עזר כנגדו, כי זה העזר אינו עזר כמו האב לבן או בן לאב, דלעולם לא יתנגדו זה את זה, אבל עזר זה יהיה \"עזר כנגדו\", כי האישה שהיא חשובה ושקולה כמו האיש ומסייעה לאיש, או האיש מביא והאישה מתקנת לו, זה נקרא \"עזר כנגדו\", וכן אם לא זכה היא כנגדו לגמרי, אבל האב לבן אינו כנגדו לעולם – כך יש לפרש לפי פשוטו, ואם לא היה כן, לא היה מביא רש\"י מדרש זה, שאינו קרוב לפשוטו . \nויש בזה דבר נעלם עוד: כי הזכר והנקבה הם שני הפכים, זה זכר וזאת נקבה, אם זכה – מתחברים בכח אחד לגמרי, כי כל שני הפכים מתחברים בכח אחד . כאשר הם זוכים, כלומר, שהשם יתברך שעושה שלום בין ההפכים מקשר ומחבר אותם ; אבל כאשר אינם זוכים, אז לפי שהם הפכים – גורם שהיא \"כנגדו\".",
+     "scan_fixes": [
+      {
+       "digitized": "דבריו אלה מבאר בעל גור אריה, (מהר\"ל מפראג, במאה ה-16):",
+       "scan": "דבריו אלה מבאר בעל גור אריה (ר' יהודה בן בצלאל, מהר\"ל מפראג, חי[?] במאה ה-16):",
+       "class": "substantive"
+      },
+      {
+       "digitized": "כי זה העזר אינו עזר כמו האב לבן",
+       "scan": "כי זה העזר איננו עזר כמו האב לבן",
+       "class": "substantive"
+      },
+      {
+       "digitized": "והאישה מתקנת לו",
+       "scan": "כי האשה שהיא",
+       "class": "substantive"
+      },
+      {
+       "digitized": "אבל האב לבן אינו כנגדו לעולם",
+       "scan": "אבל האב לבן איננו כנגדו לעולם",
+       "class": "substantive"
+      },
+      {
+       "digitized": "מדרש זה, שאינו קרוב לפשוטו",
+       "scan": "מדרש זה, שאיננו קרוב לפשוטו",
+       "class": "substantive"
+      },
+      {
+       "digitized": "שהשם יתברך שעושה שלום",
+       "scan": "שהשם ית' שעושה שלום",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בעל גור אריה, (מהר\"ל מפראג, במאה ה-16):",
+       "scan": "בעל גור אריה (ר' יהודה בן בצלאל, מהר\"ל מפראג, חי[?] במאה ה-16):",
+       "class": "substantive"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "מתחברים בכח אחד. כאשר הם זוכים",
+       "scan": "מתחברים בכח אחד, כאשר הם זוכים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 17,
+     "kind": "source",
+     "ref": "Shadal on Genesis 2:18:2",
+     "he": "נראה לי שהוא מלשון \"כנגד\" שבלשון חכמים, כמו \"כנגד ארבעה בנים דברה התורה\", ענינו: ביחס לארבעה בנים. עזר מתיחס לו ומתוקן לצרכיו.",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "נראה לי שהוא מלשון \"כנגד\" שבלשון חכמים, כמו \"כנגד ארבעה בנים דיברה התורה\", עניינו: ביחס לארבעה בנים. עזר מתייחס לו ומתוקן לצרכיו.",
+     "scan_fixes": [
+      {
+       "digitized": "כנגד ארבעה בנים דיברה התורה\", עניינו:",
+       "scan": "כנגד ארבעה בנים דברה התורה\", ענינו:",
+       "class": "spelling"
+      },
+      {
+       "digitized": "עזר מתייחס לו",
+       "scan": "עזר מתיחס לו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 18,
+     "kind": "question",
+     "he": "1. מה קשה למפרשים בפסוקנו?",
+     "basis": "digitization"
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "2. במה סוטה המדרש המובא בדברי רש\"י מפשוטו של מקרא?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "3. הסבר את הרעיון שבדברי המדרש לפי פרושו[?] של הגור אריה! (שים לב ביחוד לדבריו החל מן \"ויש בזה דבר נעלם\") מה פירוש המלים המסומנות בקו.",
+     "scan_status": "DIFF",
+     "digitized_he": "3. הסבר את הרעיון שבדברי המדרש לפי פירושו של הגור אריה! (שים לב בייחוד לדבריו החל מן \"ויש בזה דבר נעלם\") מה פירוש המילים המסומנות בקו?",
+     "scan_fixes": [
+      {
+       "digitized": "פירושו … בייחוד … המילים המסומנות בקו?",
+       "scan": "פרושו[?] … ביחוד … המלים המסומנות בקו.",
+       "class": "corroborated"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "לפי פירושו של הגור אריה! (שים לב בייחוד לדבריו … ) מה פירוש המילים המסומנות בקו?",
+       "scan": "לפי פרושו[?] של הגור אריה! (שים לב ביחוד לדבריו החל מן \"ויש בזה דבר נעלם\") מה פירוש המלים המסומנות בקו.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. כ' ולאדם לא מצא עזר כנגדו",
+   "header_digitized": "ד. \"ולאדם לא מצא עזר כנגדו\"",
+   "items": [
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Genesis 2:20",
+     "he": "\"וּלְאָדָם לֹא מָצָא עֵזֶר כְּנֶגְדּוֹ\"",
+     "en": "And the man gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found a help meet for him.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "text",
+     "he": "ראב\"ע, פסוק י\"ח : \n ד\"ה ויאמר: ... וטעם ולאדם לא מצא - ולנפשו לא מצא. כי כן מנהג לשון הקודש כמו \"וישלח ה' את ירבעל ואת בדן ואת יפתח ואת שמואל\" ( שמואל א' י\"ב י\"א ) ורחוק הוא בעיני שישוב אל השם.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Ramban on Genesis 2:20:1",
+     "he": "ד\"ה אשר יקרא לו האדם:...והנכון בעיני כי לא היה החפץ לפניו יתברך לקחת צלעו ממנו עד שידע האדם שאין בנבראים עזר לו, ושיתאוה שיהיה לו עזר כמותה. ומפני זה היה צריך לקחת ממנו אחת מצלעותיו. וזה טעם \"ולאדם לא מצא עזר כנגדו\", כלומר ולשם האדם לא מצא עזר שיהיה ראוי כנגדו ותקרא בשמו שיוליד ממנו. ואין צריך בכאן לדברי המפרשים שיאמרו כי יבוא בכאן שם במקום הכינוי ולא מצא עזר כנגדו כדרך נשי למך ( בראשית ד' כ\"ג ) ואת יפתח ואת שמואל ( שמואל א' י\"ב י\"א ).",
+     "en": "... but for Adam there was not found a help meet for him: Quoting Rashi: \"When He brought them, He brought them before him male and female. He said 'Each has a mate, but I have no mate.' Immediately 'And the LORD God caused a deep sleep to fall upon the man.'\" And he explained well, for as the verses about assigning the names are inserted within the matter of the help meet, that and the assigning of the names are resolved according the understanding of the commentators (Rashi and Radak) like its plain meaning - that each one will have a name for itself, so that each will be known and recognized through its generations with the names that he will call them, for it will be its name forever. And now, the Holy One Blessed Be He, when He wanted to make the help meet for him, He then brought them before him, for He needed to bring them to him in pairs, to assign names also to their females - for there are those that he assigned one name, and there are those that are split, such as bull and cow, he-goat and she-goat, ram and ewe, etc. And when he saw them mated with each other, he became desirous of them, and when he did not find among them a help meet for himself, he became sad and fell asleep. And God dropped a deep sleep on him so that he wouldn't feel the removal of a rim from his body. And my understanding is that the assigning of the name is the help meet. And the issue is that the Holy One Blessed Be He brought every animal of the field and every bird of the sky before Adam, and he discerned their nature and assigned them names. That is, the name that is fitting for them, based on their natures. And through the names, it became clear which is fitting to be a help meet for another, that is, fitting to procreate together. And even if we believe that the assignment of names is by convention, not nature, we can say that the assignment of names is the division of the species. For they passed before him, male and female, and he pondered their natures, which is a help meet for another, that is, the one that procreates with it. And he let this be known through names: He called the light [ovine] animals with with one name, for they could each help each other with procreation, since they could all procreate with each other, and the heavy [bovine] animals with another name, and the wild animals with another name, for they cannot procreate with each other, and so with all of them. And he didn't find in any of them one whose nature was to be a help meet to him, to be assigned his name. For the assignment of the names was the division of the species, and the separation, like a seal between one and another, and I have explained above. And the issue was not that it was in the Man's hands to find within them a help meet for himself, based on the fact that they were created with their own natures. Instead, if he would see a proper nature in one of the species and choose it, the Holy One Blessed Be He would fix its nature to him, as He did with the rib, and He wouldn't need to build it as a new construction. And this is the meaning of \"and whatsoever the man would call every living creature, that was to be the name thereof,\" meaning that would be its name that the Holy One Blessed Be He would maintain that name for it, in the manner that I have explained. And what appears correct to me is that the desire was not before Blessed He to take the rib from him until Adam would know that there was not among the creatures a help meet for himself, so that he would desire to have for himself a help meet, like them. And because of this, He needed to take from him one of his ribs. And this is the meaning of \"but for Adam there was not found a help meet for him,\" meaning - but for the name of the Man, he did not finaed a help meet that would be fitting for him, to be assigned his name, to procreate with him. And there is no need here for the words of the commentators (Raava on verse 18 and the Radak) who said that the name will come through here in place of a nickname, and that he did not find a help meet opposite himself, in the manner of the wives of Lemech (Below, 4:23) and Jeftach and Samuel (I Samuel 12:11). And this is why he said \"This is now ...,\" meaning: This time, I have found a help meet for myself, which I have not found until now in all the other species, for she is a bone of my bones and flesh of my flesh. And it is fitting that she will be assigned my actual name, for this one and this one can procreate together. (And in the word \"this,\" there is a secret, which will be known from our commentary on the Parasha of \"And this is the blessing,\" if my Rock blesses me to get up to there.) And therefore, he responded \"because she was taken out of Man.\" And understand.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "kind": "text",
+     "he": "ושני הפסוקים המובאים ברמב\"ן הם: בראשית פ' ד' כ\"ג[?]; שמואל א' י\"ב י\"א.",
+     "basis": "scan-only",
+     "cite": "bereshit-scancheck/161223-1953.md:90",
+     "needs_human": true
+    },
+    {
+     "kind": "text",
+     "he": "(בסוף דברי רמב\"ן אלה נפלה טעות דפוס בחומשים שלנו וצריך להגיה: \"ולא מצא כנגדו בדרך \"נשי למך\"... וכן הגיה בעל כור הזהב.)",
+     "basis": "scan-only",
+     "cite": "bereshit-scancheck/161223-1953.md:91,107"
+    },
+    {
+     "i": 25,
+     "kind": "question",
+     "he": "1. מה קשה למפרשים בפסוקנו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "2. מי הנושא של \"ולאדם לא מצא\" לדעת שני המפרשים הנ\"ל?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "3. הסבר את דברי הראב\"ע \"שישוב אל ה'\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. הסבר את דברי הראב\"ע \"שישוב אל ה'\".",
+     "scan_fixes": [
+      {
+       "digitized": "\"שישוב אל ה'\".",
+       "scan": "\"שישוב אל ה'\"?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 28,
+     "kind": "question",
+     "he": "4. הסבר את דברי הרמב\"ן \"כי יבוא בכאן שם במקום כנוי\".",
+     "scan_status": "DIFF",
+     "digitized_he": "4. הסבר את דברי הרמב\"ן \"כי יבוא בכאן שם במקום כינוי\".",
+     "scan_fixes": [
+      {
+       "digitized": "שם במקום כינוי",
+       "scan": "שם במקום כנוי",
+       "class": "spelling"
+      },
+      {
+       "digitized": "במקום כינוי",
+       "scan": "במקום כנוי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 29,
+     "kind": "question",
+     "he": "5. במה דומים שני הפסוקים המובאים ברמב\"ן לפסוקנו לדעת המפרשים שלהם מתנגד הרמב\"ן?",
+     "scan_status": "DIFF",
+     "digitized_he": "5. במה דומים שני הפסוקים המובאים ברמב\"ן לפסוקנו, לדעת המפרשים שלהם מתנגד הרמב\"ן?",
+     "scan_fixes": [
+      {
+       "digitized": "לפסוקנו, לדעת",
+       "scan": "לפסוקנו לדעת",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 30,
+     "kind": "question",
+     "he": "עם מי משני המפרשים מסכימים בעלי המסורת בנקדם ולְאדם בשווא ולא בקמץ?",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "בעלי המסורת … ולְאדם בשווא",
+       "scan": "6. … בעלי המסורה … ולאדם בשוא",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "needs_human": true
+    },
+    {
+     "i": 31,
+     "kind": "text",
+     "he": "(והשוה את דברי המתרגמים:",
+     "scan_status": "DIFF",
+     "digitized_he": "(והשווה את דברי המתרגמים:",
+     "scan_fixes": [
+      {
+       "digitized": "(והשווה את דברי המתרגמים:",
+       "scan": "(והשוה את דברי המתרגמים:",
+       "class": "spelling"
+      },
+      {
+       "digitized": "(והשווה",
+       "scan": "(והשוה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 32,
+     "kind": "text",
+     "he": "Benno Jacob: \n Aber fuer “mensch” fand er Keine Hilfe als gleichsam sein Gegenstueck.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "text",
+     "he": "Buber-Rosenzweig: \n Aber fuer einen Menschen erfand sich keine Huelfe, ihm zuseiten.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 34,
+     "kind": "question",
+     "he": "(א) בעקבות מי משני מפרשינו הולך ב. יעקב?",
+     "scan_status": "DIFF",
+     "digitized_he": "א.  בעקבות מי משני מפרשינו הולך בנו יעקב?",
+     "scan_fixes": [
+      {
+       "digitized": "א. בעקבות מי משני מפרשינו הולך בנו יעקב?",
+       "scan": "(א) בעקבות מי משני מפרשינו הולך ב. יעקב?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "א. … הולך בנו יעקב?",
+       "scan": "(א) … הולך ב. יעקב?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 35,
+     "kind": "question",
+     "he": "(ב) במה שונה בובר בפרושו[?] משניהם?",
+     "scan_status": "DIFF",
+     "digitized_he": "ב.  במה שונה בובר בפירושו משניהם?",
+     "scan_fixes": [
+      {
+       "digitized": "ב. במה שונה בובר בפירושו משניהם?",
+       "scan": "(ב) במה שונה בובר בפרושו[?] משניהם?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "ב. … בפירושו",
+       "scan": "(ב) … בפרושו[?]",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  },
+  {
+   "letter": "ו",
+   "header_scan": "ו. כ\"ד על כן יעזב איש את אביו ואת אמו ודבק באשתו.",
+   "header_digitized": "ו. \"ודבק באשתו\"",
+   "items": [
+    {
+     "i": 42,
+     "kind": "source",
+     "ref": "Genesis 2:24",
+     "he": "\"עַל כֵּן יַעֲזָב אִישׁ אֶת אָבִיו וְאֶת אִמּוֹ וְדָבַק בְּאִשְׁתּוֹ\"",
+     "en": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife, and they shall be one flesh.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 43,
+     "kind": "question",
+     "he": "פרקי ד\"ר אליעזר ל\"ב: \n מכאן אתה למד: עד שלא לקח אדם אישה – אהבתו הולכת אחר הוריו, עד שלא לקח אדם אשה – אהבתו הולכת אחר אשתו, שנאמר \"על כן יעזב... ודבק באשתו\". וכי יעזוב איש את אביו ואת אמו ממצות כבוד? אלא שאהבת נפשו דובקת אחר אשתו, שנ' \"על כן יעזב... ודבק באשתו\".",
+     "scan_status": "DIFF",
+     "digitized_he": "פרקי דר' אליעזר ל\"ב: \n מכאן אתה למד: עד שלא לקח אדם אישה – אהבתו הולכת אחר הוריו, לקח אישה – אהבתו הולכת אחר אשתו, שנאמר \"על כן יעזב... ודבק באשתו\". וכי יעזוב איש את אביו ואת אמו ממצוות כבוד? אלא שאהבת נפשו דובקת אחר אשתו, שנאמר \"ודבק באשתו\".",
+     "scan_fixes": [
+      {
+       "digitized": "פרקי דר' אליעזר ל\"ב:",
+       "scan": "פרקי ד\"ר אליעזר ל\"ב:",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לקח אישה",
+       "scan": "עד שלא לקח אדם אשה",
+       "class": "substantive"
+      },
+      {
+       "digitized": "שנאמר \"ודבק באשתו\"",
+       "scan": "שנ' \"על כן יעזב... ודבק באשתו\"",
+       "class": "substantive"
+      },
+      {
+       "digitized": "ממצוות כבוד?",
+       "scan": "ממצות כבוד?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 44,
+     "kind": "source",
+     "ref": "Rashi on Genesis 2:24:1-2",
+     "he": "ד\"ה על כן יעזוב: רוח הקודש אומרת כן לאסור על בני נח את העריות (סנהדרין נ\"ז). \nד\"ה לבשר אחד - הולד נוצר ע\"י שניהם ושם נעשה בשרם אחד (שם נ\"ח).",
+     "en": "על כן יעזב איש THEREFORE A MAN LEAVETH — The Divine Spirit says this, thus prohibiting immoral relationship to the “Sons of Noah” also (Sanhedrin 57b). לבשר אחד ONE FLESH — Both parents are united in the child.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 45,
+     "kind": "source",
+     "ref": "Ramban on Genesis 2:24:1",
+     "he": "(אחרי הביאו לשון רש\"י) ואין בזה טעם, כי גם הבהמה והחיה יהיו לבשר אחד בולדותיהם.\nוהנכון בעיני, כי הבהמה והחיה אין להם דבקות בנקבותיהן, אבל יבוא הזכר על איזה נקבה שימצא, וילכו להם, ומפני זה אמר הכתוב, בעבור שנקבת האדם היתה עצם מעצמיו ובשר מבשרו, ודבק בה, והיתה בחיקו כבשרו, ויחפוץ בה להיותה תמיד עמו. וכאשר היה זה באדם, הושם טבעו בתולדותיו, להיות הזכרים מהם דבקים בנשותיהם, עוזבים את אביהם ואת אמם, ורואים את נשותיהן כאילו הן עמם לבשר אחד. וכן כי אחינו בשרנו הוא (להלן ל\"ז כ\"ז), אל כל שאר בשרו ( ויקרא י\"ח ו '). הקרובים במשפחה יקראו \"שאר בשר\". והנה יעזוב שאר אביו ואמו וקורבתם, ויראה שאשתו קרובה לו מהם.",
+     "en": "“Therefore a man shall leave his father and his mother and cleave to his wife...” The holy spirit says this to forbid I chest to the descendants of Noah. “'And they shall be one flesh'- the child is formed by the two of them and thus their flesh is made one', so Rashi. This is without reason, for domesticated and wild animals also become one flesh through their children. In my view animals do not cleave to their sexual partners; the male approaches any female it finds and then leaves. For this reason the text says since the female of the adam was a bone of his bones and flesh of his flesh, he cleaved to her and she was in his bosom like his own flesh and he desired her to be constantly with him. As this was so with Adam so was his nature transmitted to his progeny, to make the males, cleaving to their females, leaving their fathers and mothers and regarding their wives as if they were one flesh with them. Similarly, “you are our brother, our flesh (gen.37:27), “to the meat of ones flesh (Lev.18:6), those close in family are called “meat of flesh” and so will leave the “meat” of his father and his mother and their closeness and see that his wife is closer to him than they are.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 46,
+     "kind": "question",
+     "he": "1. הסבר את הביטוי \"רוח הקודש\" שבדברי רש\"י כאן. ולמה לו להדגיש שפסוק זה מדברי הבטוי \"רוח הקדש\"",
+     "scan_status": "DIFF",
+     "digitized_he": "1. הסבר את הביטוי \"רוח הקודש\" שבדברי רש\"י כאן. ולמה לו להדגיש שפסוק זה מדברי \"רוח הקודש\" הוא?",
+     "scan_fixes": [
+      {
+       "digitized": "\"רוח הקודש\" הוא?",
+       "scan": "הבטוי \"רוח הקדש\"",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    },
+    {
+     "i": 47,
+     "kind": "question",
+     "he": "2. מה בין רש\"י לרמב\"ן בפירוש פסוקנו ומי משניהם מסכים עם דברי פרקי דר' אליעזר?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה בין דברי רש\"י לרמב\"ן בפירוש פסוקנו? מי משניהם מסכים עם דברי פרקי דר' אליעזר?",
+     "scan_fixes": [
+      {
+       "digitized": "מה בין דברי רש\"י לרמב\"ן בפירוש פסוקנו? מי משניהם",
+       "scan": "מה בין רש\"י לרמב\"ן בפירוש פסוקנו ומי משניהם",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "needs_human": true
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§ב: Verse pointer `י\"ח` dropped from the header; quote marks added.",
+  "§ב: Typed `x` difficulty mark on Q1 dropped.",
+  "§ג: Her name-gloss `ר' יהודה בן בצלאל` in the Gur Aryeh intro is dropped.",
+  "§ג: Header retitled; verse pointer `י\"ח` dropped.",
+  "§ד: Ibn Ezra and Ramban expanded from start/stop pointers. The ראב\"ע item is built as a grey-label quote.",
+  "§ד: Her `6.` numbering on [30] dropped; `(א)`/`(ב)` restyled as `א.`/`ב.`; `ב. יעקב` expanded to `בנו יעקב`.",
+  "§ד: Typed `xx` marks on the header and on Q1–Q6 dropped.",
+  "§ו: Rashi `ד\"ה לבשר אחד` added beyond her pointer.",
+  "§ו: Sheet footer dropped: `השאלות המסומנות x קשות והמסומנות xx קשות ביותר, ענה לפי יכלתך והבנתך. תשובות יש לשלוח לנחמה ליבוביץ, ההסתדרות הציונית העולמית, המח' לחנוך ותרבות תורניים, ירושלים. ת.ד. 92.`"
+ ],
+ "needs_human": [
+  10,
+  20,
+  "after 24",
+  30,
+  35,
+  43,
+  46,
+  47
+ ]
+}

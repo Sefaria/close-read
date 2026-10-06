@@ -295,7 +295,7 @@ fold it into the garden or delete it. Everything attributed to Nechama comes fro
 |---|---|
 | Section title "שאלת מבנה" | the scan's header (not the digitized one; see §2.4) |
 | Intro: range 1:31–2:3 | the scan's heading `א' ל"א ב' א-ג` |
-| Benno Jacob commentary | `160726[2]`, first sentence, checked word by word against the scan. Where they differ the scan wins: it spells `בפרושו`, the digitization `בפירושו`. Punctuation (`ב'`, `"ויכולו"`) as in the source. English is our translation (recorded here; the card no longer labels it, per Lev 2026-10-06) |
+| Benno Jacob commentary | `160726[2]`, first sentence, checked word by word against the scan. Where they differ the scan wins: it spells `בפרושו` (digitization `בפירושו`) and `הפותח` (digitization `הפותחת`). The second I missed in my own check; the Stage 3 scan checker caught it (`bereshit-scancheck/160726-1963.md`), and I confirmed it on a zoomed crop. Punctuation (`ב'`, `"ויכולו"`) as in the source. English is our translation (recorded here; the card no longer labels it, per Lev 2026-10-06) |
 | Question | `160726[2]`, second sentence, verbatim. English is ours |
 | Codex narration (folio 1v: 2 cards, folio 2r: 3 cards) | our addition; the codex isn't in her sheet (the card no longer says so, per Lev). Only what's visible on the folios and matches WLC (§5a) |
 
@@ -439,3 +439,44 @@ of the narration (§5b).
 2. Merge or split Theme 5 (5 or 6 themes)?
 3. All four Leningrad moments, or only the ones where the layout is the evidence (1963, 1969)?
 4. Transcribe 1943 from the scan so it can be a leaf or sibling? It's referenced by 1944, 1945, 1955 and 1963.
+
+## 8. Stage 3: scan check and harvest (2026-10-06)
+
+**3a. Scan checks.** All 15 leaves are checked against their scans, in
+[`bereshit-scancheck/`](bereshit-scancheck/), one file per sheet, using the method and format in
+its README. It's a verification, not a transcription: the digitization is an independent
+reading, so agreement is evidence and disagreement is flagged. Five checker agents read every
+page at 300 dpi (most scans are two pages, which the Stage 1 checks missed). I spot-checked one
+finding per agent against the scan, or against an independent text, and all five held:
+1952 §א's lost Q4, 1963 `הפותח`, 1944 `[4]`/`[10]`, 1950 `הראשון`, and 1958 `אומנותו`
+(confirmed in Sefaria's own Ramban edition).
+
+**What the scans show, across all 14:**
+- **Headers.** Nearly every section header in the digitization is the digitizer's. Hers are a
+  verse pointer plus the verse's words.
+- **Spelling.** Her spelling (defective forms, abbreviations like פ', ע', ית') was normalized.
+- **Marks.** Her ×/×× and + difficulty marks and her footers (send answers to…) are dropped.
+- **Real losses:** a question (1952 §א Q4, 1956 §ב), two prose passages (1953 §ד), her
+  start and stop points in pointer lists (1942 §ז).
+- **Word changes:** 1950 "האחרון"→"הראשון", 1956 "לו"→"לא", 1958 "אמונתו"→"אומנותו",
+  1965 Psalms 104:25 vs 104:28.
+- **Not hers:** 1944's "ענה לשאלתם!" and 1954's "(שהובא בראב"ע)" are not in the scans.
+- **Digitizer slips** inside quoted sources, e.g. 1964's Malbim lost a clause.
+
+**3b. Harvest.** `research/scripts/harvest_bereshit.py` writes
+[`bereshit-harvest/<theme>/<year>.json`](bereshit-harvest/) from the digitization, the scan
+checks, `bereshit-scancheck/overrides.json` (the 5 lost items, each cited), and the 1943
+transcription. Each item records its basis: digitization, scan, scan-only or transcription.
+Each scan fix is classed:
+- **spelling:** applied automatically;
+- **corroborated:** a doubtful letter, but the digitization's reading fits;
+- **substantive:** listed for a person in the generated
+  [`bereshit-scancheck/REVIEW.md`](bereshit-scancheck/REVIEW.md) (95 lines, 2–16 per leaf).
+
+Verse texts for Gen 1:1–6:8 are cached in `bereshit-verses.json` (`fetch_verses.py`): MAM
+Hebrew plus the JPS gender-sensitive English, with leaked footnotes removed and the divine name
+rendered "the Lord" (the Nasso convention, recorded in its meta).
+
+**Rule for drafting:** a line of her words is quotable only if its basis is digitization or
+spelling-class, or its REVIEW line has been checked by a person. Items marked `exclude` are not
+hers.
