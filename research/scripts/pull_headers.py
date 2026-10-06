@@ -15,7 +15,9 @@ def fetch(sid):
         return json.load(open(fp))
     req = urllib.request.Request(
         f'https://www.sefaria.org/api/sheets/{sid}',
-        headers={'User-Agent': 'Mozilla/5.0'})
+        # In-house convention: Sefaria/<service>. A bare 'Mozilla/5.0' is
+        # challenged by Cloudflare (403 "Just a moment" page).
+        headers={'User-Agent': 'Sefaria/close-read'})
     with urllib.request.urlopen(req, timeout=20) as r:
         data = r.read().decode()
     open(fp, 'w').write(data)

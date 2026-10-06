@@ -51,8 +51,14 @@ the Nasso pack before building a new parsha — it shows the target shape.
 
 Nechama's sheets are on Sefaria as user **54380** (the Gilyonot Nechama collection).
 
-- All her sheets: `https://www.sefaria.org/api/sheets/user/54380` (send a `User-Agent`
-  header or the request returns empty).
+- All her sheets: `https://www.sefaria.org/api/sheets/user/54380/`. **Keep the trailing
+  slash.** Without it the server answers with a 301 redirect and an empty body, and any
+  client that doesn't follow redirects sees nothing.
+- **Send `User-Agent: Sefaria/close-read`**, the in-house `Sefaria/<service>` convention, so
+  our traffic is counted as first-party. Never send a bare `Mozilla/5.0`: Cloudflare
+  challenges it with a 403 "Just a moment" HTML page. For example:
+  `curl -sL -A "Sefaria/close-read" https://www.sefaria.org/api/sheets/user/54380/ -o /tmp/nechama/all-sheets.json`
+  (the scripts in `research/scripts/` already set it).
 - Filter to one parsha client-side on `topics[].slug == "parashat-<name>"`.
 - One sheet's full body: `https://www.sefaria.org/api/sheets/<id>` — returns an ordered
   `sources[]`, each item either an `outsideText` (her prose / section-header / question)
