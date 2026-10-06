@@ -460,7 +460,12 @@ finding per agent against the scan, or against an independent text, and all five
   start and stop points in pointer lists (1942 §ז).
 - **Word changes:** 1950 "האחרון"→"הראשון", 1956 "לו"→"לא", 1958 "אמונתו"→"אומנותו",
   1965 Psalms 104:25 vs 104:28.
-- **Not hers:** 1944's "ענה לשאלתם!" and 1954's "(שהובא בראב"ע)" are not in the scans.
+- **Not hers:** 1944's "ענה לשאלתם!" is not in the scan, so it's excluded.
+- **Editorial additions (Lev, 2026-10-06):** where the digitizers *added* citation detail, it's
+  a purposeful editorial service, not an error. Examples: "בראשית רבה **פרשה י"ט**", "**פרק**
+  כ"א **פסוק** י"ט", "(תרגום מגרמנית)", 1954's "(שהובא בראב"ע)". Their richer citation is kept,
+  recorded as `editorial_additions`, and not sent for review. A *changed* citation (1954's
+  verse כ"ב→כ"ג, 1965's 104:28→25) is still substantive.
 - **Digitizer slips** inside quoted sources, e.g. 1964's Malbim lost a clause.
 
 **3b. Harvest.** `research/scripts/harvest_bereshit.py` writes
@@ -468,10 +473,11 @@ finding per agent against the scan, or against an independent text, and all five
 checks, `bereshit-scancheck/overrides.json` (the 5 lost items, each cited), and the 1943
 transcription. Each item records its basis: digitization, scan, scan-only or transcription.
 Each scan fix is classed:
+- **editorial:** the digitizers added citation detail; theirs is kept;
 - **spelling:** applied automatically;
 - **corroborated:** a doubtful letter, but the digitization's reading fits;
 - **substantive:** listed for a person in the generated
-  [`bereshit-scancheck/REVIEW.md`](bereshit-scancheck/REVIEW.md) (95 lines, 2–16 per leaf).
+  [`bereshit-scancheck/REVIEW.md`](bereshit-scancheck/REVIEW.md) (86 lines, 2–16 per leaf).
 
 Verse texts for Gen 1:1–6:8 are cached in `bereshit-verses.json` (`fetch_verses.py`): MAM
 Hebrew plus the JPS gender-sensitive English, with leaked footnotes removed and the divine name

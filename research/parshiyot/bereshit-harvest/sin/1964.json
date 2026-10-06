@@ -117,18 +117,15 @@
     {
      "i": 9,
      "kind": "question",
-     "he": "6. כיצד מפרש בעל העקדה את הפ' דב' ל' ט\"ו?",
+     "he": "6. כיצד מפרש בעל העקדה את הפסוק דברים פרק ל' פסוק ט\"ו?",
      "scan_status": "DIFF",
-     "digitized_he": "6. כיצד מפרש בעל העקדה את הפסוק דברים פרק ל' פסוק ט\"ו?",
-     "scan_fixes": [
+     "editorial_additions": [
       {
        "digitized": "את הפסוק דברים פרק ל' פסוק ט\"ו",
-       "scan": "את הפ' דב' ל' ט\"ו",
-       "class": "substantive"
+       "scan": "את הפ' דב' ל' ט\"ו"
       }
      ],
-     "basis": "scan",
-     "needs_human": true
+     "basis": "digitization"
     }
    ]
   },
@@ -287,23 +284,19 @@
     {
      "i": 25,
      "kind": "question",
-     "he": "5. מהי ראיתו מבראשית ג' י\"ב?",
+     "he": "5. מהי ראייתו מבראשית פרק ג' פסוק י\"ב?",
      "scan_status": "DIFF",
-     "digitized_he": "5. מהי ראייתו מבראשית פרק ג' פסוק י\"ב?",
-     "scan_fixes": [
+     "editorial_additions": [
       {
        "digitized": "מהי ראייתו מבראשית פרק ג' פסוק י\"ב?",
-       "scan": "מהי ראיתו מבראשית ג' י\"ב?",
-       "class": "substantive"
+       "scan": "מהי ראיתו מבראשית ג' י\"ב?"
       },
       {
        "digitized": "ראייתו מבראשית פרק ג' פסוק י\"ב",
-       "scan": "ראיתו מבראשית ג' י\"ב",
-       "class": "substantive"
+       "scan": "ראיתו מבראשית ג' י\"ב"
       }
      ],
-     "basis": "scan",
-     "needs_human": true
+     "basis": "digitization"
     },
     {
      "i": 26,
@@ -398,9 +391,7 @@
  "needs_human": [
   4,
   8,
-  9,
   23,
-  25,
   26,
   27
  ]

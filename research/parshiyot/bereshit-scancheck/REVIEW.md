@@ -2,7 +2,8 @@
 
 Only differences in **her own words** (questions, framing, headers, lines she wrote)
 that change a word, a number or content. Spelling/punctuation/abbreviation differences
-are applied from the scan automatically and are not listed. For each line, check the
+are applied from the scan automatically, and citation detail the digitizers *added* is
+kept as an editorial addition (Lev, 2026-10-06); neither is listed. For each line, check the
 scan and mark ✅ (scan reading right) or ✏️ (correction). Cites point into the scan-check
 files, which cite page and strip.
 
@@ -10,7 +11,6 @@ files, which cite page and strip.
 Scan check: `bereshit-scancheck/161401-1954.md`
 
 - §ב [11] digitized «דברים ב' כ"ג» → scan «דברים ב' [[sic: כ"ב]]»
-- §ג [17] digitized «רב סעדיה (שהובא בראב"ע), הרמב"ם והרמב"ן כאן בפירושם» → scan «רב סעדיה הרמב"ם והרמב"ן כאן בפרושם»
 - §ג [22] digitized «כינוי … (כינוי: כגון – הבורא יתברך, הקב"ה)» → scan «כנוי … (כנוי: כגון - הבורא ית', הקבה"ו[?])»
 - §ג [22] digitized «עוד כינוי לה'. איזהו? (כינוי: כגון – הבורא יתברך, הקב"ה).» → scan «עוד כנוי לה'. איזהו? (כנוי: כגון - הבורא ית', הקבה"ו[?]).»
 
@@ -27,7 +27,6 @@ Scan check: `bereshit-scancheck/161471-1952.md`
 
 - §א **missing from the digitization**: «4. בעקבות מי מהם הולך ספורנו?»  (bereshit-scancheck/161471-1952.md:30 (spot-checked by Claude on page1_strip2))
 - §ב [10] digitized «במצב בלתי מפותח, ואין זה פלא» → scan «במצב בלתי מפותח, ואין פלא»
-- §ב [10] digitized «בנו יעקב, בספרו Genesis עמוד 81 (תרגום מגרמנית):» → scan «בנו יעקב בספרו Genesis עמ' 81:»
 - §ד [23] digitized «מידה זו» → scan «למדה זו»
 - §ז [40] digitized «שנאמר (שמות ל"א) "ששת ימים יעשה מלאכה... ... ברית עולם".» → scan «שנאמר (שמ' ל"א) "ששת ימים יעשה מלאכה.. ברית עולם",»
 - §ח [43] digitized «הסבר מהם הפסוקים בפרקנו שנאמר» → scan «הסבר מה הם הפסוקים בפרקנו[,] שנאמר» *(not auto-applied)*
@@ -60,9 +59,6 @@ Scan check: `bereshit-scancheck/161941-1944.md`
 
 - §_open [0] digitized «ומובנו» → scan «ובמובנו»
 - §א [4] **not in the scan** (digitizer's?): «ענה לשאלתם!»
-- §א [10] digitized «מבראשית רבה פרשה י"ט» → scan «מבראשית רבה»
-- §א [14] digitized «כך גם ב פרק כ"א פסוק י"ט» → scan «כך גם ב-כ"א י"ט»
-- §א [14] digitized «ב פרק כ"א פסוק י"ט … (ועיין» → scan «ב-כ"א י"ט … (ועי'»
 - §ב [26] digitized «נחלקים» → scan «נחלקו»
 - §ב [27] digitized «רמבמ"ן» → scan «רמב"ן»
 - §ג [32] digitized «גאבליאן» → scan «גאבליבאן»
@@ -75,9 +71,7 @@ Scan check: `bereshit-scancheck/160638-1964.md`
 
 - §א [4] digitized «מהן התמיהות» → scan «מה הן התמיהות»
 - §א [8] digitized «ומה מקום ראה פסוקנו» → scan «ומה מקום מצא בפסוקינו»
-- §א [9] digitized «את הפסוק דברים פרק ל' פסוק ט"ו» → scan «את הפ' דב' ל' ט"ו»
 - §ג [23] digitized «דוגמה» → scan «דוגמא»
-- §ג [25] digitized «ראייתו מבראשית פרק ג' פסוק י"ב» → scan «ראיתו מבראשית ג' י"ב»
 - §ג [26] digitized «(עיין מקטע א')» → scan «(ע' שאלה א)»
 - §ג [27] digitized «הייחוס» → scan «הכנוי»
 
@@ -88,8 +82,6 @@ Scan check: `bereshit-scancheck/160442-1968.md`
 - §ב [8] digitized «מורה נבוכים א' פרק כ"ד» → scan «רמב"ם מורה נבוכים א פרק כ"ד»
 - §ב **missing from the digitization**: «* עיין עלון ההדרכה.»  (bereshit-scancheck/160442-1968.md:131 (her footnote to the Ramban))
 - §ד [25] digitized «השימוש פעמיים בשורש "נתן" בפסוקנו: "האשה אשר נתתה עמדי…"» → scan «השמוש פעמים בשרש "נתן" בפסוקנו "האשה אשר נתת עמדי…"»
-- §ו [46] digitized «ליישב את קושיית הרא"ם … לשאלה במקטע ה?» → scan «לישב את קושית הרא"ם … לשאלה ה?»
-- §ו [46] digitized «התוכל ליישב את קושיית הרא"ם בהתאם לתשובתך לשאלה במקטע ה?» → scan «התוכל לישב את קושית הרא"ם בהתאם לתשובתך לשאלה ה?»
 
 ## 1942 (תש"ב) · sheet 161880 · cain
 Scan check: `bereshit-scancheck/161880-1942.md`

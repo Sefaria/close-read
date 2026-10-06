@@ -377,18 +377,16 @@
      "i": 43,
      "kind": "source",
      "ref": "Rashi on Genesis 3:14:1",
-     "he": "והשוה י\"ד רש\"י\nד\"ה כי עשית זאת: מכאן שאין מהפכין בזכותו של מסית...",
+     "he": "והשווה פסוק י\"ד, רש\"י:\nד\"ה כי עשית זאת: מכאן שאין מהפכין בזכותו של מסית...",
      "en": "כי עשית זאת BECAUSE THOU HAST DONE THIS — From here we infer that we should not occupy ourselves with what may be in favour of one who seduces people to idolatry, for had He asked it, “Why hast thou done this?”, it could have answered Him, “When the words of the teacher and those of the pupil are contradictory, whose orders should be obeyed?” (Sanhedrin 29a). (i. e. if You told them one thing and I another, should they not have obeyed You?).",
      "scan_status": "DIFF",
-     "digitized_he": "והשווה פסוק י\"ד, רש\"י:\nד\"ה כי עשית זאת: מכאן שאין מהפכין בזכותו של מסית...",
-     "scan_fixes": [
+     "editorial_additions": [
       {
        "digitized": "והשווה פסוק י\"ד, רש\"י:",
-       "scan": "והשוה י\"ד רש\"י",
-       "class": "substantive"
+       "scan": "והשוה י\"ד רש\"י"
       }
      ],
-     "basis": "scan"
+     "basis": "digitization"
     },
     {
      "i": 44,
@@ -420,23 +418,19 @@
     {
      "i": 46,
      "kind": "question",
-     "he": "1. התוכל לישב את קושית הרא\"ם בהתאם לתשובתך לשאלה ה?",
+     "he": "1. התוכל ליישב את קושיית הרא\"ם בהתאם לתשובתך לשאלה במקטע ה?",
      "scan_status": "DIFF",
-     "digitized_he": "1. התוכל ליישב את קושיית הרא\"ם בהתאם לתשובתך לשאלה במקטע ה?",
-     "scan_fixes": [
+     "editorial_additions": [
       {
        "digitized": "התוכל ליישב את קושיית הרא\"ם בהתאם לתשובתך לשאלה במקטע ה?",
-       "scan": "התוכל לישב את קושית הרא\"ם בהתאם לתשובתך לשאלה ה?",
-       "class": "substantive"
+       "scan": "התוכל לישב את קושית הרא\"ם בהתאם לתשובתך לשאלה ה?"
       },
       {
        "digitized": "ליישב את קושיית הרא\"ם … לשאלה במקטע ה?",
-       "scan": "לישב את קושית הרא\"ם … לשאלה ה?",
-       "class": "substantive"
+       "scan": "לישב את קושית הרא\"ם … לשאלה ה?"
       }
      ],
-     "basis": "scan",
-     "needs_human": true
+     "basis": "digitization"
     },
     {
      "i": 47,
@@ -457,7 +451,6 @@
  ],
  "needs_human": [
   8,
-  25,
-  46
+  25
  ]
 }

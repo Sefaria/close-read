@@ -36,6 +36,14 @@ A DIFF is a flag, not a ruling.
 - **Digitizer lettering:** 1951 `א.` is not in the scan (single unlettered section).
 - **Dropped marks/footer:** 1944 `+` difficulty marks and footer note.
 
+## Editorial additions are not errors (Lev, 2026-10-06)
+
+When the digitization **adds** citation detail the scan doesn't have, record it as a DIFF as
+usual, but it's a purposeful editorial addition, not a mistake. Examples: "פרשה י"ט" after
+"בראשית רבה", "פרק … פסוק …" around a bare reference, "(תרגום מגרמנית)", "(שהובא בראב"ע)". The
+harvest keeps the digitizer's richer citation and leaves it off the review list. A citation
+that is *changed* (a different number or book) is still a real difference.
+
 ## File format
 
 ```markdown
