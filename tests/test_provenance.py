@@ -65,6 +65,10 @@ def test_quoted_cards_trace_to_harvest(slug):
             if it.get('exclude') or it.get('publish') is False or it.get('triage', {}).get('use') == 'open':
                 problems.append(f'{where}: quotes an unpublishable item [{cite["i"]}]')
             he = flat(st['text'].get('he'))
+            for lang in ('he', 'en'):
+                leak = re.search(r'\[\?\]|\[\[|\*\*|«|»', st['text'].get(lang) or '')
+                if leak:
+                    problems.append(f'{where}: checker markup {leak[0]!r} in displayed {lang}')
             if not he:
                 problems.append(f'{where}: no Hebrew')
             elif he not in flat(it['he']):

@@ -7,6 +7,11 @@ absent. Each such card carries `cite` (sheet, item, harvest file) and `en_basis`
 ("sefaria" = Sefaria's translation of the whole item; "ours" = our translation).
 tests/test_provenance.py re-checks every cited card against the harvest.
 
+English: en_basis "sefaria" is safe only when her Hebrew *is* the full canonical source text,
+because Sefaria's English translates the canonical ref, not her quotation. An abridged quote
+(e.g. 1963's Rashi on 2:2, whose Sefaria English opens "R. Simeon says…", a phrase she didn't
+quote) gets our own translation.
+
 What *is* authored here: English translations marked en_basis "ours", and narration, which
 names the gilayon, the passage, and who speaks next. It doesn't explain the sources, and
 it never states her question for her.
@@ -303,8 +308,15 @@ def leaf_1963(prefix='cr-1963', title_card=True):
                  'R. Shimon bar Yochai?'),
         question(f'{prefix}-q-h3', h, 32, '3. What is the difference in idea between the parable of the bride '
                  'and the parable of the seal?'),
+        # Not Sefaria's English: it translates the canonical comment ("R. Simeon says…", with
+        # cross-references), not the abridged text she quoted.
         commentary(f'{prefix}-rashi', h, 26, 'Rashi', 'רש"י', 'Rashi',
-                   item(h, 26)[0]['en'], 'sefaria', ref='Rashi on Genesis 2:2:1', highlight=['vaychal']),
+                   '“And on the seventh day God finished”: Flesh and blood, who does not know his times and '
+                   'moments, must add from the weekday onto the holy; the Holy One, blessed be He, who knows '
+                   'His times and moments, entered it by a hair’s breadth, and it seemed as though He finished '
+                   'on that very day. Another explanation: What did the world lack? Rest. Shabbat came, rest '
+                   'came; the work was finished and completed.',
+                   'ours', ref='Rashi on Genesis 2:2:1', highlight=['vaychal']),
         question(f'{prefix}-q-h5', h, 34, '5. What is Rashi’s way of reworking his source?'),
         commentary(f'{prefix}-efodi', h, 27, 'Profiat Duran', 'ר\' יצחק פריפוט דוראן',
                    'R. Yitzhak Profiat Duran, Ma’aseh Efod',

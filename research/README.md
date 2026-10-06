@@ -25,6 +25,14 @@ Source-of-truth artifacts for Close Read sheets, especially Mode 4 (Nechama pars
     table, verse coverage and a Hebrew/Gregorian year check →
     `parshiyot/<parsha>-survey.{json,md}`. Supersedes `pull_headers.py`, which kept its
     data in `/tmp` and lost the paper trail.
+  - `fetch_verses.py` — Stage 3: cache a parsha's verses (MAM Hebrew with Masoretic breaks +
+    Sefaria's default English, footnotes stripped, divine name normalized) →
+    `parshiyot/<parsha>-verses.json`.
+  - `harvest_bereshit.py` — Stage 3: per-leaf data from the raw snapshot + scan checks +
+    `overrides.json` + `triage.json` (+ a verified transcription where the digitization lost her
+    questions) → `parshiyot/bereshit-harvest/`, plus the generated `bereshit-scancheck/REVIEW.md`.
+  - `build_bereshit.py` — Stage 4: the sheet JSON. Her Hebrew is sliced from the harvest, never
+    typed; every quoted card carries `cite`/`en_basis`, checked by `tests/test_provenance.py`.
   - `pull_headers.py` — (Nasso-era) fetch all sheets in a parsha and extract their section labels
   - `harvest.py` — for chosen gilyonot, produce structured per-leaf JSON
   - `clean_verses.py` — strip cantillation + maqaf from Sefaria text into Close-Read form

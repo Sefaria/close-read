@@ -504,3 +504,72 @@ rendered "the Lord" (the Nasso convention, recorded in its meta).
 **Rule for drafting:** a line of her words is quotable only if its basis is digitization or
 spelling-class, or its REVIEW line has been checked by a person. Items marked `exclude` are not
 hers.
+
+## 9. Stage 4: the 1963 leaf (2026-10-06, for Lev's review)
+
+Built by `research/scripts/build_bereshit.py` → `data/bereshit-chapter-break.json` (same slug
+as the demo, which it replaces; the slug goes when the garden is assembled). Her Hebrew is never
+typed: every commentary and question card slices a harvest item verbatim, and
+`tests/test_provenance.py` re-checks each one. That test is proven to fail when four words are
+appended to a question or when our English is relabeled as Sefaria's.
+
+**What's rendered, and what's left out (gilayon 160726):**
+- **Sections:** א, ג, ד, ה. ב (Abarbanel: why no "כי טוב" for man) is out, per the §7 design.
+- **Her questions omitted** (omitted, never altered):
+  - §ג Q4, on how Ecclesiastes 4 helps the second midrash;
+  - §ה Q4, which rests on the Akeidat Yitzhak, a source not on her sheet;
+  - §ה Q7, the verse list, for density.
+- **Order:** her sources keep her order. In §ה her questions stand together at the end; here
+  each follows the source it asks about, and a card says so (`cr-1963-h-order`). Her Q1 ("what
+  is the question they deal with?") closes the section. The narration deliberately doesn't
+  name the puzzle, because her Q1 asks the student to.
+- **Slices:** question א is the tail of item [2] (from "הסבר, למה"); the Jacob quote is its
+  head. §ג Q1 stops before "(עיין גם עלון ההדרכה!)", a pointer to the teacher's guide. In
+  §ה, the Bereshit Rabbah card starts after her label "בראשית רבה:".
+- **Editorial gloss:** the English of question א carries a bracket, "[the chapter beginning
+  at 2:1, with 'Va-yekhullu']" (Lev, 2026-10-06). Her Hebrew is unchanged.
+- **Ralbag:** her underline («ולא נשלם הטוב… שלפני התכלית») is reproduced in Hebrew and English,
+  since her §ד Q1 asks about "the underlined words" (scan check `160726-1963.md`).
+- **Translation choices:** אתמהא → "Astonishing!"; "רבי שאליה" → "Rabbi asked". Labels give
+  names only: Maharzu and Matnot Kehunah are labeled as commentaries on the midrash; Efodi as
+  "R. Yitzhak Profiat Duran, Ma'aseh Efod", her own attribution.
+- **English basis:** all ours. Rashi's Sefaria English was rejected because it translates the
+  canonical comment ("R. Simeon says…"), not her abridged quote.
+
+**Every card → harvest item:**
+
+| Card | Type | Harvest [i] | English |
+|---|---|---|---|
+| `cr-1963-intro` | narration | — | — |
+| `cr-1963-jacob` | commentary · Benno Jacob | [2] | ours |
+| `cr-1963-codex` | narration | — | — |
+| `cr-1963-days` | narration | — | — |
+| `cr-1963-2r-intro` | narration | — | — |
+| `cr-1963-day-6` | narration | — | — |
+| `cr-1963-seventh` | narration | — | — |
+| `cr-1963-q-a` | question | [2] | ours |
+| `cr-1963-g-intro` | narration | — | — |
+| `cr-1963-br-9-5` | commentary · Bereshit Rabbah | [9] | ours |
+| `cr-1963-br-9-7` | commentary · Bereshit Rabbah | [10] | ours |
+| `cr-1963-g-on-first` | narration | — | — |
+| `cr-1963-maharzu` | commentary · Maharzu, on the midrash | [12] | ours |
+| `cr-1963-matnot` | commentary · Matnot Kehunah, on the midrash | [13] | ours |
+| `cr-1963-q-g1` | question | [14] | ours |
+| `cr-1963-q-g2` | question | [15] | ours |
+| `cr-1963-q-g3` | question | [16] | ours |
+| `cr-1963-d-intro` | narration | — | — |
+| `cr-1963-ralbag` | commentary · Ralbag | [20] | ours |
+| `cr-1963-q-d1` | question | [21] | ours |
+| `cr-1963-q-d2` | question | [22] | ours |
+| `cr-1963-h-intro` | narration | — | — |
+| `cr-1963-h-order` | narration | — | — |
+| `cr-1963-br-10-9` | commentary · Bereshit Rabbah | [25] | ours |
+| `cr-1963-q-h2` | question | [31] | ours |
+| `cr-1963-q-h3` | question | [32] | ours |
+| `cr-1963-rashi` | commentary · Rashi | [26] | ours |
+| `cr-1963-q-h5` | question | [34] | ours |
+| `cr-1963-efodi` | commentary · R. Yitzhak Profiat Duran, Ma’aseh Efod | [27] | ours |
+| `cr-1963-ibn-ezra` | commentary · Ibn Ezra | [28] | ours |
+| `cr-1963-q-h6` | question | [35] | ours |
+| `cr-1963-r-avraham` | commentary · R. Avraham ben HaRambam | [29] | ours |
+| `cr-1963-q-h1` | question | [30] | ours |
