@@ -117,9 +117,16 @@ class CloseReadApp {
     // delay gives the browser time to compute CSS clamp/cqi-driven font sizes
     // before we measure content height. Idempotent — fitToPanel resets inline
     // styles before measuring, so re-runs always start from CSS baseline.
+    //
+    // Wait on document.fonts.ready *here*, after the content exists: the
+    // web fonts only start loading once text that uses them is in the DOM, so
+    // the fonts.ready awaited before init() resolves too early, and measuring
+    // in the fallback font mis-sizes the panel.
     setTimeout(() => {
-      document.querySelectorAll('.primary-text-area').forEach(panel => {
-        TextEffects.fitToPanel(panel);
+      document.fonts.ready.then(() => {
+        document.querySelectorAll('.primary-text-area').forEach(panel => {
+          TextEffects.fitToPanel(panel);
+        });
       });
     }, 100);
   }

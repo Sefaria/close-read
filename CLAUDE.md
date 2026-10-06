@@ -57,6 +57,7 @@ Static HTML/CSS/JS. No build step. GSAP + ScrollTrigger from CDN. Google Fonts (
 - **Light theme**: Warm cream background (#faf8f4), brown accent (#8b5e3c). Dark mode was tried and rejected — hard to read with bilingual text.
 - **Verse breathing**: Intro steps (no `highlight` array) show the verse at full opacity before any dimming begins. This is deliberate — don't add highlights to intro steps.
 - **Dimming approach**: Uses `color` change (to --color-text-muted) rather than `opacity` reduction. Prevents double-dimming when both word-group and container styles apply.
+- **Mobile panel**: the sticky verse panel is a fixed 45vh so cards stay readable below it, and `fitToPanel` shrinks long passages into it. A passage that won't fit even at the minimum sizes (14px Hebrew / 12px English) shows Hebrew only; currently that's Nasso's Nazir passage and Yitro's comparison. On phones the breadcrumb shortens earlier crumbs and keeps the current one whole.
 - **Font sizes**: Base 18px, Hebrew primary text clamp(1.5rem, 2.8vw, 2.2rem). Erring on the larger side for readability.
 
 ## Working With the Data

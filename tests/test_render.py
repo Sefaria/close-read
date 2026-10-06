@@ -109,6 +109,14 @@ PAGE_PROBE = """(exp) => {
     if (exp.visible.includes(id) && !shown) out.push(`section ${id} should be visible on this path`);
     if (!exp.visible.includes(id) && shown) out.push(`section ${id} should be hidden on this path`);
   }
+  const pill = document.querySelector('.section-nav.is-breadcrumb');
+  if (pill) {
+    const r = pill.getBoundingClientRect();
+    if (pill.scrollWidth > pill.clientWidth + 1) out.push(`breadcrumb is cut off (${pill.scrollWidth}px of crumbs in a ${pill.clientWidth}px pill)`);
+    if (r.left < 0 || r.right > innerWidth) out.push('breadcrumb runs off the screen');
+    const here = [...pill.querySelectorAll('.breadcrumb-link')].pop();
+    if (here && here.scrollWidth > here.clientWidth + 1) out.push(`current crumb truncated: "${here.textContent}"`);
+  }
   const closing = document.querySelector('.closing-screen');
   if (closing && closing.classList.contains('is-hidden')) out.push('closing screen hidden at a leaf');
   const nav = document.querySelector('.section-nav');
@@ -214,7 +222,18 @@ CARD_PROBE = """(exp) => {
     out.push(`verse not fully on screen (spans ${Math.round(cc.top)}–${Math.round(cc.bottom)}px of ${vh}px)`);
   if (desktop && cc.bottom > pr.bottom + 1) out.push(`verse overflows its panel by ${Math.round(cc.bottom - pr.bottom)}px`);
   const en = content.querySelectorAll('.primary-en');
-  if ([...en].some(e => getComputedStyle(e).display === 'none')) out.push('English caption hidden (verse too tall for the panel)');
+  if ([...en].some(e => getComputedStyle(e).display === 'none')) {
+    // Hiding the caption is fitToPanel's last resort, for a passage that can't
+    // fit even at the floor sizes (14px Hebrew / 12px English). Anything else
+    // is a sizing bug.
+    const els = [...content.querySelectorAll('.primary-he, .primary-en')];
+    const saved = els.map(e => e.style.cssText);
+    els.forEach(e => { e.style.display = ''; e.style.fontSize = e.classList.contains('primary-he') ? '14px' : '12px'; });
+    const pcs = getComputedStyle(panel);
+    const fitsAtFloor = content.scrollHeight <= panel.clientHeight - parseFloat(pcs.paddingTop) - parseFloat(pcs.paddingBottom);
+    els.forEach((e, i) => { e.style.cssText = saved[i]; });
+    if (fitsAtFloor) out.push('English caption hidden although the verse fits at the minimum font sizes');
+  }
   const ref = content.querySelector('.primary-ref');
   if (ref && cr && overlaps(ref.getBoundingClientRect(), cr)) out.push('verse ref label is under the breadcrumb');
 
@@ -280,13 +299,7 @@ def crumbs_for(sheet, tree, path):
 
 
 @pytest.mark.parametrize("slug,path,owned", cases())
-def test_scroll_path(request, page, base_url, viewport, slug, path, owned):
-    # Known layout bugs, fixed in the follow-up layout PR, which removes this:
-    # on mobile the sticky panel covers cards and the nav is drawn over text;
-    # on desktop the tall Nazir panel slides under the breadcrumb on a
-    # section's last card.
-    if viewport == "mobile" or (slug == "nasso" and path[:1] == ["nazir"]):
-        request.applymarker(pytest.mark.xfail(reason="known layout bugs", strict=False))
+def test_scroll_path(page, base_url, slug, path, owned):
     sheet = load_sheet(slug)
     tree = build_tree(sheet)
     groups = group_sections(sheet, tree)
