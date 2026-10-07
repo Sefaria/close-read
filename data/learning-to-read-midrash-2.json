@@ -1,0 +1,1388 @@
+{
+  "primaryLanguage": "en",
+  "title": {
+    "he": "לפשוטו של מדרש, פרק ב",
+    "en": "Learning to Read Midrash, Chapter 2",
+    "subtitle": {
+      "en": "The Methodology of the Mashal: God and Avraham as King and Warrior"
+    },
+    "author": {
+      "en": "Simi Peters"
+    },
+    "sourceUrl": "https://www.sefaria.org/Learning_to_Read_Midrash%2C_Chapter_2",
+    "sourceLabel": "Read the chapter on Sefaria",
+    "questionLabel": {
+      "en": "Simi Peters asks"
+    }
+  },
+  "sections": [
+    {
+      "id": "section-a",
+      "title": {
+        "en": "Nineteen Verses"
+      },
+      "primaryText": {
+        "ref": "Genesis 22:1-2",
+        "he": "וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה וְהָאֱלֹהִים נִסָּה אֶת־אַבְרָהָם וַיֹּאמֶר אֵלָיו אַבְרָהָם וַיֹּאמֶר הִנֵּנִי וַיֹּאמֶר קַח־נָא אֶת־בִּנְךָ אֶת־יְחִידְךָ אֲשֶׁר־אָהַבְתָּ אֶת־יִצְחָק וְלֶךְ־לְךָ אֶל־אֶרֶץ הַמֹּרִיָּה וְהַעֲלֵהוּ שָׁם לְעֹלָה עַל אַחַד הֶהָרִים אֲשֶׁר אֹמַר אֵלֶיךָ",
+        "en": "And it was after these things and the Lord tested Avraham, and He said to him, “Avraham,” and he said, “Here I am.” And He said, “Take, please, your son, your only one, the one you love, Yitzhak, and go you to the land of Moriah and bring him up as a burnt offering on one of the mountains that I will show you.”",
+        "words": {
+          "achar": {
+            "he": "וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה",
+            "en": "And it was after these things"
+          },
+          "nisah": {
+            "he": "וְהָאֱלֹהִים נִסָּה אֶת־אַבְרָהָם",
+            "en": "the Lord tested Avraham"
+          },
+          "hineni": {
+            "he": "וַיֹּאמֶר הִנֵּנִי",
+            "en": "and he said, “Here I am.”"
+          },
+          "kach-na": {
+            "he": "קַח־נָא",
+            "en": "Take, please"
+          },
+          "binkha": {
+            "he": "אֶת־בִּנְךָ אֶת־יְחִידְךָ אֲשֶׁר־אָהַבְתָּ אֶת־יִצְחָק",
+            "en": "your son, your only one, the one you love, Yitzhak"
+          },
+          "lekh": {
+            "he": "וְלֶךְ־לְךָ",
+            "en": "and go you"
+          },
+          "olah": {
+            "he": "וְהַעֲלֵהוּ שָׁם לְעֹלָה",
+            "en": "bring him up as a burnt offering"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "a-intro",
+          "type": "narration",
+          "text": {
+            "en": "The Akeda is told in just nineteen verses — terse, and dense with meaning. It forces us to struggle with faith and the limits of reason in our relationship with God, and it does so from close up: we walk beside Avraham, father of Yitzchak and our father too, through a private ordeal."
+          }
+        },
+        {
+          "id": "a-tool",
+          "type": "narration",
+          "text": {
+            "en": "Midrash is an ideal tool for mining a text this loaded. Hazal's close reading opens its subtleties, and the mashal — the midrashic parable — conveys what the textual difficulties mean. To see how a mashal works, we follow one from the problem it notices all the way to its resolution."
+          }
+        },
+        {
+          "id": "a-opening",
+          "type": "narration",
+          "text": {
+            "en": "The story opens with a test, a call, and an answer. Even a cursory reading raises questions."
+          },
+          "highlight": [
+            "achar",
+            "nisah",
+            "hineni"
+          ]
+        },
+        {
+          "id": "a-na",
+          "type": "narration",
+          "text": {
+            "en": "Midrash Tanhuma fastens on one small word in God's command: נָא, “please.” No other command from God in the Bible takes this form."
+          },
+          "highlight": [
+            "kach-na"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "a-imagine",
+          "type": "narration",
+          "text": {
+            "en": "Imagine the Ten Commandments reading “Guard, please, the Sabbath to keep it holy,” or God instructing Moshe, “Speak, please, to the children of Israel.” The word would jar. Here it barely registers."
+          },
+          "highlight": [
+            "kach-na"
+          ]
+        },
+        {
+          "id": "a-lekh",
+          "type": "narration",
+          "text": {
+            "en": "The grammar points the other way: לֵךְ, “go,” is an imperative. This is phrased as a command."
+          },
+          "highlight": [
+            "lekh"
+          ]
+        },
+        {
+          "id": "a-q-request",
+          "type": "question",
+          "text": {
+            "en": "Is God commanding, or requesting?"
+          },
+          "highlight": [
+            "kach-na",
+            "lekh"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "a-q-silence",
+          "type": "question",
+          "text": {
+            "en": "If this is only a request, why doesn't Avraham refuse — or argue, as he did for Sdom — or at least ask why? His immediate, silent compliance suggests he hears a command. So what is “please” doing here?"
+          },
+          "highlight": [
+            "kach-na",
+            "binkha",
+            "olah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-b",
+      "title": {
+        "en": "The Midrash: King and Warrior"
+      },
+      "primaryText": {
+        "ref": "Midrash Tanchuma, Vayera 22:1",
+        "he": "וַיֹּאמֶר קַח נָא, אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה. מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה, וְהָיָה לוֹ גִּבּוֹר אֶחָד נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת. לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה. אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר, בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ, שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי, אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ. אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם, נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת וְעָמַדְתָּ בָהֶן, עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה, כְּדֵי שֶׁלֹּא יֹאמְרוּ, רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ.",
+        "en": "And He said, “Take, please”: [The word] ‘please’ is none other than an expression of request. This may be compared to a king of flesh and blood who had many wars come upon him, and he had one warrior who won all the wars. After some time, he was faced with a difficult battle. The king said to that warrior, “Please, [I request] of you, stand for me in this war, so that my generals will not say, ‘Those first [wars] had no substance.’” Even thus, the Holy One Blessed be He said to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that they will not say, ‘Those first ones had no substance.’”",
+        "words": {
+          "kach-na": {
+            "he": "וַיֹּאמֶר קַח נָא",
+            "en": "And He said, “Take, please”"
+          },
+          "leshon-bakashah": {
+            "he": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה",
+            "en": "[The word] ‘please’ is none other than an expression of request"
+          },
+          "melekh": {
+            "he": "מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם",
+            "en": "This may be compared to a king of flesh and blood"
+          },
+          "milchamot": {
+            "he": "שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה",
+            "en": "who had many wars come upon him"
+          },
+          "gibor": {
+            "he": "וְהָיָה לוֹ גִּבּוֹר אֶחָד",
+            "en": "and he had one warrior"
+          },
+          "notzeach": {
+            "he": "נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת",
+            "en": "who won all the wars"
+          },
+          "chazakah": {
+            "he": "לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה",
+            "en": "After some time, he was faced with a difficult battle"
+          },
+          "amar-hamelekh": {
+            "he": "אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר",
+            "en": "The king said to that warrior"
+          },
+          "bevakashah": {
+            "he": "בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ",
+            "en": "“Please, [I request] of you, stand for me in this war"
+          },
+          "sarei": {
+            "he": "שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי",
+            "en": "so that my generals will not say"
+          },
+          "rishonot": {
+            "he": "אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ",
+            "en": "‘Those first [wars] had no substance.’"
+          },
+          "af-kakh": {
+            "he": "אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם",
+            "en": "Even thus, the Holy One Blessed be He said to Avraham"
+          },
+          "tishah": {
+            "he": "נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת",
+            "en": "“I have tested you with nine tests"
+          },
+          "amadta": {
+            "he": "וְעָמַדְתָּ בָהֶן",
+            "en": "and you have withstood them"
+          },
+          "amod-li": {
+            "he": "עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה",
+            "en": "Now stand for me in this test"
+          },
+          "shelo-yomru": {
+            "he": "כְּדֵי שֶׁלֹּא יֹאמְרוּ",
+            "en": "so that they will not say"
+          },
+          "rishonim": {
+            "he": "רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ",
+            "en": "‘Those first ones had no substance.’"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "b-intro",
+          "type": "narration",
+          "text": {
+            "en": "Tanhuma (Vayera) answers with a mashal. Read it through once. Peters divides it into eleven lines; each card below lights the part it discusses."
+          }
+        },
+        {
+          "id": "b-problem",
+          "type": "narration",
+          "text": {
+            "en": "Line 1 makes the claim: na is a word of request."
+          },
+          "highlight": [
+            "kach-na",
+            "leshon-bakashah"
+          ]
+        },
+        {
+          "id": "b-mashal",
+          "type": "narration",
+          "text": {
+            "en": "Lines 2–7 tell a story about a king and his warrior."
+          },
+          "highlight": [
+            "melekh",
+            "milchamot",
+            "gibor",
+            "notzeach",
+            "chazakah",
+            "amar-hamelekh",
+            "bevakashah",
+            "sarei",
+            "rishonot"
+          ]
+        },
+        {
+          "id": "b-nimshal",
+          "type": "narration",
+          "text": {
+            "en": "Lines 8–11 apply it to God and Avraham."
+          },
+          "highlight": [
+            "af-kakh",
+            "tishah",
+            "amadta",
+            "amod-li",
+            "shelo-yomru",
+            "rishonim"
+          ]
+        },
+        {
+          "id": "b-lama-li",
+          "type": "question",
+          "text": {
+            "en": "Lama li — what do I need it for? At first glance the king-and-warrior story adds nothing. The substance seems to sit in lines 8–11, where the midrash elaborates God's words. Why do we need the mashal?"
+          },
+          "highlight": [
+            "af-kakh",
+            "tishah",
+            "amadta",
+            "amod-li",
+            "shelo-yomru",
+            "rishonim"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "b-word-picture",
+          "type": "narration",
+          "text": {
+            "en": "One answer: the mashal is decoration, a word picture to enliven the text. Some meshalim are just that. But before filing a mashal there, assume it has an interpretive job. If we can't see the job, the gap may be in our familiarity with Hazal's style, not in the midrash."
+          },
+          "highlight": [
+            "melekh",
+            "milchamot",
+            "gibor",
+            "notzeach",
+            "chazakah",
+            "amar-hamelekh",
+            "bevakashah",
+            "sarei",
+            "rishonot"
+          ]
+        },
+        {
+          "id": "b-method",
+          "type": "narration",
+          "text": {
+            "en": "So read more closely, and systematically, so nothing essential slips by. Six steps: (1) divide the passage into its parts; (2) read the mashal as a story in its own right, looking for gaps and problems; (3) isolate its elements; (4) match them to the nimshal; (5) draw conclusions; (6) re-read the biblical text in light of the midrash."
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-c",
+      "title": {
+        "en": "Step 1 · The Structure of the Midrash"
+      },
+      "primaryText": {
+        "ref": "Midrash Tanchuma, Vayera 22:1",
+        "he": "וַיֹּאמֶר קַח נָא, אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה. מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה, וְהָיָה לוֹ גִּבּוֹר אֶחָד נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת. לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה. אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר, בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ, שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי, אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ. אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם, נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת וְעָמַדְתָּ בָהֶן, עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה, כְּדֵי שֶׁלֹּא יֹאמְרוּ, רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ.",
+        "en": "And He said, “Take, please”: [The word] ‘please’ is none other than an expression of request. This may be compared to a king of flesh and blood who had many wars come upon him, and he had one warrior who won all the wars. After some time, he was faced with a difficult battle. The king said to that warrior, “Please, [I request] of you, stand for me in this war, so that my generals will not say, ‘Those first [wars] had no substance.’” Even thus, the Holy One Blessed be He said to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that they will not say, ‘Those first ones had no substance.’”",
+        "words": {
+          "kach-na": {
+            "he": "וַיֹּאמֶר קַח נָא",
+            "en": "And He said, “Take, please”"
+          },
+          "leshon-bakashah": {
+            "he": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה",
+            "en": "[The word] ‘please’ is none other than an expression of request"
+          },
+          "melekh": {
+            "he": "מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם",
+            "en": "This may be compared to a king of flesh and blood"
+          },
+          "milchamot": {
+            "he": "שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה",
+            "en": "who had many wars come upon him"
+          },
+          "gibor": {
+            "he": "וְהָיָה לוֹ גִּבּוֹר אֶחָד",
+            "en": "and he had one warrior"
+          },
+          "notzeach": {
+            "he": "נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת",
+            "en": "who won all the wars"
+          },
+          "chazakah": {
+            "he": "לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה",
+            "en": "After some time, he was faced with a difficult battle"
+          },
+          "amar-hamelekh": {
+            "he": "אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר",
+            "en": "The king said to that warrior"
+          },
+          "bevakashah": {
+            "he": "בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ",
+            "en": "“Please, [I request] of you, stand for me in this war"
+          },
+          "sarei": {
+            "he": "שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי",
+            "en": "so that my generals will not say"
+          },
+          "rishonot": {
+            "he": "אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ",
+            "en": "‘Those first [wars] had no substance.’"
+          },
+          "af-kakh": {
+            "he": "אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם",
+            "en": "Even thus, the Holy One Blessed be He said to Avraham"
+          },
+          "tishah": {
+            "he": "נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת",
+            "en": "“I have tested you with nine tests"
+          },
+          "amadta": {
+            "he": "וְעָמַדְתָּ בָהֶן",
+            "en": "and you have withstood them"
+          },
+          "amod-li": {
+            "he": "עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה",
+            "en": "Now stand for me in this test"
+          },
+          "shelo-yomru": {
+            "he": "כְּדֵי שֶׁלֹּא יֹאמְרוּ",
+            "en": "so that they will not say"
+          },
+          "rishonim": {
+            "he": "רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ",
+            "en": "‘Those first ones had no substance.’"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "c-intro",
+          "type": "narration",
+          "text": {
+            "en": "The passage divides into three parts: the statement of the difficulty (line 1), the mashal (lines 2–7) and the nimshal (lines 8–11). Two things are worth noticing as we divide it."
+          }
+        },
+        {
+          "id": "c-cryptic",
+          "type": "narration",
+          "text": {
+            "en": "First, line 1 is cryptic. It says only that na implies a request. The reader has to infer the problem: a gap between the fact of a command and the language it comes in — language that seems to undercut its being a command at all."
+          },
+          "highlight": [
+            "kach-na",
+            "leshon-bakashah"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "c-style",
+          "type": "narration",
+          "text": {
+            "en": "This is characteristic of midrash. The difficulty is rarely stated outright; often it isn't mentioned at all, or, as here, must be reconstructed from a terse, indirect remark. Students of Rashi know the problem: you rebuild the question from the answer."
+          },
+          "highlight": [
+            "kach-na",
+            "leshon-bakashah"
+          ]
+        },
+        {
+          "id": "c-expansion",
+          "type": "narration",
+          "text": {
+            "en": "Second, the nimshal is a narrative expansion — a midrashic story that extends the biblical one. These words of God appear nowhere in Genesis 22. They are not the only way to read verse 2; they are the midrash's commentary on it."
+          },
+          "highlight": [
+            "af-kakh",
+            "tishah",
+            "amadta",
+            "amod-li",
+            "shelo-yomru",
+            "rishonim"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-d",
+      "title": {
+        "en": "Step 2 · The Mashal as a Story"
+      },
+      "primaryText": {
+        "ref": "Midrash Tanchuma, Vayera 22:1",
+        "he": "וַיֹּאמֶר קַח נָא, אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה. מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה, וְהָיָה לוֹ גִּבּוֹר אֶחָד נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת. לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה. אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר, בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ, שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי, אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ. אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם, נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת וְעָמַדְתָּ בָהֶן, עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה, כְּדֵי שֶׁלֹּא יֹאמְרוּ, רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ.",
+        "en": "And He said, “Take, please”: [The word] ‘please’ is none other than an expression of request. This may be compared to a king of flesh and blood who had many wars come upon him, and he had one warrior who won all the wars. After some time, he was faced with a difficult battle. The king said to that warrior, “Please, [I request] of you, stand for me in this war, so that my generals will not say, ‘Those first [wars] had no substance.’” Even thus, the Holy One Blessed be He said to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that they will not say, ‘Those first ones had no substance.’”",
+        "words": {
+          "kach-na": {
+            "he": "וַיֹּאמֶר קַח נָא",
+            "en": "And He said, “Take, please”"
+          },
+          "leshon-bakashah": {
+            "he": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה",
+            "en": "[The word] ‘please’ is none other than an expression of request"
+          },
+          "melekh": {
+            "he": "מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם",
+            "en": "This may be compared to a king of flesh and blood"
+          },
+          "milchamot": {
+            "he": "שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה",
+            "en": "who had many wars come upon him"
+          },
+          "gibor": {
+            "he": "וְהָיָה לוֹ גִּבּוֹר אֶחָד",
+            "en": "and he had one warrior"
+          },
+          "notzeach": {
+            "he": "נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת",
+            "en": "who won all the wars"
+          },
+          "chazakah": {
+            "he": "לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה",
+            "en": "After some time, he was faced with a difficult battle"
+          },
+          "amar-hamelekh": {
+            "he": "אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר",
+            "en": "The king said to that warrior"
+          },
+          "bevakashah": {
+            "he": "בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ",
+            "en": "“Please, [I request] of you, stand for me in this war"
+          },
+          "sarei": {
+            "he": "שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי",
+            "en": "so that my generals will not say"
+          },
+          "rishonot": {
+            "he": "אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ",
+            "en": "‘Those first [wars] had no substance.’"
+          },
+          "af-kakh": {
+            "he": "אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם",
+            "en": "Even thus, the Holy One Blessed be He said to Avraham"
+          },
+          "tishah": {
+            "he": "נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת",
+            "en": "“I have tested you with nine tests"
+          },
+          "amadta": {
+            "he": "וְעָמַדְתָּ בָהֶן",
+            "en": "and you have withstood them"
+          },
+          "amod-li": {
+            "he": "עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה",
+            "en": "Now stand for me in this test"
+          },
+          "shelo-yomru": {
+            "he": "כְּדֵי שֶׁלֹּא יֹאמְרוּ",
+            "en": "so that they will not say"
+          },
+          "rishonim": {
+            "he": "רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ",
+            "en": "‘Those first ones had no substance.’"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "d-intro",
+          "type": "narration",
+          "text": {
+            "en": "Now read lines 2–7 as a story on its own terms. The plot is simple: a king fights many wars; one warrior wins them all; facing a hard battle, the king asks the warrior to win this one too, so his generals won't disparage the earlier victories."
+          }
+        },
+        {
+          "id": "d-q-wars",
+          "type": "question",
+          "text": {
+            "en": "Why does this king face so many wars? What are they about?"
+          },
+          "highlight": [
+            "milchamot"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "d-q-generals",
+          "type": "question",
+          "text": {
+            "en": "Why does the king care so much what his generals will say if this particular war is lost?"
+          },
+          "highlight": [
+            "sarei",
+            "rishonot"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "d-q-trust",
+          "type": "question",
+          "text": {
+            "en": "Doesn't the king trust the warrior who has won every battle for him? If he does, why ask — “stand for me in this war”? And if he doesn't, what is the point of asking?"
+          },
+          "highlight": [
+            "gibor",
+            "notzeach",
+            "bevakashah"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "d-prestige",
+          "type": "narration",
+          "text": {
+            "en": "These questions make us notice what the story leaves out. The wars aren't about territory, wealth, or even the safety of the realm. They are about the king's standing — even inside his own kingdom."
+          },
+          "highlight": [
+            "milchamot",
+            "sarei"
+          ]
+        },
+        {
+          "id": "d-hard-battle",
+          "type": "narration",
+          "text": {
+            "en": "That is why the difficult battle matters so much: losing it would cancel every earlier gain. We haven't answered every question, but asking them has exposed a complexity the first reading missed."
+          },
+          "highlight": [
+            "chazakah",
+            "rishonot"
+          ],
+          "effect": "glow"
+        }
+      ]
+    },
+    {
+      "id": "section-e",
+      "title": {
+        "en": "Steps 3–4 · Isolating and Matching the Elements"
+      },
+      "primaryText": {
+        "ref": "Midrash Tanchuma, Vayera 22:1",
+        "he": "וַיֹּאמֶר קַח נָא, אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה. מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה, וְהָיָה לוֹ גִּבּוֹר אֶחָד נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת. לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה. אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר, בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ, שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי, אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ. אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם, נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת וְעָמַדְתָּ בָהֶן, עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה, כְּדֵי שֶׁלֹּא יֹאמְרוּ, רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ.",
+        "en": "And He said, “Take, please”: [The word] ‘please’ is none other than an expression of request. This may be compared to a king of flesh and blood who had many wars come upon him, and he had one warrior who won all the wars. After some time, he was faced with a difficult battle. The king said to that warrior, “Please, [I request] of you, stand for me in this war, so that my generals will not say, ‘Those first [wars] had no substance.’” Even thus, the Holy One Blessed be He said to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that they will not say, ‘Those first ones had no substance.’”",
+        "words": {
+          "kach-na": {
+            "he": "וַיֹּאמֶר קַח נָא",
+            "en": "And He said, “Take, please”"
+          },
+          "leshon-bakashah": {
+            "he": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה",
+            "en": "[The word] ‘please’ is none other than an expression of request"
+          },
+          "melekh": {
+            "he": "מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם",
+            "en": "This may be compared to a king of flesh and blood"
+          },
+          "milchamot": {
+            "he": "שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה",
+            "en": "who had many wars come upon him"
+          },
+          "gibor": {
+            "he": "וְהָיָה לוֹ גִּבּוֹר אֶחָד",
+            "en": "and he had one warrior"
+          },
+          "notzeach": {
+            "he": "נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת",
+            "en": "who won all the wars"
+          },
+          "chazakah": {
+            "he": "לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה",
+            "en": "After some time, he was faced with a difficult battle"
+          },
+          "amar-hamelekh": {
+            "he": "אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר",
+            "en": "The king said to that warrior"
+          },
+          "bevakashah": {
+            "he": "בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ",
+            "en": "“Please, [I request] of you, stand for me in this war"
+          },
+          "sarei": {
+            "he": "שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי",
+            "en": "so that my generals will not say"
+          },
+          "rishonot": {
+            "he": "אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ",
+            "en": "‘Those first [wars] had no substance.’"
+          },
+          "af-kakh": {
+            "he": "אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם",
+            "en": "Even thus, the Holy One Blessed be He said to Avraham"
+          },
+          "tishah": {
+            "he": "נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת",
+            "en": "“I have tested you with nine tests"
+          },
+          "amadta": {
+            "he": "וְעָמַדְתָּ בָהֶן",
+            "en": "and you have withstood them"
+          },
+          "amod-li": {
+            "he": "עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה",
+            "en": "Now stand for me in this test"
+          },
+          "shelo-yomru": {
+            "he": "כְּדֵי שֶׁלֹּא יֹאמְרוּ",
+            "en": "so that they will not say"
+          },
+          "rishonim": {
+            "he": "רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ",
+            "en": "‘Those first ones had no substance.’"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "e-intro",
+          "type": "narration",
+          "text": {
+            "en": "Step 3 lists the mashal's essential elements: a king; many wars; a warrior; wins all the wars; a difficult battle; the king's request; the king's generals; “the first wars had no substance.” Step 4 matches each to the nimshal. Here the nimshal completes the mashal almost without gaps."
+          }
+        },
+        {
+          "id": "e-king",
+          "type": "narration",
+          "text": {
+            "en": "A king — the Holy One, Blessed be He."
+          },
+          "highlight": [
+            "melekh",
+            "af-kakh"
+          ]
+        },
+        {
+          "id": "e-wars",
+          "type": "narration",
+          "text": {
+            "en": "Many wars — nine tests."
+          },
+          "highlight": [
+            "milchamot",
+            "tishah"
+          ]
+        },
+        {
+          "id": "e-warrior",
+          "type": "narration",
+          "text": {
+            "en": "A warrior — Avraham."
+          },
+          "highlight": [
+            "gibor",
+            "af-kakh"
+          ]
+        },
+        {
+          "id": "e-wins",
+          "type": "narration",
+          "text": {
+            "en": "Wins all the wars — withstood the tests."
+          },
+          "highlight": [
+            "notzeach",
+            "amadta"
+          ]
+        },
+        {
+          "id": "e-battle",
+          "type": "narration",
+          "text": {
+            "en": "A difficult battle — this test, the Akeda."
+          },
+          "highlight": [
+            "chazakah",
+            "amod-li"
+          ]
+        },
+        {
+          "id": "e-request",
+          "type": "narration",
+          "text": {
+            "en": "The king's request — God's request."
+          },
+          "highlight": [
+            "bevakashah",
+            "amod-li"
+          ]
+        },
+        {
+          "id": "e-generals",
+          "type": "narration",
+          "text": {
+            "en": "The king's generals — ……… Nothing. The nimshal leaves the role blank: “so that they will not say.” Who are “they”?"
+          },
+          "highlight": [
+            "sarei",
+            "shelo-yomru"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "e-first",
+          "type": "narration",
+          "text": {
+            "en": "“The first wars had no substance” — “the first ones had no substance.”"
+          },
+          "highlight": [
+            "rishonot",
+            "rishonim"
+          ]
+        },
+        {
+          "id": "e-gap",
+          "type": "narration",
+          "text": {
+            "en": "Lined up this way, two problems stand out. The first is the gap: the king fears his generals, but the nimshal never says who the skeptics are."
+          },
+          "highlight": [
+            "sarei",
+            "shelo-yomru"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "e-discrepancy",
+          "type": "narration",
+          "text": {
+            "en": "The second matters more. In the mashal the wars are the king's; the warrior is his proxy. In Genesis it is Avraham, not God, who undergoes the tests. Yet the midrash sets the king's wars equal to Avraham's trials."
+          },
+          "highlight": [
+            "milchamot",
+            "tishah"
+          ],
+          "effect": "glow"
+        }
+      ]
+    },
+    {
+      "id": "section-f",
+      "title": {
+        "en": "Step 5 · Drawing Conclusions"
+      },
+      "primaryText": {
+        "ref": "Midrash Tanchuma, Vayera 22:1",
+        "he": "וַיֹּאמֶר קַח נָא, אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה. מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה, וְהָיָה לוֹ גִּבּוֹר אֶחָד נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת. לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה. אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר, בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ, שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי, אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ. אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם, נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת וְעָמַדְתָּ בָהֶן, עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה, כְּדֵי שֶׁלֹּא יֹאמְרוּ, רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ.",
+        "en": "And He said, “Take, please”: [The word] ‘please’ is none other than an expression of request. This may be compared to a king of flesh and blood who had many wars come upon him, and he had one warrior who won all the wars. After some time, he was faced with a difficult battle. The king said to that warrior, “Please, [I request] of you, stand for me in this war, so that my generals will not say, ‘Those first [wars] had no substance.’” Even thus, the Holy One Blessed be He said to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that they will not say, ‘Those first ones had no substance.’”",
+        "words": {
+          "kach-na": {
+            "he": "וַיֹּאמֶר קַח נָא",
+            "en": "And He said, “Take, please”"
+          },
+          "leshon-bakashah": {
+            "he": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה",
+            "en": "[The word] ‘please’ is none other than an expression of request"
+          },
+          "melekh": {
+            "he": "מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם",
+            "en": "This may be compared to a king of flesh and blood"
+          },
+          "milchamot": {
+            "he": "שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה",
+            "en": "who had many wars come upon him"
+          },
+          "gibor": {
+            "he": "וְהָיָה לוֹ גִּבּוֹר אֶחָד",
+            "en": "and he had one warrior"
+          },
+          "notzeach": {
+            "he": "נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת",
+            "en": "who won all the wars"
+          },
+          "chazakah": {
+            "he": "לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה",
+            "en": "After some time, he was faced with a difficult battle"
+          },
+          "amar-hamelekh": {
+            "he": "אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר",
+            "en": "The king said to that warrior"
+          },
+          "bevakashah": {
+            "he": "בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ",
+            "en": "“Please, [I request] of you, stand for me in this war"
+          },
+          "sarei": {
+            "he": "שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי",
+            "en": "so that my generals will not say"
+          },
+          "rishonot": {
+            "he": "אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ",
+            "en": "‘Those first [wars] had no substance.’"
+          },
+          "af-kakh": {
+            "he": "אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם",
+            "en": "Even thus, the Holy One Blessed be He said to Avraham"
+          },
+          "tishah": {
+            "he": "נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת",
+            "en": "“I have tested you with nine tests"
+          },
+          "amadta": {
+            "he": "וְעָמַדְתָּ בָהֶן",
+            "en": "and you have withstood them"
+          },
+          "amod-li": {
+            "he": "עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה",
+            "en": "Now stand for me in this test"
+          },
+          "shelo-yomru": {
+            "he": "כְּדֵי שֶׁלֹּא יֹאמְרוּ",
+            "en": "so that they will not say"
+          },
+          "rishonim": {
+            "he": "רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ",
+            "en": "‘Those first ones had no substance.’"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "f-intro",
+          "type": "narration",
+          "text": {
+            "en": "Resolve the discrepancy and the midrash's point appears. By equating the king's wars with Avraham's tests, it deliberately blurs the line between God and Avraham."
+          }
+        },
+        {
+          "id": "f-ordeal",
+          "type": "narration",
+          "text": {
+            "en": "The Akeda, then, is not really a testing of Avraham. It is an ordeal Avraham must undergo for God's sake. If he refuses, or backs out at the last moment, the battle lost is not his but God's. His acts of faith are bound up with God's name, as a warrior fights in the king's name on the field."
+          },
+          "highlight": [
+            "milchamot",
+            "tishah",
+            "amod-li"
+          ]
+        },
+        {
+          "id": "f-request",
+          "type": "narration",
+          "text": {
+            "en": "So God's words really are a request, and na marks it."
+          },
+          "highlight": [
+            "bevakashah",
+            "amod-li"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "f-ability",
+          "type": "narration",
+          "text": {
+            "en": "Avraham's ability to pass is not in doubt. If the king didn't believe his warrior could win, the request would be pointless. What God wants is for Avraham to understand how much the Akeda matters — not for Avraham's sake, but for His own."
+          },
+          "highlight": [
+            "notzeach",
+            "amadta"
+          ]
+        },
+        {
+          "id": "f-loyalty",
+          "type": "narration",
+          "text": {
+            "en": "A request may even be stronger than a command. Both king and God appeal to personal loyalty, not to the formal relation of sovereign and servant."
+          },
+          "highlight": [
+            "leshon-bakashah",
+            "bevakashah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-g",
+      "title": {
+        "en": "Filling the Gap"
+      },
+      "primaryText": {
+        "ref": "Midrash Tanchuma, Vayera 22:1",
+        "he": "וַיֹּאמֶר קַח נָא, אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה. מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה, וְהָיָה לוֹ גִּבּוֹר אֶחָד נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת. לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה. אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר, בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ, שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי, אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ. אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם, נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת וְעָמַדְתָּ בָהֶן, עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה, כְּדֵי שֶׁלֹּא יֹאמְרוּ, רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ.",
+        "en": "And He said, “Take, please”: [The word] ‘please’ is none other than an expression of request. This may be compared to a king of flesh and blood who had many wars come upon him, and he had one warrior who won all the wars. After some time, he was faced with a difficult battle. The king said to that warrior, “Please, [I request] of you, stand for me in this war, so that my generals will not say, ‘Those first [wars] had no substance.’” Even thus, the Holy One Blessed be He said to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that they will not say, ‘Those first ones had no substance.’”",
+        "words": {
+          "kach-na": {
+            "he": "וַיֹּאמֶר קַח נָא",
+            "en": "And He said, “Take, please”"
+          },
+          "leshon-bakashah": {
+            "he": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה",
+            "en": "[The word] ‘please’ is none other than an expression of request"
+          },
+          "melekh": {
+            "he": "מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם",
+            "en": "This may be compared to a king of flesh and blood"
+          },
+          "milchamot": {
+            "he": "שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה",
+            "en": "who had many wars come upon him"
+          },
+          "gibor": {
+            "he": "וְהָיָה לוֹ גִּבּוֹר אֶחָד",
+            "en": "and he had one warrior"
+          },
+          "notzeach": {
+            "he": "נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת",
+            "en": "who won all the wars"
+          },
+          "chazakah": {
+            "he": "לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה",
+            "en": "After some time, he was faced with a difficult battle"
+          },
+          "amar-hamelekh": {
+            "he": "אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר",
+            "en": "The king said to that warrior"
+          },
+          "bevakashah": {
+            "he": "בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ",
+            "en": "“Please, [I request] of you, stand for me in this war"
+          },
+          "sarei": {
+            "he": "שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי",
+            "en": "so that my generals will not say"
+          },
+          "rishonot": {
+            "he": "אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ",
+            "en": "‘Those first [wars] had no substance.’"
+          },
+          "af-kakh": {
+            "he": "אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם",
+            "en": "Even thus, the Holy One Blessed be He said to Avraham"
+          },
+          "tishah": {
+            "he": "נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת",
+            "en": "“I have tested you with nine tests"
+          },
+          "amadta": {
+            "he": "וְעָמַדְתָּ בָהֶן",
+            "en": "and you have withstood them"
+          },
+          "amod-li": {
+            "he": "עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה",
+            "en": "Now stand for me in this test"
+          },
+          "shelo-yomru": {
+            "he": "כְּדֵי שֶׁלֹּא יֹאמְרוּ",
+            "en": "so that they will not say"
+          },
+          "rishonim": {
+            "he": "רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ",
+            "en": "‘Those first ones had no substance.’"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "g-intro",
+          "type": "narration",
+          "text": {
+            "en": "The blank remains. Usually we fill a gap in a nimshal from the biblical text. Here nothing in Genesis fits: God speaks to Avraham alone. Who is the audience of the Akeda? And why does the mashal cast that audience as the king's generals?"
+          }
+        },
+        {
+          "id": "g-reader-fills",
+          "type": "narration",
+          "text": {
+            "en": "One possibility: the identity doesn't matter, and the blank is left for readers to fill with whoever they imagine as the Akeda's critical onlookers. Peters' students have proposed the angels, the nations of the world, Avraham's contemporaries, his household — Eliezer and Yishmael waiting at the foot of the mountain."
+          },
+          "highlight": [
+            "shelo-yomru"
+          ]
+        },
+        {
+          "id": "g-q-why-generals",
+          "type": "question",
+          "text": {
+            "en": "But the author could have built the mashal differently. Why make the skeptics the king's own generals rather than his enemies? Or why not leave them unnamed in the mashal too — “so that they will not say”?"
+          },
+          "highlight": [
+            "sarei"
+          ],
+          "effect": "pulse"
+        },
+        {
+          "id": "g-reader",
+          "type": "narration",
+          "text": {
+            "en": "A second possibility: the audience of the Akeda is the reader. Only the reader is present at this private exchange. An Akeda that ended differently — with Avraham failing — would make the reader doubt God."
+          },
+          "highlight": [
+            "sarei",
+            "shelo-yomru"
+          ]
+        },
+        {
+          "id": "g-generals",
+          "type": "narration",
+          "text": {
+            "en": "And the midrash assumes a Jewish reader. If Avraham is the king's greatest warrior, the Jewish people are the king's generals."
+          },
+          "highlight": [
+            "sarei"
+          ],
+          "effect": "glow"
+        }
+      ]
+    },
+    {
+      "id": "section-h",
+      "title": {
+        "en": "The Midrash Without the Mashal"
+      },
+      "primaryText": {
+        "ref": "Midrash Tanchuma, Vayera 22:1",
+        "he": "וַיֹּאמֶר קַח נָא, אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה. מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה, וְהָיָה לוֹ גִּבּוֹר אֶחָד נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת. לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה. אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר, בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ, שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי, אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ. אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם, נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת וְעָמַדְתָּ בָהֶן, עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה, כְּדֵי שֶׁלֹּא יֹאמְרוּ, רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ.",
+        "en": "And He said, “Take, please”: [The word] ‘please’ is none other than an expression of request. This may be compared to a king of flesh and blood who had many wars come upon him, and he had one warrior who won all the wars. After some time, he was faced with a difficult battle. The king said to that warrior, “Please, [I request] of you, stand for me in this war, so that my generals will not say, ‘Those first [wars] had no substance.’” Even thus, the Holy One Blessed be He said to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that they will not say, ‘Those first ones had no substance.’”",
+        "words": {
+          "kach-na": {
+            "he": "וַיֹּאמֶר קַח נָא",
+            "en": "And He said, “Take, please”"
+          },
+          "leshon-bakashah": {
+            "he": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה",
+            "en": "[The word] ‘please’ is none other than an expression of request"
+          },
+          "melekh": {
+            "he": "מָשָׁל לְמֶלֶךְ בָּשָׂר וָדָם",
+            "en": "This may be compared to a king of flesh and blood"
+          },
+          "milchamot": {
+            "he": "שֶׁעָמְדוּ עָלָיו מִלְחָמוֹת הַרְבֵּה",
+            "en": "who had many wars come upon him"
+          },
+          "gibor": {
+            "he": "וְהָיָה לוֹ גִּבּוֹר אֶחָד",
+            "en": "and he had one warrior"
+          },
+          "notzeach": {
+            "he": "נוֹצֵחַ בְּכָל הַמִּלְחָמוֹת",
+            "en": "who won all the wars"
+          },
+          "chazakah": {
+            "he": "לְיָמִים עָמְדָה עָלָיו מִלְחָמָה חֲזָקָה",
+            "en": "After some time, he was faced with a difficult battle"
+          },
+          "amar-hamelekh": {
+            "he": "אָמַר הַמֶּלֶךְ לְאוֹתוֹ גִבּוֹר",
+            "en": "The king said to that warrior"
+          },
+          "bevakashah": {
+            "he": "בְּבַקָּשָׁה מִמְּךָ עֲמוֹד לִי בְּמִלְחָמָה זוֹ",
+            "en": "“Please, [I request] of you, stand for me in this war"
+          },
+          "sarei": {
+            "he": "שֶׁלֹּא יֹאמְרוּ שָׂרֵי הַחַיָּלִים שֶׁלִּי",
+            "en": "so that my generals will not say"
+          },
+          "rishonot": {
+            "he": "אוֹתָן מִלְחָמוֹת רִאשׁוֹנוֹת לֹא הָיָה בָהֶן מַמָשׁ",
+            "en": "‘Those first [wars] had no substance.’"
+          },
+          "af-kakh": {
+            "he": "אַף כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְאַבְרָהָם",
+            "en": "Even thus, the Holy One Blessed be He said to Avraham"
+          },
+          "tishah": {
+            "he": "נִסִּיתִיךָ בְּתִשְׁעָה נִסְיוֹנוֹת",
+            "en": "“I have tested you with nine tests"
+          },
+          "amadta": {
+            "he": "וְעָמַדְתָּ בָהֶן",
+            "en": "and you have withstood them"
+          },
+          "amod-li": {
+            "he": "עַכְשָׁו עֲמוֹד לִי בְּנִסָּיוֹן זֶה",
+            "en": "Now stand for me in this test"
+          },
+          "shelo-yomru": {
+            "he": "כְּדֵי שֶׁלֹּא יֹאמְרוּ",
+            "en": "so that they will not say"
+          },
+          "rishonim": {
+            "he": "רִאשׁוֹנִים לֹא הָיָה בָהֶם מַמָּשׁ",
+            "en": "‘Those first ones had no substance.’"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "h-intro",
+          "type": "narration",
+          "text": {
+            "en": "Back to the opening question: why do we need the mashal? Try removing it. Peters rewrites the midrash this way: And He said, “Take please”: [The word] ‘please’ is none other than the language of request. Thus said the Holy One Blessed be He to Avraham, “I have tested you with nine tests and you have withstood them. Now stand for me in this test, so that others will not say, ‘Those first ones had no substance.’”"
+          }
+        },
+        {
+          "id": "h-without",
+          "type": "narration",
+          "text": {
+            "en": "Read only these lines. They still explain that God is making a request."
+          },
+          "highlight": [
+            "kach-na",
+            "leshon-bakashah",
+            "af-kakh",
+            "tishah",
+            "amadta",
+            "amod-li",
+            "shelo-yomru",
+            "rishonim"
+          ]
+        },
+        {
+          "id": "h-lost",
+          "type": "narration",
+          "text": {
+            "en": "But much is lost. Without the mashal it isn't clear that Avraham represents God in the world, or that his failure would harm the standing of God's name. Nor that Avraham's ability is not in question, and that the test is not for his sake."
+          },
+          "highlight": [
+            "kach-na",
+            "leshon-bakashah",
+            "af-kakh",
+            "tishah",
+            "amadta",
+            "amod-li",
+            "shelo-yomru",
+            "rishonim"
+          ]
+        },
+        {
+          "id": "h-contrast",
+          "type": "narration",
+          "text": {
+            "en": "The message emerges from the contrast between mashal and nimshal, not from their likeness."
+          },
+          "highlight": [
+            "melekh",
+            "milchamot",
+            "gibor",
+            "notzeach",
+            "chazakah",
+            "amar-hamelekh",
+            "bevakashah",
+            "sarei",
+            "rishonot"
+          ],
+          "effect": "glow"
+        }
+      ]
+    },
+    {
+      "id": "section-i",
+      "title": {
+        "en": "Step 6 · Reading the Midrash Back into the Text"
+      },
+      "primaryText": {
+        "ref": "Genesis 22:1-2",
+        "he": "וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה וְהָאֱלֹהִים נִסָּה אֶת־אַבְרָהָם וַיֹּאמֶר אֵלָיו אַבְרָהָם וַיֹּאמֶר הִנֵּנִי וַיֹּאמֶר קַח־נָא אֶת־בִּנְךָ אֶת־יְחִידְךָ אֲשֶׁר־אָהַבְתָּ אֶת־יִצְחָק וְלֶךְ־לְךָ אֶל־אֶרֶץ הַמֹּרִיָּה וְהַעֲלֵהוּ שָׁם לְעֹלָה עַל אַחַד הֶהָרִים אֲשֶׁר אֹמַר אֵלֶיךָ",
+        "en": "And it was after these things and the Lord tested Avraham, and He said to him, “Avraham,” and he said, “Here I am.” And He said, “Take, please, your son, your only one, the one you love, Yitzhak, and go you to the land of Moriah and bring him up as a burnt offering on one of the mountains that I will show you.”",
+        "words": {
+          "achar": {
+            "he": "וַיְהִי אַחַר הַדְּבָרִים הָאֵלֶּה",
+            "en": "And it was after these things"
+          },
+          "nisah": {
+            "he": "וְהָאֱלֹהִים נִסָּה אֶת־אַבְרָהָם",
+            "en": "the Lord tested Avraham"
+          },
+          "hineni": {
+            "he": "וַיֹּאמֶר הִנֵּנִי",
+            "en": "and he said, “Here I am.”"
+          },
+          "kach-na": {
+            "he": "קַח־נָא",
+            "en": "Take, please"
+          },
+          "binkha": {
+            "he": "אֶת־בִּנְךָ אֶת־יְחִידְךָ אֲשֶׁר־אָהַבְתָּ אֶת־יִצְחָק",
+            "en": "your son, your only one, the one you love, Yitzhak"
+          },
+          "lekh": {
+            "he": "וְלֶךְ־לְךָ",
+            "en": "and go you"
+          },
+          "olah": {
+            "he": "וְהַעֲלֵהוּ שָׁם לְעֹלָה",
+            "en": "bring him up as a burnt offering"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "i-intro",
+          "type": "narration",
+          "text": {
+            "en": "Last step: return to Genesis with the midrash in hand. The mashal gives us a story like the one we know, and different from it. God is king and Avraham His mightiest warrior — that much is familiar. The discrepancies tell us more."
+          }
+        },
+        {
+          "id": "i-na",
+          "type": "narration",
+          "text": {
+            "en": "The word na, so delicately set into God's command, is barely noticed by readers who know the text well. For the midrash it points to a relationship between God and Avraham we might not have dared to imagine."
+          },
+          "highlight": [
+            "kach-na"
+          ],
+          "effect": "glow"
+        },
+        {
+          "id": "i-relationship",
+          "type": "narration",
+          "text": {
+            "en": "Not only sovereign and subject, but trust, love — and, in a sense, need. Read back into the verse, the midrash resolves the difficulty of na."
+          },
+          "highlight": [
+            "kach-na",
+            "lekh"
+          ]
+        },
+        {
+          "id": "i-challenge",
+          "type": "narration",
+          "text": {
+            "en": "It also challenges the reader to conceive an almost unimaginable level of obligation and self-sacrifice in Avraham's relationship with God."
+          },
+          "highlight": [
+            "binkha",
+            "olah"
+          ]
+        },
+        {
+          "id": "i-reader",
+          "type": "narration",
+          "text": {
+            "en": "And by adding the king's generals to the mashal, the midrash suggests that this deeper connection to God is open not only to Avraham but to the reader, his descendant."
+          },
+          "highlight": [
+            "nisah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-j",
+      "title": {
+        "en": "“For Now I Know”"
+      },
+      "primaryText": {
+        "ref": "Genesis 22:12",
+        "he": "וַיֹּאמֶר אַל־תִּשְׁלַח יָדְךָ אֶל־הַנַּעַר וְאַל־תַּעַשׂ לוֹ מְאוּמָה כִּי עַתָּה יָדַעְתִּי כִּי־יְרֵא אֱלֹהִים אַתָּה וְלֹא חָשַׂכְתָּ אֶת־בִּנְךָ אֶת־יְחִידְךָ מִמֶּנִּי",
+        "en": "“Do not raise your hand against the boy, or do anything to him. For now I know that you fear God, since you have not withheld your son, your favored one, from Me.”",
+        "words": {
+          "al-tishlach": {
+            "he": "אַל־תִּשְׁלַח יָדְךָ אֶל־הַנַּעַר",
+            "en": "Do not raise your hand against the boy"
+          },
+          "atah-yadati": {
+            "he": "כִּי עַתָּה יָדַעְתִּי",
+            "en": "For now I know"
+          },
+          "yere": {
+            "he": "כִּי־יְרֵא אֱלֹהִים אַתָּה",
+            "en": "that you fear God"
+          },
+          "lo-chasakhta": {
+            "he": "וְלֹא חָשַׂכְתָּ אֶת־בִּנְךָ אֶת־יְחִידְךָ מִמֶּנִּי",
+            "en": "since you have not withheld your son, your favored one, from Me"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "j-intro",
+          "type": "narration",
+          "text": {
+            "en": "At the top of the mountain the angel stops Avraham's hand. Peters opens her chapter with Rashi's comment on this verse."
+          }
+        },
+        {
+          "id": "j-rashi",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Genesis 22:12:3",
+          "sourceLabel": {
+            "he": "רש״י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "כי עתה ידעתי. מֵעַתָּה יֵשׁ לִי מַה לְּהָשִׁיב לַשָּׂטָן וְלָאֻמּוֹת הַתְּמֵהִים מַה הִיא חִבָּתִי אֶצְלְךָ; יֵשׁ לִי פִּתְחוֹן פֶּה עַכְשָׁו, שֶׁרוֹאִים כִּי יְרֵא אֱלֹהִים אַתָּה:",
+            "en": "“For now I know” — From now on I have an answer to give to Satan and to the nations who wonder at the love I bear you. I have an opening of the mouth now, for they see that you are a God-fearing man."
+          },
+          "highlight": [
+            "atah-yadati",
+            "yere"
+          ],
+          "annotation": {
+            "en": "Peters quotes the middle of this comment as her epigraph: “From now on I have an answer [for those] who wonder at My love for you.” Rashi draws it from Bereshit Rabbah 56:7."
+          }
+        },
+        {
+          "id": "j-q-audience",
+          "type": "question",
+          "text": {
+            "en": "Rashi names the onlookers the nimshal left blank: Satan, and the nations who wonder. Set them beside the king's generals. Is God's “answer” for them, or for us?"
+          },
+          "highlight": [
+            "atah-yadati"
+          ],
+          "effect": "pulse",
+          "questionLabel": {
+            "en": "Consider"
+          }
+        },
+        {
+          "id": "j-close",
+          "type": "narration",
+          "text": {
+            "en": "Once we see that Avraham's tests and the king's wars are one and the same, the Akeda reads differently. It stops being a comfortable, familiar text and becomes a challenge — and we can't look at ourselves the same way again."
+          },
+          "highlight": [
+            "yere",
+            "lo-chasakhta"
+          ]
+        }
+      ]
+    }
+  ]
+}

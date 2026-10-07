@@ -13,8 +13,9 @@ const TextEffects = {
   // Text rewraps non-linearly as it shrinks, so instead of one proportional
   // pass this binary-searches the largest scale that fits, applied to every
   // side (comparison mode has two of each). Only if the passage still
-  // overflows at the floor sizes is the English caption hidden, and the
-  // Hebrew is then fit on its own.
+  // overflows at the floor sizes is one language hidden — the English caption,
+  // or the Hebrew on a sheet with "primaryLanguage": "en" — and the other is
+  // then fit on its own.
   //
   // Idempotent: clears its own inline styles before measuring so re-runs
   // (e.g. on resize, or once web fonts load) start from the CSS baseline.
@@ -65,9 +66,11 @@ const TextEffects = {
 
     if (search(sized)) return;
 
-    // Doesn't fit even at the floors: keep the Hebrew, drop the caption.
-    en.forEach(el => { el.style.display = 'none'; });
-    search(sized.filter(s => he.includes(s.el)));
+    // Doesn't fit even at the floors: keep the sheet's primary language
+    // (Hebrew unless it sets "primaryLanguage": "en") and drop the other.
+    const [keep, drop] = document.body.dataset.primaryLang === 'en' ? [en, he] : [he, en];
+    drop.forEach(el => { el.style.display = 'none'; });
+    search(sized.filter(s => keep.includes(s.el)));
   },
 
   // Wrap each word in the primary text with targetable spans

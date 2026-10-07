@@ -259,8 +259,8 @@ CARD_PROBE = """(exp) => {
   if (cc.top < -1 || cc.bottom > vh + 1)
     out.push(`verse not fully on screen (spans ${Math.round(cc.top)}–${Math.round(cc.bottom)}px of ${vh}px)`);
   if (desktop && cc.bottom > pr.bottom + 1) out.push(`verse overflows its panel by ${Math.round(cc.bottom - pr.bottom)}px`);
-  const en = content.querySelectorAll('.primary-en');
-  if ([...en].some(e => getComputedStyle(e).display === 'none')) {
+  const hidden = content.querySelectorAll('.primary-en, .primary-he');
+  if ([...hidden].some(e => getComputedStyle(e).display === 'none')) {
     // Hiding the caption is fitToPanel's last resort, for a passage that can't
     // fit even at the floor sizes (14px Hebrew / 12px English). Anything else
     // is a sizing bug.
@@ -270,7 +270,7 @@ CARD_PROBE = """(exp) => {
     const pcs = getComputedStyle(panel);
     const fitsAtFloor = content.scrollHeight <= panel.clientHeight - parseFloat(pcs.paddingTop) - parseFloat(pcs.paddingBottom);
     els.forEach((e, i) => { e.style.cssText = saved[i]; });
-    if (fitsAtFloor) out.push('English caption hidden although the verse fits at the minimum font sizes');
+    if (fitsAtFloor) out.push('a language hidden although the verse fits at the minimum font sizes');
   }
   const ref = content.querySelector('.primary-ref');
   if (ref && cr && overlaps(ref.getBoundingClientRect(), cr)) out.push('verse ref label is under the breadcrumb');
