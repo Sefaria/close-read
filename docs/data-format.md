@@ -7,9 +7,12 @@ Each Close Read experience is driven by a single JSON file in `data/`. This docu
 ```json
 {
   "title": { ... },
+  "primaryLanguage": "en",
   "sections": [ ... ]
 }
 ```
+
+`primaryLanguage` is optional: `"he"` (default) or `"en"`. When a passage can't fit the phone panel in both languages even at the minimum sizes, the engine keeps this language and hides the other. Set `"en"` for an English-first sheet (e.g. a modern English book) so phones keep the English the cards refer to.
 
 ### `title`
 

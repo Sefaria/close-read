@@ -92,6 +92,9 @@ class CloseReadApp {
   }
 
   init() {
+    // Which language the phone fallback keeps when a passage won't fit the
+    // panel in both (see TextEffects.fitToPanel). Hebrew unless the sheet says.
+    document.body.dataset.primaryLang = this.data.primaryLanguage === 'en' ? 'en' : 'he';
     this.buildTitleScreen();
     this.buildBranchTree();
     this.buildSections();
