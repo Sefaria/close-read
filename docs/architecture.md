@@ -15,6 +15,7 @@ close_read/
 │   └── close-read.css      # All styles, layout, typography, animations
 ├── js/
 │   ├── engine.js           # Main app: fetches data, builds DOM, orchestrates scroll
+│   ├── home.js             # Homepage (no ?sheet=): pitch, hero video, readings by category
 │   └── text-effects.js     # Word-level highlighting and verse crossfade
 ├── data/
 │   ├── index.json          # Sheet manifest (drives the homepage)
@@ -30,7 +31,7 @@ close_read/
 ```
 DOMContentLoaded
   ├── Parse ?sheet= query param
-  │     └── If absent: buildIndex() renders the homepage from data/index.json
+  │     └── If absent: buildHome() (js/home.js) renders the homepage from data/index.json
   ├── Register GSAP ScrollTrigger
   ├── fetch("data/{sheet}.json")
   └── document.fonts.ready
@@ -189,7 +190,7 @@ Single breakpoint at 768px. Below it:
 
 ## Data Loading
 
-The engine loads `data/{name}.json` where `{name}` comes from the `?sheet=` query parameter. With no `?sheet=` param, it renders the homepage from `data/index.json` listing the available sheets. This means:
+The engine loads `data/{name}.json` where `{name}` comes from the `?sheet=` query parameter. With no `?sheet=` param, it renders the homepage (`js/home.js`): a hero video recorded from the live Bereshit reading (`scripts/record_hero.py` → `assets/hero/`; re-run it when Bereshit or the engine changes), then every `data/index.json` entry not marked `"listed": false`, grouped by its `category`. This means:
 
 - `localhost:8080/` shows the homepage index
 - `localhost:8080/?sheet=kedoshim-5731` loads `data/kedoshim-5731.json`

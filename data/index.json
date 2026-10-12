@@ -1,68 +1,154 @@
 [
   {
-    "slug": "nasso",
-    "title": { "he": "פרשת נשא", "en": "Parshat Nasso — A Garden of Forking Paths" },
-    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
-    "description": "Twenty-eight gilyonot, four themes, thirty years of return. Choose a theme, choose her angle, walk the sheet."
-  },
-  {
     "slug": "bereshit",
-    "title": { "he": "פרשת בראשית", "en": "Parashat Bereshit" },
-    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
-    "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions."
+    "title": {
+      "he": "פרשת בראשית",
+      "en": "Parashat Bereshit"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "Nechama Leibowitz"
+    },
+    "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions.",
+    "category": "branching",
+    "shows": "The flagship. More than forty sources, and pages of the Leningrad Codex that zoom to the line under discussion. Every quote of Nechama’s cites the sheet it came from.",
+    "demoPath": "creation/cr-1963",
+    "demoLabel": "Creation → 1963"
   },
   {
-    "slug": "learning-to-read-midrash-2",
-    "title": { "en": "Learning to Read Midrash: King and Warrior" },
-    "author": { "en": "Simi Peters" },
-    "description": "How a mashal works — a six-step reading of the Tanhuma's parable on “Take, please” (Genesis 22:2)"
-  },
-  {
-    "slug": "sinai-opt-in",
-    "title": { "he": "קַבָּלַת הַתּוֹרָה — שׁוּב וָשׁוּב", "en": "The Sinai Opt-In" },
-    "author": { "he": "אלכסנדר לוקסנברג", "en": "Alexander Luxenberg" },
-    "description": "Over and over and over: from Jacob's deathbed to the morning Shema, every generation chooses the covenant again."
-  },
-  {
-    "slug": "cain-abel-birth-records",
-    "title": { "he": "קין והבל: תעודות הלידה", "en": "Cain and Abel: The Birth Records" },
-    "author": { "he": "ג׳ודי קליצנר", "en": "Judy Klitsner" },
-    "description": "Literary analysis of Genesis 4:1–2 — Ta'amei HaPardes, Pardes Institute"
-  },
-  {
-    "slug": "shemini-5731",
-    "title": { "he": "פרשת שמיני תשל״א", "en": "Parashat Shemini 5731" },
-    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
-    "description": "Through Those Close to Me I Am Sanctified — Leviticus 10:3"
+    "slug": "nasso",
+    "title": {
+      "he": "פרשת נשא",
+      "en": "Parshat Nasso — A Garden of Forking Paths"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "Nechama Leibowitz"
+    },
+    "description": "Twenty-eight gilyonot, four themes, thirty years of return. Choose a theme, choose her angle, walk the sheet.",
+    "category": "branching",
+    "shows": "The second garden, built the same way. It branches by theme rather than by passage, then by the angle she took in a given year. It shows the method carrying from one parsha to the next.",
+    "demoPath": "birkat/b-1955",
+    "demoLabel": "The Priestly Blessing → 1955"
   },
   {
     "slug": "yitro-5730",
-    "title": { "he": "פרשת יתרו תש״ל", "en": "Parashat Yitro 5730" },
-    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
-    "description": "Visiting the Iniquity of Parents upon Children — Exodus 20:5"
+    "title": {
+      "he": "פרשת יתרו תש״ל",
+      "en": "Parashat Yitro 5730"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "Nechama Leibowitz"
+    },
+    "description": "Visiting the Iniquity of Parents upon Children — Exodus 20:5",
+    "category": "single",
+    "shows": "One gilayon, read start to finish. When the sheet turns on two verses that seem to contradict each other, Exodus 20:5 and Deuteronomy 24:16, they appear side by side."
   },
   {
-    "slug": "kedoshim-5731",
-    "title": { "he": "פרשת קדושים תשל״א", "en": "Parashat Kedoshim 5731" },
-    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
-    "description": "Do Not Go Talebearing — Leviticus 19:16"
+    "slug": "sinai-opt-in",
+    "title": {
+      "he": "קַבָּלַת הַתּוֹרָה — שׁוּב וָשׁוּב",
+      "en": "The Sinai Opt-In"
+    },
+    "author": {
+      "he": "אלכסנדר לוקסנברג",
+      "en": "Alexander Luxenberg"
+    },
+    "description": "Over and over and over: from Jacob's deathbed to the morning Shema, every generation chooses the covenant again.",
+    "category": "single",
+    "shows": "A theme sheet, not a single passage. It moves from Genesis to the siddur, changing the pinned verse at every stop and lighting the words that come back each time: a gathering, a covenant scroll read aloud, an age of 110."
   },
   {
-    "slug": "minhag-overview",
-    "title": { "he": "מנהג: סקירה כללית", "en": "Minhag: Overview" },
-    "author": { "he": "צבי הירשפלד", "en": "Zvi Hirschfield" },
-    "description": "The authority of custom in Jewish law — Talmud Pesachim"
+    "slug": "learning-to-read-midrash-2",
+    "title": {
+      "en": "Learning to Read Midrash: King and Warrior"
+    },
+    "author": {
+      "en": "Simi Peters"
+    },
+    "description": "How a mashal works — a six-step reading of the Tanhuma's parable on “Take, please” (Genesis 22:2)",
+    "category": "range",
+    "shows": "English-first. A chapter of a published book by a contemporary teacher, walking through the author’s six-step method for reading a mashal."
   },
   {
     "slug": "pirkei-avot-1-11",
-    "title": { "en": "Avtalyon: The Evil Waters" },
-    "author": { "en": "Avtalyon (and his readers)" },
-    "description": "A guided close reading of Pirkei Avot 1:11 — oldest layers to modern voices"
+    "title": {
+      "en": "Avtalyon: The Evil Waters"
+    },
+    "author": {
+      "en": "Avtalyon (and his readers)"
+    },
+    "description": "A guided close reading of Pirkei Avot 1:11 — oldest layers to modern voices",
+    "category": "range",
+    "shows": "Built from a single Mishnah instead of an existing sheet. Four readings of “evil waters,” from the oldest to the newest."
+  },
+  {
+    "slug": "minhag-overview",
+    "title": {
+      "he": "מנהג: סקירה כללית",
+      "en": "Minhag: Overview"
+    },
+    "author": {
+      "he": "צבי הירשפלד",
+      "en": "Zvi Hirschfield"
+    },
+    "description": "The authority of custom in Jewish law — Talmud Pesachim",
+    "category": "range",
+    "shows": "Talmud, not Torah. The Bavli and the Yerushalmi read against each other, from a Pardes Institute sheet."
+  },
+  {
+    "slug": "kedoshim-5731",
+    "title": {
+      "he": "פרשת קדושים תשל״א",
+      "en": "Parashat Kedoshim 5731"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "Nechama Leibowitz"
+    },
+    "description": "Do Not Go Talebearing — Leviticus 19:16",
+    "listed": false,
+    "retired": "Early single-gilayon prototype; Yitro covers the format and Bereshit supersedes the method."
+  },
+  {
+    "slug": "shemini-5731",
+    "title": {
+      "he": "פרשת שמיני תשל״א",
+      "en": "Parashat Shemini 5731"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "Nechama Leibowitz"
+    },
+    "description": "Through Those Close to Me I Am Sanctified — Leviticus 10:3",
+    "listed": false,
+    "retired": "Early single-gilayon prototype; Yitro covers the format and Bereshit supersedes the method."
+  },
+  {
+    "slug": "cain-abel-birth-records",
+    "title": {
+      "he": "קין והבל: תעודות הלידה",
+      "en": "Cain and Abel: The Birth Records"
+    },
+    "author": {
+      "he": "ג׳ודי קליצנר",
+      "en": "Judy Klitsner"
+    },
+    "description": "Literary analysis of Genesis 4:1–2 — Ta'amei HaPardes, Pardes Institute",
+    "listed": false,
+    "retired": "Narration-only essay; Bereshit’s Cain and Abel leaves cover the passage, and Minhag carries the Pardes material."
   },
   {
     "slug": "examples/nasso-skeleton",
-    "title": { "en": "Parshat Nasso (engine prototype skeleton)" },
-    "author": { "en": "Close Read engine prototype" },
-    "description": "The original branching skeleton that shipped the Garden of Forking Paths engine feature. Kept as reference."
+    "title": {
+      "en": "Parshat Nasso (engine prototype skeleton)"
+    },
+    "author": {
+      "en": "Close Read engine prototype"
+    },
+    "description": "The original branching skeleton that shipped the Garden of Forking Paths engine feature. Kept as reference.",
+    "listed": false,
+    "retired": "Engine prototype, kept as reference."
   }
 ]

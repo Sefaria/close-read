@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const sheetName = params.get('sheet');
 
   if (!sheetName) {
-    // No sheet specified — show the index
-    document.fonts.ready.then(() => buildIndex());
+    // No sheet specified: show the homepage (js/home.js)
+    buildHome();
     return;
   }
 
@@ -36,50 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>`;
     });
 });
-
-function buildIndex() {
-  document.title = 'Close Read';
-
-  const header = document.querySelector('.title-screen');
-  header.innerHTML = `
-    <div class="title-he">קריאה מקרוב</div>
-    <div class="title-en">Close Read</div>
-    <div class="subtitle-en">Interactive Torah study in the scrollytelling format</div>
-  `;
-
-  fetch('data/index.json')
-    .then(res => {
-      if (!res.ok) throw new Error('Could not load sheet index');
-      return res.json();
-    })
-    .then(sheets => {
-      const main = document.getElementById('main-content');
-      const list = document.createElement('div');
-      list.className = 'index-list';
-
-      sheets.forEach(sheet => {
-        const card = document.createElement('a');
-        card.className = 'index-card';
-        card.href = `?sheet=${sheet.slug}`;
-        card.innerHTML = `
-          ${sheet.title.he ? `<div class="index-card-title-he">${sheet.title.he}</div>` : ''}
-          <div class="index-card-title-en">${sheet.title.en}</div>
-          <div class="index-card-author">${sheet.author.he ? `${sheet.author.he} / ` : ''}${sheet.author.en}</div>
-          ${sheet.description ? `<div class="index-card-desc">${sheet.description}</div>` : ''}
-        `;
-        list.appendChild(card);
-      });
-
-      main.appendChild(list);
-    })
-    .catch(err => {
-      document.getElementById('main-content').innerHTML =
-        `<div style="padding:4rem;text-align:center;color:#8b5e3c;">
-          <p>Could not load sheet index.</p>
-          <p style="font-size:0.85rem;color:#8a8279;">${err.message}</p>
-        </div>`;
-    });
-}
 
 class CloseReadApp {
   static imageCount = 0;

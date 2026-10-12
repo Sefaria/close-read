@@ -226,7 +226,7 @@ For sheets structured as continuous literary analysis rather than commentator-by
 ## Testing
 
 1. Save your file as `data/{name}.json`
-2. Add an entry to `data/index.json` with the slug, title, author, and description
+2. Add an entry to `data/index.json` with the slug, title, author, and description, plus the homepage fields: `category` (`branching`, `single` or `range`, the groups defined in `js/home.js`), `shows` (one or two sentences on what this reading demonstrates that the others don't), and optionally `demoPath`/`demoLabel` (a branch path to deep-link, e.g. `creation/cr-1963`). A sheet that no longer earns a place on the homepage gets `"listed": false` and a `retired` reason. It stays loadable by URL and stays under test.
 3. Open `index.html?sheet={name}` in a browser (needs a local server)
 4. Scroll through slowly, checking:
    - [ ] All verse text renders correctly (especially Hebrew with nikkud)
