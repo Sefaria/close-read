@@ -4,7 +4,7 @@
 // Readings come from data/index.json; entries with "listed": false are retired
 // from this page but still load by URL (and are still tested).
 
-// Tile order and tag for each index.json `category`.
+// Tile order and default tag for each index.json `category` (an entry's own `tag` overrides it).
 const HOME_CATEGORIES = [
   { id: 'branching', tag: 'Branching paths' },
   { id: 'single', tag: 'One sheet' },
@@ -28,8 +28,8 @@ const HOME_LEARNER_POINTS = [
 
 const HOME_TEACHER_POINTS = [
   {
-    title: 'Built in hours',
-    body: 'Readings like these used to need a designer and a developer for every highlight, transition and branch. Now AI builds them from the teacher’s material. A whole parsha of Nechama’s lessons takes about six hours.',
+    title: 'Minutes',
+    body: 'Readings like these used to need a designer and a developer for every highlight, transition and branch. Now AI builds them from the teacher’s material. A Nechama reading, dense with layered sources, takes about half an hour. Most teachers’ material is quicker.',
   },
   {
     title: 'The teacher’s Torah, kept intact',
@@ -151,7 +151,7 @@ function buildReadingCard(sheet) {
   const href = `?sheet=${sheet.slug}`;
   card.innerHTML = `
     <a class="index-card" href="${href}">
-      ${cat ? `<span class="home-card-tag">${cat.tag}</span>` : ''}
+      ${sheet.tag || cat ? `<span class="home-card-tag">${sheet.tag || cat.tag}</span>` : ''}
       <span class="home-card-title-en">${sheet.title.en}</span>
       <span class="home-card-author">${sheet.author.en}</span>
       ${sheet.shows ? `<span class="home-card-shows">${sheet.shows}</span>` : ''}
