@@ -101,7 +101,7 @@ def build():
         'primaryText': primary('Genesis 6:9', ['6:9'], {
             'tzadik': ('נח איש צדיק', 'Noah was a righteous man')}),
         'steps': [
-            narration('ov-1', 'Genesis 6:9 to 11:32: from Noah to the tower of Babel.'),
+            narration('ov-1', 'Genesis 6:9 to 11:32: from Noah to Abram.'),
             narration('ov-2', 'Five passages, each read through the sources and questions Nechama Leibowitz '
                       'set for it.', highlight=['tzadik']),
             narration('ov-3', 'She wrote on this parsha every year from 1942 to 1971. Each path below follows '

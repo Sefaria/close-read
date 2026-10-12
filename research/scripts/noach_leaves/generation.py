@@ -79,8 +79,7 @@ def comparison_6_7():
     Each row is the fragment she quoted (with a little more of the verse where
     her fragment would not make sense alone), joined with " … " as her ellipses join them."""
     rhe, ren = side([
-        frag('6:13', 'ויאמר אלהים לנח קץ כל בשר בא לפני',
-             'God said to Noah, “I have decided to put an end to all flesh'),
+        frag('6:13', 'ויאמר אלהים לנח', 'God said to Noah'),
         frag('6:19', 'ומכל החי מכל בשר שנים מכל תביא אל התבה',
              'And of all that lives, of all flesh, you shall take two of each into the ark'),
         frag('6:20', 'מהעוף למינהו ומן הבהמה למינה מכל רמש האדמה למינהו',
@@ -88,8 +87,7 @@ def comparison_6_7():
         frag('6:22', 'ויעש נח ככל אשר צוה אתו אלהים כן עשה', 'Noah did so; just as God commanded him, so he did.'),
     ])
     lhe, len_ = side([
-        frag('7:1', 'ויאמר יהוה לנח בא אתה וכל ביתך אל התבה',
-             'Then the Lord said to Noah, “Go into the ark, with all your household,'),
+        frag('7:1', 'ויאמר יהוה לנח', 'the Lord said to Noah'),
         frag('7:2', 'מכל הבהמה הטהורה תקח לך שבעה שבעה', 'Of every pure animal you shall take seven pairs'),
         frag('7:3', 'גם מעוף השמים שבעה שבעה', 'of the birds of the sky also, seven pairs'),
         frag('7:5', 'ויעש נח ככל אשר צוהו יהוה', 'And Noah did just as the Lord commanded him.'),
@@ -103,7 +101,6 @@ def comparison_6_7():
     })
     left = words(lhe, len_, {
         'l-hashem': ('ויאמר יהוה לנח', 'the Lord said to Noah'),
-        'l-bo': ('בא אתה וכל ביתך אל התבה', 'Go into the ark, with all your household'),
         'l-tahor': ('מכל הבהמה הטהורה', 'Of every pure animal'),
         'l-tikach': ('תקח לך שבעה שבעה', 'you shall take seven pairs'),
         'l-of': ('גם מעוף השמים שבעה שבעה', 'of the birds of the sky also, seven pairs'),
