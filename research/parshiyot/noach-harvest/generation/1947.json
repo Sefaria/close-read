@@ -159,7 +159,11 @@
        "class": "substantive"
       }
      ],
-     "basis": "digitization"
+     "basis": "digitization",
+     "triage": {
+      "use": "editorial",
+      "why": "her pointer («עיין גם ראב\"ע ל\"ז א ד\"ה וישב החל מן \"והטעם אלה תולדות\"») heads the Ibn Ezra item; quote the Ibn Ezra from «והטעם אלה תולדות»"
+     }
     },
     {
      "i": 15,

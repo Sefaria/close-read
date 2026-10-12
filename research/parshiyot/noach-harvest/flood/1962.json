@@ -353,7 +353,11 @@
        "class": "substantive"
       }
      ],
-     "basis": "digitization"
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "spelling and punctuation only"
+     }
     },
     {
      "i": 20,
@@ -422,7 +426,7 @@
      "i": 28,
      "kind": "source",
      "ref": "Bereshit Rabbah 34:6",
-     "he": "(פ' ט\"ז) \"צא מן התיבה\", כתיב (קהלת ג') \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קבל עליו לצאת אמר: \"אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם. שנ' (ישעיה נ\"ד) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח.\"",
+     "he": "(פסוק ט\"ז) \"צא מן התיבה\", כתיב (קהלת ג') \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קיבל עליו לצאת, אמר: אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם, שנאמר (ישעיה נ\"ד) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח\".",
      "en": "Another opinion: 'To everything there is a season, and a time to every purpose (Eccl. 3:1): there was a time for Noah to enter the ark, as it is written: 'come you and all your house into the ark (Gen. 7:1), and a time for him to leave it: Go forth from the Ark. This may be compared to an administrator/parnas who departed for a certain spot, putting someone in his place. When he returned, he said to the other, ‘Leave your position.’ This may be compared to a scribe/sofer who departed for a certain spot, putting someone in his place. When he returned, he said to the other, ‘Leave your position.’ So too Noach: 'go forth from the ark'. But he [Noach] did not accept the order to go out, saying, ‘Am I to go out and be fruitful and multiply for a curse?’ Until the Holy One, blessed be He, swore to him that He would not bring another flood upon the world, as it says, 'For this is the waters of Noach to Me; for as I have sworn that the waters of Noach should no more go over the earth (Isa. 54:9)'",
      "scan_status": "DIFF",
      "digitized_he": "(פסוק ט\"ז) \"צא מן התיבה\", כתיב (קהלת ג') \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קיבל עליו לצאת, אמר: אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם, שנאמר (ישעיה נ\"ד) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח\".",
@@ -434,7 +438,12 @@
        "class": "spelling"
       }
      ],
-     "basis": "digitization"
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "spelling and abbreviation only"
+     },
+     "scan_reading": "(פ' ט\"ז) \"צא מן התיבה\", כתיב (קהלת ג') \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קבל עליו לצאת אמר: \"אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם. שנ' (ישעיה נ\"ד) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח.\""
     },
     {
      "i": 29,
@@ -533,7 +542,11 @@
        "class": "spelling"
       }
      ],
-     "basis": "digitization"
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "spelling and punctuation only"
+     }
     },
     {
      "i": 34,

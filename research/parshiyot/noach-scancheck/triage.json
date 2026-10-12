@@ -564,6 +564,54 @@
    "i": "before 24",
    "use": "scan",
    "why": "Rashi as she printed it, read by the checker"
+  },
+  {
+   "sheet": 161942,
+   "i": 27,
+   "use": "editorial",
+   "why": "her §ב Q2 («למה אין רש\"י מביא את דברי המדרש כאן, כשם שהביאם…») is typed inside this Rashi item; the digitizers added «לפרק…פסוק»; the scan ends «י\"ג י\"א ד\"ה ויסע לוט מקדם?». Cut the question out of the item; the Rashi after it is the source"
+  },
+  {
+   "sheet": 161472,
+   "i": 32,
+   "use": "editorial",
+   "why": "her pointer «העזר בתשובתך בדברי רש\"י כאן ד\"ה וישלח» is inside the Rashi item; citation detail only"
+  },
+  {
+   "sheet": 161777,
+   "i": 14,
+   "use": "editorial",
+   "why": "her pointer («עיין גם ראב\"ע ל\"ז א ד\"ה וישב החל מן \"והטעם אלה תולדות\"») heads the Ibn Ezra item; quote the Ibn Ezra from «והטעם אלה תולדות»"
+  },
+  {
+   "sheet": 161472,
+   "i": 14,
+   "use": "digitized",
+   "why": "Bereshit Rabbah 33:6 (Sefaria) reads «ישבה»; her «יצאה» is a slip in quoting. «אילו/אלו מצאה»: same words"
+  },
+  {
+   "sheet": 160700,
+   "i": 19,
+   "use": "digitized",
+   "why": "spelling and punctuation only"
+  },
+  {
+   "sheet": 160700,
+   "i": 28,
+   "use": "digitized",
+   "why": "spelling and abbreviation only"
+  },
+  {
+   "sheet": 160700,
+   "i": 33,
+   "use": "digitized",
+   "why": "spelling and punctuation only"
+  },
+  {
+   "sheet": 161686,
+   "i": 17,
+   "use": "digitized",
+   "why": "Gur Aryeh (Sefaria) reads «ממריד בהקב\"ה», as digitized"
   }
  ]
 }

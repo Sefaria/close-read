@@ -323,7 +323,11 @@
        "class": "substantive"
       }
      ],
-     "basis": "digitization"
+     "basis": "digitization",
+     "triage": {
+      "use": "editorial",
+      "why": "her §ב Q2 («למה אין רש\"י מביא את דברי המדרש כאן, כשם שהביאם…») is typed inside this Rashi item; the digitizers added «לפרק…פסוק»; the scan ends «י\"ג י\"א ד\"ה ויסע לוט מקדם?». Cut the question out of the item; the Rashi after it is the source"
+     }
     },
     {
      "i": 28,

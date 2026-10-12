@@ -194,7 +194,7 @@
      "i": 14,
      "kind": "source",
      "ref": "Bereshit Rabbah 33:6",
-     "he": "ר' יהודה בר' נחמן בשם ר\"ש אומר: אילו מצאה מנוח לא היתה חוזרת. וכדכוותיה (=וכיוצא בו): (איכה א') \"היא ישבה בגויים לא מצאה מנוח\" – אילו מצאה מנוח, לא היו חוזרים. וכדכוותיה: (דברים כ\"ח) \"ובגויים האלה לא תרגיע ולא יהיה מנוח לכף רגלך\" - הא אילו מצאו מנוח לא היו חוזרים.",
+     "he": "ר' יהודה בר' נחמן בשם ר\"ש אומר: אילו מצאה מנוח לא היתה חוזרת. וכדכוותיה ( = וכיוצא בו): (איכה א') \"היא ישבה בגויים לא מצאה מנוח\" – אילו מצאה מנוח, לא היו חוזרים. וכדכוותיה: (דברים כ\"ח) \"ובגויים האלה לא תרגיע ולא יהיה מנוח לכף רגלך\" - הא אילו מצאו מנוח לא היו חוזרים.",
      "en": "And again [Noach] sent forth the dove out of the ark . . . And the dove came in at evening, and here, an olive leaf torn off in her mouth” [Gn 8:11]. “An olive leaf torn off in her mouth”—From where did she bring it? R’ Bibi said: The gates of Gan Eden were opened for her, and from there she brought it. Said R’ Abahu: Had she brought it from Gan Eden, couldn’t she bring something special, cinnamon or balsam? But she gave [Noach] a hint, and said to Noach: Better is bitterness from this and not sweetness from beneath your hand.",
      "scan_status": "DIFF",
      "scan_pending": [
@@ -217,7 +217,12 @@
        "class": "spelling"
       }
      ],
-     "basis": "scan"
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "Bereshit Rabbah 33:6 (Sefaria) reads «ישבה»; her «יצאה» is a slip in quoting. «אילו/אלו מצאה»: same words"
+     },
+     "scan_reading": "ר' יהודה בר' נחמן בשם ר\"ש אומר: אילו מצאה מנוח לא היתה חוזרת. וכדכוותיה (=וכיוצא בו): (איכה א') \"היא ישבה בגויים לא מצאה מנוח\" – אילו מצאה מנוח, לא היו חוזרים. וכדכוותיה: (דברים כ\"ח) \"ובגויים האלה לא תרגיע ולא יהיה מנוח לכף רגלך\" - הא אילו מצאו מנוח לא היו חוזרים."
     },
     {
      "i": 15,
@@ -473,7 +478,11 @@
        "class": "substantive"
       }
      ],
-     "basis": "digitization"
+     "basis": "digitization",
+     "triage": {
+      "use": "editorial",
+      "why": "her pointer «העזר בתשובתך בדברי רש\"י כאן ד\"ה וישלח» is inside the Rashi item; citation detail only"
+     }
     },
     {
      "i": 33,

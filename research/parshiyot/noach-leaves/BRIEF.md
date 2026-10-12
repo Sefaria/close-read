@@ -111,3 +111,35 @@ def leaf_1953(prefix='gd-1953'):
 - **Comparison panels** (two passages side by side, `mode: comparison`) fit her "השווה" tables
   (e.g. God's blessing to Adam, 1:28, beside the blessing to Noah, 9:1–2). Keep each side to a few
   short lines; see `comparison_4_3()` in `bereshit_leaves/cain.py`.
+
+## After the scan checks (2026-10-12): what every drafter must know
+
+- **Mechanics.** Module `research/scripts/noach_leaves/<theme>.py` (themes: generation, flood,
+  covenant, blood, babel), one `leaf_<year>(prefix=...)` per gilayon, prefixes `gn-`, `fl-`,
+  `cv-`, `bl-`, `bb-` (e.g. `fl-1952`). `harvest('<theme>', '<year>')`. Check with
+  `python3 research/scripts/check_leaves.py noach <theme> <year>`; 0 failing checks.
+- **Scan-only items have string keys:** `'after 50'` (1945 §ה Q2), `'after 17'` (1951 §ב Q3),
+  `'after 32'`, `'after 35'` (1944 §ב Q5, Q7), `'after 30'` (1960's last question),
+  `'before 19'`, `'before 24'` (1958: the two Rashi passages she printed). Use them like any index:
+  `question(id, h, 'after 50', ...)`.
+- **Triage is done.** `triage.json` says, per item, whether the scan or the digitization stands.
+  Source texts with known slips were fixed by `overrides.json` `replace`. If you find another
+  slip inside a source you want to quote, don't type a fix: slice around it, or report it.
+- **Pointers inside source items.** 1944 [27] and 1952 [32] carry her question/pointer typed in
+  front of a Rashi; 1947 [14] carries her «החל מן "והטעם אלה תולדות"» start point. Cut the
+  question out with `cut()` for a `question()` card; quote the source from its own start.
+- **Underlining.** Questions that ask about «המסומן בקו» need the underline:
+  `underline(cut(...), span)` with the span recorded in the scan-check file (1957 Ibn Ezra,
+  Radak; 1960 Abarbanel §ד; 1968 Rekhasim §ג, Ibn Kaspi §ד; 1953-style). If the span isn't
+  recorded, omit that question.
+- **Her order.** 1962 §ד prints its midrash blocks 2), 3), 1); render the scan's order.
+  1960's digitized §ג is her §ד (her sheet has no ג). 1970: her §ה (Rashi, Bekhor Shor and three
+  questions on 9:5, items [21]–[28]) sits inside the digitized §ד; her §ו is digitized as ה.
+  Section boundaries for titles and panels come from the scan-check file.
+- **Duplicates in the digitization:** 1946 Abarbanel lead-in [23]/[24] and the Akeda label in
+  [28] are printed twice; slice so each appears once.
+- **Nataf (1970):** `question(..., en=None, en_basis='nataf')` for her own items only, whole item.
+- **Her השווה tables** (1947 §א, 1957 §א, 1970 §א, 1948 §ב): a comparison panel, copying
+  `comparison_4_3()` from `bereshit_leaves/cain.py`, with each side a few short lines.
+- **Report:** at the end, give one BLURB line per leaf (the passage or question it explores, in
+  the voice of `BLURBS` in `build_bereshit.py`).

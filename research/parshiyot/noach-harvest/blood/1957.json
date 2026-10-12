@@ -325,7 +325,7 @@
      "i": 21,
      "kind": "source",
      "ref": "Ibn Ezra on Genesis 9:5:1",
-     "he": "ד\"ה ואך את דמכם: פרושו: התרתי לכם לשפוך דם כל חי, זולתי דמכם של נפשותיכם, שאתם אדם, לא התרתי, רק אדרשנו, כטעם (תהלים ט' ע') \"כי דורש דמים אותם זכר\", וזה הכלל. \nואחרי כן באר \"מיד האדם\", אם יהרגו רבים את יחיד, או יחיד את יחיד, אני אדרוש הדם, גם אדרשנו מיד כל חיה, שאצוה לאחרת שתהרגנה; והנה החיות מותרות לכם ולא אתם להן. \nוהמפרש \"דמכם לנפשותיכם\" – זה ההורג נפשו, הוא רחוק בעיני – והוסיף לבאר, או היא מצוה לבני נח, והוא הישר להרג ההורג, וטעם \"באדם\" – בעדים, או לעיני הכל, או בעבור האדם שנשפך דמו, וכמוהו רבים.",
+     "he": "ד\"ה ואך את דמכם: פרושו: התרתי לכם לשפוך דם כל חי, זולתי דמכם של נפשותיכם, שאתם אדם, לא התרתי, רק אדרשנו, כטעם (תהלים ט' ע') \"כי דורש דמים אותם זכר\", וזה כלל. \nואחרי כן באר \"מיד האדם\", אם יהרגו רבים את יחיד, או יחיד את יחיד, אני אדרוש הדם, גם אדרשנו מיד כל חיה, שאצוה לאחרת שתהרגנה; והנה החיות מותרות לכם ולא אתם להן. \nוהמפרש \"דמכם לנפשותיכם\" – זה ההורג נפשו, הוא רחוק בעיני – והוסיף לבאר, או היא מצוה לבני נח, והוא הישר להרג ההורג, וטעם \"באדם\" – בעדים, או לעיני הכל, או בעבור האדם שנשפך דמו, וכמוהו רבים.",
      "en": "",
      "scan_status": "DIFF",
      "scan_pending": [
@@ -351,6 +351,13 @@
        "digitized": "להרוג ההורג",
        "scan": "להרג ההורג",
        "class": "spelling"
+      },
+      {
+       "digitized": "וזה הכלל",
+       "scan": "וזה כלל",
+       "class": "triaged",
+       "cite": "noach-scancheck/161105-1957.md [21]",
+       "why": "the scan and Ibn Ezra (Sefaria) read «וזה כלל»"
       }
      ],
      "basis": "scan"
@@ -433,7 +440,7 @@
      "i": 27,
      "kind": "source",
      "ref": "Rashi on Genesis 9:5:1",
-     "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבמה, את דמכם אדרוש מהשופך דם עצמו.",
+     "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבהמה, את דמכם אדרוש מהשופך דם עצמו.",
      "en": "ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).",
      "scan_status": "DIFF",
      "scan_pending": [
@@ -448,7 +455,17 @@
        "class": "substantive"
       }
      ],
-     "basis": "digitization"
+     "basis": "scan",
+     "digitized_he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבמה, את דמכם אדרוש מהשופך דם עצמו.",
+     "scan_fixes": [
+      {
+       "digitized": "נשמה בבמה",
+       "scan": "נשמה בבהמה",
+       "class": "triaged",
+       "cite": "noach-scancheck/161105-1957.md [27]",
+       "why": "digitizer typo; the scan and Rashi (Sefaria, Rosenbaum–Silbermann) read «בבהמה»"
+      }
+     ]
     },
     {
      "i": 28,
@@ -608,7 +625,7 @@
      "i": 40,
      "kind": "source",
      "ref": "Radak on Genesis 9:6:2",
-     "he": "ד\"ה כי בצלם אלוקים: כי הוא נכבד מכל הנבראים השפלים, עד שהאל בראו בצלמו, בשכל שנתן בו, לפיכך יש לשאר הנבראים שייראו ממנו, וגם איש את אחיו שלא ישחית גופו וצלמו, כי אם יהרגהו -הנה השחית מעשה האל הנכבד שבכל השפלים, והוא עשה אותו בצלמו והוא השחיתו. \nואף בפחותים מן האדם לא היה רשות לאדם להשחיתם, עד שצוה האל לנח, וגם בצומח שהוא פחות מן החי היה צריך מצות האל להתירם לאדם ולחוה, כמו שאמר (פרק א') \"הנה נתתי לכם את כל עשב\". וכן ציוה האל לשפוך דם האדם לחטאו, כמו שצוה בתורת משה, וזה בראויים לעונש מיתה לפי חטאם, כי חוטא כראוי לו, לפי שהוא השחית צלמו תחילה בעברו מצות האל.",
+     "he": "ד\"ה כי בצלם אלוקים: כי הוא נכבד מכל הנבראים השפלים, עד שהאל בראו בצלמו, בשכל שנתן בו, לפיכך יש לשאר הנבראים שייראו ממנו, וגם איש את אחיו שלא ישחית גופו וצלמו, כי אם יהרגהו -הנה השחית מעשה האל הנכבד שבכל השפלים, והוא עשה אותו בצלמו והוא השחיתו. \nואף בפחותים מן האדם לא היה רשות לאדם להשחיתם, עד שצוה האל לנח, וגם בצומח שהוא פחות מן החי היה צריך מצות האל להתירם לאדם ולחוה, כמו שאמר (פרק א') \"הנה נתתי לכם את כל עשב\". וכן ציוה האל לשפוך דם האדם לחטאו, כמו שצוה בתורת משה, וזה בראויים לעונש מיתה לפי חטאם, כל חוטא כראוי לו, לפי שהוא השחית צלמו תחילה בעברו מצות האל.",
      "en": "כי בצלם אלוקים עשה את האדם, for he has been set apart from all other creatures in the universe, so much so that G’d personally made עשה, him in His image by endowing him with an intelligent brain. This is why humans are also held responsible for killing fellow humans, as they, no less than the animals, destroy a creature that had been made in G’d’s own image. If man had been forbidden to kill inferior creatures for food until given special permission to do so now after the deluge, how much more sacrosanct is the life of a human being who was created in G’d’s image. Remember that it required a special permission by G’d for man and beast to use even the plants as food for themselves, although the plants are inferior even to the animals. Keeping all this in mind, it is clear that in order for any creature being allowed to destroy a human being a special directive from G’d ordering this was required. This is why Moses in the chapters dealing with the retribution for the Jewish people, both in Bechukotai, and in Ki Tavo¸describes that G’d will issue such instructions to the beasts, just as He had done during the plagues (#4) in Egypt when the wild beasts invaded human habitations and wreaked havoc. When man, due to his own deeds, forfeits his claim to wearing the image of G’d on his face, the beasts no longer seeing such an image, feel free to attack such humans. An unborn fetus does not possess this divine image, i.e. it has no discernible intelligence. Intelligence is that which makes a slave obey his master, seeing that he would suffer if he did not; therefore when a human being disobeys his master (G’d), he displays lack of intelligence, i.e. can no longer demand to be treated like human being. [I have paraphrased the last few lines. Ed.]",
      "scan_status": "DIFF",
      "scan_pending": [
@@ -629,6 +646,13 @@
        "digitized": "כמו שציוה",
        "scan": "כמו שצוה",
        "class": "spelling"
+      },
+      {
+       "digitized": "כי חוטא כראוי לו",
+       "scan": "כל חוטא כראוי לו",
+       "class": "triaged",
+       "cite": "noach-scancheck/161105-1957.md [40]",
+       "why": "the scan and Radak (Sefaria) read «כל חוטא»"
       }
      ],
      "scan_unapplied": [

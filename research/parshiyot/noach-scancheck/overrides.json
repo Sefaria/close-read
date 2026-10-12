@@ -68,6 +68,54 @@
    "to": "מה הם המקומות ברש\"י לפרקים ו' - ז' שבהם הולך רש\"י בעקבות הדעה הזו, (שלא היה צדיק אלא עד דרגה בינונית).",
    "cite": "161147-1958.md [22]; read by Claude at 300 dpi, 2026-10-12",
    "why": "the digitization rewords her question; «שבהם» and «עד» are smudged, «עד» corroborated by the digitized «עד הגיע»"
+  },
+  {
+   "sheet": 161105,
+   "i": 27,
+   "from": "נשמה בבמה",
+   "to": "נשמה בבהמה",
+   "cite": "161105-1957.md [27]",
+   "why": "digitizer typo; the scan and Rashi (Sefaria, Rosenbaum–Silbermann) read «בבהמה»"
+  },
+  {
+   "sheet": 161105,
+   "i": 21,
+   "from": "וזה הכלל",
+   "to": "וזה כלל",
+   "cite": "161105-1957.md [21]",
+   "why": "the scan and Ibn Ezra (Sefaria) read «וזה כלל»"
+  },
+  {
+   "sheet": 161105,
+   "i": 40,
+   "from": "כי חוטא כראוי לו",
+   "to": "כל חוטא כראוי לו",
+   "cite": "161105-1957.md [40]",
+   "why": "the scan and Radak (Sefaria) read «כל חוטא»"
+  },
+  {
+   "sheet": 160639,
+   "i": 5,
+   "from": "נמצא בהם זרות",
+   "to": "נמצא מהם בזרות",
+   "cite": "160639-1964.md [5]",
+   "why": "the scan and Ramban (Sefaria) read «נמצא מהם בזרות»; her Q9 quotes it so"
+  },
+  {
+   "sheet": 161496,
+   "i": 13,
+   "from": "על היותר חיה",
+   "to": "על היותה חיה",
+   "cite": "161496-1948.md (Wessely)",
+   "why": "the scan reads «היותה» (the soul, fem.); «היותר» is a digitizer slip"
+  },
+  {
+   "sheet": 160443,
+   "i": 10,
+   "from": "השפה הגרמנית, הצרפתית, וכו'.",
+   "to": "השפה הגרמנית, הצרפתית, וכו'. ואילו \"לשון\" היא הדיאלקט, דרך הלשון, הגוון המיוחד של השפה...",
+   "cite": "160443-1968.md [10]",
+   "why": "a sentence of Hirsch she printed, dropped by the digitization"
   }
  ]
 }

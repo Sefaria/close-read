@@ -188,7 +188,11 @@
        "class": "substantive"
       }
      ],
-     "basis": "digitization"
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "Gur Aryeh (Sefaria) reads «ממריד בהקב\"ה», as digitized"
+     }
     },
     {
      "i": 18,
