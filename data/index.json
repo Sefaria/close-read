@@ -11,7 +11,7 @@
     },
     "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions.",
     "category": "branching",
-    "shows": "The flagship. More than forty sources, and pages of the Leningrad Codex that zoom to the line under discussion. Every quote of Nechama’s cites the sheet it came from.",
+    "shows": "Fifteen of Nechama’s lessons across five passages and thirty years, with manuscript pages that zoom to the line.",
     "demoPath": "creation/cr-1963",
     "demoLabel": "Creation → 1963"
   },
@@ -27,9 +27,9 @@
     },
     "description": "Twenty-eight gilyonot, four themes, thirty years of return. Choose a theme, choose her angle, walk the sheet.",
     "category": "branching",
-    "shows": "The second garden, built the same way. It branches by theme rather than by passage, then by the angle she took in a given year. It shows the method carrying from one parsha to the next.",
+    "shows": "The same method on a second parsha, branching by theme and then by year.",
     "demoPath": "birkat/b-1955",
-    "demoLabel": "The Priestly Blessing → 1955"
+    "demoLabel": "Priestly Blessing → 1955"
   },
   {
     "slug": "yitro-5730",
@@ -43,7 +43,7 @@
     },
     "description": "Visiting the Iniquity of Parents upon Children — Exodus 20:5",
     "category": "single",
-    "shows": "One gilayon, read start to finish. When the sheet turns on two verses that seem to contradict each other, Exodus 20:5 and Deuteronomy 24:16, they appear side by side."
+    "shows": "A single gilayon read start to finish, with two verses that seem to contradict each other side by side."
   },
   {
     "slug": "learning-to-read-midrash-2",
@@ -55,7 +55,7 @@
     },
     "description": "How a mashal works — a six-step reading of the Tanhuma's parable on “Take, please” (Genesis 22:2)",
     "category": "range",
-    "shows": "English-first. A chapter of a published book by a contemporary teacher, walking through the author’s six-step method for reading a mashal."
+    "shows": "An English-first book chapter that teaches a six-step method for reading a mashal."
   },
   {
     "slug": "pirkei-avot-1-11",
@@ -67,7 +67,7 @@
     },
     "description": "A guided close reading of Pirkei Avot 1:11 — oldest layers to modern voices",
     "category": "range",
-    "shows": "Built from a single Mishnah instead of an existing sheet. Four readings of “evil waters,” from the oldest to the newest."
+    "shows": "Built from one Mishnah rather than a sheet, with readings from the oldest to the newest."
   },
   {
     "slug": "minhag-overview",
@@ -81,7 +81,7 @@
     },
     "description": "The authority of custom in Jewish law — Talmud Pesachim",
     "category": "range",
-    "shows": "Talmud, not Torah. The Bavli and the Yerushalmi read against each other, from a Pardes Institute sheet."
+    "shows": "Talmud: the Bavli and the Yerushalmi read against each other."
   },
   {
     "slug": "kedoshim-5731",
