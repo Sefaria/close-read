@@ -115,7 +115,8 @@ facsimile before showing anything. Breaks in the parsha: ס after 6:12, 6:22, 8:
 Folios (Sefaria manuscripts API, `leningrad-codex-(1008-ce)`): 4v = Gen 6:19–7:23
 (`BIB_LENCDX_F004B.jpg`, 3590×4115), 5r = 7:23–9:2 (`F005A`, 3866×4231). On 4v, by eye: the
 6:22 break is in column 1; 7:1 onward then runs through all three columns without a gap.
-**To confirm and measure in Stage 3.**
+The 6:12 break is on folio 4r, so no single page shows both of the first two breaks.
+**To confirm and measure in Stage 3, if used.**
 
 Talmud: Sanhedrin 108a (1958 §ז's source) exists as Munich 95 (1342) p. 714, Bomberg and
 Vilna. The Munich page carries 106b–108b in a small dense hand.
@@ -131,8 +132,8 @@ check (every page, and a Perlman-box check) before drafting.
 
 | Leaf | Sheet | Sections to render | Why |
 |---|---|---|---|
-| **1947** | 161777 | ב ("תולדות": Ibn Ezra vs Ramban, 3 Qs) · ג (Rashi "בדורותיו", Levush HaOrah's question, Bereshit Rabbah: Noah and Abraham) · א (ch. 6 vs ch. 7 parallels, Malbim) | Early; the first pass at 6:9 |
-| **1954** | 161402 | א (Cassuto's 12 paragraphs, **+ Leningrad 4v**) · ב ("כי השחית כל בשר": Rashi vs Ramban, 5 Qs) · ג (building the ark as a warning: Tanchuma, its variant, Rashi) | Structure, then the sin, then the ark |
+| **1947** | 161777 | א (ch. 6 vs ch. 7 parallels, Malbim) · ב ("תולדות": Ibn Ezra vs Ramban, 3 Qs) · ג (Rashi "בדורותיו", Levush HaOrah's question, Bereshit Rabbah: Noah and Abraham) | Early; the first pass at 6:9 |
+| **1954** | 161402 | א (Cassuto's 12 paragraphs; *optional* Leningrad, see below) · ב ("כי השחית כל בשר": Rashi vs Ramban, 5 Qs) · ג (building the ark as a warning: Tanchuma, its variant, Rashi) | Structure, then the sin, then the ark |
 | **1958** | 161147 | א ("תולדות": Rashi's two readings, Radak, Gur Aryeh) · ב–ג ("בדורותיו": Tanchuma's coin and balsam, Levush HaOrah) · ד (Noah vs Abraham, BR 30:10) · ו–ז (חמס: Rashi and Sanhedrin 108a) | 6:9 again, 11 years on, much denser |
 
 Alternates: 1956 (praise to his face; "מפני מי המבול": Rashi, Radak, Ashtruk, Kli Yakar),
@@ -155,7 +156,7 @@ Alternates: 1961 (the lists of the perished: Ibn Kaspi, Malbim, Cassuto; Noah's 
 |---|---|---|---|
 | **1946** | 161548 | א (Rashi, incl. which curse of the ground) · ב (the order of the animals) · ג ("כי יצר לב האדם רע מנעוריו": Abarbanel's question; Akeidah ×2, Hirsch, "יש מפרשים", Ibn Ezra; 9 Qs) | Early; the great crux of 8:21 |
 | **1951** | 161581 | א (Cassuto's "אתכם" ↔ "חתכם") · ב (the rainbow: Abarbanel's question, Ramban) · ג ("בענני ענן": Radak) · ד ("וראיתיה": Radak vs Shadal) | The covenant sign |
-| **1964** | 160639 | א ("טרף": Rashi vs Ramban, 10 Qs) · ג (youth of man and world: Abarbanel, Tedeschi, Shadal) · ד (does the earth end? Ibn Ezra vs Ibn Kaspi) · ב (Ibn Kaspi on "כי") | 8:21 again, 18 years after 1946 |
+| **1964** | 160639 | א ("טרף": Rashi vs Ramban, 10 Qs) · ב (Ibn Kaspi on "כי") · ג (youth of man and world: Abarbanel, Tedeschi, Shadal) · ד (does the earth end? Ibn Ezra vs Ibn Kaspi) | 8:21 again, 18 years after 1946 |
 
 Alternate: 1963 (the covenant: Ibn Ezra, Radak, Ralbag, Abarbanel, Sforno, Cassuto, Shadal;
 its §ד is Perlman's).
@@ -167,6 +168,12 @@ its §ד is Perlman's).
 | **1948** | 161496 | א ("מיד כל חיה אדרשנו": BR, Midrash Aggadah, Rashi, Rambam Rotze'ach and Moreh, Ramban ×2, Radak, Ralbag, Melekhet Machshevet, Wessely) · ב (the blessing compared with Adam's) | One verse, ten voices: are animals answerable? |
 | **1957** | 161105 | א (order of creatures in the two blessings) · ב ("ומיד האדם": Rashi, HaKtav VeHaKabbalah) · ג–ד ("ואך את דמכם": Ibn Ezra vs Rashi) · ה–ו ("בצלם אלקים": Avot, Maharsha's question; Radak, Chizkuni, Malbim: murdered, murderer or judge?) | Mid |
 | **1970** | 160445 | א (God's first words to Adam and to Noah) · ב (meat permitted: Hirsch) · ג ("בנפשו דמו": Radak, Abarbanel, Ibn Kaspi) · ד ("ואך": Rashi, Bekhor Shor) | Late; English edition exists (Nataf) |
+
+**Open: 1948 vs 1971.** 1971 is her last Noach sheet and returns to 9:5 with nearly 1948's
+panel, plus BR 34:13 with Matnot Kehunah on Saul and Ibn Ezra's second commentary (7 Qs to
+1948's 4). Options: keep 1948; swap 1957 or 1970 for 1971; or 1971 instead of 1948.
+**1970 consequence:** it's the Nataf English edition, so its questions have a published
+English; `en_basis` would need a `nataf` value that the lib and `test_provenance.py` accept.
 
 Alternates: 1971 (9:5 again, nearly 1948's panel plus BR, Ibn Ezra's second commentary,
 Chizkuni; the "23 years later" return, but it repeats 1948), 1949, 1950, 1943.
@@ -184,12 +191,18 @@ Alternates: 1955 (PdRE, Malbim, Cassuto; Radak on "בני האדם"; Kaufmann on
 
 ### Overview and image moments
 
-- **Overview** (facts established): 30 sheets, one a year from תש"ב to תשל"א; five themes and
-  their counts. Absences (9:20–27) only after the scan check.
-- **Leningrad, once: 1954 §א.** Cassuto divides the flood story into 12 paragraphs, and her
-  scaffold gives the first two (6:9–12, 6:13–22). Those are exactly the Masoretes' first two
-  sections; the codex then runs 7:1–8:14 unbroken. Folio 4v shows the 6:22 break and the
-  unbroken run. Narration says only what's on the page; it doesn't fill in her 12.
+- **Overview** (facts established), matching what Bereshit shipped: the span, "five passages,
+  each read through the sources and questions Nechama Leibowitz set for it", and "she wrote
+  on this parsha every year from 1942 to 1971" (Bereshit's keep-or-cut question on that card
+  is still open; same answer applies here). Absences (9:20–27) only after the scan check.
+- **Leningrad: none by default; one optional moment, 1954 §א.** Cassuto divides the flood
+  story into 12 literary paragraphs, and her scaffold gives the first two (6:9–12, 6:13–22),
+  which coincide with the Masoretes' first two sections. The codex then runs 7:1–8:14 with no
+  break, where Cassuto finds several paragraphs. **Caveat:** unlike Bereshit 1963, where
+  Benno Jacob's claim was itself about the paragraphing, the page here doesn't evidence her
+  source; it offers a *different* division, and setting the two side by side is a contrast
+  Nechama didn't draw. Folio 4v shows the 6:22 break and the unbroken run, not the 6:12 break
+  (on 4r). Use only if Lev wants the contrast.
 - **Talmud manuscript: none proposed.** The one candidate is Munich 95 for Sanhedrin 108a
   (1958 §ז, the source of Rashi's "לא נחתם גזר דינם אלא על הגזל"). Her question is about
   Rashi's style versus the Gemara's text, so the manuscript would illustrate, not evidence,
