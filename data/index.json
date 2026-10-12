@@ -11,7 +11,7 @@
     },
     "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions.",
     "category": "branching",
-    "shows": "The flagship. Forty-three commentators, and pages of the Leningrad Codex that zoom to the line under discussion. Every quote of Nechama’s cites the sheet it came from.",
+    "shows": "The flagship. More than forty sources, and pages of the Leningrad Codex that zoom to the line under discussion. Every quote of Nechama’s cites the sheet it came from.",
     "demoPath": "creation/cr-1963",
     "demoLabel": "Creation → 1963"
   },
@@ -28,8 +28,8 @@
     "description": "Twenty-eight gilyonot, four themes, thirty years of return. Choose a theme, choose her angle, walk the sheet.",
     "category": "branching",
     "shows": "The second garden, built the same way. It branches by theme rather than by passage, then by the angle she took in a given year. It shows the method carrying from one parsha to the next.",
-    "demoPath": "nazir/n-1942",
-    "demoLabel": "The Nazirite → 1942"
+    "demoPath": "birkat/b-1955",
+    "demoLabel": "The Priestly Blessing → 1955"
   },
   {
     "slug": "yitro-5730",
@@ -55,7 +55,7 @@
     },
     "description": "How a mashal works — a six-step reading of the Tanhuma's parable on “Take, please” (Genesis 22:2)",
     "category": "range",
-    "shows": "English-first. A chapter of a published book by a living teacher, walking through her six-step method for reading a mashal."
+    "shows": "English-first. A chapter of a published book by a contemporary teacher, walking through the author’s six-step method for reading a mashal."
   },
   {
     "slug": "pirkei-avot-1-11",

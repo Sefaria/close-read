@@ -18,7 +18,7 @@ const HOME_CATEGORIES = [
   {
     id: 'range',
     title: 'Other teachers, other texts, either language',
-    intro: 'The engine knows nothing about Nechama or Torah. These readings test it on Midrash, Mishnah and Talmud, with English-first and Hebrew-first texts, written by living teachers.',
+    intro: 'Nothing in the engine is specific to Nechama or to Torah. These readings test it on Midrash, Mishnah and Talmud, English-first as well as Hebrew-first, from other teachers.',
   },
 ];
 
