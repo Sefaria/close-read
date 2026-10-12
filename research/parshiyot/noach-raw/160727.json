@@ -1,0 +1,521 @@
+{
+ "dateCreated": "2019-03-05T15:30:16.793615",
+ "dateModified": "2019-03-07T02:04:33.212492",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 9:9",
+  "Genesis 9:18",
+  "Genesis 10:27",
+  "Genesis 9:11",
+  "Ralbag on Torah, Genesis 6:9:3",
+  "Radak on Genesis 6:18:1",
+  "Abarbanel on Torah, Genesis 6:14:1",
+  "Genesis 6:10",
+  "Genesis 6:18",
+  "Genesis 10:1",
+  "Genesis 10:29",
+  "Genesis 10:26",
+  "Sforno on Genesis 6:18:1",
+  "Genesis 10:28",
+  "Ibn Ezra on Genesis 9:9:1",
+  "Ibn Ezra on Exodus 6:4:1",
+  "Genesis 5:32"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160727,
+ "includedRefs": [
+  "Genesis 6:18",
+  "Genesis 9:9",
+  "Genesis 9:11",
+  "Ibn Ezra on Genesis 9:9:1",
+  "Ibn Ezra on Exodus 6:4:1",
+  "Genesis 6:18",
+  "Radak on Genesis 6:18:1",
+  "Ralbag on Torah, Genesis 6:9:3",
+  "Abarbanel on Torah, Genesis 6:14:1",
+  "Sforno on Genesis 6:18:1",
+  "Genesis 5:32",
+  "Genesis 6:10",
+  "Genesis 9:18",
+  "Genesis 10:1",
+  "Genesis 10:26-27",
+  "Genesis 10:28",
+  "Genesis 10:28-29",
+  "Genesis 10:1"
+ ],
+ "nextNode": 43,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. לעניין הקמת הברית</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ח",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:18",
+   "text": {
+    "en": "But I will establish My covenant with thee; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’wives with thee.",
+    "he": "\"<b>וַהֲקִמֹתִי אֶת בְּרִיתִי</b> אִתָּךְ וּבָאתָ אֶל הַתֵּבָה\nאַתָּה וּבָנֶיךָ וְאִשְׁתְּךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ט׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:9",
+   "text": {
+    "en": "’As for Me, behold, I establish My covenant with you, and with your seed after you;",
+    "he": "\"וַאֲנִי הִנְנִי <b>מֵקִים אֶת בְּרִיתִי</b> אִתְּכֶם וְאֶת זַרְעֲכֶם אַחֲרֵיכֶם...\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:י״א",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:11",
+   "text": {
+    "en": "And I will establish My covenant with you; neither shall all flesh be cut off any more by the waters of the flood; neither shall there any more be a flood to destroy the earth.’",
+    "he": "\"<b>וַהֲקִמֹתִי אֶת בְּרִיתִי</b> אִתְּכֶם וְלֹא יִכָּרֵת כָּל בָּשָׂר עוֹד מִמֵּי הַמַּבּוּל...\""
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ראב\"ע, <a class=\"refLink\" href=\"/Genesis 6:18\" data-ref=\"Genesis 6:18\" data-ref=\"Genesis 6:18\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 6:18\" data-ref=\"Genesis 6:18\" data-ref=\"Genesis 6:18\" target=\"_blank\">פרק ו' פסוק י\"ח</a>:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה והקימותי את בריתי: לאות שהשם נשבע לו שלא ימות הוא ובניו במבול, ואם לא נמצא בתחילה מפורש, כאשר מצאנו במשנה התורה (<a class=\"refLink\" href=\"/Deuteronomy 1:30\" data-ref=\"Deuteronomy 1:30\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Deuteronomy 1:22\" data-ref=\"Deuteronomy 1:22\" target=\"_blank\">דברים א' כ\"ב</a>) \"נשלחה אנשים לפנינו\". \nומילת \"והקימותי\" – שאקיים את שבועתי. \nוהקרוב אלי, שזאת הברית רמז לקשת. </span>"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:ט׳:א׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:9:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ואת זרעכם: ... והברית שאקיים היא שלא ייכרת כל בשר."
+   }
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה הקושי בפסוק י\"ח? האם הוא הוא הקשה לו גם בט' ט'?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ההבדל בין שני פירושיו לפסוק י\"ח? (השני פותח במילים \"והקרוב אלי\".)"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  מהו הדמיון בין הפסוק ו' י\"ח לבין <a class=\"refLink\" href=\"/Deuteronomy 1:30\" data-ref=\"Deuteronomy 1:30\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Deuteronomy 1:22\" data-ref=\"Deuteronomy 1:22\" target=\"_blank\">דברים א' כ\"ב</a>?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. מה ראה ראב\"ע להכניס פירושו למילה \"והקימותי\" בין שני פירושיו ל\"בריתי\", ולא אמר פירושו ל\"והקימותי\" בסוף?"
+  },
+  {
+   "heRef": "אבן עזרא על שמות ו׳:ד׳:א׳",
+   "node": 11,
+   "options": {
+    "PrependRefWithHe": "5. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "**"
+   },
+   "ref": "Ibn Ezra on Exodus 6:4:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וגם הקימותי את בריתי אתך: גם שלחתיך בעבור שהקימותי עם האבות לתת להם..."
+   }
+  },
+  {
+   "node": 12,
+   "outsideText": "האם פירושו את מילת \"והקימותי\" ב-ו' י\"ח וב-ט' ט' ו<a class=\"refLink\" href=\"/Exodus 6:4\" data-ref=\"Exodus 6:4\" target=\"_blank\">ב</a><a class=\"refLink\" href=\"/Exodus 6:30\" data-ref=\"Exodus 6:30\" target=\"_blank\">שמות ו' ד'</a> פירוש אחד הוא? ואם לא – מה ראה לשנות?"
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ב. מהות הברית</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ח",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:18",
+   "text": {
+    "en": "But I will establish My covenant with thee; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’wives with thee.",
+    "he": "\"וַהֲקִמֹתִי אֶת בְּרִיתִי אִתָּךְ\""
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ו׳:י״ח:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 6:18:1",
+   "text": {
+    "en": "והקימותי את בריתי אתך, the covenant that I am going to make with you as part of the deal that you and your family will be saved. I will keep this promise for you and your descendants.",
+    "he": "ברית שאני כורת עמך שתנצל ממי המבול אתה וכל אשר עמך, אקיימנו לך."
+   }
+  },
+  {
+   "heRef": "רלב\"ג על התורה, בראשית ו׳:ט׳:ג׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ralbag on Torah, Genesis 6:9:3",
+   "text": {
+    "en": "",
+    "he": "וזה הברית אשר זכר הוא לפי מה שאחשוב שעשהו ה' יתברך ביום הזה, לקיים העולם בדרך שלא יצטרך עוד אל כמו זה האופן מהבריאה אשר ברא בששת ימי בראשית,... וזה הברית שאמנם הקימו עם נח במה שציוהו מעשית התיבה ושיכנס בתיבה הוא ובניו ונשיהם ושיכניס עמו מכל מין ומין... כדי שיתקיימו..."
+   }
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ו׳:י״ד:א׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 6:14:1",
+   "text": {
+    "en": "",
+    "he": "ואמנם מהו הברית שעליו אמר \"והקימותי את בריתי\" חשב הר\"ן שההמלטה וההצלה הוא הברית, ואיננו נכון, והיותר מתיישב בזה הוא שהא-ל יתברך בתחילת הבריאה שם חוק גבול לים, שאם היות טבע המים לכסות הארץ, לא יהיה כן תמיד... כמו שביארתי בפירוש (פרק א') \"יקוו המים\". \nוהנה דור אנשי המבול, כאשר עברו חוקם והפרו גבולם ובריתם, ראה הקב\"ה להפר גם כן עמהם את בריתו מהגלות היבשה. וכבר ידעת שחוקי הבריאה הראשונה נקראו ברית כמו שאמר <a class=\"refLink\" href=\"/Jeremiah 33:30\" data-ref=\"Jeremiah 33:30\" target=\"_blank\">ירמיהו</a> (ל\"ג כ\"ב) \"אם לא בריתי יומם ולילה, חוקות שמים וארץ לא שמתי\" – את בריתי היום ואת בריתי הלילה, כי ברית הוא מלשון גבול... \nוכאילו אמר ה' לנח, שהברית והגבול אשר שם למים שלא יכסו את הארץ, אין ראוי לשמרו לאותם רשעים, כי כמו שהם הפרו את בריתי, אף אני אסלק את בריתי ואת אמונתי וחסדי מהם ואסיר את גבול הים ושטף ועבר, אבל הברית והחסד הזה אקים איתך, כי אחר שבריתי הייתה איתך הצדק והשלמות, גם אני ברית שלומי לא תמוש מאיתך וכי תעבור במים ולא ישטפוך. "
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ו׳:י״ח:א׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 6:18:1",
+   "text": {
+    "en": "והקימותי את בריתי, a reference to the covenant G’d made with Noach after the deluge. ",
+    "he": "את בריתי: אחר המבול."
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">באור:</span><br><span style=\"color: rgb(51,51,51);\">שלא ימותו הוא ובניו במבול ושלא ימיתוהו החיות בתיבה.</span>"
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מנח עד אברהם (עמוד 47):</span><br><span style=\"color: rgb(51,51,51);\">נאמר לנח, שכל בני אדם עתידים לגווע במבול, ואם כך יהיה, ההבטחות שהבטיח א-לוהים לאדם הראשון (<a class=\"refLink\" href=\"/Genesis 1:30\" data-ref=\"Genesis 1:30\" target=\"_blank\">בראשית א' כ\"ט</a>) מה יהיה עליהן? אם כן, איפוא, ברית כרותה לבני אדם שיפרו וירבו וימלאו את הארץ... ואי אפשר שלא יקיים א-לוהים את דברו, לפיכך – לאחר שנאמר \"כל אשר בארץ יגווע\", נאמר כאן תיכף ומיד \"והקימותי את בריתי אתך\" להגיד: הברית אשר כרתי את האדם הראשון, אקיים אותה בך ובזרעך. בכם ימשך קיומה של האנושות...</span>"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מי מן הפרשנים הנ\"ל מסכים עם אחד משני פרושי הראב\"ע?"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. לפי מי מן הפרשנים הנ\"ל יש להבדיל בין כריתת ברית לבין הקמת (=שמירת) ברית?"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  עיין בפסוקים: <a class=\"refLink\" href=\"/Genesis 9:30\" data-ref=\"Genesis 9:30\" target=\"_blank\">בראשית ט' י\"ז</a>, <a class=\"refLink\" href=\"/Exodus 6:30\" data-ref=\"Exodus 6:30\" target=\"_blank\">שמות ו' ד'</a>, <a class=\"refLink\" href=\"/Deuteronomy 5:30\" data-ref=\"Deuteronomy 5:30\" target=\"_blank\">דברים ה' י\"ח</a>. היש הצדקה להבחנה זו (בין כריתת ברית לבין הקמת ברית) לפי פסוקים אלה?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. מי מן הפרשנים הנ\"ל יכול להסתמך על <a class=\"refLink\" href=\"/Genesis 17:30\" data-ref=\"Genesis 17:30\" target=\"_blank\">בראשית י\"ז כ\"א</a> \"ואת בריתי אקים את יצחק\"."
+  },
+  {
+   "node": 25,
+   "outsideText": "<table><tbody><tr><td><big>ג. ברית = אהבה, תנאי, הבטחה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">שד\"ל:</span><br><span style=\"color: rgb(51,51,51);\">ועניין הברית איננו תמיד קשר אהבה (feedus), גם לא תנאי (pactus) אלא כל הבטחה נקראת \"ברית\".                   </span>"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "איזו משלוש ההוראות המוזכרות בדבריו מתאימה ל-ו' י\"ח ואיזו לט' ט'?"
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ד. טעמי רשימה של שלושה שמות</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 29,
+   "outsideText": "בפסוקים אחדים נזכרים שמותיהם של שלושה בני נח:"
+  },
+  {
+   "heRef": "בראשית ה׳:ל״ב",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 5:32",
+   "text": {
+    "en": "And Noah was five hundred years old; and Noah begot Shem, Ham, and Japheth.",
+    "he": "\"וַיְהִי נֹחַ בֶּן חֲמֵשׁ מֵאוֹת שָׁנָה וַיּוֹלֶד נֹחַ אֶת שֵׁם אֶת חָם וְאֶת יָפֶת\""
+   }
+  },
+  {
+   "heRef": "בראשית ו׳:י׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:10",
+   "text": {
+    "en": "And Noah begot three sons, Shem, Ham, and Japheth.",
+    "he": "\"וַיּוֹלֶד נֹחַ שְׁלֹשָׁה בָנִים אֶת שֵׁם אֶת חָם וְאֶת יָפֶת\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:י״ח",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:18",
+   "text": {
+    "en": "And the sons of Noah, that went forth from the ark, were Shem, and Ham, and Japheth; and Ham is the father of Canaan.",
+    "he": "\"וַיִּהְיוּ בְנֵי נֹחַ הַיֹּצְאִים מִן הַתֵּבָה שֵׁם וְחָם וָיָפֶת וְחָם הוּא אֲבִי כְנָעַן\""
+   }
+  },
+  {
+   "heRef": "בראשית י׳:א׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 10:1",
+   "text": {
+    "en": "Now these are the generations of the sons of Noah: Shem, Ham, and Japheth; and unto them were sons born after the flood.",
+    "he": "\"וְאֵלֶּה תּוֹלְדֹת בְּנֵי נֹחַ שֵׁם חָם וָיָפֶת וַיִּוָּלְדוּ לָהֶם בָּנִים אַחַר הַמַּבּוּל\""
+   }
+  },
+  {
+   "node": 34,
+   "outsideText": "כן אנו מוצאים רשימות נוספות של מנין שלושה שמות בפסוק אחד, כגון בני יקטן בפרק י':"
+  },
+  {
+   "heRef": "בראשית י׳:כ״ו-כ״ז",
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 10:26-27",
+   "text": {
+    "en": "And Joktan begot Almodad, and Sheleph, and Hazarmaveth, and Jerah; and Hadoram, and Uzal, and Diklah;",
+    "he": "\"וְאֶת הֲדוֹרָם וְאֶת אוּזָל וְאֶת דִּקְלָה\""
+   }
+  },
+  {
+   "heRef": "בראשית י׳:כ״ח",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 10:28",
+   "text": {
+    "en": "and Obal, and Abimael, and Sheba;",
+    "he": "\"וְאֶת עוֹבָל וְאֶת אֲבִימָאֵל וְאֶת שְׁבָא\""
+   }
+  },
+  {
+   "heRef": "בראשית י׳:כ״ח-כ״ט",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 10:28-29",
+   "text": {
+    "en": "and Obal, and Abimael, and Sheba; and Ophir, and Havilah, and Jobab; all these were the sons of Joktan.",
+    "he": "\"וְאֶת אוֹפִר וְאֶת חֲוִילָה וְאֶת יוֹבָב\""
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהו ההבדל באופן הנחת הטעמים ברשימת בני נח לעומת בני יקטן?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. הסבר את סיבת ההבדל."
+  },
+  {
+   "heRef": "בראשית י׳:א׳",
+   "node": 40,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 10:1",
+   "text": {
+    "en": "Now these are the generations of the sons of Noah: Shem, Ham, and Japheth; and unto them were sons born after the flood.",
+    "he": "\"בְּעֶצֶם הַיּוֹם הַזֶּה בָּא נֹחַ וְשֵׁם וְחָם וָיֶפֶת בְּנֵי נֹחַ וְאֵשֶׁת נֹחַ וּשְׁלֹשֶׁת נְשֵׁי בָנָיו אִתָּם אֶל הַתֵּבָה\""
+   }
+  },
+  {
+   "node": 41,
+   "outsideText": "מה יכולה להיות סיבת השינוי של בעלי הטעמים בפסוק הזה לעומת ארבעת הפסוקים הנ\"ל?"
+  }
+ ],
+ "ssn": 303,
+ "status": "public",
+ "summary": "1963 (תשכ\"ג)<br><a href=\"http://www.nechama.org.il/pdf/303.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"ג - הברית",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

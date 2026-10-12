@@ -1,0 +1,469 @@
+{
+ "dateCreated": "2019-03-05T15:01:49.409194",
+ "dateModified": "2019-03-07T01:59:02.313889",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Radak on Genesis 10:5:1",
+  "Genesis 11:6",
+  "Radak on Genesis 10:30:1",
+  "Radak on Genesis 10:32:1",
+  "Radak on Genesis 10:5:2",
+  "Genesis 11:1",
+  "Zephaniah 3:9",
+  "Rashi on Genesis 11:6:3",
+  "Genesis 11:4",
+  "Bekhor Shor, Genesis 11:1:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160443,
+ "includedRefs": [
+  "Radak on Genesis 10:5:1",
+  "Radak on Genesis 10:5:2",
+  "Radak on Genesis 10:30:1",
+  "Radak on Genesis 10:32:1",
+  "Bekhor Shor, Genesis 11:1:1",
+  "Genesis 11:1",
+  "Zephaniah 3:9",
+  "Genesis 11:4",
+  "Genesis 11:4",
+  "Genesis 11:6",
+  "Rashi on Genesis 11:6:3"
+ ],
+ "nextNode": 43,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. הפירוד</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רד\"ק על בראשית י׳:ה׳:א׳",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 10:5:1",
+   "text": {
+    "en": "מאלו נפרדו, after the debacle with the Tower, the descendants of Yaphet chose for themselves the various islands in the Aegean as their habitat, resulting in each tribe being separated from the other. ",
+    "he": "ד\"ה מאלה נפרדו: אחר הפרדם בחרו להם בני יפת איים ששכנו בהם, ואיים הם מחוזות מחולקות זה מזה."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית י׳:ה׳:ב׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 10:5:2",
+   "text": {
+    "en": "איש ללשונו, the people on each of those islands developed a different language or dialect. The word הגויים implies that although all these tribes were offspring of Yaphet, they were in fact as if separate nations. Seeing that the descendants of Noach listed comprise a total of 70, the concept of mankind comprising “seventy nations” not including the Jewish people, was born. [If, nowadays, in the United Nations, for instance, we have far more than 70 nations represented, this in no way contradicts the sages’ reference to “the 70 nations of the world.” Ed.]\n",
+    "he": "ד\"ה איש ללשונו: כי לא היו כולם בני לשון אחת אחר הפלגה, וכן לשון גוי בפני עצמו, אע\"פ שכולם בני יפת."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית י׳:ל׳:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 10:30:1",
+   "text": {
+    "en": "ויהי מושבם ממשא, after the dispersal of mankind, these sons of Yokton chose for themselves the land extending eastward from the valley of the Euphrates and Tigris. Rav Saadyah gaon understands the meaning of the word Mesha as what is known nowadays as Mecca, the city to which the Muslims make their pilgrimage.",
+    "he": "ד\"ה ויהי מושבם: אחר ההפלגה בררו להם את הארץ אשר ממשא עד הר קדם..."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית י׳:ל״ב:א׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 10:32:1",
+   "text": {
+    "en": "אלה..אחר המבול, what does the deluge have to do with this, seeing the people were not dispersed until after they built the Tower [approximately 300 years later. Ed.]? The meaning of this verse is that all these families of Noach’s children were born after the deluge, only to be scattered all over the globe, something which occurred after the building of the Tower.",
+    "he": "ד\"ה ומאלה נפרדו הגויים בארץ אחר המבול: והנה לא נפרדו אלא אחר הפלגה? אלא פרושו: אלה משפחות בני נח שנולדו אחר המבול נפרדו בארץ כאשר נפרדו, והוא אחר הפלגה."
+   }
+  },
+  {
+   "heRef": "בכור שור, בראשית י״א:א׳:א׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bekhor Shor, Genesis 11:1:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ויהי כל הארץ שפה אחת ודברים אחדים: שהיו כולם יודעים שבעים לשון."
+   }
+  },
+  {
+   "heRef": "בראשית י״א:א׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:1",
+   "text": {
+    "en": "And the whole earth was of one language and of one speech.",
+    "he": "ד\"ה ושפה אחת: שכולם יודעים שבעים לשון ומבינים זה את זה."
+   }
+  },
+  {
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פרק י\"א פסוק ז':</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה אשר לא ישמע איש שפת רעהו: כי כל אחד שכח כל הלשונות חוץ מאחת, ומה שידע זה לא ידע זה. אבל בין כולם ידעו שבעים לשונות. דאין נראה לי לומר לפי הפשט, דעכשיו נבראו להם שבעים הלשונות.</span>"
+  },
+  {
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בעל רכסים לבקעה, פרק י\"א פסוק א':</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ויהי כל הארץ (אחרי הביאו קושיות רבות וקשות על פרקנו): ...ולכן אם ניתן רשות לפרש בדרך אחרת פרשה זו, שאין מצוה ממצוות התורה תלויה בה, כי אם להודיע משפטיו ישיב גמול על גאים בדבר אשר זדו אם גוי ואם אדם יחד – יתכן כי הפרשות כתובות בסדר המוקדם והמאוחר, אחר שכתב כי בני יקטן הרבים ישבו עד הר הקדם (עיין י' ל') אמר \"ויהי כל הארץ\" של בני יקטן שפה אחת, אף שמשפחות הרבה היו, כמו (<a class=\"refLink\" href=\"/Psalms 45:17\" data-ref=\"Psalms 45:17\" target=\"_blank\">תהלים מ\"ה, י\"ז</a>) \"תשיתמו לשרים בכל הארץ\" – בכל ארץ ישראל (<a class=\"refLink\" href=\"/Genesis 13\" data-ref=\"Genesis 13\" target=\"_blank\">בראשית י\"ג</a>) \"הלא כל הארץ לפניך\" – כל הארץ הזאת. (<a class=\"refLink\" href=\"/Genesis 41\" data-ref=\"Genesis 41\" target=\"_blank\">בראשית מ\"א</a>) \"וכל הארץ באו מצרימה\" – לא שבאו מאחרית ים ומקצווי ארץ אלא כל ארץ כנען וסביבותיה, כך 'ויהי כל הארץ' ההיא 'שפה אחת' וגו'... \nואמר כי שם – בבקעת החטאים האלה – בלל ה' שפת כל הארץ ההיא כעיסה בלולה, ומשם הפיצם, ולא היה ליתר העמים חלק עמהם. אף כי לצדיקי הדור ושפתם תכון לעד. \nכך יתכן לפרש והבוחר יבחר.</span>"
+  },
+  {
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"ר הירש, פרק י' פסוק ה':</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה נפרדו: רק להלן יסופר על פיזור האומות ובלבול לשונות הגויים. ואעפ\"כ הוא אומר כבר כאן, שהגויים נפרדו בארצותם וללשונותיהם, אולם להלן יסופר על התערבות מיוחדת של ההנהגה האלוקית המחנכת את האדם; ותוצאת ההתערבות הזאת שונה מן האמור בכתוב הזה: כאן יסופר על תופעה טבעית, שהיתה צפויה בתנאים החדשים, העמים התפשטו כדרכם והרחיבו את גבולם בארץ. ומשנשתנו הארצות ואקלימים, נשתנו גם האומות זו מזו. דבר זה היה צפוי והכרחי, והוא בא במחשבה תחילה, ורק על כך מסופר בפסוק זה... </span>"
+  },
+  {
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"ר הירש, פרק י' פסוק ה':</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה איש ללשונו: לשונם המיוחדת היתה תוצאה של הפירוד ולא סיבת הפרוד. משרבו בני נח נפרדו בארצותם ובהשפעת הקרקע גם נתגוונה לשונם. דומה שיש הבדל גדול בין \"שפה\" הנזכרת בדור הפלגה לבין \"לשון\" הנזכרת כאן. שפה פרושה כמשמעה: השפה הגרמנית, הצרפתית, וכו'. ובכן משרבו בני נח נפרדו כדרכם; נבדלו במקומותיהם והיו ל\"איים\"; \"הארץ\" האחת נתפצלת ל\"ארצות\" והגוי האחד נבדל ל\"גויים\". האדם מושפע מן התנאים החיצוניים – וכך היתה השפה האחת לדיאלקטים שונים. והנה שוני הדיאלקטים הפריד כלפי חוץ ויצר \"גויים\" שונים, אך הוא גם היה מקשר כלפי פנים ואיחד את \"משפחותם\" ו\"גוייהם\". אין איחוד בלא פירוד.</span>"
+  },
+  {
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פרק י\"א פסוק א':</span><br><span style=\"color: rgb(51,51,51);\">כבר ראינו לעיל: סיבות טבעיות גרמו לכך שבני אדם נפרדו לקבוצות וכתוצאה מכך נפרדו הלשונות. אולם עדיין לא היו השפות זרות לחלוטין. השפה היתה אחת אך הלשונות היו שונות. הם דברו שפה אחת בדיאלקטים שונים.</span>"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מהי השאלה המשותפת לכל ארבעתם, שאותם הם מנסים ליישב?"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. כמה דעות שונות בפתרון השאלה נאמרו לעיל ואילו הן?"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. במה קרוב בעל רכסים לבקעה לרד\"ק, ובמה הוא שונה ממנו?"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. למה מדגיש בעל הרכסים לבקעה שאין בפרק י\"א מצוות?"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5. מתוך דברי הירש משתמע שיש הבדל בין \"הופרד\" ובין \"נפוץ\". מהו ההבדל?"
+  },
+  {
+   "node": 18,
+   "outsideText": "היש להביא לאחת הדעות הנ\"ל סמך ממה שמנבא צפניה לאחרית הימים:"
+  },
+  {
+   "heRef": "צפניה ג׳:ט׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Zephaniah 3:9",
+   "text": {
+    "en": "For then will I turn to the peoples A pure language, That they may all call upon the name of the LORD, To serve Him with one consent.",
+    "he": "\"כִּי אָז אֶהְפֹּךְ אֶל עַמִּים שָׂפָה בְרוּרָה לִקְרֹא כֻלָּם בְּשֵׁם ה' לְעָבְדוֹ שְׁכֶם אֶחָד...\""
+   }
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"וראשו בשמים\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ד׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:4",
+   "text": {
+    "en": "And they said: ‘Come, let us build us a city, and a tower, with its top in heaven, and let us make us a name; lest we be scattered abroad upon the face of the whole earth.’",
+    "he": "\"וְרֹאשׁוֹ בַשָּׁמַיִם\""
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מנחה בלולה, (ר' יעקב כהן רפא מפורטא):</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה וראשו בשמים: כפי הפשט, על דרך (<a class=\"refLink\" href=\"/Deuteronomy 9:2\" data-ref=\"Deuteronomy 9:2\" target=\"_blank\">דברים ט' ב'</a>) \"ערים גדולות ובצורות בשמים\".</span>"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה רצה לתקן ע\"י ההבאה מספר דברים?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  למה הדגיש בתחילת פירושו \"לפי הפשט\"?"
+  },
+  {
+   "node": 25,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"עיר ומגדל...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ד׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:4",
+   "text": {
+    "en": "And they said: ‘Come, let us build us a city, and a tower, with its top in heaven, and let us make us a name; lest we be scattered abroad upon the face of the whole earth.’",
+    "he": "\"הָבָה נִבְנֶה לָּנוּ עִיר וּמִגְדָּל וְרֹאשׁוֹ בַשָּׁמַיִם וְנַעֲשֶׂה לָּנוּ שֵׁם פֶּן נָפוּץ עַל פְּנֵי כָל הָאָרֶץ\""
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">הרכסים לבקעה:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ונעשה לנו שם: הוא הטעם למגדל, ו\"פן נפוץ\" טעם לבנין העיר, <b>שכן מנהג הכתוב בכל מקום</b> <b>לפרש האחרון תחילה</b>, כמו שיתברר אצל מסה ומריבה. ולכן טעם האתנחתא במלת \"שם\", שהוא מחובר למעשה המגדל הסמוך לו.</span>"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה הקושי בפסוקנו שרצה ליישב?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה עניין מסה ומריבה למקומנו?"
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. הסבר את דבריו המסומנים בקו והבא דוגמא \"למנהג הכתוב\" שעליו ידבר כאן מן התורה או מנביאים."
+  },
+  {
+   "node": 31,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"ועתה לא יבצר מהם...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ו׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:6",
+   "text": {
+    "en": "And the LORD said: ‘Behold, they are one people, and they have all one language; and this is what they begin to do; and now nothing will be withholden from them, which they purpose to do.",
+    "he": "\"וְעַתָּה לֹא יִבָּצֵר מֵהֶם כֹּל אֲשֶׁר יָזְמוּ לַעֲשׂוֹת\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ו׳:ג׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 11:6:3",
+   "text": {
+    "en": "לא יבצר מהם וגו' לעשות This is a question (although the ה which introduces an interrogative sentence is absent): SHALL THEY NOT BE RESTRAINED FROM DOING WHAT THEY IMAGINE TO DO? The word יבצר means “restraining”, as the Targum understands it; a similar instance is, (Psalms 76:13) “He restrains (יבצור) the spirit of princes”.",
+    "he": "ד\"ה לא יבצר: בתמיה. \"יבצר\" לשון מניעה כתרגומו, ודומה לו (תהל' ע\"ו י\"ג) \"יבצור הוא נגודים\"."
+   }
+  },
+  {
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "רנה\"ו, (ר' נפתלי הירץ ויזל) בפירושו לספר בראשית \"אמרי שפר\":<br>אלו הם דברי השם החוקר לב ויודע מה שעתיד עליהם שמעתה יעשו כל התועבות הגדולות העולות על רוח איש מהן, לא יבצר מהם דבר. ומלת \"יבצר\" על החסרון, כמו שנת \"בצורת\"."
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אבן כספי, מצרף לכסף:</span><br><span style=\"color: rgb(51,51,51);\">דע, כי אע\"פ שמטבע הדיבור, ומן הנכון שיקבל שינוי מצד הערות ורמיזות המדבר אף דרך תימה או גיזום או כעס, כמו שכתבו אריסטו ואפלטון, עד שבעבור זה אמרו חכמינו \"מפי סופרים ולא מפי ספרים\" וכבר נמצא מזה בתורה בהכרח במקום אחד נעלם, כמו שאכתוב, וכל שכן בנביאים וכתובים – הנה בזה אינו כלל לתימה ולגיזום, אבל המובן בזה, כי ה' אמר לעצמו או לפמליא שלו: \"ראו, בני אדם השוטים, כי אינו דבר גדול ורם ונשגב ונבצר לכל העולה על רוחם לעשות!\".\n<b>ואמר זה אם על הנמנע אם על האפשר הרחוק אשר הוא לפעמים יתואר כנמנע מצד הסכמת העברי</b>, ומצד מלאכת ההגיון וספרי הטבע והאלוקות, אשרי המאמין!</span>"
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה הקושי בפסוקנו?"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ההבדל בין תשובת רש\"י לבין שתי התשובות האחרות?"
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מה הרעיון המסומל בדברי המדרש הזה?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. כיצד יתפרש לפי דברי אבן כספי במדבר כ\"ב כ' ומדוע אין לדעתו לפרש את מקומנו באותו אופן?"
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "5. הסבר את דבריו המסומנים בקו."
+  },
+  {
+   "node": 41,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "6. כלפי מי נאמר כאן \"אשרי המאמין\", ובמה מאמין הוא?"
+  }
+ ],
+ "ssn": 3,
+ "status": "public",
+ "summary": "1968 (תשכ\"ח)<br><a href=\"http://www.nechama.org.il/pdf/3.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"ח - דור הפלגה",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

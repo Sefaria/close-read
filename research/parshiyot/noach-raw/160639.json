@@ -1,0 +1,451 @@
+{
+ "dateCreated": "2019-03-05T15:21:47.290747",
+ "dateModified": "2019-03-07T02:02:49.255768",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 8:21",
+  "Genesis 8:11",
+  "Rashi on Genesis 8:11:2",
+  "Abarbanel on Torah, Genesis 8:15:20",
+  "Rashi on Genesis 8:11:1",
+  "Ramban on Genesis 8:11:1",
+  "Shadal on Genesis 8:21:4",
+  "Ibn Ezra on Genesis 8:22:1",
+  "Rashi on Genesis 8:22:8",
+  "Rashi on Genesis 8:22:1",
+  "Genesis 8:22"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160639,
+ "includedRefs": [
+  "Genesis 8:11",
+  "Rashi on Genesis 8:11:1",
+  "Rashi on Genesis 8:11:2",
+  "Ramban on Genesis 8:11:1",
+  "Genesis 8:21",
+  "Genesis 8:21",
+  "Abarbanel on Torah, Genesis 8:15:20",
+  "Shadal on Genesis 8:21:4",
+  "Genesis 8:22",
+  "Ibn Ezra on Genesis 8:22:1",
+  "Rashi on Genesis 8:22:1",
+  "Rashi on Genesis 8:22:8"
+ ],
+ "nextNode": 42,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עיין גם גיליון <a class=\"refLink\" href=\"/sheets/160700\" data-ref=\"sheet.160700\" target=\"_blank\">נח תשכ\"ב</a>. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. בביאור המילה \"טרף\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:י״א",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:11",
+   "text": {
+    "en": "And the dove came in to him at eventide; and lo in her mouth an olive-leaf freshly plucked; so Noah knew that the waters were abated from off the earth.",
+    "he": "\"וְהִנֵּה עֲלֵה זַיִת טָרָף בְּפִיהָ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:י״א:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:11:1",
+   "text": {
+    "en": "טרף בפיה PLUCKED IN HER MOUTH — I am of opinion that it (the dove) was a male and that therefore it (the text) speaks of it sometimes as masculine and sometimes as feminine, because really wherever יונה “dove” occurs in the Scriptures it is spoken of as feminine, as (Song 5:12) “[His eyes] are like those of doves beside the water brooks. that are washing themselves (רוחצות fem.) in milk”; (Ezekiel 7:16) “Like the doves of the valleys, all of them moaning\" and as (Hosea 7:11) “Like a silly (פותה fem.) dove”",
+    "he": "ד\"ה טרף בפיה: אומר אני שזכר היה, לכן קוראו פעמים לשון זכר ופעמים לשון נקבה, לפי שכל יונה שבמקרא לשון נקבה, כמו (<a class=\"refLink\" href=\"/Song of Songs 5:30\" data-ref=\"Song of Songs 5:30\" target=\"_blank\">שיר השירים ה'</a>) \"כיונים על אפיקי מים רוחצות\"; (<a class=\"refLink\" href=\"/Ezekiel 7:30\" data-ref=\"Ezekiel 7:30\" target=\"_blank\">יחזקאל ז' ט\"ז</a>) \"כיוני הגאיות כלם הומות\"; (<a class=\"refLink\" href=\"/Hosea 7:30\" data-ref=\"Hosea 7:30\" target=\"_blank\">הושע ז'</a>) \"כיונה פותח\". "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:י״א:ב׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:11:2",
+   "text": {
+    "en": "טרף means IT HAD PLUCKED OFF — The Midrashic explanation takes it as meaning “food”, and interprets בפיה as “speaking” — viz., she said. “Rather that my food be bitter as an olive but from the hand of God, than as sweet as honey and from the hand of mortal men” (Eruvin 18b; Genesis Rabbah 33). ",
+    "he": "ד\"ה טרף: חטף. ומדרש אגדה: לשון מזון. ודרשו \"בפיה\" לשון מאמר. אמרה: יהיו מזונות מרורין כזית בידו של הקב\"ה ולא מתוקין כדבש בידי בשר ודם. "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ח׳:י״א:א׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 8:11:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה טרף בפיה. כתב רש\"י: אומר אני... (עיין לעיל) ואין כל זה נכון בעיני, כי חזרת זכר היונים מנקבה לזכר במקום אחד מן הפרשה אין בו טעם. ואם לשון לקראתם (= ואם מדרך הלשון לקרוא להם, לכנות אותם) כולם בשם הנקבות, למה שינה בכאן? \nוכן מדרשם בהגדה, לא שיעשו \"בפיה\" לשון מאמר כלל, אבל מדרשם מפני שהביאה העלה הזה, כי אם נאמר שאירע כן, לא על חינם פירש אותו הכתוב כי היה לו לומר: \"והנה עלה טרף בפיה\". והזית איננו מן האילנות הגבוהים מאוד שישכנו בו העופות לאורך דליותיו, ולכך אמרו, כי היה בזה רמז, שהעופות נח להם להיות מזונותם מרים כלענה ביד הקב\"ה ולא שיהיו טובים בידי אדם. וכל שכן בני אדם שאין רצונם להתפרנס זה מזה. \nולשון בראשית רבה (ל\"ג, ו') אמר רק אבהו... אלא רמז רמזה לו: אמרה לו: \"נח! מר מזה מתחת ידו של הקב\"ה ולא מתוק מתחת ידך\". אבל בגמרא (סנהדרין ק\"ח, ע\"ב) הוסיפו: מאי משמע דהאי \"טרף\" לישנא דמזוני הוא, דכתיב (<a class=\"refLink\" href=\"/Proverbs 30:30\" data-ref=\"Proverbs 30:30\" target=\"_blank\">משלי ל' ח'</a>) \"<b>הטריפני</b> לחם חוקי\", כי מפני הטעם שאמרנו, יעשו לזה סמך מלשון \"הטריפני\" ירמוז כאילו אמר: \"והנה עלה זית היה טרף בפיה\". \nופשוטו של מקרא פירשו בו, שהוא תואר לעלה, והנה עלה זית <b>טרוף</b> בפיה, וסמך לדבר, שהוא קמוץ, כי כן משפטו. (כוונתו: כן משפטו של שם תואר שיבוא בשני קמצים, כמו חכם, קטן) אבל נמצא בהם זרות: (<a class=\"refLink\" href=\"/Hosea 6:30\" data-ref=\"Hosea 6:30\" target=\"_blank\">הושע ו' א'</a>) \"כי הוא טרף וירפאנו\"; (<a class=\"refLink\" href=\"/Leviticus 5:30\" data-ref=\"Leviticus 5:30\" target=\"_blank\">ויקרא ה' כ\"ג</a>): \"והשיב את הגזילה אשר גזל\"; (ויקרא ה' י\"ח) על שגגתו אשר שגג\". וזולתם רבים. "
+   }
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר מה הקשיים הדקדוקיים-לשוניים בפסוקנו העומדים בפני רש\"י ורמב\"ן, ומה הקושי הענייני?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. לד\"ה טרף מביא רש\"י שני פירושים, את פירושו (\"חטף\") ואת מדרש האגדה. האם מתנגד הרמב\"ן לשניהם או רק לאחד מהם?"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מהן שתי הטענות הלשוניות שטוען הרמב\"ן נגד פירוש רש\"י?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "4. מה ההבדל בין תפישת רש\"י את מדרש חכמינו לבין תפישת הרמב\"ן את דבריהם?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "5.  הסבר את דברי הרמב\"ן \"כי אם נאמר שאירע כן\" – מהו הדבר שהיה כן? ולמה לו לפתוח ב\"כי אם נאמר\" - מה האופייני בזה לדרך פרשנותו של הרמב\"ן?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. לשם מה לרמב\"ן להודיענו שאין הזית מן העצים הגבוהים – מה חשיבות הדבר לפירוש פסוקנו?"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "7.  באיזו הוראה משתמש הרמב\"ן כאן בביטוי \"להתפרנס זה מזה\"?"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "8. מה בין פירוש הגמרא בסנהדרין, פירוש הרמב\"ן ו\"פשוטו של מקרא\" בהוראת המילה טרף?"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "9.  פרש את דברי הרמב\"ן \"אבל נמצא מהם בזרות\". למי מוסב הכינוי \"מהם\" – ממי?"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "10. מה המשותף לשלושת הפסוקים (מהושע ומויקרא) המובאים בסוף דברי הרמב\"ן?"
+  },
+  {
+   "node": 17,
+   "outsideText": "<table><tbody><tr><td><big>ב. שימוש מילת \"כי\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:כ״א",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:21",
+   "text": {
+    "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+    "he": "\"כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו\""
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אבן כספי, משנה כסף:</span><br><span style=\"color: rgb(51,51,51);\">נכון אצלי, שיהיה נתינת טעם אל \"לא אוסיף\". </span>"
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "הסבר, מהו הפירוש האפשרי לפסוקנו שלו הוא מתנגד?"
+  },
+  {
+   "node": 21,
+   "outsideText": "<table><tbody><tr><td><big>ג. נעורי האדם והעולם</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:כ״א",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:21",
+   "text": {
+    "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+    "he": "\"כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו\""
+   }
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ח׳:ט״ו:כ׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 8:15:20",
+   "text": {
+    "en": "",
+    "he": "... והאופן השני מהפירוש הוא, שהנה קרה לעולם בכללו כמו שיקרה לאדם הפרטי, יען היה העולם כולו כאיש אחד, עד שנקרא האדם – \"עולם קטן\", והעולם – \"אדם גדול\", ולכן היו ימי שנותינו שבעים שנה, כנגד שבעת ימי בראשית. \nוהנה האדם הפרט יודע מענייניו שהעשור הראשון שבימיו וגם רוב השני הם שנות הבהלה מבלי הנהגה שכלית, כי כולם יעברו בשעשוע הגדול והילדות ובתעתוע הנערות אשר אי אפשר להימלט מהם בתחילת ימיו. אבל משם ואילך הנה השכל הולך ומתחזק והאיש משתנה בעצמו ונהפך לאיש אחר, ויבוש מחרפת נעוריו. \nוכן היה באמת בעולם הכלל, כי הנה האלף הראשון ורוב האלף השני היה נעור וריק מחוסר השכל. וכן קראום חז\"ל: \"שני אלפים – תוהו\". ולחסרון האנשים בהם (=באותם שני האלפיים שנה) נתחייבו בכליית המבול והשחתתו. אמנם אחר כך, במשך הזמן, בושת עלומיו ישכח ויגער בו שכלו בלי ספק, באופן שלא יפשע עוד כבראשונה. \nוזה עניין הברית שכרת ה' לבלתי הביא עוד מבול על הארץ, כי לא היה זה דרך חסד בזכות נוח, אלא בדרך סיפור העתיד. כי בראשונה כאשר ראה יתברך כי רבה רעת האדם בארץ וכל יצר מחשבות לבו רק רע כל היום, אמר אמחה את האדם, רצה לומר, אשחית, ואמחה כל הדור להיותו מושחת בכללו, אבל אחרי עבור המבול שיער הקב\"ה בחכמתו ואמר: \"אין צורך לקלל עוד את האדמה בעבור האדם במבול אחר, לפי שזה נעשה היה בסיבת נערות העולם ובלי ספק לא ישחיתו בני אדם עוד השחתה כוללת כזו לכל המין, אם מצד המוסר הגדול שראו המבול וישיתו כל בני העולם אליו לב ואל ישובו לכסלה, ואם מפני שמכאן והלאה יהיו הדורות והמשפחות מסתעפות משלושה ראשים – שם חם ויפת – אשר מטבעם שימצא ביניהם תמיד התחלפות והעדר הסכמה על עניין אחד אם טוב ואם רע, ולזה יהיה בלתי אפשר שיסכימו כולם על דעת השחתה כוללת משותפת כמו שעשו אנשי המבול ולכן לא יתחייבו הפסד כללי כמוהם. \nהנה התבהר שבדרך הגדת העתיד אמר: לא אוסיף לקלל עוד את האדמה בעבור האדם, כי הנה מה שעבר במבול היה, מפני שיצר לב האדם רע מנעוריו, רצה לומר, מנעוריו בעולם – והתחלת זמניו ולכן לא אוסיף להכות עוד כל חי, כי נעורי העולם כבר עברו. "
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">משה יצחק אשכנזי, טדסקי (תלמיד שד\"ל) \"הואיל משה\":</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה מנעוריו: אחד מתלמידי רצה לפרש מליצה זו לא על ימי נעורי איש ואיש רק דרך כללית על כל האדם, כלומר בני האדם בשני בראשית שלא השכילו עדיין ותבל הייתה בנערותה, היה יצרם רע. \nוהשיבותי שהיה לו לומר \"בנעוריו\" בבי\"ת, והפסוק (<a class=\"refLink\" href=\"/I Samuel 17:30\" data-ref=\"I Samuel 17:30\" target=\"_blank\">שמואל א' י\"ז ל\"ב</a>) \"והוא איש מלחמה מנעוריו\" יוכיח.</span>"
+  },
+  {
+   "heRef": "שד\"ל על בראשית ח׳:כ״א:ד׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 8:21:4",
+   "text": {
+    "en": "",
+    "he": "כבר מזמן נעוריו לבו חורש ויוצר מחשבות רע. והנה לא אמר, כי לב האדם רע בטבעו, אלא כי מחשבותיו רעות מאז בימי נעוריו בלי שיהיה זה הכרחי וטבעי באדם."
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  מהי הקושיה המעסיקה את אברבנאל ואת אשכנזי, ומהי הקושיה המעסיקה את שד\"ל?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. בשלושה יישובים שונים מיישב אברבנאל את קושייתו, אילו הם?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  \"הואיל משה\" סותר את פירוש אחד מתלמידיו, שהוא פירושו של אברבנאל. היש בדברי אברבנאל תשובה לטענתו?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. מה הברכה שרואה אברבנאל בחוסר האחדות?"
+  },
+  {
+   "node": 30,
+   "outsideText": "<table><tbody><tr><td><big>ד. היש לארץ קץ</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:כ״ב",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:22",
+   "text": {
+    "en": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.’",
+    "he": "\"עֹד כָּל יְמֵי הָאָרֶץ זֶרַע וְקָצִיר וְקֹר וָחֹם וְקַיִץ וָחֹרֶף וְיוֹם וָלַיְלָה לֹא יִשְׁבֹּתוּ\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ח׳:כ״ב:א׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 8:22:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה עוד כל ימי הארץ: לאות כי יש לה קץ קצוב."
+   }
+  },
+  {
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אבן כספי:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה עוד כל ימי הארץ, אין זה מחייב לא לפי העברי ולא לפי ההגיון שיש לה קץ, ואולם דעת המורה – והיא האמת – שהארץ בכללה לעולם עומדת, ובכלל כי העולם נצחי בזמן העתיד, כי נודה לאריסטו בחצי מדעתו.</span>"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה המחלוקת בין שניהם, ומהו הבסיס הלשוני לכל אחת משתי הדעות?"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מהו החצי השני של דעת אריסטו שבה לא נודה לו?"
+  },
+  {
+   "node": 36,
+   "outsideText": "<table><tbody><tr><td><big>ה. בביאור \"לא ישבותו\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:כ״ב:א׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:22:1",
+   "text": {
+    "en": "עוד כל ימי הארץ וגו' לא ישבתו WHILE THE EARTH REMAINETH … SHALL NOT CEASE — Of these six seasons each consists of two months, as we have learned (Bava Metzia 106b): Half of Tishri, Marcheshvan and half of Kislev is seedtime; half of Kislev, Tebeth and half of Shebat is the cold-season. ",
+    "he": "\"לֹא יִשְׁבֹּתוּ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:כ״ב:ח׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:22:8",
+   "text": {
+    "en": "לא ישבתו SHALL NOT CEASE — None of these shall cease to take their natural course.",
+    "he": "ד\"ה לא ישבותו: לא יפסקו כל אלה מלהתנהג כסדרם."
+   }
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1.  מה קשה לו?"
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. למה לא פירש מילת \"שבת\" <a class=\"refLink\" href=\"/Genesis 2:30\" data-ref=\"Genesis 2:30\" target=\"_blank\">בפרק ב' פסוק ב'</a>?"
+  }
+ ],
+ "ssn": 213,
+ "status": "public",
+ "summary": "1964 (תשכ\"ד)<br><a href=\"http://www.nechama.org.il/pdf/213.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"ד - היונה והברית",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

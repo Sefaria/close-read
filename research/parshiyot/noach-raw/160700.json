@@ -1,0 +1,430 @@
+{
+ "dateCreated": "2019-03-05T15:26:42.349096",
+ "dateModified": "2019-03-07T02:03:58.447790",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 7:24",
+  "Genesis 8:1",
+  "Genesis 8:7",
+  "Bereshit Rabbah 34:9",
+  "Rabbeinu Bahya, Bereshit 8:1:1",
+  "Ramban on Genesis 8:1:1",
+  "Bereshit Rabbah 34:6"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160700,
+ "includedRefs": [
+  "Genesis 7:24",
+  "Genesis 8:1",
+  "Genesis 8:1",
+  "Ramban on Genesis 8:1:1",
+  "Rabbeinu Bahya, Bereshit 8:1:1",
+  "Genesis 8:7",
+  "Bereshit Rabbah 34:6",
+  "Bereshit Rabbah 34:9",
+  "Bereshit Rabbah 34:9"
+ ],
+ "nextNode": 42,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. \"ויזכור אלוקים את נח\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:כ״ד",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:24",
+   "text": {
+    "en": "And the waters prevailed upon the earth a hundred and fifty days.",
+    "he": "\"וַיִּגְבְּרוּ הַמַּיִם עַל הָאָרֶץ חֲמִשִּׁים וּמְאַת יוֹם\""
+   }
+  },
+  {
+   "heRef": "בראשית ח׳:א׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:1",
+   "text": {
+    "en": "And God remembered Noah, and every living thing, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters assuaged;",
+    "he": "\"וַיִּזְכֹּר אֱ-לֹהִים אֶת נֹחַ\""
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ראב\"ע:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה (ז' כ\"ד) ויגברו המים חמשים ומאת יום: בעבור שנבקעו המעינות, גם היה גשם יורד יום אחד ופוסק יום אחד כי פירוש (ז' ד) \"אנכי ממטיר על הארץ...\" – תמיד בלי הפסקה, והעד שאמר (ח' ב') \"ויכלא הגשם\".</span>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "ר' נפתלי הירץ ויזל, \"אמרי שפר\" (פירוש לבראשית י\"ל בחב' מקיצי נרדמים 1868, בליק), <a class=\"refLink\" href=\"/Genesis 8:1\" data-ref=\"Genesis 8:1\" data-ref=\"Genesis 8:1\" target=\"_blank\">פרק ח' </a><a class=\"refLink\" href=\"/Genesis 8:1\" data-ref=\"Genesis 8:1\" data-ref=\"Genesis 8:1\" target=\"_blank\">פסוק א'</a>:<br>ד\"ה ויזכר אלוקים את נח: השומע סבור שמקצה חמשים ומאת יום נזכר אלוקים את נח ואשר אתו בתיבה והעביר רוח ושכח תגבורת המים ואז נסגרו מעינות תהום וכלה הגשם מן השמים... והאמת הברור בעיני לסדר המקראות איננו כן, אלא אמר, שחתם בסיפור המבול ועד כמה גברו המים וכמה ימים עמדו בגבורתן, לספר על הסדר הצלת נח ואשר אתו בתיבה, ואיך נמשכו הדברים שפסק המבול וחסרו המים עד שיבשה הארץ, והחל \"ויזכור אלוקים את נח\", וזה היה מקץ ארבעים יום שירד הגשם ושגברו המים ט\"ו אמה מלמעלה לכל ההרים הגבוהים, שבאמצעות זה מחה את כל היקום ולא נשאר כי אם נח ואשר אתו, אז זכר את דבר קדשו. – לעשות קץ למטרות עוזו ולא חפץ שיגברו וירדו המים עוד על הארץ יותר להשחיתה, ואז \"ויעבר אלוקים רוח על הארץ\", והרוח הזה טיהר את השמים.."
+  },
+  {
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "קאסוטו, מנח עד אברהם (עמוד 55), <a class=\"refLink\" href=\"/Genesis 8:1\" data-ref=\"Genesis 8:1\" data-ref=\"Genesis 8:1\" target=\"_blank\">פרק ח' </a><a class=\"refLink\" href=\"/Genesis 8:1\" data-ref=\"Genesis 8:1\" data-ref=\"Genesis 8:1\" target=\"_blank\">פסוק א'</a>:<br>ד\"ה ויזכור: אין הכוונה שזכר לאחר שעברו אותם חמשים ומאת יום שעליהם מדובר בפסוק הקודם, שהרי נאמר אחר כך (ח' ב') \"ויסכרו מעינות תהום וארובות השמים ויכלא הגשם\", וזה שייך כמובן לסוף ארבעים היום של ירידת הגשם. \nהפירוש של פעלים אלו (\"ויזכר\", \"ויסכרו\", \"ויכלא\" כעבר מוקדם – וכבר מקודם זכר, וכבר מקודם נסכרו...) בודאי אינו נכון ואינו מתאים לטיב הלשון העברית, כמו שכבר ראינו... יש לפרש כאן כדוגמת הפירוש שכבר הצענו על היחס שבין מעשה בראשית (בראשית ו' א'-ב' ג') ומעשה גן עדן (בראשית ב' ד' – ג' כ\"ד): הנושא של הפִּסקה הקודמת הוא ענין גבורת המים על הארץ, והוא מסופר באותה פסקה עד סופו; ואילו פסקה חדשה זו עוסקת בענין אחר, התחלת ההצלה של שארית הפליטה, ומתחילה לספר אותו מראשיתו, אע\"פ שראשיתו קודם בזמן לסופו של הנושא המסופר למעלה."
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה הקושי בפסוקי פרקינו (פרקים ז'-ח') שרצו שלושת הפרשנים ליישב?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. היש בדבריהם שלושה יישובים שונים לקושי, או שניים?"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  כיצד מתפרשת מלת \"ויגברו\" שבסוף פרק ז' לפי כל אחד משלושתם?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "4. על מה מעיד לדעת הראב\"ע פסוק ב' שבפרק ח'?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "5.  מה הדמיון – לדעת קאסוטו – ביחס שבין פרק א' בבראשית לפרק ב,' ליחס שבין המסופר בפרשתנו בפרק ז' לפרק ח'?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "6. היכן מצאנו בפרשת בראשית שוב התייחסות כזו בין שני פרקים?"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "7.  נגד דרכו של איזה פרשן מכוונים דברי קאסוטו בפסקה \"הפירוש של פעלים אלו כעבר מוקדם...\", וכיצד אפשר להוכיח שאין פירוש זה מתאים לטיב השפה העברית?"
+  },
+  {
+   "node": 14,
+   "outsideText": "<table><tbody><tr><td><big>ב. למהות הזכירה</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:1",
+   "text": {
+    "en": "And God remembered Noah, and every living thing, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters assuaged;",
+    "he": "\"וַיִּזְכֹּר אֱ-לֹהִים אֶת נֹחַ וְאֵת כָּל הַחַיָּה וְאֶת כָּל הַבְּהֵמָה אֲשֶׁר אִתּוֹ בַּתֵּבָה\"<b></b>"
+   }
+  },
+  {
+   "node": 16,
+   "outsideText": "ראב\"ע"
+  },
+  {
+   "node": 17,
+   "outsideText": ", בפירושו בשיטה אחרת (הוצאת מ' פרידלנדר Ibn Ezra Literature IV, page 52):"
+  },
+  {
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 8:1\" data-ref=\"Genesis 8:1\" target=\"_blank\">פסוק א'</a></span><br><span style=\"color: rgb(51,51,51);\">חלילה להיות שכחה לקטן שבמלאכי השרת, אף כי ליוצר הכל, שאין שכחה נגדו. וככה אמר המשורר (<a class=\"refLink\" href=\"/Psalms 94:9\" data-ref=\"Psalms 94:9\" target=\"_blank\">תהלים צ\"ד ט'</a>) \"הנוטע אוזן הלא ישמע\" רק כאשר תראה טובת השם בארץ ידבר הכתוב, כי זכר אשר הטיב לו בא לפני השם.</span>"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ח׳:א׳:א׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 8:1:1",
+   "text": {
+    "en": "\"and Elokim remembered Noah and all the animals\" - The remembrance of Noah was because he was righteous and whole and God established a covenant to save him. And, Noah includes his offspring who were with him there, they (the offspring) were not mentioned because they were saved through his (Noah's) merit.  However, the remembering of the domestic and wild animals is not because of some merit. This is because of all the possessors of souls, only mankind has merit and fault. Rather, the remembrance of them (domestic and wild animals)is that He remembered His own holy words that He spoke and the world came into being. Additionally, the desire to create the world which He had, came before Him and He desired the existence of the world and the species He had created in it. He therefore acted to take them out, as they could not persist in the ark. He did not remember the birds and the fish because the remembrance of the land mammals included them. ",
+    "he": "ד\"ה ויזכור אלוקים את נח ואת כל החיה ואת כל הבהמה: הזכירה בנח מפני שהיה צדיק תמים וכרת לו ברית להצילו, ונח יכלול זרעו אשר אתו שם, ולא הזכירם כי בזכותו נצלו. אבל הזכירה שאמר בחיה ובבהמה אינה בזכות, שאין בבעלי נפש זכות או חובה זולתי באדם לבדו, אבל הזכירה בהם, כי זכר את דבר קדשו, שאמר והיה העולם, והרצון אשר לו בבריאת העולם עלה לפניו ורצה קיום העולם בענין אשר ברא בו, והנה ראה עתה להוציאם, שלא יכלו בתיבה, ולא הזכיר העוף והשרץ, כי זכירת החיה שוה עמהם, ויגיד עליו רעו."
+   }
+  },
+  {
+   "heRef": "רבנו בחיי, בראשית ח׳:א׳:א׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rabbeinu Bahya, Bereshit 8:1:1",
+   "text": {
+    "en": "ויזכר אלוקים את נח, “G-d remembered Noach, etc.” It would have been more appropriate for the Torah to write that “G-d remembered Noach and his sons, etc.” After all, we know that they too were beneficiaries of His presence since the Torah wrote in 9,8 “G-d spoke to Noach and to his sons, etc.” Why then did the Torah here mention only Noach as the one to whom G-d spoke? It is possible to understand the word את in front of the word נח as a reference to his sons. This would certainly not be the first time that the word  את is used as a רבוי, a word which alludes to something additional which the Torah had not spelled out in detail. Seeing that Noach’s sons were extensions of his own self, the Torah did not see fit to mention them separately at this stage. We find a similar occurrence in Exodus 1,1 where the Torah mentions את יעקב, and Shemot Rabbah interprets the word את as a reference to all the people who descended to Egypt because they were “extensions” of Yaakov. This meant that sons and wives were automatically included in the people whose fate G-d had “remembered.” As to the fact that the Torah specifically refers to the animals and all other creatures in the Ark with Noach,  something which at first glance makes it appear as if their fates were of greater concern to G-d than that of Noach’s wife, his sons and their wives, this is not so. We distinguish between השגחה כללית, and השגחה פרטית, G-d’s general overall concern and supervision of their fate, and G-d’s specific individual supervision of someone’s fate. Whereas the animals, etc., qualified for G-d’s general concern, Noach and his family qualified for G-d’s specific concern. Hence the word את is an indication that G-d’s specific concern extended also to the members of Noach’s family. <br>Alternatively, the reason Torah chose to mention G-d’s concern for the domestic beasts and the free-roaming animals was to draw our attention to the fact that He displayed no such concern for the birds; hence the birds are not mentioned in this verse. The reason may have been that seeing that the mammals were all created on the sixth day of creation, i.e. the same day as man, they shared special consideration by G-d with man; the birds which had been created already on the fifth day did not enjoy this distinction. This may also be reflected in the wording אשר אתו בתיבה “who were with him in the Ark.” The Torah wanted to stress that there was something that man and the other mammals shared to the exclusion of other phenomena on earth, namely G-d’s especial concern for their fates. It is noteworthy that the same word את occurs in the narrative of the Torah when it describes both man’s and the mammal’s creation on the sixth day. Please compare Genesis 1,24-25. The words אשר אתו in our verse here may be an allusion to that verse in 1,24.",
+    "he": "ד\"ה ויזכור אלוקים את נח ואת כל החיה: להורות שכולן שוים בהשגחה כללית."
+   }
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' יוסף אבן כספי, מצרף לכסף:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ויזכור אלוקים את נח ואת כל החיה: חלילה שיהיה זכירת השם לנח האיש הצדיק, וזכירתו יתברך לחיה ולבהמה על מדרגה אחת; וגם בזה צריכין אנו למודע, רצוני לומר, ההגיון, ויותר נמרץ מזה אמרו עוד בחיה ובבהמה \"כריתת ברית\", וכל זה מבואר לבעלי העיניים.</span>"
+  },
+  {
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מנח עד אברהם, עמוד 56:</span><br><span style=\"color: rgb(51,51,51);\">זכירה זו דומה למה שכתוב להלן על שרה (<a class=\"refLink\" href=\"/Genesis 21\" data-ref=\"Genesis 21\" target=\"_blank\">בראשית כ\"א</a>) \"וה' פקד את שרה כאשר אמר ויעש ה' לשרה כאשר דבר... למועד אשר דבר אותו אלוקים\". הפקידה כאן פירושה עשייה, כמו שיוצא ברור מן התקבולת פקד-ויעש, ודוקא עשיה במועד הקבוע מראש, והוא הדין לזכירת נח, שהרי הפקידה והזכירה הם מושגים נרדפים זה לזה, כפי מה שבישר ה' לנח מראש, כך עשה. אמר לו שירידת המבול תמשך ארבעים יום ובסוף ארבעים יום שם קץ לירידת מי המבול.</span>"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה הם הקשיים שמיישב כל אחד מן הפרשנים הנ\"ל?"
+  },
+  {
+   "node": 24,
+   "outsideText": "<table><tbody><tr><td><big>ג. לשון \"עד\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:ז׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:7",
+   "text": {
+    "en": "And he sent forth a raven, and it went forth to and fro, until the waters were dried up from off the earth.",
+    "he": "\"וַיְשַׁלַּח אֶת הָעֹרֵב וַיֵּצֵא יָצוֹא וָשׁוֹב עַד יְבֹשֶׁת הַמַּיִם\"<b></b>"
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אבן כספי, מצרף לכסף:</span><br><span style=\"color: rgb(51,51,51);\">עד יבושת המים: ידוע בעברי ובהגיון מטבע תחת ההפכיות כי הגבילנו ענין מה בלשון \"עד\" אינו מחייב ואינו מונע דבר מן הגבול והלאה, ויפורש כל אחד לפי מקומו והכל תלוי בבורר, זה פורש לחיים וזה פורש למיתה.</span>"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה הקושי שרצה ליישב?"
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ד. קרבן נח</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית רבה ל״ד:ו׳",
+   "node": 29,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Bereshit Rabbah 34:6",
+   "text": {
+    "en": "Another opinion: 'To everything there is a season, and a time to every purpose (Eccl. 3:1): there was a time for Noah to enter the ark, as it is written: 'come you and all your house into the ark (Gen. 7:1), and a time for him to leave it: Go forth from the Ark. This may be compared to an administrator/parnas who departed for a certain spot, putting someone in his place. When he returned, he said to the other, ‘Leave your position.’ This may be compared to a scribe/sofer who departed for a certain spot, putting someone in his place. When he returned, he said to the other, ‘Leave your position.’ So too Noach: 'go forth from the ark'. But he [Noach] did not accept the order to go out, saying, ‘Am I to go out and be fruitful and multiply for a curse?’ Until the Holy One, blessed be He, swore to him that He would not bring another flood upon the world, as it says, 'For this is the waters of Noach to Me; for as I have sworn that the waters of Noach should no more go over the earth (Isa. 54:9)'",
+    "he": "(<a class=\"refLink\" href=\"/Genesis 8:16\" data-ref=\"Genesis 8:16\" target=\"_blank\">פסוק ט\"ז</a>) \"צא מן התיבה\", כתיב (<a class=\"refLink\" href=\"/Ecclesiastes 3\" data-ref=\"Ecclesiastes 3\" target=\"_blank\">קהלת ג'</a>) \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קיבל עליו לצאת, אמר: אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם, שנאמר (<a class=\"refLink\" href=\"/Isaiah 54\" data-ref=\"Isaiah 54\" target=\"_blank\">ישעיה נ\"ד</a>) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח\"."
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "א. מה רמז מצא המדרש בפסוקים לסירובו זה של נח?"
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב. מה סמך מצא המדרש לדבריו ב<a class=\"refLink\" href=\"/Isaiah 54\" data-ref=\"Isaiah 54\" target=\"_blank\">ישעיה נ\"ד</a>? העזר בישעיה מ\"ח!"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ג. לשם מה בחר המדרש במשלו ב\"פרנס\"?"
+  },
+  {
+   "node": 33,
+   "outsideText": "השווה את שני המדרשים הבאים:"
+  },
+  {
+   "heRef": "בראשית רבה ל״ד:ט׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 34:9",
+   "text": {
+    "en": "",
+    "he": "(<a class=\"refLink\" href=\"/Genesis 8:20\" data-ref=\"Genesis 8:20\" target=\"_blank\">פסוק כ'</a>) \"ויבן נח מזבח לה' ויקח מכל הבהמה הטהורה ומכל העוף הטהור ויעל עולות במזבח\". \n\"ויבן\" כתיב – נתבונן: אמר: מפני מה ציווני הקב\"ה וריבה בטהורים יותר מן הטמאים? אלא להקריב מהן קרבן. מיד \"ויקח מכל הבהמה הטהורה ומכל העוף הטהור...\"."
+   }
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פרקי דר' אליעזר כ\"ג:</span><br><span style=\"color: rgb(51,51,51);\">ישב נח ודרש בלבו ואמר: הקב\"ה הצילני ממי המבול והוציאני ממסגר ההוא ואיני חייב להקריב לפניו קרבן עולות? מיד הביא נח ממין בהמה טהורה שור וכבש ועז וממין עוף טהור תורים ובני יונה... ובנה את המזבח הראשון שהקריב עליו עולות קין והבל.</span>"
+  },
+  {
+   "node": 36,
+   "outsideText": "מה ההבדל בין שני המדרשים בתפישת העולה שהעלה נח?"
+  },
+  {
+   "heRef": "בראשית רבה ל״ד:ט׳",
+   "node": 37,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Bereshit Rabbah 34:9",
+   "text": {
+    "en": "",
+    "he": "(<a class=\"refLink\" href=\"/Genesis 8:21\" data-ref=\"Genesis 8:21\" target=\"_blank\">פסוק כ\"א</a>) \"וירח ה' את ריח הניחוח\" הריח ריחו של אברהם אבינו עולה מכבשן האש, וירח ריח של חנניה מישאל ועזריה עולין מכבשן האש; משל לאוהבו של מלך שכיבדו ושלח לו דורן נאה – דסקוס נאה, ועמד בנו ולא כיבדו. עמד בן בנו וכיבדו. אמר לו: \"מה דמי דורון דידך לדורון דסבך?\" וירח ה' את ריח הניחוח\" הריח ריחו של דורן של שמד."
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "א. מה משמעותו של \"קרבן\" לפי המדרש הזה?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב. מה מובנו של המשל על האב ובנו ובן בנו?"
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ג. מהו הקושי בפסוקנו שעליו בנוי המדרש?"
+  }
+ ],
+ "ssn": 275,
+ "status": "public",
+ "summary": "1962 (תשכ\"ב)<br><a href=\"http://www.nechama.org.il/pdf/275.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"ב - אחר המבול",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

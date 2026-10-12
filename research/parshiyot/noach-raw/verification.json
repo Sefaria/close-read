@@ -1,0 +1,231 @@
+{
+ "checked_at": "2026-10-12",
+ "live_completeness": {
+  "method": "curl -A \"Sefaria/close-read\" https://www.sefaria.org/api/sheets/user/54380/ ; filter topics[].slug==\"parashat-noach\", and separately title contains \"פרשת נח\".",
+  "live_total_sheets_user_54380": 1455,
+  "tagged_ids_equal_snapshot": true,
+  "title_ids_equal_tagged": true,
+  "tagged_count": 30
+ },
+ "live_content_match": {
+  "method": "sha256 over sources[] tuples (ref, outsideText, outsideBiText.he/en, text.he/en), json.dumps(ensure_ascii=False, separators=(\",\",\":\")), live API vs raw snapshot.",
+  "live_sha256": {
+   "160443": "c8720d74b228d7a969dce0104576394df866ed3fae1766d67a8e310305814b10",
+   "160445": "ffab3f0c65ef9387432ff4c31ddaa6a7ef2fefde19ac154f82546a71b5554172",
+   "160481": "b3f2536a43458f642f997f0d899fa8fbedb0e202beef7e0924978c06d481baa8",
+   "160496": "1c6e6407510c034c4766a0f264b36f1b147b293c8c493f0dd442e2a61dd18edb",
+   "160533": "13224d85abea56a747d71994f023b8432ea56989fe796d5970f3ac43740d09af",
+   "160578": "e1f664a00608439e9a98971de1fd937cd0ee1407ff266e8a7582fb5dab286e92",
+   "160639": "498b2e8f68436e3e4937b989f496dbe557ecc734edb4a62fa51ab33a891dc7fe",
+   "160700": "9a4dbf1966edb815a213195dd123bf482a2e19b793659a5ca03aa7fd70a08415",
+   "160727": "f1c1c915de97102e7e49af4188d6f7b7e3fa2e09d0530ac07b41e6a9fc44f908",
+   "160824": "c1edb287e60e404230fc3a3d7f567ae042c630537057287abf3ae09dc0254009",
+   "161105": "0edc91cea2275d1dc0d5eb3e49be34d1e1d476ccfd78f81fa257c9c7ab220bea",
+   "161147": "b7a3e70f3208d61357898e6dc18a07bb476ff7ddec94ba2f421d9fb35f5bca79",
+   "161181": "5c4cedf93808a660b82b74b40b88f581f2a1415b423f6bc50f02532d74b01201",
+   "161235": "72d2970093018ab204a3ec5556c36c3c4916ad5442f7088e4e69c66927becd94",
+   "161275": "bd06095a7f175a4fb8b33a0d3243900c17e06647c47d58e645fb4578c8bc259b",
+   "161301": "dacf9fccd8ce03b1878e8d2fe285b851b4fe2150b830665145678b0b8e5c4afb",
+   "161402": "98b83eff438eee9da2fea4916892a92ab8985983ae7e5c4868ac2738be1e77d1",
+   "161440": "bac220940118365a4d226ef87a734bbdbd95b0d8fde24985229d92251f3eb27f",
+   "161472": "c02e707bf189594a4c142bcc418b648473ea62e2c46a284d9d56a7fe4840b223",
+   "161496": "a0a51619319de4e31fe3ba1bb58f691844c0b6d437b67cc1b1820280894f0d6d",
+   "161548": "455a5717ffa171e781c655f06b6760d86c43e7f57665493127e9bfdf8fcd4cd7",
+   "161581": "01e05a0333c166e4d315c8cd8720d0776e98c3f82b4b15507a964382db74e386",
+   "161686": "aef129636ee088de713ca269c84c7fb0c7e4d3f975fda2fdb3162d6ab82b47bd",
+   "161721": "bccd9a8a6796b439ce46c68461117d57568c8b488ed273c2080c14f81979ed95",
+   "161777": "5dc532085c4883105f88359511a20c961908ad78b24c12b421bd8a52b31945a9",
+   "161835": "216605c1968174039809024615fe5453d83f071af536ac76306f227c19a9e996",
+   "161881": "a926da621095c3f0a1c6bf2bb486155d9090dac5b2a0e664ec181c48b5bab090",
+   "161942": "1975c7d2a7c7efad3db0fc55af8383ac41c75310f46f171dcdd654111c562b88",
+   "162001": "a87b6cc39cb629c98c11d35f8fee68cec55e1a7b4e12ace719d7de46f5cf3d91",
+   "162070": "891f8465213476655706d8b86f4758342742f2ab1412d6d027792c018bb183f3"
+  },
+  "result": "30/30 match"
+ },
+ "original_pdfs": {
+  "method": "curl https://www.nechama.org.il/pdf/<n>.pdf (URL from each sheet summary). PDFs are NOT committed (rights); sha256 recorded.",
+  "files": {
+   "160443": {
+    "pdf_url": "https://www.nechama.org.il/pdf/3.pdf",
+    "bytes": 276922,
+    "is_pdf": true,
+    "sha256": "9f77eba66af8fb72472ecf8861411293ae1409fafb3c73da7ebdacce6f135af4"
+   },
+   "160445": {
+    "pdf_url": "https://www.nechama.org.il/pdf/5.pdf",
+    "bytes": 218722,
+    "is_pdf": true,
+    "sha256": "82dbb13dd27c7a167f2a2522158b170d6c1afb9ee2835665cd7805d31126796e"
+   },
+   "160481": {
+    "pdf_url": "https://www.nechama.org.il/pdf/43.pdf",
+    "bytes": 351994,
+    "is_pdf": true,
+    "sha256": "73e4214ecd04d09c04be80cb2c04b15769c9e774e642ce73cdd97ed9b48ead56"
+   },
+   "160496": {
+    "pdf_url": "https://www.nechama.org.il/pdf/63.pdf",
+    "bytes": 296069,
+    "is_pdf": true,
+    "sha256": "9a9ef1e737124dcf537a0a470fc7c9810807981985f2d35bce5de6dc5d8de2d9"
+   },
+   "160533": {
+    "pdf_url": "https://www.nechama.org.il/pdf/102.pdf",
+    "bytes": 262883,
+    "is_pdf": true,
+    "sha256": "893bd132934d64473ce52b701ee6ed227ee2d14bc0ec22a2c1103938194c13c4"
+   },
+   "160578": {
+    "pdf_url": "https://www.nechama.org.il/pdf/149.pdf",
+    "bytes": 456518,
+    "is_pdf": true,
+    "sha256": "5d6292eaa8036e1f880b19db229734c55cf500e0b9d21c50e2717a46cfa9cf32"
+   },
+   "160639": {
+    "pdf_url": "https://www.nechama.org.il/pdf/213.pdf",
+    "bytes": 270726,
+    "is_pdf": true,
+    "sha256": "861180b58a745b0640a32ed71908ed9d39425e0217097d941c3d420c3a0b4f59"
+   },
+   "160700": {
+    "pdf_url": "https://www.nechama.org.il/pdf/275.pdf",
+    "bytes": 314155,
+    "is_pdf": true,
+    "sha256": "c44c21aa505186e9b371ab3c751c1e8c5da2161259de52ccd0f8274012e58a14"
+   },
+   "160727": {
+    "pdf_url": "https://www.nechama.org.il/pdf/303.pdf",
+    "bytes": 425003,
+    "is_pdf": true,
+    "sha256": "438b5665c326d4f837be8c2cf68071d41ed9fa9c1d97cc34143b9b5c0054c571"
+   },
+   "160824": {
+    "pdf_url": "https://www.nechama.org.il/pdf/379.pdf",
+    "bytes": 283831,
+    "is_pdf": true,
+    "sha256": "b61337b086a011d4c05f71917218bdca751d37b85f6da05c7bd5879f6031810c"
+   },
+   "161105": {
+    "pdf_url": "https://www.nechama.org.il/pdf/452.pdf",
+    "bytes": 307912,
+    "is_pdf": true,
+    "sha256": "28965ee25e348ac87858bf1f43bb68709c39266629e24e8d0cf041b323aa4c08"
+   },
+   "161147": {
+    "pdf_url": "https://www.nechama.org.il/pdf/494.pdf",
+    "bytes": 1184470,
+    "is_pdf": true,
+    "sha256": "dbf29dc85765b7d09e35eeb9df8f0c5024f186002d9ca2bdb911457b00761b67"
+   },
+   "161181": {
+    "pdf_url": "https://www.nechama.org.il/pdf/528.pdf",
+    "bytes": 365223,
+    "is_pdf": true,
+    "sha256": "c3020a67f73db0a57ca49b7409cee26b5bc523d02b83275fdd6f4fe9f297ffcf"
+   },
+   "161235": {
+    "pdf_url": "https://www.nechama.org.il/pdf/583.pdf",
+    "bytes": 329276,
+    "is_pdf": true,
+    "sha256": "041071b6aaabd6550eb95dfe337b69ecfd7812a5498546bfcf5a69a6fa0d791d"
+   },
+   "161275": {
+    "pdf_url": "https://www.nechama.org.il/pdf/623.pdf",
+    "bytes": 344327,
+    "is_pdf": true,
+    "sha256": "3851ca3a219ce4e4678a8745c71426674521c20c612275d1e69e3ee3408e6903"
+   },
+   "161301": {
+    "pdf_url": "https://www.nechama.org.il/pdf/650.pdf",
+    "bytes": 160476,
+    "is_pdf": true,
+    "sha256": "8d417b9ff7c5da2e7ce05efc273b098f70dabbe09d3bbed1d3ae76685bddba3b"
+   },
+   "161402": {
+    "pdf_url": "https://www.nechama.org.il/pdf/751.pdf",
+    "bytes": 115539,
+    "is_pdf": true,
+    "sha256": "9d21456fddb6a7299a9446557338ac98ffba3b712992a1e8e9c0ece3f3e3e2e4"
+   },
+   "161440": {
+    "pdf_url": "https://www.nechama.org.il/pdf/789.pdf",
+    "bytes": 202542,
+    "is_pdf": true,
+    "sha256": "66968d69d7031cabad468e6371ec4a8d0123d016eaddd68cea0f76f5120ef09e"
+   },
+   "161472": {
+    "pdf_url": "https://www.nechama.org.il/pdf/821.pdf",
+    "bytes": 163915,
+    "is_pdf": true,
+    "sha256": "094a41a23c5e69811ea13dcad0ff54199ffd1d5372fc2e0fe75e6c7876fab4ea"
+   },
+   "161496": {
+    "pdf_url": "https://www.nechama.org.il/pdf/845.pdf",
+    "bytes": 186184,
+    "is_pdf": true,
+    "sha256": "6717580d6386ccfa379fbd80296c58947fa5a47ab213a16f37d73c85241117dd"
+   },
+   "161548": {
+    "pdf_url": "https://www.nechama.org.il/pdf/897.pdf",
+    "bytes": 189992,
+    "is_pdf": true,
+    "sha256": "e627a517ea63ec8cba76d5d4101db428bf132b47b7b726926c1943c7a4154b2d"
+   },
+   "161581": {
+    "pdf_url": "https://www.nechama.org.il/pdf/930.pdf",
+    "bytes": 111619,
+    "is_pdf": true,
+    "sha256": "18e29f95555d765140e357ba6162096449788f9c8799ce5a246130150d545f7a"
+   },
+   "161686": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1035.pdf",
+    "bytes": 416040,
+    "is_pdf": true,
+    "sha256": "82288c6e9f24b48e1514d76b62a3bbc2a9cd321595a23d5ac90a404ff204b63a"
+   },
+   "161721": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1070.pdf",
+    "bytes": 121358,
+    "is_pdf": true,
+    "sha256": "e3d591281bac4fac9d1eb2d1b5ed08cadcfa1073455be1a1b1c5d103e2d2bf73"
+   },
+   "161777": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1126.pdf",
+    "bytes": 129710,
+    "is_pdf": true,
+    "sha256": "fcb8b06fb7a1d808f79b02993eebffd52164fedc4cf0e8b3af29c318e3ad0488"
+   },
+   "161835": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1184.pdf",
+    "bytes": 146014,
+    "is_pdf": true,
+    "sha256": "79e136e400a8a54bac9adde4df3095abf7466aef975b6b93cd192df5f9ae64fb"
+   },
+   "161881": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1230.pdf",
+    "bytes": 122732,
+    "is_pdf": true,
+    "sha256": "ad7c1adc8065b8373905b4d1c9b3033117bbff89d2d00b93a5da9e10b12cd6c6"
+   },
+   "161942": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1292.pdf",
+    "bytes": 140031,
+    "is_pdf": true,
+    "sha256": "7bfdb9c13090ce2bfb577883b53f2f0d76592b28ad031f37fa88f43b79880416"
+   },
+   "162001": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1352.pdf",
+    "bytes": 95960,
+    "is_pdf": true,
+    "sha256": "a9053c8278cb291e1620016070cebbbe17ad214f6585e0778bf5c83c64ce20f8"
+   },
+   "162070": {
+    "pdf_url": "https://www.nechama.org.il/pdf/1421.pdf",
+    "bytes": 282464,
+    "is_pdf": true,
+    "sha256": "7a18e105f72ddebb10788b8d57594455526e86f57765f179f0252fbacc071a42"
+   }
+  }
+ }
+}

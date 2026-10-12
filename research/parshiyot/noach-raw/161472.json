@@ -1,0 +1,429 @@
+{
+ "dateCreated": "2019-03-06T05:27:45.553169",
+ "dateModified": "2019-03-07T02:14:01.769790",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 8:7",
+  "Genesis 8:1",
+  "Genesis 8:13",
+  "Rashi on Genesis 8:14:2",
+  "Rashbam on Genesis 19:13:1",
+  "Bereshit Rabbah 33:6",
+  "Ramban on Genesis 8:1:1",
+  "Rashi on Genesis 8:8:2",
+  "Genesis 8:15",
+  "Ibn Ezra on Genesis 8:1:2",
+  "Genesis 8:9",
+  "Genesis 8:8",
+  "Rashi on Genesis 8:1:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161472,
+ "includedRefs": [
+  "Genesis 8:1",
+  "Rashi on Genesis 8:1:2",
+  "Ramban on Genesis 8:1:1",
+  "Ibn Ezra on Genesis 8:1:2",
+  "Genesis 8:9",
+  "Bereshit Rabbah 33:6",
+  "Genesis 8:15",
+  "Genesis 8:7",
+  "Genesis 8:8",
+  "Rashbam on Genesis 19:13:1",
+  "Rashi on Genesis 8:8:2",
+  "Genesis 8:13",
+  "Rashi on Genesis 8:14:2"
+ ],
+ "nextNode": 40,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "הערה: לפסוק כ\"א עיין גיליון <a class=\"refLink\" href=\"/sheets/161548\" data-ref=\"sheet.161548\" target=\"_blank\">נח תש\"ו</a> שהיה מוקדש כמעט כולו לפסוק זה. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. \"ויזכור אלוהים\" וכו'</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:א׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:1",
+   "text": {
+    "en": "And God remembered Noah, and every living thing, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters assuaged;",
+    "he": "\"וַיִּזְכֹּר אֱ-לֹהִים אֶת נֹחַ וְאֵת כָּל הַחַיָּה וְאֶת כָּל הַבְּהֵמָה אֲשֶׁר אִתּוֹ בַּתֵּבָה\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:א׳:ב׳",
+   "node": 4,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:1:2",
+   "text": {
+    "en": "‘ויזכור אלהים את נח וגו AND GOD REMEMBERED NOAH etc. — What did He remember regarding the cattle? The merit that no perversion of their way had been seen amongst them previously to the Flood, and that they lived apart in the Ark.",
+    "he": "ד\"ה ויזכר אלוהים את נח וגו': מה זכר להם לבהמות זכות שלא השחיתו דרכם קודם לכן ושלא שימשו בתיבה."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ח׳:א׳:א׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 8:1:1",
+   "text": {
+    "en": "\"and Elokim remembered Noah and all the animals\" - The remembrance of Noah was because he was righteous and whole and God established a covenant to save him. And, Noah includes his offspring who were with him there, they (the offspring) were not mentioned because they were saved through his (Noah's) merit.  However, the remembering of the domestic and wild animals is not because of some merit. This is because of all the possessors of souls, only mankind has merit and fault. Rather, the remembrance of them (domestic and wild animals)is that He remembered His own holy words that He spoke and the world came into being. Additionally, the desire to create the world which He had, came before Him and He desired the existence of the world and the species He had created in it. He therefore acted to take them out, as they could not persist in the ark. He did not remember the birds and the fish because the remembrance of the land mammals included them. ",
+    "he": "ד\"ה ויזכר אלוהים את נח ואת כל החיה: ...אבל הזכירה שאמר בחיה ובבהמה אינה בזכות, שאין בבעלי נפש זכות או חובה זולתי באדם לבדו. אבל הזכירה בהם, כי זכר את דבר קדשו שאמר והיה העולם, והרצון אשר לו בבריאת העולם עלה לפניו ורצה בקיום העולם במינין אשר ברא בו, והנה ראה עתה להוציאם שלא יכלו בתיבה."
+   }
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה הקושי שרצו שניהם לתרץ?"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  מה ההבדל שבין שני הפירושים?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ג.   מצא פסוק אחר בפרשתנו (<a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">בפרק ו'</a>) שגם בפירושו מצינו אותו הבדל עקרוני בין <b>רש\"י</b> ל<b>רמב\"ן</b> שאנו מוצאים כאן."
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ד.  התוכל למצוא תשובה <b>אחרת</b> לשאלתם (א') בעזרת הפסוקים הבאים: <a class=\"refLink\" href=\"/Psalms 36:7\" data-ref=\"Psalms 36:7\" target=\"_blank\">תהלים ל\"ו ז'</a>; <a class=\"refLink\" href=\"/Psalms 145:9\" data-ref=\"Psalms 145:9\" target=\"_blank\">תהלים קמ\"ה ט'</a>; <a class=\"refLink\" href=\"/Jonah 4\" data-ref=\"Jonah 4\" target=\"_blank\">יונה סוף פרק ד'</a>."
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ח׳:א׳:ב׳",
+   "node": 10,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Genesis 8:1:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ואת כל החיה: כלל לחית השדה ולעוף השמים ולכל שורץ על הארץ."
+   }
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה קשה לו?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ב.  מהי חולשת פירושו?"
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ב. היציאה מן התיבה</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:ט׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:9",
+   "text": {
+    "en": "But the dove found no rest for the sole of her foot, and she returned unto him to the ark, for the waters were on the face of the whole earth; and he put forth his hand, and took her, and brought her in unto him into the ark.",
+    "he": "\"וְלֹא מָצְאָה הַיּוֹנָה מָנוֹחַ לְכַף רַגְלָהּ וַתָּשָׁב אֵלָיו\" \n"
+   }
+  },
+  {
+   "heRef": "בראשית רבה ל״ג:ו׳",
+   "node": 15,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Bereshit Rabbah 33:6",
+   "text": {
+    "en": "And again [Noach] sent forth the dove out of the ark . . . And the dove came in at evening, and here, an olive leaf torn off in her mouth” [Gn 8:11]. “An olive leaf torn off in her mouth”—From where did she bring it? R’ Bibi said: The gates of Gan Eden were opened for her, and from there she brought it. Said R’ Abahu: Had she brought it from Gan Eden, couldn’t she bring something special, cinnamon or balsam? But she gave [Noach] a hint, and said to Noach: Better is bitterness from this and not sweetness from beneath your hand.",
+    "he": "ר' יהודה בר' נחמן בשם ר\"ש אומר: אילו מצאה מנוח לא היתה חוזרת. וכדכוותיה ( = וכיוצא בו): (<a class=\"refLink\" href=\"/Lamentations 1\" data-ref=\"Lamentations 1\" target=\"_blank\">איכה א'</a>) \"היא ישבה בגויים לא מצאה מנוח\" – אילו מצאה מנוח, לא היו חוזרים. וכדכוותיה: (<a class=\"refLink\" href=\"/Deuteronomy 25\" data-ref=\"Deuteronomy 25\" target=\"_blank\">דברים כ\"ח</a>) \"ובגויים האלה לא תרגיע ולא יהיה מנוח לכף רגלך\" - הא אילו מצאו מנוח לא היו חוזרים."
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   הסבר מהו המובן הסמלי הניתן ע\"י חז\"ל כאן למעוף היונה ולחזירתה לתיבה."
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  הבא דוגמאות לרעיון זה מקורות עמנו."
+  },
+  {
+   "heRef": "בראשית ח׳:ט״ו",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:15",
+   "text": {
+    "en": "And God spoke unto Noah, saying:",
+    "he": "\"וַיְדַבֵּר אֱ-לֹהִים אֶל נֹחַ לֵאמֹר צֵא מִן הַתֵּבָה\" \n"
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. אגדת בראשית פרק ז' \"צא מן התיבה\":<br>זהו שאמר הכתוב (<a class=\"refLink\" href=\"/Ecclesiastes 8\" data-ref=\"Ecclesiastes 8\" target=\"_blank\">קהלת ח'</a>): \"אני פי מלך שמור\" - כשנכנס נח לתיבה, ברשותו של הקב\"ה נכנס, שנאמר (ז): \"ויאמר ה' לנח: בא אתה וכל ביתך אל התיבה\". כיון שיבשה הארץ ונחה התיבה על הרי אררט, אמרו לו בניו: נצא מכאן. אמר להם: חס ושלום! ברשותו של הקב\"ה נכנסנו וברשותו אנו יוצאים. כיון ששמע הקב\"ה כך, מיד \"וידבר אלוהים אל נח צא מן התיבה...\". לכך נאמר: \"אני פי מלך שמור\". "
+  },
+  {
+   "node": 20,
+   "outsideText": "(פרופ' הינמן: דרכי האגדה 86 מעיר, שפילון משבח את נח, מפני שלא יצא טרם שנצטוה)."
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">תנחומא ישן פרשת נח י\"ד:</span><br><span style=\"color: rgb(51,51,51);\">\"בעשירי באחד לחדש נראו ראשי ההרים\" ולא יצא משם אלא המתין בתיבה, כדי ליתן לו רשות. אמר לו הקב\"ה: \"רשות אתה מבקש?! צא מן התיבה!\". אמר ר' יהודה בר אילעי: אילו הייתי שם הייתי שובר את התיבה ויוצא לי משם.</span>"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה ההבדל העקרוני בין שתי ההשקפות המבוטאות בשני מדרשים אלה?"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  מה מסומל בבני נח ובטענתם במדרש אגדת בראשית?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ג.   הידועים לך מדרשים ומאמרי חז\"ל הנותנים אף הם ביטוי להשקפה הכלולה בדברי התנחומא דלעיל?"
+  },
+  {
+   "node": 25,
+   "outsideText": "<table><tbody><tr><td><big>ג. שאלות לשון וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 26,
+   "outsideText": "השווה:"
+  },
+  {
+   "heRef": "בראשית ח׳:ז׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:7",
+   "text": {
+    "en": "And he sent forth a raven, and it went forth to and fro, until the waters were dried up from off the earth.",
+    "he": "\"וַיְשַׁלַּח אֶת הָעֹרֵב\""
+   }
+  },
+  {
+   "heRef": "בראשית ח׳:ח׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:8",
+   "text": {
+    "en": "And he sent forth a dove from him, to see if the waters were abated from off the face of the ground.",
+    "he": "\"וַיְשַׁלַּח אֶת הַיּוֹנָה <b>מֵאִתּוֹ</b>\""
+   }
+  },
+  {
+   "node": 29,
+   "outsideText": "הסבר את סיבת השינוי בסגנון."
+  },
+  {
+   "node": 30,
+   "outsideText": "<p class=\"bible\">\"וַיְשַׁלַּח אֶת הַיּוֹנָה\"</p>"
+  },
+  {
+   "node": 31,
+   "outsideText": "הסבר למה לא השתמשה התורה כאן בלשון קל וישלח במקום פיעל, והלא \"כל לשון שליחות של שלוחים\" בבנין קל היא נאמרת. וכן <a class=\"refLink\" href=\"/Genesis 32:4\" data-ref=\"Genesis 32:4\" target=\"_blank\">בראשית ל\"ב ד'</a>; <a class=\"refLink\" href=\"/Genesis 17:13\" data-ref=\"Genesis 17:13\" target=\"_blank\">י\"ז י\"ג-י\"ד</a>; <a class=\"refLink\" href=\"/Genesis 46:28\" data-ref=\"Genesis 46:28\" target=\"_blank\">מ\"ו כ\"ח</a>."
+  },
+  {
+   "heRef": "רשב\"ם על בראשית י״ט:י״ג:א׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashbam on Genesis 19:13:1",
+   "text": {
+    "en": "וישלחנו, although in other instances when the word שלח is used it never has a dagesh, reinforcing it, here, seeing the dispatch of these angels was not in order to assist, but in order to destroy, this is indicated by the change in the mode and reinforcing the word with the dot in the letter ל. We find another example of this construction in a similar context in Deut. 32,24, ושן בהמות אשלח בם, “the teeth of beasts I will set loose against them,” where the verb שלח is also used destructively. The same is true of Psalms 78,45, ישלח בהם ערב “He dispatched ferocious beasts against them.” ",
+    "he": "ד\"ה וישלחנו: משקל דגש. ואע\"פ שכל שליחות של שלוחים החוזרים כתיב בהם וישלח משקל רפי, כאילו כתב משקל דגש. לפי שהוא שילוח של השחתה כדכתיב ושן בהמות אשלח בם; ישלח בהם ערוב."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:ח׳:ב׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:8:2",
+   "text": {
+    "en": "וישלח And HE SENT FORTH — This does not mean merely “sending on an errand”, but “sending away”, “letting go” — he freed her to go where she liked, and thus he could see whether the waters abated, because if she could find a resting place she would not return to him.",
+    "he": "העזר בתשובתך בדברי רש\"י, כאן:<br>ד\"ה וישלח: אין זה לשון שליחות אלא לשון שילוח - שלחה ללכת לדרכה ובזו יראה אם קלו המים שאם תמצא מנוח לא תשוב אליו."
+   }
+  },
+  {
+   "node": 34,
+   "outsideText": "ועיין גיליון <a class=\"refLink\" href=\"/sheets/161443\" data-ref=\"sheet.161443\" target=\"_blank\">וירא תש\"י שאלה ב1</a>, <a class=\"refLink\" href=\"/sheets/161585\" data-ref=\"sheet.161585\" target=\"_blank\">תולדות תשי\"א ה'</a>."
+  },
+  {
+   "node": 35,
+   "outsideText": "השוה:"
+  },
+  {
+   "heRef": "בראשית ח׳:י״ג",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:13",
+   "text": {
+    "en": "And it came to pass in the six hundred and first year, in the first month, the first day of the month, the waters were dried up from off the earth; and Noah removed the covering of the ark, and looked, and behold, the face of the ground was dried.",
+    "he": "\"חָרְבוּ פְּנֵי הָאֲדָמָה\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:י״ד:ב׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:14:2",
+   "text": {
+    "en": "יבשה WAS [THE EARTH] DRIED — It became hard as is its normal condition. ",
+    "he": "\"יָבְשָׁה הָאָרֶץ\""
+   }
+  },
+  {
+   "node": 38,
+   "outsideText": "מה ההבדל בין שני הביטויים?"
+  }
+ ],
+ "ssn": 821,
+ "status": "public",
+ "summary": "1952 (תשי\"ב)<br><a href=\"http://www.nechama.org.il/pdf/821.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשי\"ב - היציאה מן התיבה",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

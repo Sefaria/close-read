@@ -16,6 +16,22 @@
     "demoLabel": "Creation → 1963"
   },
   {
+    "slug": "noach",
+    "title": {
+      "he": "פרשת נח",
+      "en": "Parashat Noach"
+    },
+    "author": {
+      "he": "נחמה ליבוביץ",
+      "en": "Nechama Leibowitz"
+    },
+    "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions.",
+    "category": "branching",
+    "shows": "Built the same way as Bereshit, from her original scans. Questions the online digitization dropped or changed are restored, and her own comparison tables sit side by side in the panel.",
+    "demoPath": "flood/fl-1952",
+    "demoLabel": "The Flood → 1952"
+  },
+  {
     "slug": "nasso",
     "title": {
       "he": "פרשת נשא",

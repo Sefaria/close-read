@@ -1,0 +1,564 @@
+{
+ "dateCreated": "2019-03-06T05:23:58.801906",
+ "dateModified": "2019-03-07T02:08:21.760142",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 6:11",
+  "Genesis 7:1",
+  "Isaiah 54:7",
+  "Genesis 6:12",
+  "Genesis 6:13",
+  "Genesis 6:18",
+  "Rashi on Genesis 6:2:3",
+  "Ibn Ezra on Genesis 6:11:1",
+  "Ramban on Genesis 6:13:1",
+  "Isaiah 54:8",
+  "Isaiah 54:17"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161181,
+ "includedRefs": [
+  "Genesis 6:11",
+  "Ibn Ezra on Genesis 6:11:1",
+  "Ibn Ezra on Genesis 6:11:1",
+  "Genesis 6:12",
+  "Genesis 6:13",
+  "Ramban on Genesis 6:13:1",
+  "Genesis 6:18",
+  "Genesis 7:1",
+  "Isaiah 54:7",
+  "Isaiah 54:8",
+  "Rashi on Genesis 6:2:3",
+  "Isaiah 54:17"
+ ],
+ "nextNode": 55,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "גיליון זה הוא המשך גליון <a class=\"refLink\" href=\"/sheets/161147\" data-ref=\"sheet.161147\" target=\"_blank\">נח תשי\"ח</a> שעסק בפסוקים הראשונים של פרשתנו.      "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. פירוש מילת \"הארץ\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״א",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:11",
+   "text": {
+    "en": "And the earth was corrupt before God, and the earth was filled with violence.",
+    "he": "\"וַתִּשָּׁחֵת הָאָרֶץ לִפְנֵי הָאֱ-לֹהִים וַתִּמָּלֵא הָאָרֶץ חָמָס\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ו׳:י״א:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 6:11:1",
+   "text": {
+    "en": "<b>Before Elokim.</b> That is, in public. Alternatively, it means that performed their corrupt deeds in private so that only Hashem knew of them.",
+    "he": "ד\"ה ותשחת הארץ: הטעם: \"אנשי הארץ\" וכן (<a class=\"refLink\" href=\"/Ezekiel 12:12\" data-ref=\"Ezekiel 12:12\" target=\"_blank\">יחזקאל י\"ב י\"ב</a>) \"ארץ כי תחטא\". וכן (<a class=\"refLink\" href=\"/Genesis 41:57\" data-ref=\"Genesis 41:57\" target=\"_blank\">בראשית מ\"א נ\"ז</a>) \"וכל הארץ באו מצרימה לשבור\"."
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מנח עד אברהם עמוד 28:</span><br><span style=\"color: rgb(51,51,51);\">ותשחת הארץ: וי\"ו של ניגוד. כלומר: אבל בניגוד לאלה הנזכרים קודם, כל בני הארץ מושחתים היו. והתנהגותם המושחתת היתה מחניפה ומשחיתה את הארץ אשר הם יושבים עליה. \nהרעיון רגיל במקרא...</span>"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ההבדל בין שני הפירושים למילת \"הארץ\"?"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. התוכל להביא סיוע לקאסוטו מפסוק אחר בפרשתנו וממקום אחר בתורה שהתנהגות מושחתת משחיתה את הארץ?"
+  },
+  {
+   "node": 8,
+   "outsideText": "<table><tbody><tr><td><big>ב. פירוש מילת \"לפני\"</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 6:11\" data-ref=\"Genesis 6:11\" data-ref=\"Genesis 6:11\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 6:11\" data-ref=\"Genesis 6:11\" data-ref=\"Genesis 6:11\" target=\"_blank\">פסוק י\"א</a></span><br><span style=\"color: rgb(51,51,51);\">\"וַתִּשָּׁחֵת הָאָרֶץ לִפְנֵי הָאֱ-לֹהִים\"</span>"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ו׳:י״א:א׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 6:11:1",
+   "text": {
+    "en": "<b>Before Elokim.</b> That is, in public. Alternatively, it means that performed their corrupt deeds in private so that only Hashem knew of them.",
+    "he": "יש אומרים כי טעם \"לפני האלוהים\" – בפרהסיא, ואחרים אמרו, כי הטעם <b>שנשחתו בסתר ובדברים מכוסים שלא ידעם כי אם השם</b>. והקרוב אלי, שהתורה דיברה בלשון בני אדם על דרך שיבינו השומעים. כעבד שיעשה עברה לפני רבו ולא יראנו. והאומרים כי אלוהים במקום הזה איננו קודש, לא אמרו מאומה."
+   }
+  },
+  {
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מדרשי התורה להקדוש אנשלמה אשתרוך (במאה ה-14):</span><br><span style=\"color: rgb(51,51,51);\">לפני האלוהים: נגד כוונתו יתברך, כמו שאמר ישעיה (ס\"ה ג') \"המכעיסים אותי על פני תמיד\", (וזה כי הוא יתברך רצה בקיום המינים והם היו נזקקים לשאינם מינם וזה גורם הפסד המין, כמו שתראה בפרד) ואמר \"לפני\" דרך כבוד כמו שאמר בנמרוד (<a class=\"refLink\" href=\"/Genesis 10:9\" data-ref=\"Genesis 10:9\" target=\"_blank\">בראשית י' </a><a class=\"refLink\" href=\"/Isaiah 54:9\" data-ref=\"Isaiah 54:9\" target=\"_blank\">ט'</a>) \"גבור ציד לפני ה'\", שנתחכם ונתגבר להפסיד ולהחסיר לגמרי מין מן המציאות, וזהו \"לפני ה'\" – נגד רצונו. כי הוא יתברך חפץ בקיום המינים. \"על כן יאמר\" לכל מי שירצה לבטל כוונתו יתברך, שתהיה פעולתו פועל בטל כמו מחשבת נמרוד, שלא השיג מה שדימה במחשבתו.</span>"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ביניהם בפירוש המילה \"לפני\"? נסה להכריע ביניהם."
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2. מהי הפליאה הסגנונית בפסוקנו שאותה מישב הראב\"ע בדבריו המסומנים בקו?"
+  },
+  {
+   "node": 14,
+   "outsideText": "<table><tbody><tr><td><big>ג. בביאור פסוק \"וירא אלהים\" וכו'</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ב",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:12",
+   "text": {
+    "en": "And God saw the earth, and, behold, it was corrupt; for all flesh had corrupted their way upon the earth. .",
+    "he": "\"וַיַּרְא אֱ-לֹהִים אֶת הָאָרֶץ וְהִנֵּה נִשְׁחָתָה\""
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מנח עד אברהם עמוד 28:</span><br><span style=\"color: rgb(51,51,51);\">בפסוק הקודם מסופר באופן אובייקטיבי שהארץ נשחתה, ועכשיו בא הכתוב לספר על היחס הסובייקטיבי של האלוהים למצבה של הארץ. שופט הארץ לא נשאר אדיש לגבי המצב, אלא ראה וידע והחליט מה שהיה מן הראוי להחליט.\nהביטוי \"וירא אלוהים\" מעורר בקורא את זכרון הכתוב שבמעשה בראשית...</span>"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  היכן מצינו עוד בתורה שתתואר תופעה מסוימת בפסוק אחד מבחינת מצבה האובייקטיבי ובפסוק שלאחריו (או קרוב לו) תובא אותה תופעה שנית מבחינת יחסו הסובייקטיבי של <b>משהו</b> אליה?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהו הפסוק במעשה בראשית שלדעתו הוא מקביל לפסוקנו?"
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מהו הרעיון שיש ללמוד מתוך הקבלה זו?"
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ד. חטא החמס</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ג",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:13",
+   "text": {
+    "en": "And God said unto Noah: ‘The end of all flesh is come before Me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+    "he": "\"כִּי מָלְאָה הָאָרֶץ חָמָס מִפְּנֵיהֶם\""
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:י״ג:א׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:13:1",
+   "text": {
+    "en": "<b>Violent crime.</b> Specifically, banditry and injustice. Hashem mentioned to Noach only their violent deeds and not their moral corruption because the former were more commonly known. According to the Sages it was only on account of these that their verdict was sealed. This is because they are proscribed even by unaided reason. Moreover, they offend both God and man.",
+    "he": "ד\"ה חמס: הוא הגזל והעושק, ונתן לנח הטעם בחמס ולא הזכיר השחתת הדרך, כי החמס הוא החטא הידוע והמפורסם.\nורבותינו אמרו עליו נחתם גזר דינם (עיין רש\"י י\"ג כי מלאה הארץ חמס), והטעם, מפני שהיא מצוה מושכלת, אין להם בה צורך לנביא מזהיר.\nועוד שהוא רע לשמים ורע לבריות; והנה הודיע לנח החטא שעליו בא הקץ."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה הקושי (או הקשיים) שרצה ליישב בדבריו, מלבד פירוש המילה \"חמס\"?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מניין לרבותינו שעל החמס בלבד נחתם גזר דינם?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מהן הסיבות לכך?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. היכן מצינו בתורה שוב שגזל הוא \"רע לשמים ורע לבריות\"?"
+  },
+  {
+   "node": 27,
+   "outsideText": "<table><tbody><tr><td><big>ה. ההנמקה להצלת נח</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ח",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:18",
+   "text": {
+    "en": "But I will establish My covenant with thee; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’wives with thee.",
+    "he": "\"וּבָאתָ אֶל הַתֵּבָה אַתָּה וּבָנֶיךָ\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:א׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:1",
+   "text": {
+    "en": "And the LORD said unto Noah: ‘Come thou and all thy house into the ark; for thee have I seen righteous before Me in this generation.",
+    "he": "\"אַתָּה וְכָל בֵּיתְךָ אֶל הַתֵּבָה <b>כִּי אֹתְךָ רָאִיתִי צַדִּיק לְפָנַי</b>...\""
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר, למה לא באה ההנמקה להצלתו (\"כי אותך ראיתי...\"), אחרי בשורת ההצלה הראשונה, אחרי <a class=\"refLink\" href=\"/Genesis 6:18\" data-ref=\"Genesis 6:18\" target=\"_blank\">פרק ו' פסוק י\"ח</a> – ובאה רק ב<a class=\"refLink\" href=\"/Genesis 7:1\" data-ref=\"Genesis 7:1\" target=\"_blank\">פרק ז' פסוק א'</a>?"
+  },
+  {
+   "node": 31,
+   "outsideText": "<table><tbody><tr><td><big>ו. זכר המבול בדברי הנחמה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "כיצד משתלב זכר המבול לתוך דברי נחמה אלה? הסבר מהו הקשר שבין הפסוק הדן במבול (<a class=\"refLink\" href=\"/Isaiah 54:9\" data-ref=\"Isaiah 54:9\" target=\"_blank\">ט'</a>) לפסוקים שלפניו ושלאחריו."
+  },
+  {
+   "node": 33,
+   "outsideText": "<table><tbody><tr><td><big>ז. \"ברגע קטן, בשצף קצף\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "ישעיהו נ״ד:ז׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 54:7",
+   "text": {
+    "en": "For a small moment have I forsaken thee; But with great compassion will I gather thee.",
+    "he": "\"<b>בְּרֶגַע</b> קָטֹן עֲזַבְתִּיךְ וּבְרַחֲמִים גְּדֹלִים אֲקַבְּצֵךְך\""
+   }
+  },
+  {
+   "heRef": "ישעיהו נ״ד:ח׳",
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 54:8",
+   "text": {
+    "en": "In a little wrath I hid My face from thee for a moment; But with everlasting kindness will I have compassion on thee, Saith the LORD thy Redeemer.",
+    "he": "\"בְּשֶׁצֶף קֶצֶף הִסְתַּרְתִּי פָנַי <b>רֶגַע</b> מִמֵּךְ וּבְחֶסֶד עוֹלָם רִחַמְתִּיךְ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ב׳:ג׳",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:2:3",
+   "text": {
+    "en": "מכל אשר בחרו OF ALL WHOM THEY CHOOSE — even if it were a married woman or a man or an animal (Genesis Rabbah 26:5).",
+    "he": "בשצף קצף: מנחם פתר: בחרי אף. ודונש אמר: במעט קצף."
+   }
+  },
+  {
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רד\"ק, <a class=\"refLink\" href=\"/Isaiah 54:7\" data-ref=\"Isaiah 54:7\" target=\"_blank\">פסוק ז'</a>:</span><br><span style=\"color: rgb(51,51,51);\">אע\"פ שארכו ימי הצרות כולם יהיו נחשבים רק כרגע קטן כנגד הרחמים שיהיו גדולים כשאקבצך.</span>"
+  },
+  {
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פסוק ח':</span><br><span style=\"color: rgb(51,51,51);\">זה הפסוק כענין הפסוק הראשון, אלא שכפל הענין במילות שונות לחזק הענין.\nומילת \"בשצף\" פירשו אדוני אבי ז\"ל: במעט קצף.</span>"
+  },
+  {
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ראב\"ע, <a class=\"refLink\" href=\"/Isaiah 54:7\" data-ref=\"Isaiah 54:7\" target=\"_blank\">פסוק ז'</a>:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ברגע... ויש מפרש שפירש שהוא מן (ישעיה נ\"א ט\"ו) \"רוגע הים ויהמו גליו\". והעד \"וברחמים\".</span>"
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר באילו שתי הוראות שונות מפרש ראב\"ע את המילה \"רגע\" שב<a class=\"refLink\" href=\"/Isaiah 54:7\" data-ref=\"Isaiah 54:7\" target=\"_blank\">פסוק ז'</a> ובפסוק ח'."
+  },
+  {
+   "node": 41,
+   "outsideText": "מה הניע אותו שלא לפרש \"רגע\" בשני הפסוקים באותה הוראה, כרד\"ק?"
+  },
+  {
+   "node": 42,
+   "outsideText": "כמי משני המפרשים הנ\"ל תרגמו המתרגמים:"
+  },
+  {
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">הביאור:</span><br><span style=\"color: rgb(51,51,51);\">אין קורצעם אונווילען פערשטיס איך דיך אונד מיט גרויסער ליבע נעהמע איך דיך ווידער אויף.</span>"
+  },
+  {
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בובר-רוזנצוויג:</span><br><span style=\"color: rgb(51,51,51);\">/ Eine klein Regung lang / have ich dich verlassen</span>"
+  },
+  {
+   "node": 45,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": ";aber in grossem Erbarman / hole ich dich wieder ein"
+  },
+  {
+   "node": 46,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "/ als der Groll ueberschwoll / verbarg ich main Antilitz"
+  },
+  {
+   "node": 47,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": " ein Regung lang vor dir / aber in Weltzeit-huld / erbarme ich mich nun dein"
+  },
+  {
+   "node": 48,
+   "outsideText": "(שים לב לתרגום האחרון למילים בשצף קצף!)"
+  },
+  {
+   "node": 49,
+   "outsideText": "<table><tbody><tr><td><big>ח. \"כל כלי יוצר\" - מדברי המדרש</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "ישעיהו נ״ד:י״ז",
+   "node": 50,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 54:17",
+   "text": {
+    "en": "No weapon that is formed against thee shall prosper; And every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, And their due reward from Me, saith the LORD.",
+    "he": "\"כָּל כְּלִי יוּצַר עָלַיִךְ לֹא יִצְלָח \nוְכָל לָשׁוֹן תָּקוּם אִתָּךְ לַמִּשְׁפָּט תַּרְשִׁיעִי\""
+   }
+  },
+  {
+   "node": 51,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">תנחומא תולדות, ה':</span><br><span style=\"color: rgb(51,51,51);\">\"כל כלי יוצר עליך...\" אתה מוצא ישראל אומרים לפני הקב\"ה; ריבון העולמים! ראה היאך העכו\"ם משתעבדים בנו, אין להם מלאכה אחרת אלא יושבין ומתיעצין עלינו, שנאמר (<a class=\"refLink\" href=\"/Lamentations 3\" data-ref=\"Lamentations 3\" data-ref=\"Lamentations 3\" target=\"_blank\">איכה ג'</a>): \"שבתם וקימתם הביטה – אני מנגינתם\". \nאמר להם הקב\"ה: מה הם מועילים?! גוזרים עליכם גזרות ואני מבטלן ושוברן שנאמר \"אני מנגינתם\"! (כד\"א (<a class=\"refLink\" href=\"/Genesis 13\" data-ref=\"Genesis 13\" target=\"_blank\">בראשית י\"ג</a>) \"אשר מגן צריך בידיך\"): (<a class=\"refLink\" href=\"/Exodus 1\" data-ref=\"Exodus 1\" data-ref=\"Exodus 1\" target=\"_blank\">שמות א'</a>) \"ויצו פרעה לכל עמו לאמור: כל הבן הילוד היאורה תשליכוהו\" ורוח הקודש צווחת (<a class=\"refLink\" href=\"/Lamentations 3\" data-ref=\"Lamentations 3\" data-ref=\"Lamentations 3\" target=\"_blank\">איכה ג'</a>) \"מי זה אמר ותהי ה' לא צוה?!\" פרעה ציוה? ה' לא ציוה! אלא (<a class=\"refLink\" href=\"/Exodus 1\" data-ref=\"Exodus 1\" data-ref=\"Exodus 1\" target=\"_blank\">שמות א'</a>) \"וכאשר יענו אותו כן ירבה וכן יפרוץ\".\nהמן ביקש להשמיד את כל היהודים וה' לא ביקש אלא (אסתר <a class=\"refLink\" href=\"/Isaiah 54:9\" data-ref=\"Isaiah 54:9\" target=\"_blank\">ט'</a>) \"ונהפך הוא אשר ישלטו היהודים המה בצריהם\".\nבלק ובלעם בקשו לקלל את ישראל וה' לא ביקש, שנאמר (<a class=\"refLink\" href=\"/Deuteronomy 23\" data-ref=\"Deuteronomy 23\" target=\"_blank\">דברים כ\"ג</a>): \"ולא אבה ה' לשמוע אל בלעם ויהפך לו את הקללה לברכה\".\nלפיכך כתיב: \"מי זה אמר ותהי ה' לא צוה?!\"\nהוי: \"כל כלי יוצר עליך לא יצלח וכל לשון תקום אתך למשפט תרשיעי.\"</span>"
+  },
+  {
+   "node": 52,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מדוע מביא הדרשן את הדוגמאות ל\"כלי היוצר עלינו\" לפי הסדר: פרעה, המן, בלק ובלעם, ולא לפי סדרם הכרונולוגי?"
+  },
+  {
+   "node": 53,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהן שתי ההוראות של \"מגן\" שבהן המילה משמשת כאן פעמים?"
+  }
+ ],
+ "ssn": 528,
+ "status": "public",
+ "summary": "1959 (תשי\"ט)<br><a href=\"http://www.nechama.org.il/pdf/528.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשי\"ט - דור המבול + הפטרה",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

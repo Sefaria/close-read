@@ -1,0 +1,288 @@
+{
+ "dateCreated": "2019-03-06T05:26:56.378138",
+ "dateModified": "2019-03-07T02:12:44.974840",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 6:12:1",
+  "Ramban on Genesis 6:12:1",
+  "Rashi on Genesis 6:14:1",
+  "Genesis 6:12",
+  "Genesis 6:14"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161402,
+ "includedRefs": [
+  "Genesis 6:12",
+  "Rashi on Genesis 6:12:1",
+  "Ramban on Genesis 6:12:1",
+  "Ramban on Genesis 6:12:1",
+  "Genesis 6:14",
+  "Rashi on Genesis 6:14:1"
+ ],
+ "nextNode": 28,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. למבנה פרשת המבול</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "קאסוטו, בספרו מנח עד אברהם, בהקדמתו לפרשת נח, כותב:<br>מבנה הפרשה בצורה שלפנינו הריהו מבנה משוכלל ומסודר לחלקיו ולפרטיו... הפרשה מתחלקת באופן ברור לשתים עשרה פיסקות. כל פיסקה כוללת אפיזודה מסויימת במהלך המאורעות, וכולן קשורות זו בזו באמצעות הקבלות במילים ובבטויים... שורת הפיסקות מתחלקת לשתי מערכות של שש פסקאות כל אחת: הרמוניה מספרית ראויה לתשומת לב."
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  עבור על פרשת המבול עד ט' י\"ז וסמן את החלוקה לשתים-עשרה פסקאות ואת שתי המערכות, ככה: <b>מערכה א'</b>               <b>מערכה ב'</b> 1) ו' ט' – ו' י\"ב            7) 2) ו' י\"ג – ו' כ\"ב           8) 3) ז' א' -                    9) 4)                            10) 5)                            11) 6)                            12)"
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. הסבר, מה המאחד את שש הפסקאות הראשונות למערכה אחת \"המתארת דרגא אחר דרגא פעולה אחת\", ומה המאחד שוב את שש הפסקאות האחרונות, \"המראה לנו, זה אחר זה, את השלבים השונים של פעולה אחת\" (קאסוטו)."
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מהן ההקבלות במילים ובביטויים שבין הפסקאות השונות?"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. הסבר, מהן ההקבלות הענייניות שבין <b>התחלת</b> מערכה א' לבין <b>סוף</b> מערכה ב'; שבין <b>אמצע</b> מערכה א' (פסקאות 4-3) לבין <b>אמצע</b> מערכה ב' (פסקאות 9-8), וכן עוד."
+  },
+  {
+   "node": 7,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"כי השחית כל בשר\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ב",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:12",
+   "text": {
+    "en": "And God saw the earth, and, behold, it was corrupt; for all flesh had corrupted their way upon the earth. .",
+    "he": "\"כִּי הִשְׁחִית כָּל בָּשָׂר אֶת דַּרְכּוֹ עַל הָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:י״ב:א׳",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:12:1",
+   "text": {
+    "en": "כי השחית כל בשר FOR ALL FLESH HAD CORRUPTED — even cattle, beasts and fowl did not consort with their own species (Genesis Rabbah 28:8). ",
+    "he": "ד\"ה כי השחית כל בשר: אפילו בהמה חיה ועוף נזקקין לשאינן מינן."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:י״ב:א׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:12:1",
+   "text": {
+    "en": "FOR ALL FLESH HAD CORRUPTED ITS WAY. If we explain \"all flesh\" in the literal sense and say tat even animals, wild beasts and birds corrupted its ways by mating with animals of other species, like Rashi explains, we will then have to say that \"for the earth filled with injustice [through them] (pas. 13)\" cannot mean \"through \"all\" of them,\" rather it means \"through \"some\" of them\" (humans) [the Torah] would be telling us only [the reason] for the punishment of the humans. Also, we can say that in this [subject matter of sinfulness] too, [the beasts] didn't follow their matures, for all the beasts acted like a predator and all birds acted as birds of prey, so that they also committed \"injustice.\" In the plain meaning \"all flesh\" simply means \"all mankind,\" [being that] further on, scripture it explains: \"all flesh in which there's a breath of life (7:15)\" or \"of all that lives, of all flesh (6:19)\" which means \"any life contained in a body\" (also beasts). But here, \"all flesh\" [without elaboration] means \"all mankind.\" And also \"all flesh will come to prostrate before me.\" (Isaiah 66:23) and \"if a person (lit., \"flesh\")will have [a burn] on his skin (Levit. 13:24).\"(\"flesh\" obviously means \"man\")",
+    "he": "ד\"ה כי השחית כל בשר את דרכו: אם נפרש כל בשר כמשמעו, ונאמר שאפילו בהמה וחיה ועוף השחיתו דרכם להזקק לשאינן מינן, כמו שפירש רש\"י, נאמר כי מלאה הארץ חמס מפניהם, לא מפני כולם אלא מפני מקצתם, וסיפר עונש האדם לבדו. או שנאמר שלא שמרו גם בזה תולדתם, והיתה כל הבהמה טורפת וכל העוף דורס. והנה גם הם עושים חמס."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:י״ב:א׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:12:1",
+   "text": {
+    "en": "FOR ALL FLESH HAD CORRUPTED ITS WAY. If we explain \"all flesh\" in the literal sense and say tat even animals, wild beasts and birds corrupted its ways by mating with animals of other species, like Rashi explains, we will then have to say that \"for the earth filled with injustice [through them] (pas. 13)\" cannot mean \"through \"all\" of them,\" rather it means \"through \"some\" of them\" (humans) [the Torah] would be telling us only [the reason] for the punishment of the humans. Also, we can say that in this [subject matter of sinfulness] too, [the beasts] didn't follow their matures, for all the beasts acted like a predator and all birds acted as birds of prey, so that they also committed \"injustice.\" In the plain meaning \"all flesh\" simply means \"all mankind,\" [being that] further on, scripture it explains: \"all flesh in which there's a breath of life (7:15)\" or \"of all that lives, of all flesh (6:19)\" which means \"any life contained in a body\" (also beasts). But here, \"all flesh\" [without elaboration] means \"all mankind.\" And also \"all flesh will come to prostrate before me.\" (Isaiah 66:23) and \"if a person (lit., \"flesh\")will have [a burn] on his skin (Levit. 13:24).\"(\"flesh\" obviously means \"man\")",
+    "he": "ועל דרך הפשט \"כל בשר\" זה כל האדם, ולמטה יפרש כל בשר אשר בו רוח חיים (להלן ז' ט\"ו), ומכל החי ומכל בשר (להלן פסוק י\"ט), כל חי בגוף, אבל בכאן \"כל בשר\" כל האדם, וכן יבא כל בשר להשתחוות לפני (<a class=\"refLink\" href=\"/Isaiah 66:23\" data-ref=\"Isaiah 66:23\" target=\"_blank\">ישעיה ס\"ו כ\"ג</a>), וכן בשר כי יהיה בעורו (<a class=\"refLink\" href=\"/Leviticus 13:24\" data-ref=\"Leviticus 13:24\" target=\"_blank\">ויקרא י\"ג כ\"ד</a>)."
+   }
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה קשה לרש\"י?"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2. לדעת הרמב\"ן, אין הפסוק מתיישב על פי פירושו של רש\"י. מהו הקושי שגילה הרמב\"ן בפירושו של רש\"י?"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  בשתי דרכים מנסה הרמב\"ן ליישב את פסוקנו אליבא דרש\"י. מה הן?"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. התוכל להביא סיוע לפירושו של רש\"י ממקומות אחרים בפרשתנו?"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5.  מה הסיוע שמביא הרמב\"ן לפירושו \"ועל דרך הפשט\" מישעיה ס\"ו? נסה להביא עוד פסוקים כראיה לפירושו."
+  },
+  {
+   "node": 17,
+   "outsideText": "לכל שאלה ב' עיין גיליון <a class=\"refLink\" href=\"/sheets/161496\" data-ref=\"sheet.161496\" target=\"_blank\">נח תש\"ח</a>, בייחוד דברי מורה נבוכים וספר מלאכת מחשבת המובאים שם!"
+  },
+  {
+   "node": 18,
+   "outsideText": "<table><tbody><tr><td><big>ג. בניית התיבה - התראה לבני הדור</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ד",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:14",
+   "text": {
+    "en": "Make thee an ark of gopher wood; with rooms shalt thou make the ark, and shalt pitch it within and without with pitch.",
+    "he": "\"עֲשֵׂה לְךָ תֵּבַת עֲצֵי גֹפֶר\""
+   }
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">תנחומא:</span><br><span style=\"color: rgb(51,51,51);\">בא וראה למה אמר הקב\"ה לנח שיעשה תיבה? כדי שיראו אותו יושב ועוסק בה ויעשו תשובה. וכי לא יכול היה הקב\"ה להצילן בדברו או להעלותן לשמים באמונתו, שאמר לו \"עשה לך תיבת עצי גפר\"? למה כך? אלא אמר הקב\"ה: מתוך שאני אומר לו \"עשה לך תיבת עצי גפר\" והוא עומד ועוסק בה וכורת ארזים, הם מתכנסין אצלו ואומרים לו: נח! מה אתה עושה?! והוא אומר: תיבה! שאמר לי הקב\"ה שמביא מבול לעולם. ומתוך כך שומעין ועושים תשובה. כך היה הקב\"ה מחשב... ולא היו משגיחין עליו.</span>"
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">נוסח אחר:</span><br><span style=\"color: rgb(51,51,51);\">עמד נח ונטע ארזים והיו אומרים לו: ארזים אלה למה? אמר להם: הקב\"ה מבקש להביא מבול ואמר לו לעשות תיבה כדי שאמלט אני וביתי. והיו משחקין ממנו ומלעיגין בדבריו. והיה משקה אותן ארזים והם גדלים והיו אומרים לו: מה אתה עושה? ומשיב להם כענין הזה. והיו מלעיגים עליו. לסוף ימיו קצצן והיה מנסרן והיו אומרים לו: מה אתה עושה? ואומר להם כך, והיה מתרה בהם. כיון שלא עשו תשובה...</span>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:י״ד:א׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:14:1",
+   "text": {
+    "en": "עשה לך תבת MAKE THEE AN ARK — There are numerous ways by which God could have saved Noah; why, then, did he burden him with this construction of the Ark? So that the men of the generation of the Flood might see him employed on it for 120 years and might ask him, “What do you need this for”? and so that he might answer them, “The Holy One, blessed be He, is about to bring a flood upon the world” — perhaps they might repent (Sanhedrin 108b).",
+    "he": "ד\"ה עשה לך תבת: הרבה ריוח והצלה לפניו, ולמה הטריחו בבנין זה? כדי שיראוהו אנשי דור המבול עוסק בה ק\"כ שנה ושואלין אותו מה זאת לך, והוא אומר להם: עתיד הקב\"ה להביא מבול לעולם אולי ישובו."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר מהו הרעיון של מדרש זה."
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהי תכונת אנשי דור המבול המובלטת במדרש זה?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  היכן מצינו <b>ברש\"י</b> לפרק ז' שוב רעיון זה?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. היכן מצינו רעיון זה בדברי הנביאים?"
+  }
+ ],
+ "ssn": 751,
+ "status": "public",
+ "summary": "1954 (תשי\"ד)<br><a href=\"http://www.nechama.org.il/pdf/751.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשי\"ד - הסיבה למבול",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

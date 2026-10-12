@@ -125,7 +125,12 @@ PAGE_PROBE = """(exp) => {
       const cs = getComputedStyle(pill);
       const gap = parseFloat(cs.columnGap) || 0;
       const minW = parseFloat(getComputedStyle(links[0] || here).minWidth) || 0;
-      const avail = pill.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight)
+      // The pill shrinks to fit short crumbs, so measure against the width it may grow to
+      // (its max-width, border-box), not the width it happens to have.
+      const cap = cs.maxWidth.endsWith('px')
+        ? parseFloat(cs.maxWidth) - parseFloat(cs.borderLeftWidth) - parseFloat(cs.borderRightWidth)
+        : pill.clientWidth;
+      const avail = Math.max(pill.clientWidth, cap) - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight)
         - seps - links.length * minW - gap * (pill.children.length - 1);
       const room = avail - here.getBoundingClientRect().width;
       if (room < 12) out.push(`current crumb "${here.textContent}" leaves only ${Math.round(room)}px before the breadcrumb overflows on phones; shorten it`);

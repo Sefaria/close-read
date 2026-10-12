@@ -1,0 +1,446 @@
+{
+ "dateCreated": "2019-03-06T05:29:12.414624",
+ "dateModified": "2019-03-07T02:16:19.221851",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 9:13",
+  "Genesis 17:9",
+  "Ramban on Genesis 9:12:1",
+  "Genesis 9:7",
+  "Genesis 9:14",
+  "Genesis 9:9",
+  "Radak on Genesis 9:15:1",
+  "Genesis 6:13",
+  "Radak on Genesis 9:14:1",
+  "Genesis 2:19",
+  "Genesis 9:1",
+  "Genesis 9:16",
+  "Genesis 17:4",
+  "Psalms 104:27",
+  "Genesis 1:28",
+  "Genesis 2:3"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161581,
+ "includedRefs": [
+  "Genesis 9:7",
+  "Genesis 9:9",
+  "Genesis 1:28",
+  "Genesis 9:1",
+  "Genesis 6:13",
+  "Genesis 17:4",
+  "Genesis 17:9",
+  "Genesis 9:13",
+  "Ramban on Genesis 9:12:1",
+  "Genesis 9:14",
+  "Radak on Genesis 9:14:1",
+  "Genesis 9:16",
+  "Radak on Genesis 9:15:1",
+  "Genesis 2:19",
+  "Genesis 2:3",
+  "Psalms 104:27"
+ ],
+ "nextNode": 36,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלת מבנה וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. קאסוטו, בספרו \"מנח עד אברהם\" עמוד 72, מדפיס את פסוקינו הבאים בצורה כזאת:<br>\"וַיֹּאמֶר אֱ-לֹהִים                   אֶל נֹחַ וְאֶל בָּנָיו אִתּוֹ \n                        לֵאמֹר\nוַאֲנִי-\nהִנְנִי מֵקִים אֶת בְּרִיתִי           אִתְּכֶם\nוְאֶת זַרְעֲכֶם                        אַחֲרֵיכֶם  \nוְאֵת כָּל נֶפֶשׁ הַחַיָּה             אֲשֶׁר אִתְּכֶם \nבָּעוֹף בַּבְּהֵמָה                    וּבְכָל חַיַּת הָאָרֶץ                 אִתְּכֶם \nמִכֹּל יֹצְאֵי הַתֵּבָה               לְכֹל חַיַּת הָאָרֶץ \nוַהֲקִמֹתִי אֶת בְּרִיתִי             אִתְּכֶם...\""
+  },
+  {
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ולכך הוא מעיר:</span><br><span style=\"color: rgb(51,51,51);\">אולי יש כאן מעין משחק מלים עם \"וחתכם\" שבפסוק ב'.</span>"
+  },
+  {
+   "node": 4,
+   "outsideText": "הסבר לפי זה מה כוונת החזרה המרובה על מילת \"אתכם\", ומה יכול להיות הקשר בינה לבין \"חתכם\"."
+  },
+  {
+   "node": 5,
+   "outsideText": "(לדרך סגנון המקרא בחזרות על אותה מילה עיין גיליון <a class=\"refLink\" href=\"/sheets/161512\" data-ref=\"sheet.161512\" target=\"_blank\">בשלח תש\"ח שאלה ב'</a>!)."
+  },
+  {
+   "heRef": "בראשית ט׳:ז׳",
+   "node": 6,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:7",
+   "text": {
+    "en": "And you, be ye fruitful, and multiply; swarm in the earth, and multiply therein.’ .",
+    "he": "\"<b>וְאַתֶּם</b> פְּרוּ וּרְבוּ\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ט׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:9",
+   "text": {
+    "en": "’As for Me, behold, I establish My covenant with you, and with your seed after you;",
+    "he": "\"<b>וַאֲנִי</b> הִנְנִי מֵקִים אֶת בְּרִיתִי\""
+   }
+  },
+  {
+   "heRef": "בראשית א׳:כ״ח",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:28",
+   "text": {
+    "en": "And God blessed them; and God said unto them: ‘Be fruitful, and multiply, and replenish the earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that creepeth upon the earth.’",
+    "he": "הסבר, לשם מה באו בפסוקים אלה מילות הגוף \"אני\" \"אתם\", כנגד שימוש הלשון הרגיל בתנ\"ך, כגון <a class=\"refLink\" href=\"/Genesis 1:28\" data-ref=\"Genesis 1:28\" target=\"_blank\">בראשית א' כ\"ח</a>:<br>\"פְּרוּ וּרְבוּ...\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:א׳",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:1",
+   "text": {
+    "en": "And God blessed Noah and his sons, and said unto them: ‘Be fruitful and multiply, and replenish the earth.",
+    "he": "\"פְּרוּ וּרְבוּ\""
+   }
+  },
+  {
+   "heRef": "בראשית ו׳:י״ג",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:13",
+   "text": {
+    "en": "And God said unto Noah: ‘The end of all flesh is come before Me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+    "he": "\"וְהִנְנִי מַשְׁחִיתָם...\""
+   }
+  },
+  {
+   "heRef": "בראשית י״ז:ד׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 17:4",
+   "text": {
+    "en": "’As for Me, behold, My covenant is with thee, and thou shalt be the father of a multitude of nations.",
+    "he": "\"<b>אֲנִי</b> הִנֵּה בְרִיתִי אִתָּךְ\""
+   }
+  },
+  {
+   "heRef": "בראשית י״ז:ט׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 17:9",
+   "text": {
+    "en": "And God said unto Abraham: ‘And as for thee, thou shalt keep My covenant, thou, and thy seed after thee throughout their generations.",
+    "he": "\"<b>וְאַתָּה</b> אֶת בְּרִיתִי תִשְׁמֹר\""
+   }
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ב. בענין אות הקשת</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:י״ג",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:13",
+   "text": {
+    "en": "I have set My bow in the cloud, and it shall be for a token of a covenant between Me and the earth.",
+    "he": "\"אֶת קַשְׁתִּי נָתַתִּי בֶּעָנָן\""
+   }
+  },
+  {
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אברבנאל, שואל:</span><br><span style=\"color: rgb(51,51,51);\">בענין אות הקשת שנתן הקב\"ה לנח ולבניו להבטיחם שלא יבוא עוד מבול והוא, כי הקשת הוא דבר טבעי יתילד מהכאת נצוצי השמש בדבר הלח, יתהוה על כלי המים, שיתרשם שם השמש בעיגולו ובמראיו, והוא ענין הקשת. ועליו אמר הנביא (<a class=\"refLink\" href=\"/Ezekiel 1:28\" data-ref=\"Ezekiel 1:28\" target=\"_blank\">יחזקאל א' כ\"ח</a>): \"כמראה הקשת אשר יהיה בענן ביום הגשם\"... ומה אם כן אותה הברית הזה שנעשה לנח להבטחה?</span>"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר: מהי קושייתו?"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה הסתירה שהוא רואה מ<a class=\"refLink\" href=\"/Ezekiel 1:28\" data-ref=\"Ezekiel 1:28\" target=\"_blank\">יחזקאל א' כ\"ח</a> למקומנו?"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:י״ב:א׳",
+   "node": 18,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 9:12:1",
+   "text": {
+    "en": "\"This is the sign of the covenant that I am giving\": it seems from this \"sign\", that the rainbow was not in the cloud from creation and now God did a new act of creation to make the rainbow in the sky on a cloudy day",
+    "he": "ד\"ה זאת אות הברית אשר אני נותן: המשמע מן האות הזה שלא היה קשת בענן ממעשה בראשית, ועתה ברא ה' חדשה לעשות קשת בשמים ביום ענן. ואמרו בטעם האות הזה, כי הקשת לא עשאו שיהיו רגליו למעלה שיראה כאילו מן השמים מורים בו, וישלח חציו ויפיצם בארץ (תהלים י\"ח ט\"ו), אבל עשאו בהפך מזה להראות שלא יורו בו מן השמים, וכן דרך הנלחמים להפוך אותו בידם ככה כאשר יקראו לשלום למי שכנגדם. ועוד שאין לקשת יתר לכונן חצים עליו. \nואנחנו על כרחנו נאמין לדברי היונים שמלהט השמש באויר הלח יהיה הקשת בתולדה, כי בכלי מים לפני השמש יראה כמראה הקשת. וכאשר נסתכל עוד בלשון הכתוב נבין כן, כי אמר את קשתי נתתי בענן, ולא אמר אני נותן בענן, כאשר אמר זאת אות הברית אשר אני נותן. ומילת \"קשתי\" מורה שהיתה לו הקשת תחילה. ולכן נפרש הכתוב, הקשת אשר נתתי בענן מיום הבריאה תהיה מן היום הזה והלאה לאות ברית ביני וביניכם, שכל זמן שאראנה אזכיר כי ברית שלום ביני וביניכם. \nואם תבקש מה טעם בקשת להיות אות, הנה הוא כטעם עד הגל הזה ועדה המצבה (להלן ל\"א נ\"ב). וכן כי את שבע כבשות תקח מידי בעבור תהיה לי לעדה (להלן כ\"א ל'), כי כל הדבר הנראה שיושם לפני שנים להזכירם ענין נדור ביניהם יקרא אות, וכל הסכמה ברית, וכן במילה אמר והיה לאות ברית ביני וביניכם (להלן י\"ז י\"א) בעבור ההסכמה שימולו כל זרע אברהם לעבדו שכם אחד. \nועוד, כי כאשר תראה בהיפוך הנזכר יהיה זכר לשלום כאשר כתבנו. ובין שתהיה הקשת עתה בין שהיתה מעולם בטבע, הטעם באות שבה אחד הוא."
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. מה הראיה שמביא הרמב\"ן לדעתו <b>מלשון</b> הכתוב?"
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "5.  מהי הקושיה <b>השנית</b> המתעוררת בענין הקשת, שאותה מתרץ הרמב\"ן?"
+  },
+  {
+   "node": 21,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"בענני ענן\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:י״ד",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:14",
+   "text": {
+    "en": "And it shall come to pass, when I bring clouds over the earth, and the bow is seen in the cloud,",
+    "he": "\"וְהָיָה בְּעַנְנִי עָנָן\""
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:י״ד:א׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 9:14:1",
+   "text": {
+    "en": "והיה בענני ענן, I will place clouds for a variety of reasons.",
+    "he": "אני אענן ע\"י סיבות אמצעיות שצויתי."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר מה קשה לו בפסוקנו, ומה תיקן בדבריו. להבנת דבריו אלה עיין ספורנו, בראשית מ\"ה ח' ד\"ה ועתה לא אתם שלחתם, וכן מורה נבוכים ב' מ\"ח לפסוק ההוא, שהובאו בגיליון <a class=\"refLink\" href=\"/sheets/161785\" data-ref=\"sheet.161785\" target=\"_blank\">ויגש תש\"ז שאלה ד</a>'."
+  },
+  {
+   "node": 25,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"וראיתיה\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ט״ז",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:16",
+   "text": {
+    "en": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.’",
+    "he": "\"וּרְאִיתִיהָ לִזְכֹּר בְּרִית עוֹלָם\""
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:ט״ו:א׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 9:15:1",
+   "text": {
+    "en": "וזכרתי, the Torah again uses a formulation we as human are familiar with, although, as pointed out repeatedly, G’d does not need to remember, never having forgotten. The same formulation is found in Leviticus 26,42, and in numerous other verses throughout the Torah. They are inaccurate approximations, so that we can understand G’d’s reaction in terms familiar to us.",
+    "he": "דיברה תורה בלשון בני אדם, כי אין שכחה לפני כסא כבודו, וכן (<a class=\"refLink\" href=\"/Leviticus 26:42\" data-ref=\"Leviticus 26:42\" target=\"_blank\">ויקרא כ\"ו מ\"ב</a>) \"וזכרתי את בריתי יעקב ואף את בריתי יצחק ואף את בריתי אברהם אזכור והארץ אזכור\", הכל דרך משל."
+   }
+  },
+  {
+   "node": 28,
+   "outsideText": "שד\"ל, רוצה להסביר מליצה זו בדרך אחרת ע\"פ הפסוקים הבאים, באופן שלא נצטרך לפרשו על דרך \"דיברה תורה כלשון בני אדם\":"
+  },
+  {
+   "heRef": "בראשית ב׳:י״ט",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:19",
+   "text": {
+    "en": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto the man to see what he would call them; and whatsoever the man would call every living creature, that was to be the name thereof.",
+    "he": "\"וַיָּבֵא אֶל <b>הָאָדָם</b> לִרְאוֹת מַה יִּקְרָא לוֹ\""
+   }
+  },
+  {
+   "heRef": "בראשית ב׳:ג׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 2:3",
+   "text": {
+    "en": "And God blessed the seventh day, and hallowed it; because that in it He rested from all His work which God in creating had made.",
+    "he": "\"אֲשֶׁר בָּרָא אֱ-לֹהִים לַעֲשׂוֹת\""
+   }
+  },
+  {
+   "heRef": "תהילים ק״ד:כ״ז",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Psalms 104:27",
+   "text": {
+    "en": "All of them wait for Thee, That Thou mayest give them their food in due season.",
+    "he": "\"כֻּלָּם אֵלֶיךָ יְשַׂבֵּרוּן לָתֵת אָכְלָם בְּעִתּוֹ\" "
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר מה קשה לרד\"ק."
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2. כיצד מבאר שד\"ל את פסוקנו ע\"פ שלושת הפסוקים הנ\"ל?"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  מהי חולשת פירוש זה, ובמה אין הפסוקים ההם דומים לפסוקנו?"
+  }
+ ],
+ "ssn": 930,
+ "status": "public",
+ "summary": "1951 (תשי\"א)<br><a href=\"http://www.nechama.org.il/pdf/930.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשי\"א - אות הברית",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "sheet_id": 161496,
+ "year_g": "1948",
+ "year_he": "תש\"ח",
+ "theme": "blood",
+ "title": "פרשת נח תש\"ח - \"אך את דמכם לנפשותיכם\"",
+ "sefaria_url": "https://www.sefaria.org/sheets/161496",
+ "pdf_url": "https://www.nechama.org.il/pdf/845.pdf",
+ "scancheck": "noach-scancheck/161496-1948.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א ה. אך את דמכם לנפשותיכם אדרש מיד כל חיה אדרשנו (the verse words underlined; \"ה.\" is the verse number; no \"ו\" before \"אך\")",
+   "header_digitized": "א. \"מיד כל חיה אדרשנו\"",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Genesis 9:5",
+     "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ\"",
+     "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 2,
+     "kind": "text",
+     "he": "נחלקו החכמים והמפרשים בהבנת פסוק זה ואלה קצת דעותיהם:",
+     "scan_status": "DIFF",
+     "digitized_he": "נחלקו החכמים והמפרשים בהבנת פסוק זה, ואלה מקצת דעותיהם:",
+     "scan_fixes": [
+      {
+       "digitized": "בהבנת פסוק זה, ואלה מקצת דעותיהם:",
+       "scan": "בהבנת פסוק זה ואלה קצת דעותיהם:",
+       "class": "substantive"
+      },
+      {
+       "digitized": "…פסוק זה, ואלה מקצת דעותיהם:",
+       "scan": "…פסוק זה ואלה קצת דעותיהם:",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "«קצת» per the scan"
+     }
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 34:13",
+     "he": "מיד כל חיה – זה המוסר חברו לחיה להורגו.",
+     "en": "",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "text",
+     "he": "מדרש אגדה:\nשאם החיות יהרגו אותו, כגון שטרפו ארי או נחש ויהרגנו, אני אדרוש ואתבע דמו מן החיות.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Rashi on Genesis 9:5:3",
+     "he": "ד\"ה מיד כל חיה: לפי שחטאו דור המבול והופקרו למאכל חיות רעות לשלוט בהן, שנאמר (תהלים מ\"ט י\"ג) נמשל כבהמות נדמו, לפיכך הוצרך להזהיר עליהן את החיות.",
+     "en": "מיד כל חיה AT THE HAND OF EVERY BEAST — Because the generation of the Flood sinned and they were therefore freely exposed to become food for wild beasts which would have power over them — as it is said (Psalms 49:21), “He is ruled over by wild beasts like the beasts that perish” (these being the prey of other animals) (Shabbat 151b) — it was therefore necessary to proclaim a punishment against wild animals on their account.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "רמב\"ם, הלכות רוצח ב' הלכות ג'-ד':\n... אבל השוכר הורג להרוג את חברו... או שכפתו והניחו לפני הארי וכיוצא בו והרגתהו חיה, וכן ההורג את עצמו, כל אחד מאלו שופך דמים הוא ועוון הריגה בידו, וחייב מיתה לשמים ואין בהם מיתת בית דין. ומניין שכן הוא הדין? שנאמר:\n\"שופך דם האדם באדם דמו ישפך\" – זה ההורג בעצמו שלא על ידי שליח;\n\"את דמכם לנפשותיכם אדרש\" – זה ההורג עצמו;\n\"מיד כל חיה אדרשנו\" – זה המוסר חברו לפני חיה לטרפו;\n\"מיד האדם מיד איש אחיו אדרש את נפש האדם\" – זה השוכר אחרים להרוג את חברו. \nובפירוש נאמר בשלשתם לשון \"דרישה\", הרי דינם מסור לשמים.",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "רמב\"ם, הלכות רוצח ב' הלכות ג'-ד':",
+       "scan": "רמב\"ם הלכות רוצח ב הלכות ג-ד :...",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "text",
+     "he": "רמב\"ם, מורה נבוכים ג' פרק י\"ז (הדעה החמשית):\nאמנם זה הגמול לבעל חי שאינו מדבר (אשר לפני כן הסביר הרמב\"ם שיש מאמינים בו) לא נשמע כלל באמונתנו לפנים וגם חכמי התלמוד לא זכרוהו כלל, אבל קצת האחרונים מן הגאונים ז\"ל (יש אומרים שכונתו לרב סעדיה גאון) כאשר שמעוהו מכת המעתזליה (כתה מוסלימית) ישר בעיניהם והאמינוהו.",
+     "scan_status": "DIFF",
+     "digitized_he": "רמב\"ם, מורה נבוכים ג' פרק י\"ז (הדעה החמשית):\nאמנם זה הגמול לבעל חי שאינו מדבר (אשר לפני כן הסביר הרמב\"ם שיש מאמינים בו) לא נשמע כלל באמונתנו לפנים וגם חכמי התלמוד לא זכרוהו כלל, אבל קצת האחרונים מן הגאונים ז\"ל (יש אומרים שהכוונה לרב סעדיה גאון) כאשר שמעוהו מכת המעתזליה (כתה מוסלמית) ישר בעיניהם והאמינוהו.",
+     "scan_fixes": [
+      {
+       "digitized": "(יש אומרים שהכוונה לרב סעדיה גאון)",
+       "scan": "(יש אומרים שכונתו לרב סעדיה גאון)",
+       "class": "substantive"
+      },
+      {
+       "digitized": "(כתה מוסלמית)",
+       "scan": "(כתה מוסלימית)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "(כתה מוסלמית)",
+       "scan": "(יש אומרים שכונתו לרב סעדיה גאון)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "her gloss reads «שכונתו» (scan); the second pair is mis-paired by the checker and is not applied"
+     }
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Ramban on Genesis 9:5:1",
+     "he": "ד\"ה דמכם לנפשותיכם: ... תמה אני, אם הדרישה כמשמעה, מיד החיה כמו מיד האדם להיות עונש בדבר, ואין בחיה דעת שתענש או שתקבל שכר. ואולי יהיה כן בענין דם האדם לבדו, שכל החיה שתטרוף אותו תטרף כי גזרת מלך היא, וזה טעם סקול יסקל השור ולא יאכל את בשרו (שמות כ\"א כ\"ח), ואיננו להעניש את בעליו בממון, כי אפילו שור המדבר חייב מיתה (בבא קמא מ\"ד ב'). וציוה כן בבני נח כבישראל.",
+     "en": "From the hand of every beast. This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Ramban on Genesis 9:5:1",
+     "he": "ד\"ה ויהיה טעם שופך דם האדם: כל שופך, בין חיה בין אדם, והנה דמו נדרש בבית דין ובידי שמים. ויתכן שיהיה טעם 'מיד כל חיה', שתהיה הנקמה בשופך הדם מיד כל חיה, כמו כי לקחה מיד ה' כפלים בכל חטאתיה (ישעיה מ' ב'). ואמר, אך דמכם אדרוש ואנקום אותו ביד כל חיה, כי אשלח ברוצח כל חית הארץ ואשלח בו גם האדם ולא ינצל מידם, וכמוהו מכל צוררי הייתי חרפה (תהלים ל\"א י\"ב) מידם, זה חלק אדם רשע מאלהים ונחלת אמרו מאל (איוב כ' כ\"ט). ואולי הדרישה מיד החיה היא שלא תטרוף האדם, כי כן שם בטבעם. וסוד הענין, כי בעת היצירה נתן לאדם את כל עשב זורע זרע ואת כל העץ אשר בו פרי עץ לאכלה, ונתן לחיה את כל ירק עשב לאכלה, ואמר הכתוב (לעיל א' ל') ויהי כן, כי הוא טבעם ומנהגם. ועתה כאשר אמר באדם שישחוט הבעלי החיים והושם בטבע או במנהג שיהיו בעלי החיים זה לזה לאכלה, הוצרך לצוות שיהיו שאר בעלי החיים לבני אדם טרף לשיניהם, והם ייראו מהם ולא יטרופו בהם. ואמר ואך את דמכם לנפשותיכם, לרמוז כי לא ידרוש דם חיה מיד חברתה, אם כן נשאר בהם לטרוף זו את זו. וזה טעם הזכירו איסור שפיכת דמים בכאן מפני היתר השחיטה שהיה המנהג לשפוך דם, כי על דעת רבותינו (סנהדרין נ\"ו ב') כבר הזהיר אדם הראשון בזה, אבל מפני השחיטה הוצרך לומר התרתי לכם לשפוך דם כל חי זולתי דמכם שיהיה אסור לכם ולכל החיים שלא יהיה להם טבע לשפוך אותו.",
+     "en": "From the hand of every beast. This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Radak on Genesis 9:5:3",
+     "he": "שיתננה ביד חיה אחרת להרגה או ביד האדם. ואף על פי שאין גמול ועונש לשאר בעלי חי אלא לאדם שהוא בעל שכל, בעסק האדם יש להם גמול ועונש כמו שנאמר \"מיד כל חיה אדרשנו\" ונאמר (חבקוק ב') \"ושד בהמות יחיתן\" ונאמר בגמול (מלכים א' י\"ג) \"ולא שבר את החמור\".",
+     "en": "מיד כל חיה אדרשנו, the offending animal which killed a human being will itself be killed by another animal. Even though the principle of reward and punishment is not generally applicable to any species other than the human species, seeing that only man possesses intelligence so that he can be held responsible for his sins, when animals attack human beings G’d did restrict their instincts, and holds them responsible for not respecting the צלם אלוקים, the divine image in which man has been created. Chabakuk 2,17 phrases this principle as ושד בהמות יחיתן, “the destruction of beasts will overwhelm you.” Moreover, when speaking of retribution, we read in Kings I 13,28 ולא שבר את החמור, “nor had it mauled the ass.” [this proved that when the lion had killed the man of G’d, it had acted as an instrument of G’d’s justice. Ed]",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "text",
+     "he": "רלב\"ג:\nשלא יחשבו בני אדם, מפני שהתיר להם ה' יתברך הריגת הבעלי חי שיותר להם גם הריגת בני אדם, אבל יענישם ה' על זה וישים הפועל להגעת העונש להורג חברו אחת מן החיות הטורפות.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "גם הריגת בני אדם",
+       "scan": "גם הריגת ב\"א",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "רלב\"ג:\nשלא יחשבו בני אדם, מפני שהתיר להם ה' יתברך הריגת הבעלי חי שיותר להם גם הריגת בני אדם, אבל יענישם ה' על זה וישים הפועל להגעת העונש להורג חברו אחת מן החיות הטורפות.",
+     "scan_fixes": [
+      {
+       "digitized": "ה' יתברך",
+       "scan": "ה' ית'",
+       "class": "spelling"
+      },
+      {
+       "digitized": "להגעת העונש",
+       "scan": "להגעת הענש",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "רלב\"ג:\nשלא יחשבו בני אדם, מפני שהתיר להם ה' ית' הריגת הבעלי חי שיותר להם גם הריגת בני אדם, אבל יענישם ה' על זה וישים הפועל להגעת הענש להורג חברו אחת מן החיות הטורפות."
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "ר' משה חפץ (מחכמי איטליה במאה ה-16), בספרו על התורה \"מלאכת מחשבת\":\nראיתי להתמרמר על אנשים שלמים הם אתנו מבני ישראל אשר פחדו פחד לאמור שה' יתברך ישלח השגחתו על כל חי, גם אשר לא מבני אדם. וראייתם בלבד שלא יצויר בשכלם שישפיל ה' רוממותו להשגיח על זבוב ועל רמש... (מאריך בסתירת דעה זו ומסכם:) וכשר בעיני הדבר שה' יתברך המשפילי לראות בשמים ובארץ ישגיח בגבורתו על כל הנבראים מקרני ראמים עד ביצי כינים ויענישם אם יחטאו בחטאם המוגבל, ואם ייטיבו – הנה שכרם אתם. וראיות מדברי חז\"ל – הנה רבו מארבה. לבד אתעכב בראיות מסיפורי התורה... \"מיד כל חיה אדרשנו\" – אלו דברים ככתבם וכלשונם שיעניש ה' החיה על הרציחה... ואם גבוה מעל גבוה שומר ומביט בשפלותנו יושב בשמים רואה את בני האדם, מדוע לא ישגיח בבעלי חי? האם ערכם רחוק מערכנו כאשר אנחנו מן השמים? וכמה מן החיות משובחים יותר מאישי האדם?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "ר' משה חפץ (מחכמי איטליה במאה ה-16), בספרו על התורה \"מלאכת מחשבת\":",
+       "scan": "ר' משה חפץ בספרו על התורה מלאכת מחשבת (מחכמי איטליה במאה ה-16):",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "editorial",
+      "why": "label order only; cards use their own source label"
+     }
+    },
+    {
+     "i": 13,
+     "kind": "text",
+     "he": "ר' נפתלי הרץ ויזל, בפירושו לבראשית:\nהנני חושב כי מילת חיה שבכתוב זה איננה חיה רעה או חית שדה אבל היא נשמת האדם כי היא נקראת חיה בכתובים כמו (תהלים קמ\"ג) \"דכא לארץ חיתי\" (תהלים ע\"ד) \"חית ענייך אל תשכח לנצח\"... כי שם חיה לנשמת האדם תואר יקר, יורה על היותה חיה חוץ לגוף, ושהיא בעלת כח להדבק בחיים עליונים... כל מקום שנזכרה מילת חיה כמשמעות \"החיה והבהמה\" סמכו אצלה שם לווי ויאמרו \"חיה רעה\" או \"חיתו ארץ\" או \"חית השדה\" או שכתוב אצל בהמה ועוף ולמד מעניינו, אבל לא נזכר שם \"חיה\" סתם מבלי שנסמך אל עניין המורה על חיה רעה... \"מיד כל חיה אדרשנו\": שאם תראו רוצח מאריך ימים ומת כמות כל האדם, אדרוש דם הנרצח מיד חיתו, ועתיד ליתן הדין לפניו יתברך.",
+     "scan_status": "DIFF",
+     "basis": "scan",
+     "digitized_he": "ר' נפתלי הרץ ויזל, בפירושו לבראשית:\nהנני חושב כי מילת חיה שבכתוב זה איננה חיה רעה או חית שדה אבל היא נשמת האדם כי היא נקראת חיה בכתובים כמו (תהלים קמ\"ג) \"דכא לארץ חיתי\" (תהלים ע\"ד) \"חית ענייך אל תשכח לנצח\"... כי שם חיה לנשמת האדם תואר יקר, יורה על היותר חיה חוץ לגוף, ושהיא בעלת כח להדבק בחיים עליונים... כל מקום שנזכרה מילת חיה כמשמעות \"החיה והבהמה\" סמכו אצלה שם לווי ויאמרו \"חיה רעה\" או \"חיתו ארץ\" או \"חית השדה\" או שכתוב אצל בהמה ועוף ולמד מעניינו, אבל לא נזכר שם \"חיה\" סתם מבלי שנסמך אל עניין המורה על חיה רעה... \"מיד כל חיה אדרשנו\": שאם תראו רוצח מאריך ימים ומת כמות כל האדם, אדרוש דם הנרצח מיד חיתו, ועתיד ליתן הדין לפניו יתברך.",
+     "scan_fixes": [
+      {
+       "digitized": "על היותר חיה",
+       "scan": "על היותה חיה",
+       "class": "triaged",
+       "cite": "noach-scancheck/161496-1948.md (Wessely)",
+       "why": "the scan reads «היותה» (the soul, fem.); «היותר» is a digitizer slip"
+      }
+     ]
+    },
+    {
+     "i": 14,
+     "kind": "question",
+     "he": "1. מהי הבעיה המתעוררת על ידי פסוקנו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "2. סדר את הנ\"ל לקבוצות והסבר את השקפותיהם! (ברמב\"ן שלש דעות!)",
+     "scan_status": "DIFF",
+     "digitized_he": "2. סדר את הנ\"ל לקבוצות והסבר את השקפותיהם! (ברמב\"ן שלוש דעות!)",
+     "scan_fixes": [
+      {
+       "digitized": "(ברמב\"ן שלוש דעות!)",
+       "scan": "(ברמב\"ן שלש דעות!)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "שלוש דעות",
+       "scan": "שלש דעות",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "3. כיצד מבאר הרלב\"ג את מ' של \"מיד כל חיה\"?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "4. התוכל להביא מפרשתנו עוד ראיה לדעת בעל מלאכת מחשבת?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "text",
+     "he": "עצה טובה: קרא לשאלה א:",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 19,
+     "kind": "text",
+     "he": "Aptowitzer: Rewarding and Publishing of Animals... (On the Aggadic View of the World) Hebrew Union College Annual 1926 p.115-155.",
+     "scan_status": "DIFF",
+     "digitized_he": "Aptowitzer: Rewarding and Punishing of Animals... (On the Aggadic View of the World) Hebrew Union College Annual 1926 p. 115-155.",
+     "sic": [
+      " [[sic: Publishing]]",
+      "[[sic: Publishing]]"
+     ],
+     "scan_fixes": [
+      {
+       "digitized": "Rewarding and Punishing of Animals",
+       "scan": "Rewarding and [[sic: Publishing]] of Animals",
+       "class": "spelling"
+      },
+      {
+       "digitized": "p. 115-155",
+       "scan": "p.115-155",
+       "class": "spelling"
+      },
+      {
+       "digitized": "Punishing",
+       "scan": "[[sic: Publishing]]",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב (letter only, no title; the question follows on the same line)",
+   "header_digitized": "ב. ברכת ה' לבני נח וברכתו לאדם",
+   "items": [
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "השוה את ברכת ה' לבני נח לברכת ה' לאדם א כ'ח-ל'. מהו היחס החדש שנקבע כאן לבעלי החי ומה הסבה לכך?",
+     "scan_status": "DIFF",
+     "digitized_he": "השוה את ברכת ה' לבני נח לברכת ה' לאדם א' כ\"ח-ל'. מהו היחס החדש שנקבע כאן לבעלי החי, ומה הסיבה לכך?",
+     "scan_fixes": [
+      {
+       "digitized": "לאדם א' כ\"ח-ל'. … לבעלי החי, ומה הסיבה לכך?",
+       "scan": "לאדם א כ'ח-ל'. … לבעלי החי ומה הסבה לכך?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "א' כ\"ח-ל'. … החי, ומה הסיבה לכך?",
+       "scan": "א כ'ח-ל'. … החי ומה הסבה לכך?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: The verse number «ה.» before the header verse, and the sheet line «ט' פסוק ה'», are not reproduced.",
+  "§א: [3] «34:13» paragraph number is the digitizer's (scan: «ל\"ד»).",
+  "§א: [5], [8], [9]: the scan gives bare pointers (Ramban with a start point «החל מן \"ותמה אני\"»); full texts are the digitizer's.",
+  "§א: [18]–[19] moved from the box after §ב into §א.",
+  "§ב: The `xx` difficulty mark is dropped."
+ ],
+ "needs_human": []
+}

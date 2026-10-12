@@ -1,0 +1,467 @@
+{
+ "dateCreated": "2019-03-06T05:28:41.380699",
+ "dateModified": "2019-03-07T02:15:29.925515",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 6:13:3",
+  "Rashi on Genesis 8:16:1",
+  "Ibn Ezra on Exodus 13:17:2",
+  "Genesis 8:21",
+  "Rashi on Genesis 6:13:1",
+  "Genesis 6:18",
+  "Genesis 8:17",
+  "Rashi on Genesis 6:13:2",
+  "Rashi on Genesis 8:19:1",
+  "Genesis 7:7",
+  "Genesis 7:8",
+  "Abarbanel on Torah, Genesis 8:15:5",
+  "Genesis 7:14",
+  "Rashi on Genesis 8:21:2",
+  "Ibn Ezra on Genesis 8:21:4",
+  "Abarbanel on Torah, Genesis 8:15:4"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161548,
+ "includedRefs": [
+  "Rashi on Genesis 8:16:1",
+  "Genesis 6:18",
+  "Genesis 7:7",
+  "Rashi on Genesis 8:19:1",
+  "Rashi on Genesis 8:21:2",
+  "Rashi on Genesis 6:13:1-3",
+  "Ibn Ezra on Genesis 8:21:4",
+  "Genesis 7:8",
+  "Genesis 8:17",
+  "Genesis 7:14",
+  "Genesis 8:21",
+  "Abarbanel on Torah, Genesis 8:15:4",
+  "Abarbanel on Torah, Genesis 8:15:5",
+  "Ibn Ezra on Exodus 13:17:2"
+ ],
+ "nextNode": 44,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:ט״ז:א׳",
+   "node": 2,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:16:1",
+   "text": {
+    "en": "’אתה ואשתך וגו THOU AND THY WIFE etc. — Husband and wife are mentioned together— now He allowed them to resume family life (Genesis Rabbah 34:8). ",
+    "he": "ד\"ה אתה ואשתך: איש ואשתו, כאן התיר להם תשמיש המטה."
+   }
+  },
+  {
+   "node": 3,
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "node": 4,
+   "outsideText": "והשווה-"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ח",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:18",
+   "text": {
+    "en": "But I will establish My covenant with thee; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’wives with thee.",
+    "he": "\"וַהֲקִמֹתִי אֶת בְּרִיתִי אִתָּךְ וּבָאתָ אֶל הַתֵּבָה אַתָּה וּבָנֶיךָ וְאִשְׁתְּךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ\" "
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:ז׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:7",
+   "text": {
+    "en": "And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, before the waters of the flood.",
+    "he": "\"וַיָּבֹא נֹחַ וּבָנָיו וְאִשְׁתּוֹ וּנְשֵׁי בָנָיו אִתּוֹ אֶל הַתֵּבָה מִפְּנֵי מֵי הַמַּבּוּל\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:י״ט:א׳",
+   "node": 7,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Rashi on Genesis 8:19:1",
+   "text": {
+    "en": "למשפחתיהם AFTER THEIR FAMILIES — They took upon themselves to keep to their specie. ",
+    "he": "ד\"ה למשפחותיהם: קיבלו עליהם על מנת לידבק במינן. "
+   }
+  },
+  {
+   "node": 8,
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:כ״א:ב׳",
+   "node": 9,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:21:2",
+   "text": {
+    "en": "לא אסף… ולא אסף I WILL NEVER AGAIN … NEITHER WILL I EVER AGAIN — He repeated the expression that it might serve as a solemn oath, and it is to this that the text (Isaiah 54:9) refers: “For as I have sworn that the waters of Noah [will never again pass over the earth]”. We, however, do not find any explicit oath regarding this, but this passage in which He repeated these words, which may be regarded as an oath. Thus do our Sages explain in Treatise Shevuot 36a. ",
+    "he": "ד\"ה לא אוסיף, ולא אוסיף: כפל הדבר לשבועה, הוא שכתוב (<a class=\"refLink\" href=\"/Isaiah 54:9\" data-ref=\"Isaiah 54:9\" target=\"_blank\">ישעיהו נ\"ד ט'</a>) \"אשר נשבעתי מעבור מי נח\", ולא מצינו בה שבועה אלא זו שכפל דבריו והיא שבועה, וכן דרשו חכמים במסכת שבועות (ל\"ו א')."
+   }
+  },
+  {
+   "node": 10,
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:י״ג:א׳",
+   "node": 11,
+   "options": {
+    "PrependRefWithHe": "4. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 6:13:1-3",
+   "text": {
+    "en": "קץ כל בשר THE END OF ALL FLESH — Wherever you find lewdness and idolatry, punishment of an indiscriminate character comes upon the world killing good and bad alike (Genesis Rabbah 26:5). כי מלאה הארץ חמס FOR THE EARTH IS FILLED WITH VIOLENCE — Their fate was sealed only on account of their sin of robbery (Sanhedrin 108a). את הארץ [I WILL DESTROY THEM] WITH THE EARTH — It is similar to מן הארץ \"from the earth”; other examples of this use of את are: (Exodus 9:29) בצאתי ‘‘when I go forth” את העיר which means מן העיר “from the city” and (1 Kings 15:23) חלה ‘‘he suffered” את רגליו which means מן רגליו ‘‘from his feet”. Another explanation of את הארץ is: “together with the earth” — for the earth was blotted out and washed away to the depth of a furrow of three handbreadths (Genesis Rabbah 31:7). ",
+    "he": "ד\"ה קץ כל בשר: כל מקום שאתה מוצא זנות ועבודה זרה, אנדרלמוסיא באה לעולם והורגת טובים ורעים. ד\"ה כי מלאה הארץ חמס: לא נחתם גזר דינם אלא על הגזל. ד\"ה את הארץ: כמו מן הארץ, ודומה לו (<a class=\"refLink\" href=\"/Exodus 9:29\" data-ref=\"Exodus 9:29\" target=\"_blank\">שמות ט' כ\"ט</a>) \"כצאתי את העיר\" - מן העיר, (<a class=\"refLink\" href=\"/I Kings 15:23\" data-ref=\"I Kings 15:23\" target=\"_blank\">מלכים א' ט\"ו כ\"ג</a>) \"חלה את רגליו\" - מן רגליו. דבר אחר - \"את הארץ\" - עם הארץ, שאף שלושה טפחים של עומק המחרישה נמוחו ונטשטשו."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ח׳:כ״א:ד׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 8:21:4",
+   "text": {
+    "en": "",
+    "he": "ד\"ה אל לבו:...וטעם לא אוסיף עוד לקלל כאשר קיללה על ידי אדם כי כן כתוב ארורה האדמה. "
+   }
+  },
+  {
+   "node": 13,
+   "outsideText": "לאיזה קללת אדמה מתכוון הפסוק לדעתם? הבא הוכחות לדעת רש\"י!"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "5. צידה לדרך, מקשה:<br>למה לא הלך רש\"י בעקבות הגמרא ולא הביא ראיה מכפל של ט' י\"א \"ולא יכרת\" \"ולא יהיה...\"?"
+  },
+  {
+   "node": 15,
+   "outsideText": "תרץ קושייתו!"
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ב. סדר החיות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:ח׳",
+   "node": 17,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 7:8",
+   "text": {
+    "en": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the ground,",
+    "he": "\"מִן הַבְּהֵמָה הַטְּהוֹרָה וּמִן הַבְּהֵמָה אֲשֶׁר אֵינֶנָּה טְהֹרָה וּמִן הָעוֹף וְכֹל אֲשֶׁר רֹמֵשׂ עַל הָאֲדָמָה\""
+   }
+  },
+  {
+   "node": 18,
+   "outsideText": "לעומת השימוש המרובה בו' החיבור בתוך <a class=\"refLink\" href=\"/Genesis 8:16\" data-ref=\"Genesis 8:16\" data-ref=\"Genesis 8:16\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 8:16\" data-ref=\"Genesis 8:16\" data-ref=\"Genesis 8:16\" target=\"_blank\">פסוק ט\"ז</a> ובתוך <a class=\"refLink\" href=\"/Genesis 8:17\" data-ref=\"Genesis 8:17\" data-ref=\"Genesis 8:17\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 8:17\" data-ref=\"Genesis 8:17\" data-ref=\"Genesis 8:17\" target=\"_blank\">פסוק י\"ז</a>?"
+  },
+  {
+   "node": 19,
+   "outsideText": "הסבר את הסדר בו נמנו בעלי החי ב<a class=\"refLink\" href=\"/Genesis 8:17\" data-ref=\"Genesis 8:17\" data-ref=\"Genesis 8:17\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 8:17\" data-ref=\"Genesis 8:17\" data-ref=\"Genesis 8:17\" target=\"_blank\">פסוק י\"ז</a> ומדוע נמנו בסדר אחר <a class=\"refLink\" href=\"/Genesis 7:14\" data-ref=\"Genesis 7:14\" data-ref=\"Genesis 7:14\" target=\"_blank\">ב</a><a class=\"refLink\" href=\"/Genesis 7:14\" data-ref=\"Genesis 7:14\" data-ref=\"Genesis 7:14\" target=\"_blank\">פרק ז' פסוק י\"ד</a>?"
+  },
+  {
+   "heRef": "בראשית ח׳:י״ז",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:17",
+   "text": {
+    "en": "Bring forth with thee every living thing that is with thee of all flesh, both fowl, and cattle, and every creeping thing that creepeth upon the earth; that they may swarm in the earth, and be fruitful, and multiply upon the earth.’",
+    "he": "\"כָּל הַחַיָּה אֲשֶׁר אִתְּךָ מִכָּל בָּשָׂר בָּעוֹף וּבַבְּהֵמָה וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ הוצא אִתָּךְ וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל הָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:י״ד",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:14",
+   "text": {
+    "en": "they, and every beast after its kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after its kind, and every fowl after its kind, every bird of every sort.",
+    "he": "\"הֵמָּה וְכָל הַחַיָּה לְמִינָהּ וְכָל הַבְּהֵמָה לְמִינָהּ וְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ לְמִינֵהוּ וְכָל הָעוֹף לְמִינֵהוּ כֹּל צִפּוֹר כָּל כָּנָף\""
+   }
+  },
+  {
+   "node": 22,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"...יצר לב האדם רע מנעוריו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:כ״א",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:21",
+   "text": {
+    "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+    "he": "\"לֹא אֹסִף לְקַלֵּל עוֹד אֶת הָאֲדָמָה בַּעֲבוּר הָאָדָם כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו\""
+   }
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ח׳:ט״ו:ד׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 8:15:4",
+   "text": {
+    "en": "",
+    "he": "אברבנאל, מקשה לפסוק זה שתי שאלות:<br>א. למה לא חשב ה' כזאת בתחילה עד דור המבול, ולא יענישם בהשחתה כוללת, כיוון שיצרו רע מנעוריו?? "
+   }
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ח׳:ט״ו:ה׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 8:15:5",
+   "text": {
+    "en": "",
+    "he": "אברבנאל, מקשה לפסוק זה שתי שאלות:<br>ב. למה נתן טעם, שלא יקלל בעבור יצרו הרע, אדרבא, היא הנותנת, שמפני זה ראוי לקללם ולהשחיתם. והנה (ו' ה') אמר: \"וירא ה'... וכל יצר מחשבות האדם רק רע... ויאמר ה' אמחה...\" - הרי לך ששם עשה הוא יתברך את רוע יצר <b>סיבה לקללה</b> ולהשחתה ובפסוקנו עשה רוע היצר <b>סיבה שלא</b> יקלל, ואיך היה הדבר אחד סיבה לשני הפכים??"
+   }
+  },
+  {
+   "node": 26,
+   "outsideText": "(שאלה זו נשאלת גם במפרשים אחרים)"
+  },
+  {
+   "node": 27,
+   "outsideText": "והנה אחדות מן התשובות הניתנות על ידי המפרשים:"
+  },
+  {
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">עקדת יצחק:</span><br><span style=\"color: rgb(51,51,51);\">בהביא ה' המבול על העולם תוקן טבע המין האנושי ויצא מההפסד שהיה בו מתחילה משני פנים: <b>האחד</b> מטבע הנערות שהייתה בו בתחילה. כי כמו שהעשור הראשון והשני רובו בשנות חיי האדם הולך בהבל, בשעשוע הילדות ותעתוע הנערות אבל משם ואילך (-מגיל 20) הנה השכל הולך ומתחזק והוא נהפך לאיש אחר ויבוש ממעשה ילדותו, כן באמת היה עניין העולם הכללי. כי הנה האלף הראשון ורוב השני היה העולם נעור וריק ממוסר, ולא היה בהם כוח לעמוד על הטוב האמיתי, לא עם עצמם ולא עם זולתם, כי קשה הדבר לעמוד על כך בתחילה, וזהו טעם \"כי יצר לב האדם רע מנעוריו\" – מסיבת נעוריו. אמנם בהמשך הזמן יגער בו (-ביצרו) טבעו. שלא ישובו לכסלה עוד. </span>"
+  },
+  {
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">עקדת יצחק:</span><br><span style=\"color: rgb(51,51,51);\"><b>והשני </b>מצד הרושם החזק והנפלא הנשאר בזכרון האנושות מהפורענות הקשה והנוראה אשר עשתה יד הבורא למכעיסיו (כלומר: המבול) אשר על ידה נקבעה יראה והכנעה והרתעה בהם לדורי דורות לדעת, כי כל האיש ההולך בשרירות לבו השמידו ה' מפניו. והנה תיקון האדם הזה (כלומר: התיקון הבא על ידי <b>הזעזוע הנפשי</b> מסיבת המבול) מצורף אל הקודם (אל התיקון הבא מסיבת התבגרות האנושות בדורות המאוחרים) הוא היה ה\"ריח הניחוח\" אשר בא לפניו יתברך, ובעבורו אמר: \"לא אוסיף לקלל עוד... כי יצר...\" הכוונה כי יצר לבם היה רע ומר בתחילת העולם ובנעוריו, ומעתה לא אוסיף עוד להכות כל חי, כי כבר נתחדש להם רוח נכון ומזג חדש. </span>"
+  },
+  {
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"ר הירש, (תרגום מגרמנית):</span><br><span style=\"color: rgb(51,51,51);\">המלים \"כי יצר לב האדם רע מנעוריו\" הינן מאמר מוסגר - אם יקרה שוב כזאת, שיהיה יצר לב האדם רע – ואפילו מנעוריו (כנגד הטבע, כי הנוער בטבעו שואף לטוב) – ולא תהיה הצלה ופדות לעולם, כי אם בהשמדת כל הדור ההוא, גם אם יקרה שוב כדבר הזה, גם אז – \"לא אוסיף עוד להכות...\" </span>"
+  },
+  {
+   "node": 31,
+   "outsideText": "יש מפרשים:"
+  },
+  {
+   "node": 32,
+   "outsideText": "אין \"כי יצר לב האדם...\" סיבה ל\"לא אוסיף\" כי אם הוא סיבה ל\"לקלל...\" כלומר לא אוסיף עוד לקלל כמו שקללתי בעבר בגלל יצרו הרע."
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  כיצד מתרץ כל אחד מהנ\"ל את קושיות האברבנאל?"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. באיזה כיוון הולכת התפתחות האנושות לפי דעת העקדה בעניין זה? האם הדורות המאוחרים (שאחרי המבול) טובים מקודמיהם או רעים מהם?"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3.  הידועה לך גם דעה אחרת מאשר זו של בעל העקדה בעניין זה?"
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. במה נבדלים שני הפירושים האחרונים מכל פירוש רגיל של הפסוק?"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "5.  התוכל להביא ראיה ממבנה הפסוק לדברי שני האחרונים?"
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. באיזו הוראה יש לפרש את המלה \"כי\" בצירוף \"כי יצר לב...\", לפי הירש?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "7.  התוכל לענות על שאלת האברבנאל השנייה על ידי השוואה מדויקת בין פסוק ו' ה' לפסוקנו?"
+  },
+  {
+   "heRef": "אבן עזרא על שמות י״ג:י״ז:ב׳",
+   "node": 40,
+   "options": {
+    "PrependRefWithHe": "8. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Exodus 13:17:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה כי קרוב: אמר ר' משה: אף על פי שהוא קרוב. וכמוהו לפי דעתי \"כי עם קשה עורף הוא\" (להלן ל\"ד ט'), \"רפאה נפשי כי חטאתי לך\" (<a class=\"refLink\" href=\"/Psalms 41:5\" data-ref=\"Psalms 41:5\" target=\"_blank\">תהלים מ\"א ה'</a>), \"כי רכב ברזל לו\" (<a class=\"refLink\" href=\"/Joshua 17:18\" data-ref=\"Joshua 17:18\" target=\"_blank\">יהושע י\"ז י\"ח</a>). "
+   }
+  },
+  {
+   "node": 41,
+   "outsideText": "תרץ על ידי זה קושיית האברבנאל!"
+  },
+  {
+   "node": 42,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "9.  מה מובנו של \"וירח ה' את ריח הניחוח\" לפי בעל העקדה?"
+  }
+ ],
+ "ssn": 897,
+ "status": "public",
+ "summary": "1946 (תש\"ו)<br><a href=\"http://www.nechama.org.il/pdf/897.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"ו - היציאה מן התיבה",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

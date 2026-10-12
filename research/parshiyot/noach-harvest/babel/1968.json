@@ -1,0 +1,391 @@
+{
+ "sheet_id": 160443,
+ "year_g": "1968",
+ "year_he": "תשכ\"ח",
+ "theme": "babel",
+ "title": "פרשת נח תשכ\"ח - דור הפלגה",
+ "sefaria_url": "https://www.sefaria.org/sheets/160443",
+ "pdf_url": "https://www.nechama.org.il/pdf/3.pdf",
+ "scancheck": "noach-scancheck/160443-1968.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א.",
+   "header_digitized": "א. הפירוד",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Radak on Genesis 10:5:1",
+     "he": "ד\"ה מאלה נפרדו: אחר הפרדם בחרו להם בני יפת איים ששכנו בהם, ואיים הם מחוזות מחולקות זה מזה.",
+     "en": "מאלו נפרדו, after the debacle with the Tower, the descendants of Yaphet chose for themselves the various islands in the Aegean as their habitat, resulting in each tribe being separated from the other.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Radak on Genesis 10:5:2",
+     "he": "ד\"ה איש ללשונו: כי לא היו כולם בני לשון אחת אחר הפלגה, וכן לשון גוי בפני עצמו, אע\"פ שכולם בני יפת.",
+     "en": "איש ללשונו, the people on each of those islands developed a different language or dialect. The word הגויים implies that although all these tribes were offspring of Yaphet, they were in fact as if separate nations. Seeing that the descendants of Noach listed comprise a total of 70, the concept of mankind comprising “seventy nations” not including the Jewish people, was born. [If, nowadays, in the United Nations, for instance, we have far more than 70 nations represented, this in no way contradicts the sages’ reference to “the 70 nations of the world.” Ed.]",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Radak on Genesis 10:30:1",
+     "he": "ד\"ה ויהי מושבם: אחר ההפלגה בררו להם את הארץ אשר ממשא עד הר קדם...",
+     "en": "ויהי מושבם ממשא, after the dispersal of mankind, these sons of Yokton chose for themselves the land extending eastward from the valley of the Euphrates and Tigris. Rav Saadyah gaon understands the meaning of the word Mesha as what is known nowadays as Mecca, the city to which the Muslims make their pilgrimage.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "source",
+     "ref": "Radak on Genesis 10:32:1",
+     "he": "ד\"ה ומאלה נפרדו הגויים בארץ אחר המבול: והנה לא נפרדו אלא אחר הפלגה? אלא פרושו: אלה משפחות בני נח שנולדו אחר המבול נפרדו בארץ כאשר נפרדו, והוא אחר הפלגה.",
+     "en": "אלה..אחר המבול, what does the deluge have to do with this, seeing the people were not dispersed until after they built the Tower [approximately 300 years later. Ed.]? The meaning of this verse is that all these families of Noach’s children were born after the deluge, only to be scattered all over the globe, something which occurred after the building of the Tower.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Bekhor Shor, Genesis 11:1:1",
+     "he": "ד\"ה ויהי כל הארץ שפה אחת ודברים אחדים: שהיו כולם יודעים שבעים לשון.",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "source",
+     "ref": "Genesis 11:1",
+     "he": "ד\"ה ושפה אחת: שכולם יודעים שבעים לשון ומבינים זה את זה.",
+     "en": "And the whole earth was of one language and of one speech.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "text",
+     "he": "פרק י\"א פסוק ז':\nד\"ה אשר לא ישמע איש שפת רעהו: כי כל אחד שכח כל הלשונות חוץ מאחת, ומה שידע זה לא ידע זה. אבל בין כולם ידעו שבעים לשונות. דאין נראה לי לומר לפי הפשט, דעכשיו נבראו להם שבעים הלשונות.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "text",
+     "he": "בעל רכסים לבקעה, פרק י\"א פסוק א':\nד\"ה ויהי כל הארץ (אחרי הביאו קושיות רבות וקשות על פרקנו): ...ולכן אם ניתן רשות לפרש בדרך אחרת פרשה זו, שאין מצוה ממצוות התורה תלויה בה, כי אם להודיע משפטיו ישיב גמול על גאים בדבר אשר זדו אם גוי ואם אדם יחד – יתכן כי הפרשות כתובות בסדר המוקדם והמאוחר, אחר שכתב כי בני יקטן הרבים ישבו עד הר הקדם (עיין י' ל') אמר \"ויהי כל הארץ\" של בני יקטן שפה אחת, אף שמשפחות הרבה היו, כמו (תהלים מ\"ה, י\"ז) \"תשיתמו לשרים בכל הארץ\" – בכל ארץ ישראל (בראשית י\"ג) \"הלא כל הארץ לפניך\" – כל הארץ הזאת. (בראשית מ\"א) \"וכל הארץ באו מצרימה\" – לא שבאו מאחרית ים ומקצווי ארץ אלא כל ארץ כנען וסביבותיה, כך 'ויהי כל הארץ' ההיא 'שפה אחת' וגו'... \nואמר כי שם – בבקעת החטאים האלה – בלל ה' שפת כל הארץ ההיא כעיסה בלולה, ומשם הפיצם, ולא היה ליתר העמים חלק עמהם. אף כי לצדיקי הדור ושפתם תכון לעד. \nכך יתכן לפרש והבוחר יבחר.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "text",
+     "he": "רש\"ר הירש, פרק י' פסוק ה':\nד\"ה נפרדו: רק להלן יסופר על פיזור האומות ובלבול לשונות הגויים. ואעפ\"כ הוא אומר כבר כאן, שהגויים נפרדו בארצותם וללשונותיהם, אולם להלן יסופר על התערבות מיוחדת של ההנהגה האלוקית המחנכת את האדם; ותוצאת ההתערבות הזאת שונה מן האמור בכתוב הזה: כאן יסופר על תופעה טבעית, שהיתה צפויה בתנאים החדשים, העמים התפשטו כדרכם והרחיבו את גבולם בארץ. ומשנשתנו הארצות ואקלימים, נשתנו גם האומות זו מזו. דבר זה היה צפוי והכרחי, והוא בא במחשבה תחילה, ורק על כך מסופר בפסוק זה...",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "text",
+     "he": "רש\"ר הירש, פרק י' פסוק ה':\nד\"ה איש ללשונו: לשונם המיוחדת היתה תוצאה של הפירוד ולא סיבת הפרוד. משרבו בני נח נפרדו בארצותם ובהשפעת הקרקע גם נתגוונה לשונם. דומה שיש הבדל גדול בין \"שפה\" הנזכרת בדור הפלגה לבין \"לשון\" הנזכרת כאן. שפה פרושה כמשמעה: השפה הגרמנית, הצרפתית, וכו'. ואילו \"לשון\" היא הדיאלקט, דרך הלשון, הגוון המיוחד של השפה... ובכן משרבו בני נח נפרדו כדרכם; נבדלו במקומותיהם והיו ל\"איים\"; \"הארץ\" האחת נתפצלת ל\"ארצות\" והגוי האחד נבדל ל\"גויים\". האדם מושפע מן התנאים החיצוניים – וכך היתה השפה האחת לדיאלקטים שונים. והנה שוני הדיאלקטים הפריד כלפי חוץ ויצר \"גויים\" שונים, אך הוא גם היה מקשר כלפי פנים ואיחד את \"משפחותם\" ו\"גוייהם\". אין איחוד בלא פירוד.",
+     "scan_status": "DIFF",
+     "basis": "scan",
+     "digitized_he": "רש\"ר הירש, פרק י' פסוק ה':\nד\"ה איש ללשונו: לשונם המיוחדת היתה תוצאה של הפירוד ולא סיבת הפרוד. משרבו בני נח נפרדו בארצותם ובהשפעת הקרקע גם נתגוונה לשונם. דומה שיש הבדל גדול בין \"שפה\" הנזכרת בדור הפלגה לבין \"לשון\" הנזכרת כאן. שפה פרושה כמשמעה: השפה הגרמנית, הצרפתית, וכו'. ובכן משרבו בני נח נפרדו כדרכם; נבדלו במקומותיהם והיו ל\"איים\"; \"הארץ\" האחת נתפצלת ל\"ארצות\" והגוי האחד נבדל ל\"גויים\". האדם מושפע מן התנאים החיצוניים – וכך היתה השפה האחת לדיאלקטים שונים. והנה שוני הדיאלקטים הפריד כלפי חוץ ויצר \"גויים\" שונים, אך הוא גם היה מקשר כלפי פנים ואיחד את \"משפחותם\" ו\"גוייהם\". אין איחוד בלא פירוד.",
+     "scan_fixes": [
+      {
+       "digitized": "השפה הגרמנית, הצרפתית, וכו'.",
+       "scan": "השפה הגרמנית, הצרפתית, וכו'. ואילו \"לשון\" היא הדיאלקט, דרך הלשון, הגוון המיוחד של השפה...",
+       "class": "triaged",
+       "cite": "noach-scancheck/160443-1968.md [10]",
+       "why": "a sentence of Hirsch she printed, dropped by the digitization"
+      }
+     ]
+    },
+    {
+     "i": 11,
+     "kind": "text",
+     "he": "פרק י\"א פסוק א':\nכבר ראינו לעיל: סיבות טבעיות גרמו לכך שבני אדם נפרדו לקבוצות וכתוצאה מכך נפרדו הלשונות. אולם עדיין לא היו השפות זרות לחלוטין. השפה היתה אחת אך הלשונות היו שונות. הם דברו שפה אחת בדיאלקטים שונים.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "1. מהי השאלה המשותפת לכל ארבעתם, שאותה הם מנסים לישב?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מהי השאלה המשותפת לכל ארבעתם, שאותם הם מנסים ליישב?",
+     "scan_fixes": [
+      {
+       "digitized": "שאותם הם מנסים ליישב?",
+       "scan": "שאותה הם מנסים לישב?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "«שאותה» (the question, fem.) per the scan; «שאותם» is the digitizer's"
+     }
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "2. כמה דעות שונות בפתרון השאלה נאמרו לעיל ואלו הן?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. כמה דעות שונות בפתרון השאלה נאמרו לעיל ואילו הן?",
+     "scan_fixes": [
+      {
+       "digitized": "ואילו הן?",
+       "scan": "ואלו הן?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 14,
+     "kind": "question",
+     "he": "3. במה קרוב בעל רכסים לבקעה לרד\"ק, ובמה הוא שונה ממנו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "4. למה מדגיש בעל הרכסים לבקעה שאין בפרק י\"א מצוות?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "5. מתוך דברי הירש משתמע שיש הבדל בין \"הפרד\" ובין \"נפוץ\" מהו ההבדל?",
+     "scan_status": "DIFF",
+     "digitized_he": "5. מתוך דברי הירש משתמע שיש הבדל בין \"הופרד\" ובין \"נפוץ\". מהו ההבדל?",
+     "scan_fixes": [
+      {
+       "digitized": "בין \"הופרד\" ובין \"נפוץ\". מהו ההבדל?",
+       "scan": "בין \"הפרד\" ובין \"נפוץ\" מהו ההבדל?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "\"הופרד\"",
+       "scan": "\"הפרד\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 17,
+     "kind": "text",
+     "he": "היש להביא לאחת הדעות הנ\"ל סמך ממה שמנבא צפניה לאחרית הימים:",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "source",
+     "ref": "Zephaniah 3:9",
+     "he": "\"כִּי אָז אֶהְפֹּךְ אֶל עַמִּים שָׂפָה בְרוּרָה לִקְרֹא כֻלָּם בְּשֵׁם ה' לְעָבְדוֹ שְׁכֶם אֶחָד...\"",
+     "en": "For then will I turn to the peoples A pure language, That they may all call upon the name of the LORD, To serve Him with one consent.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. ד', הבה נבנה לנו עיר ומגדל וראשו בשמים ונעשה לנו שם פן נפוץ על פני כל הארץ",
+   "header_digitized": "ג. \"עיר ומגדל...\"",
+   "items": [
+    {
+     "i": 25,
+     "kind": "source",
+     "ref": "Genesis 11:4",
+     "he": "\"הָבָה נִבְנֶה לָּנוּ עִיר וּמִגְדָּל וְרֹאשׁוֹ בַשָּׁמַיִם וְנַעֲשֶׂה לָּנוּ שֵׁם פֶּן נָפוּץ עַל פְּנֵי כָל הָאָרֶץ\"",
+     "en": "And they said: ‘Come, let us build us a city, and a tower, with its top in heaven, and let us make us a name; lest we be scattered abroad upon the face of the whole earth.’",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "text",
+     "he": "הרכסים לבקעה:\nד\"ה ונעשה לנו שם: הוא הטעם למגדל, ו\"פן נפוץ\" טעם לבנין העיר, שכן מנהג הכתוב בכל מקום לפרש האחרון תחילה, כמו שיתברר אצל מסה ומריבה. ולכן טעם האתנחתא במלת \"שם\", שהוא מחובר למעשה המגדל הסמוך לו.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "1. מה הקשי בפסוקנו שרצה לישב?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה הקושי בפסוקנו שרצה ליישב?",
+     "scan_fixes": [
+      {
+       "digitized": "הקושי … ליישב",
+       "scan": "הקשי … לישב",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 28,
+     "kind": "question",
+     "he": "2. מה ענין מסה ומריבה למקומנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה עניין מסה ומריבה למקומנו?",
+     "scan_fixes": [
+      {
+       "digitized": "עניין",
+       "scan": "ענין",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 29,
+     "kind": "question",
+     "he": "3. הסבר את דבריו המסומנים בקו והבא דוגמא \"למנהג הכתוב\" שעליו ידבר כאן מן התורה או מנביאים.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. ו', ועתה לא יבצר מהם כל אשר יזמו לעשות",
+   "header_digitized": "ד. \"ועתה לא יבצר מהם...\"",
+   "items": [
+    {
+     "i": 31,
+     "kind": "source",
+     "ref": "Genesis 11:6",
+     "he": "\"וְעַתָּה לֹא יִבָּצֵר מֵהֶם כֹּל אֲשֶׁר יָזְמוּ לַעֲשׂוֹת\"",
+     "en": "And the LORD said: ‘Behold, they are one people, and they have all one language; and this is what they begin to do; and now nothing will be withholden from them, which they purpose to do.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:6:3",
+     "he": "ד\"ה לא יבצר: בתמיה. \"יבצר\" לשון מניעה כתרגומו, ודומה לו (תהל' ע\"ו י\"ג) \"יבצור הוא נגודים\".",
+     "en": "לא יבצר מהם וגו' לעשות This is a question (although the ה which introduces an interrogative sentence is absent): SHALL THEY NOT BE RESTRAINED FROM DOING WHAT THEY IMAGINE TO DO? The word יבצר means “restraining”, as the Targum understands it; a similar instance is, (Psalms 76:13) “He restrains (יבצור) the spirit of princes”.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "text",
+     "he": "רנה\"ו, (ר' נפתלי הירץ ויזל) בפרושו לס' בראשית \"אמרי שפר\":\nאלו הם דברי השם החוקר לב ויודע מה שעתיד עליהם שמעתה יעשו כל התועבות הגדולות העולות על רוח איש מהן, לא יבצר מהם דבר. ומלת \"יבצר\" על החסרון, כמו שנת \"בצורת\".",
+     "scan_status": "DIFF",
+     "digitized_he": "רנה\"ו, (ר' נפתלי הירץ ויזל) בפירושו לספר בראשית \"אמרי שפר\":\nאלו הם דברי השם החוקר לב ויודע מה שעתיד עליהם שמעתה יעשו כל התועבות הגדולות העולות על רוח איש מהן, לא יבצר מהם דבר. ומלת \"יבצר\" על החסרון, כמו שנת \"בצורת\".",
+     "scan_fixes": [
+      {
+       "digitized": "בפירושו לספר בראשית",
+       "scan": "בפרושו לס' בראשית",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 34,
+     "kind": "text",
+     "he": "אבן כספי, מצרף לכסף:\nדע, כי אע\"פ שמטבע הדיבור, ומן הנכון שיקבל שינוי מצד הערות ורמיזות המדבר אף דרך תימה או גיזום או כעס, כמו שכתבו אריסטו ואפלטון, עד שבעבור זה אמרו חכמינו \"מפי סופרים ולא מפי ספרים\" וכבר נמצא מזה בתורה בהכרח במקום אחד נעלם, כמו שאכתוב, וכל שכן בנביאים וכתובים – הנה בזה אינו כלל לתימה ולגיזום, אבל המובן בזה, כי ה' אמר לעצמו או לפמליא שלו: \"ראו, בני אדם השוטים, כי אינו דבר גדול ורם ונשגב ונבצר לכל העולה על רוחם לעשות!\".\nואמר זה אם על הנמנע אם על האפשר הרחוק אשר הוא לפעמים יתואר כנמנע מצד הסכמת העברי, ומצד מלאכת ההגיון וספרי הטבע והאלוקות, אשרי המאמין!",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 35,
+     "kind": "question",
+     "he": "1. מה הקשי בפסוקנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה הקושי בפסוקנו?",
+     "scan_fixes": [
+      {
+       "digitized": "הקושי",
+       "scan": "הקשי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 36,
+     "kind": "question",
+     "he": "2. מה ההבדל בין תשובת רש\"י לבין שתי התשובות האחרות?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 37,
+     "kind": "question",
+     "he": "3. מה ההבדל בין פרושו של אבן כספי לפרוש רנה\"ו?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. מה הרעיון המסומל בדברי המדרש הזה?",
+     "scan_fixes": [
+      {
+       "digitized": "מה הרעיון המסומל בדברי המדרש הזה?",
+       "scan": "מה ההבדל בין פרושו של אבן כספי לפרוש רנה\"ו?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "the digitization has a different question altogether; the scan reads «מה ההבדל בין פרושו של אבן כספי לפרוש רנה\"ו?» (verified by Claude on a 200 dpi crop, 2026-10-12); there is no midrash in this section"
+     }
+    },
+    {
+     "i": 38,
+     "kind": "question",
+     "he": "4. כיצד יתפרש לפי דברי אבן כספי במדבר כ\"ב כ' ומדוע אין לדעתו לפרש את מקומנו באותו אופן?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "במדבר כ\"ב כ'",
+       "scan": "במד' כ\"ב כ'",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 39,
+     "kind": "question",
+     "he": "5. הסבר את דבריו המסומנים בקו.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 40,
+     "kind": "question",
+     "he": "6. כלפי מי נאמר כאן \"אשרי המאמין\", ובמה מאמין הוא?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: The labels «פרק י\"א פסוק ז'», «פרק י\"א פסוק א'», «פרק י' פסוק ה'» expand the scan's ditto + verse pointers.",
+  "§א: [6] linked to Genesis 11:1, though the scan's pointer is י\"א ו'.",
+  "§ג: The underlining that Q3 refers to is dropped.",
+  "§ד: Difficulty marks dropped: Q4 xx, Q5 xx, Q6 xx.",
+  "§ד: Underlining dropped (Q5 asks about «דבריו המסומנים בקו»)."
+ ],
+ "needs_human": []
+}

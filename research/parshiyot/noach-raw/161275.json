@@ -1,0 +1,339 @@
+{
+ "dateCreated": "2019-03-06T05:25:22.962559",
+ "dateModified": "2019-03-07T02:09:41.967978",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 8:7:2",
+  "Genesis 8:13",
+  "Genesis 8:20",
+  "Rashi on Genesis 8:1:3",
+  "Genesis 7:11",
+  "Rashi on Genesis 8:1:4",
+  "Genesis 8:3"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161275,
+ "includedRefs": [
+  "Genesis 8:3",
+  "Genesis 7:11",
+  "Genesis 8:13",
+  "Genesis 8:13",
+  "Rashi on Genesis 8:1:3",
+  "Rashi on Genesis 8:1:4",
+  "Rashi on Genesis 8:7:2",
+  "Genesis 8:20"
+ ],
+ "nextNode": 36,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "לפרקנו זה עיין גם גיליון <a class=\"refLink\" href=\"/sheets/161548\" data-ref=\"sheet.161548\" target=\"_blank\">נח תש\"ו</a> <a class=\"refLink\" href=\"/sheets/161472\" data-ref=\"sheet.161472\" target=\"_blank\">ונח תשי\"ב</a>. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. דברי מוסר הנלמדים מפרקנו</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<a class=\"refLink\" href=\"/Genesis 8:1\" data-ref=\"Genesis 8:1\" target=\"_blank\">בפסוקים א'-ט\"ו</a> מסכם ר' יצחק עראמה, בספרו עקדת יצחק:<br>וכל זה השתדלות וחריצות, מחוייב לכל בעל דעת לפקח על צרכיו, <b>כי בזה יעורר עצמו אל קבלת שפע ההישרה בהם מפאת מעלה</b>, כי האדם הנואש מהדברים – לא יפקד ולא יזכר."
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר את המילים המסומנות בקו."
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהם הפרטים בפרקנו שמהם למד בעל העקדה דברי מוסר אלה?"
+  },
+  {
+   "node": 6,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות סגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 7,
+   "outsideText": "בביטויים שונים מתארת התורה את תהליך ההתייבשות בהדרגתו."
+  },
+  {
+   "node": 8,
+   "outsideText": "העתק את הביטויים האלה כסדרם:"
+  },
+  {
+   "node": 9,
+   "outsideText": "ככה:"
+  },
+  {
+   "heRef": "בראשית ח׳:ג׳",
+   "node": 10,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:3",
+   "text": {
+    "en": "And the waters returned from off the earth continually; and after the end of a hundred and fifty days the waters decreased.",
+    "he": "\"... וַיָּשֻׁבוּ הַמַּיִם מֵעַל הָאָרֶץ הָלוֹךְ וָשׁוֹב וַיַּחְסְרוּ הַמַּיִם מִקְצֵה...\""
+   }
+  },
+  {
+   "node": 11,
+   "outsideText": "2) פסוק י\"א ..."
+  },
+  {
+   "node": 12,
+   "outsideText": "3) ..."
+  },
+  {
+   "node": 13,
+   "outsideText": "בכמה שלבים מתואר תהליך זה?"
+  },
+  {
+   "node": 14,
+   "outsideText": "והשווה לשאלה זו גליון <a class=\"refLink\" href=\"/sheets/161721\" data-ref=\"sheet.161721\" target=\"_blank\">נח תש\"ה א5</a>."
+  },
+  {
+   "node": 15,
+   "outsideText": "השווה:"
+  },
+  {
+   "heRef": "בראשית ז׳:י״א",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:11",
+   "text": {
+    "en": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.",
+    "he": "\"בִּשְׁנַת שֵׁשׁ מֵאוֹת שָׁנָה לְחַיֵּי נֹחַ בַּחֹדֶשׁ... בַּיּוֹם הַזֶּה נִבְקְעוּ...\""
+   }
+  },
+  {
+   "heRef": "בראשית ח׳:י״ג",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:13",
+   "text": {
+    "en": "And it came to pass in the six hundred and first year, in the first month, the first day of the month, the waters were dried up from off the earth; and Noah removed the covering of the ark, and looked, and behold, the face of the ground was dried.",
+    "he": "\"וַיְהִי בְּאַחַת וְשֵׁשׁ מֵאוֹת שָׁנָה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ חָרְבוּ הַמַּיִם מֵעַל הָאָרֶץ\""
+   }
+  },
+  {
+   "node": 18,
+   "outsideText": "כמה מן המפרשים מקשים: מפני מה לא נאמר גם בסוף המבול \"לחיי נח\" כמו שנאמר בתחילתו?"
+  },
+  {
+   "node": 19,
+   "outsideText": "מצא תשובה לשאלתם!"
+  },
+  {
+   "heRef": "בראשית ח׳:י״ג",
+   "node": 20,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 8:13",
+   "text": {
+    "en": "And it came to pass in the six hundred and first year, in the first month, the first day of the month, the waters were dried up from off the earth; and Noah removed the covering of the ark, and looked, and behold, the face of the ground was dried.",
+    "he": "\"בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ חָרְבוּ הַמַּיִם מֵעַל הָאָרֶץ וַיָּסַר נֹחַ אֶת מִכְסֵה הַתֵּבָה וַיַּרְא וְהִנֵּה חָרְבוּ פְּנֵי הָאֲדָמָה\""
+   }
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "לפסוק זה מעיר קאסוטו, בספרו \"מאדם עד נח\" עמוד 63:<br>בחלקו הראשון של הפסוק מביא הכתוב סיפור הדברים בצורה אובייקטיבית. עוד לא היה נח יכול להכיר בבירור את המצב... בחלקו השני מציין הכתוב את ההסתכלות הסובייקטיבית של נח במה שסיפר כבר בצורה אובייקטיבית למעלה, בחלק הראשון של הפסוק."
+  },
+  {
+   "node": 22,
+   "outsideText": "התבונן בלשון הפסוק והסבר את צדקת פירושו."
+  },
+  {
+   "node": 23,
+   "outsideText": "<table><tbody><tr><td><big>ג. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:א׳:ג׳",
+   "node": 24,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:1:3",
+   "text": {
+    "en": "ויעבר אלהים רוח AND GOD MADE A WIND (or SPIRIT) TO PASS — A spirit of consolation and relief passed before Him.",
+    "he": "ד\"ה ויעבר אלוקים רוח: רוח תנחומין והנחה עברה לפניו."
+   }
+  },
+  {
+   "node": 25,
+   "outsideText": "מה ראה רש\"י להוציא מילת \"רוח\" כאן ממשמעותה הרגילה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:א׳:ד׳",
+   "node": 26,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:1:4",
+   "text": {
+    "en": "על הארץ OVER THE EARTH — Because of what was happening on earth.",
+    "he": "ד\"ה על הארץ: על עסקי הארץ. "
+   }
+  },
+  {
+   "node": 27,
+   "outsideText": "מה ראה רש\"י להוציא המילים ממשמעותן?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:ז׳:ב׳",
+   "node": 28,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:7:2",
+   "text": {
+    "en": "עד יבשת המים UNTIL THE WATERS WERE DRIED UP—The real sense of the verse is what it plainly implies (until the waters of the Flood were dried up); but the Midrashic explanation (Genesis Rabbah 33:5) is: The raven went to and fro in the world being kept in readiness for another errand during the time when the rain was withheld and the waters dried up in the days of Elijah, as it is said, (1 Kings 17:6) “And the ravens brought him bread and flesh”. ",
+    "he": "ד\"ה עד יבושת המים: פשוטו כמשמעו. אבל מדרש אגדה: מוכן היה העורב לשליחות אחרת בעצירת גשמים בימי אליהו שנאמר (מלכים א' י\"ז) \"והעורבים מביאים לו לחם ובשר\". \n"
+   }
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "א.  הסבר מהו הרעיון הכלול במדרש זה."
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ב.   מקובלנו ממפרשי רש\"י: אין רש\"י מוסיף לפשוטו של מקרא \"אבל מדרש אגדה...\", אלא אם כן לא נחה דעתו בפירושו הראשון על פי פשוטו. הסבר, מדוע לא הסתפק רש\"י כאן בפשוטן של מילים \"עד יבושת המים\", ומה הצריכו להוסיף את דברי האגדה? ועיין גם גיליון <a class=\"refLink\" href=\"/sheets/161835\" data-ref=\"sheet.161835\" target=\"_blank\">נח תש\"ט ג1</a> וגיליון בראשית תש\"י א2 (ג)."
+  },
+  {
+   "node": 31,
+   "outsideText": "<table><tbody><tr><td><big>ד. טעם הקרבנות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:כ׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:20",
+   "text": {
+    "en": "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt-offerings on the altar.",
+    "he": "\"וַיִּבֶן נֹחַ מִזְבֵּחַ לַה' וַיִּקַּח מִכֹּל הַבְּהֵמָה הַטְּהֹרָה... וַיַּעַל עֹלֹת בַּמִּזְבֵּחַ\""
+   }
+  },
+  {
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 8:20\" data-ref=\"Genesis 8:20\" target=\"_blank\">פסוק כ'</a></span><br><span style=\"color: rgb(51,51,51);\">ד\"ה ניחוח: ... והנה בכתוב הזה טעם הקרבנות שהם אשה ריח ניחוח לה'. ואמר הרב במורה הנבוכים (ג' מ\"ו) כי טעם הקרבנות, בעבור שהמצרים והכשדים, אשר היו ישראל גרים ותושבים בארצם מעולם, היו עובדים לבקר ולצאן, כי המצרים עובדים לטלה והכשדים עובדים לשדים אשר יראו להם בדמות שעירים, ואנשי הודו עד היום לא ישחטו בקר לעולם. בעבור כן ציוה לשחוט אלה השלשה מינין לשם הנכבד כדי שיודע כי הדבר שהיו חושבים כי הם בתכלית העברה הוא אשר יקריבו לבורא, ובו יתכפרו העוונות. כי כן יתרפאו האמונות הרעות שהם מדוי הנפש, כי כל מדוה וכל חולי לא יתרפא כי אם בהפכו. אלה דבריו ובהם האריך. \nוהנה הם דברי הבאי, ירפאו שבר גדול וקושיא רבה על נקלה, יעשו שולחן ה' מגואל שאיננו רק להוציא מלבן של רשעים וטפשי עולם, והכתוב אמר כי הם לחם אשה לריח ניחוח. וגם, כי לפי שטותם של מצרים לא תתרפא מחלתם בזה, אבל תוסיף מכאוב, כי מחשבת הרשעים הנזכרים לעבוד למזל טלה ומזל שור שיש להם כח בהם כפי מחשבתם, ולכן לא יאכלו אותם לכבוד כוחם ויסודם, אבל אם יזבחו אותם לשם הנכבד זה כבוד להם ומעלה, והם עצמם כך הם נוהגים, כמו שאמר (<a class=\"refLink\" href=\"/Leviticus 17:7\" data-ref=\"Leviticus 17:7\" target=\"_blank\">ויקרא י\"ז ז</a>') ולא יזבחו עוד את זבחיהם לשעירים, ועושי העגל זבחו לו. \nוהרב מזכיר שהיו מקריבים ללבנה בכל ראשי חדשיהם, ולשמש בעלותה במזלות הידועים להם בספריהם. ויותר תתרפא המחלה באכלינו מהם לשובע שהוא אסור להם ומגונה בעיניהם ולא יעשו כן לעולם. <b>והנה נח בצאתו מן התיבה עם שלשת בניו אין בעולם כשדי או מצרי הקריב קרבן וייטב בעיני ה' ואמר בו (בראשית ח' כ\"א) וירח ה' את ריח הניחוח</b>. וממנו אמר אל לבו לא אוסיף עוד לקלל את האדמה בעבור האדם (שם). והבל הביא גם הוא מבכורות צאנו ומחלביהן, וישע ה' אל הבל ואל מנחתו (שם ד' ד'), ולא היה עדיין בעולם שמץ עבודה זרה כלל. ובלעם אמר את שבעת המזבחות ערכתי ואעל פר ואיל במזבח (במדבר כ\"ג ד'), ואין דעתו עתה לשלול ממנו אמונות רעות, ולא נצטוה בכך, אבל עשה כן לקרבה אל האלהים כדי שיחול עליו הדיבור. ולשון הקרבנות את קרבני לחמי לאשי ריח ניחוחי (שם כ\"ח ב'), וחלילה שלא יהא בהם שום תועלת ורצון רק שוללות עבודה זרה מדעת השוטים.</span>"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר לשם מה מביא הרמב\"ן בדבריו את קרבן נח, ומה רצה להוכיח בעזרתו."
+  }
+ ],
+ "ssn": 623,
+ "status": "public",
+ "summary": "1953 (תשי\"ג)<br><a href=\"http://www.nechama.org.il/pdf/623.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשי\"ג - המבול",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

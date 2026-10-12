@@ -1,0 +1,269 @@
+{
+ "dateCreated": "2019-03-06T05:28:03.275442",
+ "dateModified": "2019-03-07T02:14:33.312708",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 9:5:3",
+  "Bereshit Rabbah 34:13",
+  "Genesis 9:5",
+  "Ramban on Genesis 9:5:1",
+  "Radak on Genesis 9:5:3"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161496,
+ "includedRefs": [
+  "Genesis 9:5",
+  "Bereshit Rabbah 34:13",
+  "Rashi on Genesis 9:5:3",
+  "Ramban on Genesis 9:5:1",
+  "Ramban on Genesis 9:5:1",
+  "Radak on Genesis 9:5:3"
+ ],
+ "nextNode": 24,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. \"מיד כל חיה אדרשנו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ\""
+   }
+  },
+  {
+   "node": 3,
+   "outsideText": "נחלקו החכמים והמפרשים בהבנת פסוק זה, ואלה מקצת דעותיהם:"
+  },
+  {
+   "heRef": "בראשית רבה ל״ד:י״ג",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 34:13",
+   "text": {
+    "en": "",
+    "he": "מיד כל חיה – זה המוסר חברו לחיה להורגו. "
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מדרש אגדה:</span><br><span style=\"color: rgb(51,51,51);\">שאם החיות יהרגו אותו, כגון שטרפו ארי או נחש ויהרגנו, אני אדרוש ואתבע דמו מן החיות.</span>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:ג׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:3",
+   "text": {
+    "en": "מיד כל חיה AT THE HAND OF EVERY BEAST — Because the generation of the Flood sinned and they were therefore freely exposed to become food for wild beasts which would have power over them — as it is said (Psalms 49:21), “He is ruled over by wild beasts like the beasts that perish” (these being the prey of other animals) (Shabbat 151b) — it was therefore necessary to proclaim a punishment against wild animals on their account.",
+    "he": "ד\"ה מיד כל חיה: לפי שחטאו דור המבול והופקרו למאכל חיות רעות לשלוט בהן, שנאמר (<a class=\"refLink\" href=\"/Psalms 49:13\" data-ref=\"Psalms 49:13\" target=\"_blank\">תהלים מ\"ט י\"ג</a>) נמשל כבהמות נדמו, לפיכך הוצרך להזהיר עליהן את החיות."
+   }
+  },
+  {
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רמב\"ם, הלכות רוצח ב' הלכות ג'-ד':</span><br><span style=\"color: rgb(51,51,51);\">... אבל השוכר הורג להרוג את חברו... או שכפתו והניחו לפני הארי וכיוצא בו והרגתהו חיה, וכן ההורג את עצמו, כל אחד מאלו שופך דמים הוא ועוון הריגה בידו, וחייב מיתה לשמים ואין בהם מיתת בית דין. ומניין שכן הוא הדין? שנאמר:\n\"שופך דם האדם באדם דמו ישפך\" – זה ההורג בעצמו שלא על ידי שליח;\n\"את דמכם לנפשותיכם אדרש\" – זה ההורג עצמו;\n\"מיד כל חיה אדרשנו\" – זה המוסר חברו לפני חיה לטרפו;\n\"מיד האדם מיד איש אחיו אדרש את נפש האדם\" – זה השוכר אחרים להרוג את חברו. \nובפירוש נאמר בשלשתם לשון \"דרישה\", הרי דינם מסור לשמים.</span>"
+  },
+  {
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רמב\"ם, מורה נבוכים ג' פרק י\"ז (הדעה החמשית):</span><br><span style=\"color: rgb(51,51,51);\">אמנם זה הגמול לבעל חי שאינו מדבר (אשר לפני כן הסביר הרמב\"ם שיש מאמינים בו) לא נשמע כלל באמונתנו לפנים וגם חכמי התלמוד לא זכרוהו כלל, אבל קצת האחרונים מן הגאונים ז\"ל (יש אומרים שהכוונה לרב סעדיה גאון) כאשר שמעוהו מכת המעתזליה (כתה מוסלמית) ישר בעיניהם והאמינוהו.</span>"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ה׳:א׳",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 9:5:1",
+   "text": {
+    "en": "<b>From the hand of every beast.</b> This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+    "he": "ד\"ה דמכם לנפשותיכם: ... תמה אני, אם הדרישה כמשמעה, מיד החיה כמו מיד האדם להיות עונש בדבר, ואין בחיה דעת שתענש או שתקבל שכר. ואולי יהיה כן בענין דם האדם לבדו, שכל החיה שתטרוף אותו תטרף כי גזרת מלך היא, וזה טעם סקול יסקל השור ולא יאכל את בשרו (<a class=\"refLink\" href=\"/Exodus 21:28\" data-ref=\"Exodus 21:28\" target=\"_blank\">שמות כ\"א כ\"ח</a>), ואיננו להעניש את בעליו בממון, כי אפילו שור המדבר חייב מיתה (בבא קמא מ\"ד ב'). וציוה כן בבני נח כבישראל."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ה׳:א׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 9:5:1",
+   "text": {
+    "en": "<b>From the hand of every beast.</b> This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+    "he": "ד\"ה ויהיה טעם שופך דם האדם: כל שופך, בין חיה בין אדם, והנה דמו נדרש בבית דין ובידי שמים. ויתכן שיהיה טעם 'מיד כל חיה', שתהיה הנקמה בשופך הדם מיד כל חיה, כמו כי לקחה מיד ה' כפלים בכל חטאתיה (<a class=\"refLink\" href=\"/Isaiah 40:2\" data-ref=\"Isaiah 40:2\" target=\"_blank\">ישעיה מ' ב'</a>). ואמר, אך דמכם אדרוש ואנקום אותו ביד כל חיה, כי אשלח ברוצח כל חית הארץ ואשלח בו גם האדם ולא ינצל מידם, וכמוהו מכל צוררי הייתי חרפה (<a class=\"refLink\" href=\"/Psalms 31:12\" data-ref=\"Psalms 31:12\" target=\"_blank\">תהלים ל\"א י\"ב</a>) מידם, זה חלק אדם רשע מאלהים ונחלת אמרו מאל (<a class=\"refLink\" href=\"/Job 20:29\" data-ref=\"Job 20:29\" target=\"_blank\">איוב כ' כ\"ט</a>). ואולי הדרישה מיד החיה היא שלא תטרוף האדם, כי כן שם בטבעם. וסוד הענין, כי בעת היצירה נתן לאדם את כל עשב זורע זרע ואת כל העץ אשר בו פרי עץ לאכלה, ונתן לחיה את כל ירק עשב לאכלה, ואמר הכתוב (לעיל א' ל') ויהי כן, כי הוא טבעם ומנהגם. ועתה כאשר אמר באדם שישחוט הבעלי החיים והושם בטבע או במנהג שיהיו בעלי החיים זה לזה לאכלה, הוצרך לצוות שיהיו שאר בעלי החיים לבני אדם טרף לשיניהם, והם ייראו מהם ולא יטרופו בהם. ואמר ואך את דמכם לנפשותיכם, לרמוז כי לא ידרוש דם חיה מיד חברתה, אם כן נשאר בהם לטרוף זו את זו. וזה טעם הזכירו איסור שפיכת דמים בכאן מפני היתר השחיטה שהיה המנהג לשפוך דם, כי על דעת רבותינו (סנהדרין נ\"ו ב') כבר הזהיר אדם הראשון בזה, אבל מפני השחיטה הוצרך לומר התרתי לכם לשפוך דם כל חי זולתי דמכם שיהיה אסור לכם ולכל החיים שלא יהיה להם טבע לשפוך אותו."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:ה׳:ג׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 9:5:3",
+   "text": {
+    "en": "מיד כל חיה אדרשנו, the offending animal which killed a human being will itself be killed by another animal. Even though the principle of reward and punishment is not generally applicable to any species other than the human species, seeing that only man possesses intelligence so that he can be held responsible for his sins, when animals attack human beings G’d did restrict their instincts, and holds them responsible for not respecting the צלם אלוקים, the divine image in which man has been created. Chabakuk 2,17 phrases this principle as ושד בהמות יחיתן, “the destruction of beasts will overwhelm you.” Moreover, when speaking of retribution, we read in Kings I 13,28 ולא שבר את החמור, “nor had it mauled the ass.” [this proved that when the lion had killed the man of G’d, it had acted as an instrument of G’d’s justice. Ed]",
+    "he": "שיתננה ביד חיה אחרת להרגה או ביד האדם. ואף על פי שאין גמול ועונש לשאר בעלי חי אלא לאדם שהוא בעל שכל, בעסק האדם יש להם גמול ועונש כמו שנאמר \"מיד כל חיה אדרשנו\" ונאמר (חבקוק ב') \"ושד בהמות יחיתן\" ונאמר בגמול (מלכים א' י\"ג) \"ולא שבר את החמור\"."
+   }
+  },
+  {
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רלב\"ג:</span><br><span style=\"color: rgb(51,51,51);\">שלא יחשבו בני אדם, מפני שהתיר להם ה' יתברך הריגת הבעלי חי שיותר להם גם הריגת בני אדם, אבל יענישם ה' על זה וישים הפועל להגעת העונש להורג חברו אחת מן החיות הטורפות. </span>"
+  },
+  {
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "ר' משה חפץ (מחכמי איטליה במאה ה-16), בספרו על התורה \"מלאכת מחשבת\":<br>ראיתי להתמרמר על אנשים שלמים הם אתנו מבני ישראל אשר פחדו פחד לאמור שה' יתברך ישלח השגחתו על כל חי, גם אשר <b>לא</b> מבני אדם. וראייתם בלבד שלא יצויר בשכלם שישפיל ה' רוממותו להשגיח על זבוב ועל רמש... (מאריך בסתירת דעה זו ומסכם:) וכשר בעיני הדבר שה' יתברך המשפילי לראות בשמים ובארץ ישגיח בגבורתו על כל הנבראים מקרני ראמים עד ביצי כינים ויענישם אם יחטאו בחטאם המוגבל, ואם ייטיבו – הנה שכרם אתם. וראיות מדברי חז\"ל – הנה רבו מארבה. לבד אתעכב בראיות מסיפורי התורה... \"מיד כל חיה אדרשנו\" – אלו דברים ככתבם וכלשונם שיעניש ה' החיה על הרציחה... ואם גבוה מעל גבוה שומר ומביט בשפלותנו יושב בשמים רואה את בני האדם, מדוע לא ישגיח בבעלי חי? האם ערכם רחוק מערכנו כאשר אנחנו מן השמים? וכמה מן החיות משובחים יותר מאישי האדם?"
+  },
+  {
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' נפתלי הרץ ויזל, בפירושו לבראשית:</span><br><span style=\"color: rgb(51,51,51);\">הנני חושב כי מילת חיה שבכתוב זה איננה חיה רעה או חית שדה אבל היא <b>נשמת האדם</b> כי היא נקראת חיה בכתובים כמו (תהלים קמ\"ג) \"דכא לארץ חיתי\" (תהלים ע\"ד) \"חית ענייך אל תשכח לנצח\"... כי שם חיה לנשמת האדם תואר יקר, יורה על היותר חיה חוץ לגוף, ושהיא בעלת כח להדבק בחיים עליונים... כל מקום שנזכרה מילת חיה כמשמעות \"החיה והבהמה\" סמכו אצלה שם לווי ויאמרו \"חיה רעה\" או \"חיתו ארץ\" או \"חית השדה\" או שכתוב אצל בהמה ועוף ולמד מעניינו, אבל לא נזכר שם \"חיה\" <b>סתם</b> מבלי שנסמך אל עניין המורה על חיה רעה... \"מיד כל חיה אדרשנו\": שאם תראו רוצח מאריך ימים ומת כמות כל האדם, אדרוש דם הנרצח מיד חיתו, ועתיד ליתן הדין לפניו יתברך.</span>"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהי הבעיה המתעוררת על ידי פסוקנו?"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. סדר את הנ\"ל לקבוצות והסבר את השקפותיהם! (ברמב\"ן <b>שלוש</b> דעות!)"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  כיצד מבאר הרלב\"ג את מ' של \"מיד כל חיה\"?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. התוכל להביא מפרשתנו עוד ראיה לדעת בעל מלאכת מחשבת?"
+  },
+  {
+   "node": 19,
+   "outsideText": "עצה טובה: קרא לשאלה א:"
+  },
+  {
+   "node": 20,
+   "outsideText": "Aptowitzer: Rewarding and Punishing of Animals... (On the Aggadic View of the World) Hebrew Union College Annual 1926 p. 115-155."
+  },
+  {
+   "node": 21,
+   "outsideText": "<table><tbody><tr><td><big>ב. ברכת ה' לבני נח וברכתו לאדם</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "השוה את ברכת ה' לבני נח לברכת ה' לאדם <a class=\"refLink\" href=\"/Genesis 1:28\" data-ref=\"Genesis 1:28\" target=\"_blank\">א' כ\"ח-ל'</a>. מהו היחס החדש שנקבע כאן לבעלי החי, ומה הסיבה לכך?"
+  }
+ ],
+ "ssn": 845,
+ "status": "public",
+ "summary": "1948 (תש\"ח)<br><a href=\"http://www.nechama.org.il/pdf/845.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"ח - \"אך את דמכם לנפשותיכם\"",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

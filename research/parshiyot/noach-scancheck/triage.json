@@ -1,0 +1,617 @@
+{
+ "note": "Triage of every substantive scan/digitization difference in her own words (Noach). use: scan = the scan's reading is applied; digitized = the digitization is kept (reason given); editorial; not-published; open.",
+ "decisions": [
+  {
+   "sheet": 161942,
+   "i": 15,
+   "use": "scan",
+   "why": "her word is «הנ\"ל», not «הפרשנים» (scan, clear)"
+  },
+  {
+   "sheet": 161942,
+   "i": 26,
+   "use": "digitized",
+   "why": "the «כשם שהביאם…» pair belongs to [27], not this item; «מדינהא[?]» is doubtful, digitization kept"
+  },
+  {
+   "sheet": 161942,
+   "i": 44,
+   "use": "digitized",
+   "why": "the scan adds the pointer «עיין רש\"י, ספורנו:» before the same question; the pointer is the sources that follow"
+  },
+  {
+   "sheet": 161686,
+   "i": 29,
+   "use": "scan",
+   "why": "«אברנבאל» is a digitizer typo for «אברבנאל» (scan, clear)"
+  },
+  {
+   "sheet": 160443,
+   "i": 12,
+   "use": "scan",
+   "why": "«שאותה» (the question, fem.) per the scan; «שאותם» is the digitizer's"
+  },
+  {
+   "sheet": 160443,
+   "i": 37,
+   "use": "scan",
+   "why": "the digitization has a different question altogether; the scan reads «מה ההבדל בין פרושו של אבן כספי לפרוש רנה\"ו?» (verified by Claude on a 200 dpi crop, 2026-10-12); there is no midrash in this section"
+  },
+  {
+   "sheet": 160443,
+   "i": 38,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161496,
+   "i": 2,
+   "use": "scan",
+   "why": "«קצת» per the scan"
+  },
+  {
+   "sheet": 161496,
+   "i": 7,
+   "use": "scan",
+   "why": "her gloss reads «שכונתו» (scan); the second pair is mis-paired by the checker and is not applied"
+  },
+  {
+   "sheet": 161496,
+   "i": 11,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161496,
+   "i": 12,
+   "use": "editorial",
+   "why": "label order only; cards use their own source label"
+  },
+  {
+   "sheet": 161105,
+   "i": 2,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161105,
+   "i": 3,
+   "use": "not-published",
+   "why": "table labels; the verses are shown in the panel"
+  },
+  {
+   "sheet": 161105,
+   "i": 5,
+   "use": "not-published",
+   "why": "a reading tip (עצה טובה) pointing outside the sheet"
+  },
+  {
+   "sheet": 161105,
+   "i": 11,
+   "use": "not-published",
+   "why": "a cross-reference to Rashi on Exodus 21"
+  },
+  {
+   "sheet": 161105,
+   "i": 13,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161105,
+   "i": 22,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161105,
+   "i": 31,
+   "use": "scan",
+   "why": "«על פיי» is a digitizer typo; the scan has «ע\"פ»"
+  },
+  {
+   "sheet": 161105,
+   "i": 35,
+   "use": "digitized",
+   "why": "digitizer correction: the scan has «(א כ\"ו)» for the second verse, but «ויברא אלוקים את האדם בצלמו» is 1:27, as digitized"
+  },
+  {
+   "sheet": 161105,
+   "i": 46,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160445,
+   "i": 0,
+   "use": "not-published",
+   "why": "a section header, not quoted"
+  },
+  {
+   "sheet": 160445,
+   "i": 3,
+   "use": "scan",
+   "why": "her words are «ע\"פ זמנם והקשרם» (scan)"
+  },
+  {
+   "sheet": 160445,
+   "i": 6,
+   "use": "digitized",
+   "why": "spelling inside Hirsch's (translated) text; the checker's fragments drop words when applied, so the digitization is kept"
+  },
+  {
+   "sheet": 160445,
+   "i": 13,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+  },
+  {
+   "sheet": 160445,
+   "i": 14,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+  },
+  {
+   "sheet": 160445,
+   "i": 15,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+  },
+  {
+   "sheet": 160445,
+   "i": 17,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+  },
+  {
+   "sheet": 160445,
+   "i": 18,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+  },
+  {
+   "sheet": 160445,
+   "i": 19,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+  },
+  {
+   "sheet": 160445,
+   "i": 26,
+   "use": "digitized",
+   "why": "the pair belongs to [27]; nothing differs in this item"
+  },
+  {
+   "sheet": 160445,
+   "i": 27,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) («או היש» vs «או יש»: same question)"
+  },
+  {
+   "sheet": 161548,
+   "i": 12,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161548,
+   "i": 17,
+   "use": "scan",
+   "why": "the digitization lost the opening of her Q1; the scan has «1. התוכל לבאר את חסר ו' החבור בתחילת פ' י\"ז ובתחילת פ' י\"ט (ועי' גם ז' ח') לעומת…» (spot-checked by Claude 2026-10-12 on the same scan as Q8)"
+  },
+  {
+   "sheet": 161548,
+   "i": 18,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161548,
+   "i": 26,
+   "use": "scan",
+   "why": "«הנתונות ע\"י» per the scan"
+  },
+  {
+   "sheet": 161548,
+   "i": 31,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161548,
+   "i": 33,
+   "use": "scan",
+   "why": "«בעניין זה?» is not in the scan"
+  },
+  {
+   "sheet": 161548,
+   "i": 37,
+   "use": "scan",
+   "why": "her wording: «באיזה הוראה יש לפרש את \"כי\" של \"כי יצר לב...\" לפי הירש?»"
+  },
+  {
+   "sheet": 161548,
+   "i": 40,
+   "use": "scan",
+   "why": "the digitization kept only the tail of Q8; the full instruction is on the scan (verified by Claude on a 200 dpi crop, 2026-10-12)"
+  },
+  {
+   "sheet": 161581,
+   "i": 1,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161581,
+   "i": 3,
+   "use": "scan",
+   "why": "«של מלת» per the scan"
+  },
+  {
+   "sheet": 161581,
+   "i": 27,
+   "use": "digitized",
+   "why": "the scan quotes the three verses inline; the digitization gives them as the following items [28]–[30]. Same framing words"
+  },
+  {
+   "sheet": 160639,
+   "i": 8,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160639,
+   "i": 10,
+   "use": "digitized",
+   "why": "digitizer correction: the scan reads «ולמה לא לפתח», which doesn't fit (Ramban does open with «כי אם נאמר»); «לו» is the sense. Her probable typo"
+  },
+  {
+   "sheet": 160639,
+   "i": 13,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161721,
+   "i": 2,
+   "use": "not-published",
+   "why": "verse labels; the verses are shown in the panel"
+  },
+  {
+   "sheet": 161721,
+   "i": 7,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161721,
+   "i": 9,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161721,
+   "i": 20,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161721,
+   "i": 49,
+   "use": "scan",
+   "why": "her wording: «ובאיזה כוון הם משתדלים לתרצו כל אחד לפי דרכו?» (scan, clear; checked by Claude on the page image 2026-10-12)"
+  },
+  {
+   "sheet": 161472,
+   "i": 5,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161472,
+   "i": 7,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161472,
+   "i": 11,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161472,
+   "i": 20,
+   "use": "digitized",
+   "why": "«הקבה\"ו» is a typo in her quotation of the Tanchuma; quote marks only otherwise"
+  },
+  {
+   "sheet": 161472,
+   "i": 30,
+   "use": "digitized",
+   "why": "her verse list is fixed by overrides.json replace: the scan has «ל\"ז; י\"ג-י\"ד» (Gen 37:13–14, Joseph sent with qal שלח), not the digitizer's «י\"ז»; «פעיל»/«פיעל» is spelling"
+  },
+  {
+   "sheet": 160700,
+   "i": 4,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 5,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 10,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 11,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 17,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 20,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 21,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 29,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 30,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 160700,
+   "i": 39,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 6,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 7,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 16,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 21,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 25,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 26,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 27,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161777,
+   "i": 15,
+   "use": "digitized",
+   "why": "«במשמעו[?]» is doubtful; Ramban's own text (Sefaria) reads «כמשמעו», which she is quoting"
+  },
+  {
+   "sheet": 161402,
+   "i": 2,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161402,
+   "i": 4,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161402,
+   "i": 5,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161402,
+   "i": 22,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161402,
+   "i": 3,
+   "use": "scan",
+   "why": "her quotation of Cassuto reads «המתארים דרגה אחר דרגה» (scan)"
+  },
+  {
+   "sheet": 161147,
+   "i": 4,
+   "use": "scan",
+   "why": "«מה קשה לו?» per the scan"
+  },
+  {
+   "sheet": 161147,
+   "i": 5,
+   "use": "scan",
+   "why": "«של רש\"י» is not in the scan"
+  },
+  {
+   "sheet": 161147,
+   "i": 12,
+   "use": "digitized",
+   "why": "digitizer correction: the scan has «בחר לא», her typo for «לו»"
+  },
+  {
+   "sheet": 161147,
+   "i": 13,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161147,
+   "i": 22,
+   "use": "digitized",
+   "why": "the question is reworded in the digitization; her wording is restored by overrides.json replace (scan read by Claude at 300 dpi, 2026-10-12)"
+  },
+  {
+   "sheet": 161147,
+   "i": 28,
+   "use": "digitized",
+   "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+  },
+  {
+   "sheet": 161147,
+   "i": 39,
+   "use": "scan",
+   "why": "her wording adds «למה … לומר:» (scan)"
+  },
+  {
+   "sheet": 161147,
+   "i": 44,
+   "use": "digitized",
+   "why": "differences are inside her cross-reference to another sheet («תש\"ד» vs «תש\"ג, שאלה אחרונה»), which is not quoted; slice before the parenthesis"
+  },
+  {
+   "sheet": 161147,
+   "i": 11,
+   "use": "not-published",
+   "why": "NOT-IN-SCAN: «ענה לקושייתו !» is the digitizer's line"
+  },
+  {
+   "sheet": 161721,
+   "i": "after 50",
+   "use": "scan",
+   "why": "scan-only question; read by the checker and by Claude on the page image (2026-10-12)"
+  },
+  {
+   "sheet": 161581,
+   "i": "after 17",
+   "use": "scan",
+   "why": "scan-only question, read by the checker; confirmed by Claude on the page image (2026-10-12)"
+  },
+  {
+   "sheet": 161942,
+   "i": "after 32",
+   "use": "scan",
+   "why": "scan-only question «מה קשה לו?», read by the checker; confirmed by Claude on the page image (2026-10-12)"
+  },
+  {
+   "sheet": 161942,
+   "i": "after 35",
+   "use": "scan",
+   "why": "scan-only question «מניין לו שאינו כמשמעו?», read by the checker; confirmed by Claude on the page image (2026-10-12)"
+  },
+  {
+   "sheet": 161686,
+   "i": "after 30",
+   "use": "scan",
+   "why": "scan-only question, read by the checker; confirmed by Claude on the page image (2026-10-12)"
+  },
+  {
+   "sheet": 161147,
+   "i": "before 19",
+   "use": "scan",
+   "why": "Rashi as she printed it; seen by Claude on the page image (2026-10-12)"
+  },
+  {
+   "sheet": 161147,
+   "i": "before 24",
+   "use": "scan",
+   "why": "Rashi as she printed it, read by the checker"
+  },
+  {
+   "sheet": 161942,
+   "i": 27,
+   "use": "editorial",
+   "why": "her §ב Q2 («למה אין רש\"י מביא את דברי המדרש כאן, כשם שהביאם…») is typed inside this Rashi item; the digitizers added «לפרק…פסוק»; the scan ends «י\"ג י\"א ד\"ה ויסע לוט מקדם?». Cut the question out of the item; the Rashi after it is the source"
+  },
+  {
+   "sheet": 161472,
+   "i": 32,
+   "use": "editorial",
+   "why": "her pointer «העזר בתשובתך בדברי רש\"י כאן ד\"ה וישלח» is inside the Rashi item; citation detail only"
+  },
+  {
+   "sheet": 161777,
+   "i": 14,
+   "use": "editorial",
+   "why": "her pointer («עיין גם ראב\"ע ל\"ז א ד\"ה וישב החל מן \"והטעם אלה תולדות\"») heads the Ibn Ezra item; quote the Ibn Ezra from «והטעם אלה תולדות»"
+  },
+  {
+   "sheet": 161472,
+   "i": 14,
+   "use": "digitized",
+   "why": "Bereshit Rabbah 33:6 (Sefaria) reads «ישבה»; her «יצאה» is a slip in quoting. «אילו/אלו מצאה»: same words"
+  },
+  {
+   "sheet": 160700,
+   "i": 19,
+   "use": "digitized",
+   "why": "spelling and punctuation only"
+  },
+  {
+   "sheet": 160700,
+   "i": 28,
+   "use": "digitized",
+   "why": "spelling and abbreviation only"
+  },
+  {
+   "sheet": 160700,
+   "i": 33,
+   "use": "digitized",
+   "why": "spelling and punctuation only"
+  },
+  {
+   "sheet": 161686,
+   "i": 17,
+   "use": "digitized",
+   "why": "Gur Aryeh (Sefaria) reads «ממריד בהקב\"ה», as digitized"
+  }
+ ]
+}

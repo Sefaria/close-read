@@ -1,0 +1,161 @@
+{
+ "insert": [
+  {
+   "sheet": 161942,
+   "after": 32,
+   "kind": "question",
+   "he": "מה קשה לו?",
+   "cite": "161942-1944.md §ב Q5 (on Rashi ד\"ה הן עם אחד; marked xx)"
+  },
+  {
+   "sheet": 161942,
+   "after": 35,
+   "kind": "question",
+   "he": "מניין לו שאינו כמשמעו?",
+   "cite": "161942-1944.md §ב Q7 (on Rashi ד\"ה ומשם הפיצם, עד \"לעולם הבא\")"
+  },
+  {
+   "sheet": 161721,
+   "after": 50,
+   "kind": "question",
+   "he": "2. במה שונה מהם ראב\"ע ט\"ז ד\"ה והבאים זכר ונקבה החל מן \"וטעם ויסגר ה' בעדו\" עד \"כלם מתים\"?",
+   "cite": "161721-1945.md §ה Q2 (also read by Claude on the page image, 2026-10-12)"
+  },
+  {
+   "sheet": 161581,
+   "after": 17,
+   "kind": "question",
+   "he": "3. כיצד מתורצת הקושיה ברמב\"ן י\"ב ד\"ה זאת אות הברית עד \"אבל יש לרבותינו\"?",
+   "cite": "161581-1951.md §ב Q3"
+  },
+  {
+   "sheet": 161686,
+   "after": 30,
+   "kind": "question",
+   "he": "מה ההבדל בין גישת המדרש לבין גישת אברבנאל?",
+   "cite": "161686-1960.md §ד Q3 continuation"
+  },
+  {
+   "sheet": 161147,
+   "before": 19,
+   "kind": "source",
+   "ref": "Rashi on Genesis 6:9:2",
+   "he": "רש\"י: \"בדורותיו\": יש מרבותינו דורשים אותו לשבח, כל שכן אילו היה בדור של צדיקים היה צדיק יותר. ויש שדורשים אותו לגנאי: לפי דורו היה צדיק ואילו היה בדורו של אברהם לא היה נחשב לכלום.",
+   "cite": "161147-1958.md, head of §ג (also seen by Claude on the page image, 2026-10-12)"
+  },
+  {
+   "sheet": 161147,
+   "before": 24,
+   "kind": "source",
+   "ref": "Rashi on Genesis 6:9:3",
+   "he": "רש\"י ובאברהם הוא אומר (בראשית כ\"ד) \"אשר התהלכתי לפניו\". נח היה צריך סעד לתמכו, אבל אברהם היה מתחזק ומהלך בצדקו מאליו.",
+   "cite": "161147-1958.md, head of §ד"
+  }
+ ],
+ "replace": [
+  {
+   "sheet": 161472,
+   "i": 30,
+   "from": "י\"ז י\"ג-י\"ד",
+   "to": "ל\"ז י\"ג-י\"ד",
+   "cite": "161472-1952.md [30]; triage.json",
+   "why": "scan «ל\"ז; י\"ג-י\"ד»; Gen 37:13–14 is the qal שלח of sending a messenger, her point"
+  },
+  {
+   "sheet": 161147,
+   "i": 22,
+   "from": "היכן הולך רש\"י בפירושו לפרקים ו'–ז' בעקבות הדעה שלא היה צדיק, אלא עד הגיע לדרגה בינונית בלבד?",
+   "to": "מה הם המקומות ברש\"י לפרקים ו' - ז' שבהם הולך רש\"י בעקבות הדעה הזו, (שלא היה צדיק אלא עד דרגה בינונית).",
+   "cite": "161147-1958.md [22]; read by Claude at 300 dpi, 2026-10-12",
+   "why": "the digitization rewords her question; «שבהם» and «עד» are smudged, «עד» corroborated by the digitized «עד הגיע»"
+  },
+  {
+   "sheet": 161105,
+   "i": 27,
+   "from": "נשמה בבמה",
+   "to": "נשמה בבהמה",
+   "cite": "161105-1957.md [27]",
+   "why": "digitizer typo; the scan and Rashi (Sefaria, Rosenbaum–Silbermann) read «בבהמה»"
+  },
+  {
+   "sheet": 161105,
+   "i": 21,
+   "from": "וזה הכלל",
+   "to": "וזה כלל",
+   "cite": "161105-1957.md [21]",
+   "why": "the scan and Ibn Ezra (Sefaria) read «וזה כלל»"
+  },
+  {
+   "sheet": 161105,
+   "i": 40,
+   "from": "כי חוטא כראוי לו",
+   "to": "כל חוטא כראוי לו",
+   "cite": "161105-1957.md [40]",
+   "why": "the scan and Radak (Sefaria) read «כל חוטא»"
+  },
+  {
+   "sheet": 160639,
+   "i": 5,
+   "from": "נמצא בהם זרות",
+   "to": "נמצא מהם בזרות",
+   "cite": "160639-1964.md [5]",
+   "why": "the scan and Ramban (Sefaria) read «נמצא מהם בזרות»; her Q9 quotes it so"
+  },
+  {
+   "sheet": 161496,
+   "i": 13,
+   "from": "על היותר חיה",
+   "to": "על היותה חיה",
+   "cite": "161496-1948.md (Wessely)",
+   "why": "the scan reads «היותה» (the soul, fem.); «היותר» is a digitizer slip"
+  },
+  {
+   "sheet": 160443,
+   "i": 10,
+   "from": "השפה הגרמנית, הצרפתית, וכו'.",
+   "to": "השפה הגרמנית, הצרפתית, וכו'. ואילו \"לשון\" היא הדיאלקט, דרך הלשון, הגוון המיוחד של השפה...",
+   "cite": "160443-1968.md [10]",
+   "why": "a sentence of Hirsch she printed, dropped by the digitization"
+  },
+  {
+   "sheet": 161402,
+   "i": 20,
+   "from": "ואמר לו לעשות תיבה",
+   "to": "ואמר לי לעשות תיבה",
+   "cite": "161402-1954.md [20]; read by Claude on the page image (2026-10-12)",
+   "why": "Noah is speaking («כדי שאמלט אני וביתי»); the scan reads «לי»"
+  },
+  {
+   "sheet": 161105,
+   "i": 12,
+   "from": "אם לדעת הנרצח",
+   "to": "אם לרעת הנרצח",
+   "cite": "161105-1957.md [12]; scan read by Claude (2026-10-12)",
+   "why": "her print reads «לדעת» (underlined); HaKtav VeHaKabbalah (Sefaria) reads «לרעת», and the contrast with «לטובת הנרצח» requires it: a slip in her typing, corrected to the source"
+  },
+  {
+   "sheet": 161548,
+   "i": 37,
+   "from": "באיזו הוראה יש לפרש את המלה \"כי\" בצירוף",
+   "to": "באיזה הוראה יש לפרש את \"כי\" של",
+   "cite": "161548-1946.md [37]; triage.json",
+   "why": "triage: her wording from the scan; the checker fragment did not apply (a comma)"
+  },
+  {
+   "sheet": 160639,
+   "i": 5,
+   "from": "אמר רק אבהו",
+   "to": "אמר ר' אבהו",
+   "cite": "160639-1964.md [5]",
+   "why": "digitizer slip; the scan reads «ר' אבהו» (Bereshit Rabbah 33:6)"
+  },
+  {
+   "sheet": 161581,
+   "i": 14,
+   "from": "אותה הברית",
+   "to": "אות הברית",
+   "cite": "161581-1951.md [14]",
+   "why": "the scan reads «אות הברית» (the sign of the covenant, Abarbanel's subject)"
+  }
+ ]
+}

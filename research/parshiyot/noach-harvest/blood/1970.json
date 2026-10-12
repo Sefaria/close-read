@@ -1,0 +1,496 @@
+{
+ "sheet_id": 160445,
+ "year_g": "1970",
+ "year_he": "תש\"ל",
+ "theme": "blood",
+ "title": "פרשת נח תש\"ל - מצוות בני נח",
+ "sefaria_url": "https://www.sefaria.org/sheets/160445",
+ "pdf_url": "https://www.nechama.org.il/pdf/5.pdf",
+ "scancheck": "noach-scancheck/160445-1970.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "_open",
+   "header_scan": null,
+   "header_digitized": null,
+   "items": [
+    {
+     "i": 0,
+     "kind": "text",
+     "he": "א. דברי ה'",
+     "en_nataf": "A. God's Words",
+     "scan_pending": [
+      {
+       "digitized": "א. דברי ה'",
+       "scan": "א.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "not-published",
+      "why": "a section header, not quoted"
+     },
+     "publish": false
+    },
+    {
+     "i": 1,
+     "kind": "text",
+     "he": "השוה את דברי ה' הראשונים לאדם לאחר בריאת העולם לדברי ה' הראשונים לנח ולבניו אחר המבול :",
+     "en_nataf": "Compare Gods's first words to Adam after the creation of the world to God's first words to Noah after the flood:",
+     "digitized_he": "השווה את דברי ה' הראשונים לאדם לאחר בריאת העולם לדברי ה' הראשונים לנח ולבניו אחר המבול:",
+     "scan_fixes": [
+      {
+       "digitized": "השווה את דברי ה' … אחר המבול:",
+       "scan": "השוה את דברי ה' … אחר המבול :",
+       "class": "spelling"
+      },
+      {
+       "digitized": "השווה",
+       "scan": "השוה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 2,
+     "kind": "text",
+     "he": "לאדם \n לנח \n \n \n \n פרק א' פסוק כ\"ח \n\n \"פְּרוּ וּרְבוּ וּמִלְאוּ אֶת הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל חַיָּה הָרֹמֶשֶׂת עַל הָאָרֶץ\" \n \n \n פרק ט' פסוק א' \n\n \"פְּרוּ וּרְבוּ וּמִלְאוּ אֶת הָאָרֶץ\" \n \n \n \n \n פרק א' פסוק כ\"ט \n\n \"וַיֹּאמֶר אֱ-לֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת כָּל עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל פְּנֵי כָל הָאָרֶץ וְאֶת כָּל הָעֵץ אֲשֶׁר בּוֹ פְרִי עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה\" \n \n \n פרק ט' פסוק ב' \n\n \"וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה עַל כָּל חַיַּת הָאָרֶץ וְעַל כָּל עוֹף הַשָּׁמָיִם בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה וּבְכָל דְּגֵי הַיָּם בְּיֶדְכֶם נִתָּנוּ\" \n \n \n \n \n פרק א' פסוק ל' \n\n \"וּלְכָל חַיַּת הָאָרֶץ וּלְכָל עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ עַל הָאָרֶץ אֲשֶׁר בּוֹ נֶפֶשׁ חַיָּה אֶת כָּל יֶרֶק עֵשֶׂב לְאָכְלָה\" \n \n \n פרק ט' פסוק ג' \n\n \"כָּל רֶמֶשׂ אֲשֶׁר הוּא חַי לָכֶם יִהְיֶה לְאָכְלָה כְּיֶרֶק עֵשֶׂב נָתַתִּי לָכֶם אֶת כֹּל\" \n \n \n \n   \n \n פרק ט' פסוק ד' \n\n \"אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\"",
+     "en_nataf": "To Adam \n To Noah \n \n \n \n Genesis 1:28 \n\n God blessed them and God said to them, “Be fertile and increase, fill the earth and master it; and rule the fish of the sea, the birds of the sky, and all the living things that creep on earth.” \n \n \n Genesis 9:1 \n\n God blessed Noah and his sons, and said to them, “Be fertile and increase, and fill the earth. \n \n \n \n \n Genesis 1:29 \n\n God said, “See, I give you every seed-bearing plant that is upon all the earth, and every tree that has seed-bearing fruit; they shall be yours for food. \n \n \n Genesis 9:2 \n\n The fear and the dread of you shall be upon all the beasts of the earth and upon all the birds of the sky—everything with which the earth is astir—and upon all the fish of the sea; they are given into your hand. \n \n \n \n \n Genesis 1:30  \n\n And to all the animals on land, to all the birds of the sky, and to everything that creeps on earth, in which there is the breath of life, [I give] all the green plants for food.” And it was so. \n \n \n Genesis 9:3 \n\n Every creature that lives shall be yours to eat; as with the green grasses, I give you all these. \n \n \n \n   \n \n Genesis 9:4 \n\n You must not, however, eat flesh with its life-blood in it.",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "question",
+     "he": "האם תוכל להסביר את סבת השנויים העיקריים בין שתי אמירות ה' ע\"פ זמנם והקשרם של שתי האמירות?",
+     "en_nataf": "Are you able to explain the reason for the main changes between the two statements of God based on the times and contexts of the two statements?",
+     "digitized_he": "האם תוכל להסביר את סיבת השינויים העיקריים בין שתי אמירות ה' על פי זמניהן והקשריהן של שתי האמירות?",
+     "scan_fixes": [
+      {
+       "digitized": "את סיבת השינויים העיקריים … על פי זמניהן והקשריהן של שתי האמירות?",
+       "scan": "את סבת השנויים העיקריים … ע\"פ זמנם והקשרם של שתי האמירות?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "סיבת השינויים … על פי זמניהן והקשריהן",
+       "scan": "סבת השנויים … ע\"פ זמנם והקשרם",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "her words are «ע\"פ זמנם והקשרם» (scan)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. ג'. כל רמש אשר הוא חי לכם יהיה לאכלה. (verse underlined)",
+   "header_digitized": "ב. היתר אכילת בשר",
+   "items": [
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Genesis 9:3",
+     "he": "\" כָּל רֶמֶשׂ אֲשֶׁר הוּא חַי לָכֶם יִהְיֶה לְאָכְלָה\"",
+     "en": "\"Every moving thing that liveth shall be for food for you\"",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "text",
+     "he": "רש\"ר הירש:\nמשנשתנו חיי האדם, הוא זוכה במזון חדש. מסתבר שזה תלוי בקיצור חייו. מה שנעשה עד כה במשך שבע מאות שנה, ייעשה מעתה במשך שבעים, שמונים שנה. וההתפתחות המהירה דורשת מזון מן החי. ועוד: הבדלי החום, חילוף עונות השנה והאקלימים – כל אלה יש בהם טעם להתיר מזון מן החי. על-ידי-כך האדם תלוי פחות במזון מגידולי קרקע... אין התורה רוצה בצמחוניים, ואין היא סולדת מאכילת בשר. נהפוך הוא: מצוה לאכול בשר ביום-טוב. (עיין ספרי דב' ט\"ז י\"א). אילו היינו במצבנו הפיסי המקורי, לא היה מותר לנו לאכול בשר; אך עתה הבשר הוא צורך האדם. אולם מיד עם היתר הבשר, נכנסות לתוקפן הלכות מאכלות אסורות. וכן מצינו לאחר מכן, משניתנה תורה לישראל: אין לך מאכל שנאסר בתורה שאיננו מאכל מן החי... כנגד זה אין לך צמח שהוא אסור באכילה, כשהוא לעצמו.",
+     "en_nataf": "R. S. R. Hirsch:\n\nFrom when human life changed, man was granted new nourishment. It is probable that this is due to the shortening of his life: What was up until now done during the course of seven hundred years would occur in the course of 'seventy, eighty years.' And [man's newly] speedy development requires nourishment from living creatures. And also the change of the seasons of the year and in climates – all of these constitute reasons for the dispensation of nourishment from living creatures. And through this, man is [also] less dependent upon nourishment from that which grows from the ground... The Torah does not want vegetarianism and it does not shy away from the eating of meat. Just the opposite, it is a commandment to eat meat on holidays (see Sifrei Deuteronomy on 16:11). Had we been in our original physical state, it would not have been permissible for us to eat meat. But now it is necessary for man [to eat meat]. However with the dispensation to eat meat, laws about forbidden foods immediately began to take effect. Likewise do we find afterwards, when the Torah was given to Israel, that there is no food that the Torah prohibits that is not from living creatures... In contrast to this, there is no plant that is intrinsically forbidden to eat.",
+     "scan_pending": [
+      {
+       "digitized": "מסתבר שזה תלוי בקיצור חייו",
+       "scan": "בקצור חייו",
+       "class": "substantive"
+      },
+      {
+       "digitized": "אין התורה רוצה בצמחוניים, ואין היא",
+       "scan": "בצמחונים ואין היא",
+       "class": "substantive"
+      },
+      {
+       "digitized": "נכנסות לתוקפן",
+       "scan": "לתקפן",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "רש\"ר הירש:\nמשנשתנו חיי האדם, הוא זוכה במזון חדש. מסתבר שזה תלוי בקיצור חייו. מה שנעשה עד כה במשך שבע מאות שנה, ייעשה מעתה במשך שבעים, שמונים שנה. וההתפתחות המהירה דורשת מזון מן החי. ועוד: הבדלי החום, חילוף עונות השנה והאקלימים – כל אלה יש בהם טעם להתיר מזון מן החי. על-ידי-כך האדם תלוי פחות במזון מגידולי קרקע... אין התורה רוצה בצמחוניים, ואין היא סולדת מאכילת בשר. נהפוך הוא: מצוה לאכול בשר ביום-טוב. (עיין ספרי דב' ט\"ז י\"א). אילו היינו במצבנו הפיסי המקורי, לא היה מותר לנו לאכול בשר; אך עתה הבשר הוא צורך האדם. אולם מיד עם היתר הבשר, נכנסות לתוקפן הלכות מאכלות אסורות. וכן מצינו לאחר מכן, משניתנה תורה לישראל: אין לך מאכל שנאסר בתורה שאיננו מאכל מן החי... כנגד זה אין לך צמח שהוא אסור באכילה, כשהוא לעצמו.",
+     "scan_fixes": [
+      {
+       "digitized": "רש\"ר הירש:",
+       "scan": "ר' ש.ר. הירש",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הבדלי החום",
+       "scan": "הבדלי החם",
+       "class": "spelling"
+      },
+      {
+       "digitized": "(עיין ספרי דב' ט\"ז י\"א)",
+       "scan": "(ע' ספרי דב' ט\"ז י\"א)",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "spelling inside Hirsch's (translated) text; the checker's fragments drop words when applied, so the digitization is kept"
+     },
+     "scan_reading": "ר' ש.ר. הירש\nמשנשתנו חיי האדם, הוא זוכה במזון חדש. מסתבר שזה תלוי בקיצור חייו. מה שנעשה עד כה במשך שבע מאות שנה, ייעשה מעתה במשך שבעים, שמונים שנה. וההתפתחות המהירה דורשת מזון מן החי. ועוד: הבדלי החם, חילוף עונות השנה והאקלימים – כל אלה יש בהם טעם להתיר מזון מן החי. על-ידי-כך האדם תלוי פחות במזון מגידולי קרקע... אין התורה רוצה בצמחוניים, ואין היא סולדת מאכילת בשר. נהפוך הוא: מצוה לאכול בשר ביום-טוב. (ע' ספרי דב' ט\"ז י\"א). אילו היינו במצבנו הפיסי המקורי, לא היה מותר לנו לאכול בשר; אך עתה הבשר הוא צורך האדם. אולם מיד עם היתר הבשר, נכנסות לתוקפן הלכות מאכלות אסורות. וכן מצינו לאחר מכן, משניתנה תורה לישראל: אין לך מאכל שנאסר בתורה שאיננו מאכל מן החי... כנגד זה אין לך צמח שהוא אסור באכילה, כשהוא לעצמו."
+    },
+    {
+     "i": 7,
+     "kind": "text",
+     "he": "השוה את דבריו לדברי הרב קוק בענין היתר אכילת בשר לנח, שהובאו בגליון אחרי-מות קדושים תשכ\"ט. (ועיין עלון ההדרכה).",
+     "en_nataf": "Compare his words regarding the dispensation to Noah to eat meat and the words of Rav Kook cited in the worksheet for Achrei Mot-Kedoshim from 1969. (And see the guidance sheet)",
+     "digitized_he": "השווה את דבריו לדברי הרב קוק בעניין היתר אכילת בשר לנח, שהובאו בגיליון אחרי-מות קדושים תשכ\"ט. (ועיין עלון ההדרכה).",
+     "scan_fixes": [
+      {
+       "digitized": "השווה … בעניין … בגיליון",
+       "scan": "השוה … בענין … בגליון",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 8,
+     "kind": "question",
+     "he": "מה ההבדל במתן סיבה להיתר אכילת הבשר בין ר' ש.ר. הירש ובין הרב קוק?",
+     "en_nataf": "What is the difference between R. S. R. Hirsch and Rav Kook in the reason given for the dispensation to eat meat?",
+     "digitized_he": "מה ההבדל במתן סיבה להיתר אכילת הבשר בין רש\"ר הירש ובין הרב קוק?",
+     "scan_fixes": [
+      {
+       "digitized": "בין רש\"ר הירש ובין הרב קוק?",
+       "scan": "בין ר' ש.ר. הירש ובין הרב קוק?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "רש\"ר הירש",
+       "scan": "ר' ש.ר. הירש",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. ד'. אך בשר בנפשו דמו לא תאכלו (underlined)",
+   "header_digitized": "ג. \"...בנפשו דמו...\"",
+   "items": [
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Genesis 9:4",
+     "he": "(ד) אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃",
+     "en": "\"You must not, however, eat flesh in its soul, its blood in it.\"",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Radak on Genesis 9:4:1",
+     "he": "ד\"ה אך בשר: אף על פי שנתתי לכם כל בשר רומש לאכול, לא תאכלו אותו עם נפשו שהוא דמו, כלומר כל זמן שהבשר עם הנפש, והוא בעודו חי, אלא קודם תזבחוהו ואחר-כך תאכלוהו, כי זה דרך אכזריות לחתוך בשר מן החי ולאכלו.",
+     "en": "אך בשר, even though I have permitted you all moving (living) creatures as food, you must not eat those animals while they are still alive, i.e. as long as the flesh and the soul are part of one whole you must not eat such tissue. First you have to slaughter the animal. It would be too cruel to simply cut living tissue from an animal and consume it.",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "source",
+     "ref": "Abarbanel on Torah, Genesis 9:1:1",
+     "he": "ולפי שבהרגם בעלי החיים לאכילתם ילמדו מידת אכזריות, אסר להם אבר מן החי שהוא אכזריות יותר גדול. והוא אמרו \"אך בשר בנפשו דמו לא תאכלו\". ובי\"ת \"בנפשו\" תשמש במקום \"עם\". כמו (שמות י\"ד) \"ברכבו ובפרשיו\" (שמות ט\"ו כ') \"בתופים ובמחולות\" יאמר הכתוב: ובשר בהיות עם נפשו דמו – לא תאכלו מן הבשר ההוא. והוא באמת פירוש ישר ואמיתי.",
+     "en": "And since they would learn the trait of cruelty from their killing animals in order to eat them, it forbade them [eating] a limb from a live animal, which is an even greater cruelty. And this is its statement, \"But you may not eat meat in its soul (benafsho), its blood.\" And the [letter] bet, of benafsho is used in the place of \"with,\" as in (Exodus 14:18), berikhvo oveparashav (with his chariot and with his riders)\"; and (Exodus 15:20), \"betupim ouvimacholot (with drums and with dances).\" [Hence] the verse is saying, when the soul – its blood – is in it, do not eat from the meat. And this is a truly straight and true explanation.",
+     "basis": "digitization"
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "1. מה פירוש המלה \"נפש\", לפי דעת הנ\"ל?",
+     "en_nataf": "1. What is the understanding of the word, soul (nefesh), according to the opinion above?",
+     "scan_pending": [
+      {
+       "digitized": "1. מה פירוש המלה \"נפש\", לפי דעת הנ\"ל?",
+       "scan": "(א) מה פירוש המלה \"נפש\" לפי דעת הנ\"ל?",
+       "class": "substantive"
+      }
+     ],
+     "scan_fixes": [
+      {
+       "digitized": "הנ\"ל.",
+       "scan": "הנ\"ל?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "המילה",
+       "scan": "המלה",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "אברבנאל? במה",
+       "scan": "אברבנאל, במה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+     }
+    },
+    {
+     "i": 14,
+     "kind": "question",
+     "he": "2. מהו היחס התחבירי בין \"נפשו\" ו\"דמו\" לפי הפרשנים הנ\"ל.",
+     "en_nataf": "2. What is the syntactic relationship between \"its soul\" and \"its blood,\" according to the commentators above?",
+     "scan_pending": [
+      {
+       "digitized": "2. … לפי הפרשנים הנ\"ל.",
+       "scan": "x (ב) … לפי הפרשנים הנ\"ל?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+     }
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "3. מהו טעם האיסור לפי אברבנאל? במה סוטה הוא מן הדעה המקובלת?",
+     "en_nataf": "3. What is the reason for the prohibition according to Abarbanel? In what way does he veer from the traditional opinion?",
+     "scan_pending": [
+      {
+       "digitized": "3. מהו טעם האיסור לפי אברבנאל? במה סוטה",
+       "scan": "(ג) מהו טעם האיסור לפי אברבנאל, במה סוטה",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+     }
+    },
+    {
+     "i": 16,
+     "kind": "text",
+     "he": "ר' יוסף אבן כספי\n\nד\"ה בנפשו דמו: כאילו אמר: רוצה לומר \"דמו\". וזה הבאור היה מן הצורך, כי \"נפש\" שם משותף ל\"דם\" ולזולתו, כמו שכתב המורה. (ח\"א. מ\"א).",
+     "en_nataf": "R. Yosef Ibn Kaspi\n\nS.v. In its soul, its blood: It is as if it stated, \"Meaning to say, its blood.\" And this was a necessary clarification, as \"soul (nefesh)\" is a name common to blood and to something else, as was written by [Rambam in] the Guide (Guide for the Perplexed I:41).",
+     "digitized_he": "ר' יוסף אבן כספי\n\nד\"ה בנפשו דמו: כאילו אמר: רוצה לומר \"דמו\". וזה הביאור היה מן הצורך, כי \"נפש\" שם משותף ל\"דם\" ולזולתו, כמו שכתב המורה (ח\"א, מ\"א).",
+     "scan_fixes": [
+      {
+       "digitized": "וזה הביאור … כמו שכתב המורה (ח\"א, מ\"א).",
+       "scan": "וזה הבאור … כמו שכתב המורה. (ח\"א. מ\"א).",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הביאור",
+       "scan": "הבאור",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "4. האם מסכים אבן כספי לדברי אחד המפרשים הנ\"ל?",
+     "en_nataf": "4. Does Ibn Kaspi agree with the words of one of the commentators above?",
+     "scan_pending": [
+      {
+       "digitized": "4.",
+       "scan": "(א)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+     }
+    },
+    {
+     "i": 18,
+     "kind": "question",
+     "he": "5. מה הוא ה\"זולתו\" שאליו יכוון?",
+     "en_nataf": "5. What is the \"something else\" to which he is referring?",
+     "scan_pending": [
+      {
+       "digitized": "5.",
+       "scan": "(ב)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+     }
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "6. האם הוראת המילה \"נפש\" בדברים י\"ב כ\"ג היא כהוראתה במקומנו – לדעת אבן כספי – אם לא?",
+     "en_nataf": "6. Is the meaning of the word, \"soul,\" in Deuteronomy 12:23 the same as its meaning here according to Ibn Kaspi's opinion or not?",
+     "scan_pending": [
+      {
+       "digitized": "6. האם הוראת המילה \"נפש\" … במקומנו – לדעת אבן כספי – אם לא?",
+       "scan": "x (ג) האם הוראת המלה \"נפש\" … במקומנו - לדעת אבן כספי - אם לא?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) (the scan letters these (א)(ב)(ג); the numbering is the digitizer's)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. ד'. אך בשר בנפשו דמו לא תאכלו / ה'. ואך את דמכם לנפשותיכם אדרוש (second line underlined)",
+   "header_digitized": "ד. \"...ואך את דמכם...\"",
+   "items": [
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Genesis 9:5",
+     "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ\"",
+     "en": "\"But (ach) your blood of your lives will I require\"",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Genesis 9:4",
+     "he": "\"אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\"",
+     "en": "\"You must not, however (ach), eat flesh with its life-blood in it.\"",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": " מה ההבדל במשמעות בין \"אך\" של פ' ד' ל-\"אך\" של פ' ה'?",
+     "en_nataf": "1. What is the difference between the meaning of ach in verse 4 and its meaning in verse 5?",
+     "digitized_he": "1. מה ההבדל במשמעות בין \"אך\" של פסוק ד' ל-\"אך\" של פסוק ה'?",
+     "scan_fixes": [
+      {
+       "digitized": "1. … בין \"אך\" של פסוק ד' ל-\"אך\" של פסוק ה'?",
+       "scan": "xx … בין \"אך\" של פ' ד' ל-\"אך\" של פ' ה'?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "של פסוק ד' … של פסוק ה'",
+       "scan": "של פ' ד' … של פ' ה'",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Rashi on Genesis 9:5:1",
+     "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבהמה, את דמכם אדרוש מהשופך דם עצמו.",
+     "en": "ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "source",
+     "ref": "Bekhor Shor, Genesis 9:5:1",
+     "he": "ד\"ה ואך את דמכם לנפשותיכם אדרוש: מפני שהתיר לשפוך דם הבהמות, אסר לשפוך דם האדם ואפילו דם עצמו, שלא יאמרו: הלוא דם הבהמה הותר לנו לשפוך, מפני שחיו על ידינו, אדם שחי על ידי עצמו, מותר נמי להרוג את עצמו, לכך נאמר: \"לנפשותיכם אדרוש\".",
+     "en": "S.v. But (ach) your blood of your lives will I require: Because it permitted to spill the blood of beasts, it forbade the spilling of the blood of man – even one's own blood. [This is] so that they will not say, \"Is it not that [since] the blood of a beast is permitted for us to spill because they live through us, [so] too a man who lives through himself should be permitted to kill himself? Hence it is stated, \"of your lives I will require.\"",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "2. מה קשה לשניהם בפסוקנו?",
+     "en_nataf": "2. What is the difficulty in our verse for both of them?",
+     "scan_pending": [
+      {
+       "digitized": "ביישוב הקושי או יש הבדל",
+       "scan": "בישוב הקושי או היש הבדל",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "2. מה קשה לשניהם בפסוקנו?",
+     "scan_fixes": [
+      {
+       "digitized": "2.",
+       "scan": "1.",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "הביטוי",
+       "scan": "הבטוי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "the pair belongs to [27]; nothing differs in this item"
+     },
+     "scan_reading": "1. מה קשה לשניהם בפסוקנו?"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "3. האם שני הפרשנים הנ\"ל מסכימים זה עם זה ביישוב הקושי או יש הבדל בין תשובותיהם?",
+     "en_nataf": "3. Do the two commentators above agree with one another on the resolution of the difficulty or is there a difference between their answers?",
+     "scan_pending": [
+      {
+       "digitized": "3. … ביישוב הקושי או יש הבדל",
+       "scan": "2. … בישוב הקושי או היש הבדל",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text) («או היש» vs «או יש»: same question)"
+     }
+    },
+    {
+     "i": 28,
+     "kind": "question",
+     "he": "3. הסבר את הבטוי בדברי בכור שור: \"חיו על ידינו\", \"חי על ידי עצמו\".",
+     "en_nataf": "4. Explain the expression found in Bekhor Shor, \"live through us\"; \"lives through himself,\"",
+     "digitized_he": "4. הסבר את הביטוי בדברי בכור שור: \"חיו על ידינו\", \"חי על ידי עצמו\".",
+     "scan_fixes": [
+      {
+       "digitized": "4. הסבר את הביטוי",
+       "scan": "3. הסבר את הבטוי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§ג: Source number «1)» before Radak and «2)» before Ibn Kaspi dropped; question lettering (א)–(ג) ×2 replaced by 1–6.",
+  "§ג: `x` marks on (ב) and on Ibn Kaspi (ג) dropped."
+ ],
+ "needs_human": []
+}

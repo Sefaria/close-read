@@ -1,0 +1,442 @@
+{
+ "sheet_id": 160639,
+ "year_g": "1964",
+ "year_he": "תשכ\"ד",
+ "theme": "covenant",
+ "title": "פרשת נח תשכ\"ד - היונה והברית",
+ "sefaria_url": "https://www.sefaria.org/sheets/160639",
+ "pdf_url": "https://www.nechama.org.il/pdf/213.pdf",
+ "scancheck": "noach-scancheck/160639-1964.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א י\"א והנה עלה זית טרף בפיה",
+   "header_digitized": "א. בביאור המילה \"טרף\"",
+   "items": [
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Genesis 8:11",
+     "he": "\"וְהִנֵּה עֲלֵה זַיִת טָרָף בְּפִיהָ\"",
+     "en": "And the dove came in to him at eventide; and lo in her mouth an olive-leaf freshly plucked; so Noah knew that the waters were abated from off the earth.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:11:1",
+     "he": "ד\"ה טרף בפיה: אומר אני שזכר היה, לכן קוראו פעמים לשון זכר ופעמים לשון נקבה, לפי שכל יונה שבמקרא לשון נקבה, כמו (שיר השירים ה') \"כיונים על אפיקי מים רוחצות\"; (יחזקאל ז' ט\"ז) \"כיוני הגאיות כלם הומות\"; (הושע ז') \"כיונה פותח\".",
+     "en": "טרף בפיה PLUCKED IN HER MOUTH — I am of opinion that it (the dove) was a male and that therefore it (the text) speaks of it sometimes as masculine and sometimes as feminine, because really wherever יונה “dove” occurs in the Scriptures it is spoken of as feminine, as (Song 5:12) “[His eyes] are like those of doves beside the water brooks. that are washing themselves (רוחצות fem.) in milk”; (Ezekiel 7:16) “Like the doves of the valleys, all of them moaning\" and as (Hosea 7:11) “Like a silly (פותה fem.) dove”",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:11:2",
+     "he": "ד\"ה טרף: חטף. ומדרש אגדה: לשון מזון. ודרשו \"בפיה\" לשון מאמר. אמרה: יהיו מזונות מרורין כזית בידו של הקב\"ה ולא מתוקין כדבש בידי בשר ודם.",
+     "en": "טרף means IT HAD PLUCKED OFF — The Midrashic explanation takes it as meaning “food”, and interprets בפיה as “speaking” — viz., she said. “Rather that my food be bitter as an olive but from the hand of God, than as sweet as honey and from the hand of mortal men” (Eruvin 18b; Genesis Rabbah 33).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Ramban on Genesis 8:11:1",
+     "he": "ד\"ה טרף בפיה. כתב רש\"י: אומר אני... (עיין לעיל) ואין כל זה נכון בעיני, כי חזרת זכר היונים מנקבה לזכר במקום אחד מן הפרשה אין בו טעם. ואם לשון לקראתם (= ואם מדרך הלשון לקרוא להם, לכנות אותם) כולם בשם הנקבות, למה שינה בכאן? \nוכן מדרשם בהגדה, לא שיעשו \"בפיה\" לשון מאמר כלל, אבל מדרשם מפני שהביאה העלה הזה, כי אם נאמר שאירע כן, לא על חינם פירש אותו הכתוב כי היה לו לומר: \"והנה עלה טרף בפיה\". והזית איננו מן האילנות הגבוהים מאוד שישכנו בו העופות לאורך דליותיו, ולכך אמרו, כי היה בזה רמז, שהעופות נח להם להיות מזונותם מרים כלענה ביד הקב\"ה ולא שיהיו טובים בידי אדם. וכל שכן בני אדם שאין רצונם להתפרנס זה מזה. \nולשון בראשית רבה (ל\"ג, ו') אמר ר' אבהו... אלא רמז רמזה לו: אמרה לו: \"נח! מר מזה מתחת ידו של הקב\"ה ולא מתוק מתחת ידך\". אבל בגמרא (סנהדרין ק\"ח, ע\"ב) הוסיפו: מאי משמע דהאי \"טרף\" לישנא דמזוני הוא, דכתיב (משלי ל' ח') \"הטריפני לחם חוקי\", כי מפני הטעם שאמרנו, יעשו לזה סמך מלשון \"הטריפני\" ירמוז כאילו אמר: \"והנה עלה זית היה טרף בפיה\". \nופשוטו של מקרא פירשו בו, שהוא תואר לעלה, והנה עלה זית טרוף בפיה, וסמך לדבר, שהוא קמוץ, כי כן משפטו. (כוונתו: כן משפטו של שם תואר שיבוא בשני קמצים, כמו חכם, קטן) אבל נמצא מהם בזרות: (הושע ו' א') \"כי הוא טרף וירפאנו\"; (ויקרא ה' כ\"ג): \"והשיב את הגזילה אשר גזל\"; (ויקרא ה' י\"ח) על שגגתו אשר שגג\". וזולתם רבים.",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "scan",
+     "digitized_he": "ד\"ה טרף בפיה. כתב רש\"י: אומר אני... (עיין לעיל) ואין כל זה נכון בעיני, כי חזרת זכר היונים מנקבה לזכר במקום אחד מן הפרשה אין בו טעם. ואם לשון לקראתם (= ואם מדרך הלשון לקרוא להם, לכנות אותם) כולם בשם הנקבות, למה שינה בכאן? \nוכן מדרשם בהגדה, לא שיעשו \"בפיה\" לשון מאמר כלל, אבל מדרשם מפני שהביאה העלה הזה, כי אם נאמר שאירע כן, לא על חינם פירש אותו הכתוב כי היה לו לומר: \"והנה עלה טרף בפיה\". והזית איננו מן האילנות הגבוהים מאוד שישכנו בו העופות לאורך דליותיו, ולכך אמרו, כי היה בזה רמז, שהעופות נח להם להיות מזונותם מרים כלענה ביד הקב\"ה ולא שיהיו טובים בידי אדם. וכל שכן בני אדם שאין רצונם להתפרנס זה מזה. \nולשון בראשית רבה (ל\"ג, ו') אמר רק אבהו... אלא רמז רמזה לו: אמרה לו: \"נח! מר מזה מתחת ידו של הקב\"ה ולא מתוק מתחת ידך\". אבל בגמרא (סנהדרין ק\"ח, ע\"ב) הוסיפו: מאי משמע דהאי \"טרף\" לישנא דמזוני הוא, דכתיב (משלי ל' ח') \"הטריפני לחם חוקי\", כי מפני הטעם שאמרנו, יעשו לזה סמך מלשון \"הטריפני\" ירמוז כאילו אמר: \"והנה עלה זית היה טרף בפיה\". \nופשוטו של מקרא פירשו בו, שהוא תואר לעלה, והנה עלה זית טרוף בפיה, וסמך לדבר, שהוא קמוץ, כי כן משפטו. (כוונתו: כן משפטו של שם תואר שיבוא בשני קמצים, כמו חכם, קטן) אבל נמצא בהם זרות: (הושע ו' א') \"כי הוא טרף וירפאנו\"; (ויקרא ה' כ\"ג): \"והשיב את הגזילה אשר גזל\"; (ויקרא ה' י\"ח) על שגגתו אשר שגג\". וזולתם רבים.",
+     "scan_fixes": [
+      {
+       "digitized": "נמצא בהם זרות",
+       "scan": "נמצא מהם בזרות",
+       "class": "triaged",
+       "cite": "noach-scancheck/160639-1964.md [5]",
+       "why": "the scan and Ramban (Sefaria) read «נמצא מהם בזרות»; her Q9 quotes it so"
+      },
+      {
+       "digitized": "אמר רק אבהו",
+       "scan": "אמר ר' אבהו",
+       "class": "triaged",
+       "cite": "noach-scancheck/160639-1964.md [5]",
+       "why": "digitizer slip; the scan reads «ר' אבהו» (Bereshit Rabbah 33:6)"
+      }
+     ]
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "1. הסבר מה הקשיים הדקדוקיים-לשוניים בפסוקנו העומדים בפני רש\"י ורמב\"ן ומה הקשי הענייני?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. הסבר מה הקשיים הדקדוקיים-לשוניים בפסוקנו העומדים בפני רש\"י ורמב\"ן, ומה הקושי הענייני?",
+     "scan_fixes": [
+      {
+       "digitized": "ורמב\"ן, ומה הקושי הענייני?",
+       "scan": "ורמב\"ן ומה הקשי הענייני?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "2. לד\"ה טרף מביא רש\"י שני פרושים, את פרושו (\"חטף\") ואת מדרש האגדה. האם מתנגד הרמב\"ן לשניהם או רק לאחד מהם?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. לד\"ה טרף מביא רש\"י שני פירושים, את פירושו (\"חטף\") ואת מדרש האגדה. האם מתנגד הרמב\"ן לשניהם או רק לאחד מהם?",
+     "scan_fixes": [
+      {
+       "digitized": "שני פירושים, את פירושו (\"חטף\")",
+       "scan": "שני פרושים, את פרושו (\"חטף\")",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פירושים … פירושו",
+       "scan": "פרושים … פרושו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 8,
+     "kind": "question",
+     "he": "3. מהן שתי הטענות הלשוניות שטוען הרמב\"ן נגד פירוש רש\"י?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "מהן שתי הטענות",
+       "scan": "מה הן שתי הטענות",
+       "class": "substantive"
+      },
+      {
+       "digitized": "מהן",
+       "scan": "מה הן",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 9,
+     "kind": "question",
+     "he": "4. מה ההבדל בין תפישת רש\"י את מדרש חכמינו לבין תפישת הרמב\"ן את דבריהם?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "question",
+     "he": "5. הסבר את דברי הרמב\"ן \"כי אם נאמר שאירע כן\" – מהו הדבר שהיה כן? ולמה לו לפתוח ב\"כי אם נאמר\" - מה האופייני בזה לדרך פרשנותו של הרמב\"ן?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "ולמה לו לפתוח ב\"כי אם נאמר\" - מה האופייני בזה",
+       "scan": "ולמה לא לפתח ב\"כי אם נאמר?\" מה האופיני בזה",
+       "class": "substantive"
+      },
+      {
+       "digitized": "ולמה לו לפתוח ב\"כי אם נאמר\" - מה האופייני",
+       "scan": "ולמה לא לפתח ב\"כי אם נאמר?\" מה האופיני",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "digitizer correction: the scan reads «ולמה לא לפתח», which doesn't fit (Ramban does open with «כי אם נאמר»); «לו» is the sense. Her probable typo"
+     }
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "6. לשם מה לרמב\"ן להודיענו שאין הזית מן העצים הגבוהים – מה חשיבות הדבר לפירוש פסוקנו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "7. באיזו הוראה משתמש הרמב\"ן כאן בבטוי \"להתפרנס זה מזה\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "7. באיזו הוראה משתמש הרמב\"ן כאן בביטוי \"להתפרנס זה מזה\"?",
+     "scan_fixes": [
+      {
+       "digitized": "בביטוי",
+       "scan": "בבטוי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "8. מה בין פירוש הגמרא בסנהדרין, פירוש הרמב\"ן ו\"פשוטו של מקרא\" בהוראת המילה טרף?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "בסנהדרין, פירוש הרמב\"ן ו\"פשוטו של מקרא\" בהוראת המילה טרף?",
+       "scan": "סנהדרין   פירוש הרמב\"ן \"ופשוטו של מקרא\" בהוראת המלה טרף?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בסנהדרין, פירוש הרמב\"ן ו\"פשוטו של מקרא\" … המילה",
+       "scan": "סנהדרין   פירוש הרמב\"ן \"ופשוטו של מקרא\" … המלה",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 14,
+     "kind": "question",
+     "he": "9. פרש את דברי הרמב\"ן \"אבל נמצא מהם בזרות\" למי מוסב הכנוי \"מהם\" – ממי?",
+     "scan_status": "DIFF",
+     "digitized_he": "9. פרש את דברי הרמב\"ן \"אבל נמצא מהם בזרות\". למי מוסב הכינוי \"מהם\" – ממי?",
+     "scan_fixes": [
+      {
+       "digitized": "\"אבל נמצא מהם בזרות\". למי מוסב הכינוי",
+       "scan": "\"אבל נמצא מהם בזרות\" למי מוסב הכנוי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "10. מה המשותף לשלשת הפסוקים (מהושע ומויקרא) המובאים בסוף דברי הרמב\"ן?",
+     "scan_status": "DIFF",
+     "digitized_he": "10. מה המשותף לשלושת הפסוקים (מהושע ומויקרא) המובאים בסוף דברי הרמב\"ן?",
+     "scan_fixes": [
+      {
+       "digitized": "לשלושת הפסוקים",
+       "scan": "לשלשת הפסוקים",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לשלושת",
+       "scan": "לשלשת",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב כ' כי יצר לב האדם רע מנעוריו",
+   "header_digitized": "ב. שימוש מילת \"כי\"",
+   "items": [
+    {
+     "i": 17,
+     "kind": "source",
+     "ref": "Genesis 8:21",
+     "he": "\"כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו\"",
+     "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "text",
+     "he": "אבן כספי, משנה כסף:\nנכון אצלי, שיהיה נתינת טעם אל \"לא אוסיף\".",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "הסבר, מהו הפירוש האפשרי לפסוקנו שלו הוא מתנגד?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג' כ\"א כי יצר לב האדם רע מנעוריו.",
+   "header_digitized": "ג. נעורי האדם והעולם",
+   "items": [
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Genesis 8:21",
+     "he": "\"כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו\"",
+     "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Abarbanel on Torah, Genesis 8:15:20",
+     "he": "... והאופן השני מהפירוש הוא, שהנה קרה לעולם בכללו כמו שיקרה לאדם הפרטי, יען היה העולם כולו כאיש אחד, עד שנקרא האדם – \"עולם קטן\", והעולם – \"אדם גדול\", ולכן היו ימי שנותינו שבעים שנה, כנגד שבעת ימי בראשית. \nוהנה האדם הפרט יודע מענייניו שהעשור הראשון שבימיו וגם רוב השני הם שנות הבהלה מבלי הנהגה שכלית, כי כולם יעברו בשעשוע הגדול והילדות ובתעתוע הנערות אשר אי אפשר להימלט מהם בתחילת ימיו. אבל משם ואילך הנה השכל הולך ומתחזק והאיש משתנה בעצמו ונהפך לאיש אחר, ויבוש מחרפת נעוריו. \nוכן היה באמת בעולם הכלל, כי הנה האלף הראשון ורוב האלף השני היה נעור וריק מחוסר השכל. וכן קראום חז\"ל: \"שני אלפים – תוהו\". ולחסרון האנשים בהם (=באותם שני האלפיים שנה) נתחייבו בכליית המבול והשחתתו. אמנם אחר כך, במשך הזמן, בושת עלומיו ישכח ויגער בו שכלו בלי ספק, באופן שלא יפשע עוד כבראשונה. \nוזה עניין הברית שכרת ה' לבלתי הביא עוד מבול על הארץ, כי לא היה זה דרך חסד בזכות נוח, אלא בדרך סיפור העתיד. כי בראשונה כאשר ראה יתברך כי רבה רעת האדם בארץ וכל יצר מחשבות לבו רק רע כל היום, אמר אמחה את האדם, רצה לומר, אשחית, ואמחה כל הדור להיותו מושחת בכללו, אבל אחרי עבור המבול שיער הקב\"ה בחכמתו ואמר: \"אין צורך לקלל עוד את האדמה בעבור האדם במבול אחר, לפי שזה נעשה היה בסיבת נערות העולם ובלי ספק לא ישחיתו בני אדם עוד השחתה כוללת כזו לכל המין, אם מצד המוסר הגדול שראו המבול וישיתו כל בני העולם אליו לב ואל ישובו לכסלה, ואם מפני שמכאן והלאה יהיו הדורות והמשפחות מסתעפות משלושה ראשים – שם חם ויפת – אשר מטבעם שימצא ביניהם תמיד התחלפות והעדר הסכמה על עניין אחד אם טוב ואם רע, ולזה יהיה בלתי אפשר שיסכימו כולם על דעת השחתה כוללת משותפת כמו שעשו אנשי המבול ולכן לא יתחייבו הפסד כללי כמוהם. \nהנה התבהר שבדרך הגדת העתיד אמר: לא אוסיף לקלל עוד את האדמה בעבור האדם, כי הנה מה שעבר במבול היה, מפני שיצר לב האדם רע מנעוריו, רצה לומר, מנעוריו בעולם – והתחלת זמניו ולכן לא אוסיף להכות עוד כל חי, כי נעורי העולם כבר עברו.",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "text",
+     "he": "משה יצחק אשכנזי, טדסקי (תלמיד שד\"ל) \"הואיל משה\":\nד\"ה מנעוריו: אחד מתלמידי רצה לפרש מליצה זו לא על ימי נעורי איש ואיש רק דרך כללית על כל האדם, כלומר בני האדם בשני בראשית שלא השכילו עדיין ותבל הייתה בנערותה, היה יצרם רע. \nוהשיבותי שהיה לו לומר \"בנעוריו\" בבי\"ת, והפסוק (שמואל א' י\"ז ל\"ב) \"והוא איש מלחמה מנעוריו\" יוכיח.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Shadal on Genesis 8:21:4",
+     "he": "כבר מזמן נעוריו לבו חורש ויוצר מחשבות רע. והנה לא אמר, כי לב האדם רע בטבעו, אלא כי מחשבותיו רעות מאז בימי נעוריו בלי שיהיה זה הכרחי וטבעי באדם.",
+     "en": "",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "question",
+     "he": "1. מהי הקושיה המעסיקה את אברבנאל ואת אשכנזי ומהי הקושיה המעסיקה את שד\"ל?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מהי הקושיה המעסיקה את אברבנאל ואת אשכנזי, ומהי הקושיה המעסיקה את שד\"ל?",
+     "scan_fixes": [
+      {
+       "digitized": "ואת אשכנזי, ומהי",
+       "scan": "ואת אשכנזי ומהי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "2. בשלשה ישובים שונים מישב אברבנאל את קושיתו, אלו הם?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. בשלושה יישובים שונים מיישב אברבנאל את קושייתו, אילו הם?",
+     "scan_fixes": [
+      {
+       "digitized": "בשלושה יישובים שונים מיישב אברבנאל את קושייתו, אילו הם?",
+       "scan": "בשלשה ישובים שונים מישב אברבנאל את קושיתו, אלו הם?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בשלושה יישובים … מיישב … קושייתו, אילו הם?",
+       "scan": "בשלשה ישובים … מישב … קושיתו, אלו הם?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "3. \"הואיל משה\" סותר את פרוש אחד מתלמידיו שהוא פרושו של אברבנאל. היש בדברי אברבנאל תשובה לטענתו?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. \"הואיל משה\" סותר את פירוש אחד מתלמידיו, שהוא פירושו של אברבנאל. היש בדברי אברבנאל תשובה לטענתו?",
+     "scan_fixes": [
+      {
+       "digitized": "סותר את פירוש אחד מתלמידיו, שהוא פירושו של אברבנאל",
+       "scan": "סותר את פרוש אחד מתלמידיו שהוא פרושו של אברבנאל",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פירוש אחד מתלמידיו, שהוא פירושו",
+       "scan": "פרוש אחד מתלמידיו שהוא פרושו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 28,
+     "kind": "question",
+     "he": "4. מה הברכה שרואה אברבנאל בחסר האחדות?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. מה הברכה שרואה אברבנאל בחוסר האחדות?",
+     "scan_fixes": [
+      {
+       "digitized": "בחוסר האחדות",
+       "scan": "בחסר האחדות",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד כ\"ב עוד כל ימי הארץ זרע וקציר וקר וחום וקיץ וחרף ויום ולילה לא ישבותו.",
+   "header_digitized": "ד. היש לארץ קץ",
+   "items": [
+    {
+     "i": 30,
+     "kind": "source",
+     "ref": "Genesis 8:22",
+     "he": "\"עֹד כָּל יְמֵי הָאָרֶץ זֶרַע וְקָצִיר וְקֹר וָחֹם וְקַיִץ וָחֹרֶף וְיוֹם וָלַיְלָה לֹא יִשְׁבֹּתוּ\"",
+     "en": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.’",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 8:22:1",
+     "he": "ד\"ה עוד כל ימי הארץ: לאות כי יש לה קץ קצוב.",
+     "en": "",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "text",
+     "he": "אבן כספי:\nד\"ה עוד כל ימי הארץ, אין זה מחייב לא לפי העברי ולא לפי ההגיון שיש לה קץ, ואולם דעת המורה – והיא האמת – שהארץ בכללה לעולם עומדת, ובכלל כי העולם נצחי בזמן העתיד, כי נודה לאריסטו בחצי מדעתו.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "question",
+     "he": "1. מה המחלוקת בין שניהם ומהו הבסיס הלשוני לכל אחת משתי הדעות?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה המחלוקת בין שניהם, ומהו הבסיס הלשוני לכל אחת משתי הדעות?",
+     "scan_fixes": [
+      {
+       "digitized": "בין שניהם, ומהו",
+       "scan": "בין שניהם ומהו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 34,
+     "kind": "question",
+     "he": "2. מהו החצי השני של דעת אריסטו שבה לא נודה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: Numbering style «1)» is normalized to «1.».",
+  "§L: [36] is a digitizer item repeating the lemma; not a source in the scan.",
+  "§L: The section letter «ה.» is the digitizer's."
+ ],
+ "needs_human": []
+}

@@ -1,0 +1,449 @@
+{
+ "dateCreated": "2019-03-05T15:15:40.359380",
+ "dateModified": "2019-03-07T02:01:33.955693",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 12:5",
+  "Ramban on Genesis 11:31:1",
+  "Gur Aryeh on Bereishit 11:32:1",
+  "Rashi on Genesis 11:31:1",
+  "Genesis 11:32",
+  "Rashi on Genesis 11:28:1",
+  "Ramban on Genesis 12:1:2",
+  "Genesis 11:31",
+  "Rashi on Genesis 11:32:1",
+  "Ramban on Genesis 11:32:1",
+  "Bereshit Rabbah 39:7",
+  "Genesis 11:28"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160578,
+ "includedRefs": [
+  "Genesis 11:28",
+  "Rashi on Genesis 11:28:1",
+  "Rashi on Genesis 11:28:1",
+  "Genesis 11:31",
+  "Rashi on Genesis 11:31:1",
+  "Ramban on Genesis 11:31:1",
+  "Ramban on Genesis 12:1:2",
+  "Genesis 12:5",
+  "Genesis 11:32",
+  "Bereshit Rabbah 39:7",
+  "Rashi on Genesis 11:32:1",
+  "Ramban on Genesis 11:32:1",
+  "Gur Aryeh on Bereishit 11:32:1",
+  "Ramban on Genesis 11:32:1"
+ ],
+ "nextNode": 40,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. מעשה אברם ונמרוד - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:כ״ח",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:28",
+   "text": {
+    "en": "And Haran died in the presence of his father Terah in the land of his nativity, in Ur of the Chaldees.",
+    "he": "\"וַיָּמָת הָרָן עַל פְּנֵי תֶּרַח אָבִיו בְּאֶרֶץ מוֹלַדְתּוֹ בְּאוּר כַּשְׂדִּים\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:כ״ח:א׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 11:28:1",
+   "text": {
+    "en": "על פני תרח אביו IN THE PRESENCE OF HIS FATHER TERAH — meaning during his father’s lifetime (Genesis Rabbah 38:13). The Midrashic explanation is that he died through his father. For Terah accused his son Abram before Nimrod of haying smashed his idols to pieces, and he cast him into a fiery furnace. Haran waited and said to himself, “If Abram proves triumphant I will be on his side; if Nimrod wins I shall be on his”. When Abram was saved they said to Haran, “Whose side are you on?” Haran replied, “I am on Abram’s side”. They therefore cast him into the fiery furnace and he was burnt to death. It is to this that the name of the place Ur-Kasdim (fire of the Chaldees) alludes (Genesis Rabbah 38:13). Menachem ben Seruk, however, explains that אור means a valley, as (Isaiah 24:15) “Glorify ye the Lord in the valleys (באורים)”, and as (Isaiah 11:8) “the den (מאורת) of the basilisk”. Every hole or deep cleft may be called אור.",
+    "he": "ד\"ה על פני תרח אביו: בחיי אביו. ומדרש אגדה: יש אומרים, שעל ידי אביו מת, שקבל תרח על אברהם בנו לפני נמרוד, על שכתת את צלמיו והשליכו לכבשן האש, והרן יושב ואומר בלבו: אם אברם נוצח – אני משלו, \"ואם נמרוד נוצח – אני משלו\". וכשניצל אברם, אמרו לו להרן: \"משל מי אתה?\" אמר להם הרן: \"משל אברם אני\", השליכוהו לכבשן האש ונשרף, וזהו אור כשדים. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:כ״ח:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 11:28:1",
+   "text": {
+    "en": "על פני תרח אביו IN THE PRESENCE OF HIS FATHER TERAH — meaning during his father’s lifetime (Genesis Rabbah 38:13). The Midrashic explanation is that he died through his father. For Terah accused his son Abram before Nimrod of haying smashed his idols to pieces, and he cast him into a fiery furnace. Haran waited and said to himself, “If Abram proves triumphant I will be on his side; if Nimrod wins I shall be on his”. When Abram was saved they said to Haran, “Whose side are you on?” Haran replied, “I am on Abram’s side”. They therefore cast him into the fiery furnace and he was burnt to death. It is to this that the name of the place Ur-Kasdim (fire of the Chaldees) alludes (Genesis Rabbah 38:13). Menachem ben Seruk, however, explains that אור means a valley, as (Isaiah 24:15) “Glorify ye the Lord in the valleys (באורים)”, and as (Isaiah 11:8) “the den (מאורת) of the basilisk”. Every hole or deep cleft may be called אור.",
+    "he": "ומנחם פירש: \"אור\" – בקעה, וכן (<a class=\"refLink\" href=\"/Isaiah 24:15\" data-ref=\"Isaiah 24:15\" target=\"_blank\">ישעיהו כ\"ד ט\"ו</a>) \"באורים כבדו ה'\", וכן (<a class=\"refLink\" href=\"/Isaiah 11:8\" data-ref=\"Isaiah 11:8\" target=\"_blank\">ישעיהו י\"א ח'</a>) \"מאורת צפעוני\", כל חור ובקע עמוק קרוי \"אור\"."
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  כיצד מפרש רש\"י את הביטוי \"על פני\" לפי מדרשו?"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2. מקשים מפרשי רש\"י: מה הוצרך רש\"י להביא דברי מדרש אגדה, והלא אין מדרכו להביא דברי המדרש אלא אם אין הפסוק מתישב יפה לפי פשוטו? ובמה אין פירושו הראשון מיישבו כל צרכו?"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. מהו הלקח שמשמיענו המדרש?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4.  מהי לדעת הרמב\"ן הסיבה לכך, שלא סיפרה התורה את מעשה אברהם ונמרוד? עיין דברי הרמב\"ן י\"ב ב' ד\"ה והיה ברכה. ועיין גיליון <b><a class=\"refLink\" href=\"/sheets/161303\" data-ref=\"sheet.161303\" target=\"_blank\">לך לך תשט\"ז</a></b>."
+  },
+  {
+   "node": 9,
+   "outsideText": "<table><tbody><tr><td><big>ב. היציאה מאור כשדים</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ל״א",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:31",
+   "text": {
+    "en": "And Terah took Abram his son, and Lot the son of Haran, his son’s son, and Sarai his daughter-in-law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.",
+    "he": "\"וַיִּקַּח תֶּרַח אֶת אַבְרָם בְּנוֹ וְאֶת לוֹט בֶּן הָרָן בֶּן בְּנוֹ וְאֵת שָׂרַי כַּלָּתוֹ אֵשֶׁת אַבְרָם בְּנוֹ וַיֵּצְאוּ אִתָּם מֵאוּר כַּשְׂדִּים לָלֶכֶת אַרְצָה כְּנַעַן וַיָּבֹאוּ עַד חָרָן וַיֵּשְׁבוּ שָׁם\""
+   }
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  רבים מתקשים בצירוף \"לוט בן הרן בן בנו\" - והלא הרן היה בנו של תרח ולא בן בנו? הסבר את הצירוף באופן שלא יהא בו שום קושי!"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ל״א:א׳",
+   "node": 12,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 11:31:1",
+   "text": {
+    "en": "ויצאו אתם AND THEY WENT FORTH WITH THEM — ויצאו אתם Terah and Abram went forth with Lot and Sarai.",
+    "he": "ד\"ה ויצאו אתם: ויצא תרח ואברם עם לוט ושרי."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית י״א:ל״א:א׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 11:31:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ויצאו אתם מאור כשדים: בעבור כי אברם נכבד מאביו, וההולכים בעצתו ובעבורו ילכו, אמר הכתוב \"ויצאו אתם\", ואע\"פ שאמר \"ויקח תרח\", כי בעבור שהיה אברם מכבד אביו והולך אחריו אמר \"ויקח תרח\". אבל לוט ושרי בעבור אברם הלכו אתם, כי גם אחרי שנפרד אברם מאביו, הלכו אתו."
+   }
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה הקושי בפסוקנו?"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  מה ההבדל בין יישובו של רש\"י לבין יישובו של הרמב\"ן, ומהי חולשתה של כל תשובה?"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ג.   התוכל ליישב את קושייתנו בדרך אחרת, שלא כפי שניהם? (ועיין <a class=\"refLink\" href=\"/Genesis 24\" data-ref=\"Genesis 24\" target=\"_blank\">בראשית כ\"ד</a>, ד' י') (ועיין עלון ההדרכה!)"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית י״ב:א׳:ב׳",
+   "node": 17,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 12:1:2",
+   "text": {
+    "en": "From your land and from your birthplace - Rashi wrote: But did he he not already leave from there with his father? And Rabbi Abraham explained that God already said to Avram, ‘Go forth from your land,’ and so this is restating what was already said in Ur Kasdim, and it was there that He commanded him to leave his land, his birthplace, and his father’s house there.   And this is not correct. Because if this were so, the point of the journey would be Avram’s leaving his father’s house on God’s command, and Terach would just be accompanying him out of his own personal desire.  But the verse says, “Terach took Avram his son” (Gen. 11:31), which shows that Avram was following his father, and it was his father’s idea that they leave Ur Kasdim to go to the land of Canaan.  And furthermore, the verse (in Joshua 24:3) says, “I took your father, Abraham, across the river, and led him across the whole of the Land of Canaan,” where it should have said, “I took your father, Abraham, from Ur Kasdim, and led him across the whole of the Land of Canaan,” for it was from there he was taken and there he was commanded.",
+    "he": "\"וַיֵּצְאוּ... לָלֶכֶת אַרְצָה כְּנַעַן וַיָּבֹאוּ עַד חָרָן וַיֵּשְׁבוּ שָׁם\""
+   }
+  },
+  {
+   "heRef": "בראשית י״ב:ה׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 12:5",
+   "text": {
+    "en": "And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+    "he": "\"וַיֵּצְאוּ לָלֶכֶת אַרְצָה כְּנַעַן וַיָּבֹאוּ אַרְצָה כְּנָעַן\""
+   }
+  },
+  {
+   "node": 19,
+   "outsideText": "מה כוונת התורה בהבלטת הדמיון שבין שני הפסוקים?"
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ג. הזכרת מיתת תרח</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ל״ב",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:32",
+   "text": {
+    "en": "And the days of Terah were two hundred and five years; and Terah died in Haran.",
+    "he": "\"וַיָּמָת תֶּרַח בְּחָרָן\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה ל״ט:ז׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 39:7",
+   "text": {
+    "en": "",
+    "he": "(י\"ב א') \"ויאמר ה' אל אברם לך לך מארצך\" – מה כתיב למעלה מן הענין (י\"א ל\"ב) \"וימת תרח בחרן\", אמר ר' יצחק: אם לענין החשבון, ועד עכשו מתבקש לו עוד ששים וחמש שנים?! אלא בתחילה אתה דורש: הרשעים קרויים מתים בחייהם; ולפי שהיה אברהם אבינו מפחד ואומר: אצא ויהיו מחללין בי שם שמים ואומרים: \"הניח אביו והלך לו לעת זקנותו\". אמר לו הקב\"ה: \"לך אני פוטרך מכבוד אב ואם ואין אני פוטר לאחר מכבוד אב ואם, ולא עוד אלא <b>שאני מקדים</b> מיתתו ליצאתך: בתחילה 'וימת תרח בחרן' ואחר כך: 'ויאמר ה' אל אברם לך לך מארצך'.\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ל״ב:א׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 11:32:1",
+   "text": {
+    "en": "וימת תרח בחרן AND TERAH DIED IN HARAN after Abram had left Haran (as related in the next chapter) and had come to the land of Canaan and had been there more than sixty years. For it is written, (Genesis 12:4) “And Abram was seventy five years old when he left Haran”, and Terah was seventy years old when Abram was born (Genesis 11:26), making Terah 145 years old when Abram left Haran, so that there were then many years of his life left (i. e. he lived many years after that — as a matter of fact, 60 years, as he was 205 years old when he died). Why, then, does Scripture mention the death of Terah before the departure of Abram? In order that this matter (his leaving home during his father’s lifetime) might not become known to all, lest people should say that Abram did not show a son’s respect to his father, for he left him in his old age and went his way. That is why Scripture speaks of him as dead (Genesis Rabbah 39:7). For indeed the wicked even while alive are called dead and the righteous even when dead are called living, as it is said, (2 Samuel 23:20) “And Benaiah the son of Jehoiada the son of a living man”.",
+    "he": "לאחר שיצא אברהם מחרן ובא לארץ כנען והיה שם יותר מששים שנה, שהרי כתיב (י\"ב ד') \"ואברהם בן חמש שנים ושבעים שנה בצאתו מחרן\" ותרח בן שבעים שנה היה כשנולד אברהם. הרי קמ\"ה לתרח כשיצא אברהם מחרן, עדיין נשארו משנותיו הרבה.\nולמה הקדים הכתוב מיתתו של תרח ליציאתו של אברם? שלא יהיה <b>הדבר מפורסם לכל</b>, ויאמרו: \"לא קיים אברם את כבוד אביו, שהניחהו זקן והלך לו\", לפיכך קראו הכתוב מת.\n(ועוד,) שהרשעים אף בחייהם קרויים מתים והצדיקים אף במיתתם קרויים חיים, שנאמר (<a class=\"refLink\" href=\"/II Samuel 23:20\" data-ref=\"II Samuel 23:20\" target=\"_blank\">שמואל ב', כ\"ג כ'</a>) \"ובניהו בן יהוידע בן איש חי\"."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית י״א:ל״ב:א׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 11:32:1",
+   "text": {
+    "en": "",
+    "he": "רמב\"ן, (אחרי הביאו דברי רש\"י):<br>ובבראשית רבה הוא. ואני תמה על דבריהם שזה מנהג כל כתוב לספר חיי האב והולידו הבן ומיתתו ואחר כך מתחיל בענין הבן, בכל הדורות כך נהגו הכתובים. והנה נח עצמו בימיו של אברם עודנו חי. ושם בנו – כל ימי אברהם הוא חי.\nויתכן שבאו למדרש זה מפני ששינה הכתוב בתרח סדר הפרשה כולה, כי בשם ותולדותיו כולם לא הזכיר הכתוב מיתה, ולא חזר וכלל השנים, ובכאן חזר ותפש הסדר הראשון שבבעלי השנים הרבים מאדם ועד נח וכלל \"ויהיו כל ימי תרח... וימת\". והוסיף עוד להזכיר מקום המיתה שהיה בחרן, המקום שהזכיר לאברהם. \nולכן דרשו, שכל זה כדי שיראה מבלי עיון, שהיה אברהם שם עמו; ועוד מפני שכבר התחיל בענין אברם וסיפר שיצא עם אביו מאור כשדים ללכת ארצה כנען, יקשה בעיניהם כשלא סידר חייו ומיתתו על הסדר ויכתוב אותה בזמנה."
+   }
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהי הקושיה שבה מתלבטים כולם?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מה כוונת הדרשן באמרו \"לך אני פוטר מכבוד אב ואם ואין אני פוטר לאחר מכבוד אב ואם\" - לאיזה אחר ירמוז בזה?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. מהי תמיהתו של הרמב\"ן על דברי המדרש ועל דברי רש\"י?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. הבא דוגמאות מספר בראשית ש\"כך נהגו הכתובים\"."
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "5. בשני נימוקים מנסה הרמב\"ן עצמו להסיר תלונתו מעל דברי המדרש ולפרשו. מה הם הנימוקים?"
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. הסבר דברי הרמב\"ן \"שחזר ותפש הסדר הראשון\" – מהו הסדר הראשון, ובמה חזרה פרשתנו אל \"הסדר הראשון\"?"
+  },
+  {
+   "heRef": "גור אריה על בראשית י״א:ל״ב:א׳",
+   "node": 31,
+   "options": {
+    "PrependRefWithHe": "7. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Gur Aryeh on Bereishit 11:32:1",
+   "text": {
+    "en": "",
+    "he": "וכי ניתנה התורה לשוטים, שלא יחשבו שני הדורות, שהרי תרח קיים כשיצא אברהם!"
+   }
+  },
+  {
+   "node": 32,
+   "outsideText": "על מי חלה קושייתו: על דברי המדרש, על דברי רש\"י או על דברי הרמב\"ן?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "8. הגור אריה, ממשיך דבריו דלעיל:<br>ויש בזה ענין נפלא מאד, כי הכתוב מקדים מיתתו של תרח לומר, כי אין כאן כבוד אב, דכבוד אביו שייך כאשר הבן מתייחס אל אביו, וכאן לא היה אברם נקשר עם אביו תרח כלל; ...שאין לו ייחוס אל אביו בעבור שהוא בריאה אחרת... כי ענין אברהם לא ישותף כלל עם הדורות הראשונים, כי הראשונים היו תוֹהוּ והוא התחלת הבנין, וכאשר האור בא יסולק החשך ולפיכך שייך לפניו מיתת תרח, לכך לא היה גנאי לאברהם אם יניח כך אביו, לכך אמר לו הקב\"ה: \"לך אני פוטר מכבוד אב, מפני שאין לך יחוס אל אביך, כי \"לך לך מארצך\" מתחבר אל מיתת תרח, לכך אין לך גנאי, אם אתה מניח אביך\". ואין דבר ריק בדברי חכמים, ואם ריק – ממנו הוא."
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  האם מיישב בעל גור אריה את דברי המדרש או את דברי רש\"י, או עונה לתמיהתו של הרמב\"ן?"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב.  דבריו אלה מעוגנים בהלכה. היכן?"
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ג. הסבר את דבריו האחרונים \"אין דבר ריק...\" ואת סיבת הבאתם כאן."
+  },
+  {
+   "heRef": "רמב\"ן על בראשית י״א:ל״ב:א׳",
+   "node": 37,
+   "options": {
+    "PrependRefWithHe": "9. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 11:32:1",
+   "text": {
+    "en": "",
+    "he": "מה צריך רש\"י לטעם זה (\"שהרשעים אף בחייהם קרויים מתים\") שהרי כבר כתב הטעם, \"שלא יהא הדבר מפורסם לכל...\"?!"
+   }
+  },
+  {
+   "node": 38,
+   "outsideText": "יישב קושייתו, והסבר למה לא הסתפק רש\"י בטעם ראשון."
+  }
+ ],
+ "ssn": 149,
+ "status": "public",
+ "summary": "1965 (תשכ\"ה)<br><a href=\"http://www.nechama.org.il/pdf/149.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"ה - תחילתו של אברם",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

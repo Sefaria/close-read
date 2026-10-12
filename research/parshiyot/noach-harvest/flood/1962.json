@@ -1,0 +1,635 @@
+{
+ "sheet_id": 160700,
+ "year_g": "1962",
+ "year_he": "תשכ\"ב",
+ "theme": "flood",
+ "title": "פרשת נח תשכ\"ב - אחר המבול",
+ "sefaria_url": "https://www.sefaria.org/sheets/160700",
+ "pdf_url": "https://www.nechama.org.il/pdf/275.pdf",
+ "scancheck": "noach-scancheck/160700-1962.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. ז' כ\"ד ויגברו המים על הארץ חמשים ומאת יום. / ח' א ויזכר אלוקים את נח",
+   "header_digitized": "א. \"ויזכור אלוקים את נח\"",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Genesis 7:24",
+     "he": "\"וַיִּגְבְּרוּ הַמַּיִם עַל הָאָרֶץ חֲמִשִּׁים וּמְאַת יוֹם\"",
+     "en": "And the waters prevailed upon the earth a hundred and fifty days.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Genesis 8:1",
+     "he": "\"וַיִּזְכֹּר אֱ-לֹהִים אֶת נֹחַ\"",
+     "en": "And God remembered Noah, and every living thing, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters assuaged;",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "text",
+     "he": "ראב\"ע:\nד\"ה (ז' כ\"ד) ויגברו המים חמשים ומאת יום: בעבור שנבקעו המעינות, גם היה גשם יורד יום אחד ופוסק יום אחד כי פירוש (ז' ד') \"אנכי ממטיר על הארץ...\" – תמיד בלי הפסקה, והעד שאמר (ח' ב') \"ויכלא הגשם\".",
+     "scan_status": "DIFF",
+     "digitized_he": "ראב\"ע:\nד\"ה (ז' כ\"ד) ויגברו המים חמשים ומאת יום: בעבור שנבקעו המעינות, גם היה גשם יורד יום אחד ופוסק יום אחד כי פירוש (ז' ד) \"אנכי ממטיר על הארץ...\" – תמיד בלי הפסקה, והעד שאמר (ח' ב') \"ויכלא הגשם\".",
+     "scan_fixes": [
+      {
+       "digitized": "(ז' ד)",
+       "scan": "(ז' ד')",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "ראב\"ע:ד\"ה (ז' כ\"ד) ויגברו המים חמשים ומאת יום:",
+       "scan": "ראב\"ע ד\"ה ז' כ\"ד ויגברו המים חמשים ומאת יום,",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 4,
+     "kind": "text",
+     "he": "ר' נפתלי הירץ ויזל, \"אמרי שפר\" (פירוש לבראשית י\"ל בחב' מקיצי נרדמים 1868, בליק), פרק ח' פסוק א':\nד\"ה ויזכר אלוקים את נח: השומע סבור שמקצה חמשים ומאת יום נזכר אלוקים את נח ואשר אתו בתיבה והעביר רוח ושכח תגבורת המים ואז נסגרו מעינות תהום וכלה הגשם מן השמים... והאמת הברור בעיני לסדר המקראות איננו כן, אלא אמר, שחתם בסיפור המבול ועד כמה גברו המים וכמה ימים עמדו בגבורתן, לספר על הסדר הצלת נח ואשר אתו בתיבה, ואיך נמשכו הדברים שפסק המבול וחסרו המים עד שיבשה הארץ, והחל \"ויזכור אלוקים את נח\", וזה היה מקץ ארבעים יום שירד הגשם ושגברו המים ט\"ו אמה מלמעלה לכל ההרים הגבוהים, שבאמצעות זה מחה את כל היקום ולא נשאר כי אם נח ואשר אתו, אז זכר את דבר קדשו. – לעשות קץ למטרות עוזו ולא חפץ שיגברו וירדו המים עוד על הארץ יותר להשחיתה, ואז \"ויעבר אלוקים רוח על הארץ\", והרוח הזה טיהר את השמים..",
+     "scan_status": "DIFF",
+     "editorial_additions": [
+      {
+       "digitized": "ר' נפתלי הירץ ויזל, \"אמרי שפר\" (…), פרק ח' פסוק א':ד\"ה",
+       "scan": "ר' נפתלי הירץ ויזל: \"אמרי שפר\" (…) / ח' א ד\"ה"
+      }
+     ],
+     "scan_pending": [
+      {
+       "digitized": "למטרות עוזו",
+       "scan": "למ[?]רות עודו[?]",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ר' נפתלי הירץ ויזל, \"אמרי שפר\" (פירוש לבראשית י\"ל בחב' מקיצי נרדמים 1868, בליק), פרק ח' פסוק א':\nד\"ה ויזכר אלוקים את נח: השומע סבור שמקצה חמשים ומאת יום נזכר אלוקים את נח ואשר אתו בתיבה והעביר רוח ושכח תגבורת המים ואז נסגרו מעינות תהום וכלה הגשם מן השמים... והאמת הברור בעיני לסדר המקראות איננו כן, אלא אמר, שחתם בסיפור המבול ועד כמה גברו המים וכמה ימים עמדו בגבורתן, לספר על הסדר הצלת נח ואשר אתו בתיבה, ואיך נמשכו הדברים שפסק המבול וחסרו המים עד שיבשה הארץ, והחל \"ויזכור אלוקים את נח\", וזה היה מקץ ארבעים יום שירד הגשם ושגברו המים ט\"ו אמה מלמעלה לכל ההרים הגבוהים, שבאמצעות זה מחה את כל היקום ולא נשאר כי אם נח ואשר אתו, אז זכר את דבר קדשו. – לעשות קץ למטרות עוזו ולא חפץ שיגברו וירדו המים עוד על הארץ יותר להשחיתה, ואז \"ויעבר אלוקים רוח על הארץ\", והרוח הזה טיהר את השמים..",
+     "scan_fixes": [
+      {
+       "digitized": "בסיפור המבול",
+       "scan": "בספור המבול",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "מן השמים...",
+       "scan": "מן השמים..",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      },
+      {
+       "digitized": "טיהר את השמים..",
+       "scan": "טהר את השמים...",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "ר' נפתלי הירץ ויזל, \"אמרי שפר\" (פירוש לבראשית י\"ל בחב' מקיצי נרדמים 1868, בליק), פרק ח' פסוק א':\nד\"ה ויזכר אלוקים את נח: השומע סבור שמקצה חמשים ומאת יום נזכר אלוקים את נח ואשר אתו בתיבה והעביר רוח ושכח תגבורת המים ואז נסגרו מעינות תהום וכלה הגשם מן השמים... והאמת הברור בעיני לסדר המקראות איננו כן, אלא אמר, שחתם בספור המבול ועד כמה גברו המים וכמה ימים עמדו בגבורתן, לספר על הסדר הצלת נח ואשר אתו בתיבה, ואיך נמשכו הדברים שפסק המבול וחסרו המים עד שיבשה הארץ, והחל \"ויזכור אלוקים את נח\", וזה היה מקץ ארבעים יום שירד הגשם ושגברו המים ט\"ו אמה מלמעלה לכל ההרים הגבוהים, שבאמצעות זה מחה את כל היקום ולא נשאר כי אם נח ואשר אתו, אז זכר את דבר קדשו. – לעשות קץ למטרות עוזו ולא חפץ שיגברו וירדו המים עוד על הארץ יותר להשחיתה, ואז \"ויעבר אלוקים רוח על הארץ\", והרוח הזה טיהר את השמים.."
+    },
+    {
+     "i": 5,
+     "kind": "text",
+     "he": "קאסוטו, מנח עד אברהם (עמוד 55), פרק ח' פסוק א':\nד\"ה ויזכור: אין הכוונה שזכר לאחר שעברו אותם חמשים ומאת יום שעליהם מדובר בפסוק הקודם, שהרי נאמר אחר כך (ח' ב') \"ויסכרו מעינות תהום וארובות השמים ויכלא הגשם\", וזה שייך כמובן לסוף ארבעים היום של ירידת הגשם. \nהפירוש של פעלים אלו (\"ויזכר\", \"ויסכרו\", \"ויכלא\" כעבר מוקדם – וכבר מקודם זכר, וכבר מקודם נסכרו...) בודאי אינו נכון ואינו מתאים לטיב הלשון העברית, כמו שכבר ראינו... יש לפרש כאן כדוגמת הפירוש שכבר הצענו על היחס שבין מעשה בראשית (בראשית ו' א'-ב' ג') ומעשה גן עדן (בראשית ב' ד' – ג' כ\"ד): הנושא של הפִּסקה הקודמת הוא ענין גבורת המים על הארץ, והוא מסופר באותה פסקה עד סופו; ואילו פסקה חדשה זו עוסקת בענין אחר, התחלת ההצלה של שארית הפליטה, ומתחילה לספר אותו מראשיתו, אע\"פ שראשיתו קודם בזמן לסופו של הנושא המסופר למעלה.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "קאסוטו, מנח עד אברהם (עמוד 55), פרק ח' פסוק א':",
+       "scan": "קאסוטו: מנח עד אברהם (ע' 55) / ח' א' ד\"ה ויזכור",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "קאסוטו, מנח עד אברהם (עמוד 55), פרק ח' פסוק א':\nד\"ה ויזכור: אין הכוונה שזכר לאחר שעברו אותם חמשים ומאת יום שעליהם מדובר בפסוק הקודם, שהרי נאמר אחר כך (ח' ב') \"ויסכרו מעינות תהום וארובות השמים ויכלא הגשם\", וזה שייך כמובן לסוף ארבעים היום של ירידת הגשם. \nהפירוש של פעלים אלו (\"ויזכר\", \"ויסכרו\", \"ויכלא\" כעבר מוקדם – וכבר מקודם זכר, וכבר מקודם נסכרו...) בודאי אינו נכון ואינו מתאים לטיב הלשון העברית, כמו שכבר ראינו... יש לפרש כאן כדוגמת הפירוש שכבר הצענו על היחס שבין מעשה בראשית (בראשית ו' א'-ב' ג') ומעשה גן עדן (בראשית ב' ד' – ג' כ\"ד): הנושא של הפִּסקה הקודמת הוא ענין גבורת המים על הארץ, והוא מסופר באותה פסקה עד סופו; ואילו פסקה חדשה זו עוסקת בענין אחר, התחלת ההצלה של שארית הפליטה, ומתחילה לספר אותו מראשיתו, אע\"פ שראשיתו קודם בזמן לסופו של הנושא המסופר למעלה.",
+     "scan_fixes": [
+      {
+       "digitized": "אין הכוונה",
+       "scan": "אין הכונה",
+       "class": "spelling"
+      },
+      {
+       "digitized": "נאמר אחר כך",
+       "scan": "נאמר אחר-כך",
+       "class": "spelling"
+      },
+      {
+       "digitized": "(בראשית ו' א'-ב' ג') … (בראשית ב' ד' – ג' כ\"ד)",
+       "scan": "(בר' ו[?]' א'-ב' ג') … (בר' ב' ד' - ג' כ\"ד)",
+       "class": "corroborated"
+      },
+      {
+       "digitized": "ואילו פסקה חדשה",
+       "scan": "ואלו פסקה חדשה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "קאסוטו, מנח עד אברהם (עמוד 55), פרק ח' פסוק א':\nד\"ה ויזכור: אין הכונה שזכר לאחר שעברו אותם חמשים ומאת יום שעליהם מדובר בפסוק הקודם, שהרי נאמר אחר-כך (ח' ב') \"ויסכרו מעינות תהום וארובות השמים ויכלא הגשם\", וזה שייך כמובן לסוף ארבעים היום של ירידת הגשם. \nהפירוש של פעלים אלו (\"ויזכר\", \"ויסכרו\", \"ויכלא\" כעבר מוקדם – וכבר מקודם זכר, וכבר מקודם נסכרו...) בודאי אינו נכון ואינו מתאים לטיב הלשון העברית, כמו שכבר ראינו... יש לפרש כאן כדוגמת הפירוש שכבר הצענו על היחס שבין מעשה בראשית (בר' ו' א'-ב' ג') ומעשה גן עדן (בר' ב' ד' - ג' כ\"ד): הנושא של הפִּסקה הקודמת הוא ענין גבורת המים על הארץ, והוא מסופר באותה פסקה עד סופו; ואלו פסקה חדשה זו עוסקת בענין אחר, התחלת ההצלה של שארית הפליטה, ומתחילה לספר אותו מראשיתו, אע\"פ שראשיתו קודם בזמן לסופו של הנושא המסופר למעלה."
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "1. מה הקשי בפסוקי פרקינו (פרקים ז'-ח') שרצו שלשת הפרשנים לישב?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה הקושי בפסוקי פרקינו (פרקים ז'-ח') שרצו שלושת הפרשנים ליישב?",
+     "scan_fixes": [
+      {
+       "digitized": "מה הקושי … שלושת הפרשנים ליישב?",
+       "scan": "מה הקשי … שלשת הפרשנים לישב?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הקושי … שלושת … ליישב?",
+       "scan": "הקשי … שלשת … לישב?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "2. היש בדבריהם שלשה ישובים שונים לקשי או שנים?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. היש בדבריהם שלושה יישובים שונים לקושי, או שניים?",
+     "scan_fixes": [
+      {
+       "digitized": "שלושה יישובים שונים לקושי, או שניים?",
+       "scan": "שלשה ישובים שונים לקשי או שנים?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 8,
+     "kind": "question",
+     "he": "3. כיצד מתפרשת מלת \"ויגברו\" שבסוף פרק ז' לפי כל אחד משלשתם?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. כיצד מתפרשת מלת \"ויגברו\" שבסוף פרק ז' לפי כל אחד משלושתם?",
+     "scan_fixes": [
+      {
+       "digitized": "משלושתם?",
+       "scan": "משלשתם?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 9,
+     "kind": "question",
+     "he": "4. על מה מעיד לדעת הראב\"ע פסוק ב' שבפרק ח'?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "question",
+     "he": "5. מה הדמיון – לדעת קאסוטו – ביחס שבין פרק א' בבראשית לפרק ב,' ליחס שבין המסופר בפרשתנו בפרק ז' לפרק ח'?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "לפרק ב,' … בפרשתנו בפרק ז' לפרק ח'?",
+       "scan": "לפרק ב' … בפרשתנו בפ' ז' לפרק ח'?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "לפרק ב,' … בפרק ז'",
+       "scan": "+ 5) … לפרק ב' … בפ' ז'",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "6. היכן מצאנו בפרשת בראשית שוב התייחסות כזו בין שני פרקים?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "היכן מצאנו בפרשת בראשית שוב התייחסות כזו",
+       "scan": "היכן מצאנו בפ' בראשית שוב התיחסות כזו",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בפרשת בראשית … התייחסות",
+       "scan": "++ 6) … בפ' בראשית … התיחסות",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "7. נגד דרכו של איזה פרשן מכוונים דברי קאסוטו בפסקה \"הפירוש של פעלים אלו כעבר מוקדם...\" וכיצד אפשר להוכיח שאין פירוש זה מתאים לטיב השפה העברית?",
+     "scan_status": "DIFF",
+     "digitized_he": "7. נגד דרכו של איזה פרשן מכוונים דברי קאסוטו בפסקה \"הפירוש של פעלים אלו כעבר מוקדם...\", וכיצד אפשר להוכיח שאין פירוש זה מתאים לטיב השפה העברית?",
+     "scan_fixes": [
+      {
+       "digitized": "כעבר מוקדם...\", וכיצד",
+       "scan": "כעבר מוקדם...\" וכיצד",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "מוקדם...\", וכיצד",
+       "scan": "++ 7) … מוקדם...\" וכיצד",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. ח' א' ויזכר אלוקים את נח ואת כל החיה ואת כל הבהמה אשר אתו בתיבה.",
+   "header_digitized": "ב. למהות הזכירה",
+   "items": [
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Genesis 8:1",
+     "he": "\"וַיִּזְכֹּר אֱ-לֹהִים אֶת נֹחַ וְאֵת כָּל הַחַיָּה וְאֶת כָּל הַבְּהֵמָה אֲשֶׁר אִתּוֹ בַּתֵּבָה\"",
+     "en": "And God remembered Noah, and every living thing, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters assuaged;",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "text",
+     "he": "ראב\"ע",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "text",
+     "he": "בפרושו בשיטה אחרת (הוצאת מ. פרידלנדר",
+     "scan_status": "DIFF",
+     "digitized_he": ", בפירושו בשיטה אחרת (הוצאת מ' פרידלנדר Ibn Ezra Literature IV, page 52):",
+     "scan_fixes": [
+      {
+       "digitized": ", בפירושו בשיטה אחרת (הוצאת מ' פרידלנדר Ibn Ezra Literature IV, page 52):",
+       "scan": "בפרושו בשיטה אחרת (הוצאת מ. פרידלנדר",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בפירושו … (הוצאת מ' פרידלנדר Ibn Ezra Literature IV, page 52):",
+       "scan": "בפרושו … (הוצאת מ. פרידלנדר",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 17,
+     "kind": "text",
+     "he": "פסוק א'\nחלילה להיות שכחה לקטן שבמלאכי השרת, אף כי ליוצר הכל, שאין שכחה נגדו. וככה אמר המשורר (תהלים צ\"ד ט') \"הנוטע אוזן הלא ישמע\" רק כאשר תראה טובת השם בארץ ידבר הכתוב, כי זכר אשר הטיב לו בא לפני השם.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "פסוק א'חלילה … (תהלים צ\"ד ט')",
+       "scan": "חלילה … (תהל' צ\"ד ט')",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 18,
+     "kind": "source",
+     "ref": "Ramban on Genesis 8:1:1",
+     "he": "ד\"ה ויזכור אלוקים את נח ואת כל החיה ואת כל הבהמה: הזכירה בנח מפני שהיה צדיק תמים וכרת לו ברית להצילו, ונח יכלול זרעו אשר אתו שם, ולא הזכירם כי בזכותו נצלו. אבל הזכירה שאמר בחיה ובבהמה אינה בזכות, שאין בבעלי נפש זכות או חובה זולתי באדם לבדו, אבל הזכירה בהם, כי זכר את דבר קדשו, שאמר והיה העולם, והרצון אשר לו בבריאת העולם עלה לפניו ורצה קיום העולם בענין אשר ברא בו, והנה ראה עתה להוציאם, שלא יכלו בתיבה, ולא הזכיר העוף והשרץ, כי זכירת החיה שוה עמהם, ויגיד עליו רעו.",
+     "en": "\"and Elokim remembered Noah and all the animals\" - The remembrance of Noah was because he was righteous and whole and God established a covenant to save him. And, Noah includes his offspring who were with him there, they (the offspring) were not mentioned because they were saved through his (Noah's) merit. However, the remembering of the domestic and wild animals is not because of some merit. This is because of all the possessors of souls, only mankind has merit and fault. Rather, the remembrance of them (domestic and wild animals)is that He remembered His own holy words that He spoke and the world came into being. Additionally, the desire to create the world which He had, came before Him and He desired the existence of the world and the species He had created in it. He therefore acted to take them out, as they could not persist in the ark. He did not remember the birds and the fish because the remembrance of the land mammals included them.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 19,
+     "kind": "source",
+     "ref": "Rabbeinu Bahya, Bereshit 8:1:1",
+     "he": "ד\"ה ויזכור אלוקים את נח ואת כל החיה: להורות שכולן שוים בהשגחה כללית.",
+     "en": "ויזכר אלוקים את נח, “G-d remembered Noach, etc.” It would have been more appropriate for the Torah to write that “G-d remembered Noach and his sons, etc.” After all, we know that they too were beneficiaries of His presence since the Torah wrote in 9,8 “G-d spoke to Noach and to his sons, etc.” Why then did the Torah here mention only Noach as the one to whom G-d spoke? It is possible to understand the word את in front of the word נח as a reference to his sons. This would certainly not be the first time that the word את is used as a רבוי, a word which alludes to something additional which the Torah had not spelled out in detail. Seeing that Noach’s sons were extensions of his own self, the Torah did not see fit to mention them separately at this stage. We find a similar occurrence in Exodus 1,1 where the Torah mentions את יעקב, and Shemot Rabbah interprets the word את as a reference to all the people who descended to Egypt because they were “extensions” of Yaakov. This meant that sons and wives were automatically included in the people whose fate G-d had “remembered.” As to the fact that the Torah specifically refers to the animals and all other creatures in the Ark with Noach, something which at first glance makes it appear as if their fates were of greater concern to G-d than that of Noach’s wife, his sons and their wives, this is not so. We distinguish between השגחה כללית, and השגחה פרטית, G-d’s general overall concern and supervision of their fate, and G-d’s specific individual supervision of someone’s fate. Whereas the animals, etc., qualified for G-d’s general concern, Noach and his family qualified for G-d’s specific concern. Hence the word את is an indication that G-d’s specific concern extended also to the members of Noach’s family. \nAlternatively, the reason Torah chose to mention G-d’s concern for the domestic beasts and the free-roaming animals was to draw our attention to the fact that He displayed no such concern for the birds; hence the birds are not mentioned in this verse. The reason may have been that seeing that the mammals were all created on the sixth day of creation, i.e. the same day as man, they shared special consideration by G-d with man; the birds which had been created already on the fifth day did not enjoy this distinction. This may also be reflected in the wording אשר אתו בתיבה “who were with him in the Ark.” The Torah wanted to stress that there was something that man and the other mammals shared to the exclusion of other phenomena on earth, namely G-d’s especial concern for their fates. It is noteworthy that the same word את occurs in the narrative of the Torah when it describes both man’s and the mammal’s creation on the sixth day. Please compare Genesis 1,24-25. The words אשר אתו in our verse here may be an allusion to that verse in 1,24.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "ד\"ה ויזכור אלוקים את נח ואת כל החיה: להורות שכולן",
+       "scan": "… ואת כל החיה.. להורות שכלן",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "spelling and punctuation only"
+     }
+    },
+    {
+     "i": 20,
+     "kind": "text",
+     "he": "ר' יוסף אבן כספי, מצרף לכסף:\nד\"ה ויזכור אלוקים את נח ואת כל החיה: חלילה שיהיה זכירת השם לנח האיש הצדיק, וזכירתו יתברך לחיה ולבהמה על מדרגה אחת; וגם בזה צריכין אנו למודע, רצוני לומר, ההגיון, ויותר נמרץ מזה אמרו עוד בחיה ובבהמה \"כריתת ברית\", וכל זה מבואר לבעלי העיניים.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "וזכירתו יתברך … למודע, רצוני לומר, ההגיון … לבעלי העיניים.",
+       "scan": "וזכירתו ית' … למודע ר\"ל ההגיון … לבעלי העינים.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 21,
+     "kind": "text",
+     "he": "קאסוטו, מנח עד אברהם, עמוד 56:\nזכירה זו דומה למה שכתוב להלן על שרה (בראשית כ\"א) \"וה' פקד את שרה כאשר אמר ויעש ה' לשרה כאשר דבר... למועד אשר דבר אותו אלוקים\". הפקידה כאן פירושה עשייה, כמו שיוצא ברור מן התקבולת פקד-ויעש, ודוקא עשיה במועד הקבוע מראש, והוא הדין לזכירת נח, שהרי הפקידה והזכירה הם מושגים נרדפים זה לזה, כפי מה שבישר ה' לנח מראש, כך עשה. אמר לו שירידת המבול תמשך ארבעים יום ובסוף ארבעים יום שם קץ לירידת מי המבול.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "קאסוטו, מנח עד אברהם, עמוד 56: … (בראשית כ\"א) … כאשר דבר... … אלוקים\". הפקידה כאן פירושה עשייה, … פקד-ויעש",
+       "scan": "קאסוטו מנח עד אברהם ע' 56: … (בר' כ\"א) … כאשר דבר.. … אלוקים.\" הפקידה כאן פרושה עשיה, … פקד - ויעש",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 22,
+     "kind": "question",
+     "he": "מה הם הקשיים שמישב כל אחד מן הפרשנים הנ\"ל?",
+     "scan_status": "DIFF",
+     "digitized_he": "מה הם הקשיים שמיישב כל אחד מן הפרשנים הנ\"ל?",
+     "scan_fixes": [
+      {
+       "digitized": "מה הם הקשיים שמיישב כל אחד מן הפרשנים הנ\"ל?",
+       "scan": "מה הם הקשי[?]ם שמישב כל אחד מן הפרשנים הנ\"ל?",
+       "class": "corroborated"
+      },
+      {
+       "digitized": "הקשיים שמיישב",
+       "scan": "הקשי[?]ם שמישב",
+       "class": "corroborated"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. מדברי המדרשים: (underlined)",
+   "header_digitized": "ד. קרבן נח",
+   "items": [
+    {
+     "i": 28,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 34:6",
+     "he": "(פסוק ט\"ז) \"צא מן התיבה\", כתיב (קהלת ג') \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קיבל עליו לצאת, אמר: אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם, שנאמר (ישעיה נ\"ד) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח\".",
+     "en": "Another opinion: 'To everything there is a season, and a time to every purpose (Eccl. 3:1): there was a time for Noah to enter the ark, as it is written: 'come you and all your house into the ark (Gen. 7:1), and a time for him to leave it: Go forth from the Ark. This may be compared to an administrator/parnas who departed for a certain spot, putting someone in his place. When he returned, he said to the other, ‘Leave your position.’ This may be compared to a scribe/sofer who departed for a certain spot, putting someone in his place. When he returned, he said to the other, ‘Leave your position.’ So too Noach: 'go forth from the ark'. But he [Noach] did not accept the order to go out, saying, ‘Am I to go out and be fruitful and multiply for a curse?’ Until the Holy One, blessed be He, swore to him that He would not bring another flood upon the world, as it says, 'For this is the waters of Noach to Me; for as I have sworn that the waters of Noach should no more go over the earth (Isa. 54:9)'",
+     "scan_status": "DIFF",
+     "digitized_he": "(פסוק ט\"ז) \"צא מן התיבה\", כתיב (קהלת ג') \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קיבל עליו לצאת, אמר: אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם, שנאמר (ישעיה נ\"ד) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח\".",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "(פסוק ט\"ז) … שנאמר … שנאמר … \"צא ממקומך\". … ולא קיבל עליו לצאת, אמר: אצא … לעולם, שנאמר (ישעיה נ\"ד) … מי נח\".",
+       "scan": "(פ' ט\"ז) … שנ' … שנ' … \"צא ממקומך\" … ולא קבל עליו לצאת אמר: \"אצא … לעולם. שנ' (ישעיה נ\"ד) … מי נח.\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "spelling and abbreviation only"
+     },
+     "scan_reading": "(פ' ט\"ז) \"צא מן התיבה\", כתיב (קהלת ג') \"לכל זמן ועת לכל חפץ תחת השמים\" זמן היה לנח ליכנס לתיבה, שנאמר \"בא אתה וכל ביתך אל התיבה\" וזמן היה לו שיצא ממנה, שנאמר \"צא מן התיבה\". משל לפרנס שיצא מן המקום והושיב אחר תחתיו. כיון שבא, אמר לו: \"צא ממקומך\". כך נח \"צא מן התיבה\" ולא קבל עליו לצאת אמר: \"אצא ואהיה פרה ורבה למארה? עד שנשבע לו המקום, שאינו מביא מבול לעולם. שנ' (ישעיה נ\"ד) \"כי מי נח זאת לי אשר נשבעתי מעבור מי נח.\""
+    },
+    {
+     "i": 29,
+     "kind": "question",
+     "he": "א. מה רמז מצא המדרש בפסוקים לסירובו זה של נח?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "לסירובו",
+       "scan": "+ (א) … לסרובו",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "א. מה רמז מצא המדרש בפסוקים לסירובו זה של נח?",
+     "scan_fixes": [
+      {
+       "digitized": "לסירובו זה של נח?",
+       "scan": "לסרובו זה של נח?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "א. מה רמז מצא המדרש בפסוקים לסרובו זה של נח?"
+    },
+    {
+     "i": 30,
+     "kind": "question",
+     "he": "ב. מה סמך מצא המדרש לדבריו בישעיה נ\"ד? העזר בישעיה מ\"ח!",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "בישעיה נ\"ד? העזר בישעיה מ\"ח!",
+       "scan": "+ (ב) … בישעיה נ\"ד. העזר בישעיה מ\"ח!!",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ב. מה סמך מצא המדרש לדבריו בישעיה נ\"ד? העזר בישעיה מ\"ח!",
+     "scan_fixes": [
+      {
+       "digitized": "מה סמך מצא המדרש לדבריו בישעיה נ\"ד? העזר בישעיה מ\"ח!",
+       "scan": "מה סמך מצא המדרש לדבריו בישעיה נ\"ד. העזר בישעיה מ\"ח!!",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "ב. מה סמך מצא המדרש לדבריו בישעיה נ\"ד. העזר בישעיה מ\"ח!!"
+    },
+    {
+     "i": 31,
+     "kind": "question",
+     "he": "ג. לשם מה בחר המדרש במשלו ב\"פרנס\"?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "text",
+     "he": "2) השוה את שני המדרשים הבאים:",
+     "scan_status": "DIFF",
+     "digitized_he": "השווה את שני המדרשים הבאים:",
+     "scan_fixes": [
+      {
+       "digitized": "השווה את שני המדרשים הבאים:",
+       "scan": "2) השוה את שני המדרשים הבאים:",
+       "class": "spelling"
+      },
+      {
+       "digitized": "השווה",
+       "scan": "2) השוה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 33,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 34:9",
+     "he": "(פסוק כ') \"ויבן נח מזבח לה' ויקח מכל הבהמה הטהורה ומכל העוף הטהור ויעל עולות במזבח\". \n\"ויבן\" כתיב – נתבונן: אמר: מפני מה ציווני הקב\"ה וריבה בטהורים יותר מן הטמאים? אלא להקריב מהן קרבן. מיד \"ויקח מכל הבהמה הטהורה ומכל העוף הטהור...\".",
+     "en": "",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "מפני מה ציווני הקב\"ה … העוף הטהור...\".",
+       "scan": "מפני מה צוני הקב\"ה … העוף הטהור..\"",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "spelling and punctuation only"
+     }
+    },
+    {
+     "i": 34,
+     "kind": "question",
+     "he": "פרקי דר' אליעזר כ\"ג:\nישב נח ודרש בלבו ואמר: הקב\"ה הצילני ממי המבול והוציאני ממסגר ההוא ואיני חייב להקריב לפניו קרבן עולות? מיד הביא נח ממין בהמה טהורה שור וכבש ועז וממין עוף טהור תורים ובני יונה... ובנה את המזבח הראשון שהקריב עליו עולות קין והבל.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 35,
+     "kind": "question",
+     "he": "מה ההבדל בין שני המדרשים בתפישת העולה שהעלה נח?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 36,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 34:9",
+     "he": "(פסוק כ\"א) \"וירח ה' את ריח הניחוח\" הריח ריחו של אברהם אבינו עולה מכבשן האש, וירח ריח של חנניה מישאל ועזריה עולין מכבשן האש; משל לאוהבו של מלך שכבדו ושלח לו דורן נאה – דסקוס נאה, ועמד בנו ולא כבדו. עמד בן בנו וכבדו. אמר לו: \"מה דמי דורון דידך לדורון דסבך\" וירח ה' את ריח הניחוח\" הריח ריחו של דורן של שמד.",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "(פסוק כ\"א) \"וירח ה' את ריח הניחוח\" הריח ריחו של אברהם אבינו עולה מכבשן האש, וירח ריח של חנניה מישאל ועזריה עולין מכבשן האש; משל לאוהבו של מלך שכיבדו ושלח לו דורן נאה – דסקוס נאה, ועמד בנו ולא כיבדו. עמד בן בנו וכיבדו. אמר לו: \"מה דמי דורון דידך לדורון דסבך?\" וירח ה' את ריח הניחוח\" הריח ריחו של דורן של שמד.",
+     "scan_fixes": [
+      {
+       "digitized": "שכיבדו … ולא כיבדו … וכיבדו … דסבך?\"",
+       "scan": "שכבדו … ולא כבדו … וכבדו … דסבך\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 37,
+     "kind": "question",
+     "he": "א. מה משמעותו של \"קרבן\" לפי המדרש הזה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 38,
+     "kind": "question",
+     "he": "ב. מה מובנו של המשל על האב ובנו ובן בנו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 39,
+     "kind": "question",
+     "he": "ג. מהו הקושי בפסוקנו שעליו בנוי המדרש?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "הקושי",
+       "scan": "(ג) … הקשי",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ג. מהו הקושי בפסוקנו שעליו בנוי המדרש?",
+     "scan_fixes": [
+      {
+       "digitized": "מהו הקושי בפסוקנו",
+       "scan": "מהו הקשי בפסוקנו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "ג. מהו הקשי בפסוקנו שעליו בנוי המדרש?"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: The difficulty marks are dropped: Q4 `+`, Q5 `+`, Q6 `++`, Q7 `++`.",
+  "§א: The question numbers «1)…7)» become «1.…7.».",
+  "§ב: [16]: the Latin-letter citation, handwritten in the scan, is typed into the digitization as part of her line.",
+  "§ד: The block order is changed (see above).",
+  "§ד: The difficulty marks are dropped: 3)(א) `+`, 3)(ב) `+`, 1)(א) `+`, 1)(ב) `+`.",
+  "§ד: The item numbers «1)», «2)», «3)» are dropped. «(א)» becomes «א.»."
+ ],
+ "needs_human": []
+}

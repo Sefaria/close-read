@@ -48,6 +48,10 @@ The canonical worked example is **Bereshit**: `data/bereshit.json`, the pack
 `research/parshiyot/bereshit.md`, the scan checks in `bereshit-scancheck/`, and the leaf
 trails in `bereshit-leaves/`. Read the pack's §2 (how Sefaria's digitization departs from her
 scans) and `bereshit-leaves/BRIEF.md` (the drafting rules) before building a new parsha.
+**Noach** (`data/noach.json`, pack `research/parshiyot/noach.md`) is the second worked example and
+the newest template: copy `harvest_noach.py` (it fixes three bugs `harvest_bereshit.py` still has,
+pack §8), `noach-leaves/BRIEF.md` (the drafting rules plus what the scan checks taught), and
+`noach-scancheck/README.md`.
 **Don't copy Nasso.** It predates this pipeline, and some of its question cards are English
 paraphrases rather than her questions, which is exactly the fabrication this pipeline exists
 to prevent.
@@ -87,6 +91,11 @@ that has been checked against her original scans, and a test proves it.
   with its `[i]`, a summary table, verse coverage, and a year check.
 - Write the pack (`parshiyot/<parsha>.md`): provenance, inventory, tentative clusters, and
   absences. Absences are only *candidates* until the scans confirm them.
+- **Check page 2 of every sheet you might pick for an editor's box** headed «שאלות בטעמי
+  המקרא — העורך: מיכאל פרלמן» (1960s sheets). Sefaria digitizes it as one of her lettered
+  sections, but it isn't hers and is never rendered as hers (Bereshit 1964 §ד; Noach 1963 §ד, 1966
+  §ה, 1967 §ג). In Noach it held every natural Leningrad (accent) moment, so check before
+  proposing one.
 
 ### Stage 2 — Design, then STOP and confirm
 
@@ -106,20 +115,26 @@ or twice per parsha.
 - **Triage.** Settle every word-level difference with evidence in `triage.json`. The cited
   source usually decides it: a reference she gives, or the commentator's own text.
   Citation detail the digitizers *added* is editorial, not an error (Lev).
-- **Harvest.** `harvest_<parsha>.py` (copy `harvest_bereshit.py`), plus `overrides.json` for
-  items the digitization lost. `REVIEW.md` must be empty before drafting.
+- **Harvest.** `harvest_<parsha>.py` (copy `harvest_noach.py`), plus `overrides.json`:
+  `insert` for items the digitization lost (`after`/`before` an index), `replace` for a triaged
+  word-level fix the checkers' fragments can't apply cleanly, each cited. `REVIEW.md` must be
+  empty before drafting. Then audit that no applied fix wrote checker notation (x/xx/+, «…»,
+  `[?]`) into her text, and pre-settle known slips inside *source* texts, so drafters never have
+  to type a fix.
 - **Verses.** `fetch_verses.py` caches MAM Hebrew and JPS English, with footnotes and
   variant notes stripped.
 
 ### Stage 4 — Draft
 
-- Leaves go in `research/scripts/<parsha>_leaves/<theme>.py`, with helpers in
-  `bereshit_lib.py`. Cards quote harvest items by `cite`, slices are verbatim, and verse
+- Leaves go in `research/scripts/<parsha>_leaves/<theme>.py`, importing `<parsha>_lib.py`
+  (three lines: `from nechama_lib import *` and `use('<parsha>')`); the helpers are in
+  `nechama_lib.py`. Cards quote harvest items by `cite`, slices are verbatim, and verse
   word groups are found by their bare letters.
-- Follow `bereshit-leaves/BRIEF.md` and
+- Follow `noach-leaves/BRIEF.md` and
   [references/voice-and-fidelity.md](references/voice-and-fidelity.md). **The reader
   experiences the content, not her sheet**: no narration about how her sheet is built.
-- Check one theme in isolation with `check_leaves.py <theme>`. Each theme's paper trail goes
+- Check one theme in isolation with `check_leaves.py <parsha> <theme>`. Don't add the
+  `data/index.json` entry until `data/<parsha>.json` exists: the tests load every listed sheet. Each theme's paper trail goes
   in `<parsha>-leaves/<theme>.md`.
 - Assemble with `build_<parsha>.py`.
 
@@ -128,11 +143,14 @@ or twice per parsha.
 - Run `python3 -m pytest`. It includes `test_provenance.py`, and the render suite walks
   every path at desktop and phone sizes.
 - Take Playwright screenshots of the hard cards: images, comparisons, LTR quotes.
+- **Phone comparison panels hold about five lines of Hebrew across both sides.** Her השווה
+  tables usually need fragment rows (`_frag_sides` in `noach_leaves/blood.py`). Measure the
+  headroom at the 14px floor and keep ≥25px for Linux CI fonts.
 - Bump the asset `?v=` strings, then open the PR. See
   [references/quality-and-errors.md](references/quality-and-errors.md).
 
 ## Cadence
 
-The scan check and triage are the expensive, essential part. Bereshit's 15 leaves took
+The scan check and triage are the expensive, essential part. Bereshit's and Noach's 15 leaves each took
 five parallel checkers and five parallel drafters. The scripts are templates: a new parsha
 needs its slug, chosen sheets and sections, theme intros, and its leaves.

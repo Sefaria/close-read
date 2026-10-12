@@ -1,0 +1,664 @@
+{
+ "sheet_id": 161147,
+ "year_g": "1958",
+ "year_he": "תשי\"ח",
+ "theme": "generation",
+ "title": "פרשת נח תשי\"ח - \"אלה תולדות נח\"",
+ "sefaria_url": "https://www.sefaria.org/sheets/161147",
+ "pdf_url": "https://www.nechama.org.il/pdf/494.pdf",
+ "scancheck": "noach-scancheck/161147-1958.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "רש\"י",
+   "header_digitized": "א. \"אלה תולדות נח\"",
+   "items": [
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:9:1",
+     "he": "ד\"ה אלה תולדות נח נח איש צדיק: הואיל והזכירו סיפר בשבחו, שנאמר (משלי י') \"זכר צדיק לברכה\".\nדבר אחר: לימדך שעיקר תולדותיהם של צדיקים מעשים טובים.",
+     "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Radak on Genesis 6:9:1",
+     "he": "אלה תולדות נח: \"תולדות\" פירושו הקורות שקרוהו בדבר המבול ואחריו, וכן (בראשית ל\"ז) \"אלה תולדות יעקב\", כי הקורות הם תולדות הימים, וכן אמר (משלי כ\"ז) \"כי לא תדע מה ילד יום\".",
+     "en": "אלה תולדות נח, נח איש צדיק תמים היה בדורותיו, the meaning of the word תולדות is similar to “history of,” i.e. this it what happened to Noach, etc. It concerns both the deluge and what came after. We encounter the same pattern when the Torah introduced a paragraph with the words אלה תולדות יעקב, יוסף in Genesis 37,2 where this is an introduction to history related to Yaakov’s family. In Proverbs 27,1 we have a verse concluding with the words “the day will give birth to.” The root ילד is the root of the word תולדה and תולדות, i.e. it refers to future developments. Developments are matters that are the result of days following one another.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "question",
+     "he": "1. מה קשה לו?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה קשה לרש\"י?",
+     "scan_fixes": [
+      {
+       "digitized": "מה קשה לרש\"י?",
+       "scan": "מה קשה לו?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "«מה קשה לו?» per the scan"
+     }
+    },
+    {
+     "i": 5,
+     "kind": "question",
+     "he": "2. מה ההבדל העקרוני בין שני פרושיו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה ההבדל העקרוני בין שני פירושיו של רש\"י?",
+     "scan_fixes": [
+      {
+       "digitized": "בין שני פירושיו של רש\"י?",
+       "scan": "בין שני פרושיו?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "«של רש\"י» is not in the scan"
+     }
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "3. העתק את פסוקנו פעמים וסמנו בסמני פסוק בהתאם לכל אחד מפרושי רש\"י.",
+     "scan_status": "DIFF",
+     "digitized_he": "3. העתק את פסוקנו פעמיים, וסמנו בסימני פסוק בהתאם לכל אחד מפירושי רש\"י.",
+     "scan_fixes": [
+      {
+       "digitized": "פעמיים, וסמנו בסימני פסוק … מפירושי רש\"י.",
+       "scan": "פעמים וסמנו בסמני פסוק … מפרושי רש\"י.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פעמיים, וסמנו בסימני פסוק … מפירושי",
+       "scan": "פעמים וסמנו בסמני פסוק … מפרושי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "4. לפי הכלל, שאין רש\"י מביא שני פרושים אלא אם כן לא נחה דעתו אף באחד מהם – מהי חולשת כל אחד משני פרושיו?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. לפי הכלל, שאין רש\"י מביא שני פירושים אלא אם כן לא נחה דעתו אף באחד מהם – מהי חולשת כל אחד משני פירושיו?",
+     "scan_fixes": [
+      {
+       "digitized": "שני פירושים … משני פירושיו?",
+       "scan": "שני פרושים … משני פרושיו?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פירושים … פירושיו",
+       "scan": "פרושים … פרושיו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 8,
+     "kind": "question",
+     "he": "5. המהר\"ל מפרג בספרו גור אריה על רש\"י מקשה על סגנונו של רש\"י בפרושו השני:\nלמה אמר \"עיקר תולדותיהם של צדיקים\" ולא אמר: למדך שתולדותיהם של צדיקים מעשים טובים\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "5. המהר\"ל מפרג, בספרו גור אריה על רש\"י מקשה על סגנונו של רש\"י בפירושו השני:\nלמה אמר \"עיקר תולדותיהם של צדיקים\" ולא אמר: \"לימדך שתולדותיהם של צדיקים מעשים טובים\"?",
+     "scan_fixes": [
+      {
+       "digitized": "המהר\"ל מפרג, בספרו גור אריה … בפירושו השני: … ולא אמר: \"לימדך שתולדותיהם …\"?",
+       "scan": "המהר\"ל מפרג בספרו גור אריה … בפרושו השני: … ולא אמר: למדך שתולדותיהם …?",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "בפירושו … \"לימדך שתולדותיהם…\"",
+       "scan": "בפרושו … למדך שתולדותיהם…",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 9,
+     "kind": "text",
+     "he": "(וכן כתוב במקורו תנחומא נח ב':\n\"תלדותיו של אדם אלו מעשים טובים\"",
+     "scan_status": "DIFF",
+     "digitized_he": "(וכן כתוב במקורו תנחומא נח ב':\n\"תולדותיו של אדם אלו מעשים טובים\"",
+     "scan_fixes": [
+      {
+       "digitized": "\"תולדותיו של אדם …\"",
+       "scan": "\"תלדותיו של אדם …\"",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "\"תולדותיו של אדם\"",
+       "scan": "\"תלדותיו של אדם\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 10,
+     "kind": "text",
+     "he": "ולא נאמר שם \"עיקר תולדותיו\").",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "text",
+     "he": "ענה לקושייתו !",
+     "scan_status": "NOT-IN-SCAN",
+     "basis": "digitization",
+     "exclude": "not in the scan: not her words",
+     "triage": {
+      "use": "not-published",
+      "why": "NOT-IN-SCAN: «ענה לקושייתו !» is the digitizer's line"
+     },
+     "publish": false
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "6. האם מסכים רד\"ק בפירושו למילת \"תולדות\" עם אחד משני פירושי רש\"י או בחר לו דרך אחרת?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "בפירושו למילת \"תולדות\" … שני פירושי רש\"י או בחר לו דרך אחרת?",
+       "scan": "בפרושו למלת \"תולדות\" … שני פרושי רש\"י או בחר [[sic: לא]] דרך אחרת?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בפירושו למילת … פירושי … בחר לו",
+       "scan": "בפרושו למלת … פרושי … בחר [[sic: לא]]",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "digitizer correction: the scan has «בחר לא», her typo for «לו»"
+     }
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "7. כיצד מיושב הקושי שעמד בפני רש\"י (שאלה 1) לפי דברי הרד\"ק?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "הקושי … (שאלה 1)",
+       "scan": "הקשי … (שאלה א1)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "אאב.",
+   "header_digitized": "ב. \"בדורותיו\"- לשבח או לגנאי?",
+   "items": [
+    {
+     "i": 15,
+     "kind": "source",
+     "ref": "Genesis 6:9",
+     "he": "\"צדיק תמים היה בדורותיו\"",
+     "en": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "תנחומא באבער נח ה':\nמהו \"בדורותיו\"? יש דורשין לשבח ויש דורשין לגנאי. צדיק בדורותיו ולא בדורות אחרים. משל למה הדבר דומה? - אם יתן אדם סלע של כסף בתוך סלעים של נחושת, אותה של כסף נראית נאה. כך היה נח: נראה צדיק בדור המבול. יש דורשין אותו לשבח. כיצד? - משל לחבית של אפרסמון, שהייתה נתונה בקבר, והיה ריחה טוב, אילו היתה בבית - על אחת כמה וכמה.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "הסבר, למה בחר הדורש לגנאי במשל המטבע (בדבר הניתן לראיה) ובחר הדורש לשבח בשמן אפרסמון (בדבר המפיץ ריח)?",
+     "scan_status": "DIFF",
+     "digitized_he": "הסבר, למה בחר הדורש לגנאי במשל המטבע (בדבר הניתן לראייה), ובחר הדורש לשבח בשמן אפרסמון (בדבר המפיץ ריח)?",
+     "scan_fixes": [
+      {
+       "digitized": "(בדבר הניתן לראייה), ובחר … ריח)?",
+       "scan": "(בדבר הניתן לראיה) ובחר … ריח)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לראייה), ובחר … ריח)?",
+       "scan": "לראיה) ובחר … ריח)",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. צדיק תמים היה בדורותיו",
+   "header_digitized": "ג. \"בדורותיו\"- לשבח או לגנאי? המשך - שאלות ברש\"י",
+   "items": [
+    {
+     "i": "before 19",
+     "kind": "source",
+     "he": "רש\"י: \"בדורותיו\": יש מרבותינו דורשים אותו לשבח, כל שכן אילו היה בדור של צדיקים היה צדיק יותר. ויש שדורשים אותו לגנאי: לפי דורו היה צדיק ואילו היה בדורו של אברהם לא היה נחשב לכלום.",
+     "basis": "scan-only",
+     "cite": "noach-scancheck/161147-1958.md, head of §ג (also seen by Claude on the page image, 2026-10-12)",
+     "ref": "Rashi on Genesis 6:9:2",
+     "triage": {
+      "use": "scan",
+      "why": "Rashi as she printed it; seen by Claude on the page image (2026-10-12)"
+     }
+    },
+    {
+     "i": 19,
+     "kind": "text",
+     "he": "ופרש דבריו ר' מרדכי יפה בעל \"לבוש האורה\" על רש\"י:\nודע ששתי אלו הדעות, רוצה לומר הדורשים לשבח והדורשים לגנאי, נותנים לנח מדרגה אחת בצדקותיו, ואינם חלוקים במדרגת מעלת צדקותיו של נח, ולדברי שניהם לא היה אלא צדיק בינוני – אלא שזה הדורש לשבח ואומר, שכוונת הפסוק היא אם היה בדורות של צדיקים ולמד ממעשיהם -ודאי היה צדיק יותר גדול ממה שהיה, וזה הדורש לגנאי אומר פירוש \"בדורותיו\" – לפי דורו היה צדיק ומגנהו הפסוק לומר, שלא היה אדוק בצדקתו, שגם אם היה בדורו של אברהם, לא היה צדיק יותר, כי לא היה לומד ממעשיו ולא היה נחשב לכלום.",
+     "scan_status": "DIFF",
+     "digitized_he": "ופירש דבריו ר' מרדכי יפה, בעל \"לבוש האורה\" על רש\"י:\nודע ששתי אלו הדעות, רוצה לומר הדורשים לשבח והדורשים לגנאי, נותנים לנח מדרגה אחת בצדקותיו, ואינם חלוקים במדרגת מעלת צדקותיו של נח, ולדברי שניהם לא היה אלא צדיק בינוני – אלא שזה הדורש לשבח ואומר, שכוונת הפסוק היא אם היה בדורות של צדיקים ולמד ממעשיהם -ודאי היה צדיק יותר גדול ממה שהיה, וזה הדורש לגנאי אומר פירוש \"בדורותיו\" – לפי דורו היה צדיק ומגנהו הפסוק לומר, שלא היה אדוק בצדקתו, שגם אם היה בדורו של אברהם, לא היה צדיק יותר, כי לא היה לומד ממעשיו ולא היה נחשב לכלום.",
+     "scan_fixes": [
+      {
+       "digitized": "ופירש דבריו ר' מרדכי יפה, בעל \"לבוש האורה\" על רש\"י:",
+       "scan": "ופרש דבריו ר' מרדכי יפה בעל \"לבוש האורה\" על רש\"י:",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ופירש",
+       "scan": "ופרש",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "1. הסבר, אם כפי בעל לבוש האורה שאין מחלוקת בין רבותינו באשר לאפיו וטיבו של נח - אם כן במה נחלקו עד שהגיעו לידי מסקנות מנוגדות?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. הסבר, אם כפי בעל לבוש-האורה שאין מחלוקת בין רבותינו באשר לאופיו וטיבו של נח – אם כן, במה נחלקו, עד שהגיעו לידי מסקנות מנוגדות?",
+     "scan_fixes": [
+      {
+       "digitized": "אם כפי בעל לבוש-האורה … לאופיו וטיבו של נח – אם כן, במה נחלקו, עד",
+       "scan": "אם כפי בעל לבוש האורה … לאפיו וטיבו של נח - אם כן במה נחלקו עד",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לבוש-האורה … לאופיו",
+       "scan": "לבוש האורה … לאפיו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "2. מה הן הראיות מתוך המסופר בפרשתנו (פרקים ו'-ז') ל\"בינוניותו\" של צדיק זה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "question",
+     "he": "3. מה הם המקומות ברש\"י לפרקים ו' - ז' שבהם הולך רש\"י בעקבות הדעה הזו, (שלא היה צדיק אלא עד דרגה בינונית).",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "3. היכן הולך רש\"י בפירושו לפרקים ו'–ז' בעקבות הדעה שלא היה צדיק, אלא עד הגיע לדרגה בינונית בלבד?",
+       "scan": "3. מה הם המקומות ברש\"י לפרקים ו' - ז' שבהם[?] הולך רש\"י בעקבות הדעה הזו, (שלא היה צדיק אלא עד[?] דרגה בינונית).",
+       "class": "substantive"
+      },
+      {
+       "digitized": "היכן הולך רש\"י בפירושו לפרקים ו'–ז' בעקבות הדעה שלא היה צדיק, אלא עד הגיע לדרגה בינונית בלבד?",
+       "scan": "מה הם המקומות ברש\"י לפרקים ו' - ז' שבהם[?] הולך רש\"י בעקבות הדעה הזו, (שלא היה צדיק אלא עד[?] דרגה בינונית).",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "digitized",
+      "why": "the question is reworded in the digitization; her wording is restored by overrides.json replace (scan read by Claude at 300 dpi, 2026-10-12)"
+     },
+     "digitized_he": "3. היכן הולך רש\"י בפירושו לפרקים ו'–ז' בעקבות הדעה שלא היה צדיק, אלא עד הגיע לדרגה בינונית בלבד?",
+     "scan_fixes": [
+      {
+       "digitized": "היכן הולך רש\"י בפירושו לפרקים ו'–ז' בעקבות הדעה שלא היה צדיק, אלא עד הגיע לדרגה בינונית בלבד?",
+       "scan": "מה הם המקומות ברש\"י לפרקים ו' - ז' שבהם הולך רש\"י בעקבות הדעה הזו, (שלא היה צדיק אלא עד דרגה בינונית).",
+       "class": "triaged",
+       "cite": "noach-scancheck/161147-1958.md [22]; read by Claude at 300 dpi, 2026-10-12",
+       "why": "the digitization rewords her question; «שבהם» and «עד» are smudged, «עד» corroborated by the digitized «עד הגיע»"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "את",
+   "header_digitized": "ד. ההבדל בין נח לאברהם",
+   "items": [
+    {
+     "i": "before 24",
+     "kind": "source",
+     "he": "רש\"י ובאברהם הוא אומר (בראשית כ\"ד) \"אשר התהלכתי לפניו\". נח היה צריך סעד לתמכו, אבל אברהם היה מתחזק ומהלך בצדקו מאליו.",
+     "basis": "scan-only",
+     "cite": "noach-scancheck/161147-1958.md, head of §ד",
+     "ref": "Rashi on Genesis 6:9:3",
+     "triage": {
+      "use": "scan",
+      "why": "Rashi as she printed it, read by the checker"
+     }
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 30:10",
+     "he": "\"את האלוקים התהלך נח\" (בראשית ו ט) – ר' יהודה ור' נחמיה: ר' יהודה אמר: משל למלך שהיו לו שני בנים, אחד גדול ואחד קטן. אמר לקטן: הלֵך עמי ואמר לגדול: בוא והלֵך לפני. כך אברהם שהיה כוחו יפה – \"התהלך לפני והיה תמים\", אבל נח שהיה כוחו רע – \"את האלוקים התהלך נח\".\nר' נחמיה אמר: משל לאוהבו של מלך שהיה משתקע בטיט עבה, הציץ המלך וראה אותו. אמר לו: עד שאתה משתקע בטיט – הלֵך עמי. הדא הוא דכתיב: \"את האלוקים התהלך נח\". ולמה אברהם דומה: לאוהבו של מלך, שראה את המלך מהלך במבואות האפילים. הציץ אוהבו והתחיל מאיר עליו דרך החלון. הציץ המלך וראה אותו, אמר לו: עד שאתה מאיר לי דרך החלון – בוא והאר לפני.\nכך אמר הקדוש ברוך הוא לאברהם: עד שאתה מאיר לי ממספוטמיא ומחברותיה – בוא והאיר לפני בארץ ישראל!",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "question",
+     "he": "1. מה הקשי שעמד בפני המדרש ובפני רש\"י שאותו רצו ליישב?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה הקושי שעמד בפני המדרש ובפני רש\"י, שאותו רצו ליישב?",
+     "scan_fixes": [
+      {
+       "digitized": "מה הקושי שעמד בפני המדרש ובפני רש\"י, שאותו רצו ליישב?",
+       "scan": "מה הקשי שעמד בפני המדרש ובפני רש\"י שאותו רצו ליישב?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הקושי",
+       "scan": "הקשי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "2. מהי הוראת מלת \"את\" בפסוקנו לדעתם והיכן מצינו בתורה \"את\" בהוראה זו?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מהי הוראת מילת \"את\" בפסוקנו לדעתם, והיכן מצינו בתורה \"את\" בהוראה זו?",
+     "scan_fixes": [
+      {
+       "digitized": "מהי הוראת מילת \"את\" בפסוקנו לדעתם, והיכן",
+       "scan": "מהי הוראת מלת \"את\" בפסוקנו לדעתם והיכן",
+       "class": "spelling"
+      },
+      {
+       "digitized": "מילת",
+       "scan": "מלת",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "3. התוכל להוכיח מתוך השואת פרשתנו לפרשת וירא את ההבדל הזה שמצאו חז\"ל בין נח לאברהם?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. התוכל להוכיח מתוך השוואת פרשתנו לפרשת וירא את ההבדל הזה שמצאו חז\"ל בין נח לאברהם?",
+     "scan_fixes": [
+      {
+       "digitized": "השוואת",
+       "scan": "השואת",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 28,
+     "kind": "question",
+     "he": "4. גם לפי ר' יהודה וגם לפי ר' נחמיה גדול אברהם מנח. הסבר מהו איפוא ההבדל בין דעותיהם? (שים לב: שימוש בדימוי אחר, במשל אחר, סימן הוא להוראה אחרת בנמשל. ועיין גיליון בראשית תשי\"ח שאלה ג!)",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "גם לפי ר' יהודה וגם לפי ר' נחמיה … (שים לב: שימוש בדימוי אחר, … ועיין גיליון בראשית תשי\"ח שאלה ג!)",
+       "scan": "גם לר' יהודה וגם לר' נחמיה … (שים לב: שמוש בדמוי אחר, … ועי' גליון בראשית תשי\"ח שאלה ג1)",
+       "class": "substantive"
+      },
+      {
+       "digitized": "גם לפי ר' יהודה וגם לפי ר' נחמיה … שימוש בדימוי … ועיין גיליון … שאלה ג!",
+       "scan": "גם לר' יהודה וגם לר' נחמיה … שמוש בדמוי … ועי' גליון … שאלה ג1)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ה",
+   "header_scan": "אה.",
+   "header_digitized": "ה. \"חמס\" - שאלות ברש\"י",
+   "items": [
+    {
+     "i": 30,
+     "kind": "source",
+     "ref": "Genesis 6:11",
+     "he": "\"ותימלא הארץ חמס\"",
+     "en": "And the earth was corrupt before God, and the earth was filled with violence.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "text",
+     "he": "רש\"י:\nד\"ה חמס: גזל.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "text",
+     "he": "ויש ספרים שכתוב בהם ברש\"י:\nגזל, שנאמר (יונה ג') \"ומן החמס אשר בכפיהם\".",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "question",
+     "he": "הסבר במה עשוי הפסוק ביונה להוכיח את צדקת פרושו (\"שנאמר\") הלא גם שם כמו בפסוקנו מופיעה מלת \"חמס\" בלי תוספת באור, כמו בפסוקנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "הסבר במה עשוי הפסוק ביונה להוכיח את צדקת פירושו (\"שנאמר\"), הלוא גם שם, כמו בפסוקנו, מופיעה מילת \"חמס\" בלי תוספת ביאור, כמו בפסוקנו?",
+     "scan_fixes": [
+      {
+       "digitized": "צדקת פירושו (\"שנאמר\"), הלוא גם שם, כמו בפסוקנו, מופיעה מילת \"חמס\" בלי תוספת ביאור",
+       "scan": "צדקת פרושו (\"שנאמר\") הלא גם שם כמו בפסוקנו מופיעה מלת \"חמס\" בלי תוספת באור",
+       "class": "spelling"
+      },
+      {
+       "digitized": "פירושו … הלוא … מילת … ביאור",
+       "scan": "פרושו … הלא … מלת … באור",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ו",
+   "header_scan": "ו. יג ויאמר אלוהים אל נח: קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם.",
+   "header_digitized": "ו. \"קץ כל בשר...כי...\" - שאלות ברש\"י",
+   "items": [
+    {
+     "i": 35,
+     "kind": "source",
+     "ref": "Genesis 6:13",
+     "he": "\"ויאמר אלוהים אל נח: קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם\"",
+     "en": "And God said unto Noah: ‘The end of all flesh is come before Me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 36,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:13:2",
+     "he": "לא נחתם גזר דינם אלא על הגזל.",
+     "en": "כי מלאה הארץ חמס FOR THE EARTH IS FILLED WITH VIOLENCE — Their fate was sealed only on account of their sin of robbery (Sanhedrin 108a).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 37,
+     "kind": "question",
+     "he": "1. מה קשה לו בפסוק?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 38,
+     "kind": "question",
+     "he": "2. מה הרעיון הכלול בדבריו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 39,
+     "kind": "question",
+     "he": "3. בעל ספר הזכרון, מקשה על לשון רש\"י:\nלמה נכנס רש\"י בלשון שלילה לומר: \"לא נחתם גזר דינם אלא על...\" ולמה לא אמר בלשון חיוב: נחתם גזר דינם על הגזל.",
+     "scan_status": "DIFF",
+     "digitized_he": "3. בעל ספר הזכרון, מקשה על לשון רש\"י:\nנכנס רש\"י בלשון שלילה \"לא נחתם גזר דינם אלא על...\" ולמה לא אמר בלשון חיוב: \"נחתם גזר דינם על הגזל\".",
+     "scan_fixes": [
+      {
+       "digitized": "נכנס רש\"י בלשון שלילה \"לא נחתם…\"",
+       "scan": "למה נכנס רש\"י בלשון שלילה לומר: \"לא נחתם…\"",
+       "class": "substantive"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "3. בעל ספר הזכרון, מקשה על לשון רש\"י: נכנס רש\"י בלשון שלילה \"לא נחתם …\" ולמה לא אמר בלשון חיוב: \"נחתם גזר דינם על הגזל\".",
+       "scan": "3) בעל ספר הזכרון מקשה על לשון רש\"י: למה נכנס רש\"י בלשון שלילה לומר: \"לא נחתם …\" ולמה לא אמר בלשון חיוב: נחתם גזר דינם על הגזל.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "her wording adds «למה … לומר:» (scan)"
+     }
+    },
+    {
+     "i": 40,
+     "kind": "text",
+     "he": "ענה לשאלתו.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ז",
+   "header_scan": "ז. יג קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם, והנני משחיתם את הארץ",
+   "header_digitized": "ז. הגזל- גדול שבחטאים",
+   "items": [
+    {
+     "i": 42,
+     "kind": "source",
+     "ref": "Genesis 6:13",
+     "he": "\"קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם, והנני משחיתם את הארץ\"",
+     "en": "And God said unto Noah: ‘The end of all flesh is come before Me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 43,
+     "kind": "source",
+     "ref": "Sanhedrin 108a:12",
+     "he": "אמר ר' יוחנן: בוא וראה כמה גדול כוחה של חמס! שהרי דור המבול עברו על הכל, ולא נחתם עליהם גזר דינם עד שפשטו ידיהם בגזל, שנאמר \"כי מלאה הארץ חמס מפניהם והנני משחיתם את הארץ\".",
+     "en": "With regard to the verse: “And God said to Noah: The end of all flesh is come before Me, for the earth is filled with robbery through them, and behold, I will destroy them with the earth” (Genesis 6:13), Rabbi Yoḥanan says: Come and see how great is the power of robbery, as the generation of the flood violated every precept, but their sentence to be destroyed was not sealed until they extended their hands and engaged in robbery, as it is stated: “For the earth is filled with robbery through them, and behold, I will destroy them with the earth” (Genesis 6:13). And it is written: “Robbery is risen up into a rod of wickedness; nothing comes from them, nor from their multitude, nor from any of them, nor shall there be wailing [no’ah] for them” (Ezekiel 7:11).",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 44,
+     "kind": "question",
+     "he": "1. מה ההבדל בסגנון בין דברי רש\"י לפסוקנו (עיין בשאלה ג') לבין מקורו - דברי הגמרא האלה? (השווה לדרכו של רש\"י בעיבוד מקורותיו גיליון יתרו תש\"ג, שאלה אחרונה, \"גדול השלום\").",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "(עיין בשאלה ג') לבין מקורו - דברי הגמרא האלה? (השווה לדרכו של רש\"י בעיבוד מקורותיו גיליון יתרו תש\"ג, שאלה אחרונה, \"גדול השלום\").",
+       "scan": "(ע' בשאלה ג) לבין מקורו הם[?] דברי הגמרא האלה? (השוה לדרכו של רש\"י בעבוד מקורותיו גליון יתרו תש\"ד \"גדול השלום\").",
+       "class": "substantive"
+      },
+      {
+       "digitized": "(עיין בשאלה ג') … מקורו - דברי … גיליון יתרו תש\"ג, שאלה אחרונה, \"גדול השלום\"",
+       "scan": "(ע' בשאלה ג) … מקורו הם[?] דברי … גליון יתרו תש\"ד \"גדול השלום\"",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "differences are inside her cross-reference to another sheet («תש\"ד» vs «תש\"ג, שאלה אחרונה»), which is not quoted; slice before the parenthesis"
+     }
+    },
+    {
+     "i": 45,
+     "kind": "question",
+     "he": "2. היכן מצינו בתפילותינו הבלטת הגזל כגדול שבחטאים?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. היכן מציינו בתפילותינו הבלטת הגזל כגדול שבחטאים?",
+     "scan_fixes": [
+      {
+       "digitized": "היכן מציינו",
+       "scan": "היכן מצינו",
+       "class": "spelling"
+      },
+      {
+       "digitized": "מציינו",
+       "scan": "מצינו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: `x` on Q4 dropped.",
+  "§ו: `xx` on Q1 dropped."
+ ],
+ "needs_human": []
+}

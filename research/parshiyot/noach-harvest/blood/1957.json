@@ -1,0 +1,760 @@
+{
+ "sheet_id": 161105,
+ "year_g": "1957",
+ "year_he": "תשי\"ז",
+ "theme": "blood",
+ "title": "פרשת נח תשי\"ז - ברכת ה' לנח לאחר המבול",
+ "sefaria_url": "https://www.sefaria.org/sheets/161105",
+ "pdf_url": "https://www.nechama.org.il/pdf/452.pdf",
+ "scancheck": "noach-scancheck/161105-1957.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "xא. השוה את הסדר…",
+   "header_digitized": "א. ברכה לאדם-ברכה לנח",
+   "items": [
+    {
+     "i": 2,
+     "kind": "text",
+     "he": "השווה את הסדר, בו מובאים הברואים בברכה לאדם בפרשת בראשית, לסדר שבו הם מובאים בברכה שנאמרה לנח אחרי המבול:",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "השווה את הסדר, בו מובאים הברואים בברכה לאדם בפרשת בראשית, לסדר … אחרי המבול:",
+       "scan": "השוה את הסדר בו מובאים הברואים בברכה לאדם בפ' בראשית לסדר … אחרי המבול.",
+       "class": "substantive"
+      },
+      {
+       "digitized": "השווה את הסדר, בו … בפרשת בראשית, … המבול:",
+       "scan": "השוה את הסדר בו … בפ' בראשית … המבול.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 3,
+     "kind": "text",
+     "he": "לאדם\n(בראשית א' כ\"ח): \n \nלנח\n(ט' ב'): \n \n \n\"וּרְדוּ \nבִּדְגַת הַיָּם \nוּבְעוֹף הַשָּׁמַיִם \nוּבְכָל חַיָּה הָרֹמֶשֶׂת עַל הָאָרֶץ\" \n \n\"וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה\nעַל כָּל חַיַּת הָאָרֶץ\nוְעַל כָּל עוֹף הַשָּׁמָיִם \nבְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה \nוּבְכָל דְּגֵי הַיָּם\"",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "(בראשית א' כ\"ח):",
+       "scan": "(ט' ב'):",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בר' א' כ\"ח:",
+       "scan": "נח ט' ב'",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "not-published",
+      "why": "table labels; the verses are shown in the panel"
+     },
+     "publish": false
+    },
+    {
+     "i": 4,
+     "kind": "question",
+     "he": "התוכל להסביר את סבת השנויים שבסדר בו הובאו הנבראים כאן וכאן.",
+     "scan_status": "DIFF",
+     "digitized_he": "התוכל להסביר את סיבת השינויים שבסדר, בו הובאו הנבראים כאן וכאן?",
+     "scan_fixes": [
+      {
+       "digitized": "את סיבת השינויים שבסדר, בו הובאו הנבראים כאן וכאן?",
+       "scan": "את סבת השנויים שבסדר בו הובאו הנבראים כאן וכאן.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "סיבת השינויים שבסדר, … כאן וכאן?",
+       "scan": "סבת השנויים שבסדר … כאן וכאן.",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 5,
+     "kind": "text",
+     "he": "עצה טובה למתעניינים בשאלה זו:",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "עצה טובה למתעניינים בשאלה זו:",
+       "scan": "עיינו מאיר וייס, על ארבעה מזמורי תהלים, בספר: \"מעינות\", כרך ה', … לחינוך … של ההסתדרות הציונית, … ב' י\"ט; ב' כ'; …",
+       "class": "substantive"
+      },
+      {
+       "digitized": "לחינוך … ההסתדרות",
+       "scan": "לחנוך … ההסת.",
+       "class": "substantive"
+      }
+     ],
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "עצה טובה למתעניינים בשאלה זו:",
+       "scan": "(עצה טובה: למתעניינים בשאלה זו: …)",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "not-published",
+      "why": "a reading tip (עצה טובה) pointing outside the sheet"
+     },
+     "publish": false
+    },
+    {
+     "i": 6,
+     "kind": "text",
+     "he": "עיינו מאיר וייס, על ארבעה מזמורי תהלים, בספר: \"מעינות\", כרך ה', הוצאת המחלקה לחינוך ותרבות תורניים של ההסתדרות הציונית, ירושלים תשט\"ז, עמודים 100-99, שיש בו השוואה מדויקת בין הפסוקים בראשית א' כ\"ו; א' כ\"ח; ב' י\"ט; ב' כ'; תהלים ח' ח' ופסוקנו.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. ה ומיד האדם   מיד איש אחיו   אדרוש את נפש האדם.",
+   "header_digitized": "ב. \"ומיד האדם...\"",
+   "items": [
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Genesis 9:5",
+     "he": "\"וּמִיַּד הָאָדָם מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ אֶת נֶפֶשׁ הָאָדָם\"",
+     "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Rashi on Genesis 9:5:4",
+     "he": "ד\"ה ומיד האדם: מיד ההורג במזיד ואין עדים.",
+     "en": "ומיד האדם AT THE HAND OF MAN — At the hand of one who kills with premeditation, when there are no witnesses to the murder, will “I” require it.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Rashi on Genesis 9:5:5",
+     "he": "ד\"ה מיד איש אחיו: שהוא אוהב לו כאח והרגו שוגג – אני אדרוש, אם לא יגלה ויבקש על עונו למחל, שאף השוגג צריך כפרה, ואם אין עדים לחייבו גלות, והוא אינו נכנע, הקדוש ברוך הוא דורש ממנו, כמו שדרשו רבותינו במסכת מכות \"והאלוהים אנה לידו\" – הקדוש ברוך הוא מזמנם לפונדק אחד וכו'.",
+     "en": "מיד איש אחיו AT THE HAND OF EVERY MAN’S BROTHER — At the hand of a man who loves him like a brother and slays him accidentally will “I” require it, unless he go into banishment (in one of the Cities of Refuge) and pray for forgiveness for his iniquity. For even one who kills another by accident needs atonement: therefore if there are no witnesses to the deed to make him liable to banishment and he does not humble himself, the Holy One, blessed be He, will require it of him, just as our Rabbis explain the text, (Exodus 21:13) ‘‘But God causes it to come to hand”, in Treatise Makkot (Makkot 10b): The Holy One, blessed be He, causes them (the man who killed by accident and had not expiated the murder and the man who killed with premeditation) to meet at the same inn. The former in ascending a ladder falls upon the latter and kills him and has therefore — the accident having been seen by men — to go to banishment.",
+     "scan_status": "DIFF",
+     "digitized_he": "ד\"ה מיד איש אחיו: שהוא אוהב לו כאח והרגו שוגג – אני אדרוש, אם לא יגלה ויבקש על עוונו למחול, שאף השוגג צריך כפרה, ואם אין עדים לחייבו גלות, והוא אינו נכנע, הקדוש ברוך הוא דורש ממנו, כמו שדרשו רבותינו במסכת מכות \"והאלוהים אינה לידו\" – הקדוש ברוך הוא מזמנם לפונדק אחד וכו'.",
+     "scan_fixes": [
+      {
+       "digitized": "על עוונו למחול",
+       "scan": "על עונו למחל",
+       "class": "spelling"
+      },
+      {
+       "digitized": "\"והאלוהים אינה לידו\"",
+       "scan": "\"והאלוהים אנה לידו\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 11,
+     "kind": "text",
+     "he": "וע' שמות כ\"א רש\"י ד\"ה האלוהים אנה לידו.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "ועיין שמות כ\"א רש\"י ד\"ה האלוהים אנה לידו.",
+       "scan": "וע' שמות כ\"א …",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ועיין שמות כ\"א רש\"י ד\"ה האלוהים אנה לידו.",
+     "scan_fixes": [
+      {
+       "digitized": "ועיין שמות כ\"א",
+       "scan": "וע' שמות כ\"א",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "not-published",
+      "why": "a cross-reference to Rashi on Exodus 21"
+     },
+     "publish": false
+    },
+    {
+     "i": 12,
+     "kind": "source",
+     "ref": "HaKtav VeHaKabalah, Genesis 9:5:2",
+     "he": "ד\"ה ומיד האדם: כפל לשון \"אדם\" ו\"איש\", גם חבר אליו מלת אחיו. נראה לי שיש שני אופני רציחה: אם לרעת הנרצח לנקום נקמתו ממנו; או לקחת ממונו וכדומה. אם לטובת הנרצח כשהוא משוקע בצער גדול ויבחר מות מחיים, כאבימלך שאמר לנער (שופטים ט'): \"שלוף חרבך ומותתני\". וכשאול לעמלק: \"עמד נא עלי ומותתני\" (שמואל ב' א'); על שני אלה דבר הכתוב: על ההורג לרעת הנרצח... ועל השני הנעשה לרצון הנרצח ולטובתו, אשר גם איש המעולה וגם כשהוא מאוהבי הנרצח ידמה כי מצוה הוא עושה להמיתו כדי להשקיטו מצער.",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "ד\"ה ומיד האדם: כפל לשון \"אדם\" ו\"איש\", גם חבר אליו מלת אחיו. נראה לי שיש שני אופני רציחה: אם לדעת הנרצח לנקום נקמתו ממנו; או לקחת ממונו וכדומה. אם לטובת הנרצח כשהוא משוקע בצער גדול ויבחר מות מחיים, כאבימלך שאמר לנער (שופטים ט'): \"שלוף חרבך ומותתני\". וכשאול לעמלק: \"עמוד נא עלי ומותתני\" (שמואל ב' א'); על שני אלה דיבר הכתוב: על ההורג לרעת הנרצח... ועל השני הנעשה לרצון הנרצח ולטובתו, אשר גם איש המעולה וגם כשהוא מאוהבי הנרצח ידמה כי מצוה הוא עושה להמיתו כדי להשקיטו מצער.",
+     "scan_fixes": [
+      {
+       "digitized": "\"עמוד נא עלי ומותתני\"",
+       "scan": "\"עמד נא עלי ומותתני\"",
+       "class": "spelling"
+      },
+      {
+       "digitized": "דיבר הכתוב",
+       "scan": "דבר הכתוב",
+       "class": "spelling"
+      },
+      {
+       "digitized": "אם לדעת הנרצח",
+       "scan": "אם לרעת הנרצח",
+       "class": "triaged",
+       "cite": "noach-scancheck/161105-1957.md [12]; scan read by Claude (2026-10-12)",
+       "why": "her print reads «לדעת» (underlined); HaKtav VeHaKabbalah (Sefaria) reads «לרעת», and the contrast with «לטובת הנרצח» requires it: a slip in her typing, corrected to the source"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "1. הסבר מה הוא הקושי בפסוקים אלה (ד'-ה'-ו') שאותם רצו שני הפרשנים ליישב.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "1. הסבר מה הוא הקושי בפסוקים אלה (ד'-ה'-ו') שאותם רצו שני הפרשנים ליישב.",
+       "scan": "1) … הקשי … (ד-ה-ו) … לישב?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "הקושי … (ד'-ה'-ו') … ליישב.",
+       "scan": "הקשי … (ד-ה-ו) … לישב?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 14,
+     "kind": "question",
+     "he": "2. מה בין שני הפרושים האלה?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה בין שני הפירושים האלה?",
+     "scan_fixes": [
+      {
+       "digitized": "הפירושים",
+       "scan": "הפרושים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "התוכל ליישב קושי זה בדרך אחרת שלא כפי שני אלה?",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "ליישב קושי",
+       "scan": "3xx) … לישב קשי",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "source",
+     "ref": "Genesis 1:1",
+     "he": "\"וַיִּבְרָא אֱ-לֹהִים אֶת הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱ-לֹהִים בָּרָא אֹתוֹ...\"",
+     "en": "In the beginning God created the heaven and the earth.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "Genesis 1:1",
+       "scan": "בראשית א כ\"ז",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "source",
+     "ref": "Leviticus 20:9",
+     "he": "\"כִּי אִישׁ אִישׁ אֲשֶׁר יְקַלֵּל אֶת אָבִיו וְאֶת אִמּוֹ מוֹת יוּמָת אָבִיו וְאִמּוֹ קִלֵּל\"",
+     "en": "For whatsoever man there be that curseth his father or his mother shall surely be put to death; he hath cursed his father or his mother; his blood shall be upon him.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "source",
+     "ref": "Leviticus 20:10",
+     "he": "\"וְאִישׁ אֲשֶׁר יִנְאַף אֶת אֵשֶׁת אִישׁ אֲשֶׁר יִנְאַף אֶת אֵשֶׁת רֵעֵהוּ...\"",
+     "en": "And the man that committeth adultery with another man’s wife, even he that committeth adultery with his neighbour’s wife, both the adulterer and the adulteress shall surely be put to death.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. ה: ואך את דמכם לנפשותיכם אדרוש   מיד כל חיה אדרשנו / ומיד האדם מיד איש אחיו אדרש   את נפש האדם.",
+   "header_digitized": "ג. \"ואך את דמכם...\"",
+   "items": [
+    {
+     "i": 20,
+     "kind": "source",
+     "ref": "Genesis 9:5",
+     "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ           מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ\nוּמִיַּד הָאָדָם  מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ           אֶת נֶפֶשׁ הָאָדָם\"",
+     "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 9:5:1",
+     "he": "ד\"ה ואך את דמכם: פרושו: התרתי לכם לשפוך דם כל חי, זולתי דמכם של נפשותיכם, שאתם אדם, לא התרתי, רק אדרשנו, כטעם (תהלים ט' ע') \"כי דורש דמים אותם זכר\", וזה כלל. \nואחרי כן באר \"מיד האדם\", אם יהרגו רבים את יחיד, או יחיד את יחיד, אני אדרוש הדם, גם אדרשנו מיד כל חיה, שאצוה לאחרת שתהרגנה; והנה החיות מותרות לכם ולא אתם להן. \nוהמפרש \"דמכם לנפשותיכם\" – זה ההורג נפשו, הוא רחוק בעיני – והוסיף לבאר, או היא מצוה לבני נח, והוא הישר להרג ההורג, וטעם \"באדם\" – בעדים, או לעיני הכל, או בעבור האדם שנשפך דמו, וכמוהו רבים.",
+     "en": "",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "וזה הכלל",
+       "scan": "וזה כלל",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ד\"ה ואך את דמכם: פירושו: התרתי לכם לשפוך דם כל חי, זולתי דמכם של נפשותיכם, שאתם אדם, לא התרתי, רק אדרשנו, כטעם (תהלים ט' ע') \"כי דורש דמים אותם זכר\", וזה הכלל. \nואחרי כן ביאר \"מיד האדם\", אם יהרגו רבים את יחיד, או יחיד את יחיד, אני אדרוש הדם, גם אדרשנו מיד כל חיה, שאצוה לאחרת שתהרגנה; והנה החיות מותרות לכם ולא אתם להן. \nוהמפרש \"דמכם לנפשותיכם\" – זה ההורג נפשו, הוא רחוק בעיני – והוסיף לבאר, או היא מצוה לבני נח, והוא הישר להרוג ההורג, וטעם \"באדם\" – בעדים, או לעיני הכל, או בעבור האדם שנשפך דמו, וכמוהו רבים.",
+     "scan_fixes": [
+      {
+       "digitized": "פירושו",
+       "scan": "פרושו",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ואחרי כן ביאר",
+       "scan": "ואחרי כן באר",
+       "class": "spelling"
+      },
+      {
+       "digitized": "להרוג ההורג",
+       "scan": "להרג ההורג",
+       "class": "spelling"
+      },
+      {
+       "digitized": "וזה הכלל",
+       "scan": "וזה כלל",
+       "class": "triaged",
+       "cite": "noach-scancheck/161105-1957.md [21]",
+       "why": "the scan and Ibn Ezra (Sefaria) read «וזה כלל»"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 22,
+     "kind": "question",
+     "he": "1. הסבר את המקום הראשון המסומן בקו בדבריו, ותן דוגמה בתורה, הכתובה על פי אותו מבנה!",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "ותן דוגמה בתורה, הכתובה",
+       "scan": "ותן דוגמא בתורה הכתובה",
+       "class": "substantive"
+      },
+      {
+       "digitized": "דוגמה בתורה, הכתובה",
+       "scan": "דוגמא בתורה הכתובה",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "2. הסבר את המקום השני המסומן בקו. מה הוא ההבדל שבין שני הפרושים המובאים בדבריו? (\"או\"!)",
+     "scan_status": "DIFF",
+     "digitized_he": "2. הסבר את המקום השני המסומן בקו. מה הוא ההבדל שבין שני הפירושים המובאים בדבריו? (\"או\")",
+     "scan_fixes": [
+      {
+       "digitized": "הפירושים … (\"או\")",
+       "scan": "הפרושים … (\"או\"!)",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 24,
+     "kind": "question",
+     "he": "3. מה הם שלשת הפרושים הנתנים בדבריו למלת \"באדם\" בפס' ו', ואיזה מהם מסכים עם רש\"י?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. מה הם שלושת הפירושים הניתנים בדבריו למילת \"באדם\" בפסוק ו', ואיזה מהם מסכים עם רש\"י?",
+     "scan_fixes": [
+      {
+       "digitized": "שלושת הפירושים הניתנים בדבריו למילת \"באדם\" בפסוק ו'",
+       "scan": "שלשת הפרושים הנתנים בדבריו למלת \"באדם\" בפס' ו'",
+       "class": "spelling"
+      },
+      {
+       "digitized": "שלושת הפירושים הניתנים … למילת … בפסוק ו'",
+       "scan": "שלשת הפרושים הנתנים … למלת … בפס' ו'",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ד",
+   "header_scan": "ד. ה ואך את דמכם לנפשותיכם אדרוש",
+   "header_digitized": "ד. \"ואך את דמכם לנפשותיכם אדרוש\" - שאלות ברש\"י",
+   "items": [
+    {
+     "i": 26,
+     "kind": "source",
+     "ref": "Genesis 9:5",
+     "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ\"",
+     "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 27,
+     "kind": "source",
+     "ref": "Rashi on Genesis 9:5:1",
+     "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבהמה, את דמכם אדרוש מהשופך דם עצמו.",
+     "en": "ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "נטילת נשמה בבמה",
+       "scan": "נטילת נשמה בבהמה",
+       "class": "substantive"
+      },
+      {
+       "digitized": "אף על פי",
+       "scan": "אע\"פ",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "digitized_he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבמה, את דמכם אדרוש מהשופך דם עצמו.",
+     "scan_fixes": [
+      {
+       "digitized": "נשמה בבמה",
+       "scan": "נשמה בבהמה",
+       "class": "triaged",
+       "cite": "noach-scancheck/161105-1957.md [27]",
+       "why": "digitizer typo; the scan and Rashi (Sefaria, Rosenbaum–Silbermann) read «בבהמה»"
+      }
+     ]
+    },
+    {
+     "i": 28,
+     "kind": "source",
+     "ref": "Rashi on Genesis 9:5:2",
+     "he": "ד\"ה לנפשותיכם: אף החונק עצמו אף על פי שלא יצא ממנו דם.",
+     "en": "לנפשותיכם YOUR LIFE — Even though one strangles himself (Genesis Rabbah 34:13) so that no blood flows from him yet I will require it from him.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 29,
+     "kind": "question",
+     "he": "1. מה הצריך את רש\"י לפרש שהמדובר כאן באבוד עצמו לדעת ולא ברצח?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה הצריך את רש\"י לפרש שהמדובר כאן באיבוד עצמו לדעת ולא ברצח?",
+     "scan_fixes": [
+      {
+       "digitized": "באיבוד עצמו",
+       "scan": "באבוד עצמו",
+       "class": "spelling"
+      },
+      {
+       "digitized": "באיבוד",
+       "scan": "באבוד",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 30,
+     "kind": "question",
+     "he": "2. מה בינו לבין ראב\"ע – שהובא בשאלה ג – בישוב קשי זה?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. מה בינו לבין ראב\"ע – שהובא בשאלה ג – ביישוב קושי זה?",
+     "scan_fixes": [
+      {
+       "digitized": "ביישוב קושי זה?",
+       "scan": "בישוב קשי זה?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ביישוב קושי",
+       "scan": "בישוב קשי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 31,
+     "kind": "question",
+     "he": "3. ע\"פ איזה משני הפרושים מתפרשת יותר תחילת הפסוק \"ואך\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. על פיי איזה משני הפירושים מתפרשת יותר תחילת הפסוק \"ואך\"?",
+     "scan_fixes": [
+      {
+       "digitized": "על פיי איזה משני הפירושים",
+       "scan": "ע\"פ איזה משני הפרושים",
+       "class": "substantive"
+      },
+      {
+       "digitized": "על פיי … הפירושים",
+       "scan": "ע\"פ … הפרושים",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "«על פיי» is a digitizer typo; the scan has «ע\"פ»"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ה",
+   "header_scan": "כי בצלם אלוקים עשה את האדם",
+   "header_digitized": "ה. \"...כי בצלם אלוקים...\"",
+   "items": [
+    {
+     "i": 33,
+     "kind": "source",
+     "ref": "Genesis 9:6",
+     "he": "\"שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱ-לֹהִים עָשָׂה אֶת הָאָדָם\"",
+     "en": "Whoso sheddeth man’s blood, by man shall his blood be shed; for in the image of God made He man.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 34,
+     "kind": "text",
+     "he": "פרקי אבות משנה י\"ד:\nהוא (ר' עקיבא) היה אומר: חביב אדם שנברא בצלם; חיבה יתירה נודעת לו שנברא בצלם, שנאמר: \"בצלם אלוקים עשה את האדם\".",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 35,
+     "kind": "question",
+     "he": "מקשה המהרש\"א:\nלמה לא הביא ראיה מהפסוקים הקודמים בתורה דקאמר (א' כ\"ו) \"נעשה אדם בצלמנו כדמותנו\" וכתיב (א' כ\"ז) \"ויברא אלוקים את האדם בצלמו בצלם אלוקים ברא אותו\", ונקט הפסוק הזה (ט' ו'), שהוא האחרון שבתורה?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "(א' כ\"ז)",
+       "scan": "(א כ\"ו)",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "digitizer correction: the scan has «(א כ\"ו)» for the second verse, but «ויברא אלוקים את האדם בצלמו» is 1:27, as digitized"
+     }
+    },
+    {
+     "i": 36,
+     "kind": "text",
+     "he": "נסה לישב קושיתו!",
+     "scan_status": "DIFF",
+     "digitized_he": "נסה ליישב קושייתו!",
+     "scan_fixes": [
+      {
+       "digitized": "נסה ליישב קושייתו!",
+       "scan": "נסה לישב קושיתו!",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ו",
+   "header_scan": "ו. ו. שופך דם האדם באדם דמו ישפך כי בצלם אלוקים עשה את האדם.",
+   "header_digitized": "ו. \"שופך דם האדם באדם...\"",
+   "items": [
+    {
+     "i": 38,
+     "kind": "source",
+     "ref": "Genesis 9:6",
+     "he": "\"שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱ-לֹהִים עָשָׂה אֶת הָאָדָם\"",
+     "en": "Whoso sheddeth man’s blood, by man shall his blood be shed; for in the image of God made He man.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 39,
+     "kind": "source",
+     "ref": "Radak on Genesis 9:1:2",
+     "he": "ד\"ה באדם: על ידי הדינים.",
+     "en": "ויאמר להם, to the sons of Noach, indirectly, who communicated the blessing to his sons. [seeing that Noach did not have any children after the deluge, the blessing had not included him. Ed.] Alternately, we must assume that Noach’s sons had prophetic status so that G’d communicated with them directly.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 40,
+     "kind": "source",
+     "ref": "Radak on Genesis 9:6:2",
+     "he": "ד\"ה כי בצלם אלוקים: כי הוא נכבד מכל הנבראים השפלים, עד שהאל בראו בצלמו, בשכל שנתן בו, לפיכך יש לשאר הנבראים שייראו ממנו, וגם איש את אחיו שלא ישחית גופו וצלמו, כי אם יהרגהו -הנה השחית מעשה האל הנכבד שבכל השפלים, והוא עשה אותו בצלמו והוא השחיתו. \nואף בפחותים מן האדם לא היה רשות לאדם להשחיתם, עד שצוה האל לנח, וגם בצומח שהוא פחות מן החי היה צריך מצות האל להתירם לאדם ולחוה, כמו שאמר (פרק א') \"הנה נתתי לכם את כל עשב\". וכן ציוה האל לשפוך דם האדם לחטאו, כמו שצוה בתורת משה, וזה בראויים לעונש מיתה לפי חטאם, כל חוטא כראוי לו, לפי שהוא השחית צלמו תחילה בעברו מצות האל.",
+     "en": "כי בצלם אלוקים עשה את האדם, for he has been set apart from all other creatures in the universe, so much so that G’d personally made עשה, him in His image by endowing him with an intelligent brain. This is why humans are also held responsible for killing fellow humans, as they, no less than the animals, destroy a creature that had been made in G’d’s own image. If man had been forbidden to kill inferior creatures for food until given special permission to do so now after the deluge, how much more sacrosanct is the life of a human being who was created in G’d’s image. Remember that it required a special permission by G’d for man and beast to use even the plants as food for themselves, although the plants are inferior even to the animals. Keeping all this in mind, it is clear that in order for any creature being allowed to destroy a human being a special directive from G’d ordering this was required. This is why Moses in the chapters dealing with the retribution for the Jewish people, both in Bechukotai, and in Ki Tavo¸describes that G’d will issue such instructions to the beasts, just as He had done during the plagues (#4) in Egypt when the wild beasts invaded human habitations and wreaked havoc. When man, due to his own deeds, forfeits his claim to wearing the image of G’d on his face, the beasts no longer seeing such an image, feel free to attack such humans. An unborn fetus does not possess this divine image, i.e. it has no discernible intelligence. Intelligence is that which makes a slave obey his master, seeing that he would suffer if he did not; therefore when a human being disobeys his master (G’d), he displays lack of intelligence, i.e. can no longer demand to be treated like human being. [I have paraphrased the last few lines. Ed.]",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "כי חוטא כראוי לו",
+       "scan": "כל חוטא כראוי לו",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ד\"ה כי בצלם אלוקים: כי הוא נכבד מכל הנבראים השפלים, עד שהאל בראו בצלמו, בשכל שנתן בו, לפיכך יש לשאר הנבראים שייראו ממנו, וגם איש את אחיו שלא ישחית גופו וצלמו, כי אם יהרגהו -הנה השחית מעשה האל הנכבד שבכל השפלים, והוא עשה אותו בצלמו והוא השחיתו. \nואף בפחותים מן האדם לא היה רשות לאדם להשחיתם, עד שציוה האל לנח, וגם בצומח שהוא פחות מן החי היה צריך מצות האל להתירם לאדם ולחוה, כמו שאמר (פרק א') \"הנה נתתי לכם את כל עשב\". וכן ציוה האל לשפוך דם האדם לחטאו, כמו שציוה בתורת משה, וזה בראויים לעונש מיתה לפי חטאם, כי חוטא כראוי לו, לפי שהוא השחית צלמו תחילה בעברו מצות האל.",
+     "scan_fixes": [
+      {
+       "digitized": "עד שציוה האל לנח",
+       "scan": "עד שצוה האל לנח",
+       "class": "spelling"
+      },
+      {
+       "digitized": "כמו שציוה",
+       "scan": "כמו שצוה",
+       "class": "spelling"
+      },
+      {
+       "digitized": "כי חוטא כראוי לו",
+       "scan": "כל חוטא כראוי לו",
+       "class": "triaged",
+       "cite": "noach-scancheck/161105-1957.md [40]",
+       "why": "the scan and Radak (Sefaria) read «כל חוטא»"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "וכן ציוה האל",
+       "scan": "וכן צוה האל",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 41,
+     "kind": "source",
+     "ref": "Chizkuni, Genesis 9:6:3",
+     "he": "ד\"ה עשה את האדם: שיהא דין ושופט לירא ממנו, ולא שיבזוהו ויקללוהו.",
+     "en": "עשה את האדם, He appointed man on earth to be judge so that fellow man would be deterred from committing sins and crimes.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 42,
+     "kind": "source",
+     "ref": "Malbim on Genesis 9:5:1",
+     "he": "ד\"ה כי בצלם: ...והוא כלי יקר, לא ינקה כל הפוגע בו.",
+     "en": "",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 43,
+     "kind": "question",
+     "he": "1. כיצד יפרש הרד\"ק את הב' של \"באדם\"?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 44,
+     "kind": "question",
+     "he": "2. למי מוסבות שתי מלות \"הוא\" המסומנות בקו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 45,
+     "kind": "question",
+     "he": "3. מה מובנה של מלת \"וכן\" המסומנת בקו, בין אלו שני ענינים (צוויים) מקשר \"וכן\" זה?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. מהי מובנה של מילת \"וכן\" המסומנת בקו, בין אלו שני עניינים (ציוויים) מקשר \"וכן\" זה?",
+     "scan_fixes": [
+      {
+       "digitized": "מהי מובנה של מילת \"וכן\" … שני עניינים (ציוויים)",
+       "scan": "מה מובנה של מלת \"וכן\" … שני ענינים (צוויים)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "מהי מובנה של מילת … עניינים (ציוויים)",
+       "scan": "מה מובנה של מלת … ענינים (צוויים)",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 46,
+     "kind": "question",
+     "he": "4. למי הכוונה כאן באדם אשר נברא בצלם, לנרצח, לרוצח, או לשופט – לפי דעות שלושת המפרשים הנ\"ל?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "למי הכוונה … לפי דעות שלושת המפרשים",
+       "scan": "למי הכונה … לפי דעות שלש המפרשים",
+       "class": "substantive"
+      },
+      {
+       "digitized": "הכוונה … שלושת המפרשים",
+       "scan": "הכונה … שלש המפרשים",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: The `x` mark on §א is dropped.",
+  "§ב: The `xx` on Q3 and the number «3» are dropped.",
+  "§ב: [16] wrong ref (1:1 for 1:27).",
+  "§ג: The `xx` marks on Q1–Q3 are dropped. The second underline is shortened (see [21]).",
+  "§ד: «שאלות ברש\"י» in the header is the digitizer's. The `xx` on Q3 is dropped."
+ ],
+ "needs_human": []
+}

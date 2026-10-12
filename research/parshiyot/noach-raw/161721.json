@@ -1,0 +1,685 @@
+{
+ "dateCreated": "2019-03-06T05:30:55.657208",
+ "dateModified": "2019-03-07T02:18:16.315459",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 7:12:1",
+  "Genesis 7:1",
+  "Genesis 7:13",
+  "Ibn Ezra on Genesis 7:16:2",
+  "Rashi on Genesis 7:11:3",
+  "Rashi on Ezekiel 14:14:1",
+  "Rashi on Deuteronomy 32:48:1",
+  "Malbim on Genesis 7:16:1",
+  "Rashi on Genesis 7:16:1",
+  "Rashi on Genesis 7:5:1",
+  "Genesis 7:17",
+  "Genesis 7:19",
+  "Ramban on Genesis 7:16:1",
+  "Rashi on Genesis 7:22:1",
+  "Rashi on Genesis 7:13:1",
+  "Genesis 7:24",
+  "Genesis 7:16",
+  "Genesis 7:18",
+  "Genesis 7:14",
+  "Ibn Ezra on Genesis 7:16:1",
+  "Genesis 7:20",
+  "Mizrachi, Genesis 7:22:1",
+  "Genesis 7:23",
+  "Rashi on Genesis 7:3:1",
+  "Genesis 7:22",
+  "Genesis 7:21"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161721,
+ "includedRefs": [
+  "Rashi on Genesis 7:5:1",
+  "Genesis 7:1",
+  "Genesis 7:14",
+  "Genesis 7:21",
+  "Genesis 7:23",
+  "Genesis 7:17-20",
+  "Ramban on Genesis 7:16:1",
+  "Genesis 7:21-24",
+  "Rashi on Genesis 7:13:1",
+  "Rashi on Genesis 7:16:1",
+  "Rashi on Ezekiel 14:14:1",
+  "Rashi on Genesis 7:3:1",
+  "Rashi on Genesis 7:5:1",
+  "Rashi on Genesis 7:22:1",
+  "Mizrachi, Genesis 7:22:1",
+  "Genesis 7:13",
+  "Rashi on Genesis 7:13:1",
+  "Rashi on Deuteronomy 32:48:1",
+  "Genesis 7:16",
+  "Malbim on Genesis 7:16:1",
+  "Ibn Ezra on Genesis 7:16:1-2",
+  "Rashi on Genesis 7:11:3",
+  "Rashi on Genesis 7:12:1"
+ ],
+ "nextNode": 58,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות מבנה וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "outsideText": "נסה לבאר למה שינה הכתוב בפרקנו מן הפרק הקודם:"
+  },
+  {
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 6:11\" data-ref=\"Genesis 6:11\" target=\"_blank\">פרק ו' </a><a class=\"refLink\" href=\"/Genesis 7:11\" data-ref=\"Genesis 7:11\" target=\"_blank\">פסוק י\"א</a>:</span><br><span style=\"color: rgb(51,51,51);\">\"וַתִּשָּׁחֵת הָאָרֶץ לִפְנֵי <b>הָאֱ-לֹהִים</b>\"</span>"
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פסוק י\"ב:</span><br><span style=\"color: rgb(51,51,51);\">\"וַיַּרְא <b>אֱ-לֹהִים</b>...\" </span>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 7:13\" data-ref=\"Genesis 7:13\" data-ref=\"Genesis 7:13\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 7:13\" data-ref=\"Genesis 7:13\" data-ref=\"Genesis 7:13\" target=\"_blank\">פסוק י\"ג</a>:</span><br><span style=\"color: rgb(51,51,51);\">\"וַיֹּאמֶר <b>אֱ-לֹהִים</b>... קֵץ כָּל בָּשָׂר...\" </span>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:ה׳:א׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:5:1",
+   "text": {
+    "en": "ויעש נח AND NOAH DID — This refers to his coming to the Ark. ",
+    "he": "\"וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ <b>אֱלֹהִים</b>\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:א׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:1",
+   "text": {
+    "en": "And the LORD said unto Noah: ‘Come thou and all thy house into the ark; for thee have I seen righteous before Me in this generation.",
+    "he": "\"וַיֹּאמֶר <b>ה'</b> לְנֹחַ בֹּא אַתָּה... וַיַּעַשׂ, נֹחַ כְּכֹל אֲשֶׁר צִוָּהוּ <b>ה'</b>\""
+   }
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. ולמה שינה שוב בפרקנו <a class=\"refLink\" href=\"/Genesis 7:16\" data-ref=\"Genesis 7:16\" target=\"_blank\">פסוק ט\"ז</a>:<br>\"כַּאֲשֶׁר צִוָּה אֹתוֹ <b>אֱ-לֹהִים</b>\"?"
+  },
+  {
+   "heRef": "בראשית ז׳:י״ד",
+   "node": 9,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 7:14",
+   "text": {
+    "en": "they, and every beast after its kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after its kind, and every fowl after its kind, every bird of every sort.",
+    "he": "הֵמָּה וְכָל הַחַיָּה לְמִינָהּ וְכָל הַבְּהֵמָה לְמִינָהּ וְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ לְמִינֵהוּ וְכָל הָעוֹף לְמִינֵהוּ כֹּל צִפּוֹר כָּל כָּנָף\""
+   }
+  },
+  {
+   "node": 10,
+   "outsideText": "למה הזכיר הכתוב את העופות בסוף, שלא כסדר בריאתן <a class=\"refLink\" href=\"/Genesis 1:20\" data-ref=\"Genesis 1:20\" target=\"_blank\">בפרק א' כ-כ\"ה</a>?"
+  },
+  {
+   "node": 11,
+   "outsideText": "הסבר את הסדר השונה בפסוקים הבאים:"
+  },
+  {
+   "heRef": "בראשית ז׳:כ״א",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:21",
+   "text": {
+    "en": "And all flesh perished that moved upon the earth, both fowl, and cattle, and beast, and every swarming thing that swarmeth upon the earth, and every man;",
+    "he": "\"בָּעוֹף וּבַבְּהֵמָה וּבַחַיָּה וּבְכָל הַשֶּׁרֶץ... וְכֹל הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:כ״ג",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:23",
+   "text": {
+    "en": "And He blotted out every living substance which was upon the face of the ground, both man, and cattle, and creeping thing, and fowl of the heaven; and they were blotted out from the earth; and Noah only was left, and they that were with him in the ark.",
+    "he": "\" מֵאָדָם עַד בְּהֵמָה עַד רֶמֶשׂ וְעַד עוֹף הַשָּׁמַיִם\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:י״ז",
+   "node": 14,
+   "options": {
+    "PrependRefWithHe": "5. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 7:17-20",
+   "text": {
+    "en": "And the flood was forty days upon the earth; and the waters increased, and bore up the ark, and it was lifted up above the earth. And the waters prevailed, and increased greatly upon the earth; and the ark went upon the face of the waters. And the waters prevailed exceedingly upon the earth; and all the high mountains that were under the whole heaven were covered. Fifteen cubits upward did the waters prevail; and the mountains were covered.",
+    "he": "\"(יז) וַיְהִי הַמַּבּוּל אַרְבָּעִים יוֹם עַל הָאָרֶץ וַיִּרְבּוּ הַמַּיִם וַיִּשְׂאוּ אֶת הַתֵּבָה וַתָּרָם מֵעַל הָאָרֶץ: (יח) וַיִּגְבְּרוּ הַמַּיִם וַיִּרְבּוּ מְאֹד עַל הָאָרֶץ וַתֵּלֶךְ הַתֵּבָה עַל פְּנֵי הַמָּיִם: (יט) וְהַמַּיִם גָּבְרוּ מְאֹד מְאֹד עַל הָאָרֶץ וַיְכֻסּוּ כָּל הֶהָרִים הַגְּבֹהִים אֲשֶׁר תַּחַת כָּל הַשָּׁמָיִם: (כ) חֲמֵשׁ עֶשְׂרֵה אַמָּה מִלְמַעְלָה גָּבְרוּ הַמָּיִם וַיְכֻסּוּ הֶהָרִים:\""
+   }
+  },
+  {
+   "node": 15,
+   "outsideText": "שים לב לתיאור:"
+  },
+  {
+   "node": 16,
+   "outsideText": "בכמה שלבים מתוארת הצפת הארץ בתקופת ארבעים היום בפסוקים אלה?"
+  },
+  {
+   "node": 17,
+   "outsideText": "מה ההבדל בין שני הפעלים הנזכרים בפסוקים: ר,ב,ה – ג,ב,ר?"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ז׳:ט״ז:א׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 7:16:1",
+   "text": {
+    "en": "",
+    "he": "וטעם יגברו המים, והמים גברו: שנתרבו מאוד, כי לריבוי הגדול יקרא הלשון גבורה, וכן \"ופשעיהם כי יתגברו\" (איוב ל\"ו ט'), רבו מאד, \"גבר חסדו על יראיו\" (תהלים ק\"ג י\"א), גדל, וכן \"ואם בגבורות שמונים שנה\" (שם צ' י'), בריבוי גדול. וייתכן כי טעם \"ויגברו\", שהיו באים בשטף ועוקרים האילנות ומפילים הבניינים, כי לכח יקראו גבורה, בעבור כי הגבורה בכח, וכן \"גם גברו חיל\" (איוב כ\"א ז'), \"והגביר ברית לרבים שבוע אחד\" (דניאל ט' כ\"ז), יעמידנו בחוזק. ולשון חכמים (תענית ב' א') גבורות גשמים, מפני שיורדין בגבורה. ואפשר שיהיה מזה \"ואם בגבורות שמונים שנה\", שאם היו עצמותיו וגופו חזקים, והוא בעל כח - יחיה שמונים. ואם כן יהיה פירוש \"גברו על הארץ\" שהיו בגבורתם כולם, אף על ההרים הגבוהים ושוטפים אותם."
+   }
+  },
+  {
+   "node": 19,
+   "outsideText": "שים לב לשני פירושיו!"
+  },
+  {
+   "heRef": "בראשית ז׳:כ״א",
+   "node": 20,
+   "options": {
+    "PrependRefWithHe": "6. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 7:21-24",
+   "text": {
+    "en": "And all flesh perished that moved upon the earth, both fowl, and cattle, and beast, and every swarming thing that swarmeth upon the earth, and every man; all in whose nostrils was the breath of the spirit of life, whatsoever was in the dry land, died. And He blotted out every living substance which was upon the face of the ground, both man, and cattle, and creeping thing, and fowl of the heaven; and they were blotted out from the earth; and Noah only was left, and they that were with him in the ark. And the waters prevailed upon the earth a hundred and fifty days.",
+    "he": "\"(כא) וַיִּגְוַע כָּל בָּשָׂר הָרֹמֵשׂ עַל הָאָרֶץ בָּעוֹף וּבַבְּהֵמָה וּבַחַיָּה וּבְכָל הַשֶּׁרֶץ הַשֹּׁרֵץ עַל הָאָרֶץ וְכֹל הָאָדָם: (כב) כֹּל אֲשֶׁר נִשְׁמַת רוּחַ חַיִּים בְּאַפָּיו מִכֹּל אֲשֶׁר בֶּחָרָבָה מֵתוּ: (כג) וַיִּמַח אֶת כָּל הַיְקוּם אֲשֶׁר עַל פְּנֵי הָאֲדָמָה מֵאָדָם עַד בְּהֵמָה עַד רֶמֶשׂ וְעַד עוֹף הַשָּׁמַיִם וַיִּמָּחוּ מִן הָאָרֶץ וַיִּשָּׁאֶר אַךְ נֹחַ וַאֲשֶׁר אִתּוֹ בַּתֵּבָה: (כד) וַיִּגְבְּרוּ הַמַּיִם עַל הָאָרֶץ חֲמִשִּׁים וּמְאַת יוֹם:\""
+   }
+  },
+  {
+   "node": 21,
+   "outsideText": "על ידי אלו אמצעים ספרותיים נוצר בלב הקורא הרושם המחריד של כיליון גמור?"
+  },
+  {
+   "node": 22,
+   "outsideText": "<table><tbody><tr><td><big>ב. דור המבול - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:י״ג:א׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:13:1",
+   "text": {
+    "en": "בעצם היום הזה IN THE SELFSAME DAY — Scripture teaches you that the people of his generation said: “If we see him enter the Ark we will smash it up and kill him”. The Holy One, blessed be He, thereupon said, ‘‘I will let him enter before the eyes of everyone and we shall see whose word prevails” (Genesis Rabbah 32:8). ",
+    "he": "ד\"ה בעצם: לימדך הכתוב שהיו בני דורו אומרים: אילו אנו רואים אותו נכנס לתיבה, אנו שוברין אותה והורגין אותו. אמר הקדוש ברוך הוא: אני מכניסו לעיני כולם, ונראה דבר מי יקום. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:ט״ז:א׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:16:1",
+   "text": {
+    "en": "ויסגור ה' בעדו AND THE LORD SHUT HIM IN — He protected him so that they could not smash up the Ark (cf. 5:13): He surrounded the Ark (thus enclosing it סגר) with bears and lions which killed some of them (Genesis Rabbah 32:8). But the literal meaning of the text is: He shut the door in front of him against the waters. Similarly, wherever בעד occurs in the Scriptures it means כנגד in front of. E. g., (20:18) “The lord had made a closure in front of (בעד) every womb”; (2 Kings 4:4) “Close the door in front of thyself (בעדך) and in front of (ובעד) thy sons”; (Job 2:4) ‘‘skin in front of (as a protection for) (בעד) skin”; (Psalms 3:4) “a shield in front of me ובעדי”: (1 Samuel 12:19) “Pray (בעד) thy servants” which means כנגד in front of (i. e. on behalf of, as a protection for) thy servants. ",
+    "he": "ד\"ה ויסגור ה' בעדו: הגין עליו שלא ישברוה, הקיף התיבה דובים ואריות, והיו הורגים בהם. "
+   }
+  },
+  {
+   "heRef": "רש\"י על יחזקאל י״ד:י״ד:א׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Ezekiel 14:14:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה נח דניאל ואיוב: לפי שאלו שלושה ראו שלושה עולמות: נח ראה העולם בנוי וחרב ובנוי; ודניאל את בית המקדש או את עצמו תחילה שר על כל השרים, סוף הושלך לגוב אריות, וחזר לגדולתו; וכן איוב ראה את עצמו מיושב וחרב ומיושב. לפיכך הביאו דוגמא לדורו של יכניה שראו את הבית בבניינו וחורבנו ובנין שני וכן אמר להם הקדוש ברוך הוא: חיבה יתירה אני מראה לכם, אתם יכניה וגלותו. אילו תחטא לי אחת מארצות העובדי כוכבים ומזלות, וגזרתי עליהם אחת מארבעת שפטים אלה: או רעב או חיה רעה או חרב או דבר כמו שמסודרין בפרשה זו זה אחר זה, ושלושת הצדיקים אלו בתוכה, לא יצילו לא בן ולא בת, ואני אביא ארבעתן על ירושלים, ואשאיר לכם מבניכם אשר שם, ואף על פי שאינכם בתוכם. ולא שהם ראוים להצלה, אלא לנחם אתכם כשיגלו אצלכם ותראו מעשיהם הרעים ותתנחמו על הרעה אשר הבאתי עליהם, כי תראו שלא היו כדי לסובלם עוד, (הרי זה מהלך סדר פרשה זו כולה לשון זה אין ליישבו ונראה שאינו לשון הרב ועוד נראה שבספר זה חסר אחת מארבע שפטים מאז ועד אז, ס\"א מאו ועד או) \nלשון אחר: \"ארץ כי תחטא לי\" וגו' \"והיו שלושת האנשים האלה בתוכה נח דניאל ואיוב\": לפי ששלושת האנשים האלה הצילם הקדוש ברוך הוא משלושת (מארבעת) שפטים האלה, הזכיר הכתוב את אלו: נח נמלט משלושתן: מחיה רעה - מניין אתה אומר? - בשעה שנכנס לתיבה, ביקשו כל החיות ליכנס ולא הניחן הקדוש ברוך הוא, דכתיב \"ויסגור ה' בעדו\" (<a class=\"refLink\" href=\"/Genesis 7\" data-ref=\"Genesis 7\" data-ref=\"Genesis 7\" target=\"_blank\">בראשית ז</a>). אין ויסגור אלא מחיות כד\"א \"וסגר פום אריותא ולא חבלונני\" (<a class=\"refLink\" href=\"/Daniel 7\" data-ref=\"Daniel 7\" target=\"_blank\">דניאל ז'</a>). ארי בא ליכנס, והיו שיניו כהות. דוב בא ליכנס, והיו רגליו מתערסלות כו' בבראשית רבה. מן הרעב - מניין? - שנאמר \"מן האדמה אשר איררה\" (<a class=\"refLink\" href=\"/Genesis 5\" data-ref=\"Genesis 5\" target=\"_blank\">בראשית ה'</a>). צא ולמד בבראשית רבה במקום, שחושב עשרה רעבון שירדו לעולם, ותמצא שבימי נח היה אחד מהם, ומביא ראיה מן \"האדמה אשר אררה\". מן החרב - זה המבול, ועוד שהיו דורו מבקשין ליזדווג לו והיו אומרים: אין אנו מניחין אותו ליכנס, אלא שהצילו הקדוש ברוך הוא. אמר הקדוש ברוך הוא: אין אני מניחו ליכנס אלא בחצי היום. ודרגיש ליה ימלל הא הוא דכתיב \"בעצם היום הזה בא נח\" (<a class=\"refLink\" href=\"/Genesis 7\" data-ref=\"Genesis 7\" data-ref=\"Genesis 7\" target=\"_blank\">בראשית ז</a>') - בעיצומו של יום..."
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  תן הסבר פסיכולוגי להתנהגות דור המבול, כפי שהיא מתוארת במדרש!"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. נסה להסביר למה לא תיארה התורה כלל את התנהגות דור המבול בבוא העונש?"
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ג. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:ג׳:א׳",
+   "node": 29,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:3:1",
+   "text": {
+    "en": "‘גס מעוף השמים וגו OF FOWLS ALSO OF THE AIR — Scripture here means “clean” birds just as the animals in verse 2 are stated to be clean, for what is not explicitly stated may be learned by analogy from what is explicitly stated. ",
+    "he": "ד\"ה גם מעוף השמים: בטהורים הכתוב מדבר. וילמד סתום מן המפורש."
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "באר את דבריו. מצא סעד בלשון <a class=\"refLink\" href=\"/Genesis 7:3\" data-ref=\"Genesis 7:3\" target=\"_blank\">פסוק ג'</a> לדבריו!"
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:ה׳:א׳",
+   "node": 31,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:5:1",
+   "text": {
+    "en": "ויעש נח AND NOAH DID — This refers to his coming to the Ark. ",
+    "he": "ד\"ה ויעש נח: זה ביאתו לתיבה."
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מניין לו לרש\"י שכן הוא, ואינו מוסב לעשיית התיבה ולא ללקיחת בעלי החיים?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">3) <a class=\"refLink\" href=\"/Genesis 7:11\" data-ref=\"Genesis 7:11\" target=\"_blank\">פסוק י\"א</a></span><br><span style=\"color: rgb(51,51,51);\">ד\"ה נבקעו: להוציא מימיהן.</span>"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:כ״ב:א׳",
+   "node": 35,
+   "options": {
+    "PrependRefWithEn": "4) ",
+    "PrependRefWithHe": "4) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:22:1",
+   "text": {
+    "en": "נשמת רוח חיים means the breathing of the breath of life.",
+    "he": "ד\"ה נשמת רוח חיים: נשמה של רוח חיים."
+   }
+  },
+  {
+   "heRef": " מזרחי, בראשית ז׳:כ״ב:א׳",
+   "node": 36,
+   "options": {
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Mizrachi, Genesis 7:22:1",
+   "text": {
+    "en": "",
+    "he": "<sup class=\"nechama\"></sup>  הרא\"ם, (ר' אליהו מזרחי):<br>לפי דעתי שהגרסא בדברי רש\"י \"נשימה של רוח חיים\" <b>ביו\"ד</b> ולא \"נשמה\". (וכן גם מודפס בהרבה מספרינו)"
+   }
+  },
+  {
+   "node": 37,
+   "outsideText": "מה קשה ברש\"י, ומדוע יש לתקן את הגרסא כאשר תיקנה הרא\"ם?"
+  },
+  {
+   "node": 38,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"בעצם\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:י״ג",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:13",
+   "text": {
+    "en": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;",
+    "he": "\"בְּעֶצֶם הַיּוֹם הַזֶּה\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:י״ג:א׳",
+   "node": 40,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:13:1",
+   "text": {
+    "en": "בעצם היום הזה IN THE SELFSAME DAY — Scripture teaches you that the people of his generation said: “If we see him enter the Ark we will smash it up and kill him”. The Holy One, blessed be He, thereupon said, ‘‘I will let him enter before the eyes of everyone and we shall see whose word prevails” (Genesis Rabbah 32:8). ",
+    "he": "ד\"ה בעצם: לימדך הכתוב שהיו בני דורו אומרים: אילו אנו רואים אותו נכנס לתיבה, אנו שוברין אותה והורגין אותו. אמר הקדוש ברוך הוא: אני מכניסו לעיני כולם, ונראה דבר מי יקום. "
+   }
+  },
+  {
+   "heRef": "רש\"י על דברים ל״ב:מ״ח:א׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Deuteronomy 32:48:1",
+   "text": {
+    "en": "וידבר ה' אל משה בעצם היום הזה AND THE LORD SPAKE TO MOSES THAT SELF SAME DAY — In three places in Scripture the expression בעצם היום הזה is used. It states in the narrative of Noah (Genesis 7:12) בעצם היום הזה entered Noah … [into the ark]” — which means in the glare of full daylight. Because his contemporaries said: By this and by that we swear; (cf. Note 2 on Deuteronomy 1:1): If we notice him about to do so we will not let him enter the ark, and not only that, but we will take axes and hatchets and we will split the ark in pieces. Thereupon the Holy One, blessed be He, said, “See, I will let him enter at midday and anyone who has power to prevent it, let him come and prevent it!” Of Egypt, too, it states, (Exodus All. 11) “The selfsame day the Lord did bring [the children of Israel out of the land of Egypt]”: because the Egyptians said: By this and by that! If we notice them about to do so, we will not let them leave, and not only that, but we will take swords and other weapons and will kill them. Thereupon said the Holy One, blessed be He, “See, I will bring them forth in the middle of the day, and anyone who has power to prevent it, let him come and prevent it!” Here, too, regarding Moses’ death, it states בעצם היום הזה, because the children of Israel said, By this and by that! If we notice him about to ascend the mountain, we will not let him do so, — the man who brought us out of Egypt, and divided the Red Sea for us, and brought the Manna down for us, and brought a flight of quails for us, and made the “well” rise, and gave us the Torah: we will not permit him to go!” Thereupon the Holy One, blessed be He, said, “Behold, I will bring him unto his resting place in the middle of the day, etc.” (Sifrei Devarim 337; cf. Rashi on Genesis 17:23).",
+    "he": "ד\"ה וידבר ה' אל משה בעצם: בשלושה מקומות נאמר \"בעצם היום הזה\", נאמר בנח (שם ז' י\"ג) \"בעצם היום הזה בא נח\" וגו', במראית אורו של יום, לפי שהיו בני דורו אומרים: בכך וכך אם אנו מרגישין בו, אין אנו מניחין אותו ליכנס בתיבה, ולא עוד אלא אנו נוטלין כשילין וקרדומות ומבקעין את התיבה. אמר הקדוש ברוך הוא: הריני מכניסו בחצי היום, וכל מי שיש בידו כח למחות יבוא וימחה. במצרים נאמר (<a class=\"refLink\" href=\"/Exodus 12:51\" data-ref=\"Exodus 12:51\" data-ref=\"Exodus 12:51\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Exodus 12:51\" data-ref=\"Exodus 12:51\" data-ref=\"Exodus 12:51\" target=\"_blank\">שמות י\"ב נ\"א</a>) \"בעצם היום הזה הוציא ה'\", לפי שהיו מצרים אומרים: בכך וכך אם אנו מרגישין בהם, אין אנו מניחים אותם לצאת, ולא עוד אלא אנו נוטלין סייפות וכלי זיין והורגין בהם. אמר הקדוש ברוך הוא: הריני מוציאן בחצי היום, וכל מי שיש בו כח למחות יבוא וימחה. אף כאן במיתתו של משה נאמר \"בעצם היום הזה\", לפי שהיו ישראל אומרים: בכך וכך אם אנו מרגישין בו, אין אנו מניחין אותו, אדם שהוציאנו ממצרים וקרע לנו את הים והוריד לנו את המן והגיז לנו את השליו והעלה לנו את הבאר ונתן לנו את התורה, אין אנו מניחין אותו. אמר הקדוש ברוך הוא: הריני מכניסו בחצי היום וכו'."
+   }
+  },
+  {
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רמב\"ן, <a class=\"refLink\" href=\"/Leviticus 23\" data-ref=\"Leviticus 23\" target=\"_blank\">ויקרא כ\"ג</a>:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה בעצם היום הזה: אמרו המפרשים, שפירושו בגוף היום הזה, וכן \"ולחם וקלי וכרמל לא תאכלו עד עצם היום הזה\" (פסוק י\"ד), עד גוף היום, וכן \"וכעצם השמים לטוהר\" (<a class=\"refLink\" href=\"/Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" target=\"_blank\">שמות כ\"ד י'</a>), גוף השמים. ולא נוכל לפרש שירמוז אל עצם היום הזה וכחו, כמו שאמרו רבותינו (ספרי האזינו של\"ז) בפסוק \"בעצם היום הזה בא נח\" (<a class=\"refLink\" href=\"/Genesis 7\" data-ref=\"Genesis 7\" target=\"_blank\">בראשית ז</a>' י\"ג) \"בעצם היום הזה הוציא ה' את בני ישראל\" (<a class=\"refLink\" href=\"/Exodus 12:51\" data-ref=\"Exodus 12:51\" data-ref=\"Exodus 12:51\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Exodus 12:51\" data-ref=\"Exodus 12:51\" data-ref=\"Exodus 12:51\" target=\"_blank\">שמות י\"ב נ\"א</a>), כי כתוב (פסוק ל\"ב) \"בתשעה לחודש בערב מערב ועד ערב\", וכן \"וקראתם בעצם היום הזה מקרא קודש\" (פסוק כ\"א) - גם הלילה בכלל. והנה לא הזכיר \"בעצם היום הזה\" בשבת ולא במועדים, רק בחג השבועות וביום הכיפורים, וכן באיסור החדש אמר (פסוק י\"ד) \"עד עצם היום הזה\". והנראה בטעם הדבר, כי בעבור שאמר בשבועות \"מיום הביאכם את עומר התנופה\" וגו' \"תספרו חמשים יום\", יאמר \"והקרבתם מנחה חדשה ממושבותיכם תביאו\" וגמר העניין, והאריך לצוות בקרבנות, הוצרך לומר \"וקראתם בעצם היום הזה מקרא קודש\", כי גוף היום הוא קדוש ואסור בעשיית מלאכה, ואיננו תלוי בעומר ולא בקרבנות. וכן ביום הכיפורים, מפני שאמר (פסוק כ\"ז) \"ועיניתם את נפשותיכם והקרבתם אשה לה'\", ובפרשת אחרי מות תלה עוד הכפרה בקרבנות ובשעיר המשתלח, מפני כן הוצרך לומר וכל מלאכה לא תעשו בגוף היום הזה, כי יום כיפורים הוא בגופו לכפר עליכם מלבד כפרת הקרבנות. וכן \"עד עצם היום הזה\" בחדש, עד גוף היום הזה, שהוא יום הביאכם את קרבן אלוהיכם, שאפילו לא יבוא הקרבן, המצוה נוהגת בגוף היום הזה להיות החדש אסור לפניו ומותר לאחריו. וזה טעם אמרו (פסוק י\"ד) \"חוקת עולם לדורותיכם בכל מושבותיכם\", כמו שפירשתי (<a class=\"refLink\" href=\"/Genesis 7:16\" data-ref=\"Genesis 7:16\" target=\"_blank\">פסוק ט\"ז</a>). ומצאנו עוד שהזכיר הכתוב \"בעצם היום הזה\" בעניינים נגזרים לעתים מזומנים, אמר בנח \"בעצם היום הזה בא נח\" וגו', \"ויהי בעצם היום הזה יצאו כל צבאות ה' מארץ מצרים\" (<a class=\"refLink\" href=\"/Exodus 12:41\" data-ref=\"Exodus 12:41\" target=\"_blank\">שמות י\"ב מ\"א</a>), \"וידבר ה' אל משה בעצם היום הזה עלה אל הר העברים\" (<a class=\"refLink\" href=\"/Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" target=\"_blank\">דברים ל\"ב מ\"ח</a>-מ\"ט). והטעם באלו, מפני שייתכן שהכניס נח בתיבה קודם לכן הרבה מן החיה והעוף, וכן ייתכן שיצאו מקצת ישראל ממצרים קודם לכן, וביום ההוא נגמר העניין, וכן קודם ליום ההוא היתה צוואה למשה רבינו בעלייה ההיא וביום ההוא עלה, לכך פירש הכתוב בכולן שהיו בגוף היום ההוא, לא שהותחל בהם מתחילה ונשלם עניינם ביום ההוא, רק הכל היה בגוף היום הזה. וכן \"בעצם היום הזה נימול אברהם\" וגו' (<a class=\"refLink\" href=\"/Genesis 17:26\" data-ref=\"Genesis 17:26\" target=\"_blank\">בראשית י\"ז כ\"ו</a>), שנימולו עם רב ביום אחד להגיד זריזותו במצוות. וכן נראה לי עוד כי עצם כל דבר, כחו ותקפו, נגזר מלשון \"כחי ועוצם ידי\" (<a class=\"refLink\" href=\"/Deuteronomy 8:17\" data-ref=\"Deuteronomy 8:17\" target=\"_blank\">דברים ח' י\"ז</a>), \"עוז ותעצומות\" (<a class=\"refLink\" href=\"/Psalms 68:36\" data-ref=\"Psalms 68:36\" target=\"_blank\">תהלים ס\"ח ל\"ו</a>), וכן \"זה ימות בעצם תומו\" (<a class=\"refLink\" href=\"/Job 21:23\" data-ref=\"Job 21:23\" target=\"_blank\">איוב כ\"א כ\"ג</a>), בתוקף שלמותו, ובעבור שהעצמות מוסדות הגוף ותקפו ייקראו כן. והנה \"כעצם השמים לטוהר\" (<a class=\"refLink\" href=\"/Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" data-ref=\"Exodus 24:10\" target=\"_blank\">שמות כ\"ד י'</a>), שטהרת הדבר שראו ברורה וחזקה כחוזק טוהר השמים. ולכך יזכיר בימים הנזכרים \"עצם היום\", כי העניין בהם בעצמם לא בדבר אחר נוסף בהם, שהוא הקרבנות אשר יקריבו בהם... \nואמר יחזקאל (ב' ג') \"המה ואבותם פשעו בי עד עצם היום הזה\", להכניס היום בכלל ההוא. וכן \"עד עצם היום הזה\" דחדש, שהוא עד ועד בכלל, כי גוף הדבר כחו ותקפו: ורבותינו דרשו (תו\"כ פרק י\"ד ז'-ח'): מלשון \"בעצם היום הזה\" דמועדים, עיצומו של יום, כלומר מעת צאת הכוכבים עד צאתם בליל המחרת, למעט התוספת שלמדו להוסיף מחול על הקודש. וידרשו בנח וביציאת מצרים ומשה בעיצומו של יום, בחצי היום, כדאיתא בספרי, וכתבו רש\"י בפרשת האזינו (<a class=\"refLink\" href=\"/Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" data-ref=\"Deuteronomy 32:48\" target=\"_blank\">דברים ל\"ב מ\"ח</a>).</span>"
+  },
+  {
+   "node": 43,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  כיצד מפרש רש\"י את המילה \"בעצם\"?"
+  },
+  {
+   "node": 44,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2.  במה סותרו הרמב\"ן ,ומה הם שלושת הפירושים שהוא מציע למילה זו?"
+  },
+  {
+   "node": 45,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"ויסגור ה' בעדו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:ט״ז",
+   "node": 46,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:16",
+   "text": {
+    "en": "And they that went in, went in male and female of all flesh, as God commanded him; and the LORD shut him in.",
+    "he": "\"וַיִּסְגֹּר ה' בַּעֲדוֹ\""
+   }
+  },
+  {
+   "node": 47,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">תרגום אונקלוס:</span><br><span style=\"color: rgb(51,51,51);\">ואגן ה' (במימרה) עלוהי.</span>"
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ז׳:ט״ז:א׳",
+   "node": 48,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 7:16:1",
+   "text": {
+    "en": "",
+    "he": "ומאז היו כאילו יצאו מן העולם הישן שנגזר עליו השחת, והם חוץ לעולם, עתידים ללכת על פני המים ומסוגרים מהשגחת ה', שלא יקרב אליהם המשחית, ועל זה אמר \"ויסגור ה' בעדו\", שזה ההשגחה הפרטית החופפת על נח."
+   }
+  },
+  {
+   "node": 49,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">נחלת יעקב:</span><br><span style=\"color: rgb(51,51,51);\">על ידי שציוהו לעשות התיבה וליכנס לתוכה – וזו היא סגירתו.</span>"
+  },
+  {
+   "node": 50,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  בפני איזה קושי עומדים שלושת המפרשים, ובאילו דרכים הם משתדלים לתרצו?"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ז׳:ט״ז:א׳",
+   "node": 51,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Genesis 7:16:1-2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה והבאים זכר ונקבה: ... וטעם \"ויסגור ה' בעדו\" הוא לשבח שהסגירה בעת הזאת טובה יותר מהפתיחה. ובעת אחרת לגנאי יסגור על איש - \"ויסך אלוה בעדו\". והעד ראש הפסוק. והנה סגר הפתח וה' עזרו שלא נפתח בתיבה מקום, כי מיד היו כולם מתים?"
+   }
+  },
+  {
+   "node": 52,
+   "outsideText": "<table><tbody><tr><td><big>ו. שאלות בקיאות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:י״א:ג׳",
+   "node": 53,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 7:11:3",
+   "text": {
+    "en": "תהום רבה THE GREAT DEEP — Measure for measure: they had sinned with רבה רעת האדם “great was the evil of man” (i. e. their sin is described by the word רבה “great”) and they were therefore punished by תהום רבה “the great deep” (i.e. the expression “great’’ is used of the instrument by which they were punished for their great sin) (Sanhedrin 108a). ",
+    "he": "ד\"ה תהום רבה: מידה כנגד מידה - הם חטאו ב\"רבה רעת האדם\" (<a class=\"refLink\" href=\"/Genesis 6:5\" data-ref=\"Genesis 6:5\" target=\"_blank\">בראשית ו' ה'</a>), ולקו ב\"תהום רבה\"."
+   }
+  },
+  {
+   "node": 54,
+   "outsideText": "היכן מצינו רעיון זה בתנ\"ך או בדברי רש\"י?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:י״ב:א׳",
+   "node": 55,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 7:12:1",
+   "text": {
+    "en": "ויהי הגשם על הארץ AND THE RAIN WAS UPON THE EARTH — But later on (v. 17) it says. “And the Flood was upon the earth”! But the explanation is this: when He poured down the water at first He made it fall in mercy (gently), in order that if the people would repent, it might prove a rain of blessing; but when they did not repent it became a destructive flood (Genesis Rabbah 31:12) .",
+    "he": "ד\"ה ויהי הגשם: ולהלן הוא אומר (פסוק י\"ז) \"ויהי המבול\", אלא כשהורידן, הורידן ברחמים, שאם יחזרו - יהיו גשמי ברכה, וכשלא חזרו היו למבול."
+   }
+  },
+  {
+   "node": 56,
+   "outsideText": "היכן מצינו רעיון זה בתנ\"ך או בדברי רש\"י?"
+  }
+ ],
+ "ssn": 1070,
+ "status": "public",
+ "summary": "1945 (תש\"ה)<br><a href=\"http://www.nechama.org.il/pdf/1070.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"ה - דור המבול",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

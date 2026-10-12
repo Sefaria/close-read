@@ -1,0 +1,301 @@
+{
+ "dateCreated": "2019-03-06T05:31:40.556386",
+ "dateModified": "2019-03-07T02:19:21.031881",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Ibn Ezra on Genesis 37:1:1",
+  "Ramban on Genesis 6:9:1",
+  "Ibn Ezra on Genesis 6:9:1",
+  "Rashi on Genesis 6:9:1",
+  "Genesis 6:9",
+  "Rashi on Genesis 6:9:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161777,
+ "includedRefs": [
+  "Genesis 6:9",
+  "Ibn Ezra on Genesis 6:9:1",
+  "Ramban on Genesis 6:9:1",
+  "Ibn Ezra on Genesis 37:1:1",
+  "Rashi on Genesis 6:9:1",
+  "Rashi on Genesis 6:9:1",
+  "Rashi on Genesis 6:9:2"
+ ],
+ "nextNode": 30,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עצה טובה ליודעי גרמנית: לשאלה א' עיין מאמרו של ר' דוד הופמן: Jeschurun, Band 2, 1915, Die Sindfult "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. פרק ו ופרק ז</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "השוה את הפסוקים המקבילים ב<a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">פרק ו'</a> וב<a class=\"refLink\" href=\"/Genesis 7\" data-ref=\"Genesis 7\" target=\"_blank\">פרק ז'</a>, כגון:"
+  },
+  {
+   "node": 4,
+   "outsideText": "<table>\n<tbody><tr>\n<td><a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">פרק ו'</a></td>\n<td><a class=\"refLink\" href=\"/Genesis 7\" data-ref=\"Genesis 7\" target=\"_blank\">פרק ז'</a> </td></tr>\n<tr>\n<td>\n<b>פסוק י\"ג</b>\n\"וַיֹּאמֶר אֱ-לֹהִים לְנֹחַ קֵץ כָּל בָּשָׂר...\"</td>\n<td>\n<b>פסוק א'</b>\n\"וַיֹּאמֶר ה' לְנֹחַ בֹּא אַתָּה וְכָל בֵּיתְךָ...\"</td></tr>\n<tr>\n<td>\n<b>פסוק כ\"ב</b>\n\"וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱ-לֹהִים\"</td>\n<td>\n<b>פסוק ה'</b>\n\"וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּהוּ ה'\"</td></tr>\n<tr>\n<td><b>פסוק י\"ט</b>\n\"וּמִכָּל הָחַי מִכָּל בָּשָׂר שְׁנַיִם...\"</td>\n<td>\n<b>פסוק ב'</b>\n\"מִכֹּל הַבְּהֵמָה הַטְּהוֹרָה... שִׁבְעָה שִׁבְעָה\"</td></tr>\n<tr>\n<td><b>פסוק כ'</b>\n\"מֵהָעוֹף לְמִינֵהוּ וּמִן הַבְּהֵמָה לְמִינָהּ\"</td>\n<td>\n<b>פסוק ג' </b>\n\"גַּם מֵעוֹף הַשָּׁמַיִם שִׁבְעָה שִׁבְעָה\"</td></tr>\n<tr>\n<td>\n<b>פסוק י\"ט</b>\n\"...תָּבִיא אֶל הַתֵּבָה\"\n<b>פסוק כ'</b>\n\"... אֵלֶיךָ\"</td>\n<td>\n<b>פסוק ב'</b>\n\"מִכֹּל הַבְּהֵמָה הַטְּהוֹרָה תִּקַּח לְךָ\"\nוהשווה: <a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">פרק ו'</a> פסוק כ\"א\n\"וְאַתָּה <b>קַח לְךָ</b> מִכָּל מַאֲכָל \"</td></tr>\n<tr>\n<td>\n<b>פסוק י\"ח</b>\n\"וּבָאתָ אֶל הַתֵּבָה אַתָּה וּבָנֶיךָ וְאִשְׁתְּךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ\"</td>\n<td><b>פסוק א'</b>\n\"בֹּא אַתָּה וְכָל בֵּיתְךָ\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 5,
+   "outsideText": "ועוד ועוד ועוד..."
+  },
+  {
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מלבי\"ם:</span><br><span style=\"color: rgb(51,51,51);\">והנה דיבור ה' ב<a class=\"refLink\" href=\"/Genesis 7\" data-ref=\"Genesis 7\" data-ref=\"Genesis 7\" target=\"_blank\">פרק ז'</a> אינו מעניין דיבור הקודם (ב<a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">פרק ו'</a>), שדיבור הראשון היה מצד שהוא אלוקים בורא העולם, שהעולם נברא ומתקיים בשם אלוקים, כמו ששמענו בכל פרשת בראשית, לא נזכר רק שם אלוקים, והוא אשר השגיח עתה שבבוא המבול לא יחסר מין אחד מן המציאות. ובדיבור השני (<a class=\"refLink\" href=\"/Genesis 7\" data-ref=\"Genesis 7\" data-ref=\"Genesis 7\" target=\"_blank\">פרק ז'</a>) אמר מאמר אחר, מיוחד מצד השגחתו הפרטית על נח, שהיה צדיק לפניו, וה' ישגיח על ענייני האדם הצדיק וקניינו וצורכי ביתו.</span>"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1.  מהם השינויים בתוכן ובסגנון בין שני הפרקים המתבארים מתוך ההבדל העקרוני הזה, וכיצד הם מתבארים על פיו?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. התוכל להסביר, לפי דברי המלבי\"ם הנ\"ל, לשם מה באה ההדגשה היתירה של \"למינהו\" (שלוש פעמים!) ב<a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">פרק ו'</a> פסוק כ'?"
+  },
+  {
+   "node": 9,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"אלה תולדות\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:ט׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:9",
+   "text": {
+    "en": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+    "he": "\"אֵלֶּה תּוֹלְדֹת\""
+   }
+  },
+  {
+   "node": 11,
+   "outsideText": "ראב\"ע – רמב\"ן"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ו׳:ט׳:א׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 6:9:1",
+   "text": {
+    "en": "<b>Righteous.</b> In his deeds.",
+    "he": "ד\"ה אלה תולדות: כמו הקורות, כטעם \"מה ילד יום\". וכמוהו \"אלה תולדות יעקב\"."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:ט׳:א׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:9:1",
+   "text": {
+    "en": "אלה תולדות נח THESE ARE THE OFFSPRING OF NOAH- The meaning of the word תולדות (offspring)some explain it to mean \"the events of [Noach's] life\" like the meaning of a related word in the Passuk מה ילד יום (משלי כז א) \"what a day may bring about\"(ילד) consequently this introductory clause alludes to the entire portion that follows.  But this is not pleasing  in my eyes for the events of a man are not called his “offspring” which is the plain meaning of  תולדות. the most satisfying explanation is that [תולדות] is to be taken in the literal sense like אלה תולדות בני נח (להלן י א) \"these are the descendants of Noach\" and \"these are the children of Yishmael.\" The verse is saying, These are the offspring of Noah (V.9) Shem, Cham and Jafet. The torah however repeats \"Noach had begotten\" [3 sons] because it interrupted the description by saying \"Noah was a completely innocent man\"  to tell us why G'D commanded him about building the ark. Although the Torah already said above  (ה לב) ויהי נח בן חמש מאות שנה ויולד נח את שם את חם ואת יפת it repeats their names again, to tell us that Noah was not like his forefathers who had “sons and daughters” (implying many children) and had only three. This is also why it says three sons (which is obvious). It mentions the amount to tell us 1) that these 3 were his only children and 2) it was from these 3 that the whole world spread out. [NOAH] WAS A COMPLETELY INNOCENT MAN-The Passuk mentions that Noah was free of guilt and complete in his innocence, to let us know that he deserved to be saved from the deluge because he didn’t deserve any punishment at all, for he was perfect in his vindication from crime. The word \"tzaddik\" refers to someone who is innocent in judgment the opposite of \"rasha\" a guilty individual, like it says  “and they vindicate the innocent one (tzaddik) and condemn the guilty (rasha) one” and “You are blameless (tzaddik) for all that has come upon us for You have acted faithfully” and also “You shall judge your fellow fairly (B'tzedek)” concerning Avraham however who it says \"acting with righteousness (tzedakah) and justness (mishpat)\", the Torah praises him for the trait of justness  (tzedek)  [but calls it] mishpat and praises him for compassion and calls it  tzedakah. Rabbi Avraham (Ibn Ezra) says \"tzaddik\" refers to his actions and \"tamim\" to his thoughts. But it says \"You were perfect in your ways\" meaning conduct! After telling us Noah was an innocent man, meaning that he wasn’t a man of “injustice” or one who \"corrupted his ways” like the people of his time the Torah then says that he “would walk with the Glorious  Name,” meaning fearing G-D alone, and wouldn’t be deluded to follow stargazers, diviners or cloud readers, all the more so to follow idolatry. He wouldn’t listen to diviners at all. Only to cling to G'D at all times following the path G'D has chosen for man, or the path that he was instructed being that he was a prophet. This is in accordance with its meaning in the verse \"You should walk after GD your G’D and fear him,\" which is speaking about rejecting one who gives false prophecy trying to make people worship idol’s and gives a sign or performs a wonder, as  I will explain there. I will also mention this interpretation on the Passuk walk before me and be perfect if the “One of Perfect Knowledge (G’D)” will be with me. Now since Noah was an innocent individual, and didn’t deserve to be punished, his sons and household also deserved to be saved in his merit, because it would be a punishment for him if his offspring were to be destroyed. Also, [the Torah] is telling us that he was a “perfectly innocent” individual and so were his sons and household- for he taught them to follow his footsteps, like what it says by Avraham, For I cherished him, for he commands his children and household… IN HIS GENERATIONS- some rabbis expound it as praise: All the more so if he would have lived in a generation that was righteous. And others who expound it as condemnation. This is the words of Rashi. In my view, the most satisfying explanation, according to the simple meaning  is that he was the only innocent person in  those generations; there wasn’t a innocent or perfect person in his generation besides him. Similarly, For it is you that I have seen to be innocent before Me n this generation – there was no one else that was worthy of being saved in that generation. It says “in his generations” (plural) because many generations had passed since the time people began to corrupt their ways, and there was no innocent person on earth except for him. And don’t allow the words of the sages about Methuselah (that he was righteous) present a question to you, because the Torah only says that there wasn’t a blameless person  who was worthy of being saved from the Deluge during all those generations.",
+    "he": "ד\"ה אלה תולדות נח: טעמו פירשו בו (הראב\"ע, והרד\"ק) קורותיו, כטעם \"מה ילד יום\" (<a class=\"refLink\" href=\"/Proverbs 27:1\" data-ref=\"Proverbs 27:1\" target=\"_blank\">משלי כ\"ז א</a>'), וירמוז אל כל הפרשה. ואינו נכון בעיני, כי אין קורות האדם תולדותיו. <b>והנכון שהוא כמשמעו</b>, כמו \"אלה תולדות בני נח\" (להלן י' א'), \"ואלה תולדות ישמעאל\" (להלן כ\"ה י\"ב), יאמר \"אלה תולדות נח שם חם ויפת\". אבל החזיר \"ויולד נח\" בעבור שהפסיק ואמר \"נח איש צדיק תמים היה\", להודיע למה ציוהו בתיבה. ואף על פי שכבר אמר למעלה (ה' ל\"ב) \"ויהי נח בן חמש מאות שנה ויולד נח את שם את חם ואת יפת\", חזר להזכירם פעם אחרת, להגיד כי לא היה ככל אבותיו שיולידו בנות ובנים. וזה טעם \"שלושה בנים\", כי יזכיר מספרם לאמר כי אלה שלושה לבדם היו תולדותיו, וניצלו בזכותו, ומאלה נפצה כל הארץ. "
+   }
+  },
+  {
+   "node": 14,
+   "outsideText": "מה בין ראב\"ע לרמב\"ן בפירוש המילה \"תולדות\"."
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ל״ז:א׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 37:1:1",
+   "text": {
+    "en": "",
+    "he": "עיין גם ראב\"ע, <a class=\"refLink\" href=\"/Genesis 37:1\" data-ref=\"Genesis 37:1\" target=\"_blank\">פרק ל\"ז פסוק א'</a>:<br>ד\"ה וישב: ...והטעם אלה תולדות יעקב: אלו המאורעות שאירעו לו והמקרים שבאו עליו. מגזרת \"מה ילד יום\" (משלי כ\"ז, א')."
+   }
+  },
+  {
+   "node": 16,
+   "outsideText": "הסבר את דברי הרמב\"ן כאן \"והנכון שהוא כמשמעו\"."
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהן טענות הרמב\"ן נגד הראב\"ע?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. התוכל להסיר את תלונות הרמב\"ן מעל הראב\"ע?"
+  },
+  {
+   "node": 19,
+   "outsideText": "<table><tbody><tr><td><big>ג. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ט׳:א׳",
+   "node": 20,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:9:1",
+   "text": {
+    "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+    "he": "ד\"ה אלה תולדות נח: הואיל והזכירו, סיפר בשבחו, שנאמר (<a class=\"refLink\" href=\"/Proverbs 10\" data-ref=\"Proverbs 10\" target=\"_blank\">משלי י</a>') \"זכר צדיק לברכה\". "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ט׳:א׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:9:1",
+   "text": {
+    "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+    "he": "דבר אחר: לימדך שעיקר תולדותיהם של צדיקים, מעשים טובים."
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה קשה לו? מה ההבדל העקרוני בין שני פירושיו? (ועיין רש\"י י\"ח י\"ח). העתק את פסוקנו פעמיים, וסמן סימני פיסוק בהתאם לכל אחד מפירושי רש\"י!"
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ט׳:ב׳",
+   "node": 23,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:9:2",
+   "text": {
+    "en": "בדורותיו IN HIS GENERATIONS — Some of our Rabbis explain it (this word) to his credit: he was righteous even in his generation; it follows that had he lived in a generation of righteous people he would have been even more righteous owing to the force of good example. Others, however, explain it to his discredit: in comparison with his own generation he was accounted righteous, but had he lived in the generation of Abraham he would have been accounted as of no importance (cf. Sanhedrin 108a).",
+    "he": "ד\"ה בדורותיו: (סנהדרין ק\"ט) יש מרבותינו דורשים אותו לשבח: כל-שכן שאילו היה בדור צדיקים, היה צדיק יותר. ויש שדורשים אותו לגנאי: לפי דורו היה צדיק, ואילו היה בדורו של אברהם, לא היה נחשב לכלום."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "לבוש האורה (ר' מרדכי יפה) מקשה על סגנונו של רש\"י:<br>מאי טעמא אמר הדורש לשבח \"אם היה בדור של צדיקים...\" והדורש לגנאי אמר: \"אבל אם היה בדורו של אברהם...\". למה שינה לשונו לומר: \"בדורו של אברהם\", ולא אמר גם בו \"בדור של צדיקים\"? "
+  },
+  {
+   "node": 25,
+   "outsideText": "נסה לענות על קושייתו!"
+  },
+  {
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">דברי רש\"י אלה לקוחים מבראשית רבה:</span><br><span style=\"color: rgb(51,51,51);\">\"משל למלך שהיו לו שני בנים: אחד גדול ואחד קטן. אמר לקטן: הלך עמי! ואמר לגדול: בוא והלוך לפני! כך אברהם, שהיה כוחו יפה \"התהלך לפני והיה תמים\", אבל נח, שהיה כוחו רע – \"את האלוקים התהלך נח\".</span>"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה פירוש \"את\" בפסוקנו, לפי דעת הדרשן, והיכן מצינו שימוש זה של \"את\" בתורה?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  התוכל להסביר מתוך השוואת <a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">פרק ו'</a> לפרק י\"ח שלא היה כוחו של נח יפה ככוחו של אברהם?"
+  }
+ ],
+ "ssn": 1126,
+ "status": "public",
+ "summary": "1947 (תש\"ז)<br><a href=\"http://www.nechama.org.il/pdf/1126.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"ז - נח",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "dateCreated": "2019-03-06T05:23:32.298584",
+ "dateModified": "2019-03-07T02:07:42.998312",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 6:9:1",
+  "Genesis 6:13",
+  "Sanhedrin 108a:12",
+  "Genesis 6:9",
+  "Genesis 6:11",
+  "Rashi on Genesis 6:13:2",
+  "Bereshit Rabbah 30:10",
+  "Radak on Genesis 6:9:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161147,
+ "includedRefs": [
+  "Rashi on Genesis 6:9:1",
+  "Radak on Genesis 6:9:1",
+  "Genesis 6:9",
+  "Bereshit Rabbah 30:10",
+  "Genesis 6:11",
+  "Genesis 6:13",
+  "Rashi on Genesis 6:13:2",
+  "Genesis 6:13",
+  "Sanhedrin 108a:12"
+ ],
+ "nextNode": 48,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "לפסוק ראשון בפרשתנו עיין גם גיליון <a class=\"refLink\" href=\"/sheets/161105\" data-ref=\"sheet.161105\" target=\"_blank\">נח תשי\"ז, שאלה ב</a>. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. \"אלה תולדות נח\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ט׳:א׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:9:1",
+   "text": {
+    "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+    "he": "ד\"ה אלה תולדות נח נח איש צדיק: הואיל והזכירו סיפר בשבחו, שנאמר (<a class=\"refLink\" href=\"/Proverbs 10\" data-ref=\"Proverbs 10\" target=\"_blank\">משלי י'</a>) \"זכר צדיק לברכה\".\n<b>דבר אחר</b>: לימדך שעיקר תולדותיהם של צדיקים מעשים טובים."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ו׳:ט׳:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 6:9:1",
+   "text": {
+    "en": "אלה תולדות נח, נח איש צדיק תמים היה בדורותיו, the meaning of the word תולדות is similar to “history of,” i.e. this it what happened to Noach, etc. It concerns both the deluge and what came after. We encounter the same pattern when the Torah introduced a paragraph with the words אלה תולדות יעקב, יוסף in Genesis 37,2 where this is an introduction to history related to Yaakov’s family. In Proverbs 27,1 we have a verse concluding with the words “the day will give birth to.” The root ילד is the root of the word תולדה and תולדות, i.e. it refers to future developments. Developments are matters that are the result of days following one another.",
+    "he": "אלה תולדות נח: \"תולדות\" פירושו הקורות שקרוהו בדבר המבול ואחריו, וכן (<a class=\"refLink\" href=\"/Genesis 37\" data-ref=\"Genesis 37\" target=\"_blank\">בראשית ל\"ז</a>) \"אלה תולדות יעקב\", כי הקורות הם תולדות הימים, וכן אמר (<a class=\"refLink\" href=\"/Proverbs 27\" data-ref=\"Proverbs 27\" target=\"_blank\">משלי כ\"ז</a>) \"כי לא <b>תדע</b> מה ילד יום\"."
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה קשה לרש\"י?"
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה ההבדל העקרוני בין שני פירושיו של רש\"י?"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  העתק את פסוקנו פעמיים, וסמנו בסימני פסוק בהתאם לכל אחד מפירושי רש\"י."
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "4. לפי הכלל, שאין רש\"י מביא שני פירושים אלא אם כן לא נחה דעתו אף באחד מהם – מהי חולשת כל אחד משני פירושיו?"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5. המהר\"ל מפרג, בספרו גור אריה על רש\"י מקשה על סגנונו של רש\"י בפירושו השני:<br>למה אמר \"עיקר תולדותיהם של צדיקים\" ולא אמר: \"לימדך שתולדותיהם של צדיקים מעשים טובים\"?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">(וכן כתוב במקורו תנחומא נח ב':</span><br><span style=\"color: rgb(51,51,51);\">\"תולדותיו של אדם אלו מעשים טובים\" </span>"
+  },
+  {
+   "node": 11,
+   "outsideText": "ולא נאמר שם \"עיקר תולדותיו\")."
+  },
+  {
+   "node": 12,
+   "outsideText": "ענה לקושייתו !"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. האם מסכים רד\"ק בפירושו למילת \"תולדות\" עם אחד משני פירושי רש\"י או בחר לו דרך אחרת?"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "7.  כיצד מיושב הקושי שעמד בפני רש\"י (שאלה 1) לפי דברי הרד\"ק?"
+  },
+  {
+   "node": 15,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"בדורותיו\"- לשבח או לגנאי?</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:ט׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:9",
+   "text": {
+    "en": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+    "he": "\"צדיק תמים היה בדורותיו\""
+   }
+  },
+  {
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">תנחומא באבער נח ה':</span><br><span style=\"color: rgb(51,51,51);\">מהו \"בדורותיו\"? יש דורשין לשבח ויש דורשין לגנאי. צדיק בדורותיו ולא בדורות אחרים. משל למה הדבר דומה? - אם יתן אדם סלע של כסף בתוך סלעים של נחושת, אותה של כסף נראית נאה. כך היה נח: נראה צדיק בדור המבול. יש דורשין אותו לשבח. כיצד? - משל לחבית של אפרסמון, שהייתה נתונה בקבר, והיה ריחה טוב, אילו היתה בבית - על אחת כמה וכמה.</span>"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "הסבר, למה בחר הדורש לגנאי במשל המטבע (בדבר הניתן לראייה), ובחר הדורש לשבח בשמן אפרסמון (בדבר המפיץ ריח)?"
+  },
+  {
+   "node": 19,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"בדורותיו\"- לשבח או לגנאי? המשך - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "ופירש דבריו ר' מרדכי יפה, בעל \"לבוש האורה\" על רש\"י:<br>ודע ששתי אלו הדעות, רוצה לומר הדורשים לשבח והדורשים לגנאי, נותנים לנח מדרגה אחת בצדקותיו, ואינם חלוקים במדרגת מעלת צדקותיו של נח, ולדברי שניהם לא היה אלא צדיק בינוני – אלא שזה הדורש לשבח ואומר, שכוונת הפסוק היא אם היה בדורות של צדיקים ולמד ממעשיהם -ודאי היה צדיק יותר גדול ממה שהיה, וזה הדורש לגנאי אומר פירוש \"בדורותיו\" – לפי דורו היה צדיק ומגנהו הפסוק לומר, שלא היה אדוק בצדקתו, שגם אם היה בדורו של אברהם, לא היה צדיק יותר, כי לא היה לומד ממעשיו ולא היה נחשב לכלום."
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  הסבר, אם כפי בעל לבוש-האורה שאין מחלוקת בין רבותינו באשר לאופיו וטיבו של נח – אם כן, במה נחלקו, עד שהגיעו לידי מסקנות מנוגדות?"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה הן הראיות מתוך המסופר בפרשתנו (<a class=\"refLink\" href=\"/Genesis 6\" data-ref=\"Genesis 6\" target=\"_blank\">פרקים ו'-ז'</a>) ל\"בינוניותו\" של צדיק זה?"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  היכן הולך רש\"י בפירושו לפרקים ו'–ז' בעקבות הדעה שלא היה צדיק, אלא עד הגיע לדרגה בינונית בלבד?"
+  },
+  {
+   "node": 24,
+   "outsideText": "<table><tbody><tr><td><big>ד. ההבדל בין נח לאברהם</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית רבה ל׳:י׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 30:10",
+   "text": {
+    "en": "",
+    "he": "\"את האלוקים התהלך נח\" (בראשית ו ט) – ר' יהודה ור' נחמיה: ר' יהודה אמר: משל למלך שהיו לו שני בנים, אחד גדול ואחד קטן. אמר לקטן: הלֵך עמי ואמר לגדול: בוא והלֵך לפני. כך אברהם שהיה כוחו יפה – \"התהלך לפני והיה תמים\", אבל נח שהיה כוחו רע – \"את האלוקים התהלך נח\".\nר' נחמיה אמר: משל לאוהבו של מלך שהיה משתקע בטיט עבה, הציץ המלך וראה אותו. אמר לו: עד שאתה משתקע בטיט – הלֵך עמי. הדא הוא דכתיב: \"את האלוקים התהלך נח\". ולמה אברהם דומה: לאוהבו של מלך, שראה את המלך מהלך במבואות האפילים. הציץ אוהבו והתחיל מאיר עליו דרך החלון. הציץ המלך וראה אותו, אמר לו: עד שאתה מאיר לי דרך החלון – בוא והאר לפני.\nכך אמר הקדוש ברוך הוא לאברהם: עד שאתה מאיר לי ממספוטמיא ומחברותיה – בוא והאיר לפני בארץ ישראל!"
+   }
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  מה הקושי שעמד בפני המדרש ובפני רש\"י, שאותו רצו ליישב?"
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהי הוראת מילת \"את\" בפסוקנו לדעתם, והיכן מצינו בתורה \"את\" בהוראה זו?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  התוכל להוכיח מתוך השוואת פרשתנו לפרשת וירא את ההבדל הזה שמצאו חז\"ל בין נח לאברהם?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. גם לפי ר' יהודה וגם לפי ר' נחמיה גדול אברהם מנח. הסבר מהו איפוא ההבדל בין דעותיהם?  (שים לב: שימוש בדימוי אחר, במשל אחר, סימן הוא להוראה אחרת בנמשל. ועיין גיליון בראשית תשי\"ח שאלה ג!)"
+  },
+  {
+   "node": 30,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"חמס\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״א",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:11",
+   "text": {
+    "en": "And the earth was corrupt before God, and the earth was filled with violence.",
+    "he": "\"ותימלא הארץ חמס\""
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"י:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה חמס: גזל.</span>"
+  },
+  {
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ויש ספרים שכתוב בהם ברש\"י:</span><br><span style=\"color: rgb(51,51,51);\">גזל, שנאמר (<a class=\"refLink\" href=\"/Jonah 3\" data-ref=\"Jonah 3\" target=\"_blank\">יונה ג'</a>) \"ומן החמס אשר בכפיהם\".</span>"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "הסבר במה עשוי הפסוק ביונה להוכיח את צדקת פירושו (\"שנאמר\"), הלוא גם שם, כמו בפסוקנו, מופיעה מילת \"חמס\" בלי תוספת ביאור, כמו בפסוקנו?"
+  },
+  {
+   "node": 35,
+   "outsideText": "<table><tbody><tr><td><big>ו. \"קץ כל בשר...כי...\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ג",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:13",
+   "text": {
+    "en": "And God said unto Noah: ‘The end of all flesh is come before Me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+    "he": "\"ויאמר אלוהים אל נח: קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:י״ג:ב׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:13:2",
+   "text": {
+    "en": "כי מלאה הארץ חמס FOR THE EARTH IS FILLED WITH VIOLENCE — Their fate was sealed only on account of their sin of robbery (Sanhedrin 108a).",
+    "he": "לא נחתם גזר דינם אלא על הגזל."
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  מה קשה לו בפסוק?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה הרעיון הכלול בדבריו?"
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. בעל ספר הזכרון, מקשה על לשון רש\"י:<br>נכנס רש\"י בלשון שלילה \"לא נחתם גזר דינם אלא על...\" ולמה לא אמר בלשון חיוב: \"נחתם גזר דינם על הגזל\"."
+  },
+  {
+   "node": 41,
+   "outsideText": "ענה לשאלתו."
+  },
+  {
+   "node": 42,
+   "outsideText": "<table><tbody><tr><td><big>ז. הגזל- גדול שבחטאים</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ג",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:13",
+   "text": {
+    "en": "And God said unto Noah: ‘The end of all flesh is come before Me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
+    "he": "\"קץ כל בשר בא לפני כי מלאה הארץ חמס מפניהם, והנני משחיתם את הארץ\""
+   }
+  },
+  {
+   "heRef": "סנהדרין ק״ח א:י״ב",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sanhedrin 108a:12",
+   "text": {
+    "en": "With regard to the verse: <b>“And God said to Noah: The end of all flesh is come before Me,</b> for the earth is filled with robbery through them, and behold, I will destroy them with the earth” (Genesis 6:13), <b>Rabbi Yoḥanan says: Come and see how great is the power of robbery, as the generation of the flood violated every</b> precept, <b>but their sentence</b> to be destroyed <b>was not sealed until they extended their hands</b> and engaged <b>in robbery, as it is stated: “For the earth is filled with robbery through them, and behold, I will destroy them with the earth”</b> (Genesis 6:13). <b>And it is written: “Robbery is risen up into a rod of wickedness; nothing comes from them, nor from their multitude, nor from any of them, nor shall there be wailing [<i>no’ah</i>] for them”</b> (Ezekiel 7:11).",
+    "he": "אמר ר' יוחנן: בוא וראה כמה גדול כוחה של חמס! שהרי דור המבול עברו על הכל, ולא נחתם עליהם גזר דינם עד שפשטו ידיהם בגזל, שנאמר \"כי מלאה הארץ חמס מפניהם והנני משחיתם את הארץ\"."
+   }
+  },
+  {
+   "node": 45,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ההבדל בסגנון בין דברי רש\"י לפסוקנו (עיין בשאלה ג') לבין מקורו - דברי הגמרא האלה? (השווה לדרכו של רש\"י בעיבוד מקורותיו גיליון יתרו תש\"ג, שאלה אחרונה, \"גדול השלום\")."
+  },
+  {
+   "node": 46,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2.  היכן מציינו בתפילותינו הבלטת הגזל כגדול שבחטאים?"
+  }
+ ],
+ "ssn": 494,
+ "status": "public",
+ "summary": "1958 (תשי\"ח)<br><a href=\"http://www.nechama.org.il/pdf/494.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשי\"ח - \"אלה תולדות נח\"",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

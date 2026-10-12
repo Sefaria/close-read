@@ -1,0 +1,367 @@
+{
+ "dateCreated": "2019-03-06T05:30:29.984831",
+ "dateModified": "2019-03-07T02:17:49.311382",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 10:9:1",
+  "Bereshit Rabbah 23:7",
+  "Rashi on Genesis 10:8:1",
+  "Gur Aryeh on Bereishit 10:8:1",
+  "Rashi on Genesis 10:9:2",
+  "Genesis 10:8",
+  "Genesis 11:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161686,
+ "includedRefs": [
+  "Genesis 10:8",
+  "Genesis 11:1",
+  "Genesis 10:8",
+  "Bereshit Rabbah 23:7",
+  "Rashi on Genesis 10:8:1",
+  "Rashi on Genesis 10:9:1",
+  "Rashi on Genesis 10:9:2",
+  "Gur Aryeh on Bereishit 10:8:1",
+  "Genesis 11:1"
+ ],
+ "nextNode": 34,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. חטא נמרוד ודור הפלגה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "outsideText": "אברבנאל:"
+  },
+  {
+   "heRef": "בראשית י׳:ח׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 10:8",
+   "text": {
+    "en": "And Cush begot Nimrod; he began to be a mighty one in the earth.",
+    "he": "\"וְכוּשׁ יָלַד אֶת נִמְרֹד הוּא הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ\""
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 10:8\" data-ref=\"Genesis 10:8\" target=\"_blank\">פסוק ח'</a></span><br><span style=\"color: rgb(51,51,51);\">...שרצתה התורה להגיד עניננו והוא, שעד אותו הזמן היו בני אדם כולם שוים במעלתם, להיות כולם בני איש אחד; ונמרוד זה התחיל להתגבר ולמלוך על אנשי דורו ועל זה נאמר \"הוא החל להיות גבור בארץ\", רצונו לומר, שוטר ומושל בה. \nואמנם אמרו עוד: \"הוא היה גבור ציד לפני ה'\", כבר ידעת מה שפירשו בו חז\"ל, שהיה צד דעת הבריות בתחבולותיו. ואני חושב, שהיה צודה גדול מהחיות, מגיד הכתוב שעשה שני אופנים מהתחבולה להשתחרר על עמו: \n<b>הראשון</b> שעשה עצמו גבור ציד, צודה החיות וכובש אותם וכראות בני אדם שהדובים והאריות היו נכבשים לפניו עם כל חזוקם, היו הם גם כן יראים ממנו ונכבשים לפניו, וזהו גם כן אמרו: \"הוא היה גבור ציד לפני ה'\" תחת כל השמים לא היה גיבור ציד כמוהו, עד שנשאר בפני בני אדם למשל ולשנינה עד זמן כתיבת התורה \"כנמרוד גבור ציד לפני ה'\". ואפשר שהיה נמרוד מעלה עולה לה' מצידו, כדי להתחסד ולהראות את עצמו עובד א-לוהים, כי בזה ימשיך לב העם יותר אחריו ועל זה אמר \"גבור ציד לפני ה'\". \n<b>והאופן השני</b> מהתחבולה הוא שעשה בארץ מגדלים וערים בצורות חזקים למשול משם על כל הארץ, כי בהיותו יושב במגדל עז תפול אימתו ופחדו על כל יושבי המישור ועל זה נאמר (פרק י' פסוק י') \"ותהי ראשית ממלכתו בבל וארך ואכד וכלנה\". כי עשה שם במדינות החזקות אשר בנה מושב מלכותו. </span>"
+  },
+  {
+   "heRef": "בראשית י״א:א׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:1",
+   "text": {
+    "en": "And the whole earth was of one language and of one speech.",
+    "he": "\"וַיְהִי כָל הָאָרֶץ שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים\""
+   }
+  },
+  {
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 11:1\" data-ref=\"Genesis 11:1\" data-ref=\"Genesis 11:1\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 11:1\" data-ref=\"Genesis 11:1\" data-ref=\"Genesis 11:1\" target=\"_blank\">פרק י\"א פסוק א'</a></span><br><span style=\"color: rgb(51,51,51);\">...וכן היה חטאת דור הפלגה דומה לחטא אדם וקין ובניו, לפי שבהיות להם ריבוי העניינים הטבעיים ההכרחיים לקיומם מאת ה' מן השמים בהיותם פנויים ממלאכה מכל עמל ומוכנים להתעסק בשלמות נפשם, לא נחה דעתם במה שהכין להם בוראם במתנתו הרחבה הטבעית ויבקשו לשלוח יד ולשים כל מחשבותם למצוא המלאכות בבניית עיר שהוא כוללת המלאכות כולם ומגדל בתוכה, כדי להתחבר שם ולעשות עצמם מדיניים תחת היותם בני שדה, בחשבם שהתכלית המיוחד להם היה הקיבוץ המדיני להתמשך ביניהם השיתוף והחברה, ושזו המעולה בתכליתיות האנושיות, עם מה שימשך מזה מהם מהשמות והמנויים והממשלות והכבודות הדמיוניות וחמדת אסיפת הקניינים והחמס והגזל ושפיכות דמים הנמשכים, מה שלא היה דבר נמצא מזה בהיותם בשדה, כל אחד בפני עצמו, וכמאמר שלמה (<a class=\"refLink\" href=\"/Ecclesiastes 7\" data-ref=\"Ecclesiastes 7\" target=\"_blank\">קהלת ז'</a>): \"א-לוהים עשה את האדם ישר והמה בקשו חשבונות רבים\". \nולהיות כל זה מותר, בלתי טבעי, מונע ומעיק האדם מהשגת שלמותו האמתי הנפשיי, לכן נענשו האנשים החטאים האלה בנפשותם כשבלל השם לשונם והפיצם על פני כל הארץ, כמו שגירש את אדם הראשון מגן עדן וגירש את קין מארץ מושבו ואת בניו גירש מהעולם במי המבול, כי היה פשעם שוה.</span>"
+  },
+  {
+   "node": 7,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר מהו פשעו השווה של אדם הראשון, קין, בני קין (למי הכוונה?), נמרוד ודור הפלגה?"
+  },
+  {
+   "node": 8,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. השווה דברי אברבנאל על נמרוד לדבריו ל<a class=\"refLink\" href=\"/Deuteronomy 17:17\" data-ref=\"Deuteronomy 17:17\" target=\"_blank\">דברים י\"ז י\"ז</a>: \"שום תשים עליך מלך\", שהובאו בגיליון <a class=\"refLink\" href=\"/sheets/161828\" data-ref=\"sheet.161828\" target=\"_blank\">שופטים תש\"ז</a>. מהו הקו המשותף בדבריו פה ושם?"
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  כיצד מפרש אברבנאל את הביטוי \"לפני ה'\"?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. כיצד רואה אברבנאל את התחלת אי השויון בעולם, ומהן הדרכים שבהן השיגו בני אדם כח למשול בזולתם?"
+  },
+  {
+   "node": 11,
+   "outsideText": "<table><tbody><tr><td><big>ב. נמרוד</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י׳:ח׳",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 10:8",
+   "text": {
+    "en": "And Cush begot Nimrod; he began to be a mighty one in the earth.",
+    "he": "\"הוּא הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ הוּא הָיָה גִבֹּר צַיִד לִפְנֵי ה'\""
+   }
+  },
+  {
+   "heRef": "בראשית רבה כ״ג:ז׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 23:7",
+   "text": {
+    "en": "",
+    "he": "(<a class=\"refLink\" href=\"/Genesis 4\" data-ref=\"Genesis 4\" target=\"_blank\">בראשית ד'</a>): \"אז <b>הוחל</b> לקרא בשם ה'\". אמר ר' סימון: בשלשה מקומות נאמר בלשון הזה לשון מרד: (ד' כ\"ו) \"אז <b>הוחל</b> לקרא בשם ה'\"; (<a class=\"refLink\" href=\"/Genesis 6:1\" data-ref=\"Genesis 6:1\" target=\"_blank\">בראשית ו' א'</a>) \"ויהי כי <b>החל</b> אדם לרב על פני האדמה ובנות יולדו להם...\"; (י' ח') \"הוא <b>החל</b> להיות גבור בארץ\".\nאיתיבון (ומקשים על זה): והכתיב (י\"א ו'): \"וזה <b>החילם</b> לעשות\"? (אם כן הם ארבעה מקומות ולא שלשה?) קיפח על ראשו של נמרוד ואמר: \"זה המרידן עליו!\" (<b>מתנות כהונה</b>: קפח – לשון הכאה; הקב\"ה הכה על ראשו של נמרוד: 'זה החילם והדריכם למרוד בי'; ונמרוד כבר חשב בין שלשה המקומות, \"הוא החל\" – ולכן לא חשב ארבעה מקומות)."
+   }
+  },
+  {
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פירוש מהרז\"ו למדרש רבה:</span><br><span style=\"color: rgb(51,51,51);\">\"הוחל\" אינו מלשון התחלה אלא מלשון חילול. השלושה מקומות הם בדור אנוש שעשו <b>עבודה זרה</b>. ופירוש 'הוחל' שעשו עבודת השם יתברך <b>חולין</b>. והשני בדור המבול וזה אצל גילוי עריות, והשלישי בדור הפלגה, שנאמר אצל נמרוד \"<b>החל</b> להיות גבור\", וזה בשפיכות דמים, שבגבורתו התגבר על החלושים והרגם וגזלם וחמסם.</span>"
+  },
+  {
+   "heRef": "רש\"י על בראשית י׳:ח׳:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 10:8:1",
+   "text": {
+    "en": "להיות גבור TO BE A MIGHTY ONE — Mighty in causing the whole world to rebel against the Holy One, blessed be He, by the plan he devised for the generation that witnessed the separation of the races (דור הפלגה) to build the Tower of Babel (Genesis Rabbah 23:7). ",
+    "he": "ד\"ה להיות גבור: להמריד כל העולם על הקב\"ה בעצת דור הפלגה (=בעצה שיעץ לבנות המגדל). "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י׳:ט׳:א׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 10:9:1",
+   "text": {
+    "en": "גבור ציד A MIGHTY HUNTER — He ensnared the minds of people by his words, misleading them to rebel against the Omnipresent (Genesis Rabbah 37:2).",
+    "he": "ד\"ה גבור ציד: צד דעתן של בריות בפיו והטען למרוד במקום. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י׳:ט׳:ב׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 10:9:2",
+   "text": {
+    "en": "‘לפני ה BEFORE THE LORD — intending purposely to provoke Him to His face",
+    "he": "ד\"ה לפני ה': מתכוון להקניטו על פניו."
+   }
+  },
+  {
+   "heRef": "גור אריה על בראשית י׳:ח׳:א׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Gur Aryeh on Bereishit 10:8:1",
+   "text": {
+    "en": "",
+    "he": "לפירוש דברי רש\"י אלה אומר גור אריה:<br>...ופשוטו של מקרא, שהיה מלך תקיף. מכל מקום בזה שמזכיר הכתוב תקפו וכוחו לפני ה', משמע שהיה ממריד בהקב\"ה, <b>דאין שייך גבורה לפני ה'</b>. והוא היה גיבור במקום שראוי לו הכנעה, זה רמז שתוקף שלו – תוקף המרידה, וענין מענין עבודה זרה, וכי בזה היה ממריד על הקב\"ה, ולפיכך נקרא גיבור ציד, שהגיבור ציד הוא בעל תחבולה וערמה ואינו הולך דרך תם וישר, וזה היה גם כן אומנותו, ומדכתיב \"לפני ה'\" בא לומר שהיה גם בעל תחבולה וערמה בענינים אלוקיים עד שהיה ממריד הבריות בו יתברך."
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1. התוכל להסביר למה הלך רש\"י במקום הראשון (ד' כ\"ו) וכן במקומנו בעקבות המדרש, ולא הלך בעקבותיו במקום השני (ו' א')?"
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. התוכל למצוא טעם שני – נוסף על טעמו של בעל גור אריה – מה היה הקושי בפסוקנו שגרם לרש\"י להביא כאן את דברי המדרש ולפרש את הפסוק שלא כמשמעו?"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. מניין למד המדרש לומר, שנמרוד היה זה שהשיא עצת המגדל לדורו?"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. מה קשה לרש\"י בד\"ה לפני ה'?"
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5. מה ראה לפרש מילים \"<b>לפני</b> ה'\" במלים \"על פניו\" – מה תיקן בזה?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6.  מקובלנו: רש\"י רגיל לפרש ביטוי קשה או מילה זרה או צורה קשה עם הופעתה הראשונה בתורה, אלא אם כן היה קושי מיוחד קשור בהופעת המילה או הביטוי במקום שני או שלישי. הסבר – מה גרם לרש\"י כאן, שלא פירש \"לפני א-לוהים\" בתחילת הפרשה (ו' י\"א) 'ותשחת הארץ לפני הא-לוהים' ופירשה במקומנו?"
+  },
+  {
+   "node": 25,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"שפה אחת ודברים אחדים\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:א׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:1",
+   "text": {
+    "en": "And the whole earth was of one language and of one speech.",
+    "he": "\"וַיְהִי כָל הָאָרֶץ שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים\""
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אברבנאל:</span><br><span style=\"color: rgb(51,51,51);\">...והיותר אמתי אצלי הוא, שבזמן ההוא היו שפה אחת, רצוני לומר, לשון אחת בכל בני אדם הנבראת במעשה בראשית כוללת לכולם, ושכן היו הדברים הנמצאים אצלם אחדים לכולם בשוה, כי לא היה לאדם פרטי נחלה ולא דבר אחר פרטי לשימושו, כי הכל היה אחד כולל ושוה לכולם, כמו הלשון. \nואמנם כשנטו לחידוש המלאכות בבנין העיר והמגדל, הסירו עצמן מן האחוה, ונעשו הקנינים והנחלות פרטיות, <b>ובאו לידי חילוף ויחוד</b> מתוך חמדתם לקחת וליחס כל אחד לעצמו דברים מיוחדים, ולומר (פרקי אבות) \"שלי שלי – ושלך שלך\", עד שמפני זה נפרדו איש מאחיו. \nוחז\"ל דרשו (בראשית רבה ל\"ח ז') \"ויהי בנסעם מקדם\", 'הסיעו עצמם מקדמונו של עולם', רצו בזה, שנסעו מן <b>המנהג הטבעי הקדום להשתמש ולהסתפק בדברים הטבעיים</b> ההכרחיים וילכו אחרי ההבל ויהבלו בבקשת <b>הדברים המלאכותיים למלאות תאותם במותרות</b>. ומפני שבזה הטרידו שכלם מידיעת האמתיות האלוהית, לכן דרשו, שהסיעו עצמן מקדמונו של עולם.</span>"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  במה שונה פירושו לפסוקנו מן הפירוש המקובל?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2. התוכל להסביר למה לא הביא רש\"י את המדרש המובא בדבריו לפסוקנו, והביאו לי\"ג י\"א ד\"ה מקדם?"
+  },
+  {
+   "node": 30,
+   "outsideText": "השווה לדברי אברנבאל אלה את דברי חז\"ל בחטא דור הפלגה."
+  },
+  {
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פרקי דר' אליעזר כ\"ד:</span><br><span style=\"color: rgb(51,51,51);\">שבע מעלות היו לו למגדל ממזרחו ושבע ממערבו. מעלים את הלבנים מכאן ויורדים מכאן. אם נפל אדם ומת, לא היו שמים לבם אליו, ואם נפלה לבנה אחת, היו יושבים ובוכים ואומרים: אוי לנו, אימתי תעלה אחרת תחתיה.</span>"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. הסבר את המקומות באברבנאל המסומנים בקו."
+  }
+ ],
+ "ssn": 1035,
+ "status": "public",
+ "summary": "1960 (תש\"כ)<br><a href=\"http://www.nechama.org.il/pdf/1035.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"כ - נמרוד ודור הפלגה",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

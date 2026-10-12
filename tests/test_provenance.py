@@ -1,14 +1,17 @@
 """Every quoted card traces to the checked harvest: no Hebrew typed by hand.
 
-Applies to cards carrying `cite` (written by research/scripts/build_bereshit.py), and
+Applies to cards carrying `cite` (written by research/scripts/build_<parsha>.py), and
 requires `cite` on every commentary and question card of a sheet that uses it at all.
 
 For each cited card:
 - the cited harvest item exists and is publishable (not excluded, not marked
   not-published, not an open triage item);
 - the card's Hebrew (tags stripped, whitespace collapsed) is a verbatim slice of the item's;
-- `en_basis` is "ours" or "sefaria"; a "sefaria" English must be the item's own English,
-  and then the card must quote the whole item (Sefaria translated the whole, not a slice).
+- `en_basis` is "ours", "sefaria" or "nataf"; a "sefaria" English must be the item's own
+  English, a "nataf" English must be R. Francis Nataf's published English of the item
+  (`en_nataf`, bilingual editions only), and either way the card must quote the whole item
+  (the translator translated the whole, not a slice). A Nataf card drops the leading question
+  number on both sides.
 """
 
 import json
@@ -21,6 +24,13 @@ from sheetmodel import ROOT, load_sheet, sheet_slugs
 
 def flat(t):
     return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', t or '')).strip()
+
+
+NUMBERING = re.compile(r'^\s*(?:\(?(?:\d+|[\u05D0-\u05D9])[.)]\s*)+')
+
+
+def unnumber(t):
+    return NUMBERING.sub('', t).strip()
 
 
 def find_item(harvest, i):
@@ -71,13 +81,16 @@ def test_quoted_cards_trace_to_harvest(slug):
             elif he not in flat(it['he']):
                 problems.append(f'{where}: Hebrew is not a verbatim slice of [{cite["i"]}]: «{he[:60]}…»')
             basis = st.get('en_basis')
-            if basis not in ('ours', 'sefaria'):
-                problems.append(f'{where}: en_basis must be "ours" or "sefaria", got {basis!r}')
-            if basis == 'sefaria':
-                if flat(st['text'].get('en')) != flat(it.get('en')):
-                    problems.append(f'{where}: en_basis sefaria but the English is not the item\'s own')
-                if he != flat(it['he']):
-                    problems.append(f'{where}: en_basis sefaria must quote the whole item (Sefaria translated the whole)')
+            if basis not in ('ours', 'sefaria', 'nataf'):
+                problems.append(f'{where}: en_basis must be "ours", "sefaria" or "nataf", got {basis!r}')
+            if basis in ('sefaria', 'nataf'):
+                own = it.get('en') if basis == 'sefaria' else it.get('en_nataf')
+                # A Nataf card drops the leading question number on both sides (layout, not words).
+                norm = unnumber if basis == 'nataf' else (lambda t: t)
+                if not own or flat(st['text'].get('en')) != norm(flat(own)):
+                    problems.append(f'{where}: en_basis {basis} but the English is not the item\'s own')
+                if he != norm(flat(it['he'])):
+                    problems.append(f'{where}: en_basis {basis} must quote the whole item (the translator translated the whole)')
     if problems:
         pytest.fail(f'{len(problems)} provenance problems:\n  ' + '\n  '.join(problems), pytrace=False)
 

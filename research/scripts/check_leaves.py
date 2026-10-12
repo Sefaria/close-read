@@ -1,7 +1,8 @@
 """Check one theme's leaves in isolation, with the real test functions (no data/ file needed).
 
-    python3 research/scripts/check_leaves.py garden          # all leaves in the theme
-    python3 research/scripts/check_leaves.py garden 1953     # one leaf
+    python3 research/scripts/check_leaves.py garden               # Bereshit theme, all leaves
+    python3 research/scripts/check_leaves.py garden 1953          # one leaf
+    python3 research/scripts/check_leaves.py noach flood 1952     # another parsha's leaves
 
 Builds the leaves into an in-memory linear sheet and runs tests/test_data.py and
 tests/test_provenance.py against it: word groups wrap, highlights resolve, English phrases
@@ -16,9 +17,11 @@ sys.path[:0] = [HERE, os.path.join(REPO, 'tests')]
 import pytest  # noqa: E402
 import sheetmodel, test_data, test_provenance  # noqa: E402
 
-theme = sys.argv[1]
-only = sys.argv[2] if len(sys.argv) > 2 else None
-mod = importlib.import_module(f'bereshit_leaves.{theme}')
+args = sys.argv[1:]
+parsha = args.pop(0) if os.path.isdir(os.path.join(HERE, f'{args[0]}_leaves')) else 'bereshit'
+theme = args[0]
+only = args[1] if len(args) > 1 else None
+mod = importlib.import_module(f'{parsha}_leaves.{theme}')
 sections = []
 for name in sorted(n for n in dir(mod) if n.startswith('leaf_')):
     if only and name != f'leaf_{only}':
