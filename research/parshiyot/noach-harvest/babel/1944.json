@@ -386,7 +386,7 @@
      "cite": "noach-scancheck/161942-1944.md §ב Q5 (on Rashi ד\"ה הן עם אחד; marked xx)",
      "triage": {
       "use": "scan",
-      "why": "scan-only question «מה קשה לו?», read by the checker"
+      "why": "scan-only question «מה קשה לו?», read by the checker; confirmed by Claude on the page image (2026-10-12)"
      }
     },
     {
@@ -422,7 +422,7 @@
      "cite": "noach-scancheck/161942-1944.md §ב Q7 (on Rashi ד\"ה ומשם הפיצם, עד \"לעולם הבא\")",
      "triage": {
       "use": "scan",
-      "why": "scan-only question «מניין לו שאינו כמשמעו?», read by the checker"
+      "why": "scan-only question «מניין לו שאינו כמשמעו?», read by the checker; confirmed by Claude on the page image (2026-10-12)"
      }
     }
    ]

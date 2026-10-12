@@ -258,8 +258,7 @@ the scan's reading. Five scan-only questions and two scan-only Rashi passages ar
 - 1952's verse list: 37:13–14, not 17:13–14;
 - 1958 §ג Q3 in her wording.
 
-Every inserted question was read on the scan by Claude, not just by a checker, except 1944's two
-short ones («מה קשה לו?», «מניין לו שאינו כמשמעו?»). **REVIEW.md is empty.**
+Every inserted question and passage was read on the scan by Claude as well as by a checker. **REVIEW.md is empty.**
 
 **Harvest fixes** (in `harvest_noach.py`; `harvest_bereshit.py` has the same three bugs, harmless
 there only because its differences were all triaged and its output reviewed):
