@@ -4,7 +4,8 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   const params = new URLSearchParams(window.location.search);
-  const sheetName = params.get('sheet');
+  // ?sheet=<slug>, or a generated share page (read/<slug>/) naming its sheet on <html>.
+  const sheetName = params.get('sheet') || document.documentElement.dataset.sheet;
 
   if (!sheetName) {
     // No sheet specified: show the homepage (js/home.js)

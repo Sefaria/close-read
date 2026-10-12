@@ -80,7 +80,7 @@ Build the file in one pass using a template based on the closest canonical examp
 
 ### Phase 4 — Register and verify
 
-1. Append a new entry to `data/index.json` with `{slug, title, author, description}`. Author is the original Sefaria author/anthologist when there is one (e.g. for a sheet); otherwise the text's tradition (e.g. `"Avtalyon"` for Avot 1:11) or omit if unclear.
+1. Append a new entry to `data/index.json` with `{slug, title, author, description}`. Author is the original Sefaria author/anthologist when there is one (e.g. for a sheet); otherwise the text's tradition (e.g. `"Avtalyon"` for Avot 1:11) or omit if unclear. Add the homepage fields `category` and a one-sentence `shows` (see docs/conversion-guide.md, Testing). Then run `python3 scripts/build_previews.py --images <slug>` for its share page `read/<slug>/` and link-preview image.
 2. Validate the JSON parses: `python3 -c "import json; json.load(open('data/<slug>.json'))"`.
 3. Validate every word-group Hebrew phrase actually occurs in its verse text — script in [references/hard-rules.md](references/hard-rules.md).
 4. Start the preview server (via `preview_start` against the launch config) and load `?sheet=<slug>`. Use `preview_eval` to confirm:

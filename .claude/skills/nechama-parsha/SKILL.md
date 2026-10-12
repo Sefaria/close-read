@@ -32,7 +32,8 @@ Two artifacts per parsha, and the JSON cites the pack:
    sheets, the design (themes + chosen gilyonot + chosen cruxes), per-leaf source
    notes. This is the audit trail. Every claim about Nechama in the JSON traces here.
 2. `data/<parsha>.json` — the **Close Read** that runs on the engine, plus an entry in
-   `data/index.json`.
+   `data/index.json` (with homepage `category` and `shows`), and its share page and
+   link-preview image from `python3 scripts/build_previews.py --images <parsha>`.
 
 ## Required reading before you start
 

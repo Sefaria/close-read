@@ -22,7 +22,9 @@ python3 -m http.server 8080
 # Open http://localhost:8080
 ```
 
-The default page (`/`) shows an index of available sheets. Load a specific sheet: `http://localhost:8080/?sheet=other-sheet-name`
+The default page (`/`) is the homepage. Load a specific sheet: `http://localhost:8080/?sheet=other-sheet-name`, or its share page `http://localhost:8080/read/other-sheet-name/`.
+
+**Share links and previews.** Link-preview crawlers don't run JS, so each sheet has a generated page at `read/<slug>/index.html` (a copy of `index.html` with `<base href="../../">`, `data-sheet`, and its own Open Graph tags) and an image in `assets/previews/`. Share `read/<slug>/` URLs; `?sheet=` still works but previews as the homepage. **Run `python3 scripts/build_previews.py` after any change to `index.html` (including `?v=` bumps) or `data/index.json`**, and add `--images <slug>` for a new sheet or a changed title, description or opening verse. `tests/test_data.py` fails while the pages are stale.
 
 When adding a new sheet, also add an entry to `data/index.json`, with a homepage `category` and a `shows` line saying what it demonstrates that the others don't (see [Conversion Guide](docs/conversion-guide.md#testing)). Retire a sheet from the homepage with `"listed": false`; it stays loadable and tested. The homepage hero video is recorded from the live Bereshit reading by `python3 scripts/record_hero.py` (needs ffmpeg); re-run it when Bereshit or the engine changes.
 
