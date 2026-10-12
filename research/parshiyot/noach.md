@@ -273,3 +273,66 @@ there only because its differences were all triaged and its output reviewed):
 the source's own text and record it in the theme trail.
 
 Verse texts for the parsha (plus Genesis 1) are cached in `noach-verses.json`.
+
+## 9. Stage 4–5: the garden (2026-10-12)
+
+`data/noach.json`, assembled by `research/scripts/build_noach.py`:
+- an overview, then a fork with 5 themes, each with an intro and a fork of 3 years;
+- 15 leaves, 58 sections, 474 steps;
+- no manuscript images (§7a).
+
+Five drafters wrote the leaves, one per theme, in `research/scripts/noach_leaves/<theme>.py`.
+Their paper trails (each card's harvest item and slice, omissions and why, translation notes) are
+in [`noach-leaves/`](noach-leaves/), with my review fixes appended to each.
+
+**Tests.** The full suite passes:
+- `test_data`;
+- `test_provenance` (every quoted card is a verbatim slice of the checked harvest);
+- `test_render`: every leaf path at 1440×900 and 390×844, and the branch clicks.
+
+One unrelated phone test (Pirkei Avot) failed once under load and passed on its own twice.
+
+**Engine and test changes made for this build:**
+- **Phones:** comparison panels get tighter padding (`css/close-read.css`). A comparison panel
+  spent ~210px of the 315px phone panel on padding and labels, so even Hebrew-only at the 14px
+  floor couldn't fit her שווה tables.
+- **`test_render` breadcrumb headroom:** now measured against the pill's max width. The pill shrinks
+  to fit short crumbs, so the old check reported ~8px for any short title.
+- **`nechama_lib`** is the shared, parsha-agnostic library, and `bereshit_lib`/`noach_lib` point it at
+  their parsha. Bereshit rebuilds byte-identically.
+- **New `en_basis: "nataf"`:** R. Francis Nataf's published English of her own words (1970). The
+  leading question number is dropped on both sides, because the digitizer's Hebrew numbers and
+  Nataf's English numbers disagree with each other and with her scan.
+
+**Changes to her tables, made for the phone panel (in the leaf code and trails):**
+- 1947 §א drops her 6:18 and 6:21 rows and the end of 6:20.
+- 1948 §ב and 1970 §א show the parallel phrases as fragments joined with « … »: 9:1–3 against
+  1:28–29. She cites 1:28–30 and 9:1–4.
+
+### Open for Lev (judgment calls, not bugs)
+
+1. **The overview card about her** ("She wrote on this parsha every year…"): the same open
+   question as Bereshit's. It's kept for consistency.
+2. **Trimmed comparison tables** (above): are fragments acceptable on phones, or should the full
+   ranges come back on desktop only? That would be an engine change.
+3. **1957 HaKtav VeHaKabbalah:** her print reads «אם לדעת הנרצח»; it's corrected to the source's
+   «לרעת», which the contrast with «לטובת» requires.
+4. **1964 §א Q5:** her scan reads «ולמה לא לפתח»; the digitized «לו» is used as the sense.
+5. **1960 Abarbanel «להשתחרר על עמו»** (scan and digitization agree) is translated as if «להשתרר»,
+   "to make himself master".
+6. **1951 card labeled "Shadal":** it's her sentence reporting his view, not his words (the
+   Bereshit 1943 Malbim precedent).
+7. **1944 §ב** renders only her item 2. Q5 and Q7 were restored from the scan but omitted for
+   density, since §א already shows those Rashis.
+8. **1954 §א:** her questions show «1.», «ב)», «3.», «4.» (one restored from the scan, three as
+   digitized; her scan letters all four). A narration card gives the rows of Cassuto's division
+   that her own scaffold fills in (6:9–12, 6:13–22, from 7:1).
+9. **Translations worth a look** (listed per leaf in the trails): Ibn Kaspi throughout; Abarbanel's
+   «חילוף ויחוד»; Radak's «והוא… והוא» (1957 Q2 asks whom they refer to); 1945 Q3's verse
+   (scan «י"ז[?]», bound to 7:14).
+
+### Follow-ups (not done here)
+
+- `harvest_bereshit.py` has the three bugs fixed in `harvest_noach.py` (§8). Its output was
+  reviewed, so nothing shipped wrong, but the template should be fixed before the next parsha.
+- `underline()` marks only the first occurrence; 1957's Radak needed a local `underline_every`.

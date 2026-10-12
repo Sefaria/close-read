@@ -298,8 +298,8 @@ def leaf_1948(prefix='bl-1948'):
     # §ב — scan: the letter ב only, then her one question (marked xx).
     secs.append({'id': f'{prefix}-b', 'titleCard': False, 'title': {'en': 'To Adam, and to Noah'},
                  'primaryText': comparison_1948(), 'steps': [
-        narration(f'{prefix}-b-intro', 'Genesis 9:1–3, God’s blessing to Noah and his sons, beside '
-                  'Genesis 1:28–30, His blessing to Adam.'),
+        narration(f'{prefix}-b-intro', 'God’s blessing to Noah and his sons, beside His blessing to Adam: what each says of '
+                  'the animals.'),
         narration(f'{prefix}-b-adam', '“Rule the fish of the sea.”', highlight=['urdu']),
         narration(f'{prefix}-b-noah', '“The fear and the dread of you.”', highlight=['mora']),
         question(f'{prefix}-q-b', h, 21, 'Compare God’s blessing to the sons of Noah with God’s blessing to '
@@ -480,8 +480,7 @@ def leaf_1970(prefix='bl-1970'):
     # §א — scan: «א. השוה את דברי ה' הראשונים…», then her two-column table.
     secs.append({'id': prefix, 'title': {'en': '1970 · God’s First Words'},
                  'primaryText': comparison_1970(), 'steps': [
-        narration(f'{prefix}-intro', 'Genesis 1:28–30, God’s first words to Adam, beside Genesis 9:1–4, His '
-                  'first words to Noah and his sons.'),
+        narration(f'{prefix}-intro', 'God’s first words to Adam, beside His first words to Noah and his sons.'),
         # Nataf's English here has a typo («Gods's»), so this one card is our translation.
         question(f'{prefix}-q-a0', h, 1, 'Compare God’s first words to Adam after the creation of the world '
                  'with God’s first words to Noah and his sons after the flood:'),
