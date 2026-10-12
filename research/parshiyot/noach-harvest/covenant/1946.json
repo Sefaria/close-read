@@ -437,10 +437,18 @@
     {
      "i": 37,
      "kind": "question",
-     "he": "6. באיזו הוראה יש לפרש את המלה \"כי\" בצירוף \"כי יצר לב...\" לפי הירש?",
+     "he": "6. באיזה הוראה יש לפרש את \"כי\" של \"כי יצר לב...\" לפי הירש?",
      "scan_status": "DIFF",
      "digitized_he": "6. באיזו הוראה יש לפרש את המלה \"כי\" בצירוף \"כי יצר לב...\", לפי הירש?",
-     "scan_fixes": [],
+     "scan_fixes": [
+      {
+       "digitized": "באיזו הוראה יש לפרש את המלה \"כי\" בצירוף",
+       "scan": "באיזה הוראה יש לפרש את \"כי\" של",
+       "class": "triaged",
+       "cite": "noach-scancheck/161548-1946.md [37]; triage.json",
+       "why": "triage: her wording from the scan; the checker fragment did not apply (a comma)"
+      }
+     ],
      "scan_unapplied": [
       {
        "digitized": "באיזו הוראה יש לפרש את המלה \"כי\" בצירוף \"כי יצר לב...\", לפי הירש?",
@@ -448,7 +456,7 @@
        "class": "substantive"
       }
      ],
-     "basis": "digitization",
+     "basis": "scan",
      "triage": {
       "use": "scan",
       "why": "her wording: «באיזה הוראה יש לפרש את \"כי\" של \"כי יצר לב...\" לפי הירש?»"

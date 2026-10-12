@@ -116,6 +116,46 @@
    "to": "השפה הגרמנית, הצרפתית, וכו'. ואילו \"לשון\" היא הדיאלקט, דרך הלשון, הגוון המיוחד של השפה...",
    "cite": "160443-1968.md [10]",
    "why": "a sentence of Hirsch she printed, dropped by the digitization"
+  },
+  {
+   "sheet": 161402,
+   "i": 20,
+   "from": "ואמר לו לעשות תיבה",
+   "to": "ואמר לי לעשות תיבה",
+   "cite": "161402-1954.md [20]; read by Claude on the page image (2026-10-12)",
+   "why": "Noah is speaking («כדי שאמלט אני וביתי»); the scan reads «לי»"
+  },
+  {
+   "sheet": 161105,
+   "i": 12,
+   "from": "אם לדעת הנרצח",
+   "to": "אם לרעת הנרצח",
+   "cite": "161105-1957.md [12]; scan read by Claude (2026-10-12)",
+   "why": "her print reads «לדעת» (underlined); HaKtav VeHaKabbalah (Sefaria) reads «לרעת», and the contrast with «לטובת הנרצח» requires it: a slip in her typing, corrected to the source"
+  },
+  {
+   "sheet": 161548,
+   "i": 37,
+   "from": "באיזו הוראה יש לפרש את המלה \"כי\" בצירוף",
+   "to": "באיזה הוראה יש לפרש את \"כי\" של",
+   "cite": "161548-1946.md [37]; triage.json",
+   "why": "triage: her wording from the scan; the checker fragment did not apply (a comma)"
+  },
+  {
+   "sheet": 160639,
+   "i": 5,
+   "from": "אמר רק אבהו",
+   "to": "אמר ר' אבהו",
+   "cite": "160639-1964.md [5]",
+   "why": "digitizer slip; the scan reads «ר' אבהו» (Bereshit Rabbah 33:6)"
+  },
+  {
+   "sheet": 161581,
+   "i": 14,
+   "from": "אותה הברית",
+   "to": "אות הברית",
+   "cite": "161581-1951.md [14]",
+   "why": "the scan reads «אות הברית» (the sign of the covenant, Abarbanel's subject)"
   }
  ]
 }

@@ -12,6 +12,12 @@
     "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions."
   },
   {
+    "slug": "noach",
+    "title": { "he": "פרשת נח", "en": "Parashat Noach" },
+    "author": { "he": "נחמה ליבוביץ", "en": "Nechama Leibowitz" },
+    "description": "Fifteen gilyonot, five passages, thirty years. Choose a passage, choose a year, and read it through her sources and questions."
+  },
+  {
     "slug": "learning-to-read-midrash-2",
     "title": { "en": "Learning to Read Midrash: King and Warrior" },
     "author": { "en": "Simi Peters" },

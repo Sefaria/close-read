@@ -35,8 +35,8 @@ THEMES = [
          'vayishaer': ('וישאר אך נח', 'Only Noah was left'),
          'vayizkor': ('ויזכר אלהים את נח', 'God remembered Noah'),
      }),
-     'intro': [('The waters rise, and everything is blotted out.', ['vayimach']),
-               ('Only Noah is left, and those with him in the ark.', ['vayishaer']),
+     'intro': [('The waters rise, and stay.', None),
+               ('Everything is blotted out. Only Noah is left, and those with him in the ark.', ['vayimach', 'vayishaer']),
                ('And then: God remembered Noah.', ['vayizkor'])]},
     {'id': 'covenant', 'abbr': 'cv', 'label': 'Never Again', 'range': 'Genesis 8:20–9:17',
      'years': ['1946', '1951', '1964'],
@@ -55,8 +55,8 @@ THEMES = [
          'damchem': ('ואך את דמכם לנפשתיכם אדרש', 'But for your own life-blood I will require a reckoning'),
          'tzelem': ('כי בצלם אלהים עשה את האדם', 'For in the image of God Was humankind made'),
      }),
-     'intro': [('A new blessing, for a world begun again.', ['vayevarech']),
-               ('With it, a reckoning for blood.', ['damchem']),
+     'intro': [('A world begun again, and a new blessing for it.', None),
+               ('With the blessing, a reckoning for blood.', ['vayevarech', 'damchem']),
                ('And the reason: the image of God.', ['tzelem'])]},
     {'id': 'babel', 'abbr': 'bb', 'label': 'Babel', 'range': 'Genesis 10:1–11:9',
      'years': ['1944', '1960', '1968'],
@@ -65,13 +65,29 @@ THEMES = [
          'migdal': ('נבנה לנו עיר ומגדל וראשו בשמים', 'let us build us a city, and a tower with its top in the sky'),
          'balal': ('כי שם בלל יהוה שפת כל הארץ', 'because there the Lord confounded the speech of the whole earth'),
      }),
-     'intro': [('One language, and one plan.', ['safa']),
-               ('A city, and a tower with its top in the sky.', ['migdal']),
+     'intro': [('One language, and one plan.', None),
+               ('The same words, and a city with a tower whose top is in the sky.', ['safa', 'migdal']),
                ('And the name the place was given.', ['balal'])]},
 ]
 
-# One line per leaf for its branch button: the passage or question it explores. Written with the leaves.
-BLURBS = {}
+# One line per leaf for its branch button: the passage or question it explores.
+BLURBS = {
+    '1947': 'God speaks to Noah twice, as Elohim and as the Lord; then “toledot,” and “in his age.”',
+    '1954': 'The story’s twelve paragraphs, “all flesh” for Rashi and Ramban, and the ark as a warning.',
+    '1958': '“Righteous in his generations”: praise or blame, Noah beside Abraham, and the robbery that sealed the flood.',
+    '1945': '“And the Lord shut him in”: two divine names, the stages of the rising waters, and who shut the ark.',
+    '1952': '“God remembered Noah,” the dove that found no rest, and whether Noah should have waited to be told to leave.',
+    '1962': 'When did God remember Noah: after the hundred and fifty days, or before? And what Noah’s offering meant.',
+    '1946': '“Evil from youth”: why the reason to destroy becomes the reason never to again.',
+    '1951': 'Was the rainbow new after the Flood, why “with you” keeps repeating, and how God “remembers.”',
+    '1964': 'One word, “taraf,” the youth of man and of the world, and whether the earth will end.',
+    '1948': '“Of every animal I will require it”: can an animal be held to account for human blood?',
+    '1957': 'A reckoning for blood, and the image of God: the murdered, the murderer, or the judge?',
+    '1970': 'God’s first words to Adam and to Noah: meat is given, and blood is held back.',
+    '1944': '“The same words”: what the builders of the tower did wrong, and why the Lord came down to look.',
+    '1960': 'Nimrod, the first mighty one, and Abarbanel’s city: one language, one sin.',
+    '1968': 'Each with its language: the nations divide before Babel, a city and a tower, and “nothing out of their reach.”',
+}
 
 
 def leaf_sections(theme, year):

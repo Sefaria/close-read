@@ -1015,7 +1015,17 @@ body {
 
   .primary-text-content.comparison-mode {
     flex-direction: column;
-    gap: 1rem;
+    gap: 0.6rem;
+  }
+
+  /* The 45vh phone panel has little room: keep the two boxes tight so their text, not their
+     padding, gets the height. */
+  .comparison-side {
+    padding: 0.6rem 0.9rem;
+  }
+
+  .comparison-side .primary-ref {
+    margin-bottom: 0.35rem;
   }
 
   /* Phones: one caption line, no credit (the ref label still links out). */

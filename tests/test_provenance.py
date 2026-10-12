@@ -10,7 +10,8 @@ For each cited card:
 - `en_basis` is "ours", "sefaria" or "nataf"; a "sefaria" English must be the item's own
   English, a "nataf" English must be R. Francis Nataf's published English of the item
   (`en_nataf`, bilingual editions only), and either way the card must quote the whole item
-  (the translator translated the whole, not a slice).
+  (the translator translated the whole, not a slice). A Nataf card drops the leading question
+  number on both sides.
 """
 
 import json
@@ -23,6 +24,13 @@ from sheetmodel import ROOT, load_sheet, sheet_slugs
 
 def flat(t):
     return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', t or '')).strip()
+
+
+NUMBERING = re.compile(r'^\s*(?:\(?(?:\d+|[\u05D0-\u05D9])[.)]\s*)+')
+
+
+def unnumber(t):
+    return NUMBERING.sub('', t).strip()
 
 
 def find_item(harvest, i):
@@ -77,9 +85,11 @@ def test_quoted_cards_trace_to_harvest(slug):
                 problems.append(f'{where}: en_basis must be "ours", "sefaria" or "nataf", got {basis!r}')
             if basis in ('sefaria', 'nataf'):
                 own = it.get('en') if basis == 'sefaria' else it.get('en_nataf')
-                if not own or flat(st['text'].get('en')) != flat(own):
+                # A Nataf card drops the leading question number on both sides (layout, not words).
+                norm = unnumber if basis == 'nataf' else (lambda t: t)
+                if not own or flat(st['text'].get('en')) != norm(flat(own)):
                     problems.append(f'{where}: en_basis {basis} but the English is not the item\'s own')
-                if he != flat(it['he']):
+                if he != norm(flat(it['he'])):
                     problems.append(f'{where}: en_basis {basis} must quote the whole item (the translator translated the whole)')
     if problems:
         pytest.fail(f'{len(problems)} provenance problems:\n  ' + '\n  '.join(problems), pytrace=False)

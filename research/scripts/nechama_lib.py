@@ -81,6 +81,14 @@ def cut(it, start=None, stop=None):
     return he[a:b].strip()
 
 
+NUMBERING = re.compile(r'^\s*(?:\(?(?:\d+|[\u05D0-\u05D9])[.)]\s*)+')
+
+
+def unnumber(t):
+    """Drop a leading question number ("2.", "(ב)", "3)"): layout, not words."""
+    return NUMBERING.sub('', t).strip()
+
+
 def underline(he, span):
     assert span in he, f'underline span not in text: {span!r}'
     return he.replace(span, f'<u>{span}</u>', 1)
@@ -116,12 +124,16 @@ def commentary(id, h, i, source, label_he, label_en, en, en_basis, he=None, ref=
 
 
 def question(id, h, i, en, start=None, stop=None, highlight=None, effect='pulse', en_basis='ours'):
-    """en=None with en_basis 'nataf' uses Nataf's published English of the whole item."""
+    """en=None with en_basis 'nataf' uses Nataf's published English of the whole item. Its leading
+    number is dropped on both sides: in the bilingual edition the digitizer's Hebrew numbers and
+    Nataf's English numbers disagree with each other and with her scan, which letters them."""
     it, cite = item(h, i)
+    he = cut(it, start, stop)
     if en_basis == 'nataf':
         assert start is None and stop is None, 'Nataf translated the whole item; quote it whole'
-        en = it['en_nataf'] if en is None else en
-    s = {'id': id, 'type': 'question', 'text': {'he': cut(it, start, stop), 'en': en},
+        en = unnumber(it['en_nataf'] if en is None else en)
+        he = unnumber(he)
+    s = {'id': id, 'type': 'question', 'text': {'he': he, 'en': en},
          'cite': cite, 'en_basis': en_basis}
     if highlight:
         s['highlight'] = highlight
