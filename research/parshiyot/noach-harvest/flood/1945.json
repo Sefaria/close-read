@@ -1,0 +1,474 @@
+{
+ "sheet_id": 161721,
+ "year_g": "1945",
+ "year_he": "תש\"ה",
+ "theme": "flood",
+ "title": "פרשת נח תש\"ה - דור המבול",
+ "sefaria_url": "https://www.sefaria.org/sheets/161721",
+ "pdf_url": "https://www.nechama.org.il/pdf/1070.pdf",
+ "scancheck": "noach-scancheck/161721-1945.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. שאלות מבנה וסגנון",
+   "header_digitized": "א. שאלות מבנה וסגנון",
+   "items": [
+    {
+     "i": 1,
+     "kind": "text",
+     "he": "1. נסה לבאר למה שנה הכתוב בפרקנו מן הפרק הקודם.",
+     "scan_status": "DIFF",
+     "digitized_he": "נסה לבאר למה שינה הכתוב בפרקנו מן הפרק הקודם:",
+     "scan_fixes": [
+      {
+       "digitized": "נסה לבאר למה שינה הכתוב בפרקנו מן הפרק הקודם:",
+       "scan": "1xx. נסה לבאר למה שנה הכתוב בפרקנו מן הפרק הקודם.",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "שינה … מן הפרק הקודם:",
+       "scan": "1xx. … שנה … מן הפרק הקודם.",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 2,
+     "kind": "text",
+     "he": "פרק ו' פסוק י\"א:\n\"וַתִּשָּׁחֵת הָאָרֶץ לִפְנֵי הָאֱ-לֹהִים\"",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "פרק ו' פסוק י\"א: … / פסוק י\"ב: … / פסוק י\"ג: …",
+       "scan": "ך[?] י\"א … - י\"ב … - י\"ג …",
+       "class": "substantive"
+      },
+      {
+       "digitized": "פרק",
+       "scan": "פסוק",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "not-published",
+      "why": "verse labels; the verses are shown in the panel"
+     },
+     "publish": false
+    },
+    {
+     "i": 3,
+     "kind": "text",
+     "he": "פסוק י\"ב:\n\"וַיַּרְא אֱ-לֹהִים...\"",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "text",
+     "he": "פסוק י\"ג:\n\"וַיֹּאמֶר אֱ-לֹהִים... קֵץ כָּל בָּשָׂר...\"",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Rashi on Genesis 7:5:1",
+     "he": "\"וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים\"",
+     "en": "ויעש נח AND NOAH DID — This refers to his coming to the Ark.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "source",
+     "ref": "Genesis 7:1",
+     "he": "\"וַיֹּאמֶר ה' לְנֹחַ בֹּא אַתָּה... וַיַּעַשׂ, נֹחַ כְּכֹל אֲשֶׁר צִוָּהוּ ה'\"",
+     "en": "And the LORD said unto Noah: ‘Come thou and all thy house into the ark; for thee have I seen righteous before Me in this generation.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "ויאמר ה' לנח בא אתה... ויעש, נח ככל אשר צוהו ה'",
+       "scan": "לעומת זאת ז': ויאמר ה' לנח בא אתה.. ה'. ויעש נח ככל אשר צוהו ה'.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "2. ולמה שינה שוב בפרקנו פסוק ט\"ז:\n\"כַּאֲשֶׁר צִוָּה אֹתוֹ אֱ-לֹהִים\"?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "2. ולמה שינה שוב בפרקנו פסוק ט\"ז:\"כאשר צוה אותו אלהים\"?",
+       "scan": "2xx. ולמה שנה שוב בפרקנו פסוק ט\"ז כאשר צוה אותו אלוקים.",
+       "class": "substantive"
+      },
+      {
+       "digitized": "ולמה שינה שוב … ט\"ז:\"כאשר צוה אותו אלהים\"?",
+       "scan": "2xx. ולמה שנה שוב בפרקנו פסוק ט\"ז כאשר צוה אותו אלוקים.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Genesis 7:14",
+     "he": "הֵמָּה וְכָל הַחַיָּה לְמִינָהּ וְכָל הַבְּהֵמָה לְמִינָהּ וְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ לְמִינֵהוּ וְכָל הָעוֹף לְמִינֵהוּ כֹּל צִפּוֹר כָּל כָּנָף\"",
+     "en": "they, and every beast after its kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after its kind, and every fowl after its kind, every bird of every sort.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "question",
+     "he": "למה הזכיר הכתוב את העופות בסוף, שלא כסדר בריאתן בפרק א' כ-כ\"ה?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "למה הזכיר הכתוב את העופות בסוף, שלא כסדר בריאתן בפרק א' כ-כ\"ה?",
+       "scan": "3. י\"ז[?]. למה הזכיר הכתוב את העופות בסוף שלא כסדר בריאתן א כ-כ/ה?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בסוף, שלא כסדר בריאתן בפרק א' כ-כ\"ה?",
+       "scan": "3. י\"ז[?]. … בסוף שלא כסדר בריאתן א כ-כ/ה?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 10,
+     "kind": "text",
+     "he": "הסבר את הסדר השונה בפסוקים הבאים:",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Genesis 7:21",
+     "he": "\"בָּעוֹף וּבַבְּהֵמָה וּבַחַיָּה וּבְכָל הַשֶּׁרֶץ... וְכֹל הָאָדָם\"",
+     "en": "And all flesh perished that moved upon the earth, both fowl, and cattle, and beast, and every swarming thing that swarmeth upon the earth, and every man;",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "source",
+     "ref": "Genesis 7:23",
+     "he": "\" מֵאָדָם עַד בְּהֵמָה עַד רֶמֶשׂ וְעַד עוֹף הַשָּׁמַיִם\"",
+     "en": "And He blotted out every living substance which was upon the face of the ground, both man, and cattle, and creeping thing, and fowl of the heaven; and they were blotted out from the earth; and Noah only was left, and they that were with him in the ark.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 13,
+     "kind": "source",
+     "ref": "Genesis 7:17-20",
+     "he": "\"(יז) וַיְהִי הַמַּבּוּל אַרְבָּעִים יוֹם עַל הָאָרֶץ וַיִּרְבּוּ הַמַּיִם וַיִּשְׂאוּ אֶת הַתֵּבָה וַתָּרָם מֵעַל הָאָרֶץ: (יח) וַיִּגְבְּרוּ הַמַּיִם וַיִּרְבּוּ מְאֹד עַל הָאָרֶץ וַתֵּלֶךְ הַתֵּבָה עַל פְּנֵי הַמָּיִם: (יט) וְהַמַּיִם גָּבְרוּ מְאֹד מְאֹד עַל הָאָרֶץ וַיְכֻסּוּ כָּל הֶהָרִים הַגְּבֹהִים אֲשֶׁר תַּחַת כָּל הַשָּׁמָיִם: (כ) חֲמֵשׁ עֶשְׂרֵה אַמָּה מִלְמַעְלָה גָּבְרוּ הַמָּיִם וַיְכֻסּוּ הֶהָרִים:\"",
+     "en": "And the flood was forty days upon the earth; and the waters increased, and bore up the ark, and it was lifted up above the earth. And the waters prevailed, and increased greatly upon the earth; and the ark went upon the face of the waters. And the waters prevailed exceedingly upon the earth; and all the high mountains that were under the whole heaven were covered. Fifteen cubits upward did the waters prevail; and the mountains were covered.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "text",
+     "he": "שים לב לתאור",
+     "scan_status": "DIFF",
+     "digitized_he": "שים לב לתיאור:",
+     "scan_fixes": [
+      {
+       "digitized": "שים לב לתיאור:",
+       "scan": "שים לב לתאור",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "בכמה שלבים מתוארת הצפת הארץ בתקופת ארבעים היום בפסוקים אלה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "מה ההבדל בין שני הפעלים הנזכרים בפסוקים: ר,ב,ה – ג,ב,ר?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "source",
+     "ref": "Ramban on Genesis 7:16:1",
+     "he": "וטעם יגברו המים, והמים גברו: שנתרבו מאוד, כי לריבוי הגדול יקרא הלשון גבורה, וכן \"ופשעיהם כי יתגברו\" (איוב ל\"ו ט'), רבו מאד, \"גבר חסדו על יראיו\" (תהלים ק\"ג י\"א), גדל, וכן \"ואם בגבורות שמונים שנה\" (שם צ' י'), בריבוי גדול. וייתכן כי טעם \"ויגברו\", שהיו באים בשטף ועוקרים האילנות ומפילים הבניינים, כי לכח יקראו גבורה, בעבור כי הגבורה בכח, וכן \"גם גברו חיל\" (איוב כ\"א ז'), \"והגביר ברית לרבים שבוע אחד\" (דניאל ט' כ\"ז), יעמידנו בחוזק. ולשון חכמים (תענית ב' א') גבורות גשמים, מפני שיורדין בגבורה. ואפשר שיהיה מזה \"ואם בגבורות שמונים שנה\", שאם היו עצמותיו וגופו חזקים, והוא בעל כח - יחיה שמונים. ואם כן יהיה פירוש \"גברו על הארץ\" שהיו בגבורתם כולם, אף על ההרים הגבוהים ושוטפים אותם.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "text",
+     "he": "שים לב לשני פרושיו!",
+     "scan_status": "DIFF",
+     "digitized_he": "שים לב לשני פירושיו!",
+     "scan_fixes": [
+      {
+       "digitized": "שים לב לשני פירושיו!",
+       "scan": "שים לב לשני פרושיו!",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לשני פירושיו!",
+       "scan": "לשני פרושיו!",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 19,
+     "kind": "source",
+     "ref": "Genesis 7:21-24",
+     "he": "\"(כא) וַיִּגְוַע כָּל בָּשָׂר הָרֹמֵשׂ עַל הָאָרֶץ בָּעוֹף וּבַבְּהֵמָה וּבַחַיָּה וּבְכָל הַשֶּׁרֶץ הַשֹּׁרֵץ עַל הָאָרֶץ וְכֹל הָאָדָם: (כב) כֹּל אֲשֶׁר נִשְׁמַת רוּחַ חַיִּים בְּאַפָּיו מִכֹּל אֲשֶׁר בֶּחָרָבָה מֵתוּ: (כג) וַיִּמַח אֶת כָּל הַיְקוּם אֲשֶׁר עַל פְּנֵי הָאֲדָמָה מֵאָדָם עַד בְּהֵמָה עַד רֶמֶשׂ וְעַד עוֹף הַשָּׁמַיִם וַיִּמָּחוּ מִן הָאָרֶץ וַיִּשָּׁאֶר אַךְ נֹחַ וַאֲשֶׁר אִתּוֹ בַּתֵּבָה: (כד) וַיִּגְבְּרוּ הַמַּיִם עַל הָאָרֶץ חֲמִשִּׁים וּמְאַת יוֹם:\"",
+     "en": "And all flesh perished that moved upon the earth, both fowl, and cattle, and beast, and every swarming thing that swarmeth upon the earth, and every man; all in whose nostrils was the breath of the spirit of life, whatsoever was in the dry land, died. And He blotted out every living substance which was upon the face of the ground, both man, and cattle, and creeping thing, and fowl of the heaven; and they were blotted out from the earth; and Noah only was left, and they that were with him in the ark. And the waters prevailed upon the earth a hundred and fifty days.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "על ידי אלו אמצעים ספרותיים נוצר בלב הקורא הרושם המחריד של כיליון גמור?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "על ידי אלו אמצעים ספרותיים נוצר בלב הקורא הרושם המחריד של כיליון גמור?",
+       "scan": "ע\"י אלו אמצעים ספרותיים נוצר בלב הקורא הרשם המחריד של כליון גמור?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "על ידי … הרושם המחריד של כיליון גמור?",
+       "scan": "ע\"י … הרשם המחריד של כליון גמור?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "דור המבול",
+   "header_digitized": "ב. דור המבול - שאלות ברש\"י",
+   "items": [
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Rashi on Genesis 7:13:1",
+     "he": "ד\"ה בעצם: לימדך הכתוב שהיו בני דורו אומרים: אילו אנו רואים אותו נכנס לתיבה, אנו שוברין אותה והורגין אותו. אמר הקדוש ברוך הוא: אני מכניסו לעיני כולם, ונראה דבר מי יקום.",
+     "en": "בעצם היום הזה IN THE SELFSAME DAY — Scripture teaches you that the people of his generation said: “If we see him enter the Ark we will smash it up and kill him”. The Holy One, blessed be He, thereupon said, ‘‘I will let him enter before the eyes of everyone and we shall see whose word prevails” (Genesis Rabbah 32:8).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "source",
+     "ref": "Rashi on Genesis 7:16:1",
+     "he": "ד\"ה ויסגור ה' בעדו: הגין עליו שלא ישברוה, הקיף התיבה דובים ואריות, והיו הורגים בהם.",
+     "en": "ויסגור ה' בעדו AND THE LORD SHUT HIM IN — He protected him so that they could not smash up the Ark (cf. 5:13): He surrounded the Ark (thus enclosing it סגר) with bears and lions which killed some of them (Genesis Rabbah 32:8). But the literal meaning of the text is: He shut the door in front of him against the waters. Similarly, wherever בעד occurs in the Scriptures it means כנגד in front of. E. g., (20:18) “The lord had made a closure in front of (בעד) every womb”; (2 Kings 4:4) “Close the door in front of thyself (בעדך) and in front of (ובעד) thy sons”; (Job 2:4) ‘‘skin in front of (as a protection for) (בעד) skin”; (Psalms 3:4) “a shield in front of me ובעדי”: (1 Samuel 12:19) “Pray (בעד) thy servants” which means כנגד in front of (i. e. on behalf of, as a protection for) thy servants.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Rashi on Ezekiel 14:14:1",
+     "he": "ד\"ה נח דניאל ואיוב: לפי שאלו שלושה ראו שלושה עולמות: נח ראה העולם בנוי וחרב ובנוי; ודניאל את בית המקדש או את עצמו תחילה שר על כל השרים, סוף הושלך לגוב אריות, וחזר לגדולתו; וכן איוב ראה את עצמו מיושב וחרב ומיושב. לפיכך הביאו דוגמא לדורו של יכניה שראו את הבית בבניינו וחורבנו ובנין שני וכן אמר להם הקדוש ברוך הוא: חיבה יתירה אני מראה לכם, אתם יכניה וגלותו. אילו תחטא לי אחת מארצות העובדי כוכבים ומזלות, וגזרתי עליהם אחת מארבעת שפטים אלה: או רעב או חיה רעה או חרב או דבר כמו שמסודרין בפרשה זו זה אחר זה, ושלושת הצדיקים אלו בתוכה, לא יצילו לא בן ולא בת, ואני אביא ארבעתן על ירושלים, ואשאיר לכם מבניכם אשר שם, ואף על פי שאינכם בתוכם. ולא שהם ראוים להצלה, אלא לנחם אתכם כשיגלו אצלכם ותראו מעשיהם הרעים ותתנחמו על הרעה אשר הבאתי עליהם, כי תראו שלא היו כדי לסובלם עוד, (הרי זה מהלך סדר פרשה זו כולה לשון זה אין ליישבו ונראה שאינו לשון הרב ועוד נראה שבספר זה חסר אחת מארבע שפטים מאז ועד אז, ס\"א מאו ועד או) \nלשון אחר: \"ארץ כי תחטא לי\" וגו' \"והיו שלושת האנשים האלה בתוכה נח דניאל ואיוב\": לפי ששלושת האנשים האלה הצילם הקדוש ברוך הוא משלושת (מארבעת) שפטים האלה, הזכיר הכתוב את אלו: נח נמלט משלושתן: מחיה רעה - מניין אתה אומר? - בשעה שנכנס לתיבה, ביקשו כל החיות ליכנס ולא הניחן הקדוש ברוך הוא, דכתיב \"ויסגור ה' בעדו\" (בראשית ז). אין ויסגור אלא מחיות כד\"א \"וסגר פום אריותא ולא חבלונני\" (דניאל ז'). ארי בא ליכנס, והיו שיניו כהות. דוב בא ליכנס, והיו רגליו מתערסלות כו' בבראשית רבה. מן הרעב - מניין? - שנאמר \"מן האדמה אשר איררה\" (בראשית ה'). צא ולמד בבראשית רבה במקום, שחושב עשרה רעבון שירדו לעולם, ותמצא שבימי נח היה אחד מהם, ומביא ראיה מן \"האדמה אשר אררה\". מן החרב - זה המבול, ועוד שהיו דורו מבקשין ליזדווג לו והיו אומרים: אין אנו מניחין אותו ליכנס, אלא שהצילו הקדוש ברוך הוא. אמר הקדוש ברוך הוא: אין אני מניחו ליכנס אלא בחצי היום. ודרגיש ליה ימלל הא הוא דכתיב \"בעצם היום הזה בא נח\" (בראשית ז') - בעיצומו של יום...",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "question",
+     "he": "1. תן הסבר פסיכולוגי להתנהגות דור המבול כפי שהיא מתוארת במדרש!",
+     "scan_status": "DIFF",
+     "digitized_he": "1. תן הסבר פסיכולוגי להתנהגות דור המבול, כפי שהיא מתוארת במדרש!",
+     "scan_fixes": [
+      {
+       "digitized": "התנהגות דור המבול, כפי שהיא",
+       "scan": "התנהגות דור המבול כפי שהיא",
+       "class": "spelling"
+      },
+      {
+       "digitized": "דור המבול, כפי",
+       "scan": "דור המבול כפי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "2. נסה להסביר, למה לא תארה התורה כלל את התנהגות דור המבול בבוא העונש?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. נסה להסביר למה לא תיארה התורה כלל את התנהגות דור המבול בבוא העונש?",
+     "scan_fixes": [
+      {
+       "digitized": "נסה להסביר למה לא תיארה התורה",
+       "scan": "נסה להסביר, למה לא תארה התורה",
+       "class": "spelling"
+      },
+      {
+       "digitized": "נסה להסביר למה לא תיארה",
+       "scan": "2xx. נסה להסביר, למה לא תארה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ה",
+   "header_scan": "ת\"א",
+   "header_digitized": "ה. \"ויסגור ה' בעדו\"",
+   "items": [
+    {
+     "i": 45,
+     "kind": "source",
+     "ref": "Genesis 7:16",
+     "he": "\"וַיִּסְגֹּר ה' בַּעֲדוֹ\"",
+     "en": "And they that went in, went in male and female of all flesh, as God commanded him; and the LORD shut him in.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 46,
+     "kind": "text",
+     "he": "תרגום אונקלוס:\nואגן ה' (במימרה) עלוהי.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 47,
+     "kind": "source",
+     "ref": "Malbim on Genesis 7:16:1",
+     "he": "ומאז היו כאלו יצאו מן העולם הישן שנגזר עליו השחת והם חוץ לעולם, עתידים ללכת על פני המים ומסוגרים מהשגחת ה' שלא יקרב אליהם המשחית, ועל זה אמר \"ויסגר ה' בעדו\", שזה ההשגחה הפרטית החופפת על נח.",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "ומאז היו כאילו יצאו מן העולם הישן שנגזר עליו השחת, והם חוץ לעולם, עתידים ללכת על פני המים ומסוגרים מהשגחת ה', שלא יקרב אליהם המשחית, ועל זה אמר \"ויסגור ה' בעדו\", שזה ההשגחה הפרטית החופפת על נח.",
+     "scan_fixes": [
+      {
+       "digitized": "כאילו … שנגזר עליו השחת, והם … מהשגחת ה', שלא … \"ויסגור ה' בעדו\"",
+       "scan": "כאלו … שנגזר עליו השחת והם … מהשגחת ה' שלא … \"ויסגר ה' בעדו\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 48,
+     "kind": "text",
+     "he": "נחלת יעקב:\nעל ידי שצווהו לעשות התיבה וליכנס לתוכה – וזו היא סגירתו.",
+     "scan_status": "DIFF",
+     "digitized_he": "נחלת יעקב:\nעל ידי שציוהו לעשות התיבה וליכנס לתוכה – וזו היא סגירתו.",
+     "scan_fixes": [
+      {
+       "digitized": "על ידי שציוהו לעשות התיבה",
+       "scan": "על ידי שצווהו לעשות התיבה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 49,
+     "kind": "question",
+     "he": "1. בפני איזה קושי עומדים שלשת המפרשים ובאיזה כוון הם משתדלים לתרצו כל אחד לפי דרכו?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. בפני איזה קושי עומדים שלושת המפרשים, ובאילו דרכים הם משתדלים לתרצו?",
+     "scan_fixes": [
+      {
+       "digitized": "1. בפני איזה קושי עומדים שלושת המפרשים, ובאילו דרכים הם משתדלים לתרצו?",
+       "scan": "1. בפני איזה קושי עומדים שלשת המפרשים ובאיזה כוון הם משתדלים לתרצו כל אחד לפי דרכו?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "שלושת המפרשים, ובאילו דרכים הם משתדלים לתרצו?",
+       "scan": "שלשת המפרשים ובאיזה כוון הם משתדלים לתרצו כל אחד לפי דרכו?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "her wording: «ובאיזה כוון הם משתדלים לתרצו כל אחד לפי דרכו?» (scan, clear; checked by Claude on the page image 2026-10-12)"
+     }
+    },
+    {
+     "i": 50,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 7:16:1-2",
+     "he": "ד\"ה והבאים זכר ונקבה: ... וטעם \"ויסגור ה' בעדו\" הוא לשבח שהסגירה בעת הזאת טובה יותר מהפתיחה. ובעת אחרת לגנאי יסגור על איש - \"ויסך אלוה בעדו\". והעד ראש הפסוק. והנה סגר הפתח וה' עזרו שלא נפתח בתיבה מקום, כי מיד היו כולם מתים?",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": "after 50",
+     "kind": "question",
+     "he": "2. במה שונה מהם ראב\"ע ט\"ז ד\"ה והבאים זכר ונקבה החל מן \"וטעם ויסגר ה' בעדו\" עד \"כלם מתים\"?",
+     "basis": "scan-only",
+     "cite": "noach-scancheck/161721-1945.md §ה Q2 (also read by Claude on the page image, 2026-10-12)",
+     "triage": {
+      "use": "scan",
+      "why": "scan-only question; read by the checker and by Claude on the page image (2026-10-12)"
+     }
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: Question numbers 1, 3, 4, 5, 6 are dropped. Only «2.» is kept.",
+  "§א: The difficulty marks are dropped: Q1 `xx`, Q2 `xx`.",
+  "§א: [5]: a verse pointer (כ\"ב) is linked as «Rashi on Genesis 7:5:1».",
+  "§א: [11]: the digitizer added «ובחיה» to her excerpt.",
+  "§א: [13], [19]: full verse texts for her bare «פסוקים …» pointers.",
+  "§ב: The difficulty mark on Q2 (`xx`) is dropped.",
+  "§ב: [22]–[24]: the full Rashi texts are the digitizer's. The scan has pointers only.",
+  "§ג: The difficulty marks are dropped: 1 `x`, 3 `x`. The pointer numbers 1, 2, 4 are dropped. 3 becomes «3)».",
+  "§ג: [32]: the Rashi text «להוציא מימיהן» is the digitizer's.",
+  "§ד: The difficulty mark on Q2 (`xx`) is dropped.",
+  "§ה: [46]: the Onkelos text is the digitizer's.",
+  "§ה: Her Q2 wording is dropped.",
+  "§ו: The question numbers 1 and 2 are dropped. Q2's ditto marks are written out."
+ ],
+ "needs_human": []
+}

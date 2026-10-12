@@ -1,0 +1,357 @@
+{
+ "sheet_id": 161402,
+ "year_g": "1954",
+ "year_he": "תשי\"ד",
+ "theme": "generation",
+ "title": "פרשת נח תשי\"ד - הסיבה למבול",
+ "sefaria_url": "https://www.sefaria.org/sheets/161402",
+ "pdf_url": "https://www.nechama.org.il/pdf/751.pdf",
+ "scancheck": "noach-scancheck/161402-1954.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. שאלת מבנה כללי: (underlined)",
+   "header_digitized": "א. למבנה פרשת המבול",
+   "items": [
+    {
+     "i": 1,
+     "kind": "text",
+     "he": "קאסוטו בספרו \"מנח עד אברהם\" בהקדמתו לפרשת נח, כותב:\nמבנה הפרשה בצורה שלפנינו הריהו מבנה משוכלל ומסודר לחלקיו ולפרטיו... הפרשה מתחלקת באופן ברור לשתים עשרה פיסקות. כל פיסקה כוללת אפיזודה מסויימת במהלך המאורעות, וכולן קשורות זו בזו באמצעות הקבלות במילים ובבטויים... שורת הפיסקות מתחלקת לשתי מערכות של שש פסקאות כל אחת: הרמוניה מספרית ראויה לתשומת לב.",
+     "scan_status": "DIFF",
+     "digitized_he": "קאסוטו, בספרו מנח עד אברהם, בהקדמתו לפרשת נח, כותב:\nמבנה הפרשה בצורה שלפנינו הריהו מבנה משוכלל ומסודר לחלקיו ולפרטיו... הפרשה מתחלקת באופן ברור לשתים עשרה פיסקות. כל פיסקה כוללת אפיזודה מסויימת במהלך המאורעות, וכולן קשורות זו בזו באמצעות הקבלות במילים ובבטויים... שורת הפיסקות מתחלקת לשתי מערכות של שש פסקאות כל אחת: הרמוניה מספרית ראויה לתשומת לב.",
+     "scan_fixes": [
+      {
+       "digitized": "קאסוטו, בספרו מנח עד אברהם, בהקדמתו",
+       "scan": "קאסוטו בספרו \"מנח עד אברהם\" בהקדמתו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 2,
+     "kind": "question",
+     "he": "1. עבור על פרשת המבול עד ט' י\"ז וסמן את החלוקה לשתים-עשרה פסקאות ואת שתי המערכות, ככה: מערכה א'               מערכה ב' 1) ו' ט' – ו' י\"ב            7) 2) ו' י\"ג – ו' כ\"ב           8) 3) ז' א' -                    9) 4)                            10) 5)                            11) 6)                            12)",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "1. עבור … לשתים-עשרה פסקאות",
+       "scan": "א) עבור … לשתים עשרה פסקאות",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 3,
+     "kind": "question",
+     "he": "ב) הסבר, מה המאחד את שש הפסקאות הראשונות למערכה אחת \"המתארים דרגה אחר דרגה פעולה אחת\". ומה המאחד שוב את שש הפסקאות האחרונות, \"המראה לנו, זה אחר זה, את השלבים השונים של פעולה אחת\" (קאסוטו).",
+     "scan_status": "DIFF",
+     "digitized_he": "2. הסבר, מה המאחד את שש הפסקאות הראשונות למערכה אחת \"המתארת דרגא אחר דרגא פעולה אחת\", ומה המאחד שוב את שש הפסקאות האחרונות, \"המראה לנו, זה אחר זה, את השלבים השונים של פעולה אחת\" (קאסוטו).",
+     "scan_fixes": [
+      {
+       "digitized": "2. הסבר, … \"המתארת דרגא אחר דרגא פעולה אחת\", ומה המאחד",
+       "scan": "ב) הסבר, … \"המתארים דרגה אחר דרגה פעולה אחת\". ומה המאחד",
+       "class": "substantive"
+      },
+      {
+       "digitized": "\"המתארת דרגא אחר דרגא פעולה אחת\", ומה",
+       "scan": "\"המתארים דרגה אחר דרגה פעולה אחת\". ומה",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "her quotation of Cassuto reads «המתארים דרגה אחר דרגה» (scan)"
+     }
+    },
+    {
+     "i": 4,
+     "kind": "question",
+     "he": "3. מהן ההקבלות במילים ובביטויים שבין הפסקאות השונות?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "3. מהן ההקבלות במילים ובביטויים",
+       "scan": "x ג) מה הן ההקבלות במלים ובבטויים",
+       "class": "substantive"
+      },
+      {
+       "digitized": "מהן ההקבלות במילים ובביטויים",
+       "scan": "מה הן ההקבלות במלים ובבטויים",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 5,
+     "kind": "question",
+     "he": "4. הסבר, מהן ההקבלות הענייניות שבין התחלת מערכה א' לבין סוף מערכה ב'; שבין אמצע מערכה א' (פסקאות 4-3) לבין אמצע מערכה ב' (פסקאות 9-8), וכן עוד.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "4. הסבר, מהן ההקבלות הענייניות",
+       "scan": "ד) הסבר, מה הן ההקבלות העניניות",
+       "class": "substantive"
+      },
+      {
+       "digitized": "מהן ההקבלות הענייניות",
+       "scan": "מה הן ההקבלות העניניות",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. י\"ב כי השחית כל בשר את דרכו על הארץ.",
+   "header_digitized": "ב. \"כי השחית כל בשר\"",
+   "items": [
+    {
+     "i": 7,
+     "kind": "source",
+     "ref": "Genesis 6:12",
+     "he": "\"כִּי הִשְׁחִית כָּל בָּשָׂר אֶת דַּרְכּוֹ עַל הָאָרֶץ\"",
+     "en": "And God saw the earth, and, behold, it was corrupt; for all flesh had corrupted their way upon the earth. .",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:12:1",
+     "he": "ד\"ה כי השחית כל בשר: אפילו בהמה חיה ועוף נזקקין לשאינן מינן.",
+     "en": "כי השחית כל בשר FOR ALL FLESH HAD CORRUPTED — even cattle, beasts and fowl did not consort with their own species (Genesis Rabbah 28:8).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Ramban on Genesis 6:12:1",
+     "he": "ד\"ה כי השחית כל בשר את דרכו: אם נפרש כל בשר כמשמעו, ונאמר שאפילו בהמה וחיה ועוף השחיתו דרכם להזקק לשאינן מינן, כמו שפירש רש\"י, נאמר כי מלאה הארץ חמס מפניהם, לא מפני כולם אלא מפני מקצתם, וסיפר עונש האדם לבדו. או שנאמר שלא שמרו גם בזה תולדתם, והיתה כל הבהמה טורפת וכל העוף דורס. והנה גם הם עושים חמס.",
+     "en": "FOR ALL FLESH HAD CORRUPTED ITS WAY. If we explain \"all flesh\" in the literal sense and say tat even animals, wild beasts and birds corrupted its ways by mating with animals of other species, like Rashi explains, we will then have to say that \"for the earth filled with injustice [through them] (pas. 13)\" cannot mean \"through \"all\" of them,\" rather it means \"through \"some\" of them\" (humans) [the Torah] would be telling us only [the reason] for the punishment of the humans. Also, we can say that in this [subject matter of sinfulness] too, [the beasts] didn't follow their matures, for all the beasts acted like a predator and all birds acted as birds of prey, so that they also committed \"injustice.\" In the plain meaning \"all flesh\" simply means \"all mankind,\" [being that] further on, scripture it explains: \"all flesh in which there's a breath of life (7:15)\" or \"of all that lives, of all flesh (6:19)\" which means \"any life contained in a body\" (also beasts). But here, \"all flesh\" [without elaboration] means \"all mankind.\" And also \"all flesh will come to prostrate before me.\" (Isaiah 66:23) and \"if a person (lit., \"flesh\")will have [a burn] on his skin (Levit. 13:24).\"(\"flesh\" obviously means \"man\")",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Ramban on Genesis 6:12:1",
+     "he": "ועל דרך הפשט \"כל בשר\" זה כל האדם, ולמטה יפרש כל בשר אשר בו רוח חיים (להלן ז' ט\"ו), ומכל החי ומכל בשר (להלן פסוק י\"ט), כל חי בגוף, אבל בכאן \"כל בשר\" כל האדם, וכן יבא כל בשר להשתחוות לפני (ישעיה ס\"ו כ\"ג), וכן בשר כי יהיה בעורו (ויקרא י\"ג כ\"ד).",
+     "en": "FOR ALL FLESH HAD CORRUPTED ITS WAY. If we explain \"all flesh\" in the literal sense and say tat even animals, wild beasts and birds corrupted its ways by mating with animals of other species, like Rashi explains, we will then have to say that \"for the earth filled with injustice [through them] (pas. 13)\" cannot mean \"through \"all\" of them,\" rather it means \"through \"some\" of them\" (humans) [the Torah] would be telling us only [the reason] for the punishment of the humans. Also, we can say that in this [subject matter of sinfulness] too, [the beasts] didn't follow their matures, for all the beasts acted like a predator and all birds acted as birds of prey, so that they also committed \"injustice.\" In the plain meaning \"all flesh\" simply means \"all mankind,\" [being that] further on, scripture it explains: \"all flesh in which there's a breath of life (7:15)\" or \"of all that lives, of all flesh (6:19)\" which means \"any life contained in a body\" (also beasts). But here, \"all flesh\" [without elaboration] means \"all mankind.\" And also \"all flesh will come to prostrate before me.\" (Isaiah 66:23) and \"if a person (lit., \"flesh\")will have [a burn] on his skin (Levit. 13:24).\"(\"flesh\" obviously means \"man\")",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "1. מה קשה לרש\"י?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "2. לדעת הרמב\"ן אין הפסוק מתישב על פי פרושו של רש\"י. מהו הקושי שגילה הרמב\"ן בפרושו של רש\"י?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. לדעת הרמב\"ן, אין הפסוק מתיישב על פי פירושו של רש\"י. מהו הקושי שגילה הרמב\"ן בפירושו של רש\"י?",
+     "scan_fixes": [
+      {
+       "digitized": "לדעת הרמב\"ן, אין הפסוק מתיישב על פי פירושו … בפירושו של רש\"י?",
+       "scan": "לדעת הרמב\"ן אין הפסוק מתישב על פי פרושו … בפרושו של רש\"י?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "מתיישב … פירושו … בפירושו",
+       "scan": "מתישב … פרושו … בפרושו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "3. בשתי דרכים מנסה הרמב\"ן לישב את פסוקנו אליבא דרש\"י, מה הן?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. בשתי דרכים מנסה הרמב\"ן ליישב את פסוקנו אליבא דרש\"י. מה הן?",
+     "scan_fixes": [
+      {
+       "digitized": "ליישב את פסוקנו אליבא דרש\"י. מה הן?",
+       "scan": "לישב את פסוקנו אליבא דרש\"י, מה הן?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ליישב … דרש\"י. מה הן?",
+       "scan": "לישב … דרש\"י, מה הן?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 14,
+     "kind": "question",
+     "he": "4. התוכל להביא סיוע לפרושו של רש\"י ממקומות אחרים בפרשתנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. התוכל להביא סיוע לפירושו של רש\"י ממקומות אחרים בפרשתנו?",
+     "scan_fixes": [
+      {
+       "digitized": "לפירושו",
+       "scan": "לפרושו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "5. מה הסיוע שמביא הרמב\"ן לפירושו \"ועל דרך הפשט\" מישעיה ס\"ו? נסה להביא עוד פסוקים כראיה לפירושו.",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "לפירושו … מישעיה ס\"ו? … לפירושו.",
+       "scan": "לפרושו … מישעיהו[?] ס\"ו? … לפרושו.",
+       "reason": "doubtful scan reading; digitization kept",
+       "class": "corroborated"
+      },
+      {
+       "digitized": "לפירושו … מישעיה ס\"ו … לפירושו",
+       "scan": "לפרושו … מישעיהו[?] ס\"ו … לפרושו",
+       "reason": "doubtful scan reading; digitization kept",
+       "class": "corroborated"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 16,
+     "kind": "text",
+     "he": "לכל שאלה ב עיין גליון נח תש\"ח, ביחוד דברי מורה נבוכים וספר מלאכת מחשבת המובאים שם!",
+     "scan_status": "DIFF",
+     "digitized_he": "לכל שאלה ב' עיין גיליון נח תש\"ח, בייחוד דברי מורה נבוכים וספר מלאכת מחשבת המובאים שם!",
+     "scan_fixes": [
+      {
+       "digitized": "שאלה ב' עיין גיליון … בייחוד",
+       "scan": "שאלה ב עיין גליון … ביחוד",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "לכל שאלה ב' עיין גיליון נח תש\"ח, בייחוד",
+       "scan": "לכל שאלה ב עיין גליון נח תש\"ח, ביחוד",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. י\"ד עשה לך תיבה",
+   "header_digitized": "ג. בניית התיבה - התראה לבני הדור",
+   "items": [
+    {
+     "i": 18,
+     "kind": "source",
+     "ref": "Genesis 6:14",
+     "he": "\"עֲשֵׂה לְךָ תֵּבַת עֲצֵי גֹפֶר\"",
+     "en": "Make thee an ark of gopher wood; with rooms shalt thou make the ark, and shalt pitch it within and without with pitch.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "תנחומא:\nבא וראה למה אמר הקב\"ה לנח שיעשה תיבה? כדי שיראו אותו יושב ועוסק בה ויעשו תשובה. וכי לא יכול היה הקב\"ה להצילן בדברו או להעלותן לשמים באמונתו, שאמר לו \"עשה לך תיבת עצי גפר\"? למה כך? אלא אמר הקב\"ה: מתוך שאני אומר לו \"עשה לך תיבת עצי גפר\" והוא עומד ועוסק בה וכורת ארזים, הם מתכנסין אצלו ואומרים לו: נח! מה אתה עושה?! והוא אומר: תיבה! שאמר לי הקב\"ה שמביא מבול לעולם. ומתוך כך שומעין ועושים תשובה. כך היה הקב\"ה מחשב... ולא היו משגיחין עליו.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "נוסח אחר:\nעמד נח ונטע ארזים והיו אומרים לו: ארזים אלה למה? אמר להם: הקב\"ה מבקש להביא מבול ואמר לו לעשות תיבה כדי שאמלט אני וביתי. והיו משחקין ממנו ומלעיגין בדבריו. והיה משקה אותן ארזים והם גדלים והיו אומרים לו: מה אתה עושה? ומשיב להם כענין הזה. והיו מלעיגים עליו. לסוף ימיו קצצן והיה מנסרן והיו אומרים לו: מה אתה עושה? ואומר להם כך, והיה מתרה בהם. כיון שלא עשו תשובה...",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:14:1",
+     "he": "ד\"ה עשה לך תבת: הרבה ריוח והצלה לפניו, ולמה הטריחו בבנין זה? כדי שיראוהו אנשי דור המבול עוסק בה ק\"כ שנה ושואלין אותו מה זאת לך, והוא אומר להם: עתיד הקב\"ה להביא מבול לעולם אולי ישובו.",
+     "en": "עשה לך תבת MAKE THEE AN ARK — There are numerous ways by which God could have saved Noah; why, then, did he burden him with this construction of the Ark? So that the men of the generation of the Flood might see him employed on it for 120 years and might ask him, “What do you need this for”? and so that he might answer them, “The Holy One, blessed be He, is about to bring a flood upon the world” — perhaps they might repent (Sanhedrin 108b).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "question",
+     "he": "1. הסבר מהו הרעיון של מדרש זה.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "הסבר מהו הרעיון של מדרש זה.",
+       "scan": "… מדרש זה?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "2. מהי תכונת אנשי דור המבול המובלטת במדרש זה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "question",
+     "he": "3. היכן מצינו ברש\"י לפרק ז' שוב רעיון זה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "question",
+     "he": "4. היכן מצינו רעיון זה בדברי הנביאים?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: Lettering א)–ד) renumbered 1.–4.; `x` on ג) dropped.",
+  "§ב: [8]–[10]: Rashi and Ramban texts are the digitizer's; the scan has bare ד\"ה pointers. The digitizer split Ramban into two excerpts.",
+  "§ב: `x` on Q2 and `xx` on Q3 dropped.",
+  "§ג: [21]: Rashi text is the digitizer's."
+ ],
+ "needs_human": []
+}

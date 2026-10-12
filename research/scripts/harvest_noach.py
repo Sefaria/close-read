@@ -161,8 +161,17 @@ def apply_pairs(he, pairs):
         b_clean = corroborate(b_clean, a)
         # Checkers write her line breaks as " / "; in her text that's just a space.
         b_clean = re.sub(r'\s+/\s+', ' ', b_clean)
+        # Her difficulty marks (x, xx, +, ++) are dropped, not written into her text: "1xx." → "1.",
+        # "xx צידה" → "צידה", "+ (א)" → "(א)". (harvest_bereshit.py wrote them in.)
+        b_clean = re.sub(r'(?<![\w\u05D0-\u05EA])(\d*)x{1,2}(?=[\s.)\[]|$)', r'\1', b_clean)
+        b_clean = re.sub(r'(?:^|(?<=\s))\+{1,2}(?=\s)', '', b_clean).strip()
         segs_a, segs_b = split(a), split(b_clean)
         if len(segs_a) != len(segs_b):
+            # Gaps that don't line up can't be applied piecewise; replacing the whole fragment
+            # would write the "…" into her text. Leave it for the triage.
+            if '…' in a + b_clean or '...' in a + b_clean:
+                unapplied.append({'digitized': a, 'scan': b, 'reason': 'gaps do not line up; digitization kept'})
+                continue
             segs_a, segs_b = [a], [b_clean]
         # Whatever doubt is left: the digitization's reading stands. Never write a mark into her text.
         if re.search(r'\[[^\]\[]{0,4}\]', b_clean):
@@ -268,7 +277,18 @@ def apply_triage(sid, key, it):
         it.pop('needs_human', None)
 
 
-OVERRIDES = json.load(open(os.path.join(ROOT, f'{PARSHA}-scancheck', 'overrides.json')))['insert']
+_OV = json.load(open(os.path.join(ROOT, f'{PARSHA}-scancheck', 'overrides.json')))
+OVERRIDES = _OV['insert']
+# A word-level fix the triage settled but the checker's fragments can't apply cleanly: replace
+# `from` (which must occur exactly once in the item) with the scan's `to`, cited.
+REPLACE = _OV.get('replace', [])
+
+
+def scan_only(ov, key):
+    new = {'i': key, 'kind': ov['kind'], 'he': ov['he'], 'basis': 'scan-only',
+           'cite': f'{PARSHA}-scancheck/' + ov['cite'], **({'ref': ov['ref']} if ov.get('ref') else {}),
+           **({'needs_human': True} if '[?]' in ov['he'] else {})}
+    return new
 
 
 def harvest(theme, year, year_he, sid, letters):
@@ -299,8 +319,14 @@ def harvest(theme, year, year_he, sid, letters):
             # A substantive (word-level) fix is applied only when the triage says the scan wins
             # for this item; a mis-paired fragment in a checker's list must not rewrite text.
             use = TRIAGE.get((sid, it['i']), {}).get('use')
-            pairs = [p for p in pairs if classify({'digitized': p[0], 'scan': p[1]}) != 'substantive'
-                     or use in ('scan', 'form')]
+            # Substantive fixes not (yet) ruled on by the triage are held back, but recorded:
+            # they must surface in REVIEW.md, not vanish. (harvest_bereshit.py dropped them
+            # silently; harmless there only because every Bereshit difference was triaged.)
+            pending = [p for p in pairs if classify({'digitized': p[0], 'scan': p[1]}) == 'substantive'
+                       and use not in ('scan', 'form')]
+            if pending:
+                it['scan_pending'] = [{'digitized': a, 'scan': b, 'class': 'substantive'} for a, b in pending]
+            pairs = [p for p in pairs if p not in pending]
             if pairs:
                 new, applied, unapplied, sics = apply_pairs(it['he'], pairs)
                 if new != it['he']:
@@ -319,20 +345,30 @@ def harvest(theme, year, year_he, sid, letters):
             # Unapplied spelling-only fixes: the meaning is unchanged, so keep the digitized
             # words rather than ask a person about a missing yod.
             hard = [f for f in it.get('scan_unapplied', []) if f['class'] == 'substantive']
-            if mine and (hard or any(f['class'] == 'substantive' for f in it.get('scan_fixes', []))):
+            if mine and (hard or it.get('scan_pending') or any(f['class'] == 'substantive' for f in it.get('scan_fixes', []))):
                 it['needs_human'] = True
             apply_triage(sid, it['i'], it)
+            for rp in REPLACE:
+                if rp['sheet'] == sid and rp['i'] == it['i']:
+                    assert it['he'].count(rp['from']) == 1, f"{sid} [{it['i']}] replace: «{rp['from']}» not found once"
+                    it.setdefault('digitized_he', it['he'])
+                    it['he'] = it['he'].replace(rp['from'], rp['to'])
+                    it['basis'] = 'scan'
+                    it.setdefault('scan_fixes', []).append({'digitized': rp['from'], 'scan': rp['to'], 'class': 'triaged',
+                                                            'cite': f"{PARSHA}-scancheck/{rp['cite']}", 'why': rp['why']})
             if it.get('needs_human'):
                 needs.append(it['i'])
+            for ov in OVERRIDES:
+                if ov['sheet'] == sid and ov.get('before') == it['i']:
+                    new = scan_only(ov, f"before {ov['before']}")
+                    apply_triage(sid, new['i'], new)
+                    items.append(new)
             items.append(it)
             for ov in OVERRIDES:
-                if ov['sheet'] == sid and ov['after'] == it['i']:
-                    nth = sum(1 for o in OVERRIDES if o['sheet'] == sid and o['after'] == it['i']
+                if ov['sheet'] == sid and ov.get('after') == it['i']:
+                    nth = sum(1 for o in OVERRIDES if o['sheet'] == sid and o.get('after') == it['i']
                               and OVERRIDES.index(o) < OVERRIDES.index(ov))
-                    new = {'i': f"after {ov['after']}" + (f'.{nth + 1}' if nth else ''),
-                           'kind': ov['kind'], 'he': ov['he'], 'basis': 'scan-only',
-                           'cite': f'{PARSHA}-scancheck/' + ov['cite'],
-                           **({'needs_human': True} if '[?]' in ov['he'] else {})}
+                    new = scan_only(ov, f"after {ov['after']}" + (f'.{nth + 1}' if nth else ''))
                     apply_triage(sid, new['i'], new)
                     if new.get('needs_human'):
                         needs.append(f"after {ov['after']}")
@@ -397,7 +433,7 @@ if __name__ == '__main__':
                         continue
                     # One line per change: shortest fragment first; drop longer restatements
                     # that contain a fragment already listed.
-                    subs = sorted((f for f in it.get('scan_fixes', []) + it.get('scan_unapplied', [])
+                    subs = sorted((f for f in it.get('scan_fixes', []) + it.get('scan_unapplied', []) + it.get('scan_pending', [])
                                    if f['class'] == 'substantive'), key=lambda f: len(f['scan']))
                     kept = []
                     for f in subs:
@@ -407,6 +443,8 @@ if __name__ == '__main__':
                         kept.append(f)
                     for f in kept:
                         tag = '' if f in it.get('scan_fixes', []) else ' *(not auto-applied)*'
+                        if f in it.get('scan_pending', []):
+                            tag = ' *(pending triage)*'
                         rows.append(f"- §{sec['letter']} [{it['i']}] digitized «{f['digitized'][:140]}» → scan «{f['scan'][:140]}»{tag}")
             if rows:
                 L += [f"## {year} ({year_he}) · sheet {sid} · {theme}", f"Scan check: `{h.get('scancheck')}`", ''] + rows + ['']

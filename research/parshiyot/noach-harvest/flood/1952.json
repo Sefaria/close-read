@@ -1,0 +1,558 @@
+{
+ "sheet_id": 161472,
+ "year_g": "1952",
+ "year_he": "תשי\"ב",
+ "theme": "flood",
+ "title": "פרשת נח תשי\"ב - היציאה מן התיבה",
+ "sefaria_url": "https://www.sefaria.org/sheets/161472",
+ "pdf_url": "https://www.nechama.org.il/pdf/821.pdf",
+ "scancheck": "noach-scancheck/161472-1952.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א",
+   "header_digitized": "א. \"ויזכור אלוהים\" וכו'",
+   "items": [
+    {
+     "i": 2,
+     "kind": "source",
+     "ref": "Genesis 8:1",
+     "he": "\"וַיִּזְכֹּר אֱ-לֹהִים אֶת נֹחַ וְאֵת כָּל הַחַיָּה וְאֶת כָּל הַבְּהֵמָה אֲשֶׁר אִתּוֹ בַּתֵּבָה\"",
+     "en": "And God remembered Noah, and every living thing, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters assuaged;",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:1:2",
+     "he": "ד\"ה ויזכר אלוהים את נח וגו': מה זכר להם לבהמות זכות שלא השחיתו דרכם קודם לכן ושלא שימשו בתיבה.",
+     "en": "‘ויזכור אלהים את נח וגו AND GOD REMEMBERED NOAH etc. — What did He remember regarding the cattle? The merit that no perversion of their way had been seen amongst them previously to the Flood, and that they lived apart in the Ark.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "source",
+     "ref": "Ramban on Genesis 8:1:1",
+     "he": "ד\"ה ויזכר אלוהים את נח ואת כל החיה: ...אבל הזכירה שאמר בחיה ובבהמה אינה בזכות, שאין בבעלי נפש זכות או חובה זולתי באדם לבדו. אבל הזכירה בהם, כי זכר את דבר קדשו שאמר והיה העולם, והרצון אשר לו בבריאת העולם עלה לפניו ורצה בקיום העולם במינין אשר ברא בו, והנה ראה עתה להוציאם שלא יכלו בתיבה.",
+     "en": "\"and Elokim remembered Noah and all the animals\" - The remembrance of Noah was because he was righteous and whole and God established a covenant to save him. And, Noah includes his offspring who were with him there, they (the offspring) were not mentioned because they were saved through his (Noah's) merit. However, the remembering of the domestic and wild animals is not because of some merit. This is because of all the possessors of souls, only mankind has merit and fault. Rather, the remembrance of them (domestic and wild animals)is that He remembered His own holy words that He spoke and the world came into being. Additionally, the desire to create the world which He had, came before Him and He desired the existence of the world and the species He had created in it. He therefore acted to take them out, as they could not persist in the ark. He did not remember the birds and the fish because the remembrance of the land mammals included them.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "question",
+     "he": "א.  מה הקושי שרצו שניהם לתרץ?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "מה הקושי שרצו שניהם לתרץ?",
+       "scan": "(א) מה הקשי שרצו שניהם לתרץ?",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "א.  מה הקושי שרצו שניהם לתרץ?",
+     "scan_fixes": [
+      {
+       "digitized": "הקושי",
+       "scan": "הקשי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "א.  מה הקשי שרצו שניהם לתרץ?"
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "ב.  מה ההבדל שבין שני הפרושים?",
+     "scan_status": "DIFF",
+     "digitized_he": "ב.  מה ההבדל שבין שני הפירושים?",
+     "scan_fixes": [
+      {
+       "digitized": "שני הפירושים",
+       "scan": "שני הפרושים",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הפירושים",
+       "scan": "הפרושים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 7,
+     "kind": "text",
+     "he": "ג.  מצא פסוק אחר בפרשתנו (בפרק ו') שגם בפירושו מצינו אותו הבדל עקרוני בין רש\"י לרמב\"ן שאנו מוצאים כאן.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "בפירושו",
+       "scan": "x[?] (ג) … בפרושו",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ג.  מצא פסוק אחר בפרשתנו (בפרק ו') שגם בפירושו מצינו אותו הבדל עקרוני בין רש\"י לרמב\"ן שאנו מוצאים כאן.",
+     "scan_fixes": [
+      {
+       "digitized": "שגם בפירושו מצינו … לרמב\"ן שאנו מוצאים כאן.",
+       "scan": "שגם בפרושו מצינו … לרמב\"ן שאנו מוצאים כאן.",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "ג.  מצא פסוק אחר בפרשתנו (בפרק ו') שגם בפרושו מצינו אותו הבדל עקרוני בין רש\"י לרמב\"ן שאנו מוצאים כאן."
+    },
+    {
+     "i": 8,
+     "kind": "text",
+     "he": "ד.  התוכל למצוא תשובה אחרת לשאלתם (א) בעזרת הפסוקים הבאים: תהלים ל\"ו ז'; תהלים קמ\"ה ט'; יונה סוף פרק ד.",
+     "scan_status": "DIFF",
+     "digitized_he": "ד.  התוכל למצוא תשובה אחרת לשאלתם (א') בעזרת הפסוקים הבאים: תהלים ל\"ו ז'; תהלים קמ\"ה ט'; יונה סוף פרק ד'.",
+     "scan_fixes": [
+      {
+       "digitized": "לשאלתם (א') … יונה סוף פרק ד'.",
+       "scan": "לשאלתם (א) … יונה סוף פרק ד.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "לשאלתם (א') … פרק ד'.",
+       "scan": "לשאלתם (א) … פרק ד.",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 8:1:2",
+     "he": "ד\"ה ואת כל החיה: כלל לחית השדה ולעוף השמים ולכל שורץ על הארץ.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "question",
+     "he": "א.  מה קשה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "question",
+     "he": "ב.  מהי חולשת פירושו?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "מהי חולשת פירושו?",
+       "scan": "xx (ב) מהי חולשת פרושו?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "פירושו",
+       "scan": "xx (ב) … פרושו",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "רי",
+   "header_digitized": "ב. היציאה מן התיבה",
+   "items": [
+    {
+     "i": 13,
+     "kind": "source",
+     "ref": "Genesis 8:9",
+     "he": "\"וְלֹא מָצְאָה הַיּוֹנָה מָנוֹחַ לְכַף רַגְלָהּ וַתָּשָׁב אֵלָיו\"",
+     "en": "But the dove found no rest for the sole of her foot, and she returned unto him to the ark, for the waters were on the face of the whole earth; and he put forth his hand, and took her, and brought her in unto him into the ark.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 33:6",
+     "he": "ר' יהודה בר' נחמן בשם ר\"ש אומר: אילו מצאה מנוח לא היתה חוזרת. וכדכוותיה (=וכיוצא בו): (איכה א') \"היא ישבה בגויים לא מצאה מנוח\" – אילו מצאה מנוח, לא היו חוזרים. וכדכוותיה: (דברים כ\"ח) \"ובגויים האלה לא תרגיע ולא יהיה מנוח לכף רגלך\" - הא אילו מצאו מנוח לא היו חוזרים.",
+     "en": "And again [Noach] sent forth the dove out of the ark . . . And the dove came in at evening, and here, an olive leaf torn off in her mouth” [Gn 8:11]. “An olive leaf torn off in her mouth”—From where did she bring it? R’ Bibi said: The gates of Gan Eden were opened for her, and from there she brought it. Said R’ Abahu: Had she brought it from Gan Eden, couldn’t she bring something special, cinnamon or balsam? But she gave [Noach] a hint, and said to Noach: Better is bitterness from this and not sweetness from beneath your hand.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "אילו מצאו",
+       "scan": "אלו מצאה",
+       "class": "substantive"
+      },
+      {
+       "digitized": "\"היא ישבה בגויים\"",
+       "scan": "\"היא [[sic: יצאה]] בגויים\"",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ר' יהודה בר' נחמן בשם ר\"ש אומר: אילו מצאה מנוח לא היתה חוזרת. וכדכוותיה ( = וכיוצא בו): (איכה א') \"היא ישבה בגויים לא מצאה מנוח\" – אילו מצאה מנוח, לא היו חוזרים. וכדכוותיה: (דברים כ\"ח) \"ובגויים האלה לא תרגיע ולא יהיה מנוח לכף רגלך\" - הא אילו מצאו מנוח לא היו חוזרים.",
+     "scan_fixes": [
+      {
+       "digitized": "וכדכוותיה ( = וכיוצא בו):",
+       "scan": "וכדכוותיה (=וכיוצא בו):",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 15,
+     "kind": "text",
+     "he": "א.  הסבר, מהו המובן הסמלי הניתן ע\"י חז\"ל כאן למעוף היונה ולחזירתה לתיבה.",
+     "scan_status": "DIFF",
+     "digitized_he": "א.  הסבר מהו המובן הסמלי הניתן ע\"י חז\"ל כאן למעוף היונה ולחזירתה לתיבה.",
+     "scan_fixes": [
+      {
+       "digitized": "הסבר מהו המובן",
+       "scan": "הסבר, מהו המובן",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הסבר מהו",
+       "scan": "הסבר, מהו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 16,
+     "kind": "text",
+     "he": "ב.  הבא דוגמאות לרעיון זה מקורות עמנו.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "source",
+     "ref": "Genesis 8:15",
+     "he": "\"וַיְדַבֵּר אֱ-לֹהִים אֶל נֹחַ לֵאמֹר צֵא מִן הַתֵּבָה\"",
+     "en": "And God spoke unto Noah, saying:",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "question",
+     "he": "2. אגדת בראשית פרק ז' \"צא מן התבה\" -\nזהו שאמר הכתוב (קהלת ח'): \"אני פי מלך שמור\" - כשנכנס נח לתיבה, ברשותו של הקב\"ה נכנס, שנ' (ז) \"ויאמר ה' לנח: בא אתה וכל ביתך אל התיבה\". כיון שיבשה הארץ ונחה התיבה על הרי אררט, אמרו לו בניו: \"נצא מכאן\". אמר להם: \"חס ושלום! ברשותו של הקב\"ה נכנסנו וברשותו אנו יוצאים. כיון ששמע הקב\"ה כך, מיד \"וידבר אלוהים אל נח צא מן התיבה...\". לכך נאמר: \"אני פי מלך שמור\".",
+     "scan_status": "DIFF",
+     "digitized_he": "2. אגדת בראשית פרק ז' \"צא מן התיבה\":\nזהו שאמר הכתוב (קהלת ח'): \"אני פי מלך שמור\" - כשנכנס נח לתיבה, ברשותו של הקב\"ה נכנס, שנאמר (ז): \"ויאמר ה' לנח: בא אתה וכל ביתך אל התיבה\". כיון שיבשה הארץ ונחה התיבה על הרי אררט, אמרו לו בניו: נצא מכאן. אמר להם: חס ושלום! ברשותו של הקב\"ה נכנסנו וברשותו אנו יוצאים. כיון ששמע הקב\"ה כך, מיד \"וידבר אלוהים אל נח צא מן התיבה...\". לכך נאמר: \"אני פי מלך שמור\".",
+     "scan_fixes": [
+      {
+       "digitized": "\"צא מן התיבה\":",
+       "scan": "\"צא מן התבה\" -",
+       "class": "spelling"
+      },
+      {
+       "digitized": "שנאמר (ז):",
+       "scan": "שנ' (ז)",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בניו: נצא מכאן",
+       "scan": "בניו: \"נצא מכאן\"",
+       "class": "spelling"
+      },
+      {
+       "digitized": "חס ושלום!",
+       "scan": "\"חס ושלום!",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 19,
+     "kind": "text",
+     "he": "(פרופ' הינמן: דרכי האגדה 86 מעיר, שפילון משבח את נח, מפני שלא יצא טרם שנצטוה).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "question",
+     "he": "תנחומא ישן פרשת נח י\"ד:\n\"בעשירי באחד לחדש נראו ראשי ההרים\" ולא יצא משם אלא המתין בתיבה, כדי ליתן לו רשות. אמר לו הקב\"ה: \"רשות אתה מבקש?! צא מן התיבה!\". אמר ר' יהודה בר אילעי: אילו הייתי שם הייתי שובר את התיבה ויוצא לי משם.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "הקב\"ה",
+       "scan": "הקבה\"ו",
+       "class": "substantive"
+      },
+      {
+       "digitized": "אילו הייתי שם",
+       "scan": "\"אלו הייתי שם … משם\"",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "«הקבה\"ו» is a typo in her quotation of the Tanchuma; quote marks only otherwise"
+     }
+    },
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "א.  מה ההבדל העקרוני בין שתי ההשקפות המבוטאות בשני מדרשים אלה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "question",
+     "he": "ב.  מה מסומל בבני נח ובטענתם במדרש אגדת בראשית?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "ג.  הידועים לך מדרשים ומאמרי חז\"ל הנותנים אף הם ביטוי להשקפה הכלולה בדברי התנחומא דלעיל?",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "ביטוי",
+       "scan": "3xx. … בטוי",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג שאלות סגנון ולשון (underlined; no period after ג is visible)",
+   "header_digitized": "ג. שאלות לשון וסגנון",
+   "items": [
+    {
+     "i": 25,
+     "kind": "text",
+     "he": "1. השוה:",
+     "scan_status": "DIFF",
+     "digitized_he": "השווה:",
+     "scan_fixes": [
+      {
+       "digitized": "השווה:",
+       "scan": "1x. השוה:",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 26,
+     "kind": "source",
+     "ref": "Genesis 8:7",
+     "he": "\"וַיְשַׁלַּח אֶת הָעֹרֵב\"",
+     "en": "And he sent forth a raven, and it went forth to and fro, until the waters were dried up from off the earth.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 27,
+     "kind": "source",
+     "ref": "Genesis 8:8",
+     "he": "\"וַיְשַׁלַּח אֶת הַיּוֹנָה מֵאִתּוֹ\"",
+     "en": "And he sent forth a dove from him, to see if the waters were abated from off the face of the ground.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 28,
+     "kind": "text",
+     "he": "הסבר את סבת השנוי בסגנון.",
+     "scan_status": "DIFF",
+     "digitized_he": "הסבר את סיבת השינוי בסגנון.",
+     "scan_fixes": [
+      {
+       "digitized": "הסבר את סיבת השינוי בסגנון.",
+       "scan": "הסבר את סבת השנוי בסגנון.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "סיבת השינוי",
+       "scan": "סבת השנוי",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 29,
+     "kind": "text",
+     "he": "\"וַיְשַׁלַּח אֶת הַיּוֹנָה\"",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 30,
+     "kind": "text",
+     "he": "הסבר למה לא השתמשה התורה כאן בלשון קל וישלח במקום פיעל, והלא \"כל לשון שליחות של שלוחים\" בבנין קל היא נאמרת. וכן בראשית ל\"ב ד'; ל\"ז י\"ג-י\"ד; מ\"ו כ\"ח.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "במקום פיעל, … וכן בראשית ל\"ב ד'; י\"ז י\"ג-י\"ד; מ\"ו כ\"ח.",
+       "scan": "במקום פעיל, … וכן בראשית ל\"ב[?] ד'; ל\"ז; י\"ג-י\"ד; מ\"ו כ\"ח",
+       "class": "substantive"
+      },
+      {
+       "digitized": "במקום פיעל … י\"ז י\"ג-י\"ד",
+       "scan": "במקום פעיל … ל\"ז; י\"ג-י\"ד",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "digitized",
+      "why": "her verse list is fixed by overrides.json replace: the scan has «ל\"ז; י\"ג-י\"ד» (Gen 37:13–14, Joseph sent with qal שלח), not the digitizer's «י\"ז»; «פעיל»/«פיעל» is spelling"
+     },
+     "digitized_he": "הסבר למה לא השתמשה התורה כאן בלשון קל וישלח במקום פיעל, והלא \"כל לשון שליחות של שלוחים\" בבנין קל היא נאמרת. וכן בראשית ל\"ב ד'; י\"ז י\"ג-י\"ד; מ\"ו כ\"ח.",
+     "scan_fixes": [
+      {
+       "digitized": "י\"ז י\"ג-י\"ד",
+       "scan": "ל\"ז י\"ג-י\"ד",
+       "class": "triaged",
+       "cite": "noach-scancheck/161472-1952.md [30]; triage.json",
+       "why": "scan «ל\"ז; י\"ג-י\"ד»; Gen 37:13–14 is the qal שלח of sending a messenger, her point"
+      }
+     ]
+    },
+    {
+     "i": 31,
+     "kind": "source",
+     "ref": "Rashbam on Genesis 19:13:1",
+     "he": "ד\"ה וישלחנו: משקל דגש. ואע\"פ שכל שליחות של שלוחים החוזרים כתיב בהם וישלח משקל רפי, כאילו כתב משקל דגש. לפי שהוא שילוח של השחתה כדכתיב ושן בהמות אשלח בם; ישלח בהם ערוב.",
+     "en": "וישלחנו, although in other instances when the word שלח is used it never has a dagesh, reinforcing it, here, seeing the dispatch of these angels was not in order to assist, but in order to destroy, this is indicated by the change in the mode and reinforcing the word with the dot in the letter ל. We find another example of this construction in a similar context in Deut. 32,24, ושן בהמות אשלח בם, “the teeth of beasts I will set loose against them,” where the verb שלח is also used destructively. The same is true of Psalms 78,45, ישלח בהם ערב “He dispatched ferocious beasts against them.”",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 32,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:8:2",
+     "he": "העזר בתשובתך בדברי רש\"י, כאן:\nד\"ה וישלח: אין זה לשון שליחות אלא לשון שילוח - שלחה ללכת לדרכה ובזו יראה אם קלו המים שאם תמצא מנוח לא תשוב אליו.",
+     "en": "וישלח And HE SENT FORTH — This does not mean merely “sending on an errand”, but “sending away”, “letting go” — he freed her to go where she liked, and thus he could see whether the waters abated, because if she could find a resting place she would not return to him.",
+     "scan_status": "EXPANDED",
+     "scan_pending": [
+      {
+       "digitized": "העזר בתשובתך בדברי רש\"י, כאן:",
+       "scan": "העזר בתשובתך בדברי רש\"י כאן ד\"ה וישלח.",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בדברי רש\"י, כאן:",
+       "scan": "בדברי רש\"י כאן ד\"ה וישלח.",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "text",
+     "he": "ועיין גליון וירא תש\"י שאלה ב' 1, תולדות תשי\"א ה.",
+     "scan_status": "DIFF",
+     "digitized_he": "ועיין גיליון וירא תש\"י שאלה ב1, תולדות תשי\"א ה'.",
+     "scan_fixes": [
+      {
+       "digitized": "ועיין גיליון וירא תש\"י שאלה ב1, תולדות תשי\"א ה'.",
+       "scan": "ועיין גליון וירא תש\"י שאלה ב' 1, תולדות תשי\"א ה.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "גיליון … שאלה ב1 … ה'.",
+       "scan": "גליון … שאלה ב' 1 … ה.",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 34,
+     "kind": "text",
+     "he": "השוה:",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 35,
+     "kind": "source",
+     "ref": "Genesis 8:13",
+     "he": "\"חָרְבוּ פְּנֵי הָאֲדָמָה\"",
+     "en": "And it came to pass in the six hundred and first year, in the first month, the first day of the month, the waters were dried up from off the earth; and Noah removed the covering of the ark, and looked, and behold, the face of the ground was dried.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 36,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:14:2",
+     "he": "\"יָבְשָׁה הָאָרֶץ\"",
+     "en": "יבשה WAS [THE EARTH] DRIED — It became hard as is its normal condition.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 37,
+     "kind": "question",
+     "he": "מה ההבדל בין שני הבטויים.",
+     "scan_status": "DIFF",
+     "digitized_he": "מה ההבדל בין שני הביטויים?",
+     "scan_fixes": [
+      {
+       "digitized": "מה ההבדל בין שני הביטויים?",
+       "scan": "מה ההבדל בין שני הבטויים.",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הביטויים?",
+       "scan": "הבטויים.",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: The sub-question labels «(א)…(ד)» become «א.…ד.». The source numbers «1.» and «2.» are dropped.",
+  "§א: The difficulty marks are dropped: (ג) `x[?]` and Ibn Ezra (ב) `xx`.",
+  "§א: [3], [4], [9]: the full commentary texts are the digitizer's. The scan gives pointers and ranges.",
+  "§ב: The verse number «ט.» before [13] and «ט\"ו» before [17] are dropped. The scan's item numbers «1» / «2)» are moved or dropped.",
+  "§ב: The questions are renumbered from «1. 2. 3.» to «א. ב. ג.».",
+  "§ב: The difficulty mark on Q3 (`xx`) is dropped.",
+  "§ג: The difficulty marks are dropped: Q1 `x`, Q2 `x`. The question numbers 1–3 are dropped.",
+  "§ג: [31]: the Rashbam text is the digitizer's, and the ref chapter (19) may differ from the scan's «י\"ח[?]».",
+  "§ג: [36]: a verse pointer is linked as a Rashi ref."
+ ],
+ "needs_human": []
+}

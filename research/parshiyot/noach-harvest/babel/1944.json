@@ -1,0 +1,519 @@
+{
+ "sheet_id": 161942,
+ "year_g": "1944",
+ "year_he": "תש\"ד",
+ "theme": "babel",
+ "title": "פרשת נח תש\"ד - דור הפלגה",
+ "sefaria_url": "https://www.sefaria.org/sheets/161942",
+ "pdf_url": "https://www.nechama.org.il/pdf/1292.pdf",
+ "scancheck": "noach-scancheck/161942-1944.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. חטאו של דור הפלגה.",
+   "header_digitized": "א. חטאו של דור הפלגה",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Bereshit Rabbah 35",
+     "he": "ר' אלעזר אומר: \"שפה אחת ודברים אחדים\" – דבורים אחדים: מעשה דור המבול נתפרש – מעשה דור הפלגה לא נתפרש.",
+     "en": "",
+     "scan_status": "DIFF",
+     "digitized_he": "ר' אלעזר אומר: \"שפה אחת ודברים אחדים\" – דיבורים אחדים: מעשה דור המבול נתפרש – מעשה דור הפלגה לא נתפרש.",
+     "scan_fixes": [
+      {
+       "digitized": "דיבורים אחדים",
+       "scan": "דבורים אחדים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 2,
+     "kind": "text",
+     "he": "(פירוש \"אחדים\" – סתומים, מלשון ארמי, כמו בראשית י\"ח י': ואת הדלת סגרו תרגום אונקלוס: אחדו.)",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "text",
+     "he": "פרקי דר' אליעזר כ\"ו:\nשבע מעלות היו לו למגדל ממזרחו ושבע ממערבו. מעלים את הלבנים מכאן ויורדים מכאן. אם נפל אדם ומת לא היו שמים לב אליו, ואם נפלה לבנה אחת היו יושבים ובוכים ואומרים: אוי לנו, אימתי תעלה אחרת תחתיה.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:1:2",
+     "he": "ד\"ה ודברים אחדים: באו בעצה אחת ואמרו, לא כל הימנו שיבור לו את העליונים, נעלה לרקיע ונעשה עמו מלחמה.",
+     "en": "ודברים אחדים AND ONE SPEECH — They came with one plan, saying: “He has no right to select the heavenly regions exclusively for Himself; let us ascend to the skies and make war upon Him”. Another explanation (of דברים אחדים which is taken to mean “words referring to “One”): words regarding the Sole Being (God) in the Universe. Another explanation of ודברים אחדים is: they spoke דברים חדים “sharp” words; they said, “Once in every one thousand six hundred and fifty six years (the period that elapsed from the Creation to the Flood) there is a heaven-shaking, just as there was in the days of the Flood. Come. then, and let us make supports for it” (Genesis Rabbah 38:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:1:2",
+     "he": "דבר אחר: על יחידו של עולם.",
+     "en": "ודברים אחדים AND ONE SPEECH — They came with one plan, saying: “He has no right to select the heavenly regions exclusively for Himself; let us ascend to the skies and make war upon Him”. Another explanation (of דברים אחדים which is taken to mean “words referring to “One”): words regarding the Sole Being (God) in the Universe. Another explanation of ודברים אחדים is: they spoke דברים חדים “sharp” words; they said, “Once in every one thousand six hundred and fifty six years (the period that elapsed from the Creation to the Flood) there is a heaven-shaking, just as there was in the days of the Flood. Come. then, and let us make supports for it” (Genesis Rabbah 38:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:1:2",
+     "he": "דבר אחר: ודברים אחדים (ס\"א דברים חדים) אמרו אחת לאלף ותרנ\"ו שנים הרקיע מתמוטט כשם שעשה בימי המבול, בואו ונעשה לו סמוכות (ב\"ר).",
+     "en": "ודברים אחדים AND ONE SPEECH — They came with one plan, saying: “He has no right to select the heavenly regions exclusively for Himself; let us ascend to the skies and make war upon Him”. Another explanation (of דברים אחדים which is taken to mean “words referring to “One”): words regarding the Sole Being (God) in the Universe. Another explanation of ודברים אחדים is: they spoke דברים חדים “sharp” words; they said, “Once in every one thousand six hundred and fifty six years (the period that elapsed from the Creation to the Flood) there is a heaven-shaking, just as there was in the days of the Flood. Come. then, and let us make supports for it” (Genesis Rabbah 38:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:5:2",
+     "he": "ד\"ה בני האדם: אלא בני מי? שמא בני חמורים וגמלים? אלא בני אדם הראשון, שכפה את הטובה ואמר האשה אשר נתתה עמדי, אף אלו כפו בטובה למרוד במי שהשפיעם טובה ומלטם מן המבול.",
+     "en": "בני האדם THE CHILDREN OF MAN (ADAM) — But whose children could they have been (except the children of man, i.e. human beings) — perhaps the children of donkeys or camels? But it means the children of Adam Harishon who proved himself ungrateful when he said, (Genesis 3:12) “The woman whom Thou gavest to be with me, [she gave me of the tree etc.]”. These people, also, were ungrateful, rebelling against the One who had showered kindness upon them and had rescued them from the Flood (Genesis Rabbah 38:9).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:9:1",
+     "he": "ד\"ה ומשם הפיצם: לימד שאין להם חלק לעולם הבא. וכי איזו קשה - של דור המבול או של דור הפלגה? אלו לא פשטו יד בעיקר ואלו פשטו יד בעיקר להלחם בו, ואלו נשטפו ואלו לא נאבדו מן העולם. אלא שדור המבול היו גזלנים והיתה מריבה ביניהם - לכך נאבדו, ואלו היו נוהגים אהבה ורעות ביניהם, שנאמר שפה אחת ודברים אחדים, למדת ששנאוי המחלוקת וגדול השלום.",
+     "en": "ומשם הפיצם AND FROM THENCE DID THE LORD SCATTER THEM —This teaches that they have no portion in the world to come (Sanhedrin 107b). Which sin was greater: that of the generation of the Flood or that of the generation of the Dispersion? The former did not stretch forth their hands against God; the latter did stretch forth their hands against God to war against him (surely, then, the sin of the generation of the Dispersion was greater) and yet the former (the generation of the Flood) were drowned and these did not perish from the world! But the reason is that the generation of the Flood were violent robbers and there was strife among them, and therefore they were destroyed; but these conducted themselves in love and friendship, as it is said, “They were one people and had one language”. — You may learn from this how hateful to God is strife and how great is peace (Genesis Rabbah 38:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 11:3:3",
+     "he": "ד\"ה והחמר: ... ואלה בוני המגדל לא היו טפשים שיחשבו לעלות אל השמים, גם לא פחדו מהמבול כי נח ובניו שנשבע להם השם שם היו וכולם היו סרים אל משמעתם כי בניהם היו. והנה הכתוב גילה חפצם וסוף דעתם: לבנות עיר גדולה למושבם ולבנות מגדל גבוה להיות להם לאות ולשם ולתהילה לדעת מקום העיר להולכים חוצה כרועי המקנה, גם יעמוד שמם אחריהם כל ימי המגדל. וזהו שאמר הכתוב: ונעשה לנו שם. \n...ואל תתמה על מילת וראשו בשמים, כי הנה כן דבר משה: ערים גדולות ובצורות בשמים. ואלה הבונים ראו בעצמם שלא יפרדו, והשם לא יעץ כן, והם לא ידעו.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "text",
+     "he": "פסוק ז':\nד\"ה הבה נרדה: ... והנכון בעיני שנפוצו משם, ואחר שנפוצו מלך נמרוד על בבל וקמו מלכים אחרים. ובימים רבים במות הדור הראשון נשכח הלשון הראשון. והשם הפיצם והוא טוב להם וכן אמר ומלאו את הארץ.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Sforno on Genesis 11:4:1",
+     "he": "ד\"ה ויאמרו הבה: זאת הייתה עצת שרי הדור להמליך את נמרוד על כל המין האנושי.",
+     "en": "ויאמרו הבה נבנה לנו עיר, this was at the advice of their leaders who wanted to enthrone Nimrod as king over the entire human race,",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "source",
+     "ref": "Sforno on Genesis 11:4:2",
+     "he": "ד\"ה ומגדל וראשו בשמים: נעשה שם (עבודה זרה) שתהיה במגדל ויצא בכל המין האנושי שם גובה מקומה וגודל עירה באופן שתחשב אלהי האלהים אצל כל בני האדם ואליה ידרשו כולם. והכוונה בזה היתה שהמולך על אותה העיר ימלוך על כל המין האנושי בהיות שם דרישת כולם.",
+     "en": "Thus we will make for ourselves a name. This “name” was the idol that was to be placed in the tower. They hoped that on account of the grandeur of the tower and the city this idol would come to be recognized universally as the supreme deity. In this way the king of the city would achieve dominion over the entire world.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 13,
+     "kind": "source",
+     "ref": "Sforno on Genesis 11:6:1",
+     "he": "ד\"ה הן עם: כי אמנם הביטול המפר עצת גוים ומניא מחשבות הוא המחלוקת הקורה ביניהם, אם לסיבת הדתות ואם לסיבת הלשונות. והנה אלו היו עם אחד בענין הדת כי היו כולם מסכימים בדעת אנשי הצא\"בה ועם זה היו כולם מסכימים בלשון.",
+     "en": "הן עם אחד, the only way I can stop them from carrying out their unanimously approved plan is to sow the seeds of discord between them. The instrument of bringing this about is to confuse their language. Basically, people’s disagreements are either religious, (philosophical) in nature, or they result from misunderstanding what they mean when they speak. These people had been of one mind in matters of religion, seeing that they had all agreed with the mistaken idolatrous philosophy shared by mankind at that time. In spite of such apparently good reasons for disagreeing with one another, they did not misunderstand each other.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Sforno on Genesis 11:6:3",
+     "he": "ד\"ה ועתה לא יבצר: אם כן אין מונע להם מהשלים כוונתם ותהיה אותה עבודה זרה אשר יבחרו כללית לכל מין האדם ולא יפנה אחד מהם לדעת את הבורא יתברך ולהבין כי יוצר הכל הוא. והפך זה יקרה כשתהיה מחלוקת בין האומות בענין אלהי הנכר כי כל אחד יחשוב שיש אלוהי האלהים שכל האלוהות מסכימים לדעתו ובו ישלם סדרם וסדר המציאות, כאמרו, כי ממזרח שמש ועד מבואו גדול שמי בגוים.",
+     "en": "ועתה לא יבצר מהם, in view of these circumstances, if left alone, they would complete what they have set out to do, so that this form of idolatry they have agreed on would henceforth be something embraced by all of mankind. Not a single one of them would turn to the Creator of the universe and realise that He, and He alone, is the Creator of the entire universe. On the other hand, the opposite will occur if discord will break out among them regarding the supremacy of any of the deities versus the competing ones. In such a scenario, every nation would believe that there is one deity that is superior to all the various national deities, whose concern is only with the particular nation worshipping that deity. All the minor deities would have to subordinate themselves to the power of that super-deity. The prophet Maleachi 1,11 expresses this in the following words: ”for from where the sun rises to where it sets, My name is honoured among the nations;” כי ממזרח שמש ועד מבואו גדול שמי בגוים.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "question",
+     "he": "1. מה היה חטאם לפי הנ\"ל?",
+     "scan_status": "DIFF",
+     "digitized_he": "1. מה היה חטאם לפי הפרשנים?",
+     "scan_fixes": [
+      {
+       "digitized": "מה היה חטאם לפי הפרשנים?",
+       "scan": "מה היה חטאם לפי הנ\"ל?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "her word is «הנ\"ל», not «הפרשנים» (scan, clear)"
+     }
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "2. הבא ראיות מלשון הכתוב לדעת ר' אלעזר בבראשית רבה.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "3. מה הרעיון הכלול בדברי פרקי דר' אליעזר?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 18,
+     "kind": "question",
+     "he": "4. במה עזר רבוי הדתות לקדום האנושות לדעת ספורנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. במה עזר ריבוי הדתות לקידום האנושות לדעת ספורנו?",
+     "scan_fixes": [
+      {
+       "digitized": "ריבוי הדתות לקידום האנושות",
+       "scan": "רבוי הדתות לקדום האנושות",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ריבוי … לקידום",
+       "scan": "רבוי … לקדום",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 19,
+     "kind": "question",
+     "he": "5. מה הקושי בפסוק מלאכי א' א' המובא בספורנו וכיצד הוא מתרץ את הקשי?",
+     "scan_status": "DIFF",
+     "digitized_he": "5. מה הקושי בפסוק מלאכי א' א' המובא בספורנו, וכיצד הוא מתרץ את הקושי?",
+     "scan_fixes": [
+      {
+       "digitized": "הקושי … הקושי",
+       "scan": "הקשי … הקשי",
+       "class": "spelling"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "הקושי … בספורנו, וכיצד … את הקושי?",
+       "scan": "הקשי … בספורנו וכיצד … את הקשי?",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. שאלות ודיוקים ברש\"י:",
+   "header_digitized": "ב. שאלות ודיוקים ברש\"י",
+   "items": [
+    {
+     "i": 21,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:1:2",
+     "he": "ד\"ה ודברים אחדים: באו בעצה אחת ואמרו לא כל הימנו שיבור לו את העליונים, נעלה לרקיע ונעשה עמו מלחמה.",
+     "en": "ודברים אחדים AND ONE SPEECH — They came with one plan, saying: “He has no right to select the heavenly regions exclusively for Himself; let us ascend to the skies and make war upon Him”. Another explanation (of דברים אחדים which is taken to mean “words referring to “One”): words regarding the Sole Being (God) in the Universe. Another explanation of ודברים אחדים is: they spoke דברים חדים “sharp” words; they said, “Once in every one thousand six hundred and fifty six years (the period that elapsed from the Creation to the Flood) there is a heaven-shaking, just as there was in the days of the Flood. Come. then, and let us make supports for it” (Genesis Rabbah 38:6).",
+     "basis": "digitization"
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:1:2",
+     "he": "דבר אחר: על יחידו של עולם.",
+     "en": "ודברים אחדים AND ONE SPEECH — They came with one plan, saying: “He has no right to select the heavenly regions exclusively for Himself; let us ascend to the skies and make war upon Him”. Another explanation (of דברים אחדים which is taken to mean “words referring to “One”): words regarding the Sole Being (God) in the Universe. Another explanation of ודברים אחדים is: they spoke דברים חדים “sharp” words; they said, “Once in every one thousand six hundred and fifty six years (the period that elapsed from the Creation to the Flood) there is a heaven-shaking, just as there was in the days of the Flood. Come. then, and let us make supports for it” (Genesis Rabbah 38:6).",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:1:2",
+     "he": "דבר אחר: ודברים אחדים (ס\"א דברים חדים) אמרו אחת לאלף ותרנ\"ו שנים הרקיע מתמוטט כשם שעשה בימי המבול, בואו ונעשה לו סמוכות (ב\"ר).",
+     "en": "ודברים אחדים AND ONE SPEECH — They came with one plan, saying: “He has no right to select the heavenly regions exclusively for Himself; let us ascend to the skies and make war upon Him”. Another explanation (of דברים אחדים which is taken to mean “words referring to “One”): words regarding the Sole Being (God) in the Universe. Another explanation of ודברים אחדים is: they spoke דברים חדים “sharp” words; they said, “Once in every one thousand six hundred and fifty six years (the period that elapsed from the Creation to the Flood) there is a heaven-shaking, just as there was in the days of the Flood. Come. then, and let us make supports for it” (Genesis Rabbah 38:6).",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "question",
+     "he": "מה קשה לו? באר את בטויו \"לא כל המנו\". מניין לו המספר \"אלף ותרנ\"ו\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "מה קשה לו? באר את ביטויו \"לא כל הימנו\". מניין לו המספר \"אלף ותרנ\"ו\"?",
+     "scan_fixes": [
+      {
+       "digitized": "באר את ביטויו \"לא כל הימנו\"",
+       "scan": "באר את בטויו \"לא כל המנו\"",
+       "class": "spelling"
+      },
+      {
+       "digitized": "ביטויו \"לא כל הימנו\"",
+       "scan": "בטויו \"לא כל המנו\"",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 25,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:2:1",
+     "he": "ד\"ה בנסעם מקדם: שהיו יושבים שם, כדכתיב למעלה ויהי מושבם וגו' הר הקדם, ונסעו משם לתור להם מקום להחזיק את כולם ולא מצאו אלא שנער.",
+     "en": "בנסעם מקדם AS THEY JOURNEYED FROM THE EAST where they were then dwelling, as it is written above, (Genesis 20:30) “And their dwelling place was … the mountain of the East”. From there they journeyed to search out for themselves a place that would accommodate them all, but they found none except Shinar (Genesis Rabbah 38:7).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "איתא בבראשית רבה ל\"ה:\n\"נסעו מן מדינתא לעיול למדינתא? (נסעו ממזרח דכתיב ויהי מושב הר קדם ללכת למזרח? בתמיה).\nא\"ר אלעזר: הסיעו עצמם מקדמונו של עולם. אמרו: אי אפשנו לא בו ולא באלוהותו.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "מדינתא לעיול",
+       "scan": "מדינהא[?] לעיול",
+       "class": "substantive"
+      },
+      {
+       "digitized": "כשם שהביאם לפרק י\"ג פסוק י\"א:",
+       "scan": "כשם שהביאם י\"ג י\"א ד\"ה ויסע לוט מקדם?",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "איתא בבראשית רבה ל\"ה:\n\"נסעו מן מדינתא לעיול למדינתא? (נסעו ממזרח דכתיב ויהי מושב הר קדם ללכת למזרח? בתמיה).\nא\"ר אלעזר: הסיעו עצמם מקדמונו של עולם. אמרו: אי אפשנו לא בו ולא באלוהותו.",
+     "scan_fixes": [
+      {
+       "digitized": "בתמיה).",
+       "scan": "בתמיה.)",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "the «כשם שהביאם…» pair belongs to [27], not this item; «מדינהא[?]» is doubtful, digitization kept"
+     },
+     "scan_reading": "איתא בבראשית רבה ל\"ה:\n\"נסעו מן מדינתא לעיול למדינתא? (נסעו ממזרח דכתיב ויהי מושב הר קדם ללכת למזרח? בתמיה.)\nא\"ר אלעזר: הסיעו עצמם מקדמונו של עולם. אמרו: אי אפשנו לא בו ולא באלוהותו."
+    },
+    {
+     "i": 27,
+     "kind": "source",
+     "ref": "Rashi on Genesis 13:11:2",
+     "he": "למה אין רש\"י מביא את דברי המדרש כאן, כשם שהביאם לפרק י\"ג פסוק י\"א:\nד\"ה ויסע לוט מקדם: נסע מאצל אברם (למזרח) והלך לו למערבו של אברם נמצא נוסע ממזרח למערב. ומדרש אגדה: הסיע עצמו מקדמונו של עולם, אמר אי אפשי לא באברם ולא באלהיו.",
+     "en": "מקדם FROM THE EAST — He removed from Abram and went westward of Abram — consequently he travelled from the East to the West. A Midrashic explanation is: He wandered away from the Originator (מקדמונו) of the Universe, saying, “I want neither Abram nor his God” (Genesis Rabbah 41:7).",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "כשם שהביאם לפרק י\"ג פסוק י\"א:",
+       "scan": "כשם שהביאם י\"ג י\"א ד\"ה ויסע לוט מקדם?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 28,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:3:1",
+     "he": "ד\"ה איש אל רעהו: אומה לאומה - מצרים לכוש, וכוש לפוט, ופוט לכנען.",
+     "en": "איש אל רעהו ONE TO ANOTHER — One nation to the other: Mizraim to Cush, Cush to Put. and Put to Canaan (Genesis Rabbah 38:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 29,
+     "kind": "question",
+     "he": "מניין לו שאינו כמשמעו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 30,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:4:1",
+     "he": "ד\"ה פן נפוץ: שלא יביא עלינו שום מכה להפיצנו מכאן.",
+     "en": "פן נפוץ LEST WE BE SCATTERED ABROAD — That He shall not he able by bringing some plague upon us, to scatter us from here.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "question",
+     "he": "מה הוסיף ומה תיקן בבאורו?",
+     "scan_status": "DIFF",
+     "digitized_he": "מה הוסיף ומה תיקן בביאורו?",
+     "scan_fixes": [
+      {
+       "digitized": "בביאורו",
+       "scan": "בבאורו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 32,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:6:1",
+     "he": "ד\"ה הן עם אחד: כל טובה זו יש עמהן, שעם אחד הם ושפה אחת לכולם ודבר זה החלו לעשות.",
+     "en": "הן עם אחד BEHOLD, THEY ARE ONE PEOPLE — They possess all the advantage of being one people and of having one language common to all of them, and this is what they begin to do!",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": "after 32",
+     "kind": "question",
+     "he": "מה קשה לו?",
+     "basis": "scan-only",
+     "cite": "noach-scancheck/161942-1944.md §ב Q5 (on Rashi ד\"ה הן עם אחד; marked xx)",
+     "triage": {
+      "use": "scan",
+      "why": "scan-only question «מה קשה לו?», read by the checker"
+     }
+    },
+    {
+     "i": 33,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:6:3",
+     "he": "ד\"ה לא יבצר: בתמיה, יבצר לשון מניעה, כתרגומו. ודומה לו: יבצור רוח נגידים (תהילים ע\"ו).",
+     "en": "לא יבצר מהם וגו' לעשות This is a question (although the ה which introduces an interrogative sentence is absent): SHALL THEY NOT BE RESTRAINED FROM DOING WHAT THEY IMAGINE TO DO? The word יבצר means “restraining”, as the Targum understands it; a similar instance is, (Psalms 76:13) “He restrains (יבצור) the spirit of princes”.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 34,
+     "kind": "question",
+     "he": "למה לו לפרש שהוא בתמיה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 35,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:9:1",
+     "he": "ד\"ה ומשם הפיצם: לימד שאין להם חלק לעולם הבא.",
+     "en": "ומשם הפיצם AND FROM THENCE DID THE LORD SCATTER THEM —This teaches that they have no portion in the world to come (Sanhedrin 107b). Which sin was greater: that of the generation of the Flood or that of the generation of the Dispersion? The former did not stretch forth their hands against God; the latter did stretch forth their hands against God to war against him (surely, then, the sin of the generation of the Dispersion was greater) and yet the former (the generation of the Flood) were drowned and these did not perish from the world! But the reason is that the generation of the Flood were violent robbers and there was strife among them, and therefore they were destroyed; but these conducted themselves in love and friendship, as it is said, “They were one people and had one language”. — You may learn from this how hateful to God is strife and how great is peace (Genesis Rabbah 38:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": "after 35",
+     "kind": "question",
+     "he": "מניין לו שאינו כמשמעו?",
+     "basis": "scan-only",
+     "cite": "noach-scancheck/161942-1944.md §ב Q7 (on Rashi ד\"ה ומשם הפיצם, עד \"לעולם הבא\")",
+     "triage": {
+      "use": "scan",
+      "why": "scan-only question «מניין לו שאינו כמשמעו?», read by the checker"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. וירד ה' לראות.",
+   "header_digitized": "ג. \"וירד ה' לראות\"",
+   "items": [
+    {
+     "i": 37,
+     "kind": "source",
+     "ref": "Genesis 11:5",
+     "he": "\"וַיֵּרֶד ה' לִרְאֹת\"",
+     "en": "And the LORD came down to see the city and the tower, which the children of men builded.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 38,
+     "kind": "text",
+     "he": "מורה נבוכים, מאמר א' פרק י':\nהירידה והעלייה שני שמות מונחים בלשון העברי לעניין ידוע, כי כשיעתק הגוף ממקום אל מקום שפל ממנו יאמר \"ירד\" וכשיעתק ממקום אל מקום גבוה ממנו יאמר \"עלה\". ואחר כן הושאלו לגדולה ולעצם, עד שכשתשפל מעלת האיש – יאמר \"ירד\" וכשתגבה מעלתו כגדולה – יאמר עלה, (דברים כ\"ח מ\"ג) \"הגר אשר בקרבך יעלה... \" ...\nוכן כשתרד מכה באומה ובאקלים, כפי רצונו הקדום, אשר יקדימו ספרי הנבואה קודם ספר המכה ההיא – לספר שה' פקד מעשיהם ואחר כן הוריד בהם העונש (= כמו שבאמת מוצאים אנו את ספרי הנבואה מעידים על כך, שאין עונש אלא על חטא – שכן הם מקדימים תמיד לסיפורם על העונש שהביא האלוהים על אנשים את הסיפור שהאלוה בדק מעשיהם ומצאם פגומים), יכנה העניין הזה גם כן ב\"ירידה\", להיות האדם שפל ונבזה שיפקדו מעשיו ויענש עליהם. וכבר התבאר פה... (תהלים ה': \"מה אנוש כי תזכרנו...\") ולזה (=משום כך) כינה זה העניין ב\"ירידה\" – אמר: \"הבה נרדה ונבלה שם שפתם\", \"וירד ה' לראות\" (י\"ח כ\"א): \"ארדה נא ואראה\", והעניין כולו – בוא העונש באנשי השפל.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 39,
+     "kind": "text",
+     "he": "(עיין שם כל הפרק).",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 40,
+     "kind": "question",
+     "he": "1. כיצד מפרש הרמב\"ם את פסוקנו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 41,
+     "kind": "question",
+     "he": "2. מי ממפרשינו מפרש אף הוא בדרך הרמב\"ם?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 42,
+     "kind": "source",
+     "ref": "Rashi on Genesis 11:5:1",
+     "he": "ד\"ה וירד ה' לראות: לא הוצרך לכך. אלא בא ללמד לדיינים שלא ירשיעו הנדון עד שיראו ויבינו, במדרש רבי תנחומא.",
+     "en": "'וירד ה לראות AND THE LORD CAME DOWN TO SEE — He really did not need to do this, but Scripture intends to teach the judges that they should not proclaim a defendant guilty before they have seen the case and thoroughly understand the matter in question. This is to be found in Midrash of R. Tanchuma.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 43,
+     "kind": "source",
+     "ref": "Sforno on Genesis 11:5:1",
+     "he": "ד\"ה וירד ה' לראות: הנה לשון הירידה לראות יאמר על האל יתברך כשאין הענין אז ראוי לעונש אלא מפני הקלקול הנמשך אליו בסוף הענין כבן סורר ומורה שאמרו: ירדה תורה לסוף דעתו. וכן היה ענין סדום שכתב בו: ארדה נא ואראה. כי אמנם לא היה רשעם אז יותר משאר העובדי גילולים כדי לענשם בעולם הזה זולתי בענין האכזריות נגד עניי עם שהיה נמשך ממנו קלקול גמור בסוף, כאמרו (יחזקאל ט\"ז מ\"ט) הנה זה היה עון סדום אחותך ויד עני ואביון לא החזיקה. וכן היה עונש ישראל בהגלותם כאמרו אראה מה אחריתם.",
+     "en": "וירד ה' לראות, The Torah uses the expression “G’d descended to see, etc.,” only when the sins committed by the people concerned were not yet ripe for severe punishment but would become so if left unchecked. Retribution which results from G’d “descending,” must be viewed as a kind of preventive medicine, designed to avoid the need for more drastic action at a later stage. One well known example of G’d’s preventive retribution is the בן סורר ומורה, a thirteen year old who stole a little meat and wine from his parents, and whose punishment is execution if the parents brought him to court as an unmanageable teenager (Deut. 21,18, see Rashi, and Sanhedrin 72 on this). In the case of Sodom, where G’d is also reported as “descending,” (Genesis 18,21) this also occurred at a time when their sin had not yet been greater than that of other surrounding nations, so that only these cities had to be singled out for punishment at that time. What distinguished the Sodomites was only the cruelty with which they committed the same kind of sins as those committed by other nations. This would eventually have led to such a corrupt world that the need for G’d to intervene on a global rather than a local basis, would have become unavoidable. Ezekiel 16,49 also describes the sin of the Sodomites in such terms when he wrote הנה זה היה עון סדום אחותך...ויד עני ואביון לא החזיקה”This was the sin of Sodom your sister…..but the hand of the poor and the needy she did not support.” Similarly, the punishment of the Israelites when they were exiled was brought forward out of concern that something worse might become their fate if G’d did not intervene at that time and exile them so that He would not eventually have to punish them even more harshly. (Deut 32,20) “I can see what would be their ultimate end.”",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 44,
+     "kind": "question",
+     "he": "מה בינם לבין הרמב\"ם?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "מה בינם לבין הרמב\"ם?",
+       "scan": "עיין רש\"י, ספורנו: מה בינם לבין הרמב\"ם?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "the scan adds the pointer «עיין רש\"י, ספורנו:» before the same question; the pointer is the sources that follow"
+     }
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: [4]–[14]: full Rashi / Ibn Ezra / Sforno texts are the digitizer's; the scan gives pointers with the start/stop points above.",
+  "§א: [10] label «פסוק ז'» expands the scan's bare «ז'».",
+  "§א: The Rashi pointer's verse letter for «בני האדם» is ב' in the scan; the digitizer linked 11:5.",
+  "§ב: Question numbers 1–7 and the verse letters (א, ב, ג, ד, ו, ט) are dropped.",
+  "§ב: Difficulty marks dropped: Q1 x, Q2 x, Q4 x, Q5 xx.",
+  "§ב: All Rashi texts are the digitizer's.",
+  "§ג: Difficulty marks dropped (Q1 x, Q2 x overtyped, Q3 x).",
+  "§ד: Numbers «1.» and «2.» are the digitizer's; the scan has «ה.» on the first line only.",
+  "§ד: The two verse texts [46], [49] are the digitizer's."
+ ],
+ "needs_human": []
+}

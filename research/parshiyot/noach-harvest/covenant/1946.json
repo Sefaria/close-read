@@ -1,0 +1,525 @@
+{
+ "sheet_id": 161548,
+ "year_g": "1946",
+ "year_he": "תש\"ו",
+ "theme": "covenant",
+ "title": "פרשת נח תש\"ו - היציאה מן התיבה",
+ "sefaria_url": "https://www.sefaria.org/sheets/161548",
+ "pdf_url": "https://www.nechama.org.il/pdf/897.pdf",
+ "scancheck": "noach-scancheck/161548-1946.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "שאלות ברש\"י:",
+   "header_digitized": "א. שאלות ודיוקים ברש\"י",
+   "items": [
+    {
+     "i": 1,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:16:1",
+     "he": "ד\"ה אתה ואשתך: איש ואשתו, כאן התיר להם תשמיש המטה.",
+     "en": "’אתה ואשתך וגו THOU AND THY WIFE etc. — Husband and wife are mentioned together— now He allowed them to resume family life (Genesis Rabbah 34:8).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 2,
+     "kind": "question",
+     "he": "מה קשה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "text",
+     "he": "והשוה",
+     "scan_status": "DIFF",
+     "digitized_he": "והשווה-",
+     "scan_fixes": [
+      {
+       "digitized": "והשווה-",
+       "scan": "והשוה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 4,
+     "kind": "source",
+     "ref": "Genesis 6:18",
+     "he": "\"וַהֲקִמֹתִי אֶת בְּרִיתִי אִתָּךְ וּבָאתָ אֶל הַתֵּבָה אַתָּה וּבָנֶיךָ וְאִשְׁתְּךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ\"",
+     "en": "But I will establish My covenant with thee; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’wives with thee.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "source",
+     "ref": "Genesis 7:7",
+     "he": "\"וַיָּבֹא נֹחַ וּבָנָיו וְאִשְׁתּוֹ וּנְשֵׁי בָנָיו אִתּוֹ אֶל הַתֵּבָה מִפְּנֵי מֵי הַמַּבּוּל\"",
+     "en": "And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, before the waters of the flood.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:19:1",
+     "he": "ד\"ה למשפחותיהם: קיבלו עליהם על מנת לידבק במינן.",
+     "en": "למשפחתיהם AFTER THEIR FAMILIES — They took upon themselves to keep to their specie.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "מה קשה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 8,
+     "kind": "source",
+     "ref": "Rashi on Genesis 8:21:2",
+     "he": "ד\"ה לא אוסיף, ולא אוסיף: כפל הדבר לשבועה, הוא שכתוב (ישעיהו נ\"ד ט') \"אשר נשבעתי מעבור מי נח\", ולא מצינו בה שבועה אלא זו שכפל דבריו והיא שבועה, וכן דרשו חכמים במסכת שבועות (ל\"ו א').",
+     "en": "לא אסף… ולא אסף I WILL NEVER AGAIN … NEITHER WILL I EVER AGAIN — He repeated the expression that it might serve as a solemn oath, and it is to this that the text (Isaiah 54:9) refers: “For as I have sworn that the waters of Noah [will never again pass over the earth]”. We, however, do not find any explicit oath regarding this, but this passage in which He repeated these words, which may be regarded as an oath. Thus do our Sages explain in Treatise Shevuot 36a.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 9,
+     "kind": "question",
+     "he": "מה קשה לו?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:13:1-3",
+     "he": "ד\"ה קץ כל בשר: כל מקום שאתה מוצא זנות ועבודה זרה, אנדרלמוסיא באה לעולם והורגת טובים ורעים. ד\"ה כי מלאה הארץ חמס: לא נחתם גזר דינם אלא על הגזל. ד\"ה את הארץ: כמו מן הארץ, ודומה לו (שמות ט' כ\"ט) \"כצאתי את העיר\" - מן העיר, (מלכים א' ט\"ו כ\"ג) \"חלה את רגליו\" - מן רגליו. דבר אחר - \"את הארץ\" - עם הארץ, שאף שלושה טפחים של עומק המחרישה נמוחו ונטשטשו.",
+     "en": "קץ כל בשר THE END OF ALL FLESH — Wherever you find lewdness and idolatry, punishment of an indiscriminate character comes upon the world killing good and bad alike (Genesis Rabbah 26:5). כי מלאה הארץ חמס FOR THE EARTH IS FILLED WITH VIOLENCE — Their fate was sealed only on account of their sin of robbery (Sanhedrin 108a). את הארץ [I WILL DESTROY THEM] WITH THE EARTH — It is similar to מן הארץ \"from the earth”; other examples of this use of את are: (Exodus 9:29) בצאתי ‘‘when I go forth” את העיר which means מן העיר “from the city” and (1 Kings 15:23) חלה ‘‘he suffered” את רגליו which means מן רגליו ‘‘from his feet”. Another explanation of את הארץ is: “together with the earth” — for the earth was blotted out and washed away to the depth of a furrow of three handbreadths (Genesis Rabbah 31:7).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 8:21:4",
+     "he": "ד\"ה אל לבו:...וטעם לא אוסיף עוד לקלל כאשר קיללה על ידי אדם כי כן כתוב ארורה האדמה.",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "question",
+     "he": "לאיזה קללת אדמה מתכוון הפסוק לדעתם? הבא הוכחות לדעת רש\"י!",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "לאיזה קללת אדמה מתכוון הפסוק לדעתם?",
+       "scan": "לאיזו קללת אדמה מתכון הפ' לדעתם?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 13,
+     "kind": "question",
+     "he": "צידה לדרך מקשה:\nלמה לא הלך רש\"י בעקבות הגמרא ולא הביא ראיה מכפל של ט' י\"א \"ולא יכרת\" \"ולא יהיה...\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "5. צידה לדרך, מקשה:\nלמה לא הלך רש\"י בעקבות הגמרא ולא הביא ראיה מכפל של ט' י\"א \"ולא יכרת\" \"ולא יהיה...\"?",
+     "scan_fixes": [
+      {
+       "digitized": "5. צידה לדרך, מקשה:",
+       "scan": "xx צידה לדרך מקשה:",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 14,
+     "kind": "text",
+     "he": "תרץ קושיתו.",
+     "scan_status": "DIFF",
+     "digitized_he": "תרץ קושייתו!",
+     "scan_fixes": [
+      {
+       "digitized": "תרץ קושייתו!",
+       "scan": "תרץ קושיתו.",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ב. שאלות מבנה וסגנון:",
+   "header_digitized": "ב. סדר החיות",
+   "items": [
+    {
+     "i": 16,
+     "kind": "source",
+     "ref": "Genesis 7:8",
+     "he": "\"מִן הַבְּהֵמָה הַטְּהוֹרָה וּמִן הַבְּהֵמָה אֲשֶׁר אֵינֶנָּה טְהֹרָה וּמִן הָעוֹף וְכֹל אֲשֶׁר רֹמֵשׂ עַל הָאֲדָמָה\"",
+     "en": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the ground,",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "1. התוכל לבאר את חסר ו' החבור בתחילת פ' י\"ז ובתחילת פ' י\"ט (ועי' גם ז' ח') לעומת השמוש המרובה בו' החבור בתוך ט\"ז ובתוך י\"ז?",
+     "scan_status": "DIFF",
+     "digitized_he": "לעומת השימוש המרובה בו' החיבור בתוך פסוק ט\"ז ובתוך פסוק י\"ז?",
+     "scan_fixes": [
+      {
+       "digitized": "לעומת השימוש המרובה בו' החיבור בתוך פסוק ט\"ז ובתוך פסוק י\"ז?",
+       "scan": "1. התוכל לבאר את חסר ו' החבור בתחילת פ' י\"ז ובתחילת פ' י\"ט (ועי' גם ז' ח') לעומת השמוש המרובה בו' החבור בתוך ט\"ז ובתוך י\"ז?",
+       "class": "substantive"
+      }
+     ],
+     "scan_unapplied": [
+      {
+       "digitized": "לעומת השימוש המרובה…",
+       "scan": "1. התוכל לבאר את חסר ו' החבור בתחילת פ' י\"ז ובתחילת פ' י\"ט (ועי' גם ז' ח') לעומת השמוש המרובה בו' החבור בתוך ט\"ז ובתוך י\"ז?",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "the digitization lost the opening of her Q1; the scan has «1. התוכל לבאר את חסר ו' החבור בתחילת פ' י\"ז ובתחילת פ' י\"ט (ועי' גם ז' ח') לעומת…» (spot-checked by Claude 2026-10-12 on the same scan as Q8)"
+     }
+    },
+    {
+     "i": 18,
+     "kind": "question",
+     "he": "הסבר את הסדר בו נמנו בעלי החי בפסוק י\"ז ומדוע נמנו בסדר אחר בפרק ז' פסוק י\"ד?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "בפסוק י\"ז … בפרק ז' פסוק י\"ד?",
+       "scan": "בפ' י\"ז … בז' י\"ד?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בפסוק י\"ז … בפרק ז' פסוק י\"ד",
+       "scan": "בפ' י\"ז … בז' י\"ד",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 19,
+     "kind": "source",
+     "ref": "Genesis 8:17",
+     "he": "\"כָּל הַחַיָּה אֲשֶׁר אִתְּךָ מִכָּל בָּשָׂר בָּעוֹף וּבַבְּהֵמָה וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ הוצא אִתָּךְ וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל הָאָרֶץ\"",
+     "en": "Bring forth with thee every living thing that is with thee of all flesh, both fowl, and cattle, and every creeping thing that creepeth upon the earth; that they may swarm in the earth, and be fruitful, and multiply upon the earth.’",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "source",
+     "ref": "Genesis 7:14",
+     "he": "\"הֵמָּה וְכָל הַחַיָּה לְמִינָהּ וְכָל הַבְּהֵמָה לְמִינָהּ וְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ לְמִינֵהוּ וְכָל הָעוֹף לְמִינֵהוּ כֹּל צִפּוֹר כָּל כָּנָף\"",
+     "en": "they, and every beast after its kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after its kind, and every fowl after its kind, every bird of every sort.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ג. כ\"א. לא אוסיף לקלל עוד את האדמה בעבור האדם כי יצר לב האדם רע מנעוריו",
+   "header_digitized": "ג. \"...יצר לב האדם רע מנעוריו\"",
+   "items": [
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Genesis 8:21",
+     "he": "\"לֹא אֹסִף לְקַלֵּל עוֹד אֶת הָאֲדָמָה בַּעֲבוּר הָאָדָם כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו\"",
+     "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "source",
+     "ref": "Abarbanel on Torah, Genesis 8:15:4",
+     "he": "אברבנאל, מקשה לפסוק זה שתי שאלות:\nא. למה לא חשב ה' כזאת בתחילה עד דור המבול, ולא יענישם בהשחתה כוללת, כיוון שיצרו רע מנעוריו??",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 24,
+     "kind": "source",
+     "ref": "Abarbanel on Torah, Genesis 8:15:5",
+     "he": "אברבנאל, מקשה לפסוק זה שתי שאלות:\nב. למה נתן טעם, שלא יקלל בעבור יצרו הרע, אדרבא, היא הנותנת, שמפני זה ראוי לקללם ולהשחיתם. והנה (ו' ה') אמר: \"וירא ה'... וכל יצר מחשבות האדם רק רע... ויאמר ה' אמחה...\" - הרי לך ששם עשה הוא יתברך את רוע יצר סיבה לקללה ולהשחתה ובפסוקנו עשה רוע היצר סיבה שלא יקלל, ואיך היה הדבר אחד סיבה לשני הפכים??",
+     "en": "",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 25,
+     "kind": "text",
+     "he": "(שאלה זו נשאלת גם במפרשים אחרים)",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 26,
+     "kind": "text",
+     "he": "והנה אחדות מן התשובות הנתונות ע\"י המפרשים:",
+     "scan_status": "DIFF",
+     "digitized_he": "והנה אחדות מן התשובות הניתנות על ידי המפרשים:",
+     "scan_fixes": [
+      {
+       "digitized": "התשובות הניתנות על ידי המפרשים",
+       "scan": "התשובות הנתונות ע\"י המפרשים",
+       "class": "substantive"
+      },
+      {
+       "digitized": "הניתנות על ידי",
+       "scan": "הנתונות ע\"י",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "«הנתונות ע\"י» per the scan"
+     }
+    },
+    {
+     "i": 27,
+     "kind": "text",
+     "he": "עקדת יצחק:\nבהביא ה' המבול על העולם תוקן טבע המין האנושי ויצא מההפסד שהיה בו מתחילה משני פנים: האחד מטבע הנערות שהייתה בו בתחילה. כי כמו שהעשור הראשון והשני רובו בשנות חיי האדם הולך בהבל, בשעשוע הילדות ותעתוע הנערות אבל משם ואילך (-מגיל 20) הנה השכל הולך ומתחזק והוא נהפך לאיש אחר ויבוש ממעשה ילדותו, כן באמת היה עניין העולם הכללי. כי הנה האלף הראשון ורוב השני היה העולם נעור וריק ממוסר, ולא היה בהם כוח לעמוד על הטוב האמיתי, לא עם עצמם ולא עם זולתם, כי קשה הדבר לעמוד על כך בתחילה, וזהו טעם \"כי יצר לב האדם רע מנעוריו\" – מסיבת נעוריו. אמנם בהמשך הזמן יגער בו (-ביצרו) טבעו. שלא ישובו לכסלה עוד.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 28,
+     "kind": "text",
+     "he": "עקדת יצחק:\nוהשני מצד הרושם החזק והנפלא הנשאר בזכרון האנושות מהפורענות הקשה והנוראה אשר עשתה יד הבורא למכעיסיו (כלומר: המבול) אשר על ידה נקבעה יראה והכנעה והרתעה בהם לדורי דורות לדעת, כי כל האיש ההולך בשרירות לבו השמידו ה' מפניו. והנה תיקון האדם הזה (כלומר: התיקון הבא על ידי הזעזוע הנפשי מסיבת המבול) מצורף אל הקודם (אל התיקון הבא מסיבת התבגרות האנושות בדורות המאוחרים) הוא היה ה\"ריח הניחוח\" אשר בא לפניו יתברך, ובעבורו אמר: \"לא אוסיף לקלל עוד... כי יצר...\" הכוונה כי יצר לבם היה רע ומר בתחילת העולם ובנעוריו, ומעתה לא אוסיף עוד להכות כל חי, כי כבר נתחדש להם רוח נכון ומזג חדש.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 29,
+     "kind": "text",
+     "he": "רש\"ר הירש, (תרגום מגרמנית):\nהמלים \"כי יצר לב האדם רע מנעוריו\" הינן מאמר מוסגר - אם יקרה שוב כזאת, שיהיה יצר לב האדם רע – ואפילו מנעוריו (כנגד הטבע, כי הנוער בטבעו שואף לטוב) – ולא תהיה הצלה ופדות לעולם, כי אם בהשמדת כל הדור ההוא, גם אם יקרה שוב כדבר הזה, גם אז – \"לא אוסיף עוד להכות...\"",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 30,
+     "kind": "text",
+     "he": "יש מפרשים:",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 31,
+     "kind": "text",
+     "he": "אין \"כי יצר לב האדם...\" סיבה ל\"לא אוסיף\" כי אם הוא סיבה ל\"לקלל...\" כלומר לא אוסיף עוד לקלל כמו שקללתי בעבר בגלל יצרו הרע.",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "סיבה ל\"לא אוסיף\" … סיבה ל\"לקלל...\"",
+       "scan": "סבה … סבה",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 32,
+     "kind": "question",
+     "he": "1. כיצד מתרץ כל אחד מהנ\"ל את קושיות האברבנאל?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 33,
+     "kind": "question",
+     "he": "2. באיזה כוון הולכת התפתחות האנושות לפי דעת העקדה, האם הדורות המאוחרים (שאחרי המבול) טובים מקודמיהם או רעים מהם?",
+     "scan_status": "DIFF",
+     "digitized_he": "2. באיזה כיוון הולכת התפתחות האנושות לפי דעת העקדה בעניין זה? האם הדורות המאוחרים (שאחרי המבול) טובים מקודמיהם או רעים מהם?",
+     "scan_fixes": [
+      {
+       "digitized": "כיוון … לפי דעת העקדה בעניין זה? האם הדורות",
+       "scan": "כוון … לפי דעת העקדה, האם הדורות",
+       "class": "substantive"
+      },
+      {
+       "digitized": "כיוון … לפי דעת העקדה בעניין זה? האם",
+       "scan": "כוון … לפי דעת העקדה, האם",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "«בעניין זה?» is not in the scan"
+     }
+    },
+    {
+     "i": 34,
+     "kind": "question",
+     "he": "3. הידועה לך גם דעה אחרת מאשר זו של בעל העקדה בענין זה?",
+     "scan_status": "DIFF",
+     "digitized_he": "3. הידועה לך גם דעה אחרת מאשר זו של בעל העקדה בעניין זה?",
+     "scan_fixes": [
+      {
+       "digitized": "בעניין זה?",
+       "scan": "בענין זה?",
+       "class": "spelling"
+      },
+      {
+       "digitized": "בעניין",
+       "scan": "בענין",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 35,
+     "kind": "question",
+     "he": "4. במה נבדלים שני הפרושים האחרונים מכל פירוש רגיל של הפסוק?",
+     "scan_status": "DIFF",
+     "digitized_he": "4. במה נבדלים שני הפירושים האחרונים מכל פירוש רגיל של הפסוק?",
+     "scan_fixes": [
+      {
+       "digitized": "שני הפירושים האחרונים",
+       "scan": "שני הפרושים האחרונים",
+       "class": "spelling"
+      },
+      {
+       "digitized": "הפירושים",
+       "scan": "הפרושים",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 36,
+     "kind": "question",
+     "he": "5. התוכל להביא ראיה ממבנה הפסוק לדברי שני האחרונים?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 37,
+     "kind": "question",
+     "he": "6. באיזו הוראה יש לפרש את המלה \"כי\" בצירוף \"כי יצר לב...\" לפי הירש?",
+     "scan_status": "DIFF",
+     "digitized_he": "6. באיזו הוראה יש לפרש את המלה \"כי\" בצירוף \"כי יצר לב...\", לפי הירש?",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "באיזו הוראה יש לפרש את המלה \"כי\" בצירוף \"כי יצר לב...\", לפי הירש?",
+       "scan": "באיזה הוראה יש לפרש את \"כי\" של \"כי יצר לב...\" לפי הירש?",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "scan",
+      "why": "her wording: «באיזה הוראה יש לפרש את \"כי\" של \"כי יצר לב...\" לפי הירש?»"
+     }
+    },
+    {
+     "i": 38,
+     "kind": "question",
+     "he": "7. התוכל לענות על שאלת האברבנאל השניה על ידי השואה מדויקת בין פסוק ו' ה' לפסוקנו?",
+     "scan_status": "DIFF",
+     "digitized_he": "7. התוכל לענות על שאלת האברבנאל השנייה על ידי השוואה מדויקת בין פסוק ו' ה' לפסוקנו?",
+     "scan_fixes": [
+      {
+       "digitized": "השנייה על ידי השוואה",
+       "scan": "השניה על ידי השואה",
+       "class": "spelling"
+      },
+      {
+       "digitized": "השנייה … השוואה",
+       "scan": "השניה … השואה",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 39,
+     "kind": "source",
+     "ref": "Ibn Ezra on Exodus 13:17:2",
+     "he": "ד\"ה כי קרוב: אמר ר' משה: אף על פי שהוא קרוב. וכמוהו לפי דעתי \"כי עם קשה עורף הוא\" (להלן ל\"ד ט'), \"רפאה נפשי כי חטאתי לך\" (תהלים מ\"א ה'), \"כי רכב ברזל לו\" (יהושע י\"ז י\"ח).",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 40,
+     "kind": "text",
+     "he": "8. נסה לבאר את פסוקנו בדרך ראב\"ע שמות יג' י\"ז ד\"ה כי קרוב עד \"ועל דעתי\" ותרץ עי\"ז את קושית האברבנאל!",
+     "scan_status": "DIFF",
+     "digitized_he": "תרץ על ידי זה קושיית האברבנאל!",
+     "scan_fixes": [
+      {
+       "digitized": "תרץ על ידי זה קושיית האברבנאל!",
+       "scan": "8. נסה לבאר את פסוקנו בדרך ראב\"ע שמות יג' י\"ז ד\"ה כי קרוב עד \"ועל דעתי\" ותרץ עי\"ז את קושית האברבנאל!",
+       "class": "substantive"
+      }
+     ],
+     "basis": "scan",
+     "triage": {
+      "use": "scan",
+      "why": "the digitization kept only the tail of Q8; the full instruction is on the scan (verified by Claude on a 200 dpi crop, 2026-10-12)"
+     }
+    },
+    {
+     "i": 41,
+     "kind": "question",
+     "he": "9. מה מובנו של \"וירח ה' את ריח הניחוח\" לפי בעל העקדה?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: [1], [4]–[6], [8], [10], [11]: the scan gives bare pointers (verse, ד\"ה), the full texts are the digitizer's. Ibn Ezra has a start point «החל מן וטעם לא אוסיף» and no stopping point; the digitized excerpt begins «ד\"ה אל לבו:...וטעם לא אוסיף», consistent with it.",
+  "§א: Question numbers 1)–3) are dropped; a number «5.» is added on [13].",
+  "§א: The doubled «ולא אוסיף» lemma of Q3 is kept by the digitizer's Rashi ref.",
+  "§ב: Question numbers 1., 2. are dropped.",
+  "§ב: The pointers ז' ח', פ' י\"ז, ז' י\"ד are expanded into full verse refs.",
+  "§ג: Difficulty marks are kept as `*`/`**` on [34], [35], [36].",
+  "§ג: The second «עקדת יצחק:» label is the digitizer's."
+ ],
+ "needs_human": []
+}

@@ -216,3 +216,61 @@ Alternates: 1955 (PdRE, Malbim, Cassuto; Radak on "בני האדם"; Kaufmann on
    page stay unused.
 2. **Blood theme: 1948, 1957, 1970.** 1971 stays an alternate. 1970 is the Nataf edition (§7).
 3. **Everything else as proposed in §7.**
+
+## 8. Stage 3: scan check, triage, harvest (2026-10-12)
+
+**3a. Scan checks.** All 15 sheets, every section and every page, are checked against their scans in
+[`noach-scancheck/`](noach-scancheck/) (five parallel checkers; method in its README). I
+spot-checked one finding per checker on the scan, and all five held:
+- 1968 §ד Q3 is a different question in the digitization;
+- 1945 §ה Q2 is missing;
+- 1946 §ג Q8 is cut to its tail;
+- 1957 [27] «בבמה» is a typo for Rashi's «בבהמה»;
+- 1958 §ג opens with a Rashi the digitization lost.
+
+**What the scans show, beyond Bereshit's §2 findings:**
+- **Lost or rewritten questions:**
+  - 1968 §ד Q3 is replaced by an unrelated question ("the idea symbolized in this midrash"; there's no midrash in that section).
+  - 1945 §ה Q2, 1951 §ב Q3, 1960 §ד's last question, and 1944 §ב Q5 and Q7 are missing.
+  - 1946 §ב Q1 and §ג Q8 have lost their openings.
+  - 1958 §ג Q3 is reworded.
+- **Lost sources:** two Rashi passages she printed in full (1958, heads of §ג and §ד).
+- **Other losses:**
+  - Her underlining is dropped, and several questions ask about «המסומן בקו»; the checkers recorded the spans.
+  - Her x/xx and +/++ difficulty marks, legends and footers are dropped (1946, 1951 and 1964 keep them as `*`).
+  - 1970's section ה header is dropped, and its §ו is relettered ה.
+  - 1960 has no section ג in the scan; the digitizer's ג is her ד.
+- **Placement:** 1962 §ד's three midrash blocks are printed 2, 3, 1 in the scan.
+- **Absences [PDF-checked, all 30 scans]:**
+  - No sheet studies Noah's drunkenness or the curse of Canaan (9:20–27). The only trace is 1961's
+    bare pointer «ט' כ'», given as an example of the word אדמה; the digitization links it to 6:20.
+  - 11:10–25 is never quoted.
+  - Ch. 10 appears only as context for Babel (Nimrod, 10:5, 10:32).
+- **Perlman's box** is in exactly 1963, 1966 and 1967 (§2.1), and in no chosen sheet. 1968's boxed
+  note is a subscription notice; 1953's scan shares its pages with Lech Lecha 1953.
+
+**3b. Triage.** Each of the 114 substantive lines in her own words is decided in
+[`noach-scancheck/triage.json`](noach-scancheck/triage.json), with its reason. Most are form-only:
+plene/defective spelling, «מהן»/«מה הן», numbering, marks. For those **the digitization is kept**,
+because applying the checkers' mark-laden fragments garbles her text. Real word differences take
+the scan's reading. Five scan-only questions and two scan-only Rashi passages are inserted from
+`overrides.json`, and two word-level fixes are applied by its new `replace` list:
+- 1952's verse list: 37:13–14, not 17:13–14;
+- 1958 §ג Q3 in her wording.
+
+Every inserted question was read on the scan by Claude, not just by a checker, except 1944's two
+short ones («מה קשה לו?», «מניין לו שאינו כמשמעו?»). **REVIEW.md is empty.**
+
+**Harvest fixes** (in `harvest_noach.py`; `harvest_bereshit.py` has the same three bugs, harmless
+there only because its differences were all triaged and its output reviewed):
+1. Untriaged substantive differences used to be dropped silently; now they're held as
+   `scan_pending` and listed in REVIEW.md.
+2. Her difficulty marks used to be written into her text («1xx.», «xx צידה לדרך»); now they're stripped.
+3. A fragment whose «…» gaps don't line up used to replace the whole fragment, writing the
+   «…» in; now it's left unapplied.
+
+**Source texts** (not her words) can still carry `scan_pending` differences, e.g. 1957's
+«בבמה», 1964's Ramban «מהם בזרות», and 1968's Hirsch sentence. Drafters settle any they quote against
+the source's own text and record it in the theme trail.
+
+Verse texts for the parsha (plus Genesis 1) are cached in `noach-verses.json`.

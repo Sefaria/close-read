@@ -1,0 +1,384 @@
+{
+ "sheet_id": 161777,
+ "year_g": "1947",
+ "year_he": "תש\"ז",
+ "theme": "generation",
+ "title": "פרשת נח תש\"ז - נח",
+ "sefaria_url": "https://www.sefaria.org/sheets/161777",
+ "pdf_url": "https://www.nechama.org.il/pdf/1126.pdf",
+ "scancheck": "noach-scancheck/161777-1947.md",
+ "scancheck_missing": false,
+ "sections": [
+  {
+   "letter": "א",
+   "header_scan": "א. שאלה כללית:",
+   "header_digitized": "א. פרק ו ופרק ז",
+   "items": [
+    {
+     "i": 2,
+     "kind": "text",
+     "he": "השוה את הפסוקים המקבילים בפרק ו' ובפרק ז', כגון:",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 3,
+     "kind": "text",
+     "he": "פרק ו' \n פרק ז'  \n \n \nפסוק י\"ג\n\"וַיֹּאמֶר אֱ-לֹהִים לְנֹחַ קֵץ כָּל בָּשָׂר...\" \n \nפסוק א'\n\"וַיֹּאמֶר ה' לְנֹחַ בֹּא אַתָּה וְכָל בֵּיתְךָ...\" \n \n \nפסוק כ\"ב\n\"וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱ-לֹהִים\" \n \nפסוק ה'\n\"וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּהוּ ה'\" \n \n פסוק י\"ט\n\"וּמִכָּל הָחַי מִכָּל בָּשָׂר שְׁנַיִם...\" \n \nפסוק ב'\n\"מִכֹּל הַבְּהֵמָה הַטְּהוֹרָה... שִׁבְעָה שִׁבְעָה\" \n \n פסוק כ'\n\"מֵהָעוֹף לְמִינֵהוּ וּמִן הַבְּהֵמָה לְמִינָהּ\" \n \nפסוק ג' \n\"גַּם מֵעוֹף הַשָּׁמַיִם שִׁבְעָה שִׁבְעָה\" \n \n \nפסוק י\"ט\n\"...תָּבִיא אֶל הַתֵּבָה\"\nפסוק כ'\n\"... אֵלֶיךָ\" \n \nפסוק ב'\n\"מִכֹּל הַבְּהֵמָה הַטְּהוֹרָה תִּקַּח לְךָ\"\nוהשווה: פרק ו' פסוק כ\"א\n\"וְאַתָּה קַח לְךָ מִכָּל מַאֲכָל \" \n \n \nפסוק י\"ח\n\"וּבָאתָ אֶל הַתֵּבָה אַתָּה וּבָנֶיךָ וְאִשְׁתְּךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ\" \n פסוק א'\n\"בֹּא אַתָּה וְכָל בֵּיתְךָ\"",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 4,
+     "kind": "text",
+     "he": "ועוד ועוד ועוד...",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 5,
+     "kind": "text",
+     "he": "מלבי\"ם:\nוהנה דיבור ה' בפרק ז' אינו מעניין דיבור הקודם (בפרק ו'), שדיבור הראשון היה מצד שהוא אלוקים בורא העולם, שהעולם נברא ומתקיים בשם אלוקים, כמו ששמענו בכל פרשת בראשית, לא נזכר רק שם אלוקים, והוא אשר השגיח עתה שבבוא המבול לא יחסר מין אחד מן המציאות. ובדיבור השני (פרק ז') אמר מאמר אחר, מיוחד מצד השגחתו הפרטית על נח, שהיה צדיק לפניו, וה' ישגיח על ענייני האדם הצדיק וקניינו וצורכי ביתו.",
+     "scan_status": "DIFF",
+     "basis": "digitization"
+    },
+    {
+     "i": 6,
+     "kind": "question",
+     "he": "1. מהם השינויים בתוכן ובסגנון בין שני הפרקים המתבארים מתוך ההבדל העקרוני הזה, וכיצד הם מתבארים על פיו?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "מהם השינויים בתוכן ובסגנון … העקרוני הזה, וכיצד",
+       "scan": "מה הם השנויים בתכן ובסגנון … העקרוני הזה וכיצד",
+       "class": "substantive"
+      },
+      {
+       "digitized": "מהם השינויים בתוכן",
+       "scan": "מה הם השנויים בתכן",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 7,
+     "kind": "question",
+     "he": "2. התוכל להסביר, לפי דברי המלבי\"ם הנ\"ל, לשם מה באה ההדגשה היתירה של \"למינהו\" (שלוש פעמים!) בפרק ו' פסוק כ'?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "התוכל להסביר, לפי דברי המלבי\"ם הנ\"ל, לשם מה … (שלוש פעמים!) בפרק ו' פסוק כ'?",
+       "scan": "התוכל להסביר לפי דברי המלבי\"ם הנ\"ל לשם מה … (שלש פעמים!) בו' כ'?",
+       "class": "substantive"
+      },
+      {
+       "digitized": "(שלוש פעמים!) בפרק ו' פסוק כ'",
+       "scan": "(שלש פעמים!) בו' כ'",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    }
+   ]
+  },
+  {
+   "letter": "ב",
+   "header_scan": "ראב\"ע - רמב\"ן",
+   "header_digitized": "ב. \"אלה תולדות\"",
+   "items": [
+    {
+     "i": 9,
+     "kind": "source",
+     "ref": "Genesis 6:9",
+     "he": "\"אֵלֶּה תּוֹלְדֹת\"",
+     "en": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 10,
+     "kind": "text",
+     "he": "ראב\"ע – רמב\"ן",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    },
+    {
+     "i": 11,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 6:9:1",
+     "he": "ד\"ה אלה תולדות: כמו הקורות, כטעם \"מה ילד יום\". וכמוהו \"אלה תולדות יעקב\".",
+     "en": "Righteous. In his deeds.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 12,
+     "kind": "source",
+     "ref": "Ramban on Genesis 6:9:1",
+     "he": "ד\"ה אלה תולדות נח: טעמו פירשו בו (הראב\"ע, והרד\"ק) קורותיו, כטעם \"מה ילד יום\" (משלי כ\"ז א'), וירמוז אל כל הפרשה. ואינו נכון בעיני, כי אין קורות האדם תולדותיו. והנכון שהוא כמשמעו, כמו \"אלה תולדות בני נח\" (להלן י' א'), \"ואלה תולדות ישמעאל\" (להלן כ\"ה י\"ב), יאמר \"אלה תולדות נח שם חם ויפת\". אבל החזיר \"ויולד נח\" בעבור שהפסיק ואמר \"נח איש צדיק תמים היה\", להודיע למה ציוהו בתיבה. ואף על פי שכבר אמר למעלה (ה' ל\"ב) \"ויהי נח בן חמש מאות שנה ויולד נח את שם את חם ואת יפת\", חזר להזכירם פעם אחרת, להגיד כי לא היה ככל אבותיו שיולידו בנות ובנים. וזה טעם \"שלושה בנים\", כי יזכיר מספרם לאמר כי אלה שלושה לבדם היו תולדותיו, וניצלו בזכותו, ומאלה נפצה כל הארץ.",
+     "en": "אלה תולדות נח THESE ARE THE OFFSPRING OF NOAH- The meaning of the word תולדות (offspring)some explain it to mean \"the events of [Noach's] life\" like the meaning of a related word in the Passuk מה ילד יום (משלי כז א) \"what a day may bring about\"(ילד) consequently this introductory clause alludes to the entire portion that follows. But this is not pleasing in my eyes for the events of a man are not called his “offspring” which is the plain meaning of תולדות. the most satisfying explanation is that [תולדות] is to be taken in the literal sense like אלה תולדות בני נח (להלן י א) \"these are the descendants of Noach\" and \"these are the children of Yishmael.\" The verse is saying, These are the offspring of Noah (V.9) Shem, Cham and Jafet. The torah however repeats \"Noach had begotten\" [3 sons] because it interrupted the description by saying \"Noah was a completely innocent man\" to tell us why G'D commanded him about building the ark. Although the Torah already said above (ה לב) ויהי נח בן חמש מאות שנה ויולד נח את שם את חם ואת יפת it repeats their names again, to tell us that Noah was not like his forefathers who had “sons and daughters” (implying many children) and had only three. This is also why it says three sons (which is obvious). It mentions the amount to tell us 1) that these 3 were his only children and 2) it was from these 3 that the whole world spread out. [NOAH] WAS A COMPLETELY INNOCENT MAN-The Passuk mentions that Noah was free of guilt and complete in his innocence, to let us know that he deserved to be saved from the deluge because he didn’t deserve any punishment at all, for he was perfect in his vindication from crime. The word \"tzaddik\" refers to someone who is innocent in judgment the opposite of \"rasha\" a guilty individual, like it says “and they vindicate the innocent one (tzaddik) and condemn the guilty (rasha) one” and “You are blameless (tzaddik) for all that has come upon us for You have acted faithfully” and also “You shall judge your fellow fairly (B'tzedek)” concerning Avraham however who it says \"acting with righteousness (tzedakah) and justness (mishpat)\", the Torah praises him for the trait of justness (tzedek) [but calls it] mishpat and praises him for compassion and calls it tzedakah. Rabbi Avraham (Ibn Ezra) says \"tzaddik\" refers to his actions and \"tamim\" to his thoughts. But it says \"You were perfect in your ways\" meaning conduct! After telling us Noah was an innocent man, meaning that he wasn’t a man of “injustice” or one who \"corrupted his ways” like the people of his time the Torah then says that he “would walk with the Glorious Name,” meaning fearing G-D alone, and wouldn’t be deluded to follow stargazers, diviners or cloud readers, all the more so to follow idolatry. He wouldn’t listen to diviners at all. Only to cling to G'D at all times following the path G'D has chosen for man, or the path that he was instructed being that he was a prophet. This is in accordance with its meaning in the verse \"You should walk after GD your G’D and fear him,\" which is speaking about rejecting one who gives false prophecy trying to make people worship idol’s and gives a sign or performs a wonder, as I will explain there. I will also mention this interpretation on the Passuk walk before me and be perfect if the “One of Perfect Knowledge (G’D)” will be with me. Now since Noah was an innocent individual, and didn’t deserve to be punished, his sons and household also deserved to be saved in his merit, because it would be a punishment for him if his offspring were to be destroyed. Also, [the Torah] is telling us that he was a “perfectly innocent” individual and so were his sons and household- for he taught them to follow his footsteps, like what it says by Avraham, For I cherished him, for he commands his children and household… IN HIS GENERATIONS- some rabbis expound it as praise: All the more so if he would have lived in a generation that was righteous. And others who expound it as condemnation. This is the words of Rashi. In my view, the most satisfying explanation, according to the simple meaning is that he was the only innocent person in those generations; there wasn’t a innocent or perfect person in his generation besides him. Similarly, For it is you that I have seen to be innocent before Me n this generation – there was no one else that was worthy of being saved in that generation. It says “in his generations” (plural) because many generations had passed since the time people began to corrupt their ways, and there was no innocent person on earth except for him. And don’t allow the words of the sages about Methuselah (that he was righteous) present a question to you, because the Torah only says that there wasn’t a blameless person who was worthy of being saved from the Deluge during all those generations.",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 13,
+     "kind": "text",
+     "he": "מה בין ראב\"ע לרמב\"ן בפירוש המילה \"תולדות\".",
+     "scan_status": "DIFF",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "בפירוש המילה \"תולדות\".",
+       "scan": "1. … בפירוש המלה \"תולדות\"?",
+       "reason": "gaps do not line up; digitization kept",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 14,
+     "kind": "source",
+     "ref": "Ibn Ezra on Genesis 37:1:1",
+     "he": "עיין גם ראב\"ע, פרק ל\"ז פסוק א':\nד\"ה וישב: ...והטעם אלה תולדות יעקב: אלו המאורעות שאירעו לו והמקרים שבאו עליו. מגזרת \"מה ילד יום\" (משלי כ\"ז, א').",
+     "en": "",
+     "scan_status": "EXPANDED",
+     "scan_pending": [
+      {
+       "digitized": "עיין גם ראב\"ע, פרק ל\"ז פסוק א':",
+       "scan": "(עיין גם ראב\"ע ל\"ז א ד\"ה וישב החל מן \"והטעם אלה תולדות\").",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization"
+    },
+    {
+     "i": 15,
+     "kind": "text",
+     "he": "הסבר את דברי הרמב\"ן כאן \"והנכון שהוא כמשמעו\".",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "\"והנכון שהוא כמשמעו\"",
+       "scan": "\"והנכון שהוא במשמעו[?]\"",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "«במשמעו[?]» is doubtful; Ramban's own text (Sefaria) reads «כמשמעו», which she is quoting"
+     }
+    },
+    {
+     "i": 16,
+     "kind": "question",
+     "he": "2. מהן טענות הרמב\"ן נגד הראב\"ע?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "מהן טענות",
+       "scan": "מה הן טענות",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 17,
+     "kind": "question",
+     "he": "3. התוכל להסיר את תלונות הרמב\"ן מעל הראב\"ע?",
+     "scan_status": "MATCH",
+     "basis": "digitization"
+    }
+   ]
+  },
+  {
+   "letter": "ג",
+   "header_scan": "ברש\"י",
+   "header_digitized": "ג. שאלות ודיוקים ברש\"י",
+   "items": [
+    {
+     "i": 19,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:9:1",
+     "he": "ד\"ה אלה תולדות נח: הואיל והזכירו, סיפר בשבחו, שנאמר (משלי י') \"זכר צדיק לברכה\".",
+     "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 20,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:9:1",
+     "he": "דבר אחר: לימדך שעיקר תולדותיהם של צדיקים, מעשים טובים.",
+     "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 21,
+     "kind": "question",
+     "he": "מה קשה לו? מה ההבדל העקרוני בין שני פירושיו? (ועיין רש\"י י\"ח י\"ח). העתק את פסוקנו פעמיים, וסמן סימני פיסוק בהתאם לכל אחד מפירושי רש\"י!",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "בין שני פירושיו? (ועיין רש\"י י\"ח י\"ח). העתק את פסוקנו פעמיים, וסמן סימני פיסוק בהתאם לכל אחד מפירושי רש\"י!",
+       "scan": "בין שני פרושיו?(ועי' רש\"י יח יח) העתק את פסוקנו פעמים וסמן בסמני פסוק בהתאם לכל אחד מפרושי רש\"י!",
+       "class": "substantive"
+      },
+      {
+       "digitized": "פירושיו? (ועיין רש\"י י\"ח י\"ח). … פעמיים, וסמן סימני פיסוק … מפירושי",
+       "scan": "פרושיו?(ועי' רש\"י יח יח) … פעמים וסמן בסמני פסוק … מפרושי",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 22,
+     "kind": "source",
+     "ref": "Rashi on Genesis 6:9:2",
+     "he": "ד\"ה בדורותיו: (סנהדרין ק\"ט) יש מרבותינו דורשים אותו לשבח: כל-שכן שאילו היה בדור צדיקים, היה צדיק יותר. ויש שדורשים אותו לגנאי: לפי דורו היה צדיק, ואילו היה בדורו של אברהם, לא היה נחשב לכלום.",
+     "en": "בדורותיו IN HIS GENERATIONS — Some of our Rabbis explain it (this word) to his credit: he was righteous even in his generation; it follows that had he lived in a generation of righteous people he would have been even more righteous owing to the force of good example. Others, however, explain it to his discredit: in comparison with his own generation he was accounted righteous, but had he lived in the generation of Abraham he would have been accounted as of no importance (cf. Sanhedrin 108a).",
+     "scan_status": "EXPANDED",
+     "basis": "digitization"
+    },
+    {
+     "i": 23,
+     "kind": "question",
+     "he": "לבוש האורה (ר' מרדכי יפה) מקשה על סגנונו של רש\"י:\nמאי טעמא אמר הדורש לשבח \"אם היה בדור של צדיקים...\" והדורש לגנאי אמר: \"אבל אם היה בדורו של אברהם...\". למה שנה לשונו לומר: \"בדורו של אברהם\", ולא אמר גם בו \"בדור של צדיקים\"?",
+     "scan_status": "DIFF",
+     "digitized_he": "לבוש האורה (ר' מרדכי יפה) מקשה על סגנונו של רש\"י:\nמאי טעמא אמר הדורש לשבח \"אם היה בדור של צדיקים...\" והדורש לגנאי אמר: \"אבל אם היה בדורו של אברהם...\". למה שינה לשונו לומר: \"בדורו של אברהם\", ולא אמר גם בו \"בדור של צדיקים\"?",
+     "scan_fixes": [
+      {
+       "digitized": "למה שינה לשונו",
+       "scan": "למה שנה לשונו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 24,
+     "kind": "text",
+     "he": "נסה לענות על קושיתו!",
+     "scan_status": "DIFF",
+     "digitized_he": "נסה לענות על קושייתו!",
+     "scan_fixes": [
+      {
+       "digitized": "קושייתו",
+       "scan": "קושיתו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "scan"
+    },
+    {
+     "i": 25,
+     "kind": "text",
+     "he": "דברי רש\"י אלה לקוחים מבראשית רבה:\n\"משל למלך שהיו לו שני בנים: אחד גדול ואחד קטן. אמר לקטן: הלך עמי! ואמר לגדול: בוא והלוך לפני! כך אברהם, שהיה כוחו יפה \"התהלך לפני והיה תמים\", אבל נח, שהיה כוחו רע – \"את האלוקים התהלך נח\".",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "שני בנים: אחד גדול ואחד קטן. אמר לקטן: הלך עמי! ואמר לגדול: בוא והלוך לפני! כך אברהם, שהיה כוחו יפה … אבל נח, שהיה כוחו רע",
+       "scan": "שני בנים, אחד גדול. אחד קטן. … \"בא והלוך לפני! \"כך אברהם, שהיה כחו יפה … אבל נח, שהיה כח רע",
+       "class": "substantive"
+      },
+      {
+       "digitized": "בוא והלוך",
+       "scan": "כחו יפה … כח רע",
+       "class": "substantive"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     }
+    },
+    {
+     "i": 26,
+     "kind": "question",
+     "he": "א.  מה פירוש \"את\" בפסוקנו, לפי דעת הדרשן, והיכן מצינו שימוש זה של \"את\" בתורה?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "א. מה פירוש \"את\" בפסוקנו, לפי דעת הדרשן, והיכן מצינו שימוש זה",
+       "scan": "א) … בפסוקנו לפי דעת הדרשן והיכן מצינו שמוש זה",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "א.  מה פירוש \"את\" בפסוקנו, לפי דעת הדרשן, והיכן מצינו שימוש זה של \"את\" בתורה?",
+     "scan_fixes": [
+      {
+       "digitized": "שימוש",
+       "scan": "שמוש",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "א.  מה פירוש \"את\" בפסוקנו, לפי דעת הדרשן, והיכן מצינו שמוש זה של \"את\" בתורה?"
+    },
+    {
+     "i": 27,
+     "kind": "question",
+     "he": "ב.  התוכל להסביר מתוך השוואת פרק ו' לפרק י\"ח שלא היה כוחו של נח יפה ככוחו של אברהם?",
+     "scan_status": "DIFF",
+     "scan_pending": [
+      {
+       "digitized": "ב. … מתוך השוואת פרק ו' … שלא היה כוחו של נח יפה ככוחו של אברהם?",
+       "scan": "ב) … מתוך השואת פרק ו' … שלא היה כחו של נח יפה ככחו של אברהם?",
+       "class": "substantive"
+      }
+     ],
+     "digitized_he": "ב.  התוכל להסביר מתוך השוואת פרק ו' לפרק י\"ח שלא היה כוחו של נח יפה ככוחו של אברהם?",
+     "scan_fixes": [],
+     "scan_unapplied": [
+      {
+       "digitized": "השוואת … כוחו … ככוחו",
+       "scan": "השואת … כחו … ככחו",
+       "class": "spelling"
+      }
+     ],
+     "basis": "digitization",
+     "triage": {
+      "use": "digitized",
+      "why": "form: same words in another spelling, abbreviation, numbering, difficulty mark or punctuation; the digitization is kept (applying mark-laden fragments would garble her text)"
+     },
+     "scan_reading": "ב.  התוכל להסביר מתוך השואת פרק ו' לפרק י\"ח שלא היה כוחו של נח יפה ככחו של אברהם?"
+    }
+   ]
+  }
+ ],
+ "digitizer_additions": [
+  "§א: The `x` on Q1 is dropped.",
+  "§א: The German-reading tip is moved from the end of the sheet to the top.",
+  "§ב: [11], [12]: full Ibn Ezra and Ramban texts are the digitizer's; the scan names them only.",
+  "§ב: [14]: the scan gives a start point («החל מן \"והטעם אלה תולדות\"»), which the digitized excerpt does begin from.",
+  "§ג: [19], [20], [22]: Rashi texts are the digitizer's; the scan has bare ד\"ה pointers only.",
+  "§ג: The scan's «1)» / «2)» item numbering in this section is dropped."
+ ],
+ "needs_human": []
+}
