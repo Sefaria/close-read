@@ -227,8 +227,9 @@ For sheets structured as continuous literary analysis rather than commentator-by
 
 1. Save your file as `data/{name}.json`
 2. Add an entry to `data/index.json` with the slug, title, author, and description, plus the homepage fields: `category` (`branching`, `single` or `range`, the groups defined in `js/home.js`), `shows` (one sentence on what this reading demonstrates that the others don't), optionally `tag` (the tile's label, overriding the category default), and optionally `demoPath`/`demoLabel` (a branch path to deep-link, e.g. `creation/cr-1963`). A sheet that no longer earns a place on the homepage gets `"listed": false` and a `retired` reason. It stays loadable by URL and stays under test.
-3. Open `index.html?sheet={name}` in a browser (needs a local server)
-4. Scroll through slowly, checking:
+3. Run `python3 scripts/build_previews.py --images {name}` to generate the share page `read/{name}/` and its link-preview image
+4. Open `index.html?sheet={name}` in a browser (needs a local server)
+5. Scroll through slowly, checking:
    - [ ] All verse text renders correctly (especially Hebrew with nikkud)
    - [ ] Word highlights match the right phrases
    - [ ] Verse crossfades trigger at the right moments

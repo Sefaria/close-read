@@ -46,7 +46,7 @@ function buildHome() {
   document.body.classList.add('is-home');
 
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const heroPath = '?sheet=bereshit&path=creation/cr-1963';
+  const heroPath = 'read/bereshit/?path=creation/cr-1963';
 
   const header = document.querySelector('.title-screen');
   header.className = 'home-hero';
@@ -148,7 +148,8 @@ function buildReadingCard(sheet) {
   const card = document.createElement('article');
   card.className = 'home-card';
   card.dataset.category = sheet.category || '';
-  const href = `?sheet=${sheet.slug}`;
+  // read/<slug>/ is the generated share page (its own link preview); see scripts/build_previews.py.
+  const href = `read/${sheet.slug}/`;
   card.innerHTML = `
     <a class="index-card" href="${href}">
       ${sheet.tag || cat ? `<span class="home-card-tag">${sheet.tag || cat.tag}</span>` : ''}
@@ -156,7 +157,7 @@ function buildReadingCard(sheet) {
       <span class="home-card-author">${sheet.author.en}</span>
       ${sheet.shows ? `<span class="home-card-shows">${sheet.shows}</span>` : ''}
     </a>
-    ${sheet.demoPath ? `<a class="home-card-demo" href="${href}&path=${sheet.demoPath}">Try: ${sheet.demoLabel}</a>` : ''}
+    ${sheet.demoPath ? `<a class="home-card-demo" href="${href}?path=${sheet.demoPath}">Try: ${sheet.demoLabel}</a>` : ''}
   `;
   return card;
 }

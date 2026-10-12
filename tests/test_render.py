@@ -519,7 +519,8 @@ def test_index_page_lists_every_sheet(page, base_url):
     """The homepage links every listed sheet once, and no retired ("listed": false) one."""
     page.goto(base_url + "/index.html")
     page.wait_for_selector(".home-card .index-card")
-    hrefs = page.locator(".index-card").evaluate_all("els => els.map(e => new URL(e.href).searchParams.get('sheet'))")
+    hrefs = page.locator(".index-card").evaluate_all(
+        "els => els.map(e => { const u = new URL(e.href); return u.searchParams.get('sheet') || (u.pathname.match(/read\\/(.+?)\\/$/) || [])[1]; })")
     index = load_index()
     listed = [e["slug"] for e in index if e.get("listed", True)]
     retired = [e["slug"] for e in index if not e.get("listed", True)]
@@ -536,3 +537,16 @@ def test_index_page_lists_every_sheet(page, base_url):
     if page.evaluate("document.documentElement.scrollWidth > innerWidth"):
         problems.append("index page scrolls horizontally")
     report(problems + page.problems, "index page")
+
+
+@pytest.mark.parametrize("slug", sheet_slugs())
+def test_share_page_runs_the_reader(page, base_url, slug, viewport):
+    """read/<slug>/ (the generated share page) loads the sheet with every asset resolving from the root."""
+    if viewport != "desktop":
+        pytest.skip("one viewport is enough to catch a broken <base> or a missing asset")
+    page.goto(f"{base_url}/read/{slug}/")
+    page.wait_for_function("() => window.ScrollTrigger && ScrollTrigger.getAll().length > 0")
+    problems = list(page.problems)
+    if not page.locator(".cr-section").count():
+        problems.append("no sections rendered")
+    report(problems, f"{slug} share page")

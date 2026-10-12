@@ -22,7 +22,7 @@ def pending(kind, slugs):
 
 from sheetmodel import (
     DATA, build_tree, card_expectations, group_sections, is_image, leaf_paths, load_index,
-    load_sheet, sheet_slugs, verse_sides, verses_of_group, visible_set,
+    ROOT, load_sheet, sheet_slugs, verse_sides, verses_of_group, visible_set,
 )
 
 SLUGS = sheet_slugs()
@@ -343,3 +343,21 @@ def test_continuation_follows_its_branch():
     assert "leaf-a-page" in visible_set(sheet, tree, ["a"])
     assert "leaf-a-page" not in visible_set(sheet, tree, ["b"])
     assert "leaf-a-page" not in visible_set(sheet, tree, [])
+
+
+def test_share_pages_are_current():
+    """read/<slug>/index.html and index.html's share tags match scripts/build_previews.py, and every preview image exists."""
+    import sys
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import build_previews
+    problems = []
+    for path, content in build_previews.expected_pages().items():
+        rel = path.relative_to(ROOT)
+        if not path.exists():
+            problems.append(f"{rel} missing")
+        elif path.read_text() != content:
+            problems.append(f"{rel} is stale")
+    for name in ["home"] + [e["slug"] for e in build_previews.load_index()]:
+        if not (build_previews.PREVIEWS / f"{name}.jpg").exists():
+            problems.append(f"assets/previews/{name}.jpg missing (python3 scripts/build_previews.py --images {name})")
+    fail_if(problems, "share pages out of date: run python3 scripts/build_previews.py")
