@@ -208,3 +208,11 @@ Alternates: 1955 (PdRE, Malbim, Cassuto; Radak on "בני האדם"; Kaufmann on
   Rashi's style versus the Gemara's text, so the manuscript would illustrate, not evidence,
   and the line is hard to read at phone size. Available if wanted.
 - **Not used:** the three Perlman accent sections (§2.1).
+
+### 7a. Decisions (Lev, 2026-10-12)
+
+1. **No manuscript images in Noach.** Her own questions never rest on page layout, and the strong
+   accent moments are Perlman's (§2.1). The 1954 Leningrad contrast and the Munich Sanhedrin
+   page stay unused.
+2. **Blood theme: 1948, 1957, 1970.** 1971 stays an alternate. 1970 is the Nataf edition (§7).
+3. **Everything else as proposed in §7.**
