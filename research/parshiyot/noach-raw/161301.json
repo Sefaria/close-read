@@ -1,0 +1,486 @@
+{
+ "dateCreated": "2019-03-06T05:25:42.588688",
+ "dateModified": "2019-03-07T02:10:15.169196",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 7:17",
+  "Rashi on Genesis 7:12:1",
+  "Genesis 7:1",
+  "Radak on Genesis 7:7:2",
+  "Rashi on Genesis 7:1:1",
+  "Rashi on Genesis 7:7:2",
+  "Genesis 7:12",
+  "Genesis 7:5",
+  "Kli Yakar on Genesis 7:1:1",
+  "Radak on Genesis 7:7:1",
+  "Rashi on Numbers 12:5:3",
+  "Genesis 7:7",
+  "Genesis 6:9",
+  "Rashi on Genesis 7:5:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161301,
+ "includedRefs": [
+  "Genesis 6:9",
+  "Genesis 7:1",
+  "Rashi on Genesis 7:1:1",
+  "Rashi on Numbers 12:5:3",
+  "Genesis 7:1",
+  "Kli Yakar on Genesis 7:1:1",
+  "Genesis 7:5",
+  "Genesis 7:7",
+  "Rashi on Genesis 7:5:1",
+  "Rashi on Genesis 7:7:2",
+  "Radak on Genesis 7:7:1-2",
+  "Genesis 7:12",
+  "Genesis 7:17",
+  "Rashi on Genesis 7:12:1"
+ ],
+ "nextNode": 50,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "הערה:   לחילופי השמות ה' – אלוקים ולשאר שינויים בתוכן ובסגנון בין פסוקים מקבילים בפרק ו' ובפרק ז' עיין גיליון <a class=\"refLink\" href=\"/sheets/161777\" data-ref=\"sheet.161777\" target=\"_blank\">נח תש\"ז</a> ודברי המלבי\"ם שהובאו שם בשאלה א'."
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלה כללית</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "השווה:"
+  },
+  {
+   "node": 4,
+   "outsideText": "בכניסה לתיבה נאמר:"
+  },
+  {
+   "node": 5,
+   "outsideText": "פרק ו' פסוק י\"ח"
+  },
+  {
+   "node": 6,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n\"וּבָאתָ אֶל הַתֵּבָה אַתָּה וּבָנֶיךָ </td>\n<td>\nוְאִשְׁתְּךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 7,
+   "outsideText": "פרק ז' פסוק ז'"
+  },
+  {
+   "node": 8,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n\"וַיָּבֹא נֹחַ וּבָנָיו</td>\n<td>\nוְאִשְׁתּוֹ וּנְשֵׁי בָנָיו אִתּוֹ\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 9,
+   "outsideText": "ביציאה מן התיבה:"
+  },
+  {
+   "node": 10,
+   "outsideText": "פרק ח' פסוק ט\"ז"
+  },
+  {
+   "node": 11,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n\"צֵא מִן הַתֵּבָה אַתָּה וְאִשְׁתְּךָ </td>\n<td>\nוּבָנֶיךָ וּנְשֵׁי בָנֶיךָ אִתָּךְ\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 12,
+   "outsideText": "פרק ח' פסוק י\"ח"
+  },
+  {
+   "node": 13,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n\"וַיֵּצֵא נֹחַ וּבָנָיו </td>\n<td>\nוְאִשְׁתּוֹ וּנְשֵׁי בָנָיו אִתּוֹ\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  התוכל להסביר את סיבת השינויים בסדר המילים? ועיין <b>רש\"י</b>! לתשומת לב פרשנינו לסדר המילים המשתנה עיין גם גיליון <a class=\"refLink\" href=\"/sheets/161721\" data-ref=\"sheet.161721\" target=\"_blank\">נח תש\"ה א- 3, 4</a> וכן גם גיליון <a class=\"refLink\" href=\"/sheets/161923\" data-ref=\"sheet.161923\" target=\"_blank\">מטות מסעי תש\"ב ג-1</a> וכן גם רש\"י ויקרא י\"ט ג' ד\"ה אמו ואביו (ולזה עיין גיליון <a class=\"refLink\" href=\"/sheets/162035\" data-ref=\"sheet.162035\" target=\"_blank\">קדושים תש\"ג ב2</a>)."
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2. הידועים לך עוד מקומות ברש\"י או במדרשים המפרשים שינויים בסדר המילים?"
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"ראיתי צדיק\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 17,
+   "outsideText": "השווה:"
+  },
+  {
+   "heRef": "בראשית ו׳:ט׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:9",
+   "text": {
+    "en": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+    "he": "\"נֹחַ אִישׁ צַדִּיק תָּמִים הָיָה בְּדֹרֹתָיו\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:א׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:1",
+   "text": {
+    "en": "And the LORD said unto Noah: ‘Come thou and all thy house into the ark; for thee have I seen righteous before Me in this generation.",
+    "he": "\"אֹתְךָ רָאִיתִי צַדִּיק לְפָנַי בַּדּוֹר הַזֶּה\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:א׳:א׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:1:1",
+   "text": {
+    "en": "ראיתי צדיק [THEE] HAVE I SEEN RIGHTEOUS — It does not say “righteous and wholehearted” (as it does at the beginning of the Sedrah); hence we may infer that only a part of a man’s good qualities should be enumerated in his presence (since here God is speaking to Noah and calls him only “righteous”), but that in his absence the whole of his good qualities may be told (since when the Torah speaks about him in the earlier passage it calls him “righteous and wholehearted”) (Eruvin 18b). ",
+    "he": "ד\"ה ראיתי צדיק: ולא נאמר \"צדיק תמים\", מכאן שאומרים מקצת שבחו של אדם בפניו, וכולו - שלא בפניו. "
+   }
+  },
+  {
+   "heRef": "רש\"י על במדבר י״ב:ה׳:ג׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Numbers 12:5:3",
+   "text": {
+    "en": "ויצאו שניהם AND THEY BOTH WENT FORTH — And why did He bid them go further and so separate them from Moses? Because there is a rule that one should utter only a part of a man’s good qualities in his presence, but that the whole of them should be told only in his absence. Similarly we find in the case of Noah, that in his absence (i.e. when Scripture speaks about him) it says of him: “a righteous and whole-hearted man” (Genesis 6:9), whilst in his presence (i.e. where God is speaking to Noah) it states, (Genesis 7:1) “for thee I have seen righteous before me”, (and it does not add: whole-hearted) (Sifrei Bamidbar 102). — Another explanation is: God bid only Aaron and Miriam to draw near in order that he (Moses) should not hear the reprimand administered to Aaron.",
+    "he": " ד\"ה ויצאו שניהם: ומפני מה מְשכן והפרידן ממשה? לפי שאומרים מקצת שבחו של אדם בפניו, וכולו - שלא בפניו. וכן מצינו בנח, שלא בפניו נאמר: \"איש צדיק תמים\", בפניו נאמר: \"כי אותך ראיתי צדיק לפני\"."
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה קשה לרש\"י ב<a class=\"refLink\" href=\"/Genesis 7:1\" data-ref=\"Genesis 7:1\" data-ref=\"Genesis 7:1\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 7:1\" data-ref=\"Genesis 7:1\" data-ref=\"Genesis 7:1\" target=\"_blank\">פרק ז' פסוק א'</a>? (לקושי מעין זה עיין גם גיליון <a class=\"refLink\" href=\"/sheets/161795\" data-ref=\"sheet.161795\" target=\"_blank\">דברים תשי\"ב שאלה ג</a> דברי רש\"י ודברי הגר\"א שם)."
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. הסבר מה הן שתי הסיבות (החינוכיות-מוסריות) לכלל זה, שאומרים מקצת שבחו של אדם בפניו, וכולו - שלא בפניו."
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "3.  מה ראה רש\"י לומר במקומנו \"<b>מכאן</b> שאומרים\", ובבמדבר: \"<b>לפי</b> שאומרים\"?"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. <b>קאסוטו</b> בספרו 'מנח עד אברהם' מסכים עם פירושם של חז\"ל (שהובא לעיל ברש\"י) להיעדר המילה \"תמים\" ב<a class=\"refLink\" href=\"/Genesis 7:1\" data-ref=\"Genesis 7:1\" data-ref=\"Genesis 7:1\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 7:1\" data-ref=\"Genesis 7:1\" data-ref=\"Genesis 7:1\" target=\"_blank\">פרק ז' פסוק א'</a>, אלא שמצא בלשון הפסוקים (ו', ט'; ז', א') <b>עוד</b> ראייה לכך, שאומרים מקצת שבחו בפניו, וכולו - שלא בפניו.  מהו הרמז הנוסף לכך בפסוקינו?"
+  },
+  {
+   "node": 26,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"...כי אותך ראיתי צדיק לפני...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:א׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:1",
+   "text": {
+    "en": "And the LORD said unto Noah: ‘Come thou and all thy house into the ark; for thee have I seen righteous before Me in this generation.",
+    "he": "\"בֹּא אַתָּה... \nכִּי אֹתְךָ רָאִיתִי צַדִּיק לְפָנַי בַּדּוֹר הַזֶּה\""
+   }
+  },
+  {
+   "heRef": "כלי יקר על בראשית ז׳:א׳:א׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Kli Yakar on Genesis 7:1:1",
+   "text": {
+    "en": "",
+    "he": "בעל כלי יקר, מקשה:<br>ולמה לא אמר כן מיד כשציוה לו על עשיית התיבה (ו' י\"ד עשה לך תיבה) והבטיחהו על הצלתו (ו' י\"ח): \"והקימותי את בריתי אתך ובאת אל התיבה...\"?"
+   }
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "נמק (בנימוק אחד או שניים) את איחור הטעם \"<b>כי אותך ראיתי צדיק לפני</b>\" בדברי ה' עד למקומנו!"
+  },
+  {
+   "node": 30,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"ויעש נח...מפני מי המבול\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:ה׳",
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:5",
+   "text": {
+    "en": "And Noah did according unto all that the LORD commanded him.",
+    "he": "\"וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּהוּ ה'\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:ז׳",
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:7",
+   "text": {
+    "en": "And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, before the waters of the flood.",
+    "he": "\"וַיָּבֹא נֹחַ... אֶל הַתֵּבָה מִפְּנֵי מֵי הַמַּבּוּל\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:ה׳:א׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:5:1",
+   "text": {
+    "en": "ויעש נח AND NOAH DID — This refers to his coming to the Ark. ",
+    "he": "ד\"ה ויעש נח: זה ביאתו לתיבה. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:ז׳:ב׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:7:2",
+   "text": {
+    "en": "מפני מי המבול BECAUSE OF THE WATERS OF THE FLOOD — (מפני properly means ‘‘from before”) — Noah, also, was of those people who are wanting in faith: he believed and he did not believe that the Flood would come, and he would not enter the Ark until the waters forced him to do so (Genesis Rabbah 32:6).",
+    "he": "ד\"ה מפני מי המבול: אף נח מקטני אמונה היה, מאמין ואינו מאמין שיבוא המבול, ולא נכנס לתיבה עד שדחקוהו המים. "
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ז׳:ז׳:א׳-ב׳",
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 7:7:1-2",
+   "text": {
+    "en": "\"Before the water...\" - He went in before they came.  And we don't know the reason why he says in his interpretation that he was of little faith.  Because the text testifies that he was righteous and pure and that he did everything God commanded! מפני מי המבול, these words supply the reason why Noach entered. We do not understand the scholar in Bereshit Rabbah 32,6 who claimed that Noach lacked in faith because he did not enter the ark until after the rain forced him to. After all, the Torah had specifically stated that Noach was perfect and did all that G’d had commanded him.\n",
+    "he": "ד\"ה ויבוא נח: שבעת ימים נכנס קודם בוא המבול, זהו \"מפני מי המבול\" ונכנס קודם שיבואו. ולא ידענו טעם בדברי האומר (בראשית רבה) שאף נח היה מקטני אמונה, שהרי הכתוב העיד עליו שהיה צדיק תמים ועשה ככל אשר ציוהו ה'."
+   }
+  },
+  {
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">הקדוש אנשלמה אשתרוק, מדרשי התורה:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה מפני מי המבול: שהיה מתרה בם (=בבני דורו) להשיבם למוטב, מפני מה שהיו רואים בירידת המים והגשם שלא כנהוג, עד שדחפוהו המים, והניחם בעל כורחו. </span>"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה ראה רש\"י לפרש <a class=\"refLink\" href=\"/Genesis 7:5\" data-ref=\"Genesis 7:5\" target=\"_blank\">פסוק ה'</a> ד\"ה ויעש נח כפי שפירש, ולא פירשו על בניין התיבה?"
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. הסבר כיצד מתיישבין דבריו לפסוק ז' עם דבריו לפסוק ה,' והלוא נראין כסותרים זה את זה?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מה קשה לכל המפרשים הנ\"ל בפסוק ז'?"
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "4. מה הן שתי הדעות המתנגדות בדברי המפרשים הנ\"ל? מה יש לומר לחיזוקה של כל אחת משתי הדעות הנ\"ל?"
+  },
+  {
+   "node": 41,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5.  היכן יש למצוא סימוכין לדברי בעל מדרשי התורה גם בדברי רש\"י לפרק ו'?"
+  },
+  {
+   "node": 42,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"גשם\" - \"מבול\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:י״ב",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:12",
+   "text": {
+    "en": "And the rain was upon the earth forty days and forty nights.",
+    "he": "\"וַיְהִי <b>הַגֶּשֶׁם</b> עַל הָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:י״ז",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:17",
+   "text": {
+    "en": "And the flood was forty days upon the earth; and the waters increased, and bore up the ark, and it was lifted up above the earth.",
+    "he": "\"וַיְהִי <b>הַמַּבּוּל</b> אַרְבָּעִים יוֹם עַל הָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ז׳:י״ב:א׳",
+   "node": 45,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 7:12:1",
+   "text": {
+    "en": "ויהי הגשם על הארץ AND THE RAIN WAS UPON THE EARTH — But later on (v. 17) it says. “And the Flood was upon the earth”! But the explanation is this: when He poured down the water at first He made it fall in mercy (gently), in order that if the people would repent, it might prove a rain of blessing; but when they did not repent it became a destructive flood (Genesis Rabbah 31:12) .",
+    "he": "ד\"ה ויהי הגשם: ולהלן הוא אומר \"ויהי המבול\"? אלא כשהורידן, הורידן ברחמים, שאם יחזרו - יהיו גשמי ברכה; כשלא חזרו - היו למבול."
+   }
+  },
+  {
+   "node": 46,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה הרעיון המסומל במדרש זה?"
+  },
+  {
+   "node": 47,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. היכן מצאנוהו בדברי הנביאים?"
+  },
+  {
+   "node": 48,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  היכן עמד רש\"י בפירושו לפרק ו' על רעיון זה?"
+  }
+ ],
+ "ssn": 650,
+ "status": "public",
+ "summary": "1956 (תשט\"ז)<br><a href=\"http://www.nechama.org.il/pdf/650.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשט\"ז - השינויים בפסוקים מקבילים",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

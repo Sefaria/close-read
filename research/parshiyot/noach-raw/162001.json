@@ -1,0 +1,659 @@
+{
+ "dateCreated": "2019-03-06T05:35:06.813129",
+ "dateModified": "2019-03-07T02:22:41.670568",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Shadal on Genesis 9:5:3",
+  "Haamek Davar on Genesis 9:2:3",
+  "Rashi on Genesis 9:5:5",
+  "Ramban on Genesis 9:12:1",
+  "Ibn Ezra on Genesis 9:14:2",
+  "Rashi on Genesis 9:4:2",
+  "Rashi on Genesis 9:4:3",
+  "Ibn Ezra on Genesis 9:2:2",
+  "Sforno on Genesis 9:13:1",
+  "Ibn Ezra on Genesis 9:8:1",
+  "Ramban on Genesis 9:8:1",
+  "Rashi on Genesis 9:4:1",
+  "Ramban on Genesis 9:5:1",
+  "Genesis 9:14",
+  "Radak on Genesis 9:14:1",
+  "Ibn Ezra on Genesis 9:4:1",
+  "Genesis 9:2",
+  "Rashi on Genesis 9:2:1",
+  "Sforno on Genesis 9:9:1",
+  "Rashi on Genesis 9:9:1",
+  "Genesis 23:11",
+  "Rashi on Genesis 9:14:1",
+  "Ibn Ezra on Genesis 9:13:1",
+  "Rashi on Genesis 9:5:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 162001,
+ "includedRefs": [
+  "Genesis 9:2",
+  "Rashi on Genesis 9:2:1",
+  "Ibn Ezra on Genesis 9:2:2",
+  "Haamek Davar on Genesis 9:2:3",
+  "Rashi on Genesis 9:4:1",
+  "Rashi on Genesis 9:4:1",
+  "Rashi on Genesis 9:4:2",
+  "Rashi on Genesis 9:4:3",
+  "Ibn Ezra on Genesis 9:4:1",
+  "Rashi on Genesis 9:5:1",
+  "Ramban on Genesis 9:5:1",
+  "Ramban on Genesis 9:5:1",
+  "Rashi on Genesis 9:5:5",
+  "Shadal on Genesis 9:5:3",
+  "Ramban on Genesis 9:5:1",
+  "Ibn Ezra on Genesis 9:8:1",
+  "Ramban on Genesis 9:8:1",
+  "Rashi on Genesis 9:9:1",
+  "Sforno on Genesis 9:9:1",
+  "Ramban on Genesis 9:12:1",
+  "Ibn Ezra on Genesis 9:13:1",
+  "Ibn Ezra on Genesis 9:14:2",
+  "Sforno on Genesis 9:13:1",
+  "Radak on Genesis 9:14:1",
+  "Genesis 23:11",
+  "Genesis 9:14",
+  "Rashi on Genesis 9:14:1"
+ ],
+ "nextNode": 52,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עצה טובה: קרא פירושו של רש\"ר הירש לפסוק א' ולפסוק ט\"ו! "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. ברכת ה'</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "השווה את ברכת ה' לאדם וחוה לברכה שניתנה לנח ולבניו. מה השינויים ומה סיבתם? מה היחס החדש כלפי בעלי החיים?"
+  },
+  {
+   "node": 4,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"מוראכם וחתכם\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ב׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:2",
+   "text": {
+    "en": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, and upon all wherewith the ground teemeth, and upon all the fishes of the sea: into your hand are they delivered.",
+    "he": "וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה עַל כָּל חַיַּת הָאָרֶץ...\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ב׳:א׳",
+   "node": 6,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 9:2:1",
+   "text": {
+    "en": "וחתכם means AND THE DREAD OF YOU, similar to (Job 6:21) “ye see a terror (חתת).\" The Agada takes the word as signifying “life”, “vitality” (חיות): So long as a baby, even one day old, has life you do not have to guard it against the attacks of mice, whilst Og, king of Bashan, when dead needs to be guarded against the attacks of mice, as it is said, “And the fear of you and the terror of you shall be [upon the beasts of the field etc.].” When will the fear of you be upon the beasts? So long as you are alive (חתכם) (Shabbat 151b).",
+    "he": "ד\"ה וחתכם: ואימתכם כמו (<a class=\"refLink\" href=\"/Job 6:21\" data-ref=\"Job 6:21\" target=\"_blank\">איוב ו' כ\"א</a>) תראו חתת. ואגדה: לשון חיות שכל זמן שהתינוק בן יומו חי אין אתה צריך לשומרו מן העכברים, עוג מלך הבשן מת, צריך לשומרו מן העכברים, שנאמר ומוראכם וחתכם יהיה, אימתי יהיה מוראכם על החיות, כל זמן שאתם חיים. "
+   }
+  },
+  {
+   "node": 7,
+   "outsideText": "מה ההבדל בין פשוטו ובין מדרשו?"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:ב׳:ב׳",
+   "node": 8,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:2:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה בכל אשר תרמש האדמה: הטעם על האדמה. או תהיה האדמה פועלת. "
+   }
+  },
+  {
+   "node": 9,
+   "outsideText": "האם \"תרמש\" כאן פועל עומד או יוצא?"
+  },
+  {
+   "heRef": "העמק דבר על בראשית ט׳:ב׳:ג׳",
+   "node": 10,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Haamek Davar on Genesis 9:2:3",
+   "text": {
+    "en": "",
+    "he": "יש נפקא מינא בין חיה ועוף לרמש ודגים בענין מורא האדם. דחיה ועוף מתיראים ובורחים כשרואים האדם מרחוק, מה שאין כן רמש ודגים, אין מרגישים בזה עד שיהא פושט ידו לנגוע בהם, אז נשמטים ובורחים. "
+   }
+  },
+  {
+   "node": 11,
+   "outsideText": "היכן הרמז בפסוק להערתו זו?"
+  },
+  {
+   "node": 12,
+   "outsideText": "<table><tbody><tr><td><big>ג. לאיסור \"אך בשר בנפשו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:א׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:1",
+   "text": {
+    "en": "בשר בנפשו FLESH WITH THE SOUL THEREOF [SHALL YE NOT EAT] — He here prohibited to them אבר מן החי the eating of a limb cut from a living animal, that is to say that בשר בנפשו (literally, flesh together with its life) means so long as its life is in it you shall not eat the flesh.",
+    "he": "\"אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:1",
+   "text": {
+    "en": "בשר בנפשו FLESH WITH THE SOUL THEREOF [SHALL YE NOT EAT] — He here prohibited to them אבר מן החי the eating of a limb cut from a living animal, that is to say that בשר בנפשו (literally, flesh together with its life) means so long as its life is in it you shall not eat the flesh.",
+    "he": "ד\"ה בשר בנפשו. אסר להם אבר מן החי, כלומר כל זמן שנפשו בו לא תאכלו הבשר. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:ב׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:2",
+   "text": {
+    "en": "בנפשו דמו (literally, its blood together with its life) means whilst its (the animal’s) life is still in it (the blood).",
+    "he": "ד\"ה בנפשו דמו: בעוד נפשו בו. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:ג׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:3",
+   "text": {
+    "en": "Consequently בשר בנפשו לא תאכלו FLESH SO LONG AS THERE IS LIFE IN IT SHALL YE NOT EAT forms the prohibition of אבר מן החי the eating of a limb cut from a living animal. And connecting בנפשו with דמו we obtain the reading also בנפשו דמו לא תאכלו ITS BLOOD TOGETHER WITH ITS LIFE SHALL YE NOT EAT which forms the prohibition of partaking of blood of a living animal (Sanhedrin 59a)",
+    "he": "ד\"ה בשר בנפשו לא תאכלו: הרי אבר מן החי ואף בנפשו דמו לא תאכלו, הרי דם מן החי."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:ד׳:א׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:4:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה אך בשר בנפשו: כך טעמו: אך בשר עם נפשו שהוא דמו לא תאכלו. כטעם לא תאכל הנפש עם הבשר. כי נפש כל בשר דמו בנפשו הוא. "
+   }
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה ההבדל בין שניהם?"
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  העתק את הפסוק וסמנו בסימני פיסוק לפי פירושו של רש\"י ולפי ראב\"ע!"
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות בפרשנים</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:א׳",
+   "node": 21,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 9:5:1",
+   "text": {
+    "en": "ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).",
+    "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבהמה, את דמכם אדרוש מהשופך דם עצמו."
+   }
+  },
+  {
+   "node": 22,
+   "outsideText": "מה קשה לרש\"י?"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ה׳:א׳",
+   "node": 23,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 9:5:1",
+   "text": {
+    "en": "<b>From the hand of every beast.</b> This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+    "he": "ד\"ה דמכם לנפשותכם: דמכם נפשותיכם, כלומר דמכם שהוא נפשותיכם, כדרך לכל כלי המשכן (<a class=\"refLink\" href=\"/Exodus 27:19\" data-ref=\"Exodus 27:19\" target=\"_blank\">שמות כ\"ז י\"ט</a>), וכן השלישי לאבשלום (<a class=\"refLink\" href=\"/I Chronicles 3:2\" data-ref=\"I Chronicles 3:2\" target=\"_blank\">דברי הימים א' ג' ב'</a>). ויש לפרש את דמכם לנפשותיכם בנפשותיכם, כי נפש כל בשר דמו בנפשו הוא (<a class=\"refLink\" href=\"/Leviticus 17:14\" data-ref=\"Leviticus 17:14\" target=\"_blank\">ויקרא י\"ז י\"ד</a>), וכמוהו וכל דם לא תאכלו בכל מושבותיכם לעוף ולבהמה (שם ז' כ\"ו), פתרונו בעוף או בבהמה. "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ה׳:א׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 9:5:1",
+   "text": {
+    "en": "<b>From the hand of every beast.</b> This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+    "he": "והנכון שיאמר הדם שהוא לנפש בכם אדרוש. הגיד כי הדם הוא הנפש, ורמז כי על שופך הנפש הוא מחייב מיתה, לא על דם האיברים שאין הנשמה תלויה בהם. "
+   }
+  },
+  {
+   "node": 25,
+   "outsideText": "מה קשה לרמב\"ן?"
+  },
+  {
+   "node": 26,
+   "outsideText": "<a class=\"refLink\" href=\"/Genesis 9:5\" data-ref=\"Genesis 9:5\" target=\"_blank\">פסוק ה'</a>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:ה׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:5",
+   "text": {
+    "en": "מיד איש אחיו AT THE HAND OF EVERY MAN’S BROTHER — At the hand of a man who loves him like a brother and slays him accidentally will “I” require it, unless he go into banishment (in one of the Cities of Refuge) and pray for forgiveness for his iniquity. For even one who kills another by accident needs atonement: therefore if there are no witnesses to the deed to make him liable to banishment and he does not humble himself, the Holy One, blessed be He, will require it of him, just as our Rabbis explain the text, (Exodus 21:13) ‘‘But God causes it to come to hand”, in Treatise Makkot (Makkot 10b): The Holy One, blessed be He, causes them (the man who killed by accident and had not expiated the murder and the man who killed with premeditation) to meet at the same inn. The former in ascending a ladder falls upon the latter and kills him and has therefore — the accident having been seen by men — to go to banishment.",
+    "he": "ד\"ה מיד איש אחיו: מיד שהוא אוהב לו כאח והרגו שוגג, אני אדרוש, אם לא יגלה ויבקש על עוונו לימחל, שאף השוגג צריך כפרה, ואם אין עדים לחייבו גלות והוא אינו נכנע, הקדוש ברוך הוא דורש ממנו. כמו שדרשו רבותינו ז\"ל והאלהים אנה לידו במסכת מכות (י' ב') הקדוש ברוך הוא מזמנן לפונדק אחד וכו'. "
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית ט׳:ה׳:ג׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 9:5:3",
+   "text": {
+    "en": "",
+    "he": "מיד איש אחיו: מאמר מוסגר ואינו אלא להוסיף כח לענין הציווי: מיד האדם אדרוש את נפש האדם, מיד האדם שהוא איש אחיו, איש כמוהו, ולא חמל עליו. וכמוהו בראשית א' כ\"ז: ויברא אלהים את האדם בצלמו בצלם אלהים ברא אתו זכר ונקבה ברא אתם, ויקרא כ' י' ואיש אשר ינאף את אשת רעהו מות יומת הנואף והנאפת."
+   }
+  },
+  {
+   "node": 29,
+   "outsideText": "מה קשה לרש\"י? ומה בינו לבין שד\"ל?"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ה׳:א׳",
+   "node": 30,
+   "options": {
+    "PrependRefWithHe": "4. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ramban on Genesis 9:5:1",
+   "text": {
+    "en": "<b>From the hand of every beast.</b> This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+    "he": "ד\"ה שופך דם: ...ויתכן שיהיה טעם 'מיד כל חיה', שתהיה הנקמה בשופך הדם מיד כל חיה, כמו כי לקחה מיד ה' כפלים בכל חטאתיה (<a class=\"refLink\" href=\"/Isaiah 40:2\" data-ref=\"Isaiah 40:2\" target=\"_blank\">ישעיה מ' ב'</a>). ואמר, אך דמכם אדרוש ואנקום אותו ביד כל חיה, כי אשלח ברוצח כל חית הארץ ואשלח בו גם האדם ולא ינצל מידם, וכמוהו מכל צוררי הייתי חרפה (<a class=\"refLink\" href=\"/Psalms 31:12\" data-ref=\"Psalms 31:12\" target=\"_blank\">תהלים ל\"א י\"ב</a>)... "
+   }
+  },
+  {
+   "node": 31,
+   "outsideText": "מה קשה לרמב\"ן?"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:ח׳:א׳",
+   "node": 32,
+   "options": {
+    "PrependRefWithHe": "5. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:8:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ויאמר אלהים אל נח ואל בניו: על ידי אביהם. ויש אומרים שארבעתם נביאים. "
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ח׳:א׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 9:8:1",
+   "text": {
+    "en": "<b>To Noach and to his sons.</b> Noach’s sons were not prophets but Hashem spoke to them through their father.",
+    "he": "על ידי אביהם, כי בניו לא היו נביאים, ולא הגיע חם למעלת הנבואה. וכן ויאמר ה' אל אחז (<a class=\"refLink\" href=\"/Isaiah 7:10\" data-ref=\"Isaiah 7:10\" target=\"_blank\">ישעיה ז' י'</a>), וכן ויאמר ה' אל משה ואל אהרן (<a class=\"refLink\" href=\"/Exodus 7:8\" data-ref=\"Exodus 7:8\" target=\"_blank\">שמות ז' ח'</a>), כדברי רבותינו (ת\"כ ויקרא א') אל משה אמר שיאמר לאהרן, וכן פירש בסוף ויאמר אלהים אל נח (להלן פסוק י\"ז)."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ט׳:א׳",
+   "node": 34,
+   "options": {
+    "PrependRefWithHe": "6. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 9:9:1",
+   "text": {
+    "en": "ואני הנני AND I BEHOLD I — “I am in agreement with you”; He said this because Noah feared to fulfil the duty of propagating the species until the Holy One, blessed be He, promised him that he would not again destroy the world and this promise God made (Midrash Tanchuma, Noach 11). Ultimately He said to him, “If you are still anxious I am willing to give to My promise the permanence and strength of a covenant and I will give you a sign.”",
+    "he": "ד\"ה ואני הנני מקים: מסכים אני עמך, שהיה נח דואג לעסוק בפריה ורביה עד שהבטיחו הקדוש ברוך הוא שלא לשחת את העולם עוד, וכן עשה. ובאחרונה אמר לו הנני מסכים לעשות קיום וחיזוק ברית להבטחתי, ואתן לך אות. "
+   }
+  },
+  {
+   "node": 35,
+   "outsideText": "מה קשה לרש\"י?"
+  },
+  {
+   "heRef": "ספורנו על בראשית ט׳:ט׳:א׳",
+   "node": 36,
+   "options": {
+    "PrependRefWithHe": "7. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Sforno on Genesis 9:9:1",
+   "text": {
+    "en": "ואני הנני מקים את בריתי, this promise is conditional on man keeping his part of the bargain, bringing murderers to justice. If, however, innocent blood will be shed in the manner it had been before the deluge, this may lead to destruction of the earth (not necessarily by water). This is what is meant in Numbers 35,33 הדם הוא יחניף את הארץ ולארץ לא יכופר לדם אשר שפך בה כי אם בדם שפכו  “for blood turns the earth into a hypocrite and there will be no atonement for the land except through the blood of him who has spilled it.” ",
+    "he": "ד\"ה ואני הנני מקים: על זה התנאי שלא תשפכו דם נקי אני מקים את בריתי שלא לשחת עוד הארץ, אבל בשפיכת דם נקי תשחת הארץ כאמרו כי הדם הוא יחניף את הארץ, ולארץ לא יכופר וגו', אבל על כל שאר העבירות ילקה החוטא ולא תשחת הארץ. "
+   }
+  },
+  {
+   "node": 37,
+   "outsideText": "מה קשה לספורנו?"
+  },
+  {
+   "node": 38,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"זאת אות הברית\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:י״ב:א׳",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 9:12:1",
+   "text": {
+    "en": "\"This is the sign of the covenant that I am giving\": it seems from this \"sign\", that the rainbow was not in the cloud from creation and now God did a new act of creation to make the rainbow in the sky on a cloudy day",
+    "he": "ד\"ה זאת אות הברית: המשמע מן האות הזה שלא היה קשת בענן ממעשה בראשית, ועתה ברא ה' חדשה לעשות קשת בשמים ביום ענן. ואמרו בטעם האות הזה, כי הקשת לא עשאו שיהיו רגליו למעלה שיראה כאילו מן השמים מורים בו, וישלח חציו ויפיצם בארץ (<a class=\"refLink\" href=\"/Psalms 18:15\" data-ref=\"Psalms 18:15\" target=\"_blank\">תהלים י\"ח ט\"ו</a>), אבל עשאו בהפך מזה להראות שלא יורו בו מן השמים, וכן דרך הנלחמים להפוך אותו בידם ככה כאשר יקראו לשלום למי שכנגדם. ועוד שאין לקשת יתר לכונן חצים עליו. ואנחנו על כרחנו נאמין לדברי היונים שמלהט השמש באויר הלח יהיה הקשת בתולדה, כי בכלי מים לפני השמש יראה כמראה הקשת, וכאשר נסתכל עוד בלשון הכתוב נבין כן, כי אמר את קשתי 'נתתי' בענן, ולא אמר 'אני נותן' בענן, כאשר אמר זאת אות הברית אשר 'אני נותן'. ומילת \"קשתי\" מורה שהיתה לו הקשת תחלה. ולכן נפרש הכתוב, הקשת אשר נתתי בענן מיום הבריאה תהיה מן היום הזה והלאה לאות ברית ביני וביניכם, שכל זמן שאראנה אזכיר כי ברית שלום ביני וביניכם. \nואם תבקש מה טעם בקשת להיות אות, הנה הוא כטעם עד הגל הזה ועדה המצבה (להלן ל\"א נ\"ב). וכן כי את שבע כבשות תקח מידי בעבור תהיה לי לעדה (להלן כ\"א ל'), כי כל הדבר הנראה שיושם לפני שנים להזכירם ענין נדור ביניהם יקרא אות, וכל הסכמה ברית, וכן במילה אמר והיה לאות ברית ביני וביניכם (להלן י\"ז י\"א) בעבור ההסכמה שימולו כל זרע אברהם לעבדו שכם אחד."
+   }
+  },
+  {
+   "node": 40,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהן שתי השאלות שעליהן עונה הרמב\"ן? מהן תשובותיו לכל אחת מהן?"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:י״ג:א׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:13:1",
+   "text": {
+    "en": "My bow: Behold, I have put my bow in the cloud now. And it's interpretation is not, as the Ga'on said, that it was there from the beginning. ",
+    "he": "ד\"ה את קשתי: הנה נתתי עתה קשת בענן. ואין פירושו כאשר אמר הגאון כי בתחילה היתה. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:י״ד:ב׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:14:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ונראתה הקשת: אילו היינו מאמינים בדברי חכמי יוון שמלהט השמש תולדת הקשת, יש לומר כי השם חיזק אור השמש אחר המבול והיא דרך נכונה למבין."
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ט׳:י״ג:א׳",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 9:13:1",
+   "text": {
+    "en": "את קשתי נתתי בענן, I have arranged that the rainbow become a natural phenomenon.",
+    "he": "ד\"ה את קשתי נתתי: סדרתי שיהיה בטבע. "
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:י״ד:א׳",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 9:14:1",
+   "text": {
+    "en": "והיה בענני ענן, I will place clouds for a variety of reasons.",
+    "he": "ד\"ה והיה בענני: אני אענן על ידי סיבות אמצעיות שצויתי."
+   }
+  },
+  {
+   "node": 45,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. האם מסכימים דבריהם לדעת הרמב\"ן או מתנגדים לה?"
+  },
+  {
+   "heRef": "בראשית כ״ג:י״א",
+   "node": 46,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 23:11",
+   "text": {
+    "en": "’Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee; bury thy dead.’",
+    "he": "\"לֹא אֲדֹנִי שְׁמָעֵנִי הַשָּׂדֶה נָתַתִּי לָךְ וְהַמְּעָרָה אֲשֶׁר בּוֹ לְךָ נְתַתִּיהָ לְעֵינֵי בְנֵי עַמִּי נְתַתִּיהָ לָּךְ קְבֹר מֵתֶךָ\""
+   }
+  },
+  {
+   "node": 47,
+   "outsideText": "<table><tbody><tr><td><big>ו. \"בענני ענן\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:י״ד",
+   "node": 48,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:14",
+   "text": {
+    "en": "And it shall come to pass, when I bring clouds over the earth, and the bow is seen in the cloud,",
+    "he": "\"בְּעַנְנִי עָנָן\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:י״ד:א׳",
+   "node": 49,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:14:1",
+   "text": {
+    "en": "בענני ענן WHEN I BRING A CLOUD — When I have it in mind to bring darkness and destruction upon the world. ",
+    "he": "כשתעלה במחשבה לפני להביא חושך ואבדון לעולם.\n"
+   }
+  },
+  {
+   "node": 50,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה ראה רש\"י להוציא פסוק זה מידי פשוטו?"
+  }
+ ],
+ "ssn": 1352,
+ "status": "public",
+ "summary": "1943 (תש\"ג)<br><a href=\"http://www.nechama.org.il/pdf/1352.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"ג - ברכת ה'",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

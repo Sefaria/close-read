@@ -1,0 +1,454 @@
+{
+ "dateCreated": "2019-03-05T15:11:20.296129",
+ "dateModified": "2019-03-07T02:01:00.791981",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Isaiah 55:1",
+  "Rashi on Genesis 9:4:2",
+  "Ramban on Genesis 9:4:1",
+  "Ibn Ezra on Isaiah 55:3:1",
+  "Isaiah 55:3",
+  "Ibn Ezra on Genesis 9:4:1",
+  "Ibn Ezra on Isaiah 55:1:5",
+  "Ibn Ezra on Isaiah 55:1:3",
+  "Ibn Ezra on Isaiah 55:1:2",
+  "Rashi on Genesis 9:4:3",
+  "Rashi on Genesis 9:4:1",
+  "Ibn Ezra on Isaiah 55:1:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160533,
+ "includedRefs": [
+  "Isaiah 55:1",
+  "Ibn Ezra on Isaiah 55:1:1",
+  "Ibn Ezra on Isaiah 55:1:3",
+  "Ibn Ezra on Isaiah 55:1:5",
+  "Ibn Ezra on Isaiah 55:1:2",
+  "Isaiah 55:1",
+  "Isaiah 55:3",
+  "Ibn Ezra on Isaiah 55:3:1",
+  "Rashi on Genesis 9:4:1",
+  "Rashi on Genesis 9:4:1",
+  "Rashi on Genesis 9:4:2",
+  "Rashi on Genesis 9:4:3",
+  "Ramban on Genesis 9:4:1",
+  "Ibn Ezra on Genesis 9:4:1"
+ ],
+ "nextNode": 38,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. משל המים והאוכל</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "ישעיהו נ״ה:א׳",
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 55:1",
+   "text": {
+    "en": "Ho, every one that thirsteth, come ye for water, And he that hath no money; Come ye, buy, and eat; Yea, come, buy wine and milk Without money and without price.",
+    "he": "\"הוֹי כָּל צָמֵא לְכוּ לַמַּיִם וַאֲשֶׁר אֵין לוֹ כָּסֶף לְכוּ שִׁבְרוּ וֶאֱכֹלוּ \nוּלְכוּ שִׁבְרוּ בְּלוֹא כֶסֶף וּבְלוֹא מְחִיר יַיִן וְחָלָב\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על ישעיהו נ״ה:א׳:א׳",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Isaiah 55:1:1",
+   "text": {
+    "en": "<span>הוי</span> <em>Ho !</em> It is the sign of the vocative. <em>Ho, every one that thirsteth</em>, etc. With these words the Lord will address those who will then be desirous to accept the Law. ",
+    "he": "אלה דברי השם לאומות העולם בימים ההם, מי שירצה ללמוד תורה."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על ישעיהו נ״ה:א׳:ג׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Isaiah 55:1:3",
+   "text": {
+    "en": "<em>Buy and eat</em> the wisdom. Comp.<sup class=\"footnote-marker\">1</sup><i class=\"footnote\">As to the verb to eat being used in a figurative sense, signifying to learn, to perceive.</i> Eat this roll, (Ez. 3:1). Wisdom is demanded by the soul as the food is demanded by the body. ",
+    "he": "ד\"ה שברו ואכלו: הטעם על החכמה, כטעם (<a class=\"refLink\" href=\"/Ezekiel 3:1\" data-ref=\"Ezekiel 3:1\" target=\"_blank\">יחזקאל ג' א'</a>) \"אכול את המגילה הזאת\", כי החכמה לנשמה כמו המאכל לגוף. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על ישעיהו נ״ה:א׳:ה׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Isaiah 55:1:5",
+   "text": {
+    "en": "<em>Buy</em> for nothing, <em>And eat</em> without paying. <em>Wine and milk</em>. Each serves both for food and drink, as medical authorities assert.<sup class=\"footnote-marker\">2</sup><i class=\"footnote\">The function of the drink is to dissolve the food and to accelerate its digestion; most beverages, according to I. E., are believed to contain no elements of nourishment, but in wine and milk both properties are found, they nourish and accelerate the digestion.</i> Wine and milk are mentioned because the Law is compared with them.<sup class=\"footnote-marker\">3</sup><i class=\"footnote\">Comp. Midrash Yalkut ad locum, and I. E. on Solomon’s Song 2:4.—No other passage of the Bible, however, can be adduced, in which the Law is compared with wine and milk.</i>",
+    "he": "ד\"ה יין וחלב: כי שניהם הם כמו מאכל ומשתה, וכן יודו חכמי הרפואות. וטעם \"יין וחלב\", כי התורה נמשלה בהם."
+   }
+  },
+  {
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">שד\"ל:</span><br><span style=\"color: rgb(51,51,51);\">מדבר עם ישראל שיעמדו בגלות בזמן הקרוב אל הגאולה.</span>"
+  },
+  {
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">שד\"ל:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה לכו למים: המשיל ההצלחה שאחר הגאולה, אשר לא תהיה מצדנו, כי אם מצדו יתברך ע\"י אותות ומופתים, למים שאין צורך לקנותם בכסף, כי נמצאים ברוב המקומות. </span>"
+  },
+  {
+   "heRef": "אבן עזרא על ישעיהו נ״ה:א׳:ב׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Isaiah 55:1:2",
+   "text": {
+    "en": "<em>And he that hath no money</em> to buy, that is, that has not the means required for study. ",
+    "he": "ד\"ה ואשר אין לו כסף: גם מי שאין לו כסף ימצאם, כן אתם שמעו אלי ושובו בתשובה, יעזוב רשע דרכו ואגאל אתכם."
+   }
+  },
+  {
+   "node": 9,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מה המשותף ומה השונה בדברי שני הפרשנים?"
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. איזה נראה לך מתאים יותר להקשר?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. ראב\"ע מביא להוכחת סמליות האכילה את יחזקאל ג' ואילו לסמליות היין והחלב לא הביא פסוק. למה?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. על איזה פסוק (או אילו פסוקים) בישעיה יכול שד\"ל להסתמך בפרשו את הסמליות שבשתיית מים?"
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ב. המסומל בצמא ובכסף</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "ישעיהו נ״ה:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 55:1",
+   "text": {
+    "en": "Ho, every one that thirsteth, come ye for water, And he that hath no money; Come ye, buy, and eat; Yea, come, buy wine and milk Without money and without price.",
+    "he": "\"הוֹי כָּל צָמֵא לְכוּ לַמַּיִם וַאֲשֶׁר אֵין לוֹ כָּסֶף לְכוּ שִׁבְרוּ וֶאֱכֹלוּ \nוּלְכוּ שִׁבְרוּ בְּלוֹא כֶסֶף וּבְלוֹא מְחִיר יַיִן וְחָלָב\""
+   }
+  },
+  {
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">אברבנאל:</span><br><span style=\"color: rgb(51,51,51);\">אמיתת העניין בכתובים האלה הוא שהנביא עשה בישראל מדרגות, כי מהם יהיו צמאים גם רעבים \"לא רעב ללחם ולא צמא למים כי אם לשמוע את דברי ה'\" (<a class=\"refLink\" href=\"/Amos 8:11\" data-ref=\"Amos 8:11\" target=\"_blank\">עמוס ח' י\"א</a>) וכמאמר המשורר (<a class=\"refLink\" href=\"/Psalms 42:3\" data-ref=\"Psalms 42:3\" target=\"_blank\">תהלים מ\"ב ג'</a>) \"צמאה נפשי לאלוקים לאל חי\" ואליהם היתה הקריאה הראשונה \"הוי כל צמא לכו למים\" שהיא התורה והשפע אשר יבוא בזמן ההוא בירושלים, כמו שאמר הנביא זכריה (<a class=\"refLink\" href=\"/Zechariah 14:8\" data-ref=\"Zechariah 14:8\" target=\"_blank\">י\"ד ח'</a>) \"והיה ביום ההוא יצאו מים חיים מירושלים חצים אל הים הקדמוני וחצים אל הים האחרון בקיץ ובחרף יהיה\", שהוא גם כן רמז אל השפע התורני שיצא לכל הארץ כמו שאמר (<a class=\"refLink\" href=\"/Isaiah 2\" data-ref=\"Isaiah 2\" target=\"_blank\">ישעיה ב'</a>) \"כי מציון תצא תורה\" ועל זה אמר \"לכו למים\".\nעוד שיער מדרגה אחרת מהאנשים שאין להם צמא ותאוה ותשוקה רבה, והם עמי הארץ שאין בהם עיון, וכבר ידעת שמילת \"כסף\" הנחתה הראשונה היא הכוסף והתאוה, ומפני שמתכת הכסף יכספוהו הכל, לכן מפני הכוסף אליו יקרא \"כסף\". \nוהנה העיון המחקרי יתואר בכסף, לפי שבני אדם כוספים אותו עד שמפני זה קראו לחכמה העיונית \"פילוסופיא\" ואת המעין בה \"פילוסוף\" שפרושו \"חושק החכמה\". ולכן אמר הנביא כאן כנגד האישים שאין בהם ידיעה ולא חכמה ולא כוסף אליה \"ואשר אין לו כסף לכו שברו ואכולו\". רצונו לומר: אף על פי שאתם חסרים מכל ידיעה ולא כוספים אליה, לכו ללמוד ולהטריח עצמכם בלימוד התורה ואז תאכלו ותהנו ממנה, וכמו שאמרו \"יגעת ולא מצאת אל תאמין\".\nומילת \"שברו\" היא כפשוטה מלשון שבירת הגוף ויגיעתו, וכמו שדרשו חז\"ל \"זאת התורה אדם כי ימות באהל\" (<a class=\"refLink\" href=\"/Numbers 19:14\" data-ref=\"Numbers 19:14\" target=\"_blank\">במדבר י\"ט י\"ד</a>) \"אין התורה מתקיימת אלא במי שממית עצמו עליה\", שהוא רמז שיטריח גופו וישברהו. ולכן נקראת התורה \"תושיה\" – שמתשת כוחו של אדם.\nהאמנם חזר לומר \"ולכו שברו\" להגיד שהיגע בתורה לא לבד יזכה לדעת פירוש המצוות המעשיות שתיאר בשם אכילה כמו שאמר \"לכו שברו ואכולו\", אבל גם יזכה לדעת האמתיות והאמונות העליונות, ואותם תיאר ביין וחלב, כי המצוות המעשיות כינה בשם אכילה והאמוניות בשם משתה היותר שלם שאפשר.</span>"
+  },
+  {
+   "node": 16,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  כל המפרשים – כיהודים ושאינם יהודים – פירשו פסוקנו לפשוטו <b>שלא כמשמעו</b>. אברבנאל מוציאו גם מידי <b>פשוטו</b>. הסבר במה הוא מוציאו מפשוטו?"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מה אילצו לפרשו שלא כפשוטו?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. האם פירש אברבנאל כאן את זכריה <a class=\"refLink\" href=\"/Zechariah 14:8\" data-ref=\"Zechariah 14:8\" target=\"_blank\">י\"ד ח'</a> כפשוטו?"
+  },
+  {
+   "node": 19,
+   "outsideText": "<table><tbody><tr><td><big>ג. משל הצמאון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "לפי דעת כמה מפרשים דומה <a class=\"refLink\" href=\"/Isaiah 55:1\" data-ref=\"Isaiah 55:1\" data-ref=\"Isaiah 55:1\" data-ref=\"Isaiah 55:1\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Isaiah 55:1\" data-ref=\"Isaiah 55:1\" data-ref=\"Isaiah 55:1\" data-ref=\"Isaiah 55:1\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Isaiah 55:1\" data-ref=\"Isaiah 55:1\" data-ref=\"Isaiah 55:1\" data-ref=\"Isaiah 55:1\" target=\"_blank\">פסוק א'</a> בפרקנו ל<a class=\"refLink\" href=\"/Ezekiel 41:17\" data-ref=\"Ezekiel 41:17\" target=\"_blank\">ישעיה מ\"א י\"ז</a>, כלומר: המוזמנים לשתיה הם אותם עניים ואביונים המוזכרים שם וצמאונם אחד. מה דעתך?"
+  },
+  {
+   "node": 21,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"הטו\" - ולכו אלי</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "ישעיהו נ״ה:ג׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Isaiah 55:3",
+   "text": {
+    "en": "Incline your ear, and come unto Me; Hear, and your soul shall live; And I will make an everlasting covenant with you, Even the sure mercies of David.",
+    "he": "\"הַטּוּ אָזְנְכֶם וּלְכוּ אֵלַי שִׁמְעוּ וּתְחִי נַפְשְׁכֶם\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על ישעיהו נ״ה:ג׳:א׳",
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Isaiah 55:3:1",
+   "text": {
+    "en": "<span>ולכו אלי</span> <em>And come unto me</em>. Lit., Go away from your place toward me; comp. <span>סורה אלי</span> turn in to me (Jud. 4:18).<sup class=\"footnote-marker\">6</sup><i class=\"footnote\"><span>הלך</span> to go signifies removal from the place of him that speaks, <span>בוא</span> to come, approach to it. The preposition <span>אלי</span> demands the verb <span>ובואו</span>, while the verb <span>ולכו</span> demands <span>ממני</span>; I. E. therefore explains the words <span>ולכו אלי</span> as an elliptical phrase, meaning, and go from your place and come unto me. Comp. I. E. on 31:1, Note 2.</i> ",
+    "he": "ד\"ה: הטו: ולכו ממקומכם אלי כמו (<a class=\"refLink\" href=\"/Judges 4:18\" data-ref=\"Judges 4:18\" target=\"_blank\">שופטים ד' י\"ח</a>) \"סורה אלי אל תירא\"."
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה הקושי המשותף לפסוקנו ולפסוק בשופטים?"
+  },
+  {
+   "node": 25,
+   "outsideText": "<table><tbody><tr><td><big>ה. הכלול באיסור \"אך בשר\" וכו'</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:א׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:1",
+   "text": {
+    "en": "בשר בנפשו FLESH WITH THE SOUL THEREOF [SHALL YE NOT EAT] — He here prohibited to them אבר מן החי the eating of a limb cut from a living animal, that is to say that בשר בנפשו (literally, flesh together with its life) means so long as its life is in it you shall not eat the flesh.",
+    "he": "\"אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:א׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:1",
+   "text": {
+    "en": "בשר בנפשו FLESH WITH THE SOUL THEREOF [SHALL YE NOT EAT] — He here prohibited to them אבר מן החי the eating of a limb cut from a living animal, that is to say that בשר בנפשו (literally, flesh together with its life) means so long as its life is in it you shall not eat the flesh.",
+    "he": "ד\"ה בשר בנפשו: אסר להם אבר מן החי, כלומר: כל זמן שנפשו בו לא תאכלו בשר."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:ב׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:2",
+   "text": {
+    "en": "בנפשו דמו (literally, its blood together with its life) means whilst its (the animal’s) life is still in it (the blood).",
+    "he": "ד\"ה בנפשו דמו: בעוד נפשו בו."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:ג׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:3",
+   "text": {
+    "en": "Consequently בשר בנפשו לא תאכלו FLESH SO LONG AS THERE IS LIFE IN IT SHALL YE NOT EAT forms the prohibition of אבר מן החי the eating of a limb cut from a living animal. And connecting בנפשו with דמו we obtain the reading also בנפשו דמו לא תאכלו ITS BLOOD TOGETHER WITH ITS LIFE SHALL YE NOT EAT which forms the prohibition of partaking of blood of a living animal (Sanhedrin 59a)",
+    "he": "ד\"ה בשר בנפשו לא תאכלו: הרי אבר מן החי ואף \"בנפשו דמו לא תאכלו\", הרי דם מן החי."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ד׳:א׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 9:4:1",
+   "text": {
+    "en": "",
+    "he": "רמב\"ן, (אחרי הביאו דברי רש\"י):<br>וזה כפי הפשט איננו נכון. אבל פירושו: אך בשר בנפשו – שהוא דמו – לא תאכלו, כי נפש כל בשר דמו הוא."
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' אליהו מזרחי, פירוש על רש\"י:</span><br><span style=\"color: rgb(51,51,51);\"> ...אבל הנוסחא הנכונה שמצאתי היא: \"בנפשו\" – בעוד נפשו בו \"לא תאכלו\" – הרי אבר מן החי. בעוד \"נפשו בדמו לא תאכלו\" – הרי דם מן החי. ובי\"ת \"בנפשו\" במקום \"עם\", כאילו אמר: הבשר בעודו עם נפשו לא תאכלוהו.\nומייתורי ד\"דמו\" דרשו שמילת \"בנפשו\" נדרש לפניו ולאחריו: בשר בנפשו, בנפשו דמו. ופירושו: הבשר בעודו עם נפשו. וכן: כשעם נפשו דמו, כשדמו עודנו עם נפשו לא תאכלנו... \nוכמוהו לפי הפשט (שמות א') \"את כל עבודתם אשר עבדו בהם בפרך\" שמילת \"עבדו\" משרתת לפניו ולאחריו.</span>"
+  },
+  {
+   "node": 32,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רמבמ\"ן:</span><br><span style=\"color: rgb(51,51,51);\">ולי נראה, שיישוב המקרא, שאות וי\"ו של \"בנפשו\" הוא במקום מילת \"של\" (כמו \"וחיתו ארץ\"). וטעם \"בנפשו דמו\" – בנפש של דמו. ר\"ל, הנפש המחוברה עם הדם, שבו תפעל הנפש לכל מין ומין בבעלי חיים, שמכח הנפש יתנועע הדם בתנועותיו להחיות את בעלי החיים.</span>"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:ד׳:א׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:4:1",
+   "text": {
+    "en": "",
+    "he": "כן טעמו: אך בשר עם נפשו שהוא דמו לא תאכלו, כטעם: (דברים י\"ב כ\"ג) \"לא תאכל הנפש עם הבשר\", (ויקרא י\"ח י\"ד) \"כי נפש כל בשר דמו בנפשו הוא\"."
+   }
+  },
+  {
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רש\"ר הירש:</span><br><span style=\"color: rgb(51,51,51);\">(תרגום חפשי מגרמנית) אין להבין דמו כתמורה למילת \"בנפשו\" כי זה יתנגד להלכה, לפשט הכתובים ולפיסוק הטעמים, כי הרי בני נח לא נצטוו על דם מן החי אלא על אבר מן החי בלבד. לא נאמר \"אשר בו נפשו דמו\" אלא: \"בנפשו דמו\". \nוכן בא \"אך בשר\" בטעם מפסיק גדול, ולכן יש לקרוא: אך בשר – כל עוד דמו בנפשו – לא תאכלו.</span>"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. אילו פרושים נראים מתאימים לפיסוק הטעמים?"
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. אילו פרושים – מן הנ\"ל – דוחה כנראה הירש בהסתמכו בין שאר הוכחותיו גם על פיסוק הטעמים?"
+  }
+ ],
+ "ssn": 102,
+ "status": "public",
+ "summary": "1966 (תשכ\"ו)<br><a href=\"http://www.nechama.org.il/pdf/102.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"ו - הפטרה",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

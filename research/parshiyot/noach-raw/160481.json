@@ -1,0 +1,456 @@
+{
+ "dateCreated": "2019-03-05T15:05:21.998639",
+ "dateModified": "2019-03-07T01:59:56.461658",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 11:6:2",
+  "Rashi on Genesis 11:7:2",
+  "Rashi on Genesis 11:6:1",
+  "Genesis 11:6",
+  "Rashi on Genesis 11:7:3",
+  "Genesis 10:5",
+  "Exodus 32:9",
+  "Mizrachi, Genesis 11:7:1",
+  "Rashi on Genesis 11:9:1",
+  "Bereshit Rabbah 38:6",
+  "Rashi on Genesis 11:3:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160481,
+ "includedRefs": [
+  "Rashi on Genesis 11:3:2",
+  "Rashi on Genesis 11:7:2",
+  "Rashi on Genesis 11:6:1",
+  "Rashi on Genesis 11:6:2",
+  "Rashi on Genesis 11:7:3",
+  "Mizrachi, Genesis 11:7:1",
+  "Rashi on Genesis 11:9:1",
+  "Bereshit Rabbah 38:6",
+  "Bereshit Rabbah 38:6",
+  "Genesis 11:6",
+  "Genesis 10:5",
+  "Exodus 32:9"
+ ],
+ "nextNode": 42,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. מילים מנחות בסיפור הפלגה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">בובר, במאמרו \"סגנון המילה המנחה בספורי התורה\":</span><br><span style=\"color: rgb(51,51,51);\">בא המקרא לספר כיצד נפלגה הארץ אחר המבול וכיצד נפרדו \"איי הגויים\" איש ללשונו. זו אותה שעה משעות העולם אשר לימים שר עליה המשורר (<a class=\"refLink\" href=\"/Deuteronomy 32:8\" data-ref=\"Deuteronomy 32:8\" target=\"_blank\">דברים ל\"ב ח'</a>) כי אז הפריד עליון בני אדם. מעשה זה כיצד אירע?\nמחצה על מחצה ערוך סיפור קצר זה (א-ד; ה-ט). עלילת האדם, עלילת נגד של אלוקים. <b>שבע מילים</b> מנחות מגשרות בין עלילה לעלילה...\n<b>וכל הארץ </b>– בכך נפתח הסיפור, ובסופו חזרה משולשת, כמו חרוזה, של אותה לשון, אלא שלא הרי משמעותה שם כהרי משמעותה כאן...\nעם הארץ המאוחד - \"<b>שפה אחת</b>\" לו. במחצית הראשונה מצויה לשון זו פעם אחת בלבד; ואלו בשניה המספרת על גבורתו הבוללת-המפוררת של אלוקים המתנקם המתבצעת במישרין בתחום הלשון דוקא, חוזרת המילה שלש פעמים בדברי אלוקים ועוד פעם נוספת בסיכום המעשה הניתן בסוף.\nארץ, עם הארץ, גורל גויי הארץ הוא צירו של סיפור זה; ואולם הלשון היא התחום שבו מתארע מה שמתארע.\n... הנה כי כן שבעת גשרי המלים המנחות ממחישים לעינינו את הקשר שבין ההתקוממות לבין הכרעתה בפתח דברי הימים.</span>"
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה הן חמש המילים המנחות האחרות?"
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה משמעותה של \"כל הארץ\" בחלק הראשון של סיפורנו ומה משמעותה בסופו?"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  כמה מפרשנינו רואים <a class=\"refLink\" href=\"/Zechariah 3:9\" data-ref=\"Zechariah 3:9\" target=\"_blank\">בצפניה ג' ט'</a> רמז לסיפורנו. הסבר מה הרמז."
+  },
+  {
+   "node": 6,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ג׳:ב׳",
+   "node": 7,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Rashi on Genesis 11:3:2",
+   "text": {
+    "en": "הבה means, “Prepare yourselves”. Wherever the word הבה (come) occurs it has the meaning of “prepare”, meaning that they should get themselves ready and unite for some work or plan or burden (undertaking). “Come, get ready”: in old French appareiller; English to prepare.",
+    "he": "ד\"ה הבה: הזמינו עצמכם. כל \"הבה\" לשון הזמנה הוא שמכינים עצמן ומתחברים למלאכה או לעצה או למשא. \"הבה\" - הזמינו, אפריילייר בלע\"ז."
+   }
+  },
+  {
+   "node": 8,
+   "outsideText": "למה חזר רש\"י בסוף דבריו ואמר \"הבה – הזמינו\" אחר שכבר הסביר שכל \"הבה\" לשון הזמנה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ז׳:ב׳",
+   "node": 9,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 11:7:2",
+   "text": {
+    "en": "הבה COME — measure for measure: they had said “Come, let us build“; He meted out to them correspondingly saying. “Come let us go down” (Midrash Tanchuma, Noach 18)",
+    "he": "ד\"ה הבה: מדה כנגד מדה. הם אמרו \"הבה נבנה\" והוא כנגדם מדד ואמר \"הבה נרדה\""
+   }
+  },
+  {
+   "node": 10,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "א.  מה ראה רש\"י להביא דברי חז\"ל אלה הנה, והלא אין רש\"י מביא דברי מדרש אלא אם יש בהם לישב איזה קושי בכתוב - ומה הקושי בפרק ז'?"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.   היכן מצאנו בפרשתנו עוד שה' מעניש מידה כנגד מידה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ו׳:א׳",
+   "node": 12,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "*"
+   },
+   "ref": "Rashi on Genesis 11:6:1",
+   "text": {
+    "en": "הן עם אחד BEHOLD, THEY ARE ONE PEOPLE — They possess all the advantage of being one people and of having one language common to all of them, and this is what they begin to do!",
+    "he": "ד\"ה הן עם אחד: כל טובה זו יש עמהם, שעם אחד הם ושפה אחת לכולם ודבר זה החלו לעשות."
+   }
+  },
+  {
+   "node": 13,
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ו׳:ב׳",
+   "node": 14,
+   "options": {
+    "PrependRefWithHe": "4. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 11:6:2",
+   "text": {
+    "en": "החלם is infinitive, like אמרם “their speaking”. עשותם “their doing” (i.e. “they speak”, “they do”) — so here: “they begin to do”) (Genesis Rabbah 38:9). ",
+    "he": "ד\"ה החלם: כמו אמרם, עשיתם, להתחיל הם לעשות."
+   }
+  },
+  {
+   "node": 15,
+   "outsideText": "מה קשה לו?"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ז׳:ג׳",
+   "node": 16,
+   "options": {
+    "PrependRefWithHe": "5. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 11:7:3",
+   "text": {
+    "en": "ונבלה means AND LET US CONFOUND The נ is the plural prefix, and the ה at the end is additional to the root as the ה in ונרדה.   ",
+    "he": "ד\"ה ונבלה: ונבלבל. נו\"ן משמש בלשון רבים וה\"א האחרונה יתירה, כה\"א של \"נרדה\"."
+   }
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   איזו אי הבנה בפירוש המילה רצה רש\"י למנוע בדבריו אלה?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  אם רצה להעמידו על ה\"א יתירה בלשון רבים (=צורת רבים מאורכת), למה לא אמר דבריו על ה\"א של \"נרדה\", שהיא קודמת ל\"נבלה\"."
+  },
+  {
+   "heRef": "מזרחי, בראשית י״א:ז׳:א׳",
+   "node": 19,
+   "options": {
+    "PrependRefWithHe": "ג. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Mizrachi, Genesis 11:7:1",
+   "text": {
+    "en": "",
+    "he": "והראיה של נו\"ן של נבלה ממה שהוכרחו הזקנים (=שבעים הזקנים שתרגמו את התורה ליוונית) להחליף הנו\"ן באל\"ף."
+   }
+  },
+  {
+   "node": 20,
+   "outsideText": "הסבר את דבריו."
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ט׳:א׳",
+   "node": 21,
+   "options": {
+    "PrependRefWithHe": "6. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 11:9:1",
+   "text": {
+    "en": "ומשם הפיצם AND FROM THENCE DID THE LORD SCATTER THEM —This teaches that they have no portion in the world to come (Sanhedrin 107b). Which sin was greater: that of the generation of the Flood or that of the generation of the Dispersion? The former did not stretch forth their hands against God; the latter did stretch forth their hands against God to war against him (surely, then, the sin of the generation of the Dispersion was greater) and yet the former (the generation of the Flood) were drowned and these did not perish from the world! But the reason is that the generation of the Flood were violent robbers and there was strife among them, and therefore they were destroyed; but these conducted themselves in love and friendship, as it is said, “They were one people and had one language”. — You may learn from this how hateful to God is strife and how great is peace (Genesis Rabbah 38:6). ",
+    "he": "ד\"ה ומשם הפיצם: לימד שאין לו חלק לעולם הבא;\n... וכי איזו קשה? של דור המבול או של דור הפלגה? אלו לא פשטו יד בעיקר (הקב\"ה) ואלו פשטו יד בעיקר כביכול להלחם בו. ואלו נשטפו, ואלו לא נאבדו מן העולם? אלא שדור המבול היו גזלנים והיתה מריבה ביניהם ואלו היו נוהגים אהבה ורעות בניהם, שנאמר (י\"א א') \"שפה אחת ודברים אחדים\", למדת ששׂנוי (=שנוא) המחלוקת וגדול השלום."
+   }
+  },
+  {
+   "heRef": "בראשית רבה ל״ח:ו׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 38:6",
+   "text": {
+    "en": "",
+    "he": "דברי רש\"י אלה מקורם בבראשית רבה ל\"ח (ו'):<br>אמר ר' לעזר: איזו קשה, זה שאומר למלך: \"או אני או אתה בפלטין\" "
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">(פרוש מהרז\"ו:</span><br><span style=\"color: rgb(51,51,51);\">מאחר שאתה בפלטין אלך לי ואעזוב אותך בפלטין)</span>"
+  },
+  {
+   "heRef": "בראשית רבה ל״ח:ו׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Bereshit Rabbah 38:6",
+   "text": {
+    "en": "",
+    "he": "או זה שאמר 'לא אני ולא אתה בפלטין!'? זה שאומר: 'או אני או אתה בפלטין'! כך דור המבול, אמרו (<a class=\"refLink\" href=\"/Job 21:15\" data-ref=\"Job 21:15\" target=\"_blank\">איוב כ\"א ט\"ו</a>) \"מה שדי כי נעבדנו\". דור הפלגה אמרו: \"לא כל הימנו שיבור לו את העליונים וליתן לנו את התחתונים. אלא בואו ונעשה לנו מגדל וניתן עבודה זרה בראשו וניתן חרב בידה ותהי נראית כאילו עושה עמו מלחמה\". מהם (= מדור המבול) לא נשארה פליטה ואלו (= דור הפלגה) נשארה מהם פליטה. אלא דור המבול על ידי שהיו שטופין בגזל (<a class=\"refLink\" href=\"/Job 24:2\" data-ref=\"Job 24:2\" target=\"_blank\">איוב כ\"ד, ב</a>) \"גבולות ישיגו, עדר גזלו וירעו\", לפיכך לא נשארה מהם פליטה. אבל אלו על ידי שהיו אוהבים זה לזה \"ויהי כל הארץ שפה אחת ודברים אחדים – לפיכך נשארה מהם פליטה.רבי אמר: גדול שלום שאפילו ישראל עובדים עבודה זרה ושלום ביניהם, אמר הקב\"ה: כביכול איני שולט בהם, שנאמר (<a class=\"refLink\" href=\"/Hosea 6:17\" data-ref=\"Hosea 6:17\" target=\"_blank\">הושע ו' י\"ז</a>) \"חבור עצבים אפרים הנח לו\". אבל אם חלוק לבם, מה כתיב? (<a class=\"refLink\" href=\"/Hosea 10:2\" data-ref=\"Hosea 10:2\" target=\"_blank\">הושע י' ב'</a>) \"חלק לבם עתה יאשמו\"."
+   }
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   הסבר למה פתח רש\"י דבריו ב\"לימד שאין להם חלק לעולם הבא\". מניין למד?"
+  },
+  {
+   "node": 26,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  אלמושנינו, מעיר לדברי רש\"י הנ\"ל:<br>יפה דקדק רש\"י בלשונו שלא אמר \"ואלה לא נשטפו\"... "
+  },
+  {
+   "node": 27,
+   "outsideText": "הסבר – במה יפה דקדוקו זה בלשונו?"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ג.  הסבר למה אין רש”י מביא דברי המדרש הנ\"ל גם ל<a class=\"refLink\" href=\"/Hosea 6:17\" data-ref=\"Hosea 6:17\" target=\"_blank\">הושע ו' י\"ז</a>?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">(שם פירש:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה חבור עצבים: נצמד לעבודה זרה ואי אפשר לו לפרוש, לפיכך הנח לו, אתה הנביא, ולא תנבא להוכיחו, כי לא יועיל).</span>"
+  },
+  {
+   "node": 30,
+   "outsideText": "<table><tbody><tr><td><big>ג. סיפור הפלגה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 31,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' יוסף אבן כספי, טירת כסף:</span><br><span style=\"color: rgb(51,51,51);\">וסיפור עניין הפלגה שהיתה שם, להודיענו סיבת החלק הלשונות בהתפשט העמים ההם לפאות, כמו שקדם לזה (י' כ') \"ללשונותם מארצותם\". אמנם ה' יתברך לא הכריחם ביחוד לשון לשון, כי הלשון הסכמיי, ואם יש מבוא לקצת סוגי הלשון בטבע הארצות, אמנם סבב ה' העדר הסכמתם בלשון אחר; <b>ולפי זה נכון לומר שסבב יחוד לשונותם אבל בצד מה</b>, רצוני <b>בכוונה שנית</b> וכבר די במה שרמזנו במצוה הששית.*</span>"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  איך מפרש אבן כספי את <a class=\"refLink\" href=\"/Genesis 11:9\" data-ref=\"Genesis 11:9\" target=\"_blank\">פסוק ט'</a> שבפרקנו?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. מהי הקושיה הגדולה של פסוקנו שאותה בא לישב?"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  הסבר את המילים המסומנות בקו."
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "* במבוא לפרושו \"טירת כסף\" (מאמר שני \"בענינים הפרטים\") הוא נותן שבע מצוות \"למעיין בספרו טרם התחילו בעיון זה\":<br>קראתים על דרך סימן שבע מצוות בני נח לפי שבשמירתם יהיה לנו מנוח מבהלות הרעיונים ומטרדת המחשבות בהבנת דברי הכתובים מספרי המקרא... \n... המצוה השישית לדעת, כי הדברים הם כולם מיוחסים לה' יתברך, עד שכל העניינים הנמצאים יאמר שהוא הפועל להם וזה בלשונות שונים, אם לשון פעולה או עשייה או אמירה ודיבור, ובכלל בכל לשון שאפשר..."
+  },
+  {
+   "node": 36,
+   "outsideText": "<table><tbody><tr><td><big>ד. הן עם אחד</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ו׳",
+   "node": 37,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:6",
+   "text": {
+    "en": "And the LORD said: ‘Behold, they are one people, and they have all one language; and this is what they begin to do; and now nothing will be withholden from them, which they purpose to do.",
+    "he": "\"הֵן עַם אֶחָד וְשָׂפָה אַחַת לְכֻלָּם\""
+   }
+  },
+  {
+   "heRef": "בראשית י׳:ה׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 10:5",
+   "text": {
+    "en": "Of these were the isles of the nations divided in their lands, every one after his tongue, after their families, in their nations.",
+    "he": "\"מֵאֵלֶּה נִפְרְדוּ אִיֵּי הַגּוֹיִם בְּאַרְצֹתָם אִישׁ לִלְשֹׁנוֹ לְמִשְׁפְּחֹתָם בְּגוֹיֵהֶם\""
+   }
+  },
+  {
+   "node": 39,
+   "outsideText": "התוכל להסביר מהו ההבדל בין \"עם\" ל\"גוי\"?"
+  },
+  {
+   "heRef": "שמות ל״ב:ט׳",
+   "node": 40,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Exodus 32:9",
+   "text": {
+    "en": "And the LORD said unto Moses: ‘I have seen this people, and, behold, it is a stiffnecked people.",
+    "he": "\"רָאִיתִי אֶת הָעָם הַזֶּה וְהִנֵּה עַם קְשֵׁה עֹרֶף הוּא... הַנִּיחָה לִּי וְיִחַר אַפִּי בָהֶם וַאֲכַלֵּם וְאֶעֱשֶׂה אוֹתְךָ לְגוֹי גָּדוֹל\""
+   }
+  }
+ ],
+ "ssn": 43,
+ "status": "public",
+ "summary": "1969 (תשכ\"ט)<br><a href=\"http://www.nechama.org.il/pdf/43.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"ט - דור הפלגה",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

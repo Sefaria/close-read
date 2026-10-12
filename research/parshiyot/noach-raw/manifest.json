@@ -1,0 +1,229 @@
+{
+ "parsha": "noach",
+ "source": "local MongoDB `sefaria.sheets` (production restore)",
+ "db_latest_dateModified": "2026-08-15T20:57:16.549827",
+ "query": {
+  "owner": 54380,
+  "topics.slug": "parashat-noach"
+ },
+ "dropped_fields": [
+  "_id",
+  "likes",
+  "llm_scoring",
+  "views"
+ ],
+ "exported_at": "2026-10-12T15:00:16",
+ "count": 30,
+ "files": [
+  {
+   "id": 160443,
+   "file": "160443.json",
+   "title": "פרשת נח תשכ\"ח - דור הפלגה",
+   "n_sources": 41,
+   "sha256": "f31664b46bb9147154a30d5f8990413f74cd84a306635bf837f33caafda6b147"
+  },
+  {
+   "id": 160445,
+   "file": "160445.json",
+   "title": "פרשת נח תש\"ל - מצוות בני נח",
+   "n_sources": 38,
+   "sha256": "ea666f6318e435fbdf9c50a936716ce41687f158411a06ea0e2ce9e7c09a3cca"
+  },
+  {
+   "id": 160481,
+   "file": "160481.json",
+   "title": "פרשת נח תשכ\"ט - דור הפלגה",
+   "n_sources": 40,
+   "sha256": "c2923c4331a8d357bac0fa4c7a4a342aeb3ce01b20d41ad71206505719240096"
+  },
+  {
+   "id": 160496,
+   "file": "160496.json",
+   "title": "פרשת נח תשכ\"ז - דור הפלגה",
+   "n_sources": 40,
+   "sha256": "41ced28b4ab035834ec80697e1dc6298eb286022798bff3d1315e9c1409bec48"
+  },
+  {
+   "id": 160533,
+   "file": "160533.json",
+   "title": "פרשת נח תשכ\"ו - הפטרה",
+   "n_sources": 36,
+   "sha256": "dd82501d512f1eddcad27e6359c12cde02fb044de214ac8c1e8caaea58382983"
+  },
+  {
+   "id": 160578,
+   "file": "160578.json",
+   "title": "פרשת נח תשכ\"ה - תחילתו של אברם",
+   "n_sources": 38,
+   "sha256": "dbd61b2b898fc2d1978c503ba8e163bdfa06febfa777ef85bd207d228f999b95"
+  },
+  {
+   "id": 160639,
+   "file": "160639.json",
+   "title": "פרשת נח תשכ\"ד - היונה והברית",
+   "n_sources": 40,
+   "sha256": "be1bf4bdb57e1e8db2a091f6bff456001f3d018b9a0132fc93b80289b567438e"
+  },
+  {
+   "id": 160700,
+   "file": "160700.json",
+   "title": "פרשת נח תשכ\"ב - אחר המבול",
+   "n_sources": 40,
+   "sha256": "a31efdef8f389ba4939bde1563b37809dda89217d16fa05bcca038374371ead2"
+  },
+  {
+   "id": 160727,
+   "file": "160727.json",
+   "title": "פרשת נח תשכ\"ג - הברית",
+   "n_sources": 41,
+   "sha256": "4d740af16f1605f9535a36f1677691dafc4213e1ab182860b0e4140203503cfd"
+  },
+  {
+   "id": 160824,
+   "file": "160824.json",
+   "title": "פרשת נח תשכ\"א - המבול",
+   "n_sources": 49,
+   "sha256": "e74a2f909c4f8db81f9c0f5e7bed99456297b8388eb643671dbcea36acd58fbd"
+  },
+  {
+   "id": 161105,
+   "file": "161105.json",
+   "title": "פרשת נח תשי\"ז - ברכת ה' לנח לאחר המבול",
+   "n_sources": 47,
+   "sha256": "4e52f89d04a9e26fcfac30464624a289400ff64eb9ef795eea17310d846afb54"
+  },
+  {
+   "id": 161147,
+   "file": "161147.json",
+   "title": "פרשת נח תשי\"ח - \"אלה תולדות נח\"",
+   "n_sources": 46,
+   "sha256": "4dc3a7ee5576e05475072d21d62300e28bafa1dede6dfe7c6f8a70225b3f1686"
+  },
+  {
+   "id": 161181,
+   "file": "161181.json",
+   "title": "פרשת נח תשי\"ט - דור המבול + הפטרה",
+   "n_sources": 53,
+   "sha256": "68afcc836365736bb8e2398ec7601738b4e66a3ab652a2550cfbb93cbb57c684"
+  },
+  {
+   "id": 161235,
+   "file": "161235.json",
+   "title": "פרשת נח תשט\"ו - מגדל בבל",
+   "n_sources": 37,
+   "sha256": "314294117cfe9b8e2c91fbf6bfbd0af09993becb43e24e3599c46841e04abdb6"
+  },
+  {
+   "id": 161275,
+   "file": "161275.json",
+   "title": "פרשת נח תשי\"ג - המבול",
+   "n_sources": 34,
+   "sha256": "f74c020dd10c8dc6d6e81a76f8dd84e36a53bb17bcc01f53dd1c14844f778e04"
+  },
+  {
+   "id": 161301,
+   "file": "161301.json",
+   "title": "פרשת נח תשט\"ז - השינויים בפסוקים מקבילים",
+   "n_sources": 48,
+   "sha256": "91c66535bf704bd7240a85d4e4e2db563e0a19c37eefcb7dec1d674de524b710"
+  },
+  {
+   "id": 161402,
+   "file": "161402.json",
+   "title": "פרשת נח תשי\"ד - הסיבה למבול",
+   "n_sources": 26,
+   "sha256": "400e1f71421b47ae0049aae1973fbb7fd68579d3e393dc2c5cf3f766f856fe44"
+  },
+  {
+   "id": 161440,
+   "file": "161440.json",
+   "title": "פרשת נח תש\"י - \"ויברך אלקים את נח...\"",
+   "n_sources": 44,
+   "sha256": "004efc9d5f738099867ef0d59bef83bf4e1b96e2de78f430521634c5b451c550"
+  },
+  {
+   "id": 161472,
+   "file": "161472.json",
+   "title": "פרשת נח תשי\"ב - היציאה מן התיבה",
+   "n_sources": 38,
+   "sha256": "e128c496574efdfa93412746d8902a45ef07bf58bec569186004a9c12bd05a45"
+  },
+  {
+   "id": 161496,
+   "file": "161496.json",
+   "title": "פרשת נח תש\"ח - \"אך את דמכם לנפשותיכם\"",
+   "n_sources": 22,
+   "sha256": "cfe261de798f9f22933028d92b815235fd29fdc57afea7dce3a7cbce9f6c9d1d"
+  },
+  {
+   "id": 161548,
+   "file": "161548.json",
+   "title": "פרשת נח תש\"ו - היציאה מן התיבה",
+   "n_sources": 42,
+   "sha256": "88a9f6bb8bdeb6aada6b819f83f0352633e0ef3b09ff1d59c4934d52218b1063"
+  },
+  {
+   "id": 161581,
+   "file": "161581.json",
+   "title": "פרשת נח תשי\"א - אות הברית",
+   "n_sources": 34,
+   "sha256": "f696ad4bc90094f35f2dd6c5a2354521fbe62583fde2f7dcb946e6262ee575a7"
+  },
+  {
+   "id": 161686,
+   "file": "161686.json",
+   "title": "פרשת נח תש\"כ - נמרוד ודור הפלגה",
+   "n_sources": 32,
+   "sha256": "9ea31213da5d0e1789cda1c45a8cad237b210e112953ef03cbc02e87e5d4799d"
+  },
+  {
+   "id": 161721,
+   "file": "161721.json",
+   "title": "פרשת נח תש\"ה - דור המבול",
+   "n_sources": 56,
+   "sha256": "47c4c3827fd4fab7caf7684591a285a1747e641e5e1db149cf8578a75df27af4"
+  },
+  {
+   "id": 161777,
+   "file": "161777.json",
+   "title": "פרשת נח תש\"ז - נח",
+   "n_sources": 28,
+   "sha256": "2b91a2bdef44aabe593019c8edac55df046e81e3d8c5c80d3e94c86cb060b58a"
+  },
+  {
+   "id": 161835,
+   "file": "161835.json",
+   "title": "פרשת נח תש\"ט - מצוות בני נח",
+   "n_sources": 35,
+   "sha256": "db747facfff181a4a4e905ae0d94ba4b38b9426e4a429da73ed525d5ee231086"
+  },
+  {
+   "id": 161881,
+   "file": "161881.json",
+   "title": "פרשת נח תש\"ב - נח",
+   "n_sources": 42,
+   "sha256": "922a8908c03d22e456261e0b4afe5e56e2df08962454bc6688b5259cc1b7d2bd"
+  },
+  {
+   "id": 161942,
+   "file": "161942.json",
+   "title": "פרשת נח תש\"ד - דור הפלגה",
+   "n_sources": 52,
+   "sha256": "dca56e82f8a2422357fc003f6df2663e0136d0d422113582643da013483ddd3e"
+  },
+  {
+   "id": 162001,
+   "file": "162001.json",
+   "title": "פרשת נח תש\"ג - ברכת ה'",
+   "n_sources": 50,
+   "sha256": "2a9b186c331a70d1ded7aa0183181499abd2ced2006585631515f051b65a28b9"
+  },
+  {
+   "id": 162070,
+   "file": "162070.json",
+   "title": "פרשת נח תשל\"א - \"ואך את דמכם...\"",
+   "n_sources": 36,
+   "sha256": "f8abaf8eb35b8e3563c9c26b8c630a76b78dcf46a5672907f3b17a3dc12f3cdb"
+  }
+ ]
+}

@@ -1,0 +1,566 @@
+{
+ "dateCreated": "2019-03-19T05:19:22.012980",
+ "dateModified": "2019-05-01T05:17:47.647732",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 9:5:1",
+  "Radak on Genesis 9:4:1",
+  "Meshekh Chokhmah, Noakh 18",
+  "Genesis 9:5",
+  "Abarbanel on Torah, Genesis 9:1:1",
+  "Genesis 9:7",
+  "Bekhor Shor, Genesis 9:5:1",
+  "Bava Batra 60b:19",
+  "Bava Batra 60b:20",
+  "Genesis 9:6",
+  "Genesis 9:3",
+  "Genesis 9:4"
+ ],
+ "group": "גיליונות נחמה",
+ "highlighterTags": [],
+ "id": 160445,
+ "includedRefs": [
+  "Genesis 9:3",
+  "Genesis 9:4",
+  "Radak on Genesis 9:4:1",
+  "Abarbanel on Torah, Genesis 9:1:1",
+  "Genesis 9:5",
+  "Genesis 9:4",
+  "Rashi on Genesis 9:5:1",
+  "Bekhor Shor, Genesis 9:5:1",
+  "Genesis 9:6",
+  "Genesis 9:7",
+  "Meshekh Chokhmah, Noakh 18",
+  "Bava Batra 60b:19-20"
+ ],
+ "nextNode": 40,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "bilingual",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "promptedToPublish": false,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>A. God's Words</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "he": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>א. דברי ה'</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+   }
+  },
+  {
+   "node": 2,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>Compare Gods's first words to Adam after the creation of the world to God's first words to Noah after the flood:</p>\n",
+    "he": "השווה את דברי ה' הראשונים לאדם לאחר בריאת העולם לדברי ה' הראשונים לנח ולבניו אחר המבול:"
+   }
+  },
+  {
+   "node": 12,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>To Adam</strong></td>\n\t\t\t<td><strong>To Noah</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Genesis 1:28</strong></p>\n\n\t\t\t<p>God blessed them and God said to them, “Be fertile and increase, fill the earth and master it; and rule the fish of the sea, the birds of the sky, and all the living things that creep on earth.”</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Genesis 9:1</strong></p>\n\n\t\t\t<p>God blessed Noah and his sons, and said to them, “Be fertile and increase, and fill the earth.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Genesis 1:29 </strong></p>\n\n\t\t\t<p>God said, “See, I give you every seed-bearing plant that is upon all the earth, and every tree that has seed-bearing fruit; they shall be yours for food.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Genesis 9:2</strong></p>\n\n\t\t\t<p>The fear and the dread of you shall be upon all the beasts of the earth and upon all the birds of the sky—everything with which the earth is astir—and upon all the fish of the sea; they are given into your hand.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><strong>Genesis 1:30 </strong></p>\n\n\t\t\t<p>And to all the animals on land, to all the birds of the sky, and to everything that creeps on earth, in which there is the breath of life, [I give] all the green plants for food.” And it was so.</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p><strong>Genesis 9:3</strong></p>\n\n\t\t\t<p>Every creature that lives shall be yours to eat; as with the green grasses, I give you all these.</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td> </td>\n\t\t\t<td>\n\t\t\t<p><strong>Genesis 9:4</strong></p>\n\n\t\t\t<p>You must not, however, eat flesh with its life-blood in it.</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p> </p>\n",
+    "he": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>לאדם</strong></td>\n\t\t\t<td><strong>לנח</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: right;\"><strong>פרק א' פסוק כ\"ח</strong></p>\n\n\t\t\t<p style=\"text-align: right;\">\"פְּרוּ וּרְבוּ וּמִלְאוּ אֶת הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל חַיָּה הָרֹמֶשֶׂת עַל הָאָרֶץ\"</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: right;\"><strong>פרק ט' פסוק א'</strong></p>\n\n\t\t\t<p style=\"text-align: right;\">\"פְּרוּ וּרְבוּ וּמִלְאוּ אֶת הָאָרֶץ\"</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: right;\"><strong>פרק א' פסוק כ\"ט</strong></p>\n\n\t\t\t<p style=\"text-align: right;\">\"וַיֹּאמֶר אֱ-לֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת כָּל עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל פְּנֵי כָל הָאָרֶץ וְאֶת כָּל הָעֵץ אֲשֶׁר בּוֹ פְרִי עֵץ זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה\"</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: right;\"><strong>פרק ט' פסוק ב'</strong></p>\n\n\t\t\t<p style=\"text-align: right;\">\"וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה עַל כָּל חַיַּת הָאָרֶץ וְעַל כָּל עוֹף הַשָּׁמָיִם בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה וּבְכָל דְּגֵי הַיָּם בְּיֶדְכֶם נִתָּנוּ\"</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: right;\"><strong>פרק א' פסוק ל'</strong></p>\n\n\t\t\t<p style=\"text-align: right;\">\"וּלְכָל חַיַּת הָאָרֶץ וּלְכָל עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ עַל הָאָרֶץ אֲשֶׁר בּוֹ נֶפֶשׁ חַיָּה אֶת כָּל יֶרֶק עֵשֶׂב לְאָכְלָה\"</p>\n\t\t\t</td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: right;\"><strong>פרק ט' פסוק ג'</strong></p>\n\n\t\t\t<p style=\"text-align: right;\">\"כָּל רֶמֶשׂ אֲשֶׁר הוּא חַי לָכֶם יִהְיֶה לְאָכְלָה כְּיֶרֶק עֵשֶׂב נָתַתִּי לָכֶם אֶת כֹּל\"</p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td> </td>\n\t\t\t<td>\n\t\t\t<p style=\"text-align: right;\"><strong>פרק ט' פסוק ד'</strong></p>\n\n\t\t\t<p style=\"text-align: right;\">\"אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\"</p>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n"
+   }
+  },
+  {
+   "node": 4,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>Are you able to explain the reason for the main changes between the two statements of God based on the times and contexts of the two statements?</p>\n",
+    "he": "<p>האם תוכל להסביר את סיבת השינויים העיקריים בין שתי אמירות ה' על פי זמניהן והקשריהן של שתי האמירות?</p>\n"
+   }
+  },
+  {
+   "node": 5,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>B. The Dispensation to Eat Meat</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "he": "<table><tbody><tr><td><big>ב. היתר אכילת בשר</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ג׳",
+   "node": 6,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:3",
+   "text": {
+    "en": "<p>\"Every moving thing that liveth shall be for food for you\"</p>\n",
+    "he": "\" כָּל רֶמֶשׂ אֲשֶׁר הוּא חַי לָכֶם יִהְיֶה לְאָכְלָה\""
+   }
+  },
+  {
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p><span style=\"color: #999999;\"></span></p>\n\n<p><strong>R. S. R. Hirsch:</strong><br>\nFrom when human life changed, man was granted new nourishment. It is probable that this is due to the shortening of his life: What was up until now done during the course of seven hundred years would occur in the course of 'seventy, eighty years.' And [man's newly] speedy development requires nourishment from living creatures. And also the change of the seasons of the year and in climates <span style=\"\"><span><span style=\"\">– </span></span></span>all of these constitute reasons for the dispensation of nourishment from living creatures. And through this, man is [also] less dependent upon nourishment from that which grows from the ground... The Torah does not want vegetarianism and it does not shy away from the eating of meat. Just the opposite, it is a commandment to eat meat on holidays (see Sifrei Deuteronomy on 16:11). Had we been in our original <strong>physical</strong> state, it would not have been permissible for us to eat meat. But now it is necessary for man [to eat meat]. However with the dispensation to eat meat, laws about forbidden foods immediately began to take effect. Likewise do we find afterwards, when the Torah was given to Israel, that there is no food that the Torah prohibits that is not from living creatures... In contrast to this, there is no plant that is intrinsically forbidden to eat.</p>\n\n<p><span style=\"color: #333333;\"></span></p>\n",
+    "he": "<span style=\"color: rgb(153,153,153);\">רש\"ר הירש:</span><br><span style=\"color: rgb(51,51,51);\">משנשתנו חיי האדם, הוא זוכה במזון חדש. מסתבר שזה תלוי בקיצור חייו. מה שנעשה עד כה במשך שבע מאות שנה, ייעשה מעתה במשך שבעים, שמונים שנה. וההתפתחות המהירה דורשת מזון מן החי. ועוד: הבדלי החום, חילוף עונות השנה והאקלימים – כל אלה יש בהם טעם להתיר מזון מן החי. על-ידי-כך האדם תלוי פחות במזון מגידולי קרקע... אין התורה רוצה בצמחוניים, ואין היא סולדת מאכילת בשר. נהפוך הוא: מצוה לאכול בשר ביום-טוב. (עיין ספרי דב' ט\"ז י\"א). אילו היינו במצבנו <b>הפיסי</b> המקורי, לא היה מותר לנו לאכול בשר; אך עתה הבשר הוא צורך האדם. אולם מיד עם היתר הבשר, נכנסות לתוקפן הלכות מאכלות אסורות. וכן מצינו לאחר מכן, משניתנה תורה לישראל: אין לך מאכל שנאסר בתורה שאיננו מאכל מן החי... כנגד זה אין לך צמח שהוא אסור באכילה, כשהוא לעצמו.</span>"
+   }
+  },
+  {
+   "node": 8,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>Compare his words regarding the dispensation to Noah to eat meat and the words of Rav Kook cited in the worksheet for Achrei Mot-Kedoshim from 1969. (And see the <a href=\"http://www.nechama.org.il/guidance/5.html\">guidance sheet</a>)</p>\n",
+    "he": "השווה את דבריו לדברי הרב קוק בעניין היתר אכילת בשר לנח, שהובאו בגיליון <a class=\"refLink\" data-ref=\"sheet.160649\" href=\"/sheets/160649\" target=\"_blank\">אחרי-מות קדושים תשכ\"ט</a>. (ועיין עלון ההדרכה)."
+   }
+  },
+  {
+   "node": 9,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>What is the difference between R. S. R. Hirsch and Rav Kook in the reason given for the dispensation to eat meat?</p>\n",
+    "he": "מה ההבדל במתן סיבה להיתר אכילת הבשר בין רש\"ר הירש ובין הרב קוק?"
+   }
+  },
+  {
+   "node": 10,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>C. \"...In its soul, its blood...\"</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "he": "<table><tbody><tr><td><big>ג. \"...בנפשו דמו...\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ד׳",
+   "node": 14,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:4",
+   "text": {
+    "en": "<p><span class=\"segment\">\"You must not, however, eat flesh in its soul, its blood in it.\"</span></p>\n",
+    "he": "<span class=\"segment\"><small>(ד)</small> אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ׃</span> "
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:ד׳:א׳",
+   "node": 20,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Radak on Genesis 9:4:1",
+   "text": {
+    "en": "<p>אך בשר, even though I have permitted you all moving (living) creatures as food, you must not eat those animals while they are still alive, i.e. as long as the flesh and the soul are part of one whole you must not eat such tissue. First you have to slaughter the animal. It would be too cruel to simply cut living tissue from an animal and consume it.</p>\n",
+    "he": "ד\"ה אך בשר: אף על פי שנתתי לכם כל בשר רומש לאכול, לא תאכלו אותו עם נפשו שהוא דמו, כלומר כל זמן שהבשר עם הנפש, והוא בעודו חי, אלא קודם תזבחוהו ואחר-כך תאכלוהו, כי זה דרך אכזריות לחתוך בשר מן החי ולאכלו."
+   }
+  },
+  {
+   "heRef": "אברבנאל על תורה, בראשית ט׳:א׳:א׳",
+   "node": 13,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Abarbanel on Torah, Genesis 9:1:1",
+   "text": {
+    "en": "<p>And since they would learn the trait of cruelty from their killing animals in order to eat them, it forbade them [eating] a limb from a live animal, which is an even greater cruelty. And this is its statement, \"But you may not eat meat in its soul (<em>benafsho</em>), its blood.\" And the [letter] <em>bet</em>, of <em>benafsho </em>is used in the place of \"with,\" as in (Exodus 14:18), <em>berikhvo oveparashav</em> (with his chariot and with his riders)\"; and (Exodus 15:20), \"<em>betupim ouvimacholo</em>t (with drums and with dances).\" [Hence] the verse is saying, when the soul <span style=\"\"><span><span style=\"\">– </span></span></span>its blood <span style=\"\"><span><span style=\"\">– </span></span></span>is in it, do not eat from the meat. And this is a truly straight and true explanation.</p>\n",
+    "he": "ולפי שבהרגם בעלי החיים לאכילתם ילמדו מידת אכזריות, אסר להם אבר מן החי שהוא אכזריות יותר גדול. והוא אמרו \"אך בשר בנפשו דמו לא תאכלו\". ובי\"ת \"בנפשו\" תשמש במקום \"עם\". כמו (<a class=\"refLink\" data-ref=\"Exodus 14\" href=\"/Exodus 14\" target=\"_blank\">שמות י\"ד</a>) \"ברכבו ובפרשיו\" (<a class=\"refLink\" data-ref=\"Exodus 15:20\" href=\"/Exodus 15:20\" target=\"_blank\">שמות ט\"ו כ'</a>) \"בתופים ובמחולות\" יאמר הכתוב: ובשר בהיות עם נפשו דמו – לא תאכלו מן הבשר ההוא. והוא באמת פירוש ישר ואמיתי."
+   }
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>1. What is the understanding of the word, soul (<em>nefesh</em>), according to the opinion above?</p>\n",
+    "he": "1. מה פירוש המלה \"נפש\", לפי דעת הנ\"ל?"
+   }
+  },
+  {
+   "node": 15,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "*"
+   },
+   "outsideBiText": {
+    "en": "<p>2. What is the syntactic relationship between \"its soul\" and \"its blood,\" according to the commentators above?</p>\n",
+    "he": "2. מהו היחס התחבירי בין \"נפשו\" ו\"דמו\" לפי הפרשנים הנ\"ל."
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>3. What is the reason for the prohibition according to Abarbanel? In what way does he veer from the traditional opinion?</p>\n",
+    "he": "3. מהו טעם האיסור לפי אברבנאל? במה סוטה הוא מן הדעה המקובלת?"
+   }
+  },
+  {
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p><span style=\"color: #999999;\"></span><span style=\"color: #95a5a6;\"><strong>R. Yosef Ibn Kaspi</strong></span><br>\nS.v. In its soul, its blood: It is as if it stated, \"Meaning to say, its blood.\" And this was a necessary clarification, as \"soul (nefesh)\" is a name common to blood and to something else, as was written by [Rambam in] the Guide (Guide for the Perplexed I:41).<span style=\"color: #333333;\"></span></p>\n",
+    "he": "<p><span style=\"color: #999999;\">ר' יוסף אבן כספי</span><br>\n<span style=\"color: #333333;\">ד\"ה בנפשו דמו: כאילו אמר: רוצה לומר \"דמו\". וזה הביאור היה מן הצורך, כי \"נפש\" שם משותף ל\"דם\" ולזולתו, כמו שכתב המורה (ח\"א, מ\"א).</span></p>\n"
+   }
+  },
+  {
+   "node": 18,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>4. Does Ibn Kaspi agree with the words of one of the commentators above?</p>\n",
+    "he": "4. האם מסכים אבן כספי לדברי אחד המפרשים הנ\"ל?"
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>5. What is the \"something else\" to which he is referring?</p>\n",
+    "he": "5. מה הוא ה\"זולתו\" שאליו יכוון?"
+   }
+  },
+  {
+   "node": 20,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "*"
+   },
+   "outsideBiText": {
+    "en": "<p>6. Is the meaning of the word, \"soul,\" in Deuteronomy 12:23 the same as its meaning here according to Ibn Kaspi's opinion or not?</p>\n",
+    "he": "6. האם הוראת המילה \"נפש\" <a class=\"refLink\" data-ref=\"Deuteronomy 12:23\" href=\"/Deuteronomy 12:23\" target=\"_blank\">בדברים י\"ב כ\"ג</a> היא כהוראתה במקומנו – לדעת אבן כספי – אם לא?"
+   }
+  },
+  {
+   "node": 21,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>D. \"...And surely your blood...\"</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "he": "<table><tbody><tr><td><big>ד. \"...ואך את דמכם...\"</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 22,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "<p>\"But (<em>ach</em>) your blood of your lives will I require\"</p>\n",
+    "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ד׳",
+   "node": 24,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:4",
+   "text": {
+    "en": "<p><span class=\"segment\">\"You must not, however (<em>ach</em>), eat flesh with its life-blood in it.\"</span></p>\n",
+    "he": "<p><span class=\"segment\">\"אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\"</span></p>\n"
+   }
+  },
+  {
+   "node": 24,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "**"
+   },
+   "outsideBiText": {
+    "en": "<p>1. What is the difference between the meaning of <em>ach </em>in verse 4 and its meaning in verse 5?</p>\n",
+    "he": "1. מה ההבדל במשמעות בין \"אך\" של <a class=\"refLink\" data-ref=\"Genesis 9:4\" href=\"/Genesis 9:4\" target=\"_blank\">פסוק ד'</a> ל-\"אך\" של פסוק ה'?"
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:א׳",
+   "node": 25,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 9:5:1",
+   "text": {
+    "en": "<p>ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).</p>\n",
+    "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבהמה, את דמכם אדרוש מהשופך דם עצמו."
+   }
+  },
+  {
+   "heRef": "בכור שור, בראשית ט׳:ה׳:א׳",
+   "node": 26,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Bekhor Shor, Genesis 9:5:1",
+   "text": {
+    "en": "<p>S.v. But (<em>ach</em>) your blood of your lives will I require: Because it permitted to spill the blood of beasts, it forbade the spilling of the blood of man <span style=\"\"><span><span style=\"\">–</span></span></span> even one's own blood. [This is] so that they will not say, \"Is it not that [since] the blood of a beast is permitted for us to spill because they live through us, [so] too a man who lives through himself should be permitted to kill himself? Hence it is stated, \"of your lives I will require.\"</p>\n",
+    "he": "ד\"ה ואך את דמכם לנפשותיכם אדרוש: מפני שהתיר לשפוך דם הבהמות, אסר לשפוך דם האדם ואפילו דם עצמו, שלא יאמרו: הלוא דם הבהמה הותר לנו לשפוך, מפני שחיו על ידינו, אדם שחי על ידי עצמו, מותר נמי להרוג את עצמו, לכך נאמר: \"לנפשותיכם אדרוש\"."
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>2. What is the difficulty in our verse for both of them?</p>\n",
+    "he": "2.  מה קשה לשניהם בפסוקנו?"
+   }
+  },
+  {
+   "node": 28,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>3. Do the two commentators above agree with one another on the resolution of the difficulty or is there a difference between their answers?</p>\n",
+    "he": "3. האם שני הפרשנים הנ\"ל מסכימים זה עם זה ביישוב הקושי או יש הבדל בין תשובותיהם?"
+   }
+  },
+  {
+   "node": 29,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>4. Explain the expression found in Bekhor Shor, \"live through us\"; \"lives through himself,\"</p>\n",
+    "he": "4.  הסבר את הביטוי בדברי בכור שור: \"חיו <b>על ידינו</b>\", \"חי <b>על ידי</b> עצמו\"."
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td><strong>5. Adjacency of Verses</strong></td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+    "he": "<table><tbody><tr><td><big>ה. סמיכות פסוקים</big></td></tr></tbody></table>"
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ו׳",
+   "node": 31,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:6",
+   "text": {
+    "en": "<p>\"Whoso sheddeth man’s blood, by man shall his blood be shed; for in the image of God made He man.\"</p>\n",
+    "he": "\"שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱ-לֹהִים עָשָׂה אֶת הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ז׳",
+   "node": 32,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:7",
+   "text": {
+    "en": "<p>\"And you, be ye fruitful, and multiply...\"</p>\n",
+    "he": "\"וְאַתֶּם פְּרוּ וּרְבוּ...\""
+   }
+  },
+  {
+   "heRef": "משך חכמה, נח י״ח",
+   "node": 34,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Meshekh Chokhmah, Noakh 18",
+   "text": {
+    "en": "<p>S.v. And you shall be fruitful and multiply: The superficial reading of the verses is according to the <em>baraita </em>at the end of [the chapter entitled] Chezkat HaBatim<sup>1</sup> ... Hence it states that even at a time when there is much [destruction by the] sword and spilling of blood, you should not look at that; as I will require the soul of the man <span style=\"\"><span><span style=\"\">– </span></span></span>\"and one who spills the blood of a man, ...his blood will be spilled.\" Rather \"You should be fruitful and multiply,\" and not say, \"Why should we give birth for panic and failure? It is better that [life] cease on its own!\" You should not look at [it that way].</p>\n",
+    "he": "<p><span class=\"segment\">ד\"ה ואתם פרו ורבו: שטחיות הכתובים על פי הברייתא דסוף חזקת הבתים*, לזה אמר, כי אף בשעה שיש חרב ושפיכות דמים הרבה, אין להם להביט על זה, כי אנכי אדרוש את נפש האדם \"ושופך דם האדם... דמו ישפך\", רק אתם פרו ורבו ולא תאמרו: \"למה נלד לבהלה ולכישלון? מוטב שיהיה כלה מאליו!? אין לכם להביט על זה.</span></p>\n"
+   }
+  },
+  {
+   "node": 34,
+   "options": {
+    "indented": "",
+    "sourcePrefix": "*"
+   },
+   "outsideBiText": {
+    "en": "<p>1. Where do we see this idea of the Meshekh Chokhmah's author again in Scripture?</p>\n",
+    "he": "1. היכן מצינו רעיון זה של בעל משך חכמה שנית במקרא?"
+   }
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>2. Where do we find this idea in the words of the Sages, may their memory be blessed, cited by Rashi on the Torah?</p>",
+    "he": "2. היכן מצינו רעיון זה בדברי חז\"ל שהביאם רש\"י על התורה?"
+   }
+  },
+  {
+   "node": 36,
+   "options": {
+    "indented": "",
+    "sourcePrefix": ""
+   },
+   "outsideBiText": {
+    "en": "<p>3. Are you able to explain the adjacency of verses 6 and 7 differently than the author of Meshekh Chokhmah?</p>\n",
+    "he": "3. התוכל להסביר את סמיכות הפסוקים ו'-ז' שלא כפי שפירש בעל משך חכמה?"
+   }
+  },
+  {
+   "heRef": "בבא בתרא ס׳ ב:י״ט-כ׳",
+   "node": 37,
+   "options": {
+    "PrependRefWithEn": "",
+    "PrependRefWithHe": "",
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLanguage": "",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Bava Batra 60b:19-20",
+   "text": {
+    "en": "<p><strong>1] It is taught</strong> in a <em>baraita</em> (<em>Tosefta</em>, <em>Sota</em> 15:10) that <strong>Rabbi Yishmael ben Elisha said: From the day that the Temple was destroyed, by right, we should decree upon ourselves not to eat meat and not to drink wine, but</strong> the Sages <strong>do not issue a decree upon the public unless a majority of the public is able to abide by it.</strong> <strong>And from the day that the wicked kingdom,</strong> i.e., Rome, <strong>spread, who decree evil and harsh decrees upon us, and nullify Torah</strong> study <strong>and</strong> the performance of <strong>mitzvot for us, and do not allow us to enter</strong> the celebration of the first <strong>week of a son,</strong> i.e., circumcision, <strong>and some say: To</strong> enter the celebration of the <strong>salvation of</strong> a firstborn <strong>son; by right we should</strong> each <strong>decree upon ourselves not to marry a woman and</strong> not <strong>to produce offspring, and it will turn out</strong> that the <strong>descendants of Abraham our forefather will cease</strong> to exist <strong>on their own,</strong> rather than being forced into a situation where there are sons who are not circumcised. (<strong>Rashi [Rashbam]</strong>: In a good way, and not through the gentiles, and the commandments will no longer be negated.) <strong>But</strong> concerning a situation such as this, the following principle is applied: <strong>Leave the Jews alone</strong> and do not impose decrees by which they cannot abide. <strong>It is better that they be unwitting</strong> sinners, who do not know that what they are doing is improper considering the circumstances, <strong>and not be intentional</strong> wrongdoers, who marry and procreate despite knowing that they should not. (<strong>Tosefot</strong>: s.v. we should decree upon ourselves not to marry a woman: It is a wonder, as it is written, \"be fruitful and multiply.\" And perhaps it is only referring to those who already fulfilled \"be fruitful and multiply\" [by having a son and a daughter]. And that the \"descendants of Abraham will cease,\" means that they only give birth to a son and a daughter.)</p>\n",
+    "he": "<p><span class=\"segment\">* </span>אמר ר'  ישמעאל בן אלישע (=בן זמנו של ר' עקיבא): מיום שחרב בית-המקדש דין הוא שנגזור על עצמנו שלא לאכול בשר ולא לשתות יין, אלא אין גוזרין גזירה על הציבור, אלא אם כן רוב ציבור יכולין לעמוד בה. ומיום שפשטה מלכות שגוזרת עלינו גזירות קשות ומבטלת ממנו תורה ומצוות ואין מנחת אותנו להיכנס לשבוע הבן (<strong>רש\"י</strong>: מילה שהוא לסוף ז' ימים...), דין הוא שנגזור על עצמנו שלא לישא אשה ולהוליד בנים ונמצא זרעו של אברהם אבינו כלה מאליו (<strong>רש\"י</strong>: בעניין טוב, ולא על ידי גויים ומצוות לא ייבטלו עוד). אלא הנח להם לישראל, מוטב שיהיו שוגגין ואל יהיו מזידין (<strong>תוספות</strong>: שנגזור על עצמנו שלא לישא נשים). תימה, הכתיב \"פרו ורבו\", ושמא על אותם שכבר קיימו \"פרו ורבו\" קאמר. והיינו \"זרעו של אברהם כלה\" שלא יוליד אלא בן ובת).</p>"
+   }
+  },
+  {
+   "node": null
+  }
+ ],
+ "ssn": 5,
+ "status": "public",
+ "summary": "1970 (תש\"ל)<br>Editing and additional translation of English by R. Francis Nataf<br><a href=\"http://www.nechama.org.il/pdf/5.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach",
+  "English"
+ ],
+ "title": "פרשת נח תש\"ל - מצוות בני נח",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  },
+  {
+   "asTyped": "English",
+   "slug": "english"
+  }
+ ]
+}

@@ -1,0 +1,539 @@
+{
+ "dateCreated": "2019-03-06T05:23:00.203768",
+ "dateModified": "2019-03-07T02:07:04.870903",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 9:5",
+  "Rashi on Genesis 9:5:5",
+  "Rashi on Genesis 9:5:2",
+  "Leviticus 20:10",
+  "Radak on Genesis 9:1:2",
+  "Rashi on Genesis 9:5:4",
+  "Genesis 1:1",
+  "Genesis 9:6",
+  "HaKtav VeHaKabalah, Genesis 9:5:2",
+  "Malbim on Genesis 9:5:1",
+  "Ibn Ezra on Genesis 9:5:1",
+  "Chizkuni, Genesis 9:6:3",
+  "Leviticus 20:9",
+  "Radak on Genesis 9:6:2",
+  "Rashi on Genesis 9:5:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161105,
+ "includedRefs": [
+  "Genesis 9:5",
+  "Rashi on Genesis 9:5:4",
+  "Rashi on Genesis 9:5:5",
+  "HaKtav VeHaKabalah, Genesis 9:5:2",
+  "Genesis 1:1",
+  "Leviticus 20:9",
+  "Leviticus 20:10",
+  "Genesis 9:5",
+  "Ibn Ezra on Genesis 9:5:1",
+  "Genesis 9:5",
+  "Rashi on Genesis 9:5:1",
+  "Rashi on Genesis 9:5:2",
+  "Genesis 9:6",
+  "Genesis 9:6",
+  "Radak on Genesis 9:1:2",
+  "Radak on Genesis 9:6:2",
+  "Chizkuni, Genesis 9:6:3",
+  "Malbim on Genesis 9:5:1"
+ ],
+ "nextNode": 49,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "הערה: בשבעה פסוקים אלה דנו גם הגיליונות נח <a class=\"refLink\" href=\"/sheets/161835\" data-ref=\"sheet.161835\" target=\"_blank\">תש\"ט</a>, <a class=\"refLink\" href=\"/sheets/161440\" data-ref=\"sheet.161440\" target=\"_blank\">תש\"י</a>. עיינו שם.\nלמילים \"מיד כל חיה אדרשנו\" הוקדש כל גיליון <a class=\"refLink\" href=\"/sheets/161496\" data-ref=\"sheet.161496\" target=\"_blank\">נח תש\"ח</a>.\n  "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. ברכה לאדם-ברכה לנח</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "השווה את הסדר, בו מובאים הברואים בברכה לאדם בפרשת בראשית, לסדר שבו הם מובאים בברכה שנאמרה לנח אחרי המבול:"
+  },
+  {
+   "node": 4,
+   "outsideText": "<table>\n<tbody><tr>\n<td>\n<b>לאדם<br></b>(<a class=\"refLink\" href=\"/Genesis 1:28\" data-ref=\"Genesis 1:28\" target=\"_blank\">בראשית א' כ\"ח</a>):</td>\n<td>\n<b>לנח<br></b>(<a class=\"refLink\" href=\"/Genesis 9:2\" data-ref=\"Genesis 9:2\" target=\"_blank\">ט' ב'</a>):</td></tr>\n<tr>\n<td>\n\"וּרְדוּ <br>בִּדְגַת הַיָּם <br>וּבְעוֹף הַשָּׁמַיִם <br>וּבְכָל חַיָּה הָרֹמֶשֶׂת עַל הָאָרֶץ\"</td>\n<td>\n\"וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה<br>עַל כָּל חַיַּת הָאָרֶץ<br>וְעַל כָּל עוֹף הַשָּׁמָיִם <br>בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה <br>וּבְכָל דְּגֵי הַיָּם\"</td></tr></tbody></table>"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "התוכל להסביר את סיבת השינויים שבסדר, בו הובאו הנבראים כאן וכאן?"
+  },
+  {
+   "node": 6,
+   "outsideText": "עצה טובה למתעניינים בשאלה זו:"
+  },
+  {
+   "node": 7,
+   "outsideText": "עיינו מאיר וייס, על ארבעה מזמורי תהלים, בספר: \"מעינות\", כרך ה', הוצאת המחלקה לחינוך ותרבות תורניים של ההסתדרות הציונית, ירושלים תשט\"ז, עמודים 100-99, שיש בו השוואה מדויקת בין הפסוקים בראשית א' כ\"ו; א' כ\"ח; ב' י\"ט; ב' כ'; תהלים ח' ח' ופסוקנו."
+  },
+  {
+   "node": 8,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"ומיד האדם...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"וּמִיַּד הָאָדָם מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ אֶת נֶפֶשׁ הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:ד׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:4",
+   "text": {
+    "en": "ומיד האדם AT THE HAND OF MAN — At the hand of one who kills with premeditation, when there are no witnesses to the murder, will “I” require it.",
+    "he": "ד\"ה ומיד האדם: מיד ההורג במזיד ואין עדים. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:ה׳",
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:5",
+   "text": {
+    "en": "מיד איש אחיו AT THE HAND OF EVERY MAN’S BROTHER — At the hand of a man who loves him like a brother and slays him accidentally will “I” require it, unless he go into banishment (in one of the Cities of Refuge) and pray for forgiveness for his iniquity. For even one who kills another by accident needs atonement: therefore if there are no witnesses to the deed to make him liable to banishment and he does not humble himself, the Holy One, blessed be He, will require it of him, just as our Rabbis explain the text, (Exodus 21:13) ‘‘But God causes it to come to hand”, in Treatise Makkot (Makkot 10b): The Holy One, blessed be He, causes them (the man who killed by accident and had not expiated the murder and the man who killed with premeditation) to meet at the same inn. The former in ascending a ladder falls upon the latter and kills him and has therefore — the accident having been seen by men — to go to banishment.",
+    "he": "ד\"ה מיד איש אחיו: שהוא אוהב לו כאח והרגו שוגג – אני אדרוש, אם לא יגלה ויבקש על עוונו למחול, שאף השוגג צריך כפרה, ואם אין עדים לחייבו גלות, והוא אינו נכנע, הקדוש ברוך הוא דורש ממנו, כמו שדרשו רבותינו במסכת מכות \"והאלוהים אינה לידו\" – הקדוש ברוך הוא מזמנם לפונדק אחד וכו'."
+   }
+  },
+  {
+   "node": 12,
+   "outsideText": "ועיין שמות כ\"א רש\"י ד\"ה האלוהים אנה לידו."
+  },
+  {
+   "heRef": "הכתב והקבלה, בראשית ט׳:ה׳:ב׳",
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "HaKtav VeHaKabalah, Genesis 9:5:2",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ומיד האדם: כפל לשון \"אדם\" ו\"איש\", גם חבר אליו מלת אחיו. נראה לי שיש שני אופני רציחה: <b>אם לדעת הנרצח</b> לנקום נקמתו ממנו; או לקחת ממונו וכדומה. <b>אם לטובת הנרצח</b> כשהוא משוקע בצער גדול ויבחר מות מחיים, כאבימלך שאמר לנער (<a class=\"refLink\" href=\"/Judges 9:30\" data-ref=\"Judges 9:30\" target=\"_blank\">שופטים ט'</a>): \"שלוף חרבך ומותתני\". וכשאול לעמלק: \"עמוד נא עלי ומותתני\" (<a class=\"refLink\" href=\"/II Samuel 1:30\" data-ref=\"II Samuel 1:30\" target=\"_blank\">שמואל ב' א'</a>); על שני אלה דיבר הכתוב: על ההורג לרעת הנרצח... ועל השני הנעשה לרצון הנרצח ולטובתו, אשר גם איש המעולה וגם כשהוא מאוהבי הנרצח ידמה כי מצוה הוא עושה להמיתו כדי להשקיטו מצער."
+   }
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  הסבר מה הוא הקושי בפסוקים אלה (ד'-ה'-ו') שאותם רצו שני הפרשנים ליישב."
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה בין שני הפירושים האלה?"
+  },
+  {
+   "node": 16,
+   "outsideText": "התוכל ליישב קושי זה בדרך אחרת שלא כפי שני אלה?"
+  },
+  {
+   "heRef": "בראשית א׳:א׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 1:1",
+   "text": {
+    "en": "In the beginning God created the heaven and the earth.",
+    "he": "\"וַיִּבְרָא אֱ-לֹהִים אֶת הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱ-לֹהִים בָּרָא אֹתוֹ...\""
+   }
+  },
+  {
+   "heRef": "ויקרא כ׳:ט׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Leviticus 20:9",
+   "text": {
+    "en": "For whatsoever man there be that curseth his father or his mother shall surely be put to death; he hath cursed his father or his mother; his blood shall be upon him.",
+    "he": "\"כִּי אִישׁ אִישׁ אֲשֶׁר יְקַלֵּל אֶת אָבִיו וְאֶת אִמּוֹ מוֹת יוּמָת אָבִיו וְאִמּוֹ קִלֵּל\""
+   }
+  },
+  {
+   "heRef": "ויקרא כ׳:י׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Leviticus 20:10",
+   "text": {
+    "en": "And the man that committeth adultery with another man’s wife, even he that committeth adultery with his neighbour’s wife, both the adulterer and the adulteress shall surely be put to death.",
+    "he": "\"וְאִישׁ אֲשֶׁר יִנְאַף אֶת אֵשֶׁת אִישׁ אֲשֶׁר יִנְאַף אֶת אֵשֶׁת רֵעֵהוּ...\""
+   }
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"ואך את דמכם...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ           מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ\nוּמִיַּד הָאָדָם  מִיַּד אִישׁ אָחִיו אֶדְרֹשׁ           אֶת נֶפֶשׁ הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:ה׳:א׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:5:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ואך את דמכם: פירושו: התרתי לכם לשפוך דם כל חי, זולתי דמכם של נפשותיכם, שאתם אדם, לא התרתי, רק אדרשנו, כטעם (<a class=\"refLink\" href=\"/Psalms 9:30\" data-ref=\"Psalms 9:30\" target=\"_blank\">תהלים ט' ע'</a>) \"כי דורש דמים אותם זכר\", <b>וזה הכלל</b>. \n<b>ואחרי כן ביאר</b> \"מיד האדם\", אם יהרגו רבים את יחיד, או יחיד את יחיד, אני אדרוש הדם, גם אדרשנו מיד כל חיה, שאצוה לאחרת שתהרגנה; והנה החיות מותרות לכם ולא אתם להן. \nוהמפרש \"דמכם לנפשותיכם\" – זה ההורג נפשו, הוא רחוק בעיני – <b>והוסיף לבאר, או היא מצוה לבני</b> <b>נח</b>, והוא הישר להרוג ההורג, וטעם \"באדם\" – בעדים, או לעיני הכל, או בעבור האדם שנשפך דמו, וכמוהו רבים."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "1.  הסבר את המקום הראשון המסומן בקו בדבריו, ותן דוגמה בתורה, הכתובה על פי אותו מבנה!"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "2. הסבר את המקום השני המסומן בקו. מה הוא ההבדל שבין שני הפירושים המובאים בדבריו? (\"<b>או</b>\")"
+  },
+  {
+   "node": 25,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  מה הם שלושת הפירושים הניתנים בדבריו למילת \"באדם\" ב<a class=\"refLink\" href=\"/Genesis 9:6\" data-ref=\"Genesis 9:6\" data-ref=\"Genesis 9:6\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 9:6\" data-ref=\"Genesis 9:6\" data-ref=\"Genesis 9:6\" target=\"_blank\">פסוק ו'</a>, ואיזה מהם מסכים עם רש\"י?"
+  },
+  {
+   "node": 26,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"ואך את דמכם לנפשותיכם אדרוש\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:א׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:1",
+   "text": {
+    "en": "ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).",
+    "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבמה, את דמכם אדרוש מהשופך דם עצמו. "
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:ב׳",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:2",
+   "text": {
+    "en": "לנפשותיכם YOUR LIFE — Even though one strangles himself (Genesis Rabbah 34:13) so that no blood flows from him yet I will require it from him.",
+    "he": "ד\"ה לנפשותיכם: אף החונק עצמו אף על פי שלא יצא ממנו דם."
+   }
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה הצריך את רש\"י לפרש שהמדובר כאן באיבוד עצמו לדעת ולא ברצח?"
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה בינו לבין ראב\"ע – שהובא בשאלה ג – ביישוב קושי זה?"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "3.  על פיי איזה משני הפירושים מתפרשת יותר תחילת הפסוק \"ואך\"?"
+  },
+  {
+   "node": 33,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"...כי בצלם אלוקים...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ו׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:6",
+   "text": {
+    "en": "Whoso sheddeth man’s blood, by man shall his blood be shed; for in the image of God made He man.",
+    "he": "\"שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱ-לֹהִים עָשָׂה אֶת הָאָדָם\""
+   }
+  },
+  {
+   "node": 35,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פרקי אבות משנה י\"ד:</span><br><span style=\"color: rgb(51,51,51);\">הוא (ר' עקיבא) היה אומר: חביב אדם שנברא בצלם; חיבה יתירה נודעת לו שנברא בצלם, שנאמר: \"בצלם אלוקים עשה את האדם\".</span>"
+  },
+  {
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מקשה המהרש\"א:</span><br><span style=\"color: rgb(51,51,51);\">למה לא הביא ראיה מהפסוקים הקודמים בתורה דקאמר (א' כ\"ו) \"נעשה אדם בצלמנו כדמותנו\" וכתיב (א' כ\"ז) \"ויברא אלוקים את האדם בצלמו בצלם אלוקים ברא אותו\", ונקט הפסוק הזה (ט' ו'), שהוא האחרון שבתורה? </span>"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "נסה ליישב קושייתו!"
+  },
+  {
+   "node": 38,
+   "outsideText": "<table><tbody><tr><td><big>ו. \"שופך דם האדם באדם...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ו׳",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:6",
+   "text": {
+    "en": "Whoso sheddeth man’s blood, by man shall his blood be shed; for in the image of God made He man.",
+    "he": "\"שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ כִּי בְּצֶלֶם אֱ-לֹהִים עָשָׂה אֶת הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:א׳:ב׳",
+   "node": 40,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 9:1:2",
+   "text": {
+    "en": "ויאמר להם, to the sons of Noach, indirectly, who communicated the blessing to his sons. [seeing that Noach did not have any children after the deluge, the blessing had not included him. Ed.] Alternately, we must assume that Noach’s sons had prophetic status so that G’d communicated with them directly.\n",
+    "he": "ד\"ה באדם: על ידי הדינים. "
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:ו׳:ב׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 9:6:2",
+   "text": {
+    "en": "כי בצלם אלוקים עשה את האדם, for he has been set apart from all other creatures in the universe, so much so that G’d personally made עשה, him in His image by endowing him with an intelligent brain. This is why humans are also held responsible for killing fellow humans, as they, no less than the animals, destroy a creature that had been made in G’d’s own image. If man had been forbidden to kill inferior creatures for food until given special permission to do so now after the deluge, how much more sacrosanct is the life of a human being who was created in G’d’s image. Remember that it required a special permission by G’d for man and beast to use even the plants as food for themselves, although the plants are inferior even to the animals. Keeping all this in mind, it is clear that in order for any creature being allowed to destroy a human being a special directive from G’d ordering this was required. This is why Moses in the chapters dealing with the retribution for the Jewish people, both in Bechukotai, and in Ki Tavo¸describes that G’d will issue such instructions to the beasts, just as He had done during the plagues (#4) in Egypt when the wild beasts invaded human habitations and wreaked havoc. When man, due to his own deeds, forfeits his claim to wearing the image of G’d on his face, the beasts no longer seeing such an image, feel free to attack such humans. An unborn fetus does not possess this divine image, i.e. it has no discernible intelligence. Intelligence is that which makes a slave obey his master, seeing that he would suffer if he did not; therefore when a human being disobeys his master (G’d), he displays lack of intelligence, i.e. can no longer demand to be treated like human being. [I have paraphrased the last few lines. Ed.]\n",
+    "he": "ד\"ה כי בצלם אלוקים: כי הוא נכבד מכל הנבראים השפלים, עד שהאל בראו בצלמו, בשכל שנתן בו, לפיכך יש לשאר הנבראים שייראו ממנו, וגם איש את אחיו שלא ישחית גופו וצלמו, כי אם יהרגהו -הנה השחית מעשה האל הנכבד שבכל השפלים, <b>והוא</b> עשה אותו בצלמו <b>והוא</b> השחיתו. \nואף בפחותים מן האדם לא היה רשות לאדם להשחיתם, עד שציוה האל לנח, וגם בצומח שהוא פחות מן החי היה צריך מצות האל להתירם לאדם ולחוה, כמו שאמר (פרק א') \"הנה נתתי לכם את כל עשב\". <b>וכן</b> ציוה האל לשפוך דם האדם לחטאו, כמו שציוה בתורת משה, וזה בראויים לעונש מיתה לפי חטאם, כי חוטא כראוי לו, לפי שהוא השחית צלמו תחילה בעברו מצות האל."
+   }
+  },
+  {
+   "heRef": "חזקוני, בראשית ט׳:ו׳:ג׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Chizkuni, Genesis 9:6:3",
+   "text": {
+    "en": "עשה את האדם, He appointed man on earth to be judge so that fellow man would be deterred from committing sins and crimes.",
+    "he": "ד\"ה עשה את האדם: שיהא דין ושופט לירא ממנו, ולא שיבזוהו ויקללוהו."
+   }
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ט׳:ה׳:א׳",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 9:5:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה כי בצלם: ...והוא כלי יקר, לא ינקה כל הפוגע בו."
+   }
+  },
+  {
+   "node": 44,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  כיצד יפרש הרד\"ק את הב' של \"באדם\"?"
+  },
+  {
+   "node": 45,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. למי מוסבות שתי מלות \"הוא\" המסומנות בקו?"
+  },
+  {
+   "node": 46,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מהי מובנה של מילת \"וכן\" המסומנת בקו, בין אלו שני עניינים (ציוויים) מקשר \"וכן\" זה?"
+  },
+  {
+   "node": 47,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. למי הכוונה כאן <b>באדם</b> אשר נברא בצלם, לנרצח, לרוצח, או לשופט – לפי דעות שלושת המפרשים הנ\"ל?"
+  }
+ ],
+ "ssn": 452,
+ "status": "public",
+ "summary": "1957 (תשי\"ז)<br><a href=\"http://www.nechama.org.il/pdf/452.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשי\"ז - ברכת ה' לנח לאחר המבול",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

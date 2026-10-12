@@ -1,0 +1,511 @@
+{
+ "dateCreated": "2019-03-06T05:27:24.143079",
+ "dateModified": "2019-03-07T02:13:23.815770",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 9:6:1",
+  "Genesis 9:14",
+  "Genesis 9:5",
+  "Genesis 9:7",
+  "Rashi on Genesis 9:11:1",
+  "Genesis 9:6",
+  "Chizkuni, Genesis 9:6:2",
+  "Chizkuni, Genesis 9:6:3",
+  "Rashi on Genesis 9:9:1",
+  "Rashi on Genesis 9:14:1",
+  "Rashi on Genesis 9:7:1",
+  "Genesis 9:12",
+  "Rashi on Genesis 9:4:1",
+  "Rashi on Genesis 9:6:2"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161440,
+ "includedRefs": [
+  "Rashi on Genesis 9:4:1",
+  "Genesis 9:5",
+  "Genesis 9:6",
+  "Rashi on Genesis 9:6:1-2",
+  "Rashi on Genesis 9:6:2",
+  "Genesis 9:7",
+  "Genesis 9:12",
+  "Genesis 9:14",
+  "Rashi on Genesis 9:6:1",
+  "Rashi on Genesis 9:7:1",
+  "Rashi on Genesis 9:9:1",
+  "Rashi on Genesis 9:11:1",
+  "Rashi on Genesis 9:14:1",
+  "Rashi on Genesis 9:6:1-2",
+  "Chizkuni, Genesis 9:6:2",
+  "Chizkuni, Genesis 9:6:3"
+ ],
+ "nextNode": 46,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "הערה: לפסוקים הראשונים של פרקנו השווה גיליון נח תש\"ט ולפסוק ה' עיין גיליון נח תש\"ח, שהיה מוקדש כולו רק לפסוק זה. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. מבנה הפרק</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "השווה את הפסוקים א, ז, ט, י\"א ,י\"ג, י\"ז, כיצד מתחלק פרקנו ומה האופייני במבנה כל פסקה ופסקה?"
+  },
+  {
+   "node": 4,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות לשון וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 5,
+   "outsideText": "השווה"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:א׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:1",
+   "text": {
+    "en": "בשר בנפשו FLESH WITH THE SOUL THEREOF [SHALL YE NOT EAT] — He here prohibited to them אבר מן החי the eating of a limb cut from a living animal, that is to say that בשר בנפשו (literally, flesh together with its life) means so long as its life is in it you shall not eat the flesh.",
+    "he": "\"<b>אַךְ</b> בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"<b>וְאַךְ</b> אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ\""
+   }
+  },
+  {
+   "node": 8,
+   "outsideText": "מה בין מובנו של \"אך\" (<a class=\"refLink\" href=\"/Genesis 9:4\" data-ref=\"Genesis 9:4\" target=\"_blank\">פסוק ד'</a>) לבין \"ואך\" (פסוק ה')?"
+  },
+  {
+   "heRef": "בראשית ט׳:ו׳",
+   "node": 9,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 9:6",
+   "text": {
+    "en": "Whoso sheddeth man’s blood, by man shall his blood be shed; for in the image of God made He man.",
+    "he": "\"שֹׁפֵךְ דַּם הָאָדָם - בָּאָדָם דָּמוֹ יִשָּׁפֵךְ\""
+   }
+  },
+  {
+   "node": 10,
+   "outsideText": "בנו יעקב, בספרו Genesis כותב: \"האנטיתזה החריפה שבפסוקנו דומה לקול רעם בגלגל של אלוקי המשפט\"."
+  },
+  {
+   "node": 11,
+   "outsideText": "נתח את פסוקנו מבחינה סגנונית והסבר ע\"י מה נוצר רושם זה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ו׳:א׳",
+   "node": 12,
+   "options": {
+    "PrependRefWithHe": "3. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 9:6:1-2",
+   "text": {
+    "en": "באדם דמו ישפך BY MAN SHALL HIS BLOOD BE SHED — If there are witnesses you kill him. Why? Because in the image of God [made He man] and he has destroyed the Divine image (Genesis Rabbah 34:14) עשה את האדם HE MADE MAN — This verse is abbreviated and should be “the Maker made man”; there are many similar expressions in the Scriptures. ",
+    "he": "\"כִּי בְּצֶלֶם אֱ-לֹהִים עָשָׂה אֶת הָאָדָם\""
+   }
+  },
+  {
+   "node": 13,
+   "outsideText": "התוכל להסביר למה חסר במשפט זה הנושא?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ו׳:ב׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:6:2",
+   "text": {
+    "en": "עשה את האדם HE MADE MAN — This verse is abbreviated and should be “the Maker made man”; there are many similar expressions in the Scriptures. ",
+    "he": "ד\"ה עשה את האדם: זה מקרא חסר וצריך להיות עשה העושה את האדם וכן הרבה במקרא."
+   }
+  },
+  {
+   "node": 15,
+   "outsideText": "(והשווה את שני התרגומים:"
+  },
+  {
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">Hirsch:</span><br><span style=\"color: rgb(51,51,51);\">denn in einer Gottesgestalt <b>hat Er</b> den Mensbhen gabildet</span>"
+  },
+  {
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">Buber - Rosebzwig:</span><br><span style=\"color: rgb(51,51,51);\">denn im Bilde Gottes<b> </b><b>ist</b> der Mensch <b>gemacht</b>)</span>"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. שים לב: בפסוקים ה'-ו' חוזרת המילה \"אדם\" חמש פעמים.<br>מה כוונת התורה ברבוי זה?"
+  },
+  {
+   "heRef": "בראשית ט׳:ז׳",
+   "node": 19,
+   "options": {
+    "PrependRefWithHe": "5. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "**"
+   },
+   "ref": "Genesis 9:7",
+   "text": {
+    "en": "And you, be ye fruitful, and multiply; swarm in the earth, and multiply therein.’ .",
+    "he": "\"וְאַתֶּם פְּרוּ <b>וּרְבוּ</b> שִׁרְצוּ בָאָרֶץ <b>וּרְבוּ</b> בָהּ\"   "
+   }
+  },
+  {
+   "node": 20,
+   "outsideText": "מה בין הוראת \"ורבו\" הראשון לבין הוראת \"ורבו\" השני שבפסוק?"
+  },
+  {
+   "heRef": "בראשית ט׳:י״ב",
+   "node": 21,
+   "options": {
+    "PrependRefWithHe": "6. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "**"
+   },
+   "ref": "Genesis 9:12",
+   "text": {
+    "en": "And God said: ‘This is the token of the covenant which I make between Me and you and every living creature that is with you, for perpetual generations:",
+    "he": "\"וְאֵת כָּל נֶפֶשׁ הַחַיָּה אֲשֶׁר... <b>וּבְכָל חַיַּת הָאָרֶץ</b> אִתְּכֶם... <b>לְכֹל חַיַּת הָאָרֶץ</b>\""
+   }
+  },
+  {
+   "node": 22,
+   "outsideText": "מה בין הוראת הביטוי \"חית הארץ\" הראשון שבפסוקנו לבין הוראתו בפעם השניה?"
+  },
+  {
+   "heRef": "בראשית ט׳:י״ד",
+   "node": 23,
+   "options": {
+    "PrependRefWithHe": "7. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": "**"
+   },
+   "ref": "Genesis 9:14",
+   "text": {
+    "en": "And it shall come to pass, when I bring clouds over the earth, and the bow is seen in the cloud,",
+    "he": "\"וְהָיָה בְּעַנְנִי עָנָן...\""
+   }
+  },
+  {
+   "node": 24,
+   "outsideText": "הסבר, היכן נגמר התנאי ומתחילה \"תשובת התנאי\" בפסוקנו (כלומר עד היכן המשפט הנטפל ומאיזו מילה מתחיל המשפט הראשי)?"
+  },
+  {
+   "node": 25,
+   "outsideText": "שתי תשובות אפשריות כאן. בחר ביניהן ונמק את דעתך!"
+  },
+  {
+   "node": 26,
+   "outsideText": "<table><tbody><tr><td><big>ג. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ו׳:א׳",
+   "node": 27,
+   "options": {
+    "PrependRefWithEn": "1) ",
+    "PrependRefWithHe": "1) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:6:1",
+   "text": {
+    "en": "באדם דמו ישפך BY MAN SHALL HIS BLOOD BE SHED — If there are witnesses you kill him. Why? Because in the image of God [made He man] and he has destroyed the Divine image (Genesis Rabbah 34:14)",
+    "he": "ד\"ה באדם דמו ישפך: אם יש עדים המיתוהו אתם למה כי בצלם אלהים וגו'."
+   }
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  כיצד מפרש רש\"י \"ב\" של \"באדם\"?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב.   היכן מצינו בתנ\"ך \"ב\" בשימוש כזה?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ז׳:א׳",
+   "node": 30,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:7:1",
+   "text": {
+    "en": "ואתם פרו ורבו AND YE, BE FRUITFUL AND MULTIPLY — According to the real sense, the first time this mas said to man (Genesis 9:1) it was said as a blessing (an assurance that they would be fruitful); here it is a command (Ketubot 5a). According to the Midrashic explanation this command is mentioned here after the mention of murder in order to liken one who abstains from having children to one who sheds blood (Yevamot 63b). ",
+    "he": "ד\"ה ואתם פרו ורבו: (כתובות ה) לפי פשוטו הראשונה לברכה וכאן לצווי ולפי מדרשו להקיש מי שאינו עוסק בפריה ורביה לשופך דמים (יבמות סה)."
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  מהיכן למד שהראשון לברכה והשני לציווי ולא להיפך?"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  כיצד מפרש רש\"י לפי מדרשו את ה-וי\"ו של \"ואתם פרו ורבו\"?"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ט׳:א׳",
+   "node": 33,
+   "options": {
+    "PrependRefWithEn": "3) ",
+    "PrependRefWithHe": "3) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:9:1",
+   "text": {
+    "en": "ואני הנני AND I BEHOLD I — “I am in agreement with you”; He said this because Noah feared to fulfil the duty of propagating the species until the Holy One, blessed be He, promised him that he would not again destroy the world and this promise God made (Midrash Tanchuma, Noach 11). Ultimately He said to him, “If you are still anxious I am willing to give to My promise the permanence and strength of a covenant and I will give you a sign.”",
+    "he": "ד\"ה ואני הנני מקים: מסכים אני עמך שהיה נח דואג לעסוק בפריה ורביה עד שהבטיחו הקדוש ברוך הוא שלא לשחת העולם עוד וכן עשה ובאחרונה אמר לו הנני מסכים לעשות קיום וחוזק ברית להבטחתי ואתן לך אות."
+   }
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "א.   מה קשה לו?"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב.  מצא את הרמז בפסוקי הפרקים הקודמים של פרשתנו לדברי חז\"ל אלה, שהיה נח חושש לעסוק בפריה ורביה וכו'."
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:י״א:א׳",
+   "node": 36,
+   "options": {
+    "PrependRefWithEn": "4) ",
+    "PrependRefWithHe": "4) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:11:1",
+   "text": {
+    "en": "והקמתי AND I WILL ESTABLISH — I will give confirmation to my covenant; and in what consists this confirmation? “The sign of the rainbow”, as it goes on explaining at the end. ",
+    "he": "ד\"ה והקימותי: אעשה קיום לבריתי ומהו קיומו את הקשת כמו שמסיים והולך."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:י״ד:א׳",
+   "node": 37,
+   "options": {
+    "PrependRefWithEn": "5) ",
+    "PrependRefWithHe": "5) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:14:1",
+   "text": {
+    "en": "בענני ענן WHEN I BRING A CLOUD — When I have it in mind to bring darkness and destruction upon the world. ",
+    "he": "ד\"ה והיה בענני: כשתעלה במחשבה לפני להביא חשך ואבדון לעולם."
+   }
+  },
+  {
+   "node": 38,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.  מה ראה רש\"י להוציא מילים אלה ממשמעותן?"
+  },
+  {
+   "node": 39,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב.   מצא עוד מקום בפרקים הראשונים של פרשתנו שבו מוציא רש\"י מילים של תיאור טבע ממשמעותן ומפרשן במובן סמלי. הסבר מה אלצו שם לעשות כך?"
+  },
+  {
+   "node": 40,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"כי בצלם אלוקים עשה את האדם\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ו׳:א׳-ב׳",
+   "node": 41,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:6:1-2",
+   "text": {
+    "en": "באדם דמו ישפך BY MAN SHALL HIS BLOOD BE SHED — If there are witnesses you kill him. Why? Because in the image of God [made He man] and he has destroyed the Divine image (Genesis Rabbah 34:14) עשה את האדם HE MADE MAN — This verse is abbreviated and should be “the Maker made man”; there are many similar expressions in the Scriptures. ",
+    "he": "\"כִּי בְּצֶלֶם אֱ-לֹהִים עָשָׂה אֶת הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "חזקוני, בראשית ט׳:ו׳:ב׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Chizkuni, Genesis 9:6:2",
+   "text": {
+    "en": "כי בצלם אלוקים, the meaning of the word: elohim here is the same as the meaning of that word in Exodus 22,27, where it means that one must not curse a judge.",
+    "he": "כי בצלם אלוקים: דוגמת (<a class=\"refLink\" href=\"/Exodus 22:27\" data-ref=\"Exodus 22:27\" target=\"_blank\">שמות כ\"ב כ\"ז</a>) אלוקים לא תקלל. "
+   }
+  },
+  {
+   "heRef": "חזקוני, בראשית ט׳:ו׳:ג׳",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Chizkuni, Genesis 9:6:3",
+   "text": {
+    "en": "עשה את האדם, He appointed man on earth to be judge so that fellow man would be deterred from committing sins and crimes.",
+    "he": "עשה את האדם: שיהא דין ושופט לירא ממנו ולא שיבזוהו ויהרגוהו. "
+   }
+  },
+  {
+   "node": 44,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה הוסיף חזקוני בפירושו זה על הפירוש הרגיל של הפסוק?"
+  }
+ ],
+ "ssn": 789,
+ "status": "public",
+ "summary": "1950 (תש\"י)<br><a href=\"http://www.nechama.org.il/pdf/789.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"י - \"ויברך אלקים את נח...\"",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

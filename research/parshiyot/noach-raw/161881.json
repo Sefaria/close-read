@@ -1,0 +1,616 @@
+{
+ "dateCreated": "2019-03-06T05:33:02.906304",
+ "dateModified": "2019-03-07T02:20:45.497323",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Rashi on Genesis 6:12:1",
+  "Genesis 8:21",
+  "Rashi on Genesis 6:9:1",
+  "Rashi on Genesis 6:18:1",
+  "Rashi on Genesis 8:1:3",
+  "Genesis 9:1",
+  "Ramban on Genesis 6:12:1",
+  "Ibn Ezra on Genesis 6:9:1",
+  "Sforno on Genesis 6:9:1",
+  "Rashi on Genesis 6:13:2",
+  "Rashi on Genesis 9:7:1",
+  "Rashi on Genesis 8:1:4",
+  "Genesis 9:7",
+  "Ezekiel 17:9",
+  "Genesis 6:12",
+  "Sforno on Genesis 6:9:2",
+  "Genesis 6:18",
+  "Ibn Ezra on Genesis 6:18:1",
+  "Rashi on Genesis 8:11:1",
+  "Ibn Ezra on Genesis 8:21:1",
+  "Shadal on Genesis 8:21:4",
+  "Deuteronomy 1:22",
+  "Genesis 1:28",
+  "Genesis 8:1",
+  "Rashi on Genesis 8:1:1",
+  "Rashi on Genesis 6:9:4"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161881,
+ "includedRefs": [
+  "Rashi on Genesis 6:9:1",
+  "Ibn Ezra on Genesis 6:9:1",
+  "Ibn Ezra on Genesis 6:9:1",
+  "Sforno on Genesis 6:9:1",
+  "Sforno on Genesis 6:9:2",
+  "Rashi on Genesis 6:13:2",
+  "Rashi on Genesis 6:18:1",
+  "Rashi on Genesis 8:1:1",
+  "Ibn Ezra on Genesis 8:21:1",
+  "Genesis 6:12",
+  "Rashi on Genesis 6:12:1",
+  "Ramban on Genesis 6:12:1",
+  "Genesis 6:18",
+  "Ibn Ezra on Genesis 6:18:1",
+  "Deuteronomy 1:22",
+  "Genesis 8:1",
+  "Rashi on Genesis 8:1:3",
+  "Rashi on Genesis 8:1:4",
+  "Genesis 8:21",
+  "Shadal on Genesis 8:21:4",
+  "Genesis 9:7",
+  "Rashi on Genesis 9:7:1",
+  "Genesis 1:28",
+  "Genesis 9:1",
+  "Rashi on Genesis 6:9:4",
+  "Rashi on Genesis 8:11:1",
+  "Ezekiel 17:9"
+ ],
+ "nextNode": 44,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "עצה טובה: אם נמצא בנקודתך מדרש רבה, קרא פרשה ל\"ג על הפסוק \"וישלח את היונה\"."
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. שאלות כלליות</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "מה קשה לרש\"י בפסוקים הבאים:"
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ט׳:א׳",
+   "node": 4,
+   "options": {
+    "PrependRefWithHe": "א. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 6:9:1",
+   "text": {
+    "en": "אלה תולדת נח נח איש צדיק THESE ARE THE PROGENY OF NOAH: NOAH WAS A RIGHTEOUS MAN — Since the text mentions him it sings his praise, in accordance with what is said, (Proverbs 10:7) “The mention of the righteous shall be for a blessing.” Another explanation is: since after stating “These are the progeny of Noah”, it does not at once mention the names of his children but declares that he “was a righteous man”, Scripture thereby teaches you that the real progeny of righteous people are their good deeds (Genesis Rabbah 30:6).",
+    "he": "ד\"ה אלה תולדות נח נח איש צדיק: הואיל והזכירו סיפר בשבחו שנאמר (<a class=\"refLink\" href=\"/Proverbs 10\" data-ref=\"Proverbs 10\" target=\"_blank\">משלי י</a>) \"זכר צדיק לברכה\"\n דבר אחר: לימדך שעיקר תולדותיהם של צדיקים מעשים טובים. "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ו׳:ט׳:א׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 6:9:1",
+   "text": {
+    "en": "<b>Righteous.</b> In his deeds.",
+    "he": "ואיך מתרצים את הקושיראב\"ע:<br>ד\"ה אלה תולדות: כמו הקורות, כטעם \"מה ילד יום\", וכמוהו \"אלה תולדות יעקב\". "
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ו׳:ט׳:א׳",
+   "node": 6,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 6:9:1",
+   "text": {
+    "en": "<b>Righteous.</b> In his deeds.",
+    "he": "ד\"ה איש צדיק: במעשיו. "
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ו׳:ט׳:א׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 6:9:1",
+   "text": {
+    "en": "תולדות נח, a reference to his history, commencing with his own life and continuing with that of his offspring.",
+    "he": "ד\"ה אלה תולדות נח: ענייניו וילדי ימיו. "
+   }
+  },
+  {
+   "heRef": "ספורנו על בראשית ו׳:ט׳:ב׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Sforno on Genesis 6:9:2",
+   "text": {
+    "en": "צדיק, in his deeds,",
+    "he": "ד\"ה צדיק: במעשיו."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:י״ג:ב׳",
+   "node": 9,
+   "options": {
+    "PrependRefWithHe": "ב. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 6:13:2",
+   "text": {
+    "en": "כי מלאה הארץ חמס FOR THE EARTH IS FILLED WITH VIOLENCE — Their fate was sealed only on account of their sin of robbery (Sanhedrin 108a).",
+    "he": "ד\"ה כי מלאה הארץ חמס: לא נחתם גזר דינם אלא על הגזל (סנהדרין קח)."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:י״ח:א׳",
+   "node": 10,
+   "options": {
+    "PrependRefWithHe": "ג. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 6:18:1",
+   "text": {
+    "en": "והקמתי את בריתי BUT I WILL ESTABLISH MY COVENANT — A covenant was necessary for the sake of the fruits that they should not rot or decay; and also that the wicked people of that generation should not kill him (Genesis Rabbah 31:12)",
+    "he": "ד\"ה והקימותי את בריתי: (ב\"ר) ברית היה צריך על הפירות, שלא ירקבו ויעפשו, ושלא יהרגוהו רשעים שבדור."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:א׳:א׳",
+   "node": 11,
+   "options": {
+    "PrependRefWithHe": "ד. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:1:1",
+   "text": {
+    "en": "ויזכור אלהים AND GOD REMEMBERED— This Divine Name really signifies the God of Strict Justice but it is transformed into Divine Mercy through the prayers of the righteous, whilst the evil practised by wicked people transforms Divine Mercy into Strict Justice, as it is said (Genesis 6:5) “And the Lord ('ה) saw that the wickedness of man was great” and (Genesis 5:7) “And the Lord ('ה) said, “I will blot out etc.”— yet in these passages the Name ('ה) is מדת רחמים, that signifying Divine Mercy (Genesis Rabbah 33:3).",
+    "he": "ד\"ה ויזכר אלקים: זה השם מידת הדין הוא, ונהפכה למידת רחמים על ידי תפילת הצדיקים. ורשעתן של רשעים הופכת מידת רחמים למידת הדין, שנאמר (בראשית ו) \"וירא ה' כי רבה רעת האדם\" וגו' \"ויאמר ה' אמחה\", והוא שם מידת רחמים."
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ח׳:כ״א:א׳",
+   "node": 12,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Ibn Ezra on Genesis 8:21:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וירח: ...וחלילה חלילה להיות השם מריח ולא אוכל. כי כן כתוב \"אשר חלב זבחימו יאכלו\". רק הטעם שקיבל העולה וישרה לפניו, כאדם שמריח ריח טוב והא ערב."
+   }
+  },
+  {
+   "node": 13,
+   "outsideText": "<table><tbody><tr><td><big>ב. \"כי השחית כל בשר\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ב",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:12",
+   "text": {
+    "en": "And God saw the earth, and, behold, it was corrupt; for all flesh had corrupted their way upon the earth. .",
+    "he": "\"\"וַיַּרְא אֱ-לֹהִים אֶת הָאָרֶץ וְהִנֵּה נִשְׁחָתָה כִּי הִשְׁחִית כָּל בָּשָׂר אֶת דַּרְכּוֹ עַל הָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:י״ב:א׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:12:1",
+   "text": {
+    "en": "כי השחית כל בשר FOR ALL FLESH HAD CORRUPTED — even cattle, beasts and fowl did not consort with their own species (Genesis Rabbah 28:8). ",
+    "he": "ד\"ה כי השחית כל בשר: אפילו בהמה חיה ועוף נזקקין לשאינן מינן."
+   }
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ו׳:י״ב:א׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 6:12:1",
+   "text": {
+    "en": "FOR ALL FLESH HAD CORRUPTED ITS WAY. If we explain \"all flesh\" in the literal sense and say tat even animals, wild beasts and birds corrupted its ways by mating with animals of other species, like Rashi explains, we will then have to say that \"for the earth filled with injustice [through them] (pas. 13)\" cannot mean \"through \"all\" of them,\" rather it means \"through \"some\" of them\" (humans) [the Torah] would be telling us only [the reason] for the punishment of the humans. Also, we can say that in this [subject matter of sinfulness] too, [the beasts] didn't follow their matures, for all the beasts acted like a predator and all birds acted as birds of prey, so that they also committed \"injustice.\" In the plain meaning \"all flesh\" simply means \"all mankind,\" [being that] further on, scripture it explains: \"all flesh in which there's a breath of life (7:15)\" or \"of all that lives, of all flesh (6:19)\" which means \"any life contained in a body\" (also beasts). But here, \"all flesh\" [without elaboration] means \"all mankind.\" And also \"all flesh will come to prostrate before me.\" (Isaiah 66:23) and \"if a person (lit., \"flesh\")will have [a burn] on his skin (Levit. 13:24).\"(\"flesh\" obviously means \"man\")",
+    "he": "ד\"ה כי השחית כל בשר את דרכו: אם נפרש כל בשר כמשמעו, ונאמר שאפילו בהמה וחיה ועוף השחיתו דרכם להיזקק לשאינן מינן, כמו שפירש רש\"י, נאמר כי מלאה הארץ חמס מפניהם, לא מפני כולם אלא מפני מקצתם, וסיפר עונש האדם לבדו. או שנאמר שלא שמרו גם בזה תולדתם, והיתה כל הבהמה טורפת, וכל העוף דורס. והנה גם הם עושים חמס.\nועל דרך הפשט \"כל בשר\" זה כל האדם, ולמטה יפרש \"כל בשר אשר בו רוח חיים\" (להלן ז טו), \"ומכל החי ומכל בשר\" (להלן פסוק יט), כל חי בגוף, אבל בכאן \"כל בשר\" כל האדם, וכן \"יבוא כל בשר להשתחוות לפני\" (<a class=\"refLink\" href=\"/Isaiah 66:23\" data-ref=\"Isaiah 66:23\" target=\"_blank\">ישעיה סו כג</a>), וכן \"בשר כי יהיה בעורו\" (<a class=\"refLink\" href=\"/Leviticus 13:24\" data-ref=\"Leviticus 13:24\" target=\"_blank\">ויקרא יג כד</a>)."
+   }
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה בין רש\"י לרמב\"ן במשמעות המילים \"כי השחית כל בשר\", ואיזה פירוש מתאים, לפי דעתך, יותר לתוכן הפרשה?"
+  },
+  {
+   "node": 18,
+   "outsideText": "<table><tbody><tr><td><big>ג. \"והקימותי את בריתי\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ו׳:י״ח",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 6:18",
+   "text": {
+    "en": "But I will establish My covenant with thee; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’wives with thee.",
+    "he": "\"וַהֲקִמֹתִי אֶת בְּרִיתִי\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ו׳:י״ח:א׳",
+   "node": 20,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 6:18:1",
+   "text": {
+    "en": "",
+    "he": "לאות שהשם נשבע לו שלא ימות הוא ובניו במבול, ואם לא נמצא בתחילה מפורש, כאשר מצאנו במשנה התורה \"נשלחה אנשים לפנינו\"."
+   }
+  },
+  {
+   "heRef": "דברים א׳:כ״ב",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Deuteronomy 1:22",
+   "text": {
+    "en": "And ye came near unto me every one of you, and said: ‘Let us send men before us, that they may search the land for us, and bring us back word of the way by which we must go up, and the cities unto which we shall come.’",
+    "he": "הראב\"ע מביא לשם ביאור המילים האלה את הפסוק <a class=\"refLink\" href=\"/Deuteronomy 1:22\" data-ref=\"Deuteronomy 1:22\" target=\"_blank\">מדברים פרק א' פסוק כ\"ב</a>:<br>\"וַתִּקְרְבוּן אֵלַי כֻּלְּכֶם וַתֹּאמְרוּ נִשְׁלְחָה אֲנָשִׁים לְפָנֵינוּ וְיַחְפְּרוּ לָנוּ אֶת הָאָרֶץ וְיָשִׁבוּ אֹתָנוּ דָּבָר אֶת הַדֶּרֶךְ אֲשֶׁר נַעֲלֶה בָּהּ וְאֵת הֶעָרִים אֲשֶׁר נָבֹא אֲלֵיהֶן\""
+   }
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה היא כוונת המפרש, ומה הוא בא ללמדנו?"
+  },
+  {
+   "node": 23,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:א׳",
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:1",
+   "text": {
+    "en": "And God remembered Noah, and every living thing, and all the cattle that were with him in the ark; and God made a wind to pass over the earth, and the waters assuaged;",
+    "he": "\"וַיַּעֲבֵר אֱ-לֹהִים רוּחַ... עַל הָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:א׳:ג׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:1:3",
+   "text": {
+    "en": "ויעבר אלהים רוח AND GOD MADE A WIND (or SPIRIT) TO PASS — A spirit of consolation and relief passed before Him.",
+    "he": "ד\"ה ויעבר אלהים רוח: רוח תנחומין והנחה עברה לפניו."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:א׳:ד׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 8:1:4",
+   "text": {
+    "en": "על הארץ OVER THE EARTH — Because of what was happening on earth.",
+    "he": "ד\"ה על הארץ: על עסקי הארץ."
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה מכריח את רש\"י בשני המקומות להוציא את הפסוק מידי פשוטו?"
+  },
+  {
+   "node": 28,
+   "outsideText": "<table><tbody><tr><td><big>ה. \"כי יצר לב...\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ח׳:כ״א",
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:21",
+   "text": {
+    "en": "And the LORD smelled the sweet savour; and the LORD said in His heart: ‘I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done.",
+    "he": "\"כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו\""
+   }
+  },
+  {
+   "heRef": "שד\"ל על בראשית ח׳:כ״א:ד׳",
+   "node": 30,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Shadal on Genesis 8:21:4",
+   "text": {
+    "en": "",
+    "he": "שד\"ל, (שמואל דוד לוצטו) מפרש בלשון זו:<br>\"כבר מזמן נעוריו ואילך לבו חורש ויוצר מחשבות רע. והנה לא אמר כי לב האדם רע בטבעו, אלא כי מחשבותיו רעות מאז ימי נעוריו, בלי שיהיה זה הכרחי וטבעי באדם\"."
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה היא הבעיה ששד\"ל רואה אותה בפסוק זה, ובאיזו דרך הוא פותרה?"
+  },
+  {
+   "node": 32,
+   "outsideText": "<table><tbody><tr><td><big>ו. \"אתם פרו ורבו\" - שאלות ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ז׳",
+   "node": 33,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:7",
+   "text": {
+    "en": "And you, be ye fruitful, and multiply; swarm in the earth, and multiply therein.’ .",
+    "he": "\"וְאַתֶּם פְּרוּ וּרְבוּ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ז׳:א׳",
+   "node": 34,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:7:1",
+   "text": {
+    "en": "ואתם פרו ורבו AND YE, BE FRUITFUL AND MULTIPLY — According to the real sense, the first time this mas said to man (Genesis 9:1) it was said as a blessing (an assurance that they would be fruitful); here it is a command (Ketubot 5a). According to the Midrashic explanation this command is mentioned here after the mention of murder in order to liken one who abstains from having children to one who sheds blood (Yevamot 63b). ",
+    "he": "ואתם פרו ורבו: (כתובות ה) לפי פשוטו, הראשונה לברכה, וכאן לציווי, ולפי מדרשו להקיש מי שאינו עוסק בפריה ורביה לשופך דמים (יבמות סה)."
+   }
+  },
+  {
+   "heRef": " בראשית א׳:כ״ח",
+   "node": 35,
+   "options": {
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 1:28",
+   "text": {
+    "en": "And God blessed them; and God said unto them: ‘Be fruitful, and multiply, and replenish the earth, and subdue it; and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that creepeth upon the earth.’",
+    "he": "<sup class=\"nechama\"></sup>  רש\"י לומד מצוות פריה ורביה מפסוק זה, בניגוד למניין המצוות הלומד אותה המצווה <a class=\"refLink\" href=\"/Genesis 1:28\" data-ref=\"Genesis 1:28\" target=\"_blank\">מבראשית א' פסוק כ\"ח</a>:<br>\"וַיְבָרֶךְ אֹתָם אֱ-לֹהִים וַיֹּאמֶר לָהֶם אֱ-לֹהִים פְּרוּ וּרְבוּ וּמִלְאוּ אֶת הָאָרֶץ...\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:א׳",
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:1",
+   "text": {
+    "en": "And God blessed Noah and his sons, and said unto them: ‘Be fruitful and multiply, and replenish the earth.",
+    "he": "מה הוא נימוקו של רש\"י ללמדה מכאן ולא מפרק א' פסוק כ\"ח וגם לא <a class=\"refLink\" href=\"/Genesis 9:1\" data-ref=\"Genesis 9:1\" target=\"_blank\">מפסוק א' של פרק ט'</a>:<br>\"...וַיֹּאמֶר לָהֶם פְּרוּ וּרְבוּ וּמִלְאוּ אֶת הָאָרֶץ\"?"
+   }
+  },
+  {
+   "node": 37,
+   "outsideText": "<table><tbody><tr><td><big>ז. פינה דקדוקית-בלשנית</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 38,
+   "outsideText": "מונחי רש\"י בדקדוק שונים לפרקים ממונחינו היום."
+  },
+  {
+   "heRef": "רש\"י על בראשית ו׳:ט׳:ד׳",
+   "node": 39,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 6:9:4",
+   "text": {
+    "en": "התהלך HE WALKED — This word is in the past tense. The following is the usage of this verbal form: in the “heavy” (כבד) conjugation one grammatical form is used both as future (i. e. the imperative, since the imperative calls for on action to be done in the future relative to the time when the command is given) and as past tense e. g., (13:17) קום התהלך “arise walk” is future (i. e. imperative); התהלך נח “Noah walked” (in this passage) is past; (1 Samuel 12:19) התפלל בעד עבדיך “Pray for thy servants” is future (i. e. imperative) and (1 Kings 8:42) ובא והתפלל אל הבית הזה “When he shall come and shall pray toward this house” is past, only that the ו at the beginning of the word changes the tense into the future (it is Vav conversive).",
+    "he": "מה המובן של \"להבא\" ברש\"י, ל<a class=\"refLink\" href=\"/Genesis 6:9\" data-ref=\"Genesis 6:9\" target=\"_blank\">פרק ו' פסוק ט'</a>:<br>ד\"ה התהלך: לשון עבר, וזהו שימושו של ל' בלשון כבד משמשת <b>להבא</b> ולשעבר בלשון אחד - \"קום התהלך\" (שם יג) <b>להבא,</b> \"התהלך נח\" - לשעבר, \"התפלל בעד עבדיך\" (ש\"א יב) - להבא, \"ובא והתפלל אל הבית הזה\" (מלכים א ח) - לשון עבר, אלא שהוי\"ו שבראשו הופכו להבא."
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ח׳:י״א:א׳",
+   "node": 40,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 8:11:1",
+   "text": {
+    "en": "טרף בפיה PLUCKED IN HER MOUTH — I am of opinion that it (the dove) was a male and that therefore it (the text) speaks of it sometimes as masculine and sometimes as feminine, because really wherever יונה “dove” occurs in the Scriptures it is spoken of as feminine, as (Song 5:12) “[His eyes] are like those of doves beside the water brooks. that are washing themselves (רוחצות fem.) in milk”; (Ezekiel 7:16) “Like the doves of the valleys, all of them moaning\" and as (Hosea 7:11) “Like a silly (פותה fem.) dove”",
+    "he": "ד\"ה טרף בפיה: אומר אני שזכר היה, לכן קוראו פעמים לשון זכר ופעמים לשון נקבה, לפי שכל יונה שבמקרא לשון נקבה כמו (<a class=\"refLink\" href=\"/Song of Songs 5\" data-ref=\"Song of Songs 5\" target=\"_blank\">שה\"ש ה</a>) \"כיונים על אפיקי מים רוחצות\", (<a class=\"refLink\" href=\"/Ezekiel 7\" data-ref=\"Ezekiel 7\" target=\"_blank\">יחזקאל ז</a>) \"כיוני הגאיות כולם הומות\", (<a class=\"refLink\" href=\"/Hosea 7\" data-ref=\"Hosea 7\" target=\"_blank\">הושע ז</a>) \"כיונה פותה\"."
+   }
+  },
+  {
+   "node": 41,
+   "outsideText": "מדוע יש לדעת רש\"י לפרש כאן \"היונה\" בלשון זכר? באיזה דרך אפשר לפרש את המילה עוד?"
+  },
+  {
+   "heRef": "יחזקאל י״ז:ט׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ezekiel 17:9",
+   "text": {
+    "en": "Say thou: Thus saith the Lord GOD: Shall it prosper? Shall he not pull up the roots thereof, And cut off the fruit thereof, that it wither, Yea, wither in all its sprouting leaves? Neither shall great power or much people be at hand When it is plucked up by the roots thereof.",
+    "he": "\"אֱמֹר כֹּה אָמַר אֲדֹנָי ה' תִּצְלָח הֲלוֹא אֶת שָׁרָשֶׁיהָ יְנַתֵּק וְאֶת פִּרְיָהּ יְקוֹסֵס וְיָבֵשׁ כָּל טַרְפֵּי צִמְחָהּ תִּיבָשׁ וְלֹא בִזְרֹעַ גְּדוֹלָה וּבְעַם רָב לְמַשְׂאוֹת אוֹתָהּ מִשָּׁרָשֶׁיהָ\")."
+   }
+  }
+ ],
+ "ssn": 1230,
+ "status": "public",
+ "summary": "1942 (תש\"ב)<br><a href=\"http://www.nechama.org.il/pdf/1230.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תש\"ב - נח",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

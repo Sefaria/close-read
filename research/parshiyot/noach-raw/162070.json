@@ -1,0 +1,426 @@
+{
+ "dateCreated": "2019-03-06T05:36:08.716112",
+ "dateModified": "2019-03-07T02:23:54.723248",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Ibn Ezra on Genesis 9:5:1",
+  "Ramban on Genesis 9:5:1",
+  "Genesis 9:5",
+  "Rashi on Genesis 9:5:3",
+  "Radak on Genesis 9:5:3",
+  "Chizkuni, Genesis 9:5:2",
+  "Rashi on Genesis 9:4:1",
+  "Rashi on Genesis 9:5:1"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 162070,
+ "includedRefs": [
+  "Rashi on Genesis 9:4:1",
+  "Genesis 9:5",
+  "Genesis 9:5",
+  "Rashi on Genesis 9:5:1",
+  "Genesis 9:5",
+  "Ibn Ezra on Genesis 9:5:1",
+  "Chizkuni, Genesis 9:5:2",
+  "Genesis 9:5",
+  "Rashi on Genesis 9:5:3",
+  "Ramban on Genesis 9:5:1",
+  "Radak on Genesis 9:5:3"
+ ],
+ "nextNode": 38,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "\n\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ...\" "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. \"אך\"</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 3,
+   "outsideText": "השווה:"
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ד׳:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:4:1",
+   "text": {
+    "en": "בשר בנפשו FLESH WITH THE SOUL THEREOF [SHALL YE NOT EAT] — He here prohibited to them אבר מן החי the eating of a limb cut from a living animal, that is to say that בשר בנפשו (literally, flesh together with its life) means so long as its life is in it you shall not eat the flesh.",
+    "he": "\"אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ\""
+   }
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ...\""
+   }
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה ההבדל בין \"אך\" ב<a class=\"refLink\" href=\"/Genesis 9:4\" data-ref=\"Genesis 9:4\" target=\"_blank\">פסוק ד'</a> לבין \"אך\" ב<a class=\"refLink\" href=\"/Genesis 9:5\" data-ref=\"Genesis 9:5\" data-ref=\"Genesis 9:5\" data-ref=\"Genesis 9:5\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 9:5\" data-ref=\"Genesis 9:5\" data-ref=\"Genesis 9:5\" data-ref=\"Genesis 9:5\" target=\"_blank\"></a><a class=\"refLink\" href=\"/Genesis 9:5\" data-ref=\"Genesis 9:5\" data-ref=\"Genesis 9:5\" data-ref=\"Genesis 9:5\" target=\"_blank\">פסוק ה'</a>?"
+  },
+  {
+   "node": 7,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות כלליות</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ\""
+   }
+  },
+  {
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "בראשית רבה ל\"ד (י\"ג), (על פי הגהת יפה תואר וכן הגהת מנחת יהודה תיאודור-אלבק):<br>\"ואך את דמכם לנפשותיכם\" – להביא את החונק עצמו. יכול כשאול? (<b>מתנות כהונה:</b> שהפיל עצמו בחרב בעבור שלא יתעללו בו הפלשתים). תלמוד לומר: \"אך\". יכול כחנניה, מישאל ועזריה? (<b>פירוש מהרז\"ו</b>: שמסרו עצמם לכבשן האש, ונבוכדנאצר באמת יותר היה חפץ שישתחוו לצורה ולא יושלכו לכבשן, ואם כן הם בעצמם סבבו להם המיתה). תלמוד לומר: \"אך\"."
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:א׳",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:1",
+   "text": {
+    "en": "ואך את דמכם HOWEVER YOUR BLOOD — Although I have permitted you to take the life of cattle yet your blood I will surely require from him amongst you who sheds his own blood (see Bava Kamma 91b).",
+    "he": "ד\"ה ואך את דמכם: אף על פי שהתרתי לכם נטילת נשמה בבהמה, את דמכם אדרוש מהשופך דם עצמו."
+   }
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1.  מה ההבדל בין המדרש ובין רש\"י בתפישת המילה \"אך\"?"
+  },
+  {
+   "node": 12,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מה הסיבה שאין הריגת שאול את עצמו כלולה באיסור זה של איבוד עצמו לדעת?"
+  },
+  {
+   "node": 13,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  במה שונה מקרה חנניה, מישאל ועזריה, שמסרו עצמן למיתה, ממקרהו של שאול המלך, שהפיל עצמו בחרב?"
+  },
+  {
+   "node": 14,
+   "outsideText": "<table><tbody><tr><td><big>ג. שאלה כללית</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "וְאַךְ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ\""
+   }
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ט׳:ה׳:א׳",
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 9:5:1",
+   "text": {
+    "en": "",
+    "he": ".... והמפרש \"דמכם לנפשותיכם\" זה ההורג נפשו, הוא רחוק בעיני!"
+   }
+  },
+  {
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "ראב\"ע, בשיטה אחרת (ע\"פ כתב יד, מודפס בספרו של פרידלנדר כרך רביעי):<br>הטעם, הנה התרתי לכם שתשפכו דמי חיות והבהמות והעוף, ולא אדרוש הדם להעניש השופך. אך את דמכם, שאתם <b>אדם</b>, אדרוש. ויש מי שלמד מזה הכתוב כי אסר לאדם להרוג נפשו. גם למדו אחרים שהוא רמז לעונש בעולם הבא. והפשט – כאשר אמרתי!<b></b>"
+  },
+  {
+   "heRef": "חזקוני, בראשית ט׳:ה׳:ב׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Chizkuni, Genesis 9:5:2",
+   "text": {
+    "en": "לנפשותיכם, according to Rashi, this refers to people who strangulate themselves. The passage is intended as an answer to people who deny that G-d operates vis a vis man through a system of reward and punishment, i.e. reward after the body has died and punishment after the body has died, and who therefore see in suicide a way of avoiding being held responsible for their actions on earth. Clearly a system of reward and punishment, unless it included posthumous reward and punishment, would be meaningless, and would not act as deterrent not to sin. In B’reshit Rabbah, 34,13 the word אך in our verse is understood as including the mortally wounded King Shaul who completed dying by falling intentionally on his own sword to escape being killed by the Philistines whom he did not want to be able to claim that they had killed G-d’s anointed king. Others believe that it applies to Chananyah, Mishael and Azaryah, who had consulted with the prophet Ezekiel before submitting to being thrown to the lions by Nevuchadnezar. Some authorities do not agree that they were permitted to do so.",
+    "he": "חזקוני, (=חזקיה בן מנוח, במאה הי\"ג למניינם):<br>ד\"ה לנפשותיכם: כתב רש\"י אף החונק עצמו.... תשובה לאומרים אין גיהינום ואין גן עדן. "
+   }
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר מה עניין עולם הבא וגיהינום וגן עדן לפסוקנו."
+  },
+  {
+   "node": 20,
+   "outsideText": "<table><tbody><tr><td><big>ד. \"מיד כל חיה אדרשנו\"</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ט׳:ה׳",
+   "node": 21,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 9:5",
+   "text": {
+    "en": "And surely your blood of your lives will I require; at the hand of every beast will I require it; and at the hand of man, even at the hand of every man’s brother, will I require the life of man.",
+    "he": "\"מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית ט׳:ה׳:ג׳",
+   "node": 22,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 9:5:3",
+   "text": {
+    "en": "מיד כל חיה AT THE HAND OF EVERY BEAST — Because the generation of the Flood sinned and they were therefore freely exposed to become food for wild beasts which would have power over them — as it is said (Psalms 49:21), “He is ruled over by wild beasts like the beasts that perish” (these being the prey of other animals) (Shabbat 151b) — it was therefore necessary to proclaim a punishment against wild animals on their account.",
+    "he": "ד\"ה מיד כל חיה: לפי שחטאו דור המבול והופקרו למאכל חיות רעות, הוצרך להזהיר עליהם את החיות."
+   }
+  },
+  {
+   "node": 23,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רמב\"ם, הלכות רוצח ב' הלכות ג-ד:</span><br><span style=\"color: rgb(51,51,51);\">... אבל השוכר הורג להרוג את חברו... או שכפתו והניחו לפני הארי וכיוצא בו, והרגתהו חיה, וכן ההורג את עצמו, כל אחד מאלו שופך דמים הוא, ועוון הריגה בידו, וחייב מיתה לשמים, ואין בהם מיתת בית דין. ומניין שכך הוא הדין? שנאמר \"שופך דם האדם באדם דמו ישפך\" – זה ההורג בעצמו ולא על ידי שליח, \"את דמכם לנפשותיכם אדרש\" - זה ההורג עצמו.\n\"מיד כל חיה אדרשנו\" – זה המוסר חברו לפני חיה לטורפו.\n\"מיד האדם מיד איש אחיו אדרוש את נפש האדם\" – זה השוכר אחרים להרוג את חבירו. ובפירוש נאמר בשלושתם לשון \"דרישה\", והרי דינם מסור לשמים. </span>"
+  },
+  {
+   "node": 24,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רמב\"ם, מורה נבוכים ג' פרק י\"ז (הדעה החמישית):</span><br><span style=\"color: rgb(51,51,51);\">אמנם זה הגמול לבעל חי שאינו מדבר (אשר לפני כן הסביר הרמב\"ם שיש מאמינים בו) לא נשמע כלל באמונתו לפנים וגם חכמי התלמוד לא זכרוהו כלל. אבל קצת האחרונים מן הגאונים ז\"ל (יש אומרים שכוונתו לרב סעדיה גאון) כאשר שמעוהו מכת המעתזליה (כיתה מוסלמית) ישר בעיניהם והאמינוהו.</span>"
+  },
+  {
+   "heRef": "רמב\"ן על בראשית ט׳:ה׳:א׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ramban on Genesis 9:5:1",
+   "text": {
+    "en": "<b>From the hand of every beast.</b> This seems to imply that they would be punished, yet reward and punishment are only relevant with regard to intelligent beings. Apparently it is simply Divine fiat that any creature that kills a human being shall be killed.",
+    "he": "ד\"ה מיד כל חיה אדרשנו: תמה אני אם הדרישה כמשמעה \"מיד החיה\" כמו \"מיד האדם\" להיות נענש בדבר, ואין בחיה דעת, שתיענש או תקבל שכר! ואולי יהיה כן בעניין דם האדם לבדו, שכל חיה שיטרוף אותו – תיטרף, כי גזירת מלך היא. וזה טעם (<a class=\"refLink\" href=\"/Exodus 21:29\" data-ref=\"Exodus 21:29\" target=\"_blank\">שמות כ\"א כ\"ט</a>) \"סקול ייסקל השור ולא ייאכל את בשר\" ואיננו להעניש את בעליו בממון, כי אפילו שור המדבר חייב מיתה... ויהיה טעם (פסוק ו') \"שופך דם האדם\" – כל שופך דם, בין חיה בין אדם, והנה דמו נדרש בבית דין ובידי שמים. \nוייתכן שיהיה טעם \"מיד כל חיה\" - שתהייה נקמה בשופך הדם ביד כל חיה, כמו (<a class=\"refLink\" href=\"/Isaiah 40\" data-ref=\"Isaiah 40\" target=\"_blank\">ישעיה מ'</a>) \"כי לקחה מיד ה' כפלים בכל חטאותיה\". יאמר: אך את דמכם אדרוש ואנקום אותו ביד כל חיה, כי אשלח ברוצח כל חיית הארץ ואשלח בו גם האדם, ולא יינצל מידם...\nואולי הדרישה מיד החיה שלא תטרוף האדם, כי כן שם בטבעם.\nוסוד העניין, כי בעת היצירה נתן לאדם את כל עשב זורע זרע ואת כל עץ אשר בו פרי עץ לאכלה, ונתן לחיה את כל ירק עשב לאכלה. ואמר הכתוב לעיל (<a class=\"refLink\" href=\"/Genesis 1:30\" data-ref=\"Genesis 1:30\" target=\"_blank\">בראשית א' ל'</a>) \"ויהי כן\", כי הוא טבעם ומנהגם. ועתה, כאשר אמר לאדם שישחוט בעלי-חיים, והושם בטבעם או במנהג שיהיו בעלי-החיים זה לזה לאכלה, הוצרך לצוות שיהו שאר בעלי החיים לבני אדם טרף לשניהם.\n<b>והם</b> (=בעלי החיים) ייראו מהם ולא יטרופו בהם.\nואמר \"אך את דמכם לנפשותיכם\" לרמוז, כי לא ידרוש דם חיה מיד חברתה, אם כן – נשאר בהם לטרוף זו את זו.\nוזה טעם הזכירו איסור שפיכת דמים בכאן, מפני שהייתה שחיטה, שהיה המנהג לשפוך דם, כי על דעת רבותינו ז\"ל (סהנדרין נ\"ו ע\"ב) כבר הזהיר אדם הראשון בזה, אבל מפני השחיטה הוצרך לומר: התרתי לכם לשפוך דם כל חי זולתי דמכם לנפשותיכם, שיהיה אסור לכם ולכל החיים, שלא יהיה להם טבע לשפוך אותו."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית ט׳:ה׳:ג׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 9:5:3",
+   "text": {
+    "en": "מיד כל חיה אדרשנו, the offending animal which killed a human being will itself be killed by another animal. Even though the principle of reward and punishment is not generally applicable to any species other than the human species, seeing that only man possesses intelligence so that he can be held responsible for his sins, when animals attack human beings G’d did restrict their instincts, and holds them responsible for not respecting the צלם אלוקים, the divine image in which man has been created. Chabakuk 2,17 phrases this principle as ושד בהמות יחיתן, “the destruction of beasts will overwhelm you.” Moreover, when speaking of retribution, we read in Kings I 13,28 ולא שבר את החמור, “nor had it mauled the ass.” [this proved that when the lion had killed the man of G’d, it had acted as an instrument of G’d’s justice. Ed]",
+    "he": "ד\"ה \"מיד כל חיה\" שיתננה ביד חיה אחרת להרגה או בידי האדם. ואף על פי שאין גמול ועונש לשאר בעלי-חי אלא לאדם שהוא בעל שכל, בעסק האדם יש להם גמול ועונש כמו שנאמר \"מיד כל חיה אדרשנו\", ונאמר (<a class=\"refLink\" href=\"/Habakkuk 2\" data-ref=\"Habakkuk 2\" target=\"_blank\">חבקוק ב'</a>) \"ושוד בהמות יְחִיתן\", ונאמר בגמול (<a class=\"refLink\" href=\"/I Kings 13\" data-ref=\"I Kings 13\" target=\"_blank\">מלכים א' י\"ג</a>) \"ולא שבר את החמור\"."
+   }
+  },
+  {
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">רלב\"ג:</span><br><span style=\"color: rgb(51,51,51);\">שלא יחשבו בני אדם, מפני שהתיר להם ה' יתברך הריגת הבעלי חי, שיוּתר להם גם הריגת בני אדם, אבל יענישם ה' על זה וישים הפועל להגעת העונש להורג חבירו אחת מן החיות הטורפות.</span>"
+  },
+  {
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "ר' משה חפץ, (מחכמי איטליה במאה הט\"ז למניינם, בספרו על התורה) – מלאכת מחשבת:<br>ראיתי להתמרמר על אנשים, שלמים הם אתנו מבני ישראל, אשר פחדו פחד לאמור שה' יתברך ישלח השגחתו על כל חי, גם אשר <b>לא</b> מבני אדם. וראייתם בלבד שלא יצויר בשכלם שישפיל ה' רוממותו להשגיח על זבוב ועל רמש..."
+  },
+  {
+   "node": 29,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">(מאריך בסתירת דיעה זו ומסכם):</span><br><span style=\"color: rgb(51,51,51);\">וכאשר בעיני הדבר שה' יתברך המשפילי לראות בשמים ובארץ ישגיח בגבורתו על כל הנבראים מקרני ראמים עד ביצי כינים, ויענישם אם יחטאו בחטאם המוגבל, ואם ייטיבו – הנה שכרם איתם. וראיות מדברי חז\"ל – הנה רבו מארבה. לבד אתעכב בראיות מספורי התורה... \"מיד כל חיה אדרשנו\" – אלו דברים ככתבם וכלשונם שיעניש ה' החיה על הרציחה... ואם גבוה מעל גבוה שומר ומביט בשפלותנו, יושב בשמים רואה את בני האדם, מדוע לא ישגיח בבעלי-חי, האם ערכם רחוק מערכנו מאשר אנחנו מן השמים? וכמה מן החיות משובחים יותר מאישי האדם...</span>"
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מה הבעיה שמעמיד פסוקנו בפני כל הנ\"ל?"
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2.  סדר את כל הנ\"ל לקבוצות והסבר את השקפותיהן ביישוב הבעיה הזו! (שים לב שברמב\"ן מובאות דעות אחדות!)"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מה היא הראיה שמביא הרמב\"ן מדין שור הנסקל?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. איך אפשר לפרש טעם דין שור הנסקל, אם נקבל את דעת הרמב\"ם, שגמול לבעלי-חיים \"זה לא נשמע כלל באמונתנו....\"?"
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "5.  לאיזו קושיה עונה הרמב\"ן בקטע האחרון של דבריו (החל מן \"וזה טעם הזכירו....\")?"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "6. מה פירוש דבריו (שם) \"שהיה מנהג לשפוך דם\"?"
+  },
+  {
+   "node": 36,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "7.  הסבר את דבריו \"עד דעת רבותינו כבר הזהיר אדם הראשון <b>בזה\"</b>. <b>במה</b> הזהירו?"
+  }
+ ],
+ "ssn": 1421,
+ "status": "public",
+ "summary": "1971 (תשל\"א)<br><a href=\"http://www.nechama.org.il/pdf/1421.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשל\"א - \"ואך את דמכם...\"",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

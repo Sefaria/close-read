@@ -1,0 +1,442 @@
+{
+ "dateCreated": "2019-03-06T05:24:42.395984",
+ "dateModified": "2019-03-07T02:09:09.376888",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Pirkei DeRabbi Eliezer 24:7",
+  "Pirkei DeRabbi Eliezer 24:11",
+  "Rashi on Exodus 1:12:1",
+  "Rashi on Genesis 11:5:2",
+  "Genesis 11:5",
+  "Radak on Genesis 11:5:3",
+  "Pirkei DeRabbi Eliezer 24:5",
+  "Pirkei DeRabbi Eliezer 24:1",
+  "Pirkei DeRabbi Eliezer 24:8",
+  "Pirkei DeRabbi Eliezer 24:9",
+  "Pirkei DeRabbi Eliezer 24:6",
+  "Pirkei DeRabbi Eliezer 24:3",
+  "Rashi on Exodus 1:12:2",
+  "Pirkei DeRabbi Eliezer 24:4",
+  "Pirkei DeRabbi Eliezer 24:10",
+  "Genesis 11:8",
+  "Pirkei DeRabbi Eliezer 24:2",
+  "Rashi on Genesis 11:7:4",
+  "Malbim on Genesis 11:1:1",
+  "Rashi on Genesis 11:8:1",
+  "Radak on Genesis 11:5:4",
+  "Malbim on Genesis 11:3:1",
+  "Genesis 11:4",
+  "Pirkei DeRabbi Eliezer 24:12"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 161235,
+ "includedRefs": [
+  "Pirkei DeRabbi Eliezer 24",
+  "Malbim on Genesis 11:1:1",
+  "Malbim on Genesis 11:3:1",
+  "Genesis 11:5",
+  "Rashi on Genesis 11:5:2",
+  "Radak on Genesis 11:5:3-4",
+  "Genesis 11:4",
+  "Genesis 11:8",
+  "Rashi on Genesis 11:8:1",
+  "Rashi on Exodus 1:12:1",
+  "Rashi on Exodus 1:12:2",
+  "Rashi on Genesis 11:7:4"
+ ],
+ "nextNode": 39,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "options": {
+    "indented": "indented-1",
+    "sourceLangLayout": "",
+    "sourceLayout": ""
+   },
+   "outsideText": "לפרק זה עיין <a class=\"refLink\" href=\"/sheets/161942\" data-ref=\"sheet.161942\" target=\"_blank\">נח גיליון שנת תש\"ד</a>. "
+  },
+  {
+   "node": 2,
+   "outsideText": "<table><tbody><tr><td><big>א. חטאם של בוני המגדל</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "פרקי דרבי אליעזר כ״ד",
+   "node": 3,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Pirkei DeRabbi Eliezer 24",
+   "text": {
+    "en": "<b><small>NIMROD AND THE TOWER OF BABEL</small> </b><br>Noah brought his sons and his grandsons, and he blessed them with their (several) settlements, and he gave them as an inheritance all the earth. He especially blessed Shem and his sons, (making them) dark but comely, and he gave them the habitable earth. He blessed Ham and his sons, (making them) dark || like the raven, and he gave them as an inheritance the coast of the sea. He blessed Japheth and his sons, (making) them entirely white, and he gave them for an inheritance the desert and its fields; these (are the inheritances with) which he endowed them. <br>R<small>ABBI</small> E<small>LIEZER</small> said: They begat their sons and increased and multiplied like a great reptile, six at each birth, and they were all one people, and one heart, and one language, as it is said, \"And the whole earth was of one language and of one speech\" (Gen. xi. 1). They despised the pleasant land, as it is said, \"And it came to pass, as they journeyed in the east\" (<i>ibid.</i> 2). They went to the land of Shinar, and found there a large stone, very extensive, and the whole plain, and they dwelt there, as it is said, \"And they found a plain in the land of Shinar, and they dwelt there\" (<i>ibid.</i>). Rabbi 'Aḳiba said: They cast off the Kingdom of Heaven from themselves, and appointed Nimrod king over themselves; a slave son of a slave. Are not all the sons of Ham slaves? And woe to the land when a slave rules, as it is said, \"For a servant, when he is king\" (Prov. xxx. 22). Rabbi Chakhinai said: Nimrod was a mighty hero, as it is said, \"And Cush begat Nimrod, who began to be a mighty one in the earth\" (Gen. x. 8). Rabbi Jehudah said: The coats which the Holy One, blessed be He, made for Adam and his wife, were with Noah in the ark, and when they went forth from the ark, || Ham, the son of Noah, brought them forth with him, and gave them as an inheritance to Nimrod. When he put them on, all beasts, animals, and birds, when they saw the coats, came and prostrated themselves before him. The sons of men thought that this (was due) to the power of his might; therefore they made him king over themselves, as it is said, \"Wherefore it is said, Like Nimrod, a mighty hunter before the Lord\" (<i>ibid.</i> 9). Nimrod said to his people: Come, let us build a great city for ourselves, and let us dwell therein, lest we be scattered upon the face of all the earth, as the first people (were). Let us build a great tower in its midst, ascending to heaven, for the power of the Holy One, blessed be He, is only in the water, and let us make us a great name on the earth, as it is said, \"And let us make us a name\" (<i>ibid.</i> xi. 4). Rabbi Phineas said: There were no stones there where-with to build the city and the tower. What did they do? They baked bricks and burnt them like a builder (would do), until they built it seven mils high, and it had ascents on its east and west. (The labourers) who took up the bricks went up on the eastern (ascent), and those who descended went down on the western (descent). If a man fell and died they paid no heed to him, but if a brick fell they || sat down and wept, and said: Woe is us ! when will another one come in its stead? And Abraham, son of Terah, passed by, and saw them building the city and the tower, and he cursed them in the name of his God, as it is said, \"Swallow up, O Lord, divide their language\" (Ps. lv. 9). But they rejected his words, like a stone cast upon the ground. Is it not a fact that every choice and good stone is only put at the corner of a building? and with reference to this, the text says, \"The stone which the builders rejected is become the head of the corner\" (<i>ibid.</i> cxviii. 22). Rabbi Simeon said: The Holy One, blessed be He, called to the seventy angels, who surround the throne of His glory, and He said to them: Come, let us descend and let us confuse the seventy nations and the seventy languages. Whence (do we know) that the Holy One, blessed be He, spake to them? Because it is said, \"Go to, let <i>us</i> go down\" (Gen. xi. 7). \"I will go down\" is not written, but \"Go to, let <i>us</i> go down.\" And they cast lots among them. Because it is said, \"When the Most High gave to the nations their inheritance\" (Deut. xxxii. 8). The lot of the Holy One, blessed be He, fell upon Abraham and upon his seed, as it is said, \"For the Lord's portion is his people; Jacob is the <i>lot</i> of his inheritance\" (<i>ibid.</i> 9). The Holy One, blessed be He, said: The portion and lot which have fallen to Me, My soul liveth thereby, as it is said, \"The lots have fallen unto me in pleasures; yea, I have a goodly heritage\" (Ps. xvi. 6). The Holy One, blessed be He, descended with the seventy angels, who surround || the throne of His glory, and they confused their speech into seventy nations and seventy languages. Whence do we know that the Holy One, blessed be He, descended? Because it is said, \"And the Lord God <i>came down</i> to see the city and the tower\" (Gen. xi. 5). This was the second descent. And they wished to speak one to another in the language of his fellow-countryman, but one did not understand the language of his fellow. What did they do? Every one took his sword, and they fought one another to destroy (each other), and half the world fell there by the sword, and thence the Lord scattered them upon the face of all the earth, as it is said, \"So the Lord scattered them abroad on that account, upon the face of all the earth\" (<i>ibid.</i> 8). Rabbi Meir said: Esau, the brother of Jacob, saw the coats of Nimrod, and in his heart he coveted them, and he slew him, and took them from him. Whence (do we know) that they were desirable in his sight? Because it is said, \"And Rebecca took the <i>precious</i> raiment of Esau, her elder son\" (<i>ibid</i>, xxvii. 15). When he put them on he also became, by means of them, a mighty hero, as it is said, \"And Esau was a cunning hunter\" (<i>ibid.</i> xxv. 27). And when Jacob went forth from the presence of Isaac, his father, he said: Esau, the wicked one, is not worthy to wear these coats. What did he do? He dug in the earth and hid them there, as it is said, \"A noose is hid for him in the earth\" (Job xviii. 10).",
+    "he": "שבע מעלות היו לו למגדל ממזרחו ושבע ממערבו. מעלים את הלבנים מכאן ויורדים מכאן. אם נפל אדם ומת לא היו שמים לבם אליו, ואם נפלה לבנה אחת היו יושבים ובוכים ואומרים: אוי לנו, אימתי תעלה אחרת תחתיה."
+   }
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית י״א:א׳:א׳",
+   "node": 4,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 11:1:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ודברים אחדים: \"דברים\" יפורש לפעמים דיבורים ולפעמים עניינים, כמו: ויעשו דברים רעים; שמימי נח עד העת ההיא היו חיי המשפחה בהשקט ולא רבו הצרכים והקניינים היו מועטים ושווים, שכל זה נכלל במילת \"אחדים\", כמו (<a class=\"refLink\" href=\"/Genesis 27:44\" data-ref=\"Genesis 27:44\" target=\"_blank\">בראשית כ\"ז, מד</a>) \"וישבת עמו ימים אחדים\", שפירושו מועטים... \nאז עלה בלב הדור לעזוב דרך הקודם וחיי המשפחה, שזה נכלל במה שנאמר \"בנסעם מקדם\" – מן ההנהגה הקודמת, ורצו לכונן ממלכה גדולה ומלך בראשם מושל ממשל רב... "
+   }
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית י״א:ג׳:א׳",
+   "node": 5,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 11:3:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ויאמרו: התחילו החדשות בבנות להם בתי חומה, תחת שעד עתה היו יושבים באהלים... וצימחה מחשבתם ראש ולענה לבנות עיר גדולה ולכונן ממלכה אדירה ובתוכו יבנו מגדל וראשו בשמים, שאז שכחו את ה'..."
+   }
+  },
+  {
+   "node": 6,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  מהו לפי הנ\"ל חטאם של בוני המגדל? הסבר את הרעיון המובע בציורו של פרקי דר' אליעזר."
+  },
+  {
+   "node": 7,
+   "outsideText": "באיזה כיוון מתפתחת האנושות מאדם עד אברהם לפי דברי המלבי\"ם?"
+  },
+  {
+   "node": 8,
+   "outsideText": "והשווה דברי המלבי\"ם על בני למך (<a class=\"refLink\" href=\"/Genesis 4:19\" data-ref=\"Genesis 4:19\" target=\"_blank\">בראשית, ד' י\"ט-כ\"ה</a>) שהובאו בגיליון <a class=\"refLink\" href=\"/sheets/161440\" data-ref=\"sheet.161440\" target=\"_blank\">תש\"י</a>, ודברי קאסוטו שם:"
+  },
+  {
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">מלבי\"ם:</span><br><span style=\"color: rgb(51,51,51);\">הגם שקין ובניו יסדו עיר וקיבוץ מדיני ותיקנו נימוסים ומלאכות להנהגת החברה, בכל זאת אם לא התבונה תיתן קולה ואם לא יהיו האנשים בעלי יושר ואוהבי צדק בטבעם, לא יועילו הנימוסים, שאם יעמוד איש עריץ, יצחק לכל חוק ונימוס ויגזרו משפט וצדק... </span>"
+  },
+  {
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, \"מאדם עד נח\" עמוד 130:</span><br><span style=\"color: rgb(51,51,51);\">לאחר שהזכירה (התורה) החידושים שחידש קין ובניו בתרבות האנושית, מביאה היא את שירו של למך, המוכיח שעל יד ההתקדמות החומרית לא הייתה מורגשת התקדמות מוסרית. החמס היה שורר ובמעשי החמס היו אותם הדורות מתפארים, דווקא המידות המגונות השנואות בעיני ה' היו נחשבות למעלה בעיני בני אדם. במצב שכזה לא היה אפשר ששופט כל הארץ לא יעשה משפט. \nכל ההישגים בתרבות החומרית אינם שווים כלום בלי המידות הטובות בדרכי המוסר...</span>"
+  },
+  {
+   "node": 11,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מה מסומל בבנין ערים גדולות ומגדלים בצורים לפי דבריו? ועיין <a class=\"refLink\" href=\"/Genesis 10:8\" data-ref=\"Genesis 10:8\" target=\"_blank\">בראשית י' ח'-י\"ב</a>. <a class=\"refLink\" href=\"/Jeremiah 22:13\" data-ref=\"Jeremiah 22:13\" target=\"_blank\">ירמיהו כ\"ב יג-יז</a>."
+  },
+  {
+   "node": 12,
+   "outsideText": "<table><tbody><tr><td><big>ב. שאלות מבנה וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, בספרו מנח עד אברהם עמוד 158:</span><br><span style=\"color: rgb(51,51,51);\">בסיפור קצר זה יש לפנינו דוגמא מפוארת של האמנות הספרותית המקראית: כולל הוא שתי פסקאות (שקאסוטו קורא להן בשני חלקי הפסוק ממשלי: \"רבות מחשבות בלב איש\", \"ועצת ה' היא תקום\"), שוות כמעט זו לזו בגדלן, ומקבילות זו לזו הקבלה ניגודית בצורתן ובתוכנן.  </span>"
+  },
+  {
+   "node": 14,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. מהן שתי הפסקאות?"
+  },
+  {
+   "node": 15,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "2.  הבא דוגמאות לביטויים שבשני חלקי הסיפור המקבילים אלה לאלה בהקבלה ניגודית."
+  },
+  {
+   "node": 16,
+   "outsideText": "<table><tbody><tr><td><big>ג. בני האדם</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ה׳",
+   "node": 17,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:5",
+   "text": {
+    "en": "And the LORD came down to see the city and the tower, which the children of men builded.",
+    "he": "\"...אֶת הָעִיר וְאֶת הַמִּגְדָּל אֲשֶׁר בָּנוּ בְּנֵי הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ה׳:ב׳",
+   "node": 18,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 11:5:2",
+   "text": {
+    "en": "בני האדם THE CHILDREN OF MAN (ADAM) — But whose children could they have been (except the children of man, i.e. human beings) — perhaps the children of donkeys or camels? But it means the children of Adam Harishon who proved himself ungrateful when he said, (Genesis 3:12) “The woman whom Thou gavest to be with me, [she gave me of the tree etc.]”. These people, also, were ungrateful, rebelling against the One who had showered kindness upon them and had rescued them from the Flood (Genesis Rabbah 38:9). ",
+    "he": "ד\"ה בני האדם: אלא בני מי? שמא בני חמורים וגמלים? אלא בני אדם הראשון שכפה את הטובה ואמר \"האשה אשר נתתה עמדי\" - אף אלו כפו בטובה למרוד במי שהשפיעם טובה ומילטם מן המבול."
+   }
+  },
+  {
+   "heRef": "רד\"ק על בראשית י״א:ה׳:ג׳-ד׳",
+   "node": 19,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Radak on Genesis 11:5:3-4",
+   "text": {
+    "en": "אשר בנו, which they had commenced building; [they never got to finish it. Ed.] בני האדם, they are appropriately referred to as בני האדם, “children of Adam,” having followed their own instincts and inclinations instead of heeding G’d’s instructions, just as their forefather Adam had done. G’d had wanted them to populate the earth, and they had chosen to concentrate in a miniscule  part of the earth. It is interesting that before G’d brought on the deluge, the Torah did not describe Him as “descending” as it did here or in connection with the Sodomites. Instead, the Torah there spoke about what G’d had seen, i.e. ראיה, instead of ירידה. (Genesis 6,5) The reason is that the deluge was something everybody knew about, seeing it was experienced by everybody. The whole point of G’d “descending,” is in order to examine a state of affairs which is not so widely known, so that it needs investigation. Something known to everybody does not require examination to determine if it is true. Concerning all these expressions, the bottom line is that the Torah uses a syntax familiar to people on earth, even if it does not accurately reflect G’d’s thoughts and feelings. ",
+    "he": "ד\"ה בני האדם: באמת בני האדם, שהולכים אחרי תאוות ליבם ולא יפנו אל מעשה האל, כי הוא ראה לישב הארץ ממזרח למערב והם חושבים לישב במקום אחד מן הארץ ולבטל רצון ה'."
+   }
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה קשה לשניהם בפסוקנו?"
+  },
+  {
+   "node": 21,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "ב.  מה תיקן רד\"ק באומרו \"באמת בני אדם\"?"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ג.   למה אין רש\"י מקשה קושייתו זו גם על <a class=\"refLink\" href=\"/Genesis 6:2\" data-ref=\"Genesis 6:2\" target=\"_blank\">בראשית ו' ב'</a>?"
+  },
+  {
+   "node": 23,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות ודיוקים ברש\"י</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית י״א:ד׳",
+   "node": 24,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 11:4",
+   "text": {
+    "en": "And they said: ‘Come, let us build us a city, and a tower, with its top in heaven, and let us make us a name; lest we be scattered abroad upon the face of the whole earth.’",
+    "he": "\"פֶּן נָפוּץ עַל פְּנֵי כָל הָאָרֶץ\""
+   }
+  },
+  {
+   "heRef": "בראשית י״א:ח׳",
+   "node": 25,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 11:8",
+   "text": {
+    "en": "So the LORD scattered them abroad from thence upon the face of all the earth; and they left off to build the city.",
+    "he": "\"וַיָּפֶץ ה' אֹתָם\""
+   }
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ח׳:א׳",
+   "node": 26,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Genesis 11:8:1",
+   "text": {
+    "en": "ויפץ ה' אתם משם SO THE LORD SCATTERED THEM ABROAD FROM THENCE—In this world (Sanhedrin 107b). What they had said. (Genesis 11:4) “lest we be scattered abroad” really happened to them. This is what Solomon said, (Proverbs 10:24) “What the wicked fears will come upon him” (Midrash Tanchuma, Noach 18).",
+    "he": "ד\"ה ויפץ ה' אותם: בעולם הזה, מה שאמרו \"פן נפוץ\" - נתקיים עליהם. הוא שאמר שלמה (<a class=\"refLink\" href=\"/Proverbs 10\" data-ref=\"Proverbs 10\" target=\"_blank\">משלי י</a>') מגורת רשע היא תבואנו. "
+   }
+  },
+  {
+   "heRef": "רש\"י על שמות א׳:י״ב:א׳",
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Exodus 1:12:1",
+   "text": {
+    "en": " וכאשר יענו אתו AND AS THEY AFFLICTED THEM — In whatsoever matter it was that they set their hearts upon afflicting them so was the heart of the Holy One, blessed be He, set upon multiplying them and making them grow apace.",
+    "he": "והשווה רש\"י, <a class=\"refLink\" href=\"/Exodus 1:12\" data-ref=\"Exodus 1:12\" target=\"_blank\">שמות א' י\"ב</a>:<br>ד\"ה וכאשר יענו אותו: בכל מה שהם נותנין לב לענות כן לב הקב\"ה להרבות ולהפריץ. "
+   }
+  },
+  {
+   "heRef": "רש\"י על שמות א׳:י״ב:ב׳",
+   "node": 28,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Rashi on Exodus 1:12:2",
+   "text": {
+    "en": " כן ירבה signifies: so they multiplied and so they grew apace (i. e. God’s determination was carried out, the imperfect tenses of the verbs denoting the continuance of the increase and growth). This is the real meaning; but there is a Midrashic explanation of these imperfect tenses: The Holy spirit (God) said this: You say פן ירבה, “lest they increase”, but “I” say כן ירבה, “thus will they assuredly increase” (Sotah 11a).",
+    "he": "ד\"ה כן ירבה: כן רבה וכן פרץ. ומדרשו: רוח הקודש אומרת כן אתם אומרים פן ירבה ואני אומר כן ירבה."
+   }
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה הרעיון המשותף בשני המקומות, ומהו האמצעי הסגנוני שבו משתמשת התורה כדי להביע רעיון זה?"
+  },
+  {
+   "node": 30,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  על רעיון זה המבוטא ע\"י אמצעי סגנוני זה מצביע רש\"י גם במקום אחר בפרשתנו (בפרק ז'). היכן?"
+  },
+  {
+   "heRef": "רש\"י על בראשית י״א:ז׳:ד׳",
+   "node": 31,
+   "options": {
+    "PrependRefWithHe": "2. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Rashi on Genesis 11:7:4",
+   "text": {
+    "en": "ולא ישמעו — THEY MAY NOT UNDERSTAND — One asks for a brick and the other brings him lime: the former therefore attacks him and splits open his brains. ",
+    "he": "ד\"ה אשר לא ישמעו: זה שואל לבנה וזה מביא טיט, וזה עומד עליו ופוצע את מוחו."
+   }
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א.   מה קשה לרש\"י בפסוקנו?"
+  },
+  {
+   "node": 33,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "ב.  היכן מצינו בתורה שימוש זה של \"שמע\"?"
+  },
+  {
+   "node": 34,
+   "outsideText": "<table><tbody><tr><td><big>ה. השלמה לפרקנו - בספר ישעיה</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 35,
+   "outsideText": "יחזקאל קויפמן בספרו \"תולדות האמונה הישראלית\" כרך שלישי, ספר ראשון עמודים 202-205 רואה ב<a class=\"refLink\" href=\"/Isaiah 2\" data-ref=\"Isaiah 2\" target=\"_blank\">נבואות ישעיה פרק ב'</a> (וכן <a class=\"refLink\" href=\"/Isaiah 30:25\" data-ref=\"Isaiah 30:25\" target=\"_blank\">פרק ל' כ\"ה</a>) השלמה לסיפור של פרקנו."
+  },
+  {
+   "node": 36,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ואלה מקצת דבריו שם:</span><br><span style=\"color: rgb(51,51,51);\">יום לה' צבאות ובו יפקוד \"על כל גאה ורם\" וישפיל כל \"נשא\". הוא יופיע \"בהדר גאונו\" וישפיל כל נשא בטבע; את ההרים הרמים, את העצים הגבוהים. ובייחוד יפקוד על מעשי גאוות האדם... ביום ההוא יבוא הקץ על האלילות... החזון הזה הוא מן הביטויים הנשגבים ביותר של האמונה הישראלית. הוא תופס את האלילות כגאווה אנושית, כהתנשאות האדם להיות שומר בעולם. החכמה היוצרת, שנתן האל לאדם, הייתה לו למכשול. האדם בונה ויוצר ומשתרר על היבשה ועל הים. ובבטחונו בכוחו הוא אף \"עושה\" לו \"אלוהים\". השתחווייתו למעשה ידיו היא השתחוויה לעצמו, לאדם – האל...</span>"
+  },
+  {
+   "node": 37,
+   "options": {
+    "sourcePrefix": "**"
+   },
+   "outsideText": "עבור על כל <a class=\"refLink\" href=\"/Isaiah 2\" data-ref=\"Isaiah 2\" target=\"_blank\">פרק ב' של ישעיה</a> והסבר במה יש לראות בפרק זה בשני חלקיו (א'-ה'; ו'-כ\"ב) קשר ואף השלמה לרעיון בפרקנו."
+  }
+ ],
+ "ssn": 583,
+ "status": "public",
+ "summary": "1955 (תשט\"ו)<br><a href=\"http://www.nechama.org.il/pdf/583.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשט\"ו - מגדל בבל",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}

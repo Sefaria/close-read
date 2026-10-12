@@ -1,0 +1,539 @@
+{
+ "dateCreated": "2019-03-05T15:39:26.977609",
+ "dateModified": "2019-03-07T02:05:49.140432",
+ "displayedCollection": "גיליונות-נחמה",
+ "expandedRefs": [
+  "Genesis 8:7",
+  "Ibn Ezra on Genesis 7:11:3",
+  "Genesis 8:19",
+  "Malbim on Genesis 7:21:1",
+  "Genesis 7:13",
+  "Genesis 7:24",
+  "Ibn Ezra on Genesis 7:21:1",
+  "Genesis 7:14",
+  "Genesis 7:8",
+  "Genesis 7:23",
+  "Genesis 7:21",
+  "Genesis 7:6",
+  "Genesis 7:7",
+  "Genesis 7:3"
+ ],
+ "group": "גיליונות נחמה",
+ "id": 160824,
+ "includedRefs": [
+  "Genesis 7:8",
+  "Genesis 7:14",
+  "Genesis 7:21",
+  "Genesis 7:23",
+  "Genesis 8:19",
+  "Malbim on Genesis 7:21:1",
+  "Genesis 7:21",
+  "Ibn Ezra on Genesis 7:11:3",
+  "Ibn Ezra on Genesis 7:21:1",
+  "Genesis 7:13",
+  "Genesis 7:7",
+  "Genesis 8:7",
+  "Genesis 7:3",
+  "Genesis 7:24",
+  "Genesis 7:6"
+ ],
+ "nextNode": 51,
+ "options": {
+  "assignable": 0,
+  "boxed": 0,
+  "bsd": 0,
+  "collaboration": "none",
+  "divineNames": "noSub",
+  "highlightMode": 0,
+  "langLayout": "heRight",
+  "language": "hebrew",
+  "layout": "sideBySide",
+  "numbered": 0
+ },
+ "owner": 54380,
+ "sheetLanguage": "hebrew",
+ "sources": [
+  {
+   "node": 1,
+   "outsideText": "<table><tbody><tr><td><big>א. תאורי המבול והכליון</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 2,
+   "outsideText": "<a class=\"refLink\" href=\"/Genesis 7:17\" data-ref=\"Genesis 7:17\" target=\"_blank\">פרק ז' פסוקים י\"ז-כ\"ד</a>"
+  },
+  {
+   "node": 3,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1.  באילו אמצעים <b>מתוארת</b> בפסוקים אלה ההתגברות ההולכת הלוך וגבור של מי המבול?"
+  },
+  {
+   "node": 4,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. באילו אמצעים מתואר הכליון הגמור, ונוצר הרושם המחריד בלב הקורא?"
+  },
+  {
+   "node": 5,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3.  מהן \"המלים המדריכות\" בקטע זה, ומה משמעותן?"
+  },
+  {
+   "node": 6,
+   "outsideText": "<table><tbody><tr><td><big>ב. השינויים ברשימת הנספים במבול</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:ח׳",
+   "node": 7,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:8",
+   "text": {
+    "en": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the ground,",
+    "he": "\"מִן הַבְּהֵמָה הַטְּהוֹרָה וּמִן הַבְּהֵמָה אֲשֶׁר אֵינֶנָּה טְהֹרָה וּמִן הָעוֹף וְכֹל אֲשֶׁר רֹמֵשׂ עַל הָאֲדָמָה {שְׁנַיִם שְׁנַיִם בָּאוּ...}\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:י״ד",
+   "node": 8,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:14",
+   "text": {
+    "en": "they, and every beast after its kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after its kind, and every fowl after its kind, every bird of every sort.",
+    "he": "\"... וְכָל הַחַיָּה לְמִינָהּ וְכָל הַבְּהֵמָה לְמִינָהּ וְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ לְמִינֵהוּ וְכָל הָעוֹף לְמִינֵהוּ כֹּל צִפּוֹר כָּל כָּנָף\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:כ״א",
+   "node": 9,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:21",
+   "text": {
+    "en": "And all flesh perished that moved upon the earth, both fowl, and cattle, and beast, and every swarming thing that swarmeth upon the earth, and every man;",
+    "he": "\"וַיִּגְוַע כָּל בָּשָׂר הָרֹמֵשׂ עַל הָאָרֶץ\n בָּעוֹף וּבַבְּהֵמָה וּבַחַיָּה וּבְכָל הַשֶּׁרֶץ הַשֹּׁרֵץ עַל הָאָרֶץ        וְכֹל הָאָדָם\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:כ״ג",
+   "node": 10,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:23",
+   "text": {
+    "en": "And He blotted out every living substance which was upon the face of the ground, both man, and cattle, and creeping thing, and fowl of the heaven; and they were blotted out from the earth; and Noah only was left, and they that were with him in the ark.",
+    "he": "\"וַיִּמַח אֶת כָּל הַיְקוּם אֲשֶׁר עַל פְּנֵי הָאֲדָמָה \nמֵאָדָם עַד בְּהֵמָה עַד רֶמֶשׂ וְעַד עוֹף הַשָּׁמַיִם             וַיִּמָּחוּ...\""
+   }
+  },
+  {
+   "node": 11,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\"><a class=\"refLink\" href=\"/Genesis 8:16\" data-ref=\"Genesis 8:16\" target=\"_blank\">פרק ח' פסוקים ט\"ז-י\"ז</a></span><br><span style=\"color: rgb(51,51,51);\">\"כָּל הַחַיָּה אֲשֶׁר אִתְּךָ מִכָּל בָּשָׂר\nבָּעוֹף וּבַבְּהֵמָה וּבְכָל הָרֶמֶשׂ הָרֹמֵשׂ עַל הָאָרֶץ           הוצא (הַיְצֵא) אִתָּךְ\"</span>"
+  },
+  {
+   "heRef": "בראשית ח׳:י״ט",
+   "node": 12,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:19",
+   "text": {
+    "en": "every beast, every creeping thing, and every fowl, whatsoever moveth upon the earth, after their families; went forth out of the ark.",
+    "he": "\"כָּל הַחַיָּה כָּל הָרֶמֶשׂ וְכָל הָעוֹף כֹּל רוֹמֵשׂ עַל הָאָרֶץ לְמִשְׁפְּחֹתֵיהֶם יָצְאוּ מִן הַתֵּבָה\""
+   }
+  },
+  {
+   "node": 13,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">ר' יוסף אבן-כספי, <a class=\"refLink\" href=\"/Genesis 7:8\" data-ref=\"Genesis 7:8\" target=\"_blank\">פרק ז' פסוק ח'</a>:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה מן הבהמה הטהורה: מי יתן טעם וסיבה הכרחית או שום בחירה בשינויים שעשה נותן התורה בסיפור זה, והוא כי למעלה בתחילה (פסוק ג') זכר עוף ולא זכר רמש, ובשלישית היא פה (פסוק ח') זכר בהמה ועוף ורמש; ועוד רביעית (פסוק י\"ד) יסדר חיה, בהמה, רמש, עוף; ועוד חמישית (פסוק כ\"א) יסדר רמש, עוף, בהמה, חיה, שרץ, אדם; ועוד ששית (פסוק כ\"ג) יסדר אדם, בהמה, רמש; ועוד שביעית ביציאה (ח' ט\"ז) יסדר חיה, עוף, בהמה רמש; ועוד שמינית (פסוק י\"ט) יסדר חיה, רמש, עוף. \nובכלל: כי מי שיתן סיבה לכל אלו השנויים מצד שינוי הסידור שבא בכאן וגם תוספות וגרעונות, הוא – כמו שיאמר המורה בכמו זה – מכוון כוונות לא כיוון בם אומרם. \nאבל לפי דעתי בחר וכיוון נותן התורה לעשות אלו השנויים בזה וכדומה לזה בדברים הקלים, להעירנו על עשותו בכחו זה בקצת הענינים, עד שנדע, כי <b>קצת אלו השנויים</b> אין לתת בהם טעם, <b>כי הם מטבע</b> <b>האפשרי השווי</b>, אין אחד יותר ראוי מן האחר... <b>וגם בקצת ענינים וסידורים</b> ילמדנו כי יש מן ההכרחי, וכל זה צריך עיון. אחר הניחנו החלוקות והמינים, הנה הסכנה הוא פן נחליף מין במין ונחליף חי במת, וזכור זה והקם על זה.</span>"
+  },
+  {
+   "heRef": "מלבי\"ם על בראשית ז׳:כ״א:א׳",
+   "node": 14,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Malbim on Genesis 7:21:1",
+   "text": {
+    "en": "",
+    "he": "ויגוע כל בשר... תחילה \"ויגוע כל בשר\" שיצאו נפשותיהם שהיא הגויעה. \nוסידר בזה עוף, בהמה, חיה, שרץ, אדם, כי העוף לחלישותו גוע תחילה, ע\"י השטף הבא מלמעלה; ואחר כך מתו גם הבהמות ואחר כך גם החיות, שיש מהם שמגורתם במערות צורים בראשי ההרים ששם מצאו סתר בין נגד הגשם שבא מלמעלה בין נגד שטיפת התהום, כי כשבאו המים עד ראשי ההרים גמעו גם המה; אחר כך מתו השרצים שבתוכם ימצאו מינים רבים החיים במים וביבשה והם האריכו ימים יותר. \nואחר כך מת האדם, כי אין ספק שהאדם שהוא בעל תחבולות יותר מכולם, עלה על ראשי ההרים והסתתר בצורים עד שנמצאו יחידים נמלטים, או שעברו בספינות על פני ימים; אולם אחרי שעלו המים ט\"ו אמה מלמעלה לראשי ההרים פסקו כל התחבולות, שהגם שעלו לעצים הגבוהים שעל ראשי ההרים, נהרגו מן השטף, והספינות נשברו בלב ימים, וספו תמו מאין מחיה, עד שגם מין האדם גוע ואיננו."
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:כ״א",
+   "node": 15,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:21",
+   "text": {
+    "en": "And all flesh perished that moved upon the earth, both fowl, and cattle, and beast, and every swarming thing that swarmeth upon the earth, and every man;",
+    "he": "קאסוטו, מנח עד אברהם עמ' 52-53, פסוק כ\"א:<br>כל בשר הרומש על הארץ: כלל, ואחריו פרט: עוף, בהמה, חיה, שרץ, לבסוף אחרון חביב, האדם. "
+   }
+  },
+  {
+   "node": 16,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">קאסוטו, מנח עד אברהם עמ' 52-53, פסוק כ\"א:</span><br><span style=\"color: rgb(51,51,51);\">ד\"ה וכל האדם: כך מסתיים הפסוק, כאילו מתוך עצבון מר: לא רק העוף הרגיל לפרוח במרומי שמים, ולא רק הבהמה החביבה על האדם, ולא רק החיה הרחוקה יותר מן האדם, ולא רק השרץ הנבזה ברובו בעיני האדם, אלא גם החשוב שבנבראים, האדם, ולא רק מקצתו של מין האדם, אלא כולו! \nגם השרץ, שלא דאג הכתוב להזכירו במפורש בפסקות הקודמות, נזכר כאן כדי לרדת עד הדרגה הנמוכה ביותר בסוגי בעלי החיים ולעלות אחר כך בקפיצה פתאומית לדרגה הנשגבה ביותר: \"<b>וכל האדם</b>\".</span>"
+  },
+  {
+   "node": 17,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "1. כמה גישות <b>שונות</b> יש לפנינו לשאלת השינויים הללו?"
+  },
+  {
+   "node": 18,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מהן מעלותיה ומהן מגרעותיה של כל אחת מן הגישות?"
+  },
+  {
+   "node": 19,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "3. התוכל לתת הסבר משלך לאחד או שניים מן השינויים בפסוקים דלעיל?"
+  },
+  {
+   "node": 20,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "4. הסבר את דברי אבן כספי \"כי הם מטבע האפשרי השווי\"."
+  },
+  {
+   "node": 21,
+   "outsideText": "<table><tbody><tr><td><big>ג. נח ואשתו - מתוך המדרש</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 22,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "1. מדרש הגדול, חיי שרה (ע\"פ תורה שלמה לכשר):<br>(<a class=\"refLink\" href=\"/Proverbs 31:30\" data-ref=\"Proverbs 31:30\" target=\"_blank\">משלי ל\"א</a>) \"אשת חיל מי ימצא\"- זו אשתו של נח שהיתה מצדקת את בעלה כשאמר לו הקב\"ה \"כי אותך ראיתי צדיק לפני\" \n\"ורחוק מפנינים מכרה\"- שהיתה היא וכלותיה מעשיהן רחוקים ממעשה דור המבול. "
+  },
+  {
+   "node": 23,
+   "outsideText": "ומקשים: ומניין לו למדרש שהיתה צדקת, ושמא לא ניצלה אלא בזכותו?"
+  },
+  {
+   "node": 24,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "2. מדרש הגדול, פרשת נח (ע\"פ תורה שלמה לכשר):<br>(<a class=\"refLink\" href=\"/Genesis 7:4\" data-ref=\"Genesis 7:4\" target=\"_blank\">ז' ד'</a>) \"ומחיתי את כל היקום\"... כיון שאמר הקב\"ה כך, עמד נח בתפילה ואמר: ריבון העולמים אם נשטף אני עמהם, יהיו משיחין עלי ואומרים: \"מה הועיל זה שהלך בצדקות ותמות?\" כענין שנאמר (<a class=\"refLink\" href=\"/Job 9:30\" data-ref=\"Job 9:30\" target=\"_blank\">איוב ט' כ\"ג</a>): \"למסת נקיים ילעג\". שמע הקב\"ה וערב לו ואמר: \"עשה לך תיבה\"."
+  },
+  {
+   "node": 25,
+   "outsideText": "ומקשים: והלא אם יספה הוא יחד עם כולם – מי הוא אשר יהיה משיח ואומר?"
+  },
+  {
+   "node": 26,
+   "outsideText": "<table><tbody><tr><td><big>ד. שאלות בדברי ראב\"ע</big></td></tr></tbody></table>"
+  },
+  {
+   "node": 27,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">1) <a class=\"refLink\" href=\"/Genesis 7:4\" data-ref=\"Genesis 7:4\" target=\"_blank\">פסוק ד'</a></span><br><span style=\"color: rgb(51,51,51);\">ד\"ה כי לימים עוד שבעה: ומילת \"היקום\" לא מצאנוה כי אם בפרשה הזאת. ושרשו מהפעלים שהפ\"א <b>שלהם אינו</b> <b>שלם</b> על משקל כרוב. \nויש אומרים שהוא מהפעלים נחי העי\"ן <b>והוא הפוך</b>, כמו (<a class=\"refLink\" href=\"/Exodus 35:30\" data-ref=\"Exodus 35:30\" target=\"_blank\">תהלים ל\"ה</a>) \"ריבה ה' את יריבי\". ומלת \"יקום\" כלל לכל חי שהוא על האדמה.</span>"
+  },
+  {
+   "node": 28,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "תמהו מפרשי ראב\"ע על דבריו הראשונים (עד \"הזאת\"). הסבר מהי התמיהה המתעוררת לגבי דבריו אלה וכיצד יש לישבה?"
+  },
+  {
+   "node": 29,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "הסבר את דבריו המסומנים בקו!"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ז׳:י״א:ג׳",
+   "node": 30,
+   "options": {
+    "PrependRefWithEn": "2) ",
+    "PrependRefWithHe": "2) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 7:11:3",
+   "text": {
+    "en": "",
+    "he": "ד\"ה וארובות: כמו (<a class=\"refLink\" href=\"/II Kings 7:30\" data-ref=\"II Kings 7:30\" target=\"_blank\">מלכים ב' ז'</a>) \"הנה ה' עושה ארובות בשמים\" והאוצר והחלון כלשון בני אדם ומשפטם."
+   }
+  },
+  {
+   "node": 31,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "מה קשה לו בפסוקנו?"
+  },
+  {
+   "node": 32,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "על איזה \"אוצר\" ועל איזה \"חלון\" מדבר הראב\"ע?"
+  },
+  {
+   "heRef": "אבן עזרא על בראשית ז׳:כ״א:א׳",
+   "node": 33,
+   "options": {
+    "PrependRefWithEn": "3) ",
+    "PrependRefWithHe": "3) ",
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Ibn Ezra on Genesis 7:21:1",
+   "text": {
+    "en": "",
+    "he": "ד\"ה ויגוע: וכבר גוע, ורבים בתורה כמוהו כמו (<a class=\"refLink\" href=\"/Deuteronomy 3:30\" data-ref=\"Deuteronomy 3:30\" target=\"_blank\">דברים ג' כ\"ג</a>) \"ואתחנן\" וכן (<a class=\"refLink\" href=\"/Psalms 78:30\" data-ref=\"Psalms 78:30\" target=\"_blank\">תהלים ע\"ח</a>) \"וימטר עליהם מן\" על פירוש האמת."
+   }
+  },
+  {
+   "node": 34,
+   "options": {
+    "sourcePrefix": ""
+   },
+   "outsideText": "א. מה קשה לו?"
+  },
+  {
+   "node": 35,
+   "options": {
+    "sourcePrefix": "*"
+   },
+   "outsideText": "ב. מה ראיה מצא ב<a class=\"refLink\" href=\"/Psalms 78:30\" data-ref=\"Psalms 78:30\" target=\"_blank\">תהלים ע\"ח</a> ע\"ד לדעתו?"
+  },
+  {
+   "node": 36,
+   "outsideText": "<table><tbody><tr><td><big>ה. שאלות לשון וסגנון</big></td></tr></tbody></table>"
+  },
+  {
+   "heRef": "בראשית ז׳:י״ג",
+   "node": 37,
+   "options": {
+    "PrependRefWithHe": "1. ",
+    "indented": "",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": "",
+    "sourcePrefix": ""
+   },
+   "ref": "Genesis 7:13",
+   "text": {
+    "en": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;",
+    "he": "\"בְּעֶצֶם הַיּוֹם הַזֶּה <b>בָּא נֹחַ</b> וְשֵׁם וְחָם וָיֶפֶת <b>בְּנֵי </b><b>נֹחַ</b> וְאֵשֶׁת <b>נֹחַ</b> וּשְׁלֹשֶׁת נְשֵׁי בָנָיו אִתָּם אֶל הַתֵּבָה\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:ז׳",
+   "node": 38,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:7",
+   "text": {
+    "en": "And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, before the waters of the flood.",
+    "he": "ר' יוסף אבן כספי:<br>הנה היו יותר קצר, אם אמר \"בא נח ובניו ואשתו\"."
+   }
+  },
+  {
+   "node": 39,
+   "outsideText": "הסבר, למה זכר איפוא את שמו של נח שלוש פעמים!"
+  },
+  {
+   "node": 40,
+   "outsideText": "השוה:"
+  },
+  {
+   "node": 41,
+   "outsideText": "פרק ח'"
+  },
+  {
+   "heRef": "בראשית ח׳:ז׳",
+   "node": 42,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 8:7",
+   "text": {
+    "en": "And he sent forth a raven, and it went forth to and fro, until the waters were dried up from off the earth.",
+    "he": "\"וַיֵּצֵא יָצוֹא וָשׁוֹב עַד יְבֹשֶׁת הַמַּיִם <b>מֵעַל הָאָרֶץ</b>\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:ג׳",
+   "node": 43,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:3",
+   "text": {
+    "en": "of the fowl also of the air, seven and seven, male and female; to keep seed alive upon the face of all the earth.",
+    "he": "\"לִרְאוֹת הֲקַלּוּ הַמַּיִם <b>מֵעַל פְּנֵי הָאֲדָמָה</b>\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:כ״ד",
+   "node": 44,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:24",
+   "text": {
+    "en": "And the waters prevailed upon the earth a hundred and fifty days.",
+    "he": "\"וַיֵּדַע נֹחַ כִּי קַלּוּ הַמַּיִם <b>מֵעַל הָאָרֶץ</b>\""
+   }
+  },
+  {
+   "heRef": "בראשית ז׳:ו׳",
+   "node": 45,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "ref": "Genesis 7:6",
+   "text": {
+    "en": "And Noah was six hundred years old when the flood of waters was upon the earth.",
+    "he": "\"וַיְהִי בְּאַחַת וְשֵׁשׁ מֵאוֹת שָׁנָה... חָרְבוּ הַמַּיִם <b>מֵעַל הָאָרֶץ</b>\""
+   }
+  },
+  {
+   "node": 46,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פסוק י\"ג</span><br><span style=\"color: rgb(51,51,51);\">\"וַיָּסַר נֹחַ אֶת מִכְסֵה הַתֵּבָה וַיַּרְא וְהִנֵּה חָרְבוּ <b>פְּנֵי הָאֲדָמָה</b>\"</span>"
+  },
+  {
+   "node": 47,
+   "options": {
+    "indented": "indented-1",
+    "refDisplayPosition": "top",
+    "sourceLangLayout": "",
+    "sourceLanguage": "hebrew",
+    "sourceLayout": ""
+   },
+   "outsideText": "<span style=\"color: rgb(153,153,153);\">פסוק י\"ד</span><br><span style=\"color: rgb(51,51,51);\">\"וּבַחֹדֶשׁ הַשֵּׁנִי... יָבְשָׁה <b>הָאָרֶץ</b>\"</span>"
+  },
+  {
+   "node": 48,
+   "outsideText": "נסה להסביר אחדים מן השינויים האלה!"
+  },
+  {
+   "node": 49,
+   "outsideText": "(לשימוש במלה \"אדמה\" עיין גם <a class=\"refLink\" href=\"/Genesis 5:29\" data-ref=\"Genesis 5:29\" target=\"_blank\">ה', כ\"ט</a>; <a class=\"refLink\" href=\"/Genesis 6:20\" data-ref=\"Genesis 6:20\" target=\"_blank\">ו', כ'</a>)"
+  }
+ ],
+ "ssn": 379,
+ "status": "public",
+ "summary": "1961 (תשכ\"א)<br><a href=\"http://www.nechama.org.il/pdf/379.pdf\" target=\"_blank\">View Original צפה בגרסת המקור</a>",
+ "tags": [
+  "Noach"
+ ],
+ "title": "פרשת נח תשכ\"א - המבול",
+ "topics": [
+  {
+   "asTyped": "Noach",
+   "slug": "parashat-noach"
+  }
+ ]
+}
