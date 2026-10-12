@@ -1,0 +1,1148 @@
+{
+  "title": {
+    "he": "קַבָּלַת הַתּוֹרָה — שׁוּב וָשׁוּב",
+    "en": "The Sinai Opt-In",
+    "subtitle": {
+      "he": "קִיְּמוּ מַה שֶּׁקִּיבְּלוּ כְּבָר",
+      "en": "Over and over and over: committing, and recommitting, to Jewish values"
+    },
+    "author": {
+      "he": "אלכסנדר לוקסנברג",
+      "en": "Alexander Luxenberg"
+    },
+    "sourceUrl": "https://voices.sefaria.org/sheets/487913",
+    "sourceLabel": "View the original sheet on Sefaria"
+  },
+  "sections": [
+    {
+      "id": "section-jacob",
+      "title": {
+        "he": "הֵאָסְפוּ",
+        "en": "Jacob's Deathbed"
+      },
+      "primaryText": {
+        "ref": "Genesis 49:1",
+        "he": "וַיִּקְרָא יַעֲקֹב אֶל־בָּנָיו וַיֹּאמֶר הֵאָסְפוּ וְאַגִּידָה לָכֶם אֵת אֲשֶׁר־יִקְרָא אֶתְכֶם בְּאַחֲרִית הַיָּמִים",
+        "en": "And Jacob called his sons and said, “Come together that I may tell you what is to befall you in days to come.",
+        "words": {
+          "vayikra": {
+            "he": "וַיִּקְרָא יַעֲקֹב אֶל־בָּנָיו",
+            "en": "Jacob called his sons"
+          },
+          "heasfu": {
+            "he": "הֵאָסְפוּ",
+            "en": "Come together"
+          },
+          "acharit": {
+            "he": "בְּאַחֲרִית הַיָּמִים",
+            "en": "in days to come"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "jacob-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The story of accepting the Torah doesn’t begin at Sinai. It begins at a deathbed. Jacob, about to die, calls his sons together."
+          }
+        },
+        {
+          "id": "jacob-heasfu",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Watch the verb. Jacob asks his sons to <i>gather</i>: <i>he’asfu</i>, from the root א־ס־ף. Before the chapter ends, the same root will describe Jacob himself."
+          },
+          "highlight": [
+            "heasfu"
+          ]
+        },
+        {
+          "id": "jacob-vc-29",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Genesis 49:29",
+            "he": "וַיְצַו אוֹתָם וַיֹּאמֶר אֲלֵהֶם אֲנִי נֶאֱסָף אֶל־עַמִּי קִבְרוּ אֹתִי אֶל־אֲבֹתָי אֶל־הַמְּעָרָה אֲשֶׁר בִּשְׂדֵה עֶפְרוֹן הַחִתִּי",
+            "en": "Then he instructed them, saying to them, “I am about to be gathered to my kin. Bury me with my ancestors in the cave which is in the field of Ephron the Hittite,",
+            "words": {
+              "neesaf": {
+                "he": "אֲנִי נֶאֱסָף אֶל־עַמִּי",
+                "en": "I am about to be gathered to my kin"
+              },
+              "kivru": {
+                "he": "קִבְרוּ אֹתִי אֶל־אֲבֹתָי",
+                "en": "Bury me with my ancestors"
+              }
+            }
+          }
+        },
+        {
+          "id": "jacob-neesaf",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "“Gather around me,” he told them. Now: “I am being gathered to my people.”"
+          },
+          "highlight": [
+            "neesaf"
+          ]
+        },
+        {
+          "id": "jacob-vc-33",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Genesis 49:33",
+            "he": "וַיְכַל יַעֲקֹב לְצַוֺּת אֶת־בָּנָיו וַיֶּאֱסֹף רַגְלָיו אֶל־הַמִּטָּה וַיִּגְוַע וַיֵּאָסֶף אֶל־עַמָּיו",
+            "en": "When Jacob finished his instructions to his sons, he drew his feet into the bed and, breathing his last, he was gathered to his kin.",
+            "words": {
+              "raglav": {
+                "he": "וַיֶּאֱסֹף רַגְלָיו אֶל־הַמִּטָּה",
+                "en": "he drew his feet into the bed"
+              },
+              "vayeasef": {
+                "he": "וַיֵּאָסֶף אֶל־עַמָּיו",
+                "en": "he was gathered to his kin"
+              }
+            }
+          }
+        },
+        {
+          "id": "jacob-gathered",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "He gathers his feet into the bed, and he is gathered to his kin. A family has gathered around one dying man. What holds it together once he is gone?"
+          },
+          "highlight": [
+            "raglav",
+            "vayeasef"
+          ]
+        },
+        {
+          "id": "jacob-vc-joseph",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Genesis 50:24-26",
+            "he": "(כד) וַיֹּאמֶר יוֹסֵף אֶל־אֶחָיו אָנֹכִי מֵת וֵאלֹקִים פָּקֹד יִפְקֹד אֶתְכֶם וְהֶעֱלָה אֶתְכֶם מִן־הָאָרֶץ הַזֹּאת אֶל־הָאָרֶץ אֲשֶׁר נִשְׁבַּע לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב (כה) וַיַּשְׁבַּע יוֹסֵף אֶת־בְּנֵי יִשְׂרָאֵל לֵאמֹר פָּקֹד יִפְקֹד אֱלֹקִים אֶתְכֶם וְהַעֲלִתֶם אֶת־עַצְמֹתַי מִזֶּה (כו) וַיָּמׇת יוֹסֵף בֶּן־מֵאָה וָעֶשֶׂר שָׁנִים וַיַּחַנְטוּ אֹתוֹ וַיִּישֶׂם בָּאָרוֹן בְּמִצְרָיִם",
+            "en": "(24) At length, Joseph said to his brothers, “I am about to die. God will surely take notice of you and bring you up from this land to the land promised on oath to Abraham, to Isaac, and to Jacob.” (25) So Joseph made the sons of Israel swear, saying, “When God has taken notice of you, you shall carry up my bones from here.” (26) Joseph died at the age of one hundred and ten years; and he was embalmed and placed in a coffin in Egypt.",
+            "words": {
+              "vayashba": {
+                "he": "וַיַּשְׁבַּע יוֹסֵף",
+                "en": "Joseph made the sons of Israel swear"
+              },
+              "atzmotai": {
+                "he": "וְהַעֲלִתֶם אֶת־עַצְמֹתַי מִזֶּה",
+                "en": "you shall carry up my bones from here"
+              },
+              "meah": {
+                "he": "בֶּן־מֵאָה וָעֶשֶׂר שָׁנִים",
+                "en": "at the age of one hundred and ten years"
+              }
+            }
+          }
+        },
+        {
+          "id": "jacob-joseph-oath",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The next generation does the same. Joseph, dying in Egypt, makes his brothers swear to carry his bones out when they leave. It’s an oath given at a deathbed, binding people who haven’t gone anywhere yet. Keep an eye on these bones."
+          },
+          "highlight": [
+            "vayashba",
+            "atzmotai"
+          ]
+        },
+        {
+          "id": "jacob-joseph-110",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "And note his age: one hundred and ten. We’ll meet that number again."
+          },
+          "highlight": [
+            "meah"
+          ]
+        },
+        {
+          "id": "jacob-vc-back",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Genesis 49:1",
+            "he": "וַיִּקְרָא יַעֲקֹב אֶל־בָּנָיו וַיֹּאמֶר הֵאָסְפוּ וְאַגִּידָה לָכֶם אֵת אֲשֶׁר־יִקְרָא אֶתְכֶם בְּאַחֲרִית הַיָּמִים",
+            "en": "And Jacob called his sons and said, “Come together that I may tell you what is to befall you in days to come.",
+            "words": {
+              "vayikra": {
+                "he": "וַיִּקְרָא יַעֲקֹב אֶל־בָּנָיו",
+                "en": "Jacob called his sons"
+              },
+              "heasfu": {
+                "he": "הֵאָסְפוּ",
+                "en": "Come together"
+              },
+              "acharit": {
+                "he": "בְּאַחֲרִית הַיָּמִים",
+                "en": "in days to come"
+              }
+            }
+          }
+        },
+        {
+          "id": "jacob-pesachim",
+          "type": "commentary",
+          "source": "Talmud",
+          "ref": "Pesachim 56a:7",
+          "sourceLabel": {
+            "he": "פסחים נו ע״א",
+            "en": "Talmud, Pesachim 56a"
+          },
+          "text": {
+            "he": "דְּאָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: ״וַיִּקְרָא יַעֲקֹב אֶל בָּנָיו וַיֹּאמֶר הֵאָסְפוּ וְאַגִּידָה לָכֶם״. בִּיקֵּשׁ יַעֲקֹב לְגַלּוֹת לְבָנָיו קֵץ הַיָּמִין, וְנִסְתַּלְּקָה מִמֶּנּוּ שְׁכִינָה. אָמַר: שֶׁמָּא חַס וְשָׁלוֹם יֵשׁ בְּמִטָּתִי פְּסוּל, כְּאַבְרָהָם שֶׁיָּצָא מִמֶּנּוּ יִשְׁמָעֵאל, וְאָבִי יִצְחָק שֶׁיָּצָא מִמֶּנּוּ עֵשָׂו? אָמְרוּ לוֹ בָּנָיו: ״שְׁמַע יִשְׂרָאֵל, ה׳ אֱלֹקֵינוּ ה׳ אֶחָד״. אָמְרוּ: כְּשֵׁם שֶׁאֵין בְּלִבְּךָ אֶלָּא אֶחָד, כָּךְ אֵין בְּלִבֵּנוּ אֶלָּא אֶחָד. בְּאוֹתָהּ שָׁעָה פָּתַח יַעֲקֹב אָבִינוּ וְאָמַר: ״בָּרוּךְ שֵׁם כְּבוֹד מַלְכוּתוֹ לְעוֹלָם וָעֶד״.",
+            "en": "As Rabbi Shimon ben Lakish said that it is written: “And Jacob called his sons and said, Gather around and I will tell you what will occur to you in the end of days” (Genesis 49:1). Jacob wanted to reveal to his sons when the complete redemption would arrive at the end of days (see Daniel 12:13), but the Divine Presence abandoned him, rendering him unable to prophesy. He said: Perhaps the Divine Presence has abandoned me because, Heaven forfend, one of my descendants is unfit, as was the case with my grandfather Abraham, from whom Ishmael emerged, and like my father Isaac, from whom Esau emerged. His sons said to him: Hear Israel, our father, the Lord is our God, the Lord is One. They said: Just as there is only one God in your heart, so too, there is only one in our hearts. At that moment Jacob our father said in praise: Blessed be the name of His glorious kingdom for ever and ever, as all his children were righteous."
+          },
+          "highlight": [
+            "heasfu",
+            "acharit"
+          ]
+        },
+        {
+          "id": "jacob-shema",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Jacob fears that one of his sons is unfit, like Ishmael, like Esau. His sons answer with words Jews still say twice a day, and “Israel” is their father. Before there is a Sinai or a nation, twelve brothers opt in."
+          },
+          "highlight": [
+            "vayikra"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-sinai",
+      "title": {
+        "he": "נַעֲשֶׂה וְנִשְׁמָע",
+        "en": "Sinai, Forever?"
+      },
+      "primaryText": {
+        "ref": "Exodus 24:7",
+        "he": "וַיִּקַּח סֵפֶר הַבְּרִית וַיִּקְרָא בְּאׇזְנֵי הָעָם וַיֹּאמְרוּ כֹּל אֲשֶׁר־דִּבֶּר ה' נַעֲשֶׂה וְנִשְׁמָע",
+        "en": "Then he took the record of the covenant and read it aloud to the people. And they said, “All that ה' has spoken we will faithfully do!”",
+        "words": {
+          "vayikra": {
+            "he": "וַיִּקְרָא בְּאׇזְנֵי הָעָם",
+            "en": "read it aloud to the people"
+          },
+          "sefer": {
+            "he": "סֵפֶר הַבְּרִית",
+            "en": "the record of the covenant"
+          },
+          "naaseh": {
+            "he": "נַעֲשֶׂה וְנִשְׁמָע",
+            "en": "we will faithfully do"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "sinai-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Then comes the opt-in everyone remembers. Moses reads the covenant, and the people answer."
+          }
+        },
+        {
+          "id": "sinai-naaseh",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "<i>Na’aseh ve-nishma</i>: “we will do and we will hear.” (The translation here folds the pair into one phrase, “we will faithfully do.”) The whole people says yes."
+          },
+          "highlight": [
+            "naaseh"
+          ]
+        },
+        {
+          "id": "sinai-shape",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Remember the shape of the scene: a leader reads the covenant scroll aloud in the people’s hearing. It will happen again, nearly word for word."
+          },
+          "highlight": [
+            "vayikra",
+            "sefer"
+          ]
+        },
+        {
+          "id": "sinai-q",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "Does one generation’s “we will do” bind every generation after it?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-calf",
+      "title": {
+        "he": "קוּם עֲשֵׂה־לָנוּ אֱלֹקִים",
+        "en": "Not So Fast: The Golden Calf"
+      },
+      "primaryText": {
+        "ref": "Exodus 32:1",
+        "he": "וַיַּרְא הָעָם כִּי־בֹשֵׁשׁ מֹשֶׁה לָרֶדֶת מִן־הָהָר וַיִּקָּהֵל הָעָם עַל־אַהֲרֹן וַיֹּאמְרוּ אֵלָיו קוּם עֲשֵׂה־לָנוּ אֱלֹקִים אֲשֶׁר יֵלְכוּ לְפָנֵינוּ כִּי־זֶה מֹשֶׁה הָאִישׁ אֲשֶׁר הֶעֱלָנוּ מֵאֶרֶץ מִצְרַיִם לֹא יָדַעְנוּ מֶה־הָיָה לוֹ",
+        "en": "When the people saw that Moses was so long in coming down from the mountain, the people gathered against Aaron and said to him, “Come, make us a god who shall go before us, for that fellow Moses—the man who brought us from the land of Egypt—we do not know what has happened to him.”",
+        "words": {
+          "boshesh": {
+            "he": "כִּי־בֹשֵׁשׁ מֹשֶׁה",
+            "en": "Moses was so long in coming down"
+          },
+          "vayikahel": {
+            "he": "וַיִּקָּהֵל הָעָם עַל־אַהֲרֹן",
+            "en": "the people gathered against Aaron"
+          },
+          "aseh": {
+            "he": "קוּם עֲשֵׂה־לָנוּ אֱלֹקִים",
+            "en": "Come, make us a god"
+          },
+          "loyadanu": {
+            "he": "לֹא יָדַעְנוּ מֶה־הָיָה לוֹ",
+            "en": "we do not know what has happened to him"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "calf-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Forty days later, Moses still hasn’t come down the mountain."
+          }
+        },
+        {
+          "id": "calf-wait",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The people see that he is late, and they don’t wait."
+          },
+          "highlight": [
+            "boshesh"
+          ]
+        },
+        {
+          "id": "calf-gather",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The people gather again, this time against Aaron."
+          },
+          "highlight": [
+            "vayikahel"
+          ]
+        },
+        {
+          "id": "calf-aseh",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The people who said <i>na’aseh</i>, “we will do,” now say <i>aseh lanu</i>, “make us.” It’s the same verb, ע־ש־ה, turned toward a different god."
+          },
+          "highlight": [
+            "aseh"
+          ]
+        },
+        {
+          "id": "calf-q",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "If the commitment at Sinai couldn’t survive forty days without Moses, what would it take to renew it?"
+          },
+          "highlight": [
+            "loyadanu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-joshua",
+      "title": {
+        "he": "בַּחֲרוּ לָכֶם הַיּוֹם",
+        "en": "Joshua: 13th Century BCE"
+      },
+      "primaryText": {
+        "ref": "Joshua 24:1",
+        "he": "וַיֶּאֱסֹף יְהוֹשֻׁעַ אֶת־כׇּל־שִׁבְטֵי יִשְׂרָאֵל שְׁכֶמָה וַיִּקְרָא לְזִקְנֵי יִשְׂרָאֵל וּלְרָאשָׁיו וּלְשֹׁפְטָיו וּלְשֹׁטְרָיו וַיִּתְיַצְּבוּ לִפְנֵי הָאֱלֹקִים",
+        "en": "Joshua assembled all the tribes of Israel at Shechem. He summoned Israel’s elders and commanders, magistrates and officers; and they presented themselves before God.",
+        "words": {
+          "vayeesof": {
+            "he": "וַיֶּאֱסֹף יְהוֹשֻׁעַ",
+            "en": "Joshua assembled"
+          },
+          "shechem": {
+            "he": "שְׁכֶמָה",
+            "en": "at Shechem"
+          },
+          "vayityatzvu": {
+            "he": "וַיִּתְיַצְּבוּ לִפְנֵי הָאֱלֹקִים",
+            "en": "they presented themselves before God"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "joshua-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "A generation later the people are in the land, and Joshua is old. He calls them together one more time."
+          }
+        },
+        {
+          "id": "joshua-gather",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The root is back: Joshua <i>gathers</i> the tribes (<i>vaye’esof</i>), as Jacob gathered his sons. And he gathers them at Shechem. Hold onto that."
+          },
+          "highlight": [
+            "vayeesof",
+            "shechem"
+          ]
+        },
+        {
+          "id": "joshua-vc-15",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Joshua 24:15",
+            "he": "וְאִם רַע בְּעֵינֵיכֶם לַעֲבֹד אֶת־ה' בַּחֲרוּ לָכֶם הַיּוֹם אֶת־מִי תַעֲבֹדוּן אִם אֶת־אֱלֹקִים אֲשֶׁר־עָבְדוּ אֲבוֹתֵיכֶם אֲשֶׁר מֵעֵבֶר הַנָּהָר וְאִם אֶת־אֱלֹקֵי הָאֱמֹרִי אֲשֶׁר אַתֶּם יֹשְׁבִים בְּאַרְצָם וְאָנֹכִי וּבֵיתִי נַעֲבֹד אֶת־ה'",
+            "en": "Or, if you are loath to serve God, choose this day which ones you are going to serve—the gods that your ancestors served beyond the Euphrates, or those of the Amorites in whose land you are settled; but I and my household will serve God.”",
+            "words": {
+              "imra": {
+                "he": "וְאִם רַע בְּעֵינֵיכֶם לַעֲבֹד אֶת־ה'",
+                "en": "if you are loath to serve God"
+              },
+              "bacharu": {
+                "he": "בַּחֲרוּ לָכֶם הַיּוֹם",
+                "en": "choose this day"
+              },
+              "anochi": {
+                "he": "וְאָנֹכִי וּבֵיתִי נַעֲבֹד אֶת־ה'",
+                "en": "but I and my household will serve God"
+              }
+            }
+          }
+        },
+        {
+          "id": "joshua-choose",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Here the opt-in becomes explicit. Joshua doesn’t assume the covenant still holds. He offers them a way out."
+          },
+          "highlight": [
+            "imra",
+            "bacharu"
+          ]
+        },
+        {
+          "id": "joshua-anochi",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "And he goes first."
+          },
+          "highlight": [
+            "anochi"
+          ]
+        },
+        {
+          "id": "joshua-vc-22",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Joshua 24:21-22",
+            "he": "(כא) וַיֹּאמֶר הָעָם אֶל־יְהוֹשֻׁעַ לֹא כִּי אֶת־ה' נַעֲבֹד (כב) וַיֹּאמֶר יְהוֹשֻׁעַ אֶל־הָעָם עֵדִים אַתֶּם בָּכֶם כִּי־אַתֶּם בְּחַרְתֶּם לָכֶם אֶת־ה' לַעֲבֹד אוֹתוֹ וַיֹּאמְרוּ עֵדִים",
+            "en": "(21) But the people replied to Joshua, “No, we will serve the Eternal!” (22) Thereupon Joshua said to the people, “You are witnesses against yourselves that you have by your own act chosen to serve the Eternal.” “Yes, we are!” they responded.",
+            "words": {
+              "lo-ki": {
+                "he": "לֹא כִּי אֶת־ה' נַעֲבֹד",
+                "en": "No, we will serve the Eternal!"
+              },
+              "edim": {
+                "he": "עֵדִים אַתֶּם בָּכֶם",
+                "en": "You are witnesses against yourselves"
+              },
+              "bechartem": {
+                "he": "אַתֶּם בְּחַרְתֶּם לָכֶם",
+                "en": "you have by your own act chosen"
+              },
+              "vayomru": {
+                "he": "וַיֹּאמְרוּ עֵדִים",
+                "en": "“Yes, we are!”"
+              }
+            }
+          }
+        },
+        {
+          "id": "joshua-witnesses",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "They answer, and Joshua makes them their own witnesses."
+          },
+          "highlight": [
+            "lo-ki",
+            "edim",
+            "bechartem",
+            "vayomru"
+          ]
+        },
+        {
+          "id": "joshua-rashi",
+          "type": "commentary",
+          "source": "Rashi",
+          "ref": "Rashi on Joshua 24:22:1",
+          "sourceLabel": {
+            "he": "רש״י",
+            "en": "Rashi"
+          },
+          "text": {
+            "he": "עֵדִים אַתֶּם בָּכֶם רָאָה יְהוֹשֻׁעַ שֶׁעֲתִידִין לְעַרְעֵר בִּימֵי יְחֶזְקֵאל וְלוֹמַר (יחזקאל כ לב): נִהְיֶה כַגּוֹיִם, לְפִיכָךְ הִכְבִּיד עֲלֵיהֶם עַכְשָׁיו, וּלְכָךְ הוּשַׁב לָהֶם בִּימֵי יְחֶזְקֵאל (שם פסוקים לב לג): וְהָעֹלָה עַל רוּחֲכֶם הָיֹה לֹא תִהְיֶה וְגוֹמֵר, חַי אֲנִי אִם לֹא בְיַד חֲזָקָה וְגוֹמֵר, כְּבָר קִבַּלְתֶּם עֲלֵיכֶם בִּימֵי יְהוֹשֻׁעַ, וְלֹא תֹּאמְרוּ מַה שֶּׁקִּבַּלְנוּ עָלֵינוּ בִּימֵי משֶׁה כְּדֵי לִיכָּנֵס לָאָרֶץ עָשִׂינוּ, הֲרֵי בִּימֵי יְהוֹשֻׁעַ כְּבָר נִכְנַסְתֶּם וְקִבַּלְתֶּם.",
+            "en": "You are witnesses against yourselves. Yehoshua foresaw that in the future, they would undermine [the covenant] in the days of Yechezkeil and say, “We want to be like the [other] nations,” and therefore he was so hard on them now. Therefore it was said to them in the days of Yechezkeil, “The thought you entertain will never come to pass etc., As I live says Adonoy, God, I will rule over you with a strong hand etc.” You have already accepted upon yourselves [the covenant] in the days of Yehoshua. And you can not say “We only accepted it upon ourselves in the days of Moshe because we wanted [God’s help] to enter the land,” since in the days of Yehoshua you had already entered the land, and [yet] you accepted the covenant."
+          },
+          "highlight": [
+            "edim"
+          ]
+        },
+        {
+          "id": "joshua-loophole",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Rashi’s Joshua is closing a loophole. A promise made in order to reach the land could be disowned after arriving. This one was made after they had arrived."
+          },
+          "highlight": [
+            "bechartem"
+          ]
+        },
+        {
+          "id": "joshua-vc-26",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Joshua 24:26",
+            "he": "וַיִּכְתֹּב יְהוֹשֻׁעַ אֶת־הַדְּבָרִים הָאֵלֶּה בְּסֵפֶר תּוֹרַת אֱלֹקִים וַיִּקַּח אֶבֶן גְּדוֹלָה וַיְקִימֶהָ שָּׁם תַּחַת הָאַלָּה אֲשֶׁר בְּמִקְדַּשׁ ה'",
+            "en": "Joshua recorded all this in a book of divine instruction. He took a great stone and set it up at the foot of the oak in the sacred precinct of God;",
+            "words": {
+              "vayichtov": {
+                "he": "וַיִּכְתֹּב יְהוֹשֻׁעַ אֶת־הַדְּבָרִים הָאֵלֶּה",
+                "en": "Joshua recorded all this"
+              },
+              "even": {
+                "he": "וַיִּקַּח אֶבֶן גְּדוֹלָה",
+                "en": "He took a great stone"
+              }
+            }
+          }
+        },
+        {
+          "id": "joshua-record",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Then he writes it down and sets up a stone. This opt-in gets a record and a witness."
+          },
+          "highlight": [
+            "vayichtov",
+            "even"
+          ]
+        },
+        {
+          "id": "joshua-vc-29",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Joshua 24:29",
+            "he": "וַיְהִי אַחֲרֵי הַדְּבָרִים הָאֵלֶּה וַיָּמׇת יְהוֹשֻׁעַ בִּן־נוּן עֶבֶד ה' בֶּן־מֵאָה וָעֶשֶׂר שָׁנִים",
+            "en": "After these events, Joshua son of Nun, the servant of God, died at the age of one hundred and ten years.",
+            "words": {
+              "meah": {
+                "he": "בֶּן־מֵאָה וָעֶשֶׂר שָׁנִים",
+                "en": "at the age of one hundred and ten years"
+              }
+            }
+          }
+        },
+        {
+          "id": "joshua-110",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Joshua dies at one hundred and ten, exactly Joseph’s age."
+          },
+          "highlight": [
+            "meah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-bones",
+      "title": {
+        "he": "וְאֶת־עַצְמוֹת יוֹסֵף",
+        "en": "Joshua's Connection to It All"
+      },
+      "primaryText": {
+        "ref": "Joshua 24:32",
+        "he": "וְאֶת־עַצְמוֹת יוֹסֵף אֲשֶׁר־הֶעֱלוּ בְנֵי־יִשְׂרָאֵל מִמִּצְרַיִם קָבְרוּ בִשְׁכֶם בְּחֶלְקַת הַשָּׂדֶה אֲשֶׁר קָנָה יַעֲקֹב מֵאֵת בְּנֵי־חֲמוֹר אֲבִי־שְׁכֶם בְּמֵאָה קְשִׂיטָה וַיִּהְיוּ לִבְנֵי־יוֹסֵף לְנַחֲלָה",
+        "en": "The bones of Joseph, which the Israelites had brought up from Egypt, were buried at Shechem, in the piece of ground that Jacob had bought for a hundred <i>kesitah</i>s from the children of Hamor, Shechem’s father, and which had become a heritage of the Josephites.",
+        "words": {
+          "atzmot": {
+            "he": "וְאֶת־עַצְמוֹת יוֹסֵף",
+            "en": "The bones of Joseph"
+          },
+          "heelu": {
+            "he": "אֲשֶׁר־הֶעֱלוּ בְנֵי־יִשְׂרָאֵל מִמִּצְרַיִם",
+            "en": "which the Israelites had brought up from Egypt"
+          },
+          "bishchem": {
+            "he": "קָבְרוּ בִשְׁכֶם",
+            "en": "were buried at Shechem"
+          },
+          "kana": {
+            "he": "אֲשֶׁר קָנָה יַעֲקֹב",
+            "en": "that Jacob had bought"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "bones-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Three verses after Joshua’s death, the book makes room for one more burial."
+          }
+        },
+        {
+          "id": "bones-oath",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The oath Joseph’s brothers swore at his deathbed (“you shall carry up my bones from here”) is kept by their descendants, generations later, through the wilderness, Sinai and the Calf."
+          },
+          "highlight": [
+            "atzmot",
+            "heelu"
+          ]
+        },
+        {
+          "id": "bones-shechem",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Joseph is buried at Shechem, on land Jacob bought: the place where Joshua has just gathered the people to choose. The covenant is renewed beside the grave of one of the sons who, in the Talmud’s story, first said the Shema."
+          },
+          "highlight": [
+            "bishchem",
+            "kana"
+          ]
+        },
+        {
+          "id": "bones-q",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "An oath made at one deathbed is fulfilled beside another. What does that say about who a commitment binds?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-josiah",
+      "title": {
+        "he": "וַיִּקְרָא בְאׇזְנֵיהֶם",
+        "en": "Josiah: 7th Century BCE"
+      },
+      "primaryText": {
+        "ref": "II Kings 23:1",
+        "he": "וַיִּשְׁלַח הַמֶּלֶךְ וַיַּאַסְפוּ אֵלָיו כׇּל־זִקְנֵי יְהוּדָה וִירוּשָׁלִָם",
+        "en": "At the king’s summons, all the elders of Judah and Jerusalem assembled before him.",
+        "words": {
+          "vayishlach": {
+            "he": "וַיִּשְׁלַח הַמֶּלֶךְ",
+            "en": "At the king’s summons"
+          },
+          "vayaasfu": {
+            "he": "וַיַּאַסְפוּ אֵלָיו",
+            "en": "assembled before him"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "josiah-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Centuries later, in Jerusalem, a scroll is found in the Temple. King Josiah calls an assembly."
+          }
+        },
+        {
+          "id": "josiah-gather",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The king summons, and again they <i>gather</i>: <i>vaya’asfu</i>."
+          },
+          "highlight": [
+            "vayishlach",
+            "vayaasfu"
+          ]
+        },
+        {
+          "id": "josiah-vc-compare",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Exodus 24:7 · II Kings 23:2",
+            "mode": "comparison",
+            "left": {
+              "ref": "Exodus 24:7",
+              "he": "וַיִּקַּח סֵפֶר הַבְּרִית וַיִּקְרָא בְּאׇזְנֵי הָעָם וַיֹּאמְרוּ כֹּל אֲשֶׁר־דִּבֶּר ה' נַעֲשֶׂה וְנִשְׁמָע",
+              "en": "Then he took the record of the covenant and read it aloud to the people. And they said, “All that ה' has spoken we will faithfully do!”"
+            },
+            "right": {
+              "ref": "II Kings 23:2",
+              "he": "וַיַּעַל הַמֶּלֶךְ בֵּית־ה' וְכׇל־אִישׁ יְהוּדָה וְכׇל־יֹשְׁבֵי יְרוּשָׁלִַם אִתּוֹ וְהַכֹּהֲנִים וְהַנְּבִיאִים וְכׇל־הָעָם לְמִקָּטֹן וְעַד־גָּדוֹל וַיִּקְרָא בְאׇזְנֵיהֶם אֶת־כׇּל־דִּבְרֵי סֵפֶר הַבְּרִית הַנִּמְצָא בְּבֵית ה'",
+              "en": "The king went up to the House of God, together with the entire citizenry of Judah and all the inhabitants of Jerusalem, and the priests and prophets—all the people, young and old. And he read to them the entire text of the covenant scroll that had been found in the House of God."
+            },
+            "words": {
+              "vayikra-l": {
+                "he": "וַיִּקְרָא בְּאׇזְנֵי הָעָם",
+                "en": "read it aloud to the people",
+                "side": "left"
+              },
+              "sefer-l": {
+                "he": "סֵפֶר הַבְּרִית",
+                "en": "the record of the covenant",
+                "side": "left"
+              },
+              "vayikra-r": {
+                "he": "וַיִּקְרָא בְאׇזְנֵיהֶם",
+                "en": "he read to them",
+                "side": "right"
+              },
+              "sefer-r": {
+                "he": "סֵפֶר הַבְּרִית",
+                "en": "the covenant scroll",
+                "side": "right"
+              },
+              "kol-haam": {
+                "he": "וְכׇל־הָעָם לְמִקָּטֹן וְעַד־גָּדוֹל",
+                "en": "all the people, young and old",
+                "side": "right"
+              }
+            }
+          }
+        },
+        {
+          "id": "josiah-reads",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Set Sinai beside Josiah and the scene repeats: a leader reads the covenant scroll in the people’s hearing."
+          },
+          "highlight": [
+            "vayikra-l",
+            "vayikra-r"
+          ]
+        },
+        {
+          "id": "josiah-sefer",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "It’s even the same scroll by name: <i>sefer ha-brit</i>. This time the listeners are spelled out: all the people, young and old."
+          },
+          "highlight": [
+            "sefer-l",
+            "sefer-r",
+            "kol-haam"
+          ]
+        },
+        {
+          "id": "josiah-vc-3",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "II Kings 23:3",
+            "he": "וַיַּעֲמֹד הַמֶּלֶךְ עַל־הָעַמּוּד וַיִּכְרֹת אֶת־הַבְּרִית לִפְנֵי ה' לָלֶכֶת אַחַר ה' וְלִשְׁמֹר מִצְוֺתָיו וְאֶת־עֵדְוֺתָיו וְאֶת־חֻקֹּתָיו בְּכׇל־לֵב וּבְכׇל־נֶפֶשׁ לְהָקִים אֶת־דִּבְרֵי הַבְּרִית הַזֹּאת הַכְּתֻבִים עַל־הַסֵּפֶר הַזֶּה וַיַּעֲמֹד כׇּל־הָעָם בַּבְּרִית",
+            "en": "The king stood by the pillar and solemnized the covenant before God: that they would follow God and observe God’s commandments, injunctions, and laws with all their heart and soul; that they would fulfill all the terms of this covenant as inscribed upon the scroll. And all the people entered into the covenant.",
+            "words": {
+              "vayichrot": {
+                "he": "וַיִּכְרֹת אֶת־הַבְּרִית לִפְנֵי ה'",
+                "en": "solemnized the covenant before God"
+              },
+              "bechol": {
+                "he": "בְּכׇל־לֵב וּבְכׇל־נֶפֶשׁ",
+                "en": "with all their heart and soul"
+              },
+              "vayaamod": {
+                "he": "וַיַּעֲמֹד כׇּל־הָעָם בַּבְּרִית",
+                "en": "And all the people entered into the covenant"
+              }
+            }
+          }
+        },
+        {
+          "id": "josiah-heart",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "“With all heart and all soul” is the language of the verse that follows the Shema."
+          },
+          "highlight": [
+            "bechol"
+          ]
+        },
+        {
+          "id": "josiah-stood",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "And all the people <i>stood</i> into the covenant. Another generation opts in."
+          },
+          "highlight": [
+            "vayaamod"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-heresy",
+      "title": {
+        "he": "אֵלֶּה הַחֻקִּים וְהַמִּשְׁפָּטִים",
+        "en": "Some Light Heresy"
+      },
+      "primaryText": {
+        "ref": "Deuteronomy 12:1",
+        "he": "אֵלֶּה הַחֻקִּים וְהַמִּשְׁפָּטִים אֲשֶׁר תִּשְׁמְרוּן לַעֲשׂוֹת בָּאָרֶץ אֲשֶׁר נָתַן ה' אֱלֹקֵי אֲבֹתֶיךָ לְךָ לְרִשְׁתָּהּ כׇּל־הַיָּמִים אֲשֶׁר־אַתֶּם חַיִּים עַל־הָאֲדָמָה",
+        "en": "These are the laws and rules that you must carefully observe in the land that God, God of your ancestors, is giving you to possess, as long as you live on earth.",
+        "words": {
+          "elleh": {
+            "he": "אֵלֶּה הַחֻקִּים וְהַמִּשְׁפָּטִים",
+            "en": "These are the laws and rules"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "heresy-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "What was the scroll Josiah’s people found?"
+          }
+        },
+        {
+          "id": "heresy-dewette",
+          "type": "commentary",
+          "source": "Sheet",
+          "sourceLabel": {
+            "en": "From the original sheet"
+          },
+          "text": {
+            "he": "",
+            "en": "W. M. L. de Wette, an early 19th-century Biblical scholar, posited that the text that was “found” by Josiah’s court was indeed <b>Deuteronomy/Devarim</b>. The thesis is that the laws that appear in chapters 12–26 were written at the time of Josiah to move forward their religious/political beliefs. This is debated by scholars today, but many do put the authorship of Deuteronomy at the 7th century BCE. The chapters in question open with this verse."
+          },
+          "highlight": [
+            "elleh"
+          ]
+        },
+        {
+          "id": "heresy-q",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "If the scroll was new, does that change what Josiah’s ceremony was? Does a renewal have to be a repetition?"
+          },
+          "highlight": [
+            "elleh"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-ezra",
+      "title": {
+        "he": "נִכְרׇת־בְּרִית לֵאלֹקֵינוּ",
+        "en": "Ezra and Nehemiah"
+      },
+      "primaryText": {
+        "ref": "Ezra 10:1",
+        "he": "וּכְהִתְפַּלֵּל עֶזְרָא וּכְהִתְוַדֹּתוֹ בֹּכֶה וּמִתְנַפֵּל לִפְנֵי בֵּית הָאֱלֹקִים נִקְבְּצוּ אֵלָיו מִיִּשְׂרָאֵל קָהָל רַב־מְאֹד אֲנָשִׁים וְנָשִׁים וִילָדִים כִּי־בָכוּ הָעָם הַרְבֵּה־בֶכֶה",
+        "en": "While Ezra was praying and making confession, weeping and prostrating himself before the House of God, a very great crowd of Israelites gathered about him, men, women, and children; the people were weeping bitterly.",
+        "words": {
+          "nikbetzu": {
+            "he": "נִקְבְּצוּ אֵלָיו מִיִּשְׂרָאֵל קָהָל רַב־מְאֹד",
+            "en": "a very great crowd of Israelites gathered about him"
+          },
+          "anashim": {
+            "he": "אֲנָשִׁים וְנָשִׁים וִילָדִים",
+            "en": "men, women, and children"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "ezra-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "After the exile, back from Babylon, the community gathers around Ezra, weeping."
+          }
+        },
+        {
+          "id": "ezra-crowd",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Another gathering, and this one names who is in the crowd: men, women and children."
+          },
+          "highlight": [
+            "nikbetzu",
+            "anashim"
+          ]
+        },
+        {
+          "id": "ezra-vc-3",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Ezra 10:3",
+            "he": "וְעַתָּה נִכְרׇת־בְּרִית לֵאלֹקֵינוּ לְהוֹצִיא כׇל־נָשִׁים וְהַנּוֹלָד מֵהֶם בַּעֲצַת ה' וְהַחֲרֵדִים בְּמִצְוַת אֱלֹקֵינוּ וְכַתּוֹרָה יֵעָשֶׂה",
+            "en": "Now then, let us make a covenant with our God to expel all these women and those who have been born to them, in accordance with the bidding of the Lord and of all who are concerned over the commandment of our God, and let the Teaching be obeyed.",
+            "words": {
+              "nichrot": {
+                "he": "וְעַתָּה נִכְרׇת־בְּרִית לֵאלֹקֵינוּ",
+                "en": "Now then, let us make a covenant with our God"
+              },
+              "lehotzi": {
+                "he": "לְהוֹצִיא כׇל־נָשִׁים וְהַנּוֹלָד מֵהֶם",
+                "en": "to expel all these women and those who have been born to them"
+              },
+              "katorah": {
+                "he": "וְכַתּוֹרָה יֵעָשֶׂה",
+                "en": "let the Teaching be obeyed"
+              }
+            }
+          }
+        },
+        {
+          "id": "ezra-covenant",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Shecaniah proposes a new covenant, and its first term is a hard one: the foreign wives and their children are to be sent away."
+          },
+          "highlight": [
+            "nichrot",
+            "lehotzi"
+          ]
+        },
+        {
+          "id": "ezra-q",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "Every opt-in so far has been about what the people will do. This one is also about who will be among them. Why might a renewal take this form?"
+          },
+          "highlight": [
+            "lehotzi"
+          ]
+        },
+        {
+          "id": "ezra-vc-neh",
+          "type": "verse-change",
+          "newVerse": {
+            "ref": "Nehemiah 10:30",
+            "he": "מַחֲזִיקִים עַל־אֲחֵיהֶם אַדִּירֵיהֶם וּבָאִים בְּאָלָה וּבִשְׁבוּעָה לָלֶכֶת בְּתוֹרַת הָאֱלֹקִים אֲשֶׁר נִתְּנָה בְּיַד מֹשֶׁה עֶבֶד־הָאֱלֹקִים וְלִשְׁמוֹר וְלַעֲשׂוֹת אֶת־כׇּל־מִצְוֺת ה' אֲדֹנֵינוּ וּמִשְׁפָּטָיו וְחֻקָּיו",
+            "en": "join with their noble brothers, and take an oath with sanctions to follow the Teaching of God, given through Moses the servant of God, and to observe carefully all the commandments of the Lord our Lord, His rules and laws.",
+            "words": {
+              "baim": {
+                "he": "וּבָאִים בְּאָלָה וּבִשְׁבוּעָה",
+                "en": "take an oath with sanctions"
+              },
+              "lalechet": {
+                "he": "לָלֶכֶת בְּתוֹרַת הָאֱלֹקִים",
+                "en": "to follow the Teaching of God"
+              }
+            }
+          }
+        },
+        {
+          "id": "ezra-neh",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Under Nehemiah the whole community takes an oath. The verse before lists who signs on: priests, Levites, gatekeepers, singers and temple servants, “and all who separated themselves from the peoples of the lands to [follow] the Teaching of God, their wives, sons and daughters, all who know enough to understand.”"
+          },
+          "highlight": [
+            "baim",
+            "lalechet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-esther",
+      "title": {
+        "he": "קִיְּמוּ וְקִבְּלוּ",
+        "en": "Esther & Our Persian Siblings: 5th Century BCE"
+      },
+      "primaryText": {
+        "ref": "Esther 9:27",
+        "he": "קִיְּמוּ וְקִבְּלוּ הַיְּהוּדִים עֲלֵיהֶם וְעַל־זַרְעָם וְעַל כׇּל־הַנִּלְוִים עֲלֵיהֶם וְלֹא יַעֲבוֹר לִהְיוֹת עֹשִׂים אֵת שְׁנֵי הַיָּמִים הָאֵלֶּה כִּכְתָבָם וְכִזְמַנָּם בְּכׇל־שָׁנָה וְשָׁנָה",
+        "en": "the Jews undertook and irrevocably obligated themselves and their descendants, and all who might join them, to observe these two days in the manner prescribed and at the proper time each year.",
+        "words": {
+          "kiymu": {
+            "he": "קִיְּמוּ וְקִבְּלוּ הַיְּהוּדִים",
+            "en": "the Jews undertook and irrevocably obligated themselves"
+          },
+          "zaram": {
+            "he": "וְעַל־זַרְעָם",
+            "en": "and their descendants"
+          },
+          "nilvim": {
+            "he": "וְעַל כׇּל־הַנִּלְוִים עֲלֵיהֶם",
+            "en": "and all who might join them"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "esther-intro",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "In Persia, after the danger has passed, the Jews take Purim upon themselves."
+          }
+        },
+        {
+          "id": "esther-who",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "They take it on for their children too, like Joseph’s oath, and for anyone who joins them."
+          },
+          "highlight": [
+            "zaram",
+            "nilvim"
+          ]
+        },
+        {
+          "id": "esther-shabbat",
+          "type": "commentary",
+          "source": "Talmud",
+          "ref": "Shabbat 88a:5",
+          "sourceLabel": {
+            "he": "שבת פח ע״א",
+            "en": "Talmud, Shabbat 88a"
+          },
+          "text": {
+            "he": "״וַיִּתְיַצְּבוּ בְּתַחְתִּית הָהָר״, אָמַר רַב אַבְדִּימִי בַּר חָמָא בַּר חַסָּא: מְלַמֵּד שֶׁכָּפָה הַקָּדוֹשׁ בָּרוּךְ הוּא עֲלֵיהֶם אֶת הָהָר כְּגִיגִית, וְאָמַר לָהֶם: אִם אַתֶּם מְקַבְּלִים הַתּוֹרָה מוּטָב, וְאִם לָאו — שָׁם תְּהֵא קְבוּרַתְכֶם. אָמַר רַב אַחָא בַּר יַעֲקֹב: מִכָּאן מוֹדָעָא רַבָּה לְאוֹרָיְיתָא. אָמַר רָבָא: אַף עַל פִּי כֵן הֲדוּר קַבְּלוּהָ בִּימֵי אֲחַשְׁוֵרוֹשׁ, דִּכְתִיב: ״קִיְּמוּ וְקִבְּלוּ הַיְּהוּדִים״ — קִיְּימוּ מַה שֶּׁקִּיבְּלוּ כְּבָר.",
+            "en": "Rabbi Avdimi bar Ḥama bar Ḥasa said: the Jewish people actually stood beneath the mountain, and the verse teaches that the Holy One, Blessed be He, overturned the mountain above the Jews like a tub, and said to them: If you accept the Torah, excellent, and if not, there will be your burial. Rav Aḥa bar Ya’akov said: From here there is a substantial caveat to the obligation to fulfill the Torah. The Jewish people can claim that they were coerced into accepting the Torah, and it is therefore not binding. Rava said: Even so, they again accepted it willingly in the time of Ahasuerus, as it is written: “The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them” (Esther 9:27), and he taught: The Jews ordained what they had already taken upon themselves through coercion at Sinai."
+          },
+          "highlight": [
+            "kiymu"
+          ]
+        },
+        {
+          "id": "esther-rava",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Rava reads the doubled verb as two acts. They <i>upheld</i> (<i>kiymu</i>) what they had already <i>accepted</i> (<i>kiblu</i>). At Sinai, under the mountain, the acceptance was forced. In Persia, with no mountain overhead, it was chosen."
+          },
+          "highlight": [
+            "kiymu"
+          ]
+        },
+        {
+          "id": "esther-stood",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The Talmud reads “they stationed themselves” (<i>va-yityatzvu</i>) at the foot of the mountain as standing <i>under</i> it. Joshua’s assembly at Shechem used the same verb, and there was no mountain there."
+          }
+        },
+        {
+          "id": "esther-q",
+          "type": "question",
+          "text": {
+            "he": "",
+            "en": "If Sinai needed Purim to make it binding, what makes it binding for us?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "section-shema",
+      "title": {
+        "he": "שְׁמַע יִשְׂרָאֵל",
+        "en": "So We Opt In…"
+      },
+      "primaryText": {
+        "ref": "Siddur Ashkenaz, Weekday, Shacharit, Blessings of the Shema, Shema 3",
+        "he": "שְׁמַע יִשְׂרָאֵל ה' אֱלֹקֵינוּ ה' אֶחָד",
+        "en": "Hear, Israel: Adonoy is our God, Adonoy is One.",
+        "words": {
+          "shema": {
+            "he": "שְׁמַע יִשְׂרָאֵל",
+            "en": "Hear, Israel"
+          },
+          "echad": {
+            "he": "ה' אֶחָד",
+            "en": "Adonoy is One"
+          }
+        }
+      },
+      "steps": [
+        {
+          "id": "shema-frankl",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Viktor Frankl, who survived the camps, wrote in <i>Man’s Search for Meaning</i> that one thing can’t be taken from a person: “the last of the human freedoms”, to choose one’s own way, whatever the circumstances."
+          }
+        },
+        {
+          "id": "shema-back",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "The sheet ends where it began. In the Talmud’s story these were the words Jacob’s sons said to their dying father, and “Israel” was Jacob."
+          },
+          "highlight": [
+            "shema"
+          ]
+        },
+        {
+          "id": "shema-again",
+          "type": "narration",
+          "text": {
+            "he": "",
+            "en": "Every morning and every evening, Jews say them again. Not once at Sinai, but over and over and over."
+          },
+          "highlight": [
+            "shema",
+            "echad"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -24,7 +24,7 @@ python3 -m http.server 8080
 
 The default page (`/`) shows an index of available sheets. Load a specific sheet: `http://localhost:8080/?sheet=other-sheet-name`
 
-When adding a new sheet, also add an entry to `data/index.json`.
+When adding a new sheet, also add an entry to `data/index.json`, with a homepage `category` and a `shows` line saying what it demonstrates that the others don't (see [Conversion Guide](docs/conversion-guide.md#testing)). Retire a sheet from the homepage with `"listed": false`; it stays loadable and tested. The homepage hero video is recorded from the live Bereshit reading by `python3 scripts/record_hero.py` (needs ffmpeg); re-run it when Bereshit or the engine changes.
 
 ## Tests
 

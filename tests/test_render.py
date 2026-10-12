@@ -26,7 +26,7 @@ import json
 import pytest
 
 from sheetmodel import (
-    build_tree, card_expectations, group_sections, leaf_paths, load_sheet,
+    build_tree, card_expectations, group_sections, leaf_paths, load_index, load_sheet,
     sheet_slugs, verses_of_group, visible_set,
 )
 
@@ -516,8 +516,23 @@ def test_invalid_path_falls_back_to_root(page, base_url, slug):
 
 
 def test_index_page_lists_every_sheet(page, base_url):
+    """The homepage links every listed sheet once, and no retired ("listed": false) one."""
     page.goto(base_url + "/index.html")
-    page.wait_for_selector(".index-card")
+    page.wait_for_selector(".home-card .index-card")
     hrefs = page.locator(".index-card").evaluate_all("els => els.map(e => new URL(e.href).searchParams.get('sheet'))")
-    missing = [s for s in sheet_slugs() if s not in hrefs]
-    report(([f"index page missing {missing}"] if missing else []) + page.problems, "index page")
+    index = load_index()
+    listed = [e["slug"] for e in index if e.get("listed", True)]
+    retired = [e["slug"] for e in index if not e.get("listed", True)]
+    problems = []
+    missing = [s for s in listed if s not in hrefs]
+    if missing:
+        problems.append(f"index page missing {missing}")
+    shown = [s for s in retired if s in hrefs]
+    if shown:
+        problems.append(f"index page shows retired {shown}")
+    uncategorized = [e["slug"] for e in index if e.get("listed", True) and not e.get("category")]
+    if uncategorized:
+        problems.append(f"listed sheets with no category: {uncategorized}")
+    if page.evaluate("document.documentElement.scrollWidth > innerWidth"):
+        problems.append("index page scrolls horizontally")
+    report(problems + page.problems, "index page")
